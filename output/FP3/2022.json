@@ -1,0 +1,1835 @@
+[
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41805",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163474",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 425946,
+                  "datasetid": "document",
+                  "hash": "a0e479e5bd01b60b439de9b51bec8634",
+                  "filename": "jurnal bioflux.pdf",
+                  "mtime": "2022-05-25 02:23:35",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 461750,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/461750",
+                  "objectid": 163474
+                }
+            ],
+            "main": "jurnal bioflux.pdf",
+            "docid": 163474,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41805
+          }
+      ],
+      "publisher": "Bioflux",
+      "datestamp": "2022-05-25 03:34:01",
+      "pagerange": "988-1002",
+      "userid": 333,
+      "lastmod": "2022-05-25 03:34:01",
+      "date": "2022-04",
+      "dir": "disk0\/00\/04\/18\/05",
+      "publication": "AACL Bioflux",
+      "creators": [
+        {
+          "name": {
+            "given": "Siti",
+            "honourific": null,
+            "family": "Hudaidah",
+            "lineage": null
+          },
+          "id": "siti.hudaidah@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Supono",
+            "family": "Supono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "supono_unila@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Berta",
+            "lineage": null,
+            "family": "Putri",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "larasati",
+            "given": "ellen"
+          }
+        }
+      ],
+      "issn": "1844-9166",
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "volume": 15,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "First report of Spirulina sp. performance in wastewater of Cromileptes altivelis aquaculture in Indonesia",
+      "official_url": "http:\/\/www.bioflux.com.ro\/docs\/2022.988-1002.pdf",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Indonesia is one of the countries with the most significant grouper production in the world. One of the groupers that are widely cultured in Indonesia is the humpback grouper (Cromileptes altivelis). Unfortunately, humpback grouper aquaculture activities cause waste. The waste can produce hydrogen sulfide, orthophosphate, and ammonia, which is toxic to aquatic animals. One way to treat the waste is by using Spirulina sp., which is utilizing organic material from humpback grouper waste to support its growth. The purpose of this study was to identify its performance in reducing water quality parameters to tolerance level. It was also to examine the growth of Spirulina sp. on laboratory-scale culture in the humpback grouper nursery media with a varying degree of waste. The study design used was a Completely Randomized Design (CRD) with four treatments and three replications, A (100%), B (75%), C (50%), and D (25%) humpback grouper nursery waste as culture media. The parameters calculated include population density, nitrate, orthophosphate, pH, temperature, salinity, and light intensity. The results showed that Spirulina sp. could reduce nitrate and phosphorus in water up to 89.78% and 84.34% of the waste. Spirulina sp. could maintain all water quality to be following the standards for fish farming again. The utilization of humpback grouper nursery waste at a concentration of 25% has a significant effect on the population growth of Spirulina sp. on laboratory scale culture. Key Words: aquaculture, grouper, phytoplankton, waste.",
+      "eprint_status": "archive",
+      "status_changed": "2022-05-25 03:34:01",
+      "date_type": "published",
+      "eprintid": 41805
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37613",
+      "publisher": "International Research Centre for the Management of Degraded and Mining Lands (IRC-MEDMIND)",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 37613,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158542",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 1262981,
+                  "datasetid": "document",
+                  "mtime": "2022-01-05 01:13:43",
+                  "hash_type": "MD5",
+                  "hash": "c35c65fdb3d8e7c303c02a1360e18833",
+                  "filename": "1028-2856-1-PB.pdf",
+                  "fileid": 429264,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429264",
+                  "objectid": 158542
+                }
+            ],
+            "main": "1028-2856-1-PB.pdf",
+            "docid": 158542
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "pagerange": "3237-3245",
+      "datestamp": "2022-01-05 01:55:10",
+      "lastmod": "2022-01-05 01:55:10",
+      "userid": 1193,
+      "id_number": "https:\/\/doi.org\/10.15243\/jdmlm.2022.092.3237",
+      "dir": "disk0\/00\/03\/76\/13",
+      "date": "2022-01",
+      "issn": "2339-076X (p); 2502-2458 (e),",
+      "creators": [
+        {
+          "id": "henni.wijayanti@fp.unila.ac.id",
+          "name": {
+            "family": "Maharani,",
+            "honourific": null,
+            "lineage": null,
+            "given": "Henni Wijayanti"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Qadar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Aimma",
+            "honourific": null,
+            "given": "Muhammad Ariful"
+          }
+        },
+        {
+          "name": {
+            "given": "Deny Sapto Chondro",
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "deny.utomo@fp.unila.ac.id"
+        },
+        {
+          "id": "limin.sentiko@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Santoso",
+            "honourific": null,
+            "given": "Limin"
+          }
+        },
+        {
+          "id": "nidya.kartini@fp.unila.ac.id",
+          "name": {
+            "given": "Nidya",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kartini"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kausar",
+            "honourific": null,
+            "given": "Radho Al"
+          },
+          "id": null
+        }
+      ],
+      "publication": "JOURNAL OF DEGRADED AND MINING LANDS MANAGEMENT",
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "volume": 9,
+      "title": "Growth performance of Tilapia (Oreochromis niloticus) cultivated in water from ex-sand pit lakes by phytoremediation treatments",
+      "official_url": "https:\/\/www.jdmlm.ub.ac.id\/index.php\/jdmlm\/index",
+      "abstract": "Utilization of ex-sand pit lakes for aquaculture is difficult due to low water quality and high concentrations of iron (Fe). Phytoremediation using aquatic plants has been proven to be effective in reducing Fe in waters. This study aims to determine the growth, feed conversion efficiency and survival rate of tilapia (Oreochromis niloticus) cultured with ex-sand mining water media with phytoremediation treatment. Phytoremediation treatment was carried out by Eichhornnia crassipes, Azolla pinnata, and Salvinia molesta. Fish culture experiments were carried out in plastic tarpaulin tanks for 40 days, with ad satiation feeding, three times a day using the commercial feed. The results showed that phytoremediation with aquatic plants had succeeded in reducing Fe to a level suitable for fish culture. Fish culture experiments showed an absolute length growth rate of 0.09-0.18 cm\/day and an absolute weight growth rate of 0.11-0.16 g\/day. The feed conversion ratio was 1.18-1.40 and the survival rate was 98.04-99.08%. The survival rate of tilapia is high, the feed conversion ratio is medium and growth is low. The high environmental temperature and the decrease in water quality due to the absence of water changes and aeration are suspected of causing the low growth of fish. Therefore, further research with water change and aeration experiments and the use of other species of fish is needed to follow up the results of this study.",
+      "subjects": [
+        "SH"
+      ],
+      "status_changed": "2022-01-05 01:55:10",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 37613
+    },
+    {
+      "date_type": "published",
+      "eprintid": 42904,
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "African catfish (Clarias gariepinus) is a commodity admired by both farmers and consumers. However, one obstacle in nursery process, namely the high mortality of fry due to cannibalism, especially in mass scale nursery system. One alternative that can be done to reduce the potential for cannibalism is through a hormonal approach, namely the application of estradiol-17? hormone. This study aimed to evaluate the effect of estradiol-17? hormone within batch spawning groups on level of cannibalism of african catfish fry. This study used a non factorial randomized block design with three levels of estradiol-17? hormone doses treatment, i.e., estradiol-17? hormone on feed of 0 mg\/kg feed, estradiol-17? hormone of 30 mg\/kg feed, estradiol-17? hormone of 60 mg\/kg feed, on three batch spawning groups. African catfish seeds were reared in concrete tanks with density of 1,194 fish\/m2 within two weeks. The results showed that dose of estradiol-17? hormone treat-ment was not able to reduce cannibalism, but in third batch spawning group sup-ported absolute weight of 0.32 g (P<0.05), and in second batch spawning group were reduced cannibalism potential parameter by 0.61%, and a survival rate of 70.04%.",
+      "status_changed": "2022-07-04 09:09:05",
+      "eprint_status": "archive",
+      "volume": 10,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "APLIKASI HORMON ESTRADIOL UNTUK PENGENDALIAN KANIBALISME PADA BENIH LELE SANGKURIANG (Clarias gariepinus) PADA BUDI DAYA SKALA MASSAL",
+      "official_url": "https:\/\/ejournal.unsri.ac.id\/index.php\/jari\/article\/view\/17310",
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "date": "2022-06",
+      "dir": "disk0\/00\/04\/29\/04",
+      "id_number": "https:\/\/doi.org\/10.36706\/jari.v10i1.17310",
+      "publication": "Jurnal Akuakultur Rawa Indonesia,",
+      "creators": [
+        {
+          "name": {
+            "given": "Nur Amaliah",
+            "honourific": null,
+            "family": "Putri",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Deny Sapto Chondro",
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "deny.utomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahayuni",
+            "given": "Evi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Setiowibowo",
+            "honourific": null,
+            "given": "Catur"
+          }
+        }
+      ],
+      "issn": "ISSN : 2303-2960",
+      "pagerange": "14-24",
+      "datestamp": "2022-07-04 09:09:05",
+      "lastmod": "2022-07-04 09:09:05",
+      "userid": 1193,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42904",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Universitas Sriwijaya",
+      "documents": [
+          {
+            "eprintid": 42904,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "17310-49115-1-PB.pdf",
+            "docid": 164691,
+            "files": [
+                {
+                  "filesize": 572528,
+                  "datasetid": "document",
+                  "filename": "17310-49115-1-PB.pdf",
+                  "hash": "ea51f87f482df03ce8f9ffc647f35ef4",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-04 08:23:18",
+                  "mime_type": "application\/pdf",
+                  "fileid": 469848,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/469848",
+                  "objectid": 164691
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164691"
+          }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/03\/79\/75",
+      "date": "2022-02-08",
+      "publication": "Journal Of Aquaculture and Fish Health (JAFH)",
+      "creators": [
+        {
+          "id": "m.browijoyo@gmail.com",
+          "name": {
+            "given": "Browijoyo",
+            "family": "Santanumurti",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Santrika",
+            "family": "Khanza",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Zaenal",
+            "lineage": null,
+            "family": "Abidin",
+            "honourific": null
+          }
+        },
+        {
+          "id": "berta.putri@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Berta",
+            "given": "Putri"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hudaidah",
+            "honourific": null,
+            "given": "Siti"
+          },
+          "id": "siti.hudaidah@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2301-7309",
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37975",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Airlangga University",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 37975,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158914",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 158914,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/431889",
+                  "fileid": 431889,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-18 03:45:00",
+                  "filename": "21345-129186-1-PB.pdf",
+                  "hash": "8c95769d1492f2cd9330522df7b71adb",
+                  "datasetid": "document",
+                  "filesize": 317845
+                }
+            ],
+            "docid": 158914,
+            "main": "21345-129186-1-PB.pdf"
+          }
+      ],
+      "pagerange": "1-9",
+      "datestamp": "2022-01-18 07:21:11",
+      "userid": 614,
+      "lastmod": "2022-01-18 07:21:11",
+      "date_type": "published",
+      "eprintid": 37975,
+      "rev_number": 7,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.e-journal.unair.ac.id\/JAFH\/article\/view\/21345",
+      "title": "THE PERFORMANCE OF MICROALGAE (NANNOCHLOROPSIS SP., TETRASELMIS SP. AND DUNALIELLA SP.) ON WHITE SHRIMP (LITOPENAEUS VANNAMEI) WASTEWATER CULTIVATION MEDIA",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "ABSTRACT\r\n\r\nMicroalgae have an important role in supporting the development of aquaculture because it can be used as natural feed. However, its culture requires an expensive cost because of the nutrient media. To reduce the cost, the media can be replaced by using wastewater from white shrimp (Litopenaeus vannamei) culture. This research was aimed to find out the performance of microalgae (Nannochloropsis sp., Tetraselmis sp. and Dunaliella sp.) cultured on white shrimp wastewater. The performance was measured by the growth, density, and ability to reduce nitrate and phosphate. The experimental design used in this study was a Completely Randomized Design with three treatments and three replications. The treatments were A (Nannochloropsis sp. cultured in white shrimp wastewater), B (Tetraselmis sp. cultured in white shrimp wastewater), and C (Dunaliella sp. cultured in white shrimp wastewater). The density population of Nannochloropsis sp., Tetraselmis sp. and Dunaliella sp. were tested by ANOVA. ANOVA was used to assess the density population of Nannochloropsis sp., Tetraselmis sp., and Dunaliella sp., which was then followed by Duncan's test. The results showed that wastewater from white shrimp aquaculture could be used as a medium culture for Nannochloropsis sp., Tetraselmis sp. and Dunaliella sp. It also maintain good water parameter quality in media. Nannochloropsis sp. was the microalgae that produced the highest density of  34.5 x 104 ind\/mL when cultured on waste water from white shrimp culture. Nannochloropsis sp. may also reduce nitrate and phosphate content by up to 76 and 61.37 percent, respectively.",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-18 07:21:11"
+    },
+    {
+      "corp_creators": [
+        "Budidaya Perairan, Unila",
+        "Budidaya Perairan, Unila",
+        "Budidaya Perairan, Unila"
+      ],
+      "lastmod": "2023-01-05 07:46:43",
+      "userid": 64,
+      "pagerange": "79-85",
+      "datestamp": "2023-01-05 07:46:43",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 47613,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 186686,
+            "main": "26. Semnaskan UGM 2022.pdf",
+            "files": [
+                {
+                  "objectid": 186686,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521770",
+                  "fileid": 521770,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-05 04:52:39",
+                  "filename": "26. Semnaskan UGM 2022.pdf",
+                  "hash": "75d874c178087aca6839fb9c78aa265e",
+                  "datasetid": "document",
+                  "filesize": 1183788
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186686"
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47613",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "divisions": [
+        "FP3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Setyawan",
+            "lineage": null,
+            "given": "Agus"
+          },
+          "id": "agus.setyawan@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yeni",
+            "lineage": null,
+            "family": "Elisdiana",
+            "honourific": null
+          },
+          "id": "yeni.elisdiana@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "khotimah",
+            "lineage": null,
+            "given": "Titi Khusnul"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/76\/13",
+      "date": "2022-11-01",
+      "status_changed": "2023-01-05 07:46:43",
+      "eprint_status": "archive",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk menganalisis efektivitas pemanfaatan natrium alginat sebagai matriks imobilisasi untuk meningkatkan viabilitas bakteri Bacillus coagulans dalam mendegradasi kandungan total ammonia nitrogen (TAN). Penelitian dilakukan pada bulan Januari-Maret 2021 di Laboratorium Budidaya Perikanan, Jurusan Perikanan dan Kelautan Fakultas Pertanian, Universitas Lampung. Rancangan percobaan terdiri dari 4 perlakuan yaitu kontrol, pemberian bakteri bioremediasi tanpa immobilisasi, pemberian bakteri bioremediasi terimobilisasi dan probiotik komersial (EM4) dengan 3 ulangan. Parameter yang diamati meliputi rendemen alginat, uji viabilitas bakteri, analisis kandungan (total ammonia nitrogen) TAN. Hasil penelitian menunjukkan   terdapat perbedaan pengaruh konsentrasi TAN pada masing-masing perlakuan (P<0,05) dan tingkat viabilitas bakteri lebih baik pada pemberian Bacillus coagulans terimobilisasi dan tanpa imobilisasi dibandingkan dengan dua perlakuan lainnya. Dengan demikian dapat disimpulkan bahwa imobilisasi bakteri Bacillus coagulans menggunakan natrium alginat Sargassum sp. efektif dalam meningkatkan aktivitas bakteri tersebut dalam mendegradasi TAN.",
+      "title": "Immobilisasi Bakteri Bioremediasi Dengan Matriks Natrium Alginat Sargassum sp. Untuk Mengurangi Limbah Budidaya Udang Vaname",
+      "rev_number": 10,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_title": "Semnaskan UGM XIX",
+      "eprintid": 47613,
+      "date_type": "published"
+    },
+    {
+      "event_location": "Khairun University, Ternate",
+      "date_type": "published",
+      "eprintid": 45874,
+      "event_title": "2nd International Conference on Fisheries and Marine",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/890\/1\/012015",
+      "event_dates": "15 Juli 2021",
+      "title": "Effectiveness of using of brown algae alginate to immobilize the indigenous bioremediation bacteria for reducing waste water from shrimp culture",
+      "abstract": "Abstract. Bacillus coagulans T1.2, an indigenous bacterium from shrimp ponds in East Lampung, has been found to reduce total ammonia nitrogen (TAN). The purpose of this study was to know the effectivity of immobilization of bacterial by sodium alginate from marine brown algae to reduce wastewater pollution from shrimp culture. The brown algae, Sargassum sp. and Padina sp., were collected from Pesisir Barat and Ketapang beach, Lampung. Alginate was extracted from both Sargassum and Padina by alkali method. The bacterial immobilization beads were made by mixed Bacillus coagulans suspension with alginate (1:3 v\/v) and formed beads by 1,5 ml syringe without needle. In the in vitro study, the immobilized bacteria were submerged in artificial wastewater (2 beads ml-1) and incubated for 20 days. The control group includes the same bacteria without immobilization. The TAN was measured and the viability of bacteria was evaluated after the incubation period. The results showed that using alginate from Sargassum sp. and Padina sp. as a matrix of immobilization indigenous bacterial Bacillus coagulans effectively and significantly reduce the content of Total Ammonia Nitrogen (TAN) in wastewater. The viability of bacteria immobilized with the alginate of Sargassum sp. and Padina sp. better than the bacterial treatment without immobilization. \r\n1",
+      "subjects": [
+        "SH"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-10-24 03:48:40",
+      "dir": "disk0\/00\/04\/58\/74",
+      "date": 2022,
+      "creators": [
+        {
+          "id": "agus.setyawan@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Setyawan",
+            "given": "Agus"
+          }
+        },
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "family": "Supono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Supono"
+          }
+        },
+        {
+          "id": "hilma.putri@fp.unila.ac.id",
+          "name": {
+            "given": "Hilma Putri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fidyandini"
+          }
+        },
+        {
+          "id": "siti.hudaidah@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hudaidah",
+            "given": "Siti"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "riana",
+            "given": "heidi"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP3"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45874",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 45874,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184684",
+            "docid": 184684,
+            "main": "IOP Khairun Univ.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508185",
+                  "objectid": 184684,
+                  "mtime": "2022-10-21 08:26:24",
+                  "hash_type": "MD5",
+                  "hash": "4ce10941d91e780958eea868890e20bf",
+                  "filename": "IOP Khairun Univ.pdf",
+                  "fileid": 508185,
+                  "mime_type": "application\/pdf",
+                  "filesize": 876479,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-10-24 03:48:40",
+      "pagerange": "1-7",
+      "lastmod": "2022-10-24 03:48:40",
+      "userid": 333
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-10-24 03:48:44",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Abstract. This study aims to determine the effectiveness of supplementation of sodium (Na)\r\nalginate Sargassum sp. from Lampung waters to enhance the non-specific immune response\r\nand the resistence of Pacific white shrimp (Litopenaeus vannamei) against white spot disease.\r\nThis study used a completely randomized design with 3 treatments, namely feeding without\r\nalginate supplementation (A) or control, dietary Na alginate Sargassum supplementation at a\r\ndose of 2.0 (B), and 4.0 g kg-1 feed (C), each with four replications, for 14 days. Hemolymph\r\nsampling was performed on days 0, 7 and 14 to observe the parameter of shrimp hematology\r\nincluded total haemocyte count (THC), phagocytocyte activity (PA), phagocytic index (PI),\r\nand total plasma protein (TPP). The hepatopancreas histology profile and water quality were\r\nobserved at the end of treatment. Data were analyzed by Anova at 95% of confidence interval\r\nand continued with Duncan test. Result showedthat the supplementation of Na alginat from\r\nSargassum sp. significantly enhance several shrimp immune response namely THC, PA, and\r\nTPP. Meanwhile, the histology of the hepatopancreas of both shrimp treatment and control\r\nshowed not significantly effect on tissue damage. The water quality was still in normal\r\ncondition during the treatment. The results of this study indicate that the application of\r\nSargassum alginate supplementation at a dose of 2gr \/ kg of feed is the best treatment to\r\nenhance the immune response of Pacific white shrimp",
+      "event_dates": "15 Juli 2021",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/890\/1\/012015",
+      "title": "Non-specific immune response of Pacific white\r\nshrimp\r\nLitopenaeus vannamei by supplementation\r\nof sodium alginate of\r\nSargassum collected from\r\nLampung Indonesia",
+      "rev_number": 9,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_title": "2nd International Conference on Fisheries and Marine",
+      "eprintid": 45875,
+      "date_type": "published",
+      "event_location": "Khairun University, Ternate",
+      "lastmod": "2022-10-24 03:48:44",
+      "userid": 333,
+      "pagerange": "1-7",
+      "datestamp": "2022-10-24 03:48:44",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184685",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 876479,
+                  "fileid": 508193,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-21 08:48:27",
+                  "hash": "4ce10941d91e780958eea868890e20bf",
+                  "filename": "IOP Khairun Univ.pdf",
+                  "objectid": 184685,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508193"
+                }
+            ],
+            "main": "IOP Khairun Univ.pdf",
+            "docid": 184685,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 45875
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45875",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "divisions": [
+        "FP3"
+      ],
+      "creators": [
+        {
+          "id": "agus.setyawan@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Setyawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "given": "Supono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Supono"
+          }
+        },
+        {
+          "id": "siti.hudaidah@fp.unila.ac.id",
+          "name": {
+            "given": "Siti",
+            "honourific": null,
+            "family": "Hudaidah",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Hilma Putri",
+            "honourific": null,
+            "family": "Fidyandini",
+            "lineage": null
+          },
+          "id": "hilma.putri@fp.unila.ac.id"
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/58\/75"
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FP3"
+      ],
+      "creators": [
+        {
+          "id": "agus.setyawan@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Setyawan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "given": "Supono",
+            "honourific": null,
+            "family": "Supono",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wijayanti",
+            "given": "Arlin"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anti",
+            "given": "Ussy Tri"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/58\/70",
+      "date": 2022,
+      "lastmod": "2022-10-24 03:48:38",
+      "userid": 333,
+      "pagerange": "1-8",
+      "datestamp": "2022-10-24 03:48:38",
+      "documents": [
+          {
+            "eprintid": 45870,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 184681,
+            "main": "IOP Trepsea 2022.pdf",
+            "files": [
+                {
+                  "filename": "IOP Trepsea 2022.pdf",
+                  "hash": "f7cbe4fd176b1f5517e1be8353d1d00f",
+                  "mtime": "2022-10-21 07:56:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 508165,
+                  "filesize": 1389658,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508165",
+                  "objectid": 184681
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184681"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45870",
+      "full_text_status": "public",
+      "eprintid": 45870,
+      "event_title": "TREPSEA-2021",
+      "date_type": "published",
+      "event_location": "Bandar Lampung",
+      "status_changed": "2022-10-24 03:48:38",
+      "eprint_status": "archive",
+      "abstract": "Abstract. Bacillus coagulans T1.2, an indigenous bacterium from shrimp ponds in East Lampung, has been found to reduce total ammonia nitrogen (TAN). The purpose of this study was to know the effectivity of immobilization of bacterial by sodium alginate from marine brown algae to reduce wastewater pollution from shrimp culture. The brown algae, Sargassum sp. and Padina sp., were collected from Pesisir Barat and Ketapang beach, Lampung. Alginate was extracted from both Sargassum and Padina by alkali method. The bacterial immobilization beads were made by mixed Bacillus coagulans suspension with alginate (1:3 v\/v) and formed beads by 1,5 ml syringe without needle. In the in vitro study, the immobilized bacteria were submerged in artificial wastewater (2 beads ml-1) and incubated for 20 days. The control group includes the same bacteria without immobilization. The TAN was measured and the viability of bacteria was evaluated after the incubation period. The results showed that using alginate from Sargassum sp. and Padina sp. as a matrix of immobilization indigenous bacterial Bacillus coagulans effectively and significantly reduce the content of Total Ammonia Nitrogen (TAN) in wastewater. The viability of bacteria immobilized with the alginate of Sargassum sp. and Padina sp. better than the bacterial treatment without immobilization. \r\n1",
+      "subjects": [
+        "SH"
+      ],
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/1027\/1\/012010",
+      "event_dates": "16-18b September2021",
+      "title": "Effectiveness of using of brown algae alginate to immobilize the indigenous bioremediation bacteria for reducing waste water from shrimp culture",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference"
+    },
+    {
+      "status_changed": "2022-07-06 01:15:28",
+      "eprint_status": "archive",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Salah satu faktor penentu keberhasilan budidaya udang adalah manajemen kualitas air.  Daerah yang mengalami  keterbatasan lahan karena degradasi kualitas air mengalami kesulitan dalam mengembangkan budidaya udang.  Budidaya udang vaname menjadi salah satu solusi untuk mengatasi permasalahan tersebut.  Budidaya udang vaname dengan menggunakan air bersalinitas rendah (inland shrimp culture) sangat memungkinkan karena spesies ini termasuk eurihalin, yaitu toleran terhadap rentang salinitas yang luas. Sistem ini lebih ramah lingkungan karena dilakukan jauh dari pesisir laut sehingga tidak merusak ekosistem pesisir terutama hutan bakau. \r\nBuku Budidaya Udang  Vaname Salintas Rendah, Solusi untuk Budidaya di Lahan Kritis ini  berisi tentang prinsip budidaya udang, daya dukung lingkungan, biologi vaname, keunggulan udang vaname, budidaya udang vaname salinitas baik skala lab lapang maupun tambak komersial, standard operating procedure (SOP), penyakit udang, penanganan penyakit dengan herbal, serta budidaya udang vaname skala rumah tangga. Buku ini juga dilengkapi dengan analisis ekonomi budidaya udang vaname  dengan salinitas rendah skala semi intensif.     Buku ini dapat dijadikan rujukan  bagi akademisi, mahasiswa,  dan  praktisi budidaya  udang  yang ingin mendalami  tentang budidaya udang vaname terutama budidaya dengan menggunakan salinitas rendah.",
+      "title": "Budidaya Udang Salinitas Rendah Solusi Budidaya untuk Lahan Kritis",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprintid": 42980,
+      "date_type": "published",
+      "userid": 333,
+      "lastmod": "2022-07-06 01:15:28",
+      "datestamp": "2022-07-06 01:15:28",
+      "ispublished": "pub",
+      "publisher": "Graha Ilmu",
+      "documents": [
+          {
+            "docid": 164793,
+            "main": "HaKI buku.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2069684,
+                  "fileid": 470492,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-07-05 11:47:21",
+                  "hash_type": "MD5",
+                  "filename": "HaKI buku.pdf",
+                  "hash": "c271335162643455c6123e8d05eefd7a",
+                  "objectid": 164793,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470492"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164793",
+            "rev_number": 1,
+            "eprintid": 42980,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42980",
+      "type": "other",
+      "divisions": [
+        "FP3"
+      ],
+      "creators": [
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Supono",
+            "lineage": null,
+            "given": "Supono"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/29\/80",
+      "date": 2022
+    },
+    {
+      "official_url": "https:\/\/ejournal.unsri.ac.id\/index.php\/jari\/article\/view\/18678",
+      "title": "EFEKTIVITAS EKSTRAK MANGROVE Rhizophora apiculata (Tomlinson, 1986) DALAM MENGHAMBAT Vibrio parahaemolyticus PENYEBAB PENYAKIT PADA UDANG VANAME Litopenaeus vannamei (Boone, 1931)",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 10,
+      "status_changed": "2023-01-09 07:27:26",
+      "eprint_status": "archive",
+      "abstract": "Vaname (L. vannamei) shrimp cultivation is currently experiencing problems, one of which is disease caused by Vibrio bacteria, especially Vibrio parahaemolyticus. This type of vibrio is the cause of white feces disease and AHPND in shrimp. Disease control due to Vibrio can be done by utilizing plants that have active compounds as natural antibacterials that are environmentally friendly. Mangrove plants have several active compounds that have great potential as antibacterial. This study aimed to examine some parts of the mangrove plant Rhizophora. apiculata in inhibiting the activity of V. parahaemolyticus. Three parts of the mangrove plant, namely: roots, stems, and leaves were extracted using methanol 96%. The three extracts were tested for their antibacterial activity against V. parahaemolyticus by several tests such as phytochemical, sensitivity, zone of inhibition, best dose, and toxicity tests. The test results showed that R. apiculata mangrove stem extract had the greatest ability to inhibit V. parahaemolyticus with an effectiveness value of 15.85% with the best dose of 200 mg\/L. Toxicity testing using vaname shrimp larvae extract showed that mangrove stems were non-toxic with an LC50 value of 2,155.5 mg\/L \r\n \r\nKeywords: Growth, White feces disease, AHPND, active compounds, extracts, antibacterials",
+      "subjects": [
+        "SH"
+      ],
+      "eprintid": 47652,
+      "date_type": "published",
+      "documents": [
+          {
+            "eprintid": 47652,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 186725,
+            "main": "JARI Des 2022.pdf",
+            "files": [
+                {
+                  "objectid": 186725,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522038",
+                  "datasetid": "document",
+                  "filesize": 476319,
+                  "fileid": 522038,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-01-09 03:21:55",
+                  "hash_type": "MD5",
+                  "filename": "JARI Des 2022.pdf",
+                  "hash": "2ea0cedeb07cf0f45971ae97754745d6"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186725",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Universitas Sriwijaya",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47652",
+      "userid": 333,
+      "lastmod": "2023-01-09 07:27:26",
+      "pagerange": "199-211",
+      "datestamp": "2023-01-09 07:27:26",
+      "issn": "ISSN : 2303-2960",
+      "creators": [
+        {
+          "name": {
+            "given": "Supono",
+            "honourific": null,
+            "family": "Supono",
+            "lineage": null
+          },
+          "id": "supono_unila@yahoo.com"
+        },
+        {
+          "id": "yeni.elisdiana@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Elisdiana",
+            "given": "Yeni"
+          }
+        },
+        {
+          "name": {
+            "given": "siti Ning",
+            "lineage": null,
+            "honourific": null,
+            "family": "Mulyaningsih"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal Akuakultur Rawa Indonesia,",
+      "id_number": "10.36706\/jari.v10i2.18678",
+      "dir": "disk0_bak\/00\/04\/76\/52",
+      "date": "2022-12",
+      "type": "article",
+      "divisions": [
+        "FP3"
+      ]
+    },
+    {
+      "lastmod": "2022-05-24 08:59:59",
+      "userid": 333,
+      "datestamp": "2022-05-24 08:59:59",
+      "pagerange": "1061-1066",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Bioflux",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 41787,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163455",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/461624",
+                  "objectid": 163455,
+                  "mtime": "2022-05-24 07:40:23",
+                  "hash_type": "MD5",
+                  "hash": "4d20787e4264f9b4afc5ad3ceacb3bf7",
+                  "filename": "Vaname Bioflux.pdf",
+                  "fileid": 461624,
+                  "mime_type": "application\/pdf",
+                  "filesize": 418785,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 163455,
+            "main": "Vaname Bioflux.pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41787",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FP3"
+      ],
+      "publication": "AACL Bioflux",
+      "creators": [
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Supono",
+            "honourific": null,
+            "given": "Supono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sarida",
+            "honourific": null,
+            "given": "Munti"
+          },
+          "id": "munti.sarida@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rehulina",
+            "family": "Pinem",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1844-9166",
+      "dir": "disk0\/00\/04\/17\/87",
+      "date": "2022-04",
+      "status_changed": "2022-05-24 08:59:59",
+      "eprint_status": "archive",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "The Pacific white shrimp (Litopenaeus vannamei) is a euryhaline species that can be reared in aquatic environments with a wide range of salinity, from 0.5 to 40 ppt. The ability of Pacific white shrimps to adapt to extreme saline conditions allows the expansion of shrimp farming in inland aquatic environments, away from the coast. Therefore, this study aimed to analyze the specific growth rate (SGR), survival rate (SR), and feed conversion ratio (FCR) of Pacific white shrimp reared at various salinity levels using a single-step acclimation method. The study employed a completely randomized design with five treatments and three replications, namely T1, T2, T3, T4, and T5 at 5 ppt, 10 ppt, 15 ppt, 20 ppt, and 25 ppt, respectively. Each treatment unit was incorporated with Pacific white shrimp postlarvae (PL) 15 at a density of 2000 PL m-3. Subsequently, the shrimps were fed commercial pellets three times daily through a blind feeding program during the 40 days of rearing. The results showed that different salinities of culture media had an effect on SGR, SR, and FCR of Pacific white shrimp. The most desirable SGR and FCR were observed in the 15 ppt culture media at 12.3% and 1.5, respectively, while the best survival rate was observed in the 20 ppt salinity at 79.3%. Generally, Pacific white shrimp performed best in the culture media with a salinity of 15 ppt. Key Words: euryhaline, growth, L. vannamei, survival rate",
+      "official_url": "file:\/\/\/C:\/Users\/User\/Downloads\/Documents\/2022.1061-1066_2.pdf",
+      "title": "The growth performance of the Pacific white shrimp (Litopenaeus vannamei) cultured at various salinity conditions using single step acclimation",
+      "volume": 15,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 41787,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 41788,
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "The Pacific white shrimp (Litopenaeus vannamei) is a euryhaline species that can be reared in aquatic environments with a wide range of salinity, from 0.5 to 40 ppt. The ability of Pacific white shrimps to adapt to extreme saline conditions allows the expansion of shrimp farming in inland aquatic environments, away from the coast. Therefore, this study aimed to analyze the specific growth rate (SGR), survival rate (SR), and feed conversion ratio (FCR) of Pacific white shrimp reared at various salinity levels using a single-step acclimation method. The study employed a completely randomized design with five treatments and three replications, namely T1, T2, T3, T4, and T5 at 5 ppt, 10 ppt, 15 ppt, 20 ppt, and 25 ppt, respectively. Each treatment unit was incorporated with Pacific white shrimp postlarvae (PL) 15 at a density of 2000 PL m-3. Subsequently, the shrimps were fed commercial pellets three times daily through a blind feeding program during the 40 days of rearing. The results showed that different salinities of culture media had an effect on SGR, SR, and FCR of Pacific white shrimp. The most desirable SGR and FCR were observed in the 15 ppt culture media at 12.3% and 1.5, respectively, while the best survival rate was observed in the 20 ppt salinity at 79.3%. Generally, Pacific white shrimp performed best in the culture media with a salinity of 15 ppt. Key Words: euryhaline, growth, L. vannamei, survival rate.",
+      "status_changed": "2022-05-24 09:00:01",
+      "eprint_status": "archive",
+      "rev_number": 10,
+      "volume": 15,
+      "metadata_visibility": "show",
+      "title": "The growth performance of the Pacific white shrimp (Litopenaeus vannamei) cultured at various salinity conditions using single step acclimation",
+      "official_url": "http:\/\/www.bioflux.com.ro\/docs\/2022.1061-1066.pdf",
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "date": "2022-04",
+      "dir": "disk0\/00\/04\/17\/88",
+      "publication": "AACL Bioflux",
+      "issn": "1844-9166",
+      "creators": [
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "given": "Supono",
+            "honourific": null,
+            "family": "Supono",
+            "lineage": null
+          }
+        },
+        {
+          "id": "munti.sarida@fp.unila.ac.id",
+          "name": {
+            "given": "Munti",
+            "honourific": null,
+            "family": "Sarida",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rehulina",
+            "honourific": null,
+            "family": "Pinem",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "pagerange": "1061-1066",
+      "datestamp": "2022-05-24 09:00:01",
+      "lastmod": "2022-05-24 09:00:01",
+      "userid": 333,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41788",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Bioflux",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41788,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 418785,
+                  "mime_type": "application\/pdf",
+                  "fileid": 461630,
+                  "hash": "4d20787e4264f9b4afc5ad3ceacb3bf7",
+                  "filename": "Vaname Bioflux.pdf",
+                  "mtime": "2022-05-24 08:05:04",
+                  "hash_type": "MD5",
+                  "objectid": 163456,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/461630"
+                }
+            ],
+            "docid": 163456,
+            "main": "Vaname Bioflux.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163456",
+            "pos": 1,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "id_number": "https:\/\/doi.org\/10.33019\/jour.trop.mar.sci.v5i2.3214",
+      "dir": "disk0_bak\/00\/04\/76\/55",
+      "date": "2022-10",
+      "creators": [
+        {
+          "name": {
+            "given": "Supono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Supono"
+          },
+          "id": "supono_unila@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Munti",
+            "lineage": null,
+            "family": "Sarida",
+            "honourific": null
+          },
+          "id": "munti.sarida@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "puspitasari",
+            "given": "Destriyana"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2623-2235",
+      "publication": "Journal of Tropical Marine Science",
+      "pagerange": "90-97",
+      "datestamp": "2023-01-09 07:27:31",
+      "lastmod": "2023-01-09 07:27:31",
+      "userid": 333,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47655",
+      "full_text_status": "public",
+      "publisher": "Fakultas Pertanian Perikanan dan Biologi, Universitas Bangka Belitung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47655,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 210906,
+                  "mime_type": "application\/pdf",
+                  "fileid": 522061,
+                  "hash": "9e8c6b5e1fd7ef9349c58ccb73875a72",
+                  "filename": "JTMS.pdf",
+                  "mtime": "2023-01-09 05:48:27",
+                  "hash_type": "MD5",
+                  "objectid": 186728,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522061"
+                }
+            ],
+            "main": "JTMS.pdf",
+            "docid": 186728,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186728",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 47655,
+      "abstract": "Kalsium merupakan salah satu makromineral yang berperan penting dalam proses pengerasan kulit udang pasca molting. Pada tambak salinitas rendah, sering mengalami kekurangan kalsium yang dapat berdampak pada kegagalan molting udang bahkan menyebabkan kematian. Penelitian ini bertujuan untuk mengkaji pertumbuhan, tingkat kelangsungan hidup, dan rasio konversi pakan udang vaname (Litopenaeus vannamei) yang dipelihara pada media kultur salinitas rendah dengan penambahan konsentrasi mineral kalsium berbeda. Penelitian ini dilakukan pada media bersalinitas 5 ppt, menggunakan rancangan acak lengkap (RAL) dengan 4 perlakuan dan 3 ulangan. Perlakuan tersebut berupa penambahan makromineral kalsium yang berbeda, yaitu: A (0 mg\/L), B (50 mg\/L), C (100 mg\/L), dan D (150 mg\/L). Hasil penelitian menunjukkan bahwa penambahan kalsium yang berbeda pada media salinitas rendah berpengaruh terhadap pertumbuhan, tingkat kelangsungan hidup, dan rasio konversi pakan udang vaname. Pertumbuhan terbaik terjadi pada perlakuan penambahan kalsium 0 mg\/L (kontrol) yaitu sebesar 0,56±0,18 g, sementara tingkat kelangsungan hidup dan konversi pakan terbaik terjadi pada perlakuan 50 mg\/L yaitu 54,3±0,38% dan 1,4±0,1.",
+      "subjects": [
+        "SH"
+      ],
+      "status_changed": "2023-01-09 07:27:31",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 5,
+      "title": "PENGARUH PENAMBAHAN KALSIUM PADA MEDIA KULTUR SALINITAS RENDAH TERHADAP PERFORMA UDANG VANAME Litopenaeus vannamei",
+      "official_url": "https:\/\/journal.ubb.ac.id\/index.php\/jtms\/article\/view\/3214"
+    },
+    {
+      "status_changed": "2022-10-31 07:08:37",
+      "eprint_status": "archive",
+      "abstract": "Abstrak \r\n \r\nKalsium merupakan salah satu makromineral yang berperan penting dalam proses pengerasan kulit udang pasca molting.  Pada tambak salinitas rendah, sering mengalami kekurangan kalsium yang dapat berdampak pada kegagalan molting udang bahkan menyebabkan kematian.  Penelitian ini bertujuan untuk mengkaji pertumbuhan, tingkat kelangsungan hidup, dan rasio konversi pakan udang vaname (Litopenaeus vannamei) yang dipelihara pada media kultur salinitas rendah dengan penambahan konsentrasi mineral kalsium berbeda.  Penelitian ini dilakukan pada media bersalinitas 5 ppt, menggunakan rancangan acak lengkap (RAL) dengan 4 perlakuan dan 3 ulangan. Perlakuan tersebut berupa penambahan makromineral kalsium yang berbeda, yaitu:  A (0 mg\/L), B (50 mg\/L), C (100 mg\/L), dan D (150 mg\/L).  Hasil penelitian menunjukkan bahwa penambahan kalsium yang berbeda pada media salinitas rendah berpengaruh terhadap pertumbuhan, tingkat kelangsungan hidup, dan rasio konversi pakan udang vaname.  Pertumbuhan terbaik terjadi pada perlakuan penambahan kalsium 0 mg\/L (kontrol) yaitu sebesar 0,56±0,18 g, sementara tingkat kelangsungan hidup dan konversi pakan terbaik terjadi pada perlakuan 50 mg\/L yaitu 54,3±0,38% dan 1,4±0,1. \r\n \r\nKata kunci : makromineral, molting, pertumbuhan, tingkat kelangsungan hidup \r\n \r\nAbstract \r\n \r\nCalcium is one of the macrominerals that plays an important role in the process of hardening of the shrimp shell after molting. In low salinity ponds, there is often a lack of calcium which can have an impact on shrimp molting failure and even cause death. This study aimed to assess the growth, survival rate, and feed conversion ratio of vaname shrimp (Litopenaeus vannamei) reared in low salinity culture media with the addition of different concentrations of calcium minerals. This study was conducted on 5 ppt salinity media, using a completely randomized design (CRD) with 4 treatments and 3 replications. The treatment was the addition of different calcium macrominerals, namely: A (0 mg\/L), B (50 mg\/L), C (100 mg\/L), and D (150 mg\/L).The results showed that the addition of different calcium in low salinity media affected the growth, survival rate, and feed conversion ratio of vaname shrimp. The best growth occurred in the 0 mg\/L calcium treatment (control) which was 0.56±0.18 g, while the best survival rate and feed conversion occurred in the 50 mg\/L treatment which was 54.3±0.38% and 1.4±0.1. \r\n \r\nKeywords : macromineral, molting, growth rate, survival rate",
+      "subjects": [
+        "SH"
+      ],
+      "title": "Pengaruh Penambahan Kalsium Pada Media Kultur Salinitas Rendah Terhadap Performa Udang Vaname Litopenaeus vannamei",
+      "official_url": "file:\/\/\/C:\/Users\/User\/Downloads\/Documents\/3214-Article%20Text-10403-1-10-20221027_3.pdf",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 7,
+      "eprintid": 46114,
+      "date_type": "published",
+      "userid": 333,
+      "lastmod": "2022-10-31 07:08:37",
+      "datestamp": "2022-10-31 07:08:37",
+      "pagerange": "90-97",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184942",
+            "rev_number": 1,
+            "docid": 184942,
+            "main": "JTMS.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510031",
+                  "objectid": 184942,
+                  "filename": "JTMS.pdf",
+                  "hash": "9e8c6b5e1fd7ef9349c58ccb73875a72",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 06:55:28",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510031,
+                  "filesize": 210906,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46114,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Universitas Bangka Belitung",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46114",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FP3"
+      ],
+      "issn": "2623-2227",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Supono",
+            "honourific": null,
+            "given": "Supono"
+          },
+          "id": "supono_unila@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Sarida",
+            "honourific": null,
+            "lineage": null,
+            "given": "Munti"
+          },
+          "id": "munti.sarida@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Destriyana",
+            "lineage": null,
+            "honourific": null,
+            "family": "puspitasari"
+          }
+        }
+      ],
+      "publication": "Journal of  tropical marine Science",
+      "id_number": "doi.org\/10.33019\/jour.trop.mar.sci.v5i2.3214",
+      "dir": "disk0\/00\/04\/61\/14",
+      "date": "2022-10"
+    },
+    {
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/04\/61\/15",
+      "date": "2022-10",
+      "id_number": "Pengaruh Penambahan Kalsium Pada Media Kultur Salinitas Rendah Terhadap Performa Udang Vaname Litopenaeus vannamei",
+      "publication": "Journal of Tropical Marine Science",
+      "creators": [
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supono",
+            "given": "Supono"
+          }
+        },
+        {
+          "id": "munti.sarida@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sarida",
+            "honourific": null,
+            "given": "Munti"
+          }
+        },
+        {
+          "name": {
+            "given": "Destriyana",
+            "lineage": null,
+            "honourific": null,
+            "family": "puspitasari"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2623-2235",
+      "pagerange": "90-97",
+      "datestamp": "2022-10-31 08:04:14",
+      "lastmod": "2022-10-31 08:04:14",
+      "userid": 333,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46115",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46115,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184943",
+            "rev_number": 1,
+            "docid": 184943,
+            "main": "JTMS.pdf",
+            "files": [
+                {
+                  "objectid": 184943,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510038",
+                  "datasetid": "document",
+                  "filesize": 210906,
+                  "fileid": 510038,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 07:05:51",
+                  "filename": "JTMS.pdf",
+                  "hash": "9e8c6b5e1fd7ef9349c58ccb73875a72"
+                }
+            ]
+          }
+      ],
+      "publisher": "Fakultas Pertanian Perikanan dan Biologi, Universitas Bangka Belitung",
+      "date_type": "published",
+      "eprintid": 46115,
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Abstrak \r\n \r\nKalsium merupakan salah satu makromineral yang berperan penting dalam proses pengerasan kulit udang pasca molting.  Pada tambak salinitas rendah, sering mengalami kekurangan kalsium yang dapat berdampak pada kegagalan molting udang bahkan menyebabkan kematian.  Penelitian ini bertujuan untuk mengkaji pertumbuhan, tingkat kelangsungan hidup, dan rasio konversi pakan udang vaname (Litopenaeus vannamei) yang dipelihara pada media kultur salinitas rendah dengan penambahan konsentrasi mineral kalsium berbeda.  Penelitian ini dilakukan pada media bersalinitas 5 ppt, menggunakan rancangan acak lengkap (RAL) dengan 4 perlakuan dan 3 ulangan. Perlakuan tersebut berupa penambahan makromineral kalsium yang berbeda, yaitu:  A (0 mg\/L), B (50 mg\/L), C (100 mg\/L), dan D (150 mg\/L).  Hasil penelitian menunjukkan bahwa penambahan kalsium yang berbeda pada media salinitas rendah berpengaruh terhadap pertumbuhan, tingkat kelangsungan hidup, dan rasio konversi pakan udang vaname.  Pertumbuhan terbaik terjadi pada perlakuan penambahan kalsium 0 mg\/L (kontrol) yaitu sebesar 0,56±0,18 g, sementara tingkat kelangsungan hidup dan konversi pakan terbaik terjadi pada perlakuan 50 mg\/L yaitu 54,3±0,38% dan 1,4±0,1. \r\n \r\nKata kunci : makromineral, molting, pertumbuhan, tingkat kelangsungan hidup \r\n \r\nAbstract \r\n \r\nCalcium is one of the macrominerals that plays an important role in the process of hardening of the shrimp shell after molting. In low salinity ponds, there is often a lack of calcium which can have an impact on shrimp molting failure and even cause death. This study aimed to assess the growth, survival rate, and feed conversion ratio of vaname shrimp (Litopenaeus vannamei) reared in low salinity culture media with the addition of different concentrations of calcium minerals. This study was conducted on 5 ppt salinity media, using a completely randomized design (CRD) with 4 treatments and 3 replications. The treatment was the addition of different calcium macrominerals, namely: A (0 mg\/L), B (50 mg\/L), C (100 mg\/L), and D (150 mg\/L).The results showed that the addition of different calcium in low salinity media affected the growth, survival rate, and feed conversion ratio of vaname shrimp. The best growth occurred in the 0 mg\/L calcium treatment (control) which was 0.56±0.18 g, while the best survival rate and feed conversion occurred in the 50 mg\/L treatment which was 54.3±0.38% and 1.4±0.1. \r\n \r\nKeywords : macromineral, molting, growth rate, survival rate",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-31 08:04:14",
+      "rev_number": 6,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/journal.ubb.ac.id\/index.php\/jtms\/article\/view\/3214",
+      "title": "Pengaruh Penambahan Kalsium Pada Media Kultur Salinitas Rendah Terhadap Performa Udang Vaname Litopenaeus vannamei"
+    },
+    {
+      "status_changed": "2022-12-30 03:55:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Potassium (K)  is one of the important ions in low-salinity shrimp culture, which has functions of maintaining electrolyte balance, conduction of nerve impulses, and releasing energy from protein, fat, and carbohydrate. This research aimed to study and determine the proper concentration of potassium as an additive ion to enhance the growth and survival rate  of vaname shrimp (Litopenaeus vannamei).  Potassium was added to the rearing media with the salinity of  5 ppt in different concentrations (0, 50, 100, and 150 mg\/L), with three replicates of treatment. The shrimp in size of post-larvae (PL)10 reared for 40 days in the treatment’s media with the stocking density of 140 shrimp (2000 shrimp\/m3). The results of this study showed that potassium administration in low-salinity media has a significant effect on the growth performance and survival rate of shrimp. Potassium administration at a concentration of 100 mg\/L resulted in better vaname performance than other treatments (P < 0.05) based on absolute weight, specific growth rate, feed conversion ratio, and survival rate Keywords:  feed coversion ratio, growth, post-larvae, survival rate",
+      "official_url": "https:\/\/journals.unihaz.ac.id\/index.php\/agroqua\/article\/view\/2947\/1426",
+      "title": "PENGARUH PENAMBAHAN MINERAL KALIUM (K) PADA MEDIA KULTUR SALINITAS RENDAH TERHADAP PERFORMA UDANG VANAME Litopenaeus vannamei",
+      "rev_number": 6,
+      "volume": 20,
+      "metadata_visibility": "show",
+      "eprintid": 47527,
+      "date_type": "published",
+      "lastmod": "2022-12-30 03:55:12",
+      "userid": 333,
+      "datestamp": "2022-12-30 03:55:12",
+      "pagerange": "339-346",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 186588,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521039",
+                  "fileid": 521039,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-29 03:41:59",
+                  "hash": "a0e479e5bd01b60b439de9b51bec8634",
+                  "filename": "jurnal bioflux.pdf",
+                  "datasetid": "document",
+                  "filesize": 425946
+                }
+            ],
+            "main": "jurnal bioflux.pdf",
+            "docid": 186588,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186588",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47527,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Universitas Prof. Dr. Hazairin SH",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47527",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FP3"
+      ],
+      "publication": "Jurnal Agroqua",
+      "issn": 2166585,
+      "creators": [
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Supono",
+            "lineage": null,
+            "given": "Supono"
+          }
+        },
+        {
+          "id": "munti.sarida@fp.unila.ac.id",
+          "name": {
+            "given": "Munti",
+            "family": "Sarida",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Putri Indah",
+            "lineage": null,
+            "family": "suari",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "date": "2022-12",
+      "dir": "disk0_bak\/00\/04\/75\/27"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 49735,
+      "rev_number": 6,
+      "volume": 20,
+      "metadata_visibility": "show",
+      "title": "PENGARUH PENAMBAHAN MINERAL KALIUM (K) PADA MEDIA KULTUR SALINITAS RENDAH TERHADAP PERFORMA UDANG VANAME Litopenaeus vannamei",
+      "official_url": "https:\/\/journals.unihaz.ac.id\/index.php\/agroqua\/article\/view\/2947\/1426",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Potassium (K)  is one of the important ions in low-salinity shrimp culture, which has functions of maintaining electrolyte balance, conduction of nerve impulses, and releasing energy from protein, fat, and carbohydrate. This research aimed to study and determine the proper concentration of potassium as an additive ion to enhance the growth and survival rate  of vaname shrimp (Litopenaeus vannamei).  Potassium was added to the rearing media with the salinity of  5 ppt in different concentrations (0, 50, 100, and 150 mg\/L), with three replicates of treatment. The shrimp in size of post-larvae (PL)10 reared for 40 days in the treatment’s media with the stocking density of 140 shrimp (2000 shrimp\/m3). The results of this study showed that potassium administration in low-salinity media has a significant effect on the growth performance and survival rate of shrimp. Potassium administration at a concentration of 100 mg\/L resulted in better vaname performance than other treatments (P < 0.05) based on absolute weight, specific growth rate, feed conversion ratio, and survival rate Keywords:  feed coversion ratio, growth, post-larvae, survival rate",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-06 02:25:35",
+      "date": "2022-12",
+      "dir": "disk0_bak\/00\/04\/97\/35",
+      "publication": "Agroqua",
+      "issn": "0216-6585 (Print)",
+      "creators": [
+        {
+          "name": {
+            "given": "Supono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Supono"
+          },
+          "id": "supono_unila@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Munti",
+            "lineage": null,
+            "family": "Sarida",
+            "honourific": null
+          },
+          "id": "munti.sarida@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "suari",
+            "honourific": null,
+            "given": "Putri Indah"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49735",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 49735,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Jurnal Agroqua.pdf",
+            "docid": 189374,
+            "files": [
+                {
+                  "filesize": 598389,
+                  "datasetid": "document",
+                  "mtime": "2023-04-06 02:04:37",
+                  "hash_type": "MD5",
+                  "hash": "ad39b0ad69f00fe0948654ca18886dc2",
+                  "filename": "Jurnal Agroqua.pdf",
+                  "fileid": 538925,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538925",
+                  "objectid": 189374
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189374"
+          }
+      ],
+      "publisher": "University of Prof. Dr. Hazairin, SH",
+      "pagerange": "339-346",
+      "datestamp": "2023-04-06 02:25:35",
+      "lastmod": "2023-04-06 02:25:35",
+      "userid": 333
+    },
+    {
+      "lastmod": "2022-11-14 03:26:32",
+      "userid": 333,
+      "pagerange": "132-140",
+      "datestamp": "2022-11-14 03:26:32",
+      "publisher": "Universitas  17 Agustus 1945 Cirebon",
+      "documents": [
+          {
+            "main": "260-Article (Barakuda).pdf",
+            "docid": 185430,
+            "files": [
+                {
+                  "filesize": 607522,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-12 13:06:03",
+                  "filename": "260-Article (Barakuda).pdf",
+                  "hash": "22e049e024993279e3680146eae1b8bc",
+                  "fileid": 513286,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513286",
+                  "objectid": 185430
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185430",
+            "eprintid": 46553,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46553",
+      "type": "article",
+      "divisions": [
+        "FP3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Supono",
+            "lineage": null,
+            "family": "Supono",
+            "honourific": null
+          },
+          "id": "supono_unila@yahoo.com"
+        },
+        {
+          "id": "agus.setyawan@fp.unila.ac.id",
+          "name": {
+            "family": "Setyawan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Deny Sapto Chondro",
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null
+          },
+          "id": "deny.utomo@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2656-7474",
+      "publication": "Barakuda 45",
+      "id_number": "https:\/\/doi.org\/10.47685\/barakuda45.v4i2.260",
+      "dir": "disk0\/00\/04\/65\/53",
+      "date": "2022-11",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 03:26:32",
+      "abstract": "Vannamei shrimp (Litopenaeus vannamei) is one of the mainstay commodities that can\r\nincrease the country's foreign exchange because it has a fairly high selling value in the global\r\nmarket. Several problems in aquaculture can reduce vaname shrimp production such as\r\ndisease, water quality degradation, and high feed conversion values. Biofloc is an alternative\r\ntechnology that can be applied to overcome the problems in shrimp farming. There are two\r\ntypes of biofloc technology, namely green water biofloc and brown water biofloc. This study\r\naimed to study the effect of the application of the two biofloc systems on growth, survival rate,\r\nand feed conversion ratio of vaname shrimp. This study used a completely randomized design\r\nconsisting of 3 treatments with 3 replications. The treatments were: (A) control, (B) green\r\nwater biofloc, and (C) brown water biofloc. Shrimp rearing was carried out for 30 days,\r\nusing a container with a volume of 70 liters of water. Each treatment unit was filled with 70\r\nPL 10 fry, equivalent to 1 PL\/liter. The results showed that the type of biofloc system affected\r\nthe growth and feed conversion ratio of vaname shrimp, but had no effect on the survival rateof vaname shrimp. Green water biofloc produces better growth and feed conversion than brown water biofloc and control",
+      "subjects": [
+        "SH"
+      ],
+      "title": "PERFORMA UDANG VANAME (Litopenaeus vannamei) YANG IBUDIDAYAKAN\r\nDENGAN SISTEM GREEN WATER DAN BROWN WATER BIOFLOC",
+      "official_url": "https:\/\/jurnal.publikasi-untagcirebon.ac.id\/index.php\/barakuda45\/article\/view\/260",
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 6,
+      "eprintid": 46553,
+      "date_type": "published"
+    },
+    {
+      "id_number": "https:\/\/doi.org\/10.47685\/barakuda45.v4i2.260",
+      "dir": "disk0_bak\/00\/04\/76\/61",
+      "date": "2022-11",
+      "creators": [
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "given": "Supono",
+            "honourific": null,
+            "family": "Supono",
+            "lineage": null
+          }
+        },
+        {
+          "id": "agus.setyawan@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setyawan"
+          }
+        },
+        {
+          "name": {
+            "given": "Deny Sapto Chondro",
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null
+          },
+          "id": "deny.utomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Cania",
+            "honourific": null,
+            "given": "Mega"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2656-7474",
+      "publication": "Barakuda 45",
+      "divisions": [
+        "FP3"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47661",
+      "full_text_status": "public",
+      "publisher": "Universitas  17 Agustus 1945 Cirebon",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186745",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522134",
+                  "objectid": 186745,
+                  "hash": "22e049e024993279e3680146eae1b8bc",
+                  "filename": "Jurnal Barakuda.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-10 03:13:03",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522134,
+                  "filesize": 607522,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 186745,
+            "main": "Jurnal Barakuda.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47661
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "pagerange": "132-140",
+      "datestamp": "2023-01-10 04:02:06",
+      "lastmod": "2023-01-10 04:02:06",
+      "userid": 333,
+      "date_type": "published",
+      "eprintid": 47661,
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 8,
+      "official_url": "https:\/\/jurnal.publikasi-untagcirebon.ac.id\/index.php\/barakuda45\/article\/view\/260\/198",
+      "title": "PERFORMA UDANG VANAME (Litopenaeus vannamei) YANG DIBUDIDAYAKAN\r\nDENGAN SISTEM GREEN WATER DAN BROWN WATER BIOFLOC",
+      "abstract": "Udang vaname (Litopenaeus vannamei) merupakan salah satu komoditas andalan yang dapat\r\nmeningkatkan devisa negara karena memiliki nilai jual yang cukup tinggi di pasar global.\r\nBeberapa permasalahan dalam budidaya dapat menurunkan produksi udang vaname seperti\r\npenyakit, degradasi kualitas air, dan tingginya nilai konversi pakan. Biofloc merupakan salah\r\nsatu alternatif teknologi yang dapat diaplikasikan untuk mengatasi permasalahan dalam\r\nbudidaya udang tersebut. Teknologi biofloc ada dua jenis yaitu green water biofloc dan brown\r\nwater biofloc. Penelitian ini bertujuan untuk mempelajari pengaruh penerapan kedua sistem\r\nbiofloc tersebut terhadap pertumbuhan, tingkat kelangsungan hidup, dan konversi pakan\r\nudang vaname. Penelitian ini menggunakan rancangan acak lengkap yang terdiri dari 3\r\nperlakuan dengan 3 ulangan. Perlakuan tersebut adalah: (A) control, (B) green water biofloc,\r\ndan (C) brown water biofloc. Pemeliharaan udang dilakukan selama 30 hari, menggunakan\r\nwadah dengan volume air 70 liter. Setiap unit perlakuan diisi dengan 70 ekor benur PL 10\r\nsetara dengan 1 ekor\/liter. Hasil penelitian menunjukkan bahwa tipe sistem biofloc\r\nberpengaruh terhadap pertumbuhan dan konversi pakan udang vaname, namun tidak\r\nberpengaruh terhadap tingkat kelulushidupan udang vaname. Green water biofloc\r\nmenghasilkan pertumbuhan dan konversi pakan yang lebih baik dibandingkan brown water\r\nbiofloc dan kontrol.\r\nKata Kunci: pertumbuhan, tingkat kelangsungan hidup, konversi pakan, penyakit, tipe biofloc",
+      "subjects": [
+        "SH"
+      ],
+      "status_changed": "2023-01-10 04:02:06",
+      "eprint_status": "archive"
+    }
+]
+

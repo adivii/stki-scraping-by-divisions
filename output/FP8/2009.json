@@ -1,0 +1,71 @@
+[
+    {
+      "date": 2009,
+      "dir": "disk0\/00\/00\/03\/73",
+      "publication": "Plant Biotechnology Report",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Kim",
+            "lineage": null,
+            "given": "H. A."
+          }
+        },
+        {
+          "id": "setyo.dwiutomo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null,
+            "given": "Setyo Dwi"
+          }
+        }
+      ],
+      "divisions": [
+        "FP8"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/373",
+      "full_text_status": "none",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "family": "Kim",
+            "honourific": null,
+            "lineage": null,
+            "given": "H"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "setyo.dwiutomo@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Setyo"
+          }
+        }
+      ],
+      "datestamp": "2016-08-22 06:52:38",
+      "userid": 1078,
+      "lastmod": "2016-08-22 06:52:38",
+      "eprintid": 373,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "The development of herbicide-resistant maize: stable Agrobacterium-mediated transformation of maize using explants of type II embryogenic calli",
+      "subjects": [
+        "SB"
+      ],
+      "abstract": "One of the limitations to conducting maize Agrobacterium-mediated transformation using explants of immature zygotic embryos routinely is the availability of the explants. To produce immature embryos routinely and continuously requires a well-equipped greenhouse and laborious artificial pollination. To overcome this limitation, an Agrobacterium-mediated transformation system using explants of type II embryogenic calli was developed. Once the type II embryogenic calli are produced, they can be subcultured and\/or proliferated conveniently. The objectives of this study were to demonstrate a stable Agrobacterium-mediated transformation of maize using explants of type II embryonic calli and to evaluate the efficiency of the protocol in order to develop herbicide-resistant maize. The type II embryogenic calli were inoculated with Agrobacterium tumefaciens strain C58C1 carrying binary vector pTF102, and then were subsequently cultured on the following media: co-cultivation medium for 1 day, delay medium for 7 days, selection medium for 4 × 14 days, regeneration medium, and finally on germination medium. The T-DNA of the vector carried two cassettes (Ubi promoter-EPSPs ORF-nos and 35S promoter–bar ORF-nos). The EPSPs conferred resistance to glyphosate and bar conferred resistance to phosphinothricin. The confirmation of stable transformation and the efficiency of transformation was based on the resistance to phosphinothricin indicated by the growth of putative transgenic calli on selection medium amended with 4 mg l−1 phosphinothricin, northern blot analysis of bar gene, and leaf painting assay for detection of bar gene-based herbicide resistance. Northern blot analysis and leaf painting assay confirmed the expression of bar transgenes in the R1 generation. The average transformation efficiency was 0.60%. Based on northern blot analysis and leaf painting assay, line 31 was selected as an elite line of maize resistant to herbicide.",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-22 06:52:38"
+    }
+]
+

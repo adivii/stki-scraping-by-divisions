@@ -1,0 +1,133 @@
+[
+    {
+      "eprintid": 18467,
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "status_changed": "2020-03-12 04:51:35",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "REPOSITORY REVIEWER: PROSIDING PIT HATHI PADANG 2014",
+      "divisions": [
+        "FT2"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/01\/84\/67",
+      "date": 2014,
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "given": "Gatot Eko",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          }
+        }
+      ],
+      "datestamp": "2020-03-12 04:51:35",
+      "lastmod": "2020-03-12 04:51:35",
+      "userid": 874,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18467",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31626",
+            "main": "P6-HATHI_PADANG.pdf",
+            "docid": 31626,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155298",
+                  "objectid": 31626,
+                  "filename": "P6-HATHI_PADANG.pdf",
+                  "hash": "ec1a27f13bf29c8d8942c5e6491a10c6",
+                  "mtime": "2020-03-08 17:48:00",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 155298,
+                  "filesize": 1823990,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 18467,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "HATHI Pusat Jakarta"
+    },
+    {
+      "eprintid": 18466,
+      "title": "REPOSITORY REVIEWER: Prosiding Seminar Nasional INACID 2014",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2020-03-12 04:50:20",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "family": "Susilo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gatot Eko"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/84\/66",
+      "date": 2014,
+      "type": "other",
+      "divisions": [
+        "FT2"
+      ],
+      "ispublished": "pub",
+      "publisher": "INACID",
+      "documents": [
+          {
+            "main": "P5-INACID.pdf",
+            "docid": 31625,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1623123,
+                  "fileid": 155290,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-03-08 17:40:42",
+                  "hash_type": "MD5",
+                  "filename": "P5-INACID.pdf",
+                  "hash": "912df3cc43f27f7970e6f4f55647e604",
+                  "objectid": 31625,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155290"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31625",
+            "eprintid": 18466,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18466",
+      "lastmod": "2020-03-12 04:50:20",
+      "userid": 874,
+      "datestamp": "2020-03-12 04:50:20"
+    }
+]
+

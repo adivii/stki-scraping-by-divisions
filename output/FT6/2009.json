@@ -1,0 +1,119 @@
+[
+    {
+      "datestamp": "2018-04-25 02:30:08",
+      "pagerange": "286-289",
+      "lastmod": "2018-04-25 02:30:08",
+      "corp_creators": [
+        "Chemical Engineering Department, Gadjah Mada University",
+        "Chemical Engineering Department, Gadjah Mada University",
+        "Chemical Engineering Department, Gadjah Mada University",
+        "Chemistry Department, Gadjah Mada University",
+        "Chemical Engineering Department, Gadjah Mada University"
+      ],
+      "userid": 423,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6578",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19529",
+            "docid": 19529,
+            "main": "rsce 2009 Herti Manila.pdf",
+            "files": [
+                {
+                  "filename": "rsce 2009 Herti Manila.pdf",
+                  "hash": "8aa26ab7884279e566df8fb671ba6799",
+                  "mtime": "2018-03-09 08:17:44",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 60715,
+                  "filesize": 956337,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60715",
+                  "objectid": 19529
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 6578,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FT6"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/65\/78",
+      "date": "2009-12-01",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Utami",
+            "given": "Herti"
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Arief",
+            "family": "Budiman",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Sutijan",
+            "lineage": null,
+            "given": "Sutijan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Roto",
+            "honourific": null,
+            "family": "Roto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyudi Budi",
+            "honourific": null,
+            "family": "Sediawan",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "abstract": "Turpentine is one of the essential oils obtained from pine tree and is a very important substance in many applications such as solvent in pharmaceutical industries and in processing of oils, resins and varnishes. Substantial part of pine tree of the forest is regularly tapped and processed to produce gum, rosin, and turpentine.\r\n\tMost of pines in Indonesia are pine mercusii species, which typically produce turpentine that contains of about 82% alpha pinene, 12% delta carene and balanced with other numerous components such as camphene, beta-pinene and limonene. In order to obtain more valuable products, the alpha pinene in the turpentine can be hydrated in dilute mineral acid solutions to produce terpineol, which can be used as perfume, repellent of insect, antifungal and disinfectant. \r\n\t \tIn this work, a kinetics model for synthesis of terpineol from turpentine was developed to quantitatively describe effects of hydration process of alpha pinene in aqueous acid solution. The results of this study show that kinetics modeling of the hydration of alpha pinene using both chloro acetic acid and oxalic acid as catalyst could be approached with the heterogeneous model. The constants of the reaction rate for the first method were k1 = 13.2476 and k1’ = 8.8836x10-03 ml.mol-1.min-1 for chloro acetic acid, and k1 = 17.0005 and k1’ =  7.3042x10-02 ml.mol-1.min-1 for oxalic acid.  The sum of squares of error of the first and the last catalysts were 0.3273 % and 0.1627%, respectively. The constants of the reaction rate for the second method were k1 = 0.03130 and k1’ = 0.01239 ml.mol-1.min-1 for chloro acetic acid, and k1 = 0.0267 and k1’ = 0.04198 ml.mol-1.min-1 for oxalic acid.  The sum of squares of error of the first and the last catalysts were 0.3596 % and 0.02653%, respectively.",
+      "subjects": [
+        "TP"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 02:30:08",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "event_type": "conference",
+      "title": "Kinetics  Modeling For Synthesis of Terpineol From Turpentine",
+      "event_dates": "December 1-2,2009",
+      "date_type": "published",
+      "eprintid": 6578,
+      "event_title": "16th ASEAN Regional Symposium on Chemical Engineering",
+      "event_location": "Manila, Philippines"
+    }
+]
+

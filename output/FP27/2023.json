@@ -1,0 +1,537 @@
+[
+    {
+      "ispublished": "pub",
+      "number": 3,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248264",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 248264,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/608653",
+                  "fileid": 608653,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-10 08:06:14",
+                  "hash": "09fe848c3bec2f0c7131ad412d17eb4f",
+                  "filename": "Physical Chemical Quality and Constituent of Amoniated Cassava Peel with Various Levels of Urea Addition.pdf",
+                  "datasetid": "document",
+                  "filesize": 397007
+                }
+            ],
+            "main": "Physical Chemical Quality and Constituent of Amoniated Cassava Peel with Various Levels of Urea Addition.pdf",
+            "docid": 248264,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 51379
+          }
+      ],
+      "publisher": "Jurusan Peternakan Unila",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51379",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-05-10 08:25:45",
+      "userid": 8143,
+      "pagerange": "300-312",
+      "datestamp": "2023-05-10 08:25:45",
+      "publication": "JURNAL ILMIAH PETERNAKAN TERPADU",
+      "creators": [
+        {
+          "name": {
+            "given": "Fathul",
+            "lineage": null,
+            "honourific": null,
+            "family": "Farida"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Erwanto",
+            "given": "Erwanto"
+          },
+          "id": "erwanto61@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Agung Kusuma",
+            "lineage": null,
+            "given": "Wijaya"
+          },
+          "id": null
+        },
+        {
+          "id": "akhmad.dakhlan@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Dakhlan",
+            "honourific": null,
+            "given": "A."
+          }
+        },
+        {
+          "name": {
+            "given": "Fitria Tsani",
+            "honourific": null,
+            "family": "Farda",
+            "lineage": null
+          },
+          "id": "fitria.tsani@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Etha ‘Azizah",
+            "honourific": null,
+            "family": "Hasiib",
+            "lineage": null
+          },
+          "id": "ethahasiib@gmail.com"
+        }
+      ],
+      "issn": "2614-0497",
+      "dir": "disk0_bak\/00\/05\/13\/79",
+      "date": "2023-01-08",
+      "type": "article",
+      "divisions": [
+        "FP27"
+      ],
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JIPT\/index",
+      "title": "Kualitas Fisik, Kimia, dan Unsur Penyusun Kulit Singkong Amoniasi dengan Berbagai Level Pemberian Urea",
+      "rev_number": 7,
+      "volume": 10,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-10 08:25:45",
+      "related_url": [
+        {
+          "url": "https:\/\/dx.doi.org\/10.23960\/jipt. v10i3.p300-312",
+          "type": "org"
+        }
+      ],
+      "subjects": [
+        "SF"
+      ],
+      "abstract": "Kulit singkong merupakan limbah dari tanaman singkong yang berpotensi sebagai pakan ternak ruminansia. Pengolahan kulit singkong dengan amoniasi perlu dilakukan untuk meningkatkan kualitas dari kulit singkong. Penelitian dilakukan untuk mengetahui kualitas fisik dan kimia kulit singkong setelah diamoniasi. Penelitian dianalisis dengan Rancangan Acak Lengkap (RAL) dan hasil yang signifikan diuji lanjut menggunakan Duncan's multiple range test (DMRT). Perlakuan yang dilakukan yaitu T1 (Kulit singkong + 0kg urea); T2 (Kulit singkong + 0,02kg urea) ; T3 (Kulit singkong + 0,04kg urea). Setiap perlakuan terdiri dari 5 kali ulangan. Uji organoleptic dilakukan dengan jumlah partisipan penguji sebanyak 30 orang. Uji fisik yang diamati adalah warna, tekstur dan aroma. Kualitas kimia dilakukan melalui analisis proksimat dan Scanning Electron Microscope-Energi Dispersive X-Ray (SEM-EDX). Peubah pada uji kualitas kimia antara lain bahan kering, abu, protein kasar, lemak kasar dan serat kasar kulit singkong. Hasil penelitian menunjukkan bahwa amoniasi kulit singkong memengaruhi kualitas fisik dan kimia dari kulit singkong (P<0,05). Amoniasi kulit singkong meningkatkan kandungan protein hingga 23,01% (T3) dan menurunkan serat kasar hingga 7,92% (T2). Semakin tinggi pemberian urea semakin kecil struktur pati pada kulit singkong.",
+      "eprintid": 51379,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 49231,
+      "date_type": "published",
+      "official_url": "http:\/\/jrip.fp.unila.ac.id\/index.php\/JRIP\/issue\/view\/25",
+      "title": "PENGARUH PENGOLAHAN AMONIASI, FERMENTASI, DAN AMOFER KELOBOT\r\nJAGUNG TERHADAP KONSENTRASI VFA TOTAL, NH3, DAN PRODUKSI GAS TOTAL\r\nSECARA IN VITRO",
+      "volume": 7,
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "status_changed": "2023-03-29 01:40:31",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/jrip.fp.unila.ac.id\/index.php\/JRIP\/article\/view\/387\/377"
+        }
+      ],
+      "subjects": [
+        "SF"
+      ],
+      "abstract": "Abstract\r\n\r\nPenelitian ini bertujuan untuk mengetahui pengaruh pengolahan amoniasi, fermentasi, dan amofer (amoniasi-fermentasi) kelobot jagung terhadap konsentrasi VFA total, NH3, dan produksi gas total secara in vitro. Penelitian ini dilaksanakan pada Januari – Maret 2022 di Laboratorium Nutrisi dan Makanan ternak, Jurusan Peternakan, Fakultas Pertanian, Universitas Lampung dan Laboratorium Nutrisi dan Ternak Perah, Fakultas Peternakan, Institut Pertanian Bogor. Penelitian ini menggunakan Rancangan Acak Lenglap (RAL) yang terdiri dari 4 perlakuan dan 4 ulangan sehingga terdapat 16 satuan percobaan. Perlakuan yang digunakan yaitu P1 (kontrol\/tanpa perlakuan); P2 (amoniasi dengan 2% urea); P3 (fermentasi dengan 5% Aspergillus niger); P4 (Amofer (amoniasi dengan 2% urea dan fermentasi dengan 5% Aspergillus niger)). Data yang diperoleh dianalisis ragam pada taraf nyata 5% dan 1%. Apabila terdapat pengaruh nyata, akan diuji lanjut menggunakan uji Duncan’s Multiple Range Test (DMRT). Hasil analisis sidik ragam menunjukkan bahwa konsentrasi VFA total tidak berpengaruh nyata (P>0,05), tetapi berpengaruh sangat nyata (P<0,01) terhadap konsentrasi NH3 dan produksi gas total, dengan hasil penelitian terbaik pada perlakuan amoniasi, yaitu konsentrasi NH3 9,66 mM dan produksi gas total 132,95 mL\/g.",
+      "publication": "Jurnal Riset dan Inovasi Peternakan",
+      "issn": "2598-3067",
+      "creators": [
+        {
+          "name": {
+            "family": "Liana Putri N",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dessi"
+          },
+          "id": "dessilianap@gmail.com"
+        },
+        {
+          "id": "rudysutrisna65@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Sutrisna",
+            "lineage": null,
+            "given": "Rudy"
+          }
+        },
+        {
+          "id": "farida.1959@fp.unila.ac.id",
+          "name": {
+            "given": "Farida",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fathul"
+          }
+        },
+        {
+          "name": {
+            "given": "Liman",
+            "lineage": null,
+            "honourific": null,
+            "family": "Liman"
+          },
+          "id": "liman.1967@fp.unila.ac.id"
+        }
+      ],
+      "date": "2023-02-08",
+      "dir": "disk0_bak\/00\/04\/92\/31",
+      "type": "article",
+      "divisions": [
+        "FP27"
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Jurnal",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188768",
+            "rev_number": 8,
+            "main": "JRIP_Feb 2023_Liman_3.pdf",
+            "docid": 188768,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 534840,
+                  "hash": "400f738f0fbc44b724d6f1ae2e5fbb53",
+                  "filename": "JRIP_Feb 2023_Liman_3.pdf",
+                  "mtime": "2023-03-24 07:42:14",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 272619,
+                  "objectid": 188768,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534840"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "content": "published",
+            "eprintid": 49231,
+            "date_embargo": "2023-03-30",
+            "security": "validuser",
+            "placement": 1
+          }
+      ],
+      "publisher": "JURUSAN PETERNAKAN, FAKULTAS PERTANIAN,  UNIVERSITAS LAMPUNG",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49231",
+      "full_text_status": "restricted",
+      "refereed": "TRUE",
+      "lastmod": "2023-03-29 01:40:31",
+      "userid": 937,
+      "datestamp": "2023-03-29 01:40:31",
+      "pagerange": "84-93"
+    },
+    {
+      "date": "2023-05-01",
+      "dir": "disk0_bak\/00\/05\/10\/89",
+      "issn": "2598-3067",
+      "creators": [
+        {
+          "name": {
+            "given": "First Riyatna",
+            "honourific": null,
+            "family": "Rahman",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sutrisna",
+            "honourific": null,
+            "given": "Rudy"
+          },
+          "id": "rudysutrisna65@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fathul",
+            "given": "Farida"
+          },
+          "id": "farida.1959@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Liman",
+            "given": "Liman"
+          },
+          "id": "liman.1967@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Riset dan Inovasi Peternakan",
+      "divisions": [
+        "FP27"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51089",
+      "publisher": "JURUSAN PETERNAKAN, FAKULTAS PERTANIAN,  UNIVERSITAS LAMPUNG",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51089,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190806",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2023-05-05 02:58:52",
+                  "hash_type": "MD5",
+                  "hash": "987fb3ad2c24b02f2a3e454e890f024d",
+                  "filename": "JRIP_Mei 2023_Liman_3.pdf",
+                  "fileid": 549319,
+                  "mime_type": "application\/pdf",
+                  "filesize": 130281,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549319",
+                  "objectid": 190806
+                }
+            ],
+            "docid": 190806,
+            "main": "JRIP_Mei 2023_Liman_3.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "pagerange": "244-250",
+      "datestamp": "2023-05-05 03:21:50",
+      "lastmod": "2023-05-05 03:21:50",
+      "userid": 937,
+      "date_type": "published",
+      "eprintid": 51089,
+      "metadata_visibility": "show",
+      "volume": 7,
+      "rev_number": 6,
+      "title": "PENGARUH PENGOLAHAN KIMIA DAN BIOLOGIS PADA KELOBOT JAGUNG\r\nTERHADAP KANDUNGAN ADF DAN NDF",
+      "official_url": "http:\/\/jrip.fp.unila.ac.id\/index.php\/JRIP",
+      "abstract": "ABSTRACT\r\nThis study aims to determine the effect of chemical and biological processing as well as the best processing\r\nof corn husks on the content of ADF and NDF. This research was carried out from January to March 2022\r\nin plantation land owned by farmers, Tanjung Bintang sub-district, South Lampung, and the Laboratory of\r\nnutrition and feed technology, Department of Animal Husbandry, University of Lampung, as well as the\r\nLaboratory of Dairy Nutrition, Faculty of Animal Husbandry, Bogor Agricultural University. This study\r\nused a completely randomized design (CRD) consisting of 4 treatments and 4 replications so that there were\r\n16 experimental units. The treatments used were P1 (control), P2 (ammonia), P3 (fermentation), and P4\r\n(amofer). The data obtained were analysis of variance at 5% and 1% significance levels, which were then\r\nanalyzed using Duncan's Multiple Further Test. The results of the analysis of variance showed that the\r\nammonia, fermentation, and amofer treatments had a significant effect (P<0.05) on the levels of ADF and\r\nNDF. It was concluded that the best treatment to reduce the levels of ADF and NDF in corn husks was\r\nusing amofer processing with the results of ADF levels of 41.36% and NDF 82.55%",
+      "subjects": [
+        "SF"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jrip.fp.unila.ac.id\/index.php\/JRIP\/article\/view\/427\/417"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-05-05 03:21:50"
+    },
+    {
+      "title": "MERAKIT AYAM ORGANIK MELALUI PERSILANGAN DAN INTRODUKSI PROBIOTIK HERBAL",
+      "volume": 1,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "place_of_pub": "Klaten",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-10 08:25:41",
+      "subjects": [
+        "SF"
+      ],
+      "abstract": "Buku ini disusun untuk melengkapi sumber bacaan bagi\r\nmahasiswa agar dapat menambah wawasan pengetahuannya di\r\nbidang produksi unggas yang dilengkapi dengan cara-cara meramu\r\nransum dari bahan-bahan organik. Selain itu untuk memberikan\r\nwawasan jika genetik tertentu itu dengan input tertentu akan\r\nmenghasilkan kekhasan produk unggas sesuai yang diharapkan.\r\nGenetik tertentu di sini dimaksudkan mencari genetik unggas\r\nspesifik yang berasal dari lingkungan usahanya. Upaya ini dapat\r\nmelalui seleksi panjang dan memerlukan bahan yang terpilih. Pada\r\ntingkat seleksi dengan melakukan persilangan maka akan didapatkan\r\ngenetik baru yang sesuai dengan harapannya. Meskipun saat ini\r\nsudah ada unggas hasil seleksi yang unggul seperti broiler, ayam\r\nlayer yang merupakan produk seleksi panjang dengan spesifik\r\ngenetik penghasil daging dan telur.",
+      "eprintid": 51376,
+      "isbn": "978-623-420-696-8",
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "formatdesc": "book",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248250",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 248250,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/608623",
+                  "datasetid": "document",
+                  "filesize": 1865815,
+                  "fileid": 608623,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-05-10 07:41:11",
+                  "hash_type": "MD5",
+                  "filename": "419. BUKU AJAR MERAKIT AYAM ORGANIK - Ed Revisi (layout-danar).pdf",
+                  "hash": "84f22582cd5ce186b2211f1ba38faf12"
+                }
+            ],
+            "docid": 248250,
+            "main": "419. BUKU AJAR MERAKIT AYAM ORGANIK - Ed Revisi (layout-danar).pdf",
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 51376
+          }
+      ],
+      "publisher": "Penerbit Lakeisha",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51376",
+      "refereed": "TRUE",
+      "lastmod": "2023-05-10 08:25:41",
+      "userid": 8143,
+      "datestamp": "2023-05-10 08:25:41",
+      "creators": [
+        {
+          "id": "rudysutrisna65@yahoo.co.id",
+          "name": {
+            "given": "Rudy",
+            "honourific": null,
+            "family": "Sutrisna",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitria Tsani",
+            "given": "Farda"
+          }
+        },
+        {
+          "id": "ethahasiib@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Hasiib",
+            "lineage": null,
+            "given": "Etha ‘Azizah"
+          }
+        }
+      ],
+      "date": "2023-04-01",
+      "dir": "disk0_bak\/00\/05\/13\/76",
+      "pages": 102,
+      "contact_email": "etha.hasiib@fp.unila.ac.id",
+      "type": "book",
+      "divisions": [
+        "FP27"
+      ]
+    },
+    {
+      "eprintid": 49484,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-31 07:43:48",
+      "related_url": [
+        {
+          "url": "http:\/\/jrip.fp.unila.ac.id\/index.php\/JRIP\/article\/view\/398\/380"
+        }
+      ],
+      "subjects": [
+        "SF"
+      ],
+      "abstract": "Abstract\r\n\r\nPenelitian ini bertujuan untuk mengetahui adanya pengaruh jenis dan dosis pupuk nitrogen terhadap kandungan protein kasar dan serat kasar rumput gama umami. Penelitian ini menggunakan Rancangan Acak Lengkap (RAL) dengan metode split plot design (rancangan petak terbagi) dengan dua taraf perlakuan yaitu perlakuan utama (main plot) dan perlakuan anak petak (sub plot). Perlakuan utama berupa jenis-jenis pupuk nitrogen : K1 (pupuk urea); K2 (pupuk Calcium Ammonium Nitrat). Perlakuan anak petak berupa dosis penggunaan pupuk kandang: R0 (0 N kg\/ha); R1 (50 N kg\/ha); R2 (100 N kg\/ha); dan R3 (150 N kg\/ha). Setiap unit perlakuan percobaan berupa lahan petak berukuran 1,4 x 1,6 m. Setiap unit percobaan diulang sebanyak 3 kali, sehingga terdapat 24 unit percobaan. Data yang diperoleh dianalisis ragam pada taraf nyata 5%. Hasil penelitian menunjukkan bahwa penggunaan jenis pupuk nitrogen yang berbeda berpengaruh nyata (P<0,05) terhadap protein kasar (K1: 9,03%; K2: 7,04%) dan dilanjutkan menggunakan uji Beda Nyata Terkecil (BNT) tetapi tidak berpengaruh nyata (P>0,05) terhadap kandungan serat kasar. Penggunaan dosis pupuk nitrogen yang berbeda tidak berpengaruh nyata (P>0,05) terhadap protein kasar dan serat kasar.",
+      "official_url": "http:\/\/jrip.fp.unila.ac.id\/index.php\/JRIP\/issue\/view\/25",
+      "title": "PENGARUH PEMBERIAN JENIS DAN DOSIS PUPUK NITROGEN TERHADAP KANDUNGAN PROTEIN KASAR DAN SERAT KASAR RUMPUT GAMA UMAMI",
+      "rev_number": 6,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FP27"
+      ],
+      "publication": "Jurnal Riset dan Inovasi Peternakan",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wardhani",
+            "lineage": null,
+            "given": "Anugrah Satria"
+          },
+          "id": "E - mail:  anugrahsatriawardhani09@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Liman",
+            "lineage": null,
+            "given": "Liman"
+          },
+          "id": "liman.1967@fp.unila.ac.id"
+        },
+        {
+          "id": "fitria.tsani@fp.unila.ac.id",
+          "name": {
+            "family": "Farda",
+            "honourific": null,
+            "lineage": null,
+            "given": "Fitria Tsani"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhtarudin",
+            "lineage": null,
+            "given": "Muhtarudin"
+          },
+          "id": "muhtarudin@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2598-3067",
+      "date": "2023-02-08",
+      "dir": "disk0_bak\/00\/04\/94\/84",
+      "lastmod": "2023-03-31 07:43:48",
+      "userid": 937,
+      "datestamp": "2023-03-31 07:43:48",
+      "pagerange": "109-115",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49484,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189108",
+            "rev_number": 1,
+            "docid": 189108,
+            "main": "JRIP_Feb 2023_Liman_4_Vol 7 no1.pdf",
+            "files": [
+                {
+                  "filesize": 158995,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-31 04:33:59",
+                  "filename": "JRIP_Feb 2023_Liman_4_Vol 7 no1.pdf",
+                  "hash": "3b83bac0c33fcd3b673ee71d9f817f0d",
+                  "fileid": 536909,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536909",
+                  "objectid": 189108
+                }
+            ]
+          }
+      ],
+      "publisher": "JURUSAN PETERNAKAN, FAKULTAS PERTANIAN,  UNIVERSITAS LAMPUNG",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49484",
+      "refereed": "TRUE"
+    }
+]
+

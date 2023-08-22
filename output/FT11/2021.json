@@ -1,0 +1,2134 @@
+[
+    {
+      "publication": "Journal of Geodesy and Geomatics (DATUM)",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Bimantara",
+            "honourific": null,
+            "given": "Muhammad Bimo"
+          },
+          "id": "m.bimo290897@gmail.com"
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly",
+            "given": "Romi"
+          }
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Rahmadi",
+            "honourific": null,
+            "given": "Eko"
+          }
+        }
+      ],
+      "date": "2021-04",
+      "dir": "disk0\/00\/02\/96\/05",
+      "contact_email": "romi.fadly@eng.unila.ac.id",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43803",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 3,
+            "files": [
+                {
+                  "objectid": 43803,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262042",
+                  "mime_type": "application\/pdf",
+                  "fileid": 262042,
+                  "hash": "2a0d3bf2b124985d5e46f60f7a20de90",
+                  "filename": "132-18-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-23 08:54:43",
+                  "datasetid": "document",
+                  "filesize": 1046950
+                }
+            ],
+            "main": "132-18-PB.pdf",
+            "docid": 43803,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 29605
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29605",
+      "refereed": "TRUE",
+      "userid": 240,
+      "lastmod": "2021-04-24 03:07:03",
+      "pagerange": "1-8",
+      "datestamp": "2021-04-24 03:07:03",
+      "eprintid": 29605,
+      "date_type": "published",
+      "title": "PENDEFINISIAN KOORDINAT ULP2 TERHADAP ITRF 2014 MENGGUNAKAN KOMBINASI SATELIT GPS DAN GLONASS",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1840",
+      "volume": 1,
+      "rev_number": 24,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-04-24 03:07:03",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg"
+        }
+      ],
+      "subjects": [
+        "Q1",
+        "QB",
+        "T1"
+      ],
+      "abstract": "Sistem satelit navigasi dalam perkembangannya saat ini tergabung dalam satu sistem, yaitu sistem GNNS.\r\nSistem GNSS ini terdiri dari beberapa sistem satelit, yaitu GPS, Glonass, Galileo, Compass\/Beidou, IRNSS,\r\ndan QZSS. Dengan semakin banyaknya sistem satelit GNSS yang beroperasi, maka jumlah satelit yang teramati akan lebih banyak, sehingga geometri satelit akan menjadi lebih baik dan lebih kuat, dan ketelitian serta parameter yang akan diestimasi juga akan semakin baik. Universitas Lampung memiliki satu titik ikat yaitu ULP1 akan tetapi kondisi lingkungan yang berada disekitar titik dapat menyebabkan menurunnya kualitas data yang didapatkan menggunakan pengamatan GNSS, sehingga perlu dilakukan pendefinisian koordinat definitif titik baru bernama titik ULP2 menggunakan sistem satelit GPS, GLONASS, dan kombinasinya.Penelitian ini berfokus pada pendefinisian titik ULP2 serta perbandingan ketelitian koordinat yang dihasilkan dari sistem satelit GPS, GLONASS, dan kombinasinya. Data yang digunakan dalam penelitian ini meliputi data pengamatan GNSS doy 303 dan 304, serta data pendukung seperti: data pengamatan titik ikat, data final orbit, dan data broadcast ephemeris. Pengolahan menggunakan perangkat ilmiah GAMIT. Penelitian ini menghasilkan nilai koordinat definitif titik ULP2 yaitu-1669327,667(X), 6127212,686(Y), -592068,038(Z), koordinat geodetik ialah -5,3620393069⸰ (lintang), 105,2400573554⸰ (bujur) dan 130,56824 meter (tinggi elipsoid) dan untuk koordinat UTM zona 48S ialah 526596,3370 meter (Timur) dan 9407310,9970 meter (Utara). Berdasarkan analisa yang telah dilakukan, nilai koordinat yang dihasilkan dari sistem satelit GLONASS secara statistik tidak memiliki perbedaaan dengan nilai koordinat yang dihasilkan dari sistem satelit GNSS ataupun sistem satelit GPS.\r\n\r\nKata Kunci: GNSS, definitif, ULP2, GAMIT"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Pembuatan Peta Zona Nilai Tanah Dengan Sistem Informasi Geografis Berbasis Web (Studi Kasus : Desa Kota Gajah Timur, Lampung Tengah).",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2022-09-05 01:26:57",
+      "eprint_status": "archive",
+      "eprintid": 44692,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44692",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166567",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482769",
+                  "objectid": 166567,
+                  "filesize": 954865,
+                  "datasetid": "document",
+                  "hash": "1e01952f824480c3428bff0de4217446",
+                  "filename": "2776-9283 (P).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-03 02:06:48",
+                  "mime_type": "application\/pdf",
+                  "fileid": 482769
+                }
+            ],
+            "main": "2776-9283 (P).pdf",
+            "docid": 166567,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 44692
+          }
+      ],
+      "publisher": "Datum Journal of Geodesy and Geomatics",
+      "ispublished": "pub",
+      "datestamp": "2022-09-05 01:26:57",
+      "lastmod": "2022-09-05 01:26:57",
+      "userid": 121,
+      "dir": "disk0\/00\/04\/46\/92",
+      "date": "2021-04-01",
+      "creators": [
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Citra"
+          }
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 49810,
+      "metadata_visibility": "show",
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2091",
+      "rev_number": 10,
+      "title": "Review Jurnal: ANALISIS PERGESERAN DAN REGANGAN SELAT SUNDA BERDASARKAN DATA CORS BIG TAHUN2017-2019",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2091",
+      "abstract": "Selat Sunda merupakan wilayah perairan yang berada pada pertemuan dua lempeng tektonik, yaitu lempeng Benua Eurasia dan lempeng Samudera Indo-Australia pertemuan lempeng tersebut membentuk zona subduksi sehingga menyebabkan patahan yang bergerak dan dikenal dengan Sesar Sumatra. Selain Sesar Sumatera di Selat Sunda juga terdapat aktivitas vulkanik yang disebabkan oleh aktivitas Gunung Anak Krakatau. Hal tersebut menyebabkan tingginya aktifitas geodinamika dan potensi bencana di Selat Sunda, mengingat wilayah selat sunda dikelilingi oleh provinsi yang padat penduduk dan menjadi jalur tranfortasi laut sehingga jika terjadi bencana maka banyak kerugian yang ditimbulkan. Oleh karena itu perlu adanya mitigasi bencana. Untuk mendukung mitigasi bencana maka dapat dilakuakan pemantauan pergeseran dan regangan Selat Sunda. Penelitian ini bertujuan menghitung besar pergeseran, kecepatan dan regangan Selat Sunda. Data yang digunakan yaitu data episodik titik CORS CGON, CLGI, CPSR, CSBK, CTCN dan CUJK, yang diikatkan ke 14 stasiun IGS BAKO, COCO, NTUS, XMIS, YAR3, DARW, KAT1, LHAZ, POHN, HYDE, DGAR, CUSV, SGOC, IISC, KARR dan pengolahan menggunakan software Gamit\/GLOBK 10.7. Hasil penelitian ini yaitu, pergeseran horizontal titik pengamatan sebesar 34,2 – 0,0525 mm dan pergeseran ketinggian sebesar 10,9 mm s.d -45,3 mm. Kecepatan pergeseran horizontal titik pengamatan sebesar 15,832 - 25,875 mm\/, titik pengamatan dominan bergerak ke arah tenggara dengan arah pergeseran sebesar 78,3260- 135,5190. Pola regangan titik pengamatan yaitu, kompresi dengan nilai kompresi -0,4254 μstrain s.d -0.2382 μstrain. Kata Kunci:KecepatanPergeseran, Pergeseran, Regangan, Selat Sunda.",
+      "subjects": [
+        "GE",
+        "Q1",
+        "QE",
+        "T1"
+      ],
+      "status_changed": "2023-04-08 13:23:41",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/98\/10",
+      "date": "2021-12-02",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "family": "Fadly",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49810",
+      "documents": [
+          {
+            "eprintid": 49810,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 189447,
+            "main": "SEJAWAT SEBIDANG atau PEER REVIEW (9).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1010995,
+                  "fileid": 539474,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-06 20:43:55",
+                  "hash_type": "MD5",
+                  "filename": "SEJAWAT SEBIDANG atau PEER REVIEW (9).pdf",
+                  "hash": "58c39ffb46ced50d75946fc9aed042ba",
+                  "objectid": 189447,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539474"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189447",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "ispublished": "pub",
+      "datestamp": "2023-04-08 13:23:41",
+      "lastmod": "2023-04-08 13:23:41",
+      "userid": 240
+    },
+    {
+      "date_type": "published",
+      "eprintid": 49809,
+      "metadata_visibility": "show",
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2092",
+      "rev_number": 12,
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2092",
+      "title": "Review Jurnal: ANALISIS PERUBAHAN TOPOGRAFI GUNUNG ANAK KRAKATAU PASCA ERUPSI TANGGAL 22 DESEMBER 2018 MENGGUNAKAN DATA FOTO UDARA DAN DEMNAS",
+      "abstract": "Erupsi yang terjadi pada Gunung Anak Krakatau (GAK) sejak bulan agustus hingga bulan Desember tahun 2018, membuat bagian puncak GAK tersebut longsor ke laut yang menyebabkan perubahan fisik dan berkurangnya jumlah volume GAK. Analisis perubahan topografi Gunung Anak Krakatau perlu dilakukan guna mendapatkan informasi dan perubahan kondisi sebelum dan setelah mengalami erupsi. Analisis dilakukan dengan cara membandingkan data DEM Foto Udara terhadap DEMNAS. Perhitungan perubahan jumlah volume GAK menggunakan metode perhitungan kontur dari data kontur DEM NAS dan DEM Foto Udara. Ketinggian puncak Gunung Anak Krakatau mengalami penurunan dari 260.136 meter menjadi 158.635 meter. Luasnya berubah dari 328.87 ha menjadi 315.876 ha. Terdapat lubang kawah menghadap kearah Barat Daya yang terendam air laut dengan diameter 385 meter seluas 12.64 ha. Sebelum terjadi erupsi, total volume Gunung Anak Krakatau±164,871,247.779782 m³ (berdasarkan DEMNAS), setelah erupsi total volume menjadi 126,647,397.3282 m³ (Berdasarkan DEM foto udara). Kata kunci : DEMNAS, Gunung Anak Krakatau, Perubahan Bentuk Fisik Volume, Foto udara",
+      "subjects": [
+        "GE",
+        "Q1",
+        "T1",
+        "TR"
+      ],
+      "status_changed": "2023-04-08 13:23:37",
+      "eprint_status": "archive",
+      "date": "2021-12-01",
+      "dir": "disk0_bak\/00\/04\/98\/09",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null,
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49809",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49809,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539462",
+                  "objectid": 189446,
+                  "mtime": "2023-04-06 20:38:44",
+                  "hash_type": "MD5",
+                  "hash": "0b6fa0e0e21c3df2a832250d4aee278b",
+                  "filename": "SEJAWAT SEBIDANG atau PEER REVIEW (10).pdf",
+                  "fileid": 539462,
+                  "mime_type": "application\/pdf",
+                  "filesize": 990902,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "SEJAWAT SEBIDANG atau PEER REVIEW (10).pdf",
+            "docid": 189446,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189446",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "ispublished": "pub",
+      "datestamp": "2023-04-08 13:23:37",
+      "userid": 240,
+      "lastmod": "2023-04-08 13:23:37"
+    },
+    {
+      "eprintid": 49782,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-06 08:44:51",
+      "abstract": "Gunung Sinabung merupakan salah satu gunung api aktif yang ada di Indonesia yang terletak di provinsi Sumatera Utara. Gunung Sinabung tercatat tidak pernah meletus sejak tahun 1600an, tetapi pada Agustus 2010 Gunung Sinabung mengalami erupsi untuk pertama kali setelah sekian lama tidak ada aktivitas di Gunung Sinabung. Potensi bahaya yang dihasilkan oleh hasil erupsi Gunung Sinabung mampu menghasilkan material berukuran abu sampai awan panas. Oleh karena itu, perlu dilakukan pengamatan yang signifikan dan kontinyu terhadap aktivitas Gunung Sinabung ini. Penelitian ini bertujuan untuk mengetahui besar pergeseran Gunung Sinabung. Metode yang digunakan untuk pemantauan aktivitas Gunung Sinabung dengan metode geodetik yaitu metode pengamatan GPS secara kontinyu. Dengan dilakukannya pemantauan dan analisis pergeseran titik pengamatan pada Gunung Sinabung, diharapkan dapat memberikan gambaran kecenderungan aktivitas Gunung Sinabung, sehingga dapat membantu bagaimana pergeseran yang terjadi pada titik pengamatan Gunung Sinabung. Berdasarkan analisis yang dilakukan, terdapat 2 periode pengamatan yaitu periode 1 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah dan mengalami pergeseran yang signifikan dan inflasi yang besar pada semua stasiun pengamatan Gunung Sinabung. Periode 2 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah. Namun terdapat perbedaan pada stasiun pengamatan dimana MRDG mengalami deflasi sedangkan KBYK, LKWR dan SNBG terjadi inflasi. Kata kunci: gunung sinabung, deformasi, pergeseran, gps.",
+      "subjects": [
+        "Q1",
+        "QB",
+        "T1"
+      ],
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/index",
+      "title": "Review Jurnal: NALISIS DEFORMASI GUNUNG SINABUNG BERDASARKAN DATA PENGAMATAN GPS PERIODE 2017-2018",
+      "metadata_visibility": "show",
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2088",
+      "rev_number": 9,
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null,
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/97\/82",
+      "date": "2021-11-02",
+      "lastmod": "2023-04-06 08:44:51",
+      "userid": 240,
+      "datestamp": "2023-04-06 08:44:51",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189417",
+            "docid": 189417,
+            "main": "LEMBAR HASIL PENILAIAN GABUNGAN (2).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 972921,
+                  "mime_type": "application\/pdf",
+                  "fileid": 539251,
+                  "hash": "e7514fccd3a842c5f4a0da5b322a6f80",
+                  "filename": "LEMBAR HASIL PENILAIAN GABUNGAN (2).pdf",
+                  "mtime": "2023-04-06 08:11:23",
+                  "hash_type": "MD5",
+                  "objectid": 189417,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539251"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49782,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49782"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49811",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "main": "LEMBAR HASIL PENILAIAN GABUNGAN (1).pdf",
+            "docid": 189448,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 539484,
+                  "filename": "LEMBAR HASIL PENILAIAN GABUNGAN (1).pdf",
+                  "hash": "f530ee00e9410bf950ec5ef6efdead2b",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-06 20:48:02",
+                  "datasetid": "document",
+                  "filesize": 975550,
+                  "objectid": 189448,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539484"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189448",
+            "rev_number": 1,
+            "eprintid": 49811,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2023-04-08 13:23:46",
+      "lastmod": "2023-04-08 13:23:46",
+      "userid": 240,
+      "date": "2021-12-02",
+      "dir": "disk0_bak\/00\/04\/98\/11",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly",
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2090",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Review Jurnal: NALISIS PERGESERAN DAN REGANGAN WILAYAH LAMPUNG BERDASARKAN DATA PENGAMATAN GPS EPISODIK TAHUN 2018-2019",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2090",
+      "abstract": "Lampung berdekatan dengan pertemuan Lempeng Indo-Australia dan Lempeng Eurasia, menyebabkan terbentuknya zona subduksi di Pesisir Lampung. Selain itu, Lampung dilalui“The Great Sumatran Fault”, Sesar Tarahan dan sesar kecil lainnya membuat wilayah Lampung rawan akan aktivitas geodinamika. Tsunami yang melanda wilayah Lampung, gempa tektonik yang menimbulkan korban jiwa, serta aktivitas vulkanisme yang tinggi merupakan implikasi dari geodinamika yang terjadi. Maka diperlukan penelitian untuk menentukan pola deformasi yang terjadi diwilayahLampung. Penelitian ini bertujuan menghitung besar pergeseran, kecepatan pergeseran dan arah pergeseran serta regangan arah horizontal. Data yang digunakan hasil pengamatan GPS di 9 titik CORS yang berada diwilayah Lampung, yaitu CBJY, CMEN, CTCN, CSBK, CWJP, CPRI, CKMN, CKRI, CLGI dan data pengamatan GPS titik ULP2 yang berada di Universitas Lampung. Titik ikat yang digunakan sebanyak 14 stasiun IGS yaitu, BAKO, COCO, CUSV, DARW, DGAR, NTUS, HYDE, IISC, KARR, KAT1, LHAZ, POHN, XMIS, YAR3. Pengolahan dilakukan menggunakan software GAMIT\/GLOBK 10.7. Hasil penelitian ini yaitu, pergeseran dengan rentang 0.20 – 29.78 mm untuk sumbu easting, -0.6 – -30.56 mm untuk sumbu northing dan 1.2 – 47.86 mm\/tahun untuk perubahan ketinggian. Kecepatan pergeseran horizontal sebesar 7.237 – 18.104 mm\/tahun yang didominasi bergerak mengarah ke Barat Daya, serta regangan yang terjadi didominasi pola kompresi dengan nilai 0.0098 s.d -0.8251 µstrain\/tahun. Kata Kunci : Deformasi, GPS, Lampung, Pergeseran, Regangan",
+      "subjects": [
+        "GE",
+        "Q1",
+        "QE",
+        "T1"
+      ],
+      "status_changed": "2023-04-08 13:23:46",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 49811
+    },
+    {
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/04\/98\/27",
+      "date": "2021-03-01",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly"
+          }
+        }
+      ],
+      "datestamp": "2023-04-08 13:24:47",
+      "lastmod": "2023-04-08 13:24:47",
+      "userid": 240,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49827",
+      "full_text_status": "public",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189466",
+            "docid": 189466,
+            "main": "SEJAWAT SEBIDANG atau PEER REVIEW.pdf",
+            "files": [
+                {
+                  "filesize": 962308,
+                  "datasetid": "document",
+                  "hash": "3710a03ac30626750cc07ab50286a6bc",
+                  "filename": "SEJAWAT SEBIDANG atau PEER REVIEW.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-06 22:04:19",
+                  "mime_type": "application\/pdf",
+                  "fileid": 539625,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539625",
+                  "objectid": 189466
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 49827,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 49827,
+      "abstract": "Sistem satelit navigasi dalam perkembangannya saat ini tergabung dalam satu sistem, yaitu sistem GNNS. Sistem GNSS ini terdiri dari beberapa sistem satelit, yaitu GPS, Glonass, Galileo, Compass\/Beidou, IRNSS, dan QZSS. Dengan semakin banyaknya sistem satelit GNSS yang beroperasi, maka jumlah satelit yang teramati akan lebih banyak, sehingga geometri satelit akan menjadi lebih baik dan lebih kuat, dan ketelitian serta parameter yang akan diestimasi juga akan semakin baik. Universitas Lampung memiliki satu titik ikat yaitu ULP1 akan tetapi kondisi lingkungan yang berada disekitar titik dapat menyebabkan menurunnya kualitas data yang didapatkan menggunakan pengamatan GNSS, sehingga perlu dilakukan pendefinisian koordinat definitif titik baru bernama titik ULP2 menggunakan sistem satelit GPS, GLONASS, dan kombinasinya.Penelitian ini berfokus pada pendefinisian titik ULP2 serta perbandingan ketelitian koordinat yang dihasilkan dari sistem satelit GPS, GLONASS, dan kombinasinya. Data yang digunakan dalam penelitian ini meliputi data pengamatan GNSS doy 303 dan 304, serta data pendukung seperti: data pengamatan titik ikat, data final orbit, dan data broadcast ephemeris. Pengolahan menggunakan perangkat ilmiah GAMIT. Penelitian ini menghasilkan nilai koordinat definitif titik ULP2 yaitu-1669327,667(X), 6127212,686(Y), -592068,038(Z), koordinat geodetik ialah -5,3620393069⸰ (lintang), 105,2400573554⸰ (bujur) dan 130,56824 meter (tinggi elipsoid) dan untuk koordinat UTM zona 48S ialah 526596,3370 meter (Timur) dan 9407310,9970 meter (Utara). Berdasarkan analisa yang telah dilakukan, nilai koordinat yang dihasilkan dari sistem satelit GLONASS secara statistik tidak memiliki perbedaaan dengan nilai koordinat yang dihasilkan dari sistem satelit GNSS ataupun sistem satelit GPS. Kata Kunci: GNSS, definitif, ULP2, GAMIT",
+      "subjects": [
+        "Q1",
+        "T1"
+      ],
+      "status_changed": "2023-04-08 13:24:47",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "place_of_pub": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1916",
+      "rev_number": 8,
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1916",
+      "title": "Review Jurnal: PENDEFINISIAN KOORDINAT ULP2 TERHADAP ITRF 2014 MENGGUNAKAN KOMBINASI SATELIT GPS DAN GLONASS"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50026",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "eprintid": 50026,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "LEMBAR HASIL PENILAIAN GABUNGAN.pdf",
+            "docid": 189725,
+            "files": [
+                {
+                  "objectid": 189725,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541303",
+                  "datasetid": "document",
+                  "filesize": 969203,
+                  "mime_type": "application\/pdf",
+                  "fileid": 541303,
+                  "hash": "67b8925ca583a67479e6082080257a39",
+                  "filename": "LEMBAR HASIL PENILAIAN GABUNGAN.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-10 03:53:58"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189725"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2023-04-10 04:16:22",
+      "userid": 240,
+      "lastmod": "2023-04-10 04:16:22",
+      "date": "2021-12-02",
+      "dir": "disk0_bak\/00\/05\/00\/26",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null,
+            "given": "Romi"
+          }
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2089",
+      "rev_number": 7,
+      "title": "Review jurnal: KAJIAN PENGARUH PANJANG BASELINE TERHADAP PENGOLAHAN DATA GPS METODE STATIC RADIAL MENGGUNAKAN PERANGKAT LUNAK NET DIFF",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2089",
+      "abstract": "Panjang baseline dan perangkat lunak adalah dua faktor yang dapat mempengaruhi hasil pengolahan data GPS. Panjang baseline dapat mempengaruhi ketelitian posisi yang dihasilkan. Faktor yang lainnya adalah perangkat lunak, Net Diff adalah perangkat lunak yang belum banyak digunakan oleh praktisi terkait untuk pengolahan data GPS. Oleh karena itu dilakukan kajian terkait faktor-faktor tersebut.\r\n\r\nMetode pengamatan menggunakan metode static radial, sedanglan pengolahan data secara post processing. Data diambil dengan 6 jam pengamatan, dan panjang baseline berbeda-beda, yaitu ±2 km, ±5 km, ±10 km, ±20 km, ±50 km dari base station. Kemudian dilakukan pengolahan data menggunakan perangkat lunak Net Diff, hasilnya akan di analisis menggunakan hasil dari pengolahan menggunakan GAMIT.Hasil dari penelitian pengolahan data GPS menggunakan perangkat lunak Net Diff, adalah selisih panjang baseline Net Diff terhadap GAMIT paling kecil dengan nilai 0.013 m terjadi di baseline pendek, yaitu titik HJMN, dengan panjang baseline 1595.35 m. Ketelitian koordinat Net Diff terhadap GAMIT paling kecil terjadi di baseline pendek, yaitu titik HJMN dengan nilai parameter X -0.003, dan parameter Z 0.003 m. Kemudian titik PKOR dengan nilai parameter X 0.002 m. Pada penelitian ini, panjang baseline sampai dengan ±50 km, masih memberikan hasil yang baik. Dibuktikan oleh hasil uji t, dengan tingkat kepercayaan 95%.",
+      "subjects": [
+        "GE",
+        "Q1",
+        "T1"
+      ],
+      "succeeds": 49812,
+      "eprint_status": "archive",
+      "status_changed": "2023-04-10 04:16:22",
+      "date_type": "published",
+      "eprintid": 50026
+    },
+    {
+      "title": "Review jurnal: PENDEFINISIAN KOORDINAT ULP2 UNIVERSITAS LAMPUNG TERHADAP ITRF 2014 SERTA ANALISA PENGGUNAAN TIGA MACAM RECEIVER YANG BERBEDA",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1918",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "place_of_pub": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1918",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-08 13:24:51",
+      "subjects": [
+        "G1",
+        "Q1",
+        "QA",
+        "T1"
+      ],
+      "abstract": "Survei Global Navigation Satellite System (GNSS) merupakan suatu metode penentuan posisi yang dapat digunakan untuk menentukan Titik Kontrol Geodetik, baik untuk skala nasional, regional, atau global. Universitas Lampung telah memiliki titik kontrol BM (BenchMark) bernama ULP1. Pada saat ini, kondisi di sekitar titik ULP1 telah ditumbuhi banyak pohon tinggi. Hal tersebut dapat menjadi objek penghalang sinyal satelit dan menyebabkan kesalahan yang serius pada hasil ketelitian posisi jika dilakukan pengukuran. Berdasarkan permasalahan tersebut, maka dilakukan penelitian pengamatan GNSS untuk mendefinisikan titik kontrol baru yaitu titik ULP2. Titik ULP2 berada di Universitas Lampung tepatnya dijalan depan Perpustakaan Unila. Periode penelitian dimulai tanggal 30 Oktober 2018 hingga 28 Januari 2019. Jenis metode pengamatan yang digunakan adalah metode statik dan menggunakan tiga macam receiver GNSS yang berbeda. Data hasil pengamatan diolah menggunakan software TEQC dan GAMIT\/GLOBK untuk mendapatkan koordinat. Uji statistik digunakan untuk melihat signifikansi koordinat antara tiga macam receiver GNSS yang berbeda. Hasil pengolahan menggunakan GAMIT\/GLOBK adalah koordinat definitif titik ULP2 Universitas Lampung. Koordinat geodetis, 5.3620393436° LS dan 105.2400574228° BT, koordinat kartesian, X= -1669327.667 m ± 0.012 m, Y = 6127212.656 m ± 0.039 m, dan Z = -592068.0398 m ± 0.007 m, koordinat UTM 48S, E= 526596.344 m, N=9407310.993 m, h= 130.539 m. Hasil uji statistik menggunakan uji t tidak menunjukan adanya perbedaan yang signifikan pada semua skenario, yang artinya penggunaan receiver yang berbeda tidak berpengaruh besar terhadap koordinat yang dihasilkan. Kata kunci: pendefinisian titik koordinat, GAMIT\/GLOBK, receiver GNSS",
+      "eprintid": 49826,
+      "date_type": "published",
+      "ispublished": "pub",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "main": "SEJAWAT SI BIDANG atau PEER REVIEW.pdf",
+            "docid": 189465,
+            "files": [
+                {
+                  "objectid": 189465,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539615",
+                  "datasetid": "document",
+                  "filesize": 944445,
+                  "mime_type": "application\/pdf",
+                  "fileid": 539615,
+                  "hash": "b707075da86add6be61dc700d1302417",
+                  "filename": "SEJAWAT SI BIDANG atau PEER REVIEW.pdf",
+                  "mtime": "2023-04-06 21:59:26",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189465",
+            "rev_number": 1,
+            "eprintid": 49826,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49826",
+      "lastmod": "2023-04-08 13:24:51",
+      "userid": 240,
+      "datestamp": "2023-04-08 13:24:51",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null,
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/98\/26",
+      "date": "2021-03-01",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ]
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/journals.ums.ac.id\/index.php\/fg\/article\/view\/12325",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2021-05-31 01:43:28",
+      "referencetext": "Ahmadi, M. et al. (2020) ‘Investigation of effective climatology parameters on COVID-19 outbreak in Iran’, Science of the Total Environment, 729. doi: 10.1016\/j.scitotenv.2020.138705.\r\n\r\nBariotakis, M. et al. (2020) ‘Climatic influences on the worldwide spread of SARS-CoV-2’, MedRXiv, 1, pp. 0–2. doi: 10.1101\/2020.03.19.20038158.\r\n\r\nBendib, A., Dridi, H. and Kalla, M. I. (2016) ‘Contribution of Landsat 8 data for the estimation of land surface temperature in Batna city, Eastern Algeria.’, Geocarto International, 32(5), pp. 503–513. doi: 10.1080\/10106049.2016.1156167.\r\n\r\nBPS Kabupaten Bandung (2019) Kabupaten Bandung dalam angka 2019. Bandung: BPS Kabupaten Bandung.\r\n\r\nBPS Kota Bandung (2020) Kota Bandung Dalam Angka 2020. Bandung: BPS Kota Bandung.\r\n\r\nChavez, P. S. (1988) ‘An improved dark-object subtraction technique for atmospheric scattering correction of multispectral data’, Remote Sensing of Environment, 24(3), pp. 459–479. doi: 10.1016\/0034-4257(88)90019-3.\r\n\r\nCoccia, M. (2020) ‘Factors determining the diffusion of COVID-19 and suggested strategy to prevent future accelerated viral infectivity similar to COVID’, Science of the Total Environment, 729, p. 138474. doi: 10.1016\/j.scitotenv.2020.138474.\r\n\r\nDennis, R. A. et al. (2005) ‘Fire, people and pixels: Linking social science and remote sensing to understand underlying causes and impacts of fires in Indonesia’, Human Ecology, 33(4), pp. 465–504. doi: 10.1007\/s10745-005-5156-z.\r\n\r\nDHS Spatial Interpolation Working Group (2014) Spatial Interpolation with Demographic and Health Survey Data : Key considerations. Rockville.\r\n\r\nVan Doremalen, N. et al. (2020) ‘Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1’, New England Journal of Medicine. Massachussetts Medical Society, pp. 1564–1567. doi: 10.1056\/NEJMc2004973.\r\n\r\nFranch-Pardo, I. et al. (2020) ‘Spatial analysis and GIS in the study of COVID-19. A review’, Science of the Total Environment, 739, p. 140033. doi: 10.1016\/j.scitotenv.2020.140033.\r\n\r\nKohli, D., Sliuzas, R. and Stein, A. (2016) ‘Urban slum detection using texture and spatial metrics derived from satellite imagery’, Journal of Spatial Science, 8596(May), pp. 1–22. doi: 10.1080\/14498596.2016.1138247.\r\n\r\nLewis, T. (2020) How Coronavirus Spreads through the Air: What We Know So Far, scientificamerican. Available at: https:\/\/www.scientificamerican.com\/article\/how-coronavirus-spreads-through-the-air-what-we-know-so-far1\/ (Accessed: 30 September 2020).\r\n\r\nLuo, W. et al. (2020) ‘The role of absolute humidity on transmission rates of the COVID-19 outbreak’, MedRXiv, p. 8. doi: 10.1101\/2020.02.12.20022467.\r\n\r\nMcFeeters, S. K. (2013) ‘Using the normalized difference water index (ndwi) within a geographic information system to detect swimming pools for mosquito abatement: A practical approach’, Remote Sensing, 5(7), pp. 3544–3561. doi: 10.3390\/rs5073544.\r\n\r\nMeng, G., Law, J. and Thompson, M. E. (2010) ‘Small-scale health-related indicator acquisition using secondary data spatial interpolation’, International Journal of Health Geographics, 9, pp. 1–17. doi: 10.1186\/1476-072X-9-50.\r\n\r\nQi, H. et al. (2020) ‘COVID-19 transmission in Mainland China is associated with temperature and humidity: A time-series analysis’, Science of the Total Environment, 728, p. 6. doi: 10.1016\/j.scitotenv.2020.138778.\r\n\r\nRey, S. et al. (2011) ‘A companion to Theoretical Econometrics Spatial econometrics’, Economics Letters, 4(2), pp. 223–251. doi: 10.1108\/17538251111125007.\r\n\r\nSeltenrich, N. (2014) ‘Remote-sensing applications for environmental health research’, Environmental Health Perspectives, 122(10), pp. A268–A275. doi: 10.1289\/ehp.122-A268.\r\n\r\nSeyedmohammadi, J., Esmaeelnejad, L. and Shabanpour, M. (2016) ‘Spatial variation modeling of groundwater electrical conductivity using geostatistics and GIS’, Modeling Earth Systems and Environment, 2(4), pp. 1–10. doi: 10.1007\/s40808-016-0226-3.\r\n\r\nShah, D. et al. (2013) ‘Estimating minimum and maximum air temperature using MODIS data over Indo-Gangetic Plain’, Journal of Earth System Science, 122(6), pp. 1593–1605. doi: 10.1007\/s12040-013-0369-9.\r\n\r\nTosepu, R. et al. (2020) ‘Correlation between weather and Covid-19 pandemic in Jakarta, Indonesia’, Science of the Total Environment, 725, p. 4. doi: 10.1016\/j.scitotenv.2020.138436.\r\n\r\nXie, Z. et al. (2020) ‘Spatial and temporal differentiation of COVID-19 epidemic spread in mainland China and its influencing factors’, Science of the Total Environment, 744, p. 140929. doi: 10.1016\/j.scitotenv.2020.140929.\r\n\r\nZhang, H. et al. (2019) ‘The epidemic characteristics and spatial autocorrelation analysis of hand, foot and mouth disease from 2010 to 2015 in Shantou, Guangdong, China’, BMC public health, 19(1), p. 998. doi: 10.1186\/s12889-019-7329-5.",
+      "title": "Spatial Analysis to Mitigate the Spread of Covid-19 Based on Regional Demographic Characteristics",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 35,
+      "userid": 3260,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31401",
+      "full_text_status": "none",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "keywords": "COVID-19, inverse distance weighted, old people population, spatial distribution, mitigation, PSBB",
+      "issn": "0852-0682",
+      "creators": [
+        {
+          "id": "firman.ghazali@eng.unila.ac.id",
+          "name": {
+            "given": "Mochamad Firman",
+            "honourific": null,
+            "family": "Ghazali",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tridawati",
+            "given": "Anggun"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sugandi",
+            "honourific": null,
+            "given": "Mamad"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anesta",
+            "given": "Aqilla Fitdhea"
+          }
+        },
+        {
+          "name": {
+            "given": "Ketut",
+            "lineage": null,
+            "family": "Wikantika",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Forum Geografi",
+      "dir": "disk0\/00\/03\/14\/01",
+      "eprint_status": "archive",
+      "abstract": "COVID-19 is currently the hot topic of conversation because of its ability to spread relatively quickly, in line with everyday human activities. It is unknown exactly the dominant environmental factors and their influence on the spread of COVID-19 in the last four months. Its distribution ability is no longer locally but has succeeded in making several countries stop its important activities globally. Non-spatial data such as positive confirmed population data, population-based on age, and Landsat 7 satellite imagery data were used to determine the spatial characteristics of the COVID-19 distribution until October September 2020. Inverse distance weighted (IDW), Moran's I and Local Indicator Spatial Association (LISA), as well as the ratio of the old population to the population, confirmed positive (+) were used as an approach to determine the characteristics of its distribution. Besides information on residential areas, surface temperature, and surface humidity based on supervised classification, land surface temperature (LST), and the normalized difference water index (NDWI) of Landsat 7 satellite imagery is used to enrich the spatial analysis carried out. The study results show a population concentration of COVID-19 towards the city of Bandung, with Moran's I result in not showing a good correlation. Meanwhile, the LISA results show that areas with a large or small number of elderly residents do not always have high positive COVID-19 numbers. The relation between the positive population (+) COVID-19 population and the built-up area (settlement), the surface temperature in the built-up area, surface humidity, and old age population based on the coefficient of determination (R2) is 0.03, 0.28, 0.25, and 0.019. This shows the level of vulnerability of the area is low. So, in the end, a recommendation for handling can be produced by taking into account the demographic characteristics of the area appropriately",
+      "subjects": [
+        "G1",
+        "GF"
+      ],
+      "official_url": "http:\/\/journals.ums.ac.id\/index.php\/fg\/article\/view\/12325",
+      "eprintid": 31401,
+      "date_type": "published",
+      "lastmod": "2021-05-31 01:43:28",
+      "datestamp": "2021-05-31 01:43:28",
+      "publisher": "Universitas Muhammadiyah Surakarta",
+      "ispublished": "pub",
+      "number": 1,
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "id_number": "https:\/\/doi.org\/10.23917\/forgeo.v35i1.12325",
+      "date": "2021-07-03"
+    },
+    {
+      "userid": 3260,
+      "pagerange": "1-6",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 35086,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 155851,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410409",
+                  "mime_type": "application\/pdf",
+                  "fileid": 410409,
+                  "hash": "eb9a9da50417f6b32ec379668b426ada",
+                  "filename": "Full Paper APSAR_Mochamad Firman Ghazali_Revised.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-05 10:24:36",
+                  "datasetid": "document",
+                  "filesize": 955037
+                }
+            ],
+            "docid": 155851,
+            "main": "Full Paper APSAR_Mochamad Firman Ghazali_Revised.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155851",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35086",
+      "refereed": "TRUE",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "keywords": "Mangrove trees, coastal conservation, random forest, Sentinel-1",
+      "creators": [
+        {
+          "id": "firman.ghazali@eng.unila.ac.id",
+          "name": {
+            "given": "Mochamad Firman",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ghazali"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wikantika",
+            "lineage": null,
+            "given": "Ketut"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/03\/50\/86",
+      "status_changed": "2021-11-06 02:10:25",
+      "title": "Pre-assessment of the Potential Dual Polarization Sentinel-1 Data for Mapping the Mangrove Tree Species Distribution in South Bali, Indonesia",
+      "referencetext": "[1]\tJ. B. de Jesus and T. M. Kuplich, “Applications of sar data to estimate forest biophysical variables in Brazil,” Cerne, vol. 26, no. 1, pp. 88–97, 2020, doi: 10.1590\/01047760202026012656.\r\n[2]\tM. Simard, G. De Grandi, S. Saatchi, and P. Mayaux, “Mapping tropical coastal vegetation using JERS-1 and ERS-1 radar data with a decision tree classifier,” Int. J. Remote Sens., vol. 23, no. 7, pp. 1461–1474, 2002, doi: 10.1080\/01431160110092984.\r\n[3]\tE. E. Sano, L. G. Ferreira, and A. R. Huete, “Synthetic aperture radar (L band) and optical vegetation indices for discriminating the Brazilian savanna physiognomies: A comparative analysis,” Earth Interact., vol. 9, no. 15, 2005, doi: 10.1175\/EI117.1.\r\n[4]\tM. Simard, “Radar Remote Sensing of Mangrove Forests,” SAR Handb. Compr. Methodol. For. Monit. Biomass Estim., p. 12, 2019, doi: 10.25966\/33zm-x271.\r\n[5]\tC. Proisy, E. Mougin, F. Fromard, V. Trichon, and M. A. Karam, “On the influence of canopy structure on the radar backscattering of mangrove forests,” Int. J. Remote Sens., vol. 23, no. 20, pp. 4197–4210, 2002, doi: 10.1080\/01431160110107725.\r\n[6]\tR. M. Lucas, A. L. Mitchell, A. Rosenqvist, C. Proisy, A. Melius, and C. Ticehurst, “The potential of L-band SAR for quantifying mangrove characteristics and change: case studies from the tropics,” Aquat. Conserv. Mar. Freshw. Ecosyst., vol. 17, pp. 245–264, 2007, doi: 10.1002\/aqc.833.\r\n[7]\tS. Abdikan, F. B. Sanli, M. Ustuner, S. A. Radar, and S. V. Machines, “Land cover mapping using Sentinel-1 SAR data,” in The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2016, vol. XLI, pp. 757–761, doi: 10.5194\/isprsarchives-XLI-B7-757-2016.\r\n[8]\tJ. Denize, L. Hubert-Moy, J. Betbeder, S. Corgne, J. Baudry, and E. Pottier, “Evaluation of using sentinel-1 and -2 time-series to identifywinter land use in agricultural landscapes,” Remote Sens., vol. 11, no. 1, 2019, doi: 10.3390\/rs11010037.\r\n[9]\tM. Fauvel et al., “Prediction of plant diversity in grasslands using Sentinel-1 and -2 satellite image time series,” Remote Sens. Environ., vol. 237, no. November 2019, p. 111536, 2020, doi: 10.1016\/j.rse.2019.111536.\r\n[10]\tD. Mandal et al., “Dual polarimetric radar vegetation index for crop growth monitoring using sentinel-1 SAR data,” Remote Sens. Environ., vol. 247, no. January, p. 111954, 2020, doi: 10.1016\/j.rse.2020.111954.\r\n[11]\tR. Jay Labadisos Argamosa et al., “Modelling above ground biomass of mangrove forest using Sentinel-1 imagery,” ISPRS Ann. Photogramm. Remote Sens. Spat. Inf. Sci., vol. 4, no. 3, pp. 13–20, 2018, doi: 10.5194\/isprs-annals-IV-3-13-2018.\r\n[12]\tM. Arief, N. Anggraini, S. W. Adawiah, M. Hartuti, and N. Suwargana, “Aplikasi Data Satelit Radar Sentinel-1A Guna Deteksi Hutan Mangrove Studi Kasus : Segara Anakan , Kabupaten Cilacap,” in Seminar Nasional Penginderaan Jauh ke-4 Tahun 2017, 2017, pp. 277–289.\r\n[13]\tT. D. Pham, J. Xia, G. Baier, N. N. Le, and N. Yokoya, “Mangrove Species Mapping Using Sentinel-1 and Sentinel-2 Data in North Vietnam,” in International Geoscience and Remote Sensing Symposium (IGARSS), 2019, pp. 6102–6105, doi: 10.1109\/IGARSS.2019.8898987.\r\n[14]\tI. Brown, S. Mwansasu, and L. O. Westerberg, “L-band polarimetric target decomposition of mangroves of the rufiji delta, Tanzania,” Remote Sens., vol. 8, no. 2, 2016, doi: 10.3390\/rs8020140.\r\n[15]\tM. Li and W. Bijker, “Potential of multi-temporal sentinel-1A dual polarization SAR images for vegetable classification in Indonesia,” in International Geoscience and Remote Sensing Symposium (IGARSS), 2018, pp. 3820–3823, doi: 10.1109\/IGARSS.2018.8517325.\r\n[16]\tV. H. R. Prudente, L. V. Oldoni, D. C. Vieira, C. E. V. Cattani, and I. Del’Arco Sanches, “Relationship between SAR\/Sentinel-1 polarimetric and interferometric data with biophysical parameters of agricultural crops,” Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci. - ISPRS Arch., vol. 42, no. 3\/W6, pp. 599–607, 2019, doi: 10.5194\/isprs-archives-XLII-3-W6-599-2019.\r\n[17]\tK. Harfenmeister, S. Itzerott, C. Weltzien, and D. Spengler, “Agricultural monitoring using polarimetric decomposition parameters of sentinel-1 data,” Remote Sens., vol. 13, no. 4, pp. 1–28, 2021, doi: 10.3390\/rs13040575.\r\n[18]\tY. R. Noor, M. Khazali, and I. N. N. Suryadiputra, Panduan Pengenalan Mangrove di Indonesia, 2nd ed. Bogor: Wetlands International-Indonesia Programme, 2006.\r\n[19]\tI. N. N. S. Rusila Noor, Y., M. Khazali, Pengenalan Mangrove di Indonesia. Bogor: PHKA-Wetlands International-Indonesia Programme, 1999.\r\n[20]\tS. Medasani and G. U. Reddy, “Analysis and Evaluation of Speckle Filters by Using Polarimetric Synthetic Aperture Radar Data Through Local Statistics,” Proc. 2nd Int. Conf. Electron. Commun. Aerosp. Technol. ICECA 2018, no. March, pp. 169–174, 2018, doi: 10.1109\/ICECA.2018.8474567.\r\n[21]\tJ. Sen Lee, “Digital Image Enhancement and Noise Filtering by Use of Local Statistics,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, 1980, vol. 2, no. 2, pp. 165–168, doi: 10.1109\/TPAMI.1980.4766994.\r\n[22]\tA. Dostálová, M. Hollaus, M. Milenković, and W. Wagner, “Forest Area Derivation From Sentinel-1 Data,” ISPRS Ann. Photogramm. Remote Sens. Spat. Inf. Sci., vol. III–7, no. February 2018, pp. 227–233, 2016, doi: 10.5194\/isprsannals-iii-7-227-2016.\r\n[23]\tM. Mahrooghy, J. Aanstoos, K. Hasan, S. Prasad, and N. H. Younan, “Effect of vegetation height and volume scattering on soil moisture classification using synthetic aperture radar (SAR) images,” Proc. - Appl. Imag. Pattern Recognit. Work., 2011, doi: 10.1109\/AIPR.2011.6176375.\r\n[24]\tP. Ma, H. Zhang, C. Wang, and J. Chen, “Classification of forest vegetation species based on parameters of tomography,” in 3rd International Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2011, 2011, pp. 1–4.\r\n[25]\tY. Kim and J. J. Van Zyl, “A time-series approach to estimate soil moisture using polarimetric radar data,” IEEE Trans. Geosci. Remote Sens., vol. 47, no. 8, pp. 2519–2527, 2009, doi: 10.1109\/TGRS.2009.2014944.\r\n[26]\tY. Liu, W. Gong, X. Hu, and J. Gong, “Forest type identification with random forest using Sentinel-1A, Sentinel-2A, multi-temporal Landsat-8 and DEM data,” Remote Sens., vol. 10, no. 6, pp. 1–25, 2018, doi: 10.3390\/rs10060946.\r\n[27]\tJ. Kellndorfer, “Using SAR Data for Mapping Deforestation and Forest Degradation,” in The SAR Handbook:Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, A. I. Flores-Anderson, K. E. Herndon, R. B. Thapa, and E. Herrington, Eds. Huntsville: SERVIR Global Science, 2019, p. 16.\r\n[28]\tB. a. M. Bouman, “Linking X-band radar backscattering and optical reflectance with crop growth models.,” PhD Thesis. Wageningen Agric. Univ. Netherlands., 1991.\r\n[29]\tA. P. Nicolau, A. Flores-Anderson, R. Griffin, K. Herndon, and F. J. Meyer, “Assessing SAR C-band data to effectively distinguish modified land uses in a heavily disturbed Amazon forest,” Int. J. Appl. Earth Obs. Geoinf., vol. 94, no. July 2020, p. 102214, 2021, doi: 10.1016\/j.jag.2020.102214.\r\n[30]\tC. Dubois et al., “Characterization of land cover seasonality in sentinel-1 time series data,” ISPRS Ann. Photogramm. Remote Sens. Spat. Inf. Sci., vol. 5, no. 3, pp. 97–104, 2020, doi: 10.5194\/isprs-Annals-V-3-2020-97-2020.",
+      "rev_number": 11,
+      "metadata_visibility": "show",
+      "lastmod": "2021-11-06 02:10:25",
+      "datestamp": "2021-11-06 02:10:25",
+      "contributors": [
+        {
+          "name": {
+            "family": "Mochamad Firman Ghazali",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mochamad"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "inpress",
+      "type": "conference_item",
+      "divisions": [
+        "FT11"
+      ],
+      "date": "2021-11-02",
+      "eprint_status": "archive",
+      "subjects": [
+        "G1",
+        "GE",
+        "SD"
+      ],
+      "abstract": "Behind the needs of the availability for the mangrove trees biodiversity database are important in promoting coastal area protection, includes mangrove forest conservation. This initiative started by mapping mangrove trees distribution by utilizing two different modes of ground detected ranged (GRD) and single look complex (SLC) of Sentinel-1 data images. Both are processed to get the backscatter value, dual-polarization radar vegetation index (DpRVI) and polarization decomposition for entropy, alpha, and anisotropy values for each mangrove trees species (MTS) detection that compared with the data field. Besides that, the distribution of each mangrove tree has been conducted based on its genus and species richness that estimated using a random forest (RF) algorithm for nine different combinations, includes VV, VH, and VV-VH, entropy, alpha, and anisotropy, DpRVI, and the integration of between backscatter value and polarization decomposition. The result has shown a variation in the level of accuracy ranged from weak to moderate at about 26% to 65%. The combination of VV, VH, VH-VV and DpRVI obtained better accuracy at about 65%.  Related to the species of mangrove detected, the Avicennia alba becomes a dominant mangrove tree species grown as much as 60% in the study area",
+      "event_dates": "1-3 November 2021",
+      "official_url": "https:\/\/edas.info\/showPaper.php?m=1570722221",
+      "event_type": "conference",
+      "event_title": "7th Asia-Pacific Conference in Synthetic Aperture Radar (APSAR 2021)",
+      "eprintid": 35086,
+      "date_type": "published",
+      "event_location": "Online, Bali."
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "publication": "Journal of Geodesy and Geomatics",
+      "issn": "2776-9283",
+      "creators": [
+        {
+          "name": {
+            "given": "M. Alfin",
+            "family": "Jurin",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "alfin.opq@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmadi"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/83\/31",
+      "date": "2021-12-25",
+      "lastmod": "2022-01-26 10:02:15",
+      "userid": 240,
+      "datestamp": "2022-01-26 10:02:15",
+      "pagerange": "18-22",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "eprintid": 38331,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 159406,
+            "main": "134-64-PB.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 434655,
+                  "hash": "39b1a2a580500a340a570c6ce12478af",
+                  "filename": "134-64-PB.pdf",
+                  "mtime": "2022-01-25 11:25:35",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 596320,
+                  "objectid": 159406,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434655"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159406"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38331",
+      "refereed": "TRUE",
+      "eprintid": 38331,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-26 10:02:15",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2089"
+        }
+      ],
+      "subjects": [
+        "G1",
+        "GA",
+        "QB"
+      ],
+      "abstract": "Panjang baseline dan perangkat lunak adalah dua faktor yang dapat mempengaruhi hasil pengolahan data GPS. Panjang baseline dapat mempengaruhi ketelitian posisi yang dihasilkan. Faktor yang lainnya adalah perangkat lunak, Net Diff adalah perangkat lunak yang belum banyak digunakan oleh praktisi terkait untuk pengolahan data GPS. Oleh karena itu dilakukan kajian terkait faktor-faktor tersebut.Metode pengamatan menggunakan metode static radial, sedanglan pengolahan data secara post processing. Data diambil dengan 6 jam pengamatan, dan panjang baseline berbeda-beda, yaitu ±2 km, ±5 km, ±10 km, ±20 km, ±50 km dari base station. Kemudian dilakukan pengolahan data menggunakan perangkat lunak Net Diff, hasilnya akan di analisis menggunakan hasil dari pengolahan menggunakan GAMIT.Hasil dari penelitian pengolahan data GPS menggunakan perangkat lunak Net Diff, adalah selisih panjang baseline Net Diff terhadap GAMIT paling kecil dengan nilai 0.013 m terjadi di baseline pendek, yaitu titik HJMN, dengan panjang baseline 1595.35 m. Ketelitian koordinat Net Diff terhadap GAMIT paling kecil terjadi di baseline pendek, yaitu titik HJMN dengan nilai parameter X 0.003, dan parameter Z 0.003m. Kemudian titik PKOR dengan nilai parameter X0.002m. Pada penelitian ini, panjang baseline sampai dengan ±50 km, masih memberikan hasil yang baik. Dibuktikan oleh hasil uji t, dengan tingkat kepercayaan 95%.\r\n\r\n\r\nKata kunci : gamit, net diff, panjang baseline",
+      "title": "KAJIAN PENGARUH PANJANG BASELINE TERHADAP PENGOLAHAN DATA GPS METODE STATIC RADIAL MENGGUNAKAN PERANGKAT LUNAK NET DIFF",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2089",
+      "rev_number": 8,
+      "volume": 1,
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "id": "fauzan.murdapa@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Murdapa",
+            "honourific": null,
+            "given": "Fauzan"
+          }
+        },
+        {
+          "name": {
+            "given": "Romi",
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "id": "rahma.anisa@eng.unila.ac.id",
+          "name": {
+            "given": "Rahma",
+            "family": "Anisa",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "geleng.peranginangin@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Geleng",
+            "given": "Perangin Angin"
+          }
+        }
+      ],
+      "date": "2021-09-30",
+      "dir": "disk0_bak\/00\/05\/06\/18",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "ispublished": "unpub",
+      "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat",
+      "documents": [
+          {
+            "main": "Laporan Akhir Kajian Pemetaan Desa Lengkap di Lampung Timur DIPA FT.pdf",
+            "docid": 190317,
+            "files": [
+                {
+                  "hash": "97533dfaacceed20ddffcd088bf4fcf4",
+                  "filename": "Laporan Akhir Kajian Pemetaan Desa Lengkap di Lampung Timur DIPA FT.pdf",
+                  "mtime": "2023-04-17 07:56:43",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 545640,
+                  "filesize": 4102944,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545640",
+                  "objectid": 190317
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190317",
+            "eprintid": 50618,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50618",
+      "full_text_status": "public",
+      "lastmod": "2023-04-17 09:26:21",
+      "userid": 240,
+      "datestamp": "2023-04-17 09:26:21",
+      "eprintid": 50618,
+      "date_type": "completed",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/50618\/1\/Laporan%20Akhir%20Kajian%20Pemetaan%20Desa%20Lengkap%20di%20Lampung%20Timur%20DIPA%20FT.pdf",
+      "title": "KAJIAN PEMETAAN DESA LENGKAP DI KABUPUPATEN LAMPUNG TIMUR TAHUN 2021",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-17 09:26:21",
+      "subjects": [
+        "G1",
+        "T1"
+      ],
+      "abstract": "Jumlah bidang tanah di Indonesia terus bertambah, akibat pemekaran maupun pemberian hak baru oleh pemerintah dan saat ini berjumlah lebih kurang 126 juta bidang. Namun dari 126 juta bidang tersebut baru sekitar 82 juta bidang atau 65% telah didaftarkan ke pemerintah. Artinya sekitar 44 juta bidang tanah belum didaftarkan, suatu jumlah yang sangat besar. Akibat dari belum terdaftarnya ini menimbulkan beberapa persoalan, diantaranya banyaknya konflik kepemilikan bidang tanah dimasyarakat, konflik antara\r\nrakyat dengan perusahaan, konflik antara pemerintah dengan masyarakat akibat ketidakpastian kepemilikan bidang tanah. Akibat konflik ini, pembangunan bisa terganggu. Oleh karena itu Kementerian ATR\/BPN bertekad untuk segera menyelesaikan\r\npermasalahan ini. Sesuai program kerja kementerian ATR\/BPN RI, ditargetkan pada tahun 2025 semua bidang tanah sudah terdaftar. Target Pendaftaran Tanah Sistimatis Lengkap (PTSL) sebenarnya tidak sekedar mendaftarkan tanahnya agar mendapatkan tanda bukti hak, tetapi lebih dari itu dengan\r\nPTSL ini harus bisa menghasilkan desa\/kalurahan lengkap, kecamatan lengkap dan kabupaten\/kota lengkap, Untuk itu diperlukan strategi secara khusus. Strategi dimulai\r\nperencanaan dengan menyusun roadmap rencana kerja penyelesaian desa lengkap dengan strategi pertama: a) mendekat, b) merapat dan b) menyeluruh sampai dengan\r\ntahun 2024. Strategi kedua: penetapan lokasi dengan mewajibkan pencapaian desa lengkap. Strategi ketiga: percepatan puldadis dengan menggunakan aplikasi Survey\r\nTanahku. Sehingga Kementerian ATR\/BPN pada tahun 2025 menjadi institusi pengelola pertanahan dan tata ruang yang berstandar dunia serta seluruh bidang tanah di Indonesia\r\nterdaftarkan Pada kajian ini, peneliti bermaksud melakukan kajian Pemetaan Desa Lengkap di Desa Bale Kencono, Desa Banjar Rejo, Desa Bale Rejo dan Desa Batang Harjo, Kecamatan\r\nBatanghari pada tahun 2021. Apakah ke empat desa tersebut dapat dideklarasikan sebagai desa lengkap atau belum.\r\nDari hasil kajian ini mendapatkan hasil temuan bahwa : (1).Desa Bale Rejo memenuhi syarat dideklarasikan sebagai Desa Lengkap. Sedangkan Desa Bale Kencono, Desa Banjar Rejo dan Desa Batang Harjo tidak memenuhi syarat untuk dideklarasikan sebagai Desa Lengkap, (2). Belum terpenuhinya syarat sebagai Desa Lengkap bagi Desa Bale Kencono, Desa Banjar Rejo dan Desa Batang Harjo akibat : (a).Perbedaan luas persil dengan luas persil valid yang sangat besar (melebihi batas toleransi), (b).Prosentase validasi persil bidang tanah masih di bawah 95%, (3).Perbedaan luas persil dengan luas persil valid dan prosentase validasi masih rendah akibat dari : (a).Pemilik bidang tanah tidak diketahui, (b).Ukuran dan bentuk bidang tanah berbeda dengan yang ada saat ini, berarti ada kesalahan pada saat pengukuran atau referensi dan system koordinatnya berbeda.\r\nKata kunci : Peta Bidang Tanah, Desa L"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46973",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 185916,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/516467",
+                  "fileid": 516467,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-28 07:33:45",
+                  "hash": "8b8b58233593c845622fae276961deb0",
+                  "filename": "DWI YOSA JURNAL.pdf",
+                  "datasetid": "document",
+                  "filesize": 865192
+                }
+            ],
+            "main": "DWI YOSA JURNAL.pdf",
+            "docid": 185916,
+            "formatdesc": "Analisis Kesesuaian Penggunaan Terhadap Rencana Tata Ruang Wilayah (RTRW) Di Kecamatan Natar Kabupaten Lampung Selatan",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185916",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46973,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "id"
+          }
+      ],
+      "pagerange": "48-54",
+      "userid": 102,
+      "dir": "disk0\/00\/04\/69\/73",
+      "publication": "DATUM Journal of Geodesy and Geomatics",
+      "creators": [
+        {
+          "id": "dwiyosa.oktidaria@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Oktaria",
+            "lineage": null,
+            "given": "Dwi Yosa"
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "family": "Rahmadi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2776-9283",
+      "keywords": "Kesesuaian, Penggunaan Lahan, Perubahan Pernggunaan Lahan, Rencana Tata Ruang Wilayah.",
+      "contact_email": "dwiyosa.oktidaria@gmail.com",
+      "volume": 1,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Analisis Kesesuaian Penggunaan Terhadap Rencana Tata Ruang Wilayah (RTRW) Di Kecamatan Natar Kabupaten Lampung Selatan",
+      "referencetext": "Kecamatan Natar merupakan kecamatan dengan populasi penduduk terbanyak di Kabupaten Lampung Selatan, terus mengalami peningkatan kebutuhan lahan. Akibatnya penggunaan lahan akan mengalami alih fungsi sehingga dapat membuat masalah dalam penataan ruangnya, yaitu akan timbul lahan yang fungsinya tidak sesuai dengan RTRW. Oleh karena itu perlu ada monitoring agar penggunaan lahan terus sejalan dengan RTRW. Monitoring dapat diketahui dengan melakukan perhitungan luas perubahan penggunaan lahan, analisis kesesuaian penggunaan lahan di terhadap RTRW serta analisis faktor–faktor utama yang mempengaruhi perubahan penggunaan lahan. Penelitian ini dilakukan dengan membuat peta penggunaan lahan eksisting dengan Penginderaan Jauh yang dibandingkan dengan peta penggunaan tahun rencana (RTRW) untuk menghasilkan peta perubahan penggunaan lahan. Kemudian dilakukan validasi lapangan untuk selanjutnya dilakukan uji akurasi menggunakan matriks konfusi. Peta perubahan penggunaan lahan tadi kemudian dibandingkan dengan peta pola ruang RTRW untuk dianalisis kesesuaiannya. Analisis regresi berganda digunakan untuk mengidentifikasi faktor-faktor utama yang mempengaruhi perubahan penggunaan lahan. Berdasarkan analisis perubahan penggunaan lahan didapatkan hasil berupa lahan yang mengalami perubahan seluas 3302.662 ha (13%). Sedangkan penggunaan lahan yang tidak mengalami perubahan seluas 21954.56 ha (87%). Sementara itu hasil analisis kesesuaian didapatkan sebesar 20.153,10 ha (79,8%) penggunaan lahan yang sesuai dengan RTRW dan 5.104,11 ha (20,2%) yang tidak sesuai dengan RTRW. Faktor-faktor utama yang berpengaruh terhadap perubahan penggunaan lahan adalah kepadatan penduduk dan aksesibilitas ke ibukota provinsi.",
+      "status_changed": "2022-11-30 06:50:53",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg",
+          "type": "pub"
+        }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "DATUM Journal of Geodesy and Geomatics",
+      "datestamp": "2022-11-30 06:50:53",
+      "lastmod": "2022-11-30 06:50:53",
+      "date": "2021-04",
+      "id_number": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/issue\/download\/132\/pdf_5",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1921",
+      "subjects": [
+        "GB",
+        "H1",
+        "T1"
+      ],
+      "abstract": "Kecamatan Natar merupakan kecamatan dengan populasi penduduk terbanyak di Kabupaten Lampung Selatan, terus mengalami peningkatan kebutuhan lahan. Akibatnya penggunaan lahan akan mengalami alih fungsi sehingga dapat membuat masalah dalam penataan ruangnya, yaitu akan timbul lahan yang fungsinya tidak sesuai dengan RTRW. Oleh karena itu perlu ada monitoring agar penggunaan lahan terus sejalan dengan RTRW. Monitoring dapat diketahui dengan melakukan perhitungan luas perubahan penggunaan lahan, analisis kesesuaian penggunaan lahan di terhadap RTRW serta analisis faktor–faktor utama yang mempengaruhi perubahan penggunaan lahan. Penelitian ini dilakukan dengan membuat peta penggunaan lahan eksisting dengan Penginderaan Jauh yang dibandingkan dengan peta penggunaan tahun rencana (RTRW) untuk menghasilkan peta perubahan penggunaan lahan. Kemudian dilakukan validasi lapangan untuk selanjutnya dilakukan uji akurasi menggunakan matriks konfusi. Peta perubahan penggunaan lahan tadi kemudian dibandingkan dengan peta pola ruang RTRW untuk dianalisis kesesuaiannya. Analisis regresi berganda digunakan untuk mengidentifikasi faktor-faktor utama yang mempengaruhi perubahan penggunaan lahan. Berdasarkan analisis perubahan penggunaan lahan didapatkan hasil berupa lahan yang mengalami perubahan seluas 3302.662 ha (13%). Sedangkan penggunaan lahan yang tidak mengalami perubahan seluas 21954.56 ha (87%). Sementara itu hasil analisis kesesuaian didapatkan sebesar 20.153,10 ha (79,8%) penggunaan lahan yang sesuai dengan RTRW dan 5.104,11 ha (20,2%) yang tidak sesuai dengan RTRW. Faktor-faktor utama yang berpengaruh terhadap perubahan penggunaan lahan adalah kepadatan penduduk dan aksesibilitas ke ibukota provinsi.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 46973
+    },
+    {
+      "eprintid": 29608,
+      "date_type": "published",
+      "status_changed": "2021-04-24 03:07:19",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1842"
+        }
+      ],
+      "subjects": [
+        "G1",
+        "Q1",
+        "QB",
+        "QE"
+      ],
+      "abstract": "Survei Global Navigation Satellite System (GNSS) merupakan suatu metode penentuan posisi yang dapat digunakan untuk menentukan Titik Kontrol Geodetik, baik untuk skala nasional, regional, atau global. Universitas Lampung telah memiliki titik kontrol BM (BenchMark) bernama ULP1. Pada saat ini, kondisi di sekitar titik ULP1 telah ditumbuhi banyak pohon tinggi. Hal tersebut dapat menjadi objek penghalang sinyal satelit dan menyebabkan kesalahan yang\r\nserius pada hasil ketelitian posisi jika dilakukan pengukuran. Berdasarkan permasalahan tersebut, maka dilakukan penelitian pengamatan GNSS untuk mendefinisikan titik kontrol baru yaitu titik ULP2. Titik ULP2 berada di Universitas Lampung tepatnya dijalan depan Perpustakaan Unila. Periode penelitian dimulai tanggal 30 Oktober 2018 hingga 28 Januari 2019. Jenis metode pengamatan yang digunakan adalah metode statik dan menggunakan tiga macam receiver GNSS yang berbeda. Data hasil pengamatan diolah menggunakan software TEQC dan GAMIT\/GLOBK untuk mendapatkan koordinat. Uji statistik digunakan untuk melihat signifikansi koordinat antara tiga macam receiver GNSS yang berbeda.  Hasil pengolahan menggunakan GAMIT\/GLOBK adalah koordinat definitif titik ULP2 Universitas Lampung. Koordinat geodetis, 5.3620393436° LS dan 105.2400574228° BT, koordinat kartesian, X= -1669327.667 m ± 0.012 m, Y = 6127212.656 m ± 0.039 m,\r\ndan Z = -592068.0398 m ± 0.007 m, koordinat UTM 48S, E= 526596.344 m, N=9407310.993 m, h= 130.539 m. Hasil uji statistik menggunakan uji t tidak menunjukan adanya\r\nperbedaan yang signifikan pada semua skenario, yang artinya penggunaan receiver yang berbeda tidak berpengaruh besar terhadap koordinat yang dihasilkan. \r\n\r\nKata kunci: pendefinisian titik koordinat, GAMIT\/GLOBK, receiver GNSS",
+      "title": "PENDEFINISIAN KOORDINAT ULP2 UNIVERSITAS LAMPUNG TERHADAP ITRF 2014 SERTA ANALISA PENGGUNAAN TIGA MACAM RECEIVER YANG BERBEDA",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1842",
+      "volume": 1,
+      "rev_number": 16,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "publication": "Journal of Geodesy and Geomatics",
+      "creators": [
+        {
+          "name": {
+            "family": "Putri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gita Nindya"
+          },
+          "id": "gitanindya60@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null,
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/96\/08",
+      "date": "2021-03",
+      "userid": 240,
+      "lastmod": "2021-04-24 03:07:19",
+      "pagerange": "18-27",
+      "datestamp": "2021-04-24 03:07:19",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 29608,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43805",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 43805,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262054",
+                  "datasetid": "document",
+                  "filesize": 1247978,
+                  "fileid": 262054,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-23 12:54:54",
+                  "hash": "8ad2bb6de5d82d34fef80e86323d0bf3",
+                  "filename": "132-19-PB.pdf"
+                }
+            ],
+            "docid": 43805,
+            "main": "132-19-PB.pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29608",
+      "refereed": "TRUE"
+    },
+    {
+      "title": "Bantuan Teknis Pembuatan Peta Foto dan Peta Garis Perumahan Indah Sejahtera I Sukarame Kota Bandar Lampung dengan Teknologi UAV",
+      "rev_number": 8,
+      "event_type": "other",
+      "metadata_visibility": "show",
+      "status_changed": "2021-11-14 02:06:18",
+      "eprint_status": "archive",
+      "subjects": [
+        "G1"
+      ],
+      "event_title": "Pengabdian Kepada Masyarakat",
+      "eprintid": 36690,
+      "date_type": "completed",
+      "ispublished": "submitted",
+      "pres_type": "other",
+      "documents": [
+          {
+            "docid": 157608,
+            "main": "11-13-2021 12.02 (1).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 760555,
+                  "fileid": 422485,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-13 14:42:09",
+                  "hash": "24bc6035d847595f5b7e975d149614d9",
+                  "filename": "11-13-2021 12.02 (1).pdf",
+                  "objectid": 157608,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/422485"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157608",
+            "rev_number": 1,
+            "eprintid": 36690,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36690",
+      "refereed": "FALSE",
+      "lastmod": "2021-11-14 02:06:18",
+      "userid": 3260,
+      "datestamp": "2021-11-14 02:06:18",
+      "creators": [
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmadi",
+            "given": "Eko"
+          }
+        },
+        {
+          "id": "firman.ghazali@eng.unila.ac.id",
+          "name": {
+            "family": "Ghazali",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mochamad Firman"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rahma",
+            "family": "Anisa",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mayasari",
+            "given": "Rizka"
+          }
+        }
+      ],
+      "date": "2021-11-13",
+      "dir": "disk0\/00\/03\/66\/90",
+      "contact_email": "eko.rahmadi@eng.unila.ac.id",
+      "type": "conference_item",
+      "divisions": [
+        "FT11"
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38328",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 159403,
+            "main": "134-63-PB.pdf",
+            "files": [
+                {
+                  "fileid": 434634,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-01-25 10:30:32",
+                  "hash_type": "MD5",
+                  "hash": "a3ec902118fb2a976600523bc3493055",
+                  "filename": "134-63-PB.pdf",
+                  "datasetid": "document",
+                  "filesize": 391232,
+                  "objectid": 159403,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434634"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159403",
+            "eprintid": 38328,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "pagerange": "13-17",
+      "datestamp": "2022-01-26 10:02:13",
+      "userid": 240,
+      "lastmod": "2022-01-26 10:02:13",
+      "dir": "disk0\/00\/03\/83\/28",
+      "date": "2021-12-01",
+      "publication": "Journal of Geodesy and Geomatics",
+      "creators": [
+        {
+          "id": "tsari401@gmail.com",
+          "name": {
+            "given": "Tania Sari",
+            "lineage": null,
+            "family": "Rahmawati",
+            "honourific": null
+          }
+        },
+        {
+          "id": "romgd2002@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly",
+            "given": "Romi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null,
+            "given": "Eko"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2776-9283",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "volume": 1,
+      "rev_number": 16,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2088",
+      "title": "ANALISIS DEFORMASI GUNUNG SINABUNG BERDASARKAN DATA PENGAMATAN GPS PERIODE 2017-2018",
+      "subjects": [
+        "GA",
+        "GB",
+        "Q1",
+        "QB"
+      ],
+      "abstract": "Gunung Sinabung merupakan salah satu gunung api aktif yang ada di Indonesia yang terletak di provinsi Sumatera Utara.  Gunung Sinabung tercatat tidak pernah meletus sejak tahun 1600an, tetapi pada Agustus 2010 Gunung Sinabung mengalami erupsi untuk pertama kali setelah sekian lama tidak ada aktivitas di Gunung Sinabung.  Potensi bahaya yang dihasilkan oleh hasil erupsi Gunung Sinabung mampu menghasilkan material berukuran abu sampai awan panas.  Oleh karena itu, perlu dilakukan pengamatan yang signifikan dan kontinyu terhadap aktivitas Gunung Sinabung ini.  Penelitian ini bertujuan untuk mengetahui besar pergeseran Gunung Sinabung. Metode yang digunakan untuk pemantauan aktivitas Gunung Sinabung dengan metode geodetik yaitu metode pengamatan GPS secara kontinyu.  Dengan dilakukannya pemantauan dan analisis pergeseran titik pengamatan pada Gunung Sinabung, diharapkan dapat memberikan gambaran kecenderungan aktivitas Gunung Sinabung, sehingga dapat membantu bagaimana pergeseran yang terjadi pada titik pengamatan Gunung Sinabung. Berdasarkan analisis yang dilakukan, terdapat 2 periode pengamatan yaitu periode\r\n1 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah dan mengalami pergeseran yang signifikan dan inflasi yang besar pada semua stasiun pengamatan Gunung Sinabung.  Periode 2 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah.  Namun terdapat perbedaan pada stasiun pengamatan dimana MRDG mengalami deflasi sedangkan KBYK, LKWR dan SNBG terjadi inflasi. \r\n\r\n\r\nKata kunci: gunung sinabung, deformasi, pergeseran,  gps.",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-26 10:02:13",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2088"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 38328
+    },
+    {
+      "eprintid": 29609,
+      "date_type": "published",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1843",
+      "title": "PENDEFINISIAN KOORDINAT ULP2 UNIVERSITAS LAMPUNG TERHADAP ITRF 2014 MENGGUNAKAN TITIK IKAT IGS DAN CORS BADAN INFORMASI GEOSPASIAL",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "volume": 1,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg"
+        }
+      ],
+      "status_changed": "2021-04-24 03:07:23",
+      "eprint_status": "archive",
+      "abstract": "Perkembangan teknologi GNNS dapat digunakan untuk penentuan posisi Titik Kontrol Geodetik. Jurusan Teknik Geodesi dan Geomatika FT UNILA telah memiliki Titik Kontrol Geodetik, yaitu titik ULP1. Saat ini, penggunaan titik ULP1 mulai terhambat dengan adanya pepohonan dan bangunan yang menghalangi penerimaan sinyal satelit sehingga mempengaruhi kualitas data pengamatan. Oleh sebab itu, dilakukan pembuatan titik kontrol baru di lokasi yang bebas hambatan dan titik tersebut diberi nama ULP2. Penelitian ini dilakukan untuk mendefinisikan koordinat titik ULP2 menggunakan titik ikat IGS dan CORS BIG terhadap ITRF 2014.  Metode pengamatan menggunakan survei GNSS secara statik selama empat hari, yaitu tanggal 30 Oktober sampai dengan 2 November 2018.  Pengolahan data dilakukan dengan software GAMIT\/GLOBK menggunakan tiga skenario pengolahan untuk mendapatkan koordinat yang teliti. Uji signifikansi dilakukan untuk melihat signifikansi perbedaan koordinat yang dihasilkan secara statistik. Hasil penelitian berupa koordinat definitif titik ULP2 dalam UTM zona 48S arah E = 526596,336 m, N =\r\n9407310,9954 m, dan h = 130,6185 m. Koordinat geodetis 5.3620393213ᴼ LS dan 105.240057347ᴼ BT.\r\nKoordinat kartesian 3D sumbu X=-1669327,679m ± 0,002m, Y=6127212,735 m ± 0,002 m, dan Z=-592068,045m ±0,0098m.  Hasil uji-t menunjukkan bahwa skenario I, II, dan III tidak memiliki perbedaan koordinat yang signifikan. Titik ikat yang paling optimal dihasilkan dari penggunaan titik ikat IGS dengan distribusi titik yang merata. Selain itu, penggunaan titik ikat dengan distribusi titik yang merata dapat menghasilkan konfigurasi jaring yang baik.  Panjang baseline yang optimal berkisar antara 565 km sampai dengan 2.806 km dengan nilai simpangan baku yang kecil pada arah E=2,4 mm, N=1,8mm, dan h=9,9mm.\r\n\r\nKata kunci: GAMIT\/GLOBK Pendefinisian koordinat, Titik ikat, ULP2",
+      "subjects": [
+        "G1",
+        "GE",
+        "Q1",
+        "QE"
+      ],
+      "creators": [
+        {
+          "id": "anarestia@email.com",
+          "name": {
+            "honourific": null,
+            "family": "Restiana",
+            "lineage": null,
+            "given": "Restiana"
+          }
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null,
+            "given": "Romi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmadi",
+            "given": "Eko"
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Journal of Geodesy and Geomatics",
+      "date": "2021-03",
+      "dir": "disk0\/00\/02\/96\/09",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 29609,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 43806,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262074",
+                  "mime_type": "application\/pdf",
+                  "fileid": 262074,
+                  "hash": "def64e9c3ed7ded9c2fbdb5b4ef42865",
+                  "filename": "132-20-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-23 13:23:38",
+                  "datasetid": "document",
+                  "filesize": 2077988
+                }
+            ],
+            "main": "132-20-PB.pdf",
+            "docid": 43806,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43806",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29609",
+      "lastmod": "2021-04-24 03:07:23",
+      "userid": 240,
+      "pagerange": "28-38",
+      "datestamp": "2021-04-24 03:07:23"
+    },
+    {
+      "status_changed": "2022-12-01 03:58:52",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg",
+          "type": "pub"
+        }
+      ],
+      "rev_number": 12,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "title": "Analisa Hamburan Balik Citra Sentinel-1 Untuk Pemantauan Kelas Umur Tanaman Kelapa Sawit (Studi Kasus: PT. Perkebunan Nusantara VII Unit Rejosari, Natar, Kabupaten Lampung Selatan)",
+      "referencetext": "Arief, R., & Sudiana, D. (2016). Optimasi Matriks Pengukuran dalam Compressed Sensing dengan Menggunakan Metode Gradient-Based Minimization pada Data Synthetic Aperture Radar. Seminar Nasional Penginderaan Jauh, 1–10.\r\n\r\nArmijon, A. (2020). Identification of Degraded Land for Determination of Conservation Areas Based on GIS in Region-1 Lampung Selatan District. Jurnal Geofisika Eksplorasi, 6(3), 228–242. https:\/\/doi.org\/https:\/\/doi.org\/10.23960\/jge.v6i3.100\r\n\r\nChemura, A., van Duren, I., & van Leeuwen, L. M. (2015). Determination of the age of oil palm from crown projection area detected from WorldView-2 multispectral remote sensing data: The case of Ejisu-Juaben district, Ghana. ISPRS Journal of Photogrammetry and Remote Sensing, 100(November 2017), 118–127. https:\/\/doi.org\/10.1016\/j.isprsjprs.2014.07.013\r\n\r\nClauss, K., Ottinger, M., & Kuenzer, C. (2018). Mapping rice areas with Sentinel-1 time series and superpixel segmentation. International Journal of Remote Sensing, 39(5), 1399–1420. https:\/\/doi.org\/10.1080\/01431161.2017.1404162\r\n\r\nIkhwandito, A., Prasetyo, Y., & Nugraha, A. L. (2018). Analisis Perbandingan Model Genangan Tsunami Menggunakan Data Dem Aster, Srtm Dan Terrasar (Studi Kasus: Kabupaten Pangandaran). Jurnal Geodesi Undip, 7(1), 131–141.\r\n\r\nKushardono, D., & Arief, R. (2020). Pemanfaatan Data Satelit Radar untuk Wilayah Darat di Indonesia: Peluang dan Tantangan (1 ed.; D. Kushardono & R. Arief, ed.). Diambil dari lipipress.lipi.go.id\r\n\r\nLazecky, M., Lhota, S., Penaz, T., & Klushina, D. (2018). Application of Sentinel-1 satellite to identify oil palm plantations in Balikpapan Bay. IOP Conference Series: Earth and Environmental Science, 169(1), 0–9. https:\/\/doi.org\/10.1088\/1755-1315\/169\/1\/012064\r\n\r\nMashaly, A. S., AbdElkawy, E. E. F., & Mahmoud, T. A. (2010). Speckle noise reduction in SAR images using adaptive morphological filter. Proceedings of the 2010 10th International Conference on Intelligent Systems Design and Applications, ISDA’10, 336–341. https:\/\/doi.org\/10.1109\/ISDA.2010.5687254\r\n\r\nSugiyono. (2007). Statistik untuk Penelitian (11 ed.; E.Mulyatiningsih, ed.). Diambil dari alfabetabdg@yahoo.co.id\r\n\r\nTambunan, D. S., Nelvia, N., & Amri, A. I. (2019). Aplikasi Limbah Cair Pabrik Kelapa Sawit Dengan Metoda Biopori Terhadap Pertumbuhan Tanaman Kelapa Sawit (Elaeis Guineensis Jacq.) Belum Menghasilkan. Jurnal Solum, 16(1), 19. https:\/\/doi.org\/10.25077\/jsolum.16.1.19-28.2019\r\n\r\nTridawati, A., Darmawan, S., & Armijon, A. (2018). Estimation the oil palm age based on optical remote sensing image in Landak Regency, West Kalimantan Indonesia. IOP Conference Series: Earth and Environmental Science, 169(1). https:\/\/doi.org\/10.1088\/1755-1315\/169\/1\/012063\r\n\r\nWulansari, H. (2017). Menggunakan Metode Defuzzifikasi Maximum Likelihood Berbasis Citra Alos Avnir-2. Bhumi Vol. 3 No. 1 Mei 2017, 3, 98–110.\r\n\r\nZhou, T., Pan, J., Zhang, P., Wei, S., & Han, T. (2017). Mapping Winter Wheat with Multi-Temporal SAR and Optical Images in an Urban Agricultural Region. 1–16. https:\/\/doi.org\/10.3390\/s17061210",
+      "keywords": "Algoritma SVM (Support Vector Machines), Hamburan Balik , Penginderaan Jauh Sensor Aktif, Sentinel-1, Umur Kelapa Sawit",
+      "contact_email": "nadyarulian15@gmail.com",
+      "dir": "disk0\/00\/04\/69\/70",
+      "publication": "DATUM Journal of Geodesy and Geomatics",
+      "creators": [
+        {
+          "id": "nadyarulian15@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Rulian",
+            "honourific": null,
+            "given": "Nadya"
+          }
+        },
+        {
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "id": "fauzan.murdapa@eng.unila.ac.id",
+          "name": {
+            "family": "Murdapa",
+            "honourific": null,
+            "lineage": null,
+            "given": "Fauzan"
+          }
+        }
+      ],
+      "issn": "2776-9283",
+      "pagerange": "55-66",
+      "userid": 102,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46970",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "content": "published",
+            "eprintid": 46970,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185913",
+            "formatdesc": "Analisa Hamburan Balik Citra Sentinel-1 Untuk Pemantauan Kelas Umur Tanaman Kelapa Sawit",
+            "main": "Nadya JURNAL.pdf",
+            "docid": 185913,
+            "files": [
+                {
+                  "objectid": 185913,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/516447",
+                  "mime_type": "application\/pdf",
+                  "fileid": 516447,
+                  "filename": "Nadya JURNAL.pdf",
+                  "hash": "190aedd0c32a6bc3fd2469cb751a23d9",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-28 07:17:34",
+                  "datasetid": "document",
+                  "filesize": 891165
+                }
+            ]
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 46970,
+      "subjects": [
+        "GB",
+        "Q1",
+        "TR"
+      ],
+      "abstract": "Identifikasi umur kelapa sawit dapat dilakukan dengan memanfaatkan teknologi penginderaan jauh menggunakan citra sensor aktif yang memiliki keunggulan dapat beroperasi siang atau malam dan tidak terpengaruh masalah tutupan awan atau kabut. Adanya perbedaan umur kelapa sawit memengaruhi adanya perbedaan luas kanopi yang menyebabkan terjadinya variasi kekasaran permukaan kanopi sehingga tingkat hamburan balik yang dipancarkan sensor berbeda-beda. Penelitian ini menganalisa keeratan hubungan (korelasi) antara nilai hamburan balik Citra Sentinel-1 dan umur kelapa sawit serta mengkelaskan kelapa sawit berdasarkan umurnya menggunakan data Citra SAR Sentinel-1 dengan dual polarisasi (VV dan VH) mode Interferometric Wide Swath (IW) dan basemap umur kelapa sawit di lokasi kajian. Metodologi penelitian mencakup kegiatan pre-processing (kalibrasi radiometrik, terrain flattened gamma, filtering dan koreksi geometrik), klasifikasi menggunakan algoritma SVM (Support Vector Machines), uji akurasi menggunakan matrik konfusi serta analisa statistik dengan menghitung koefisien korelasi. Hasil penelitian membuktikan bahwa umur kelapa sawit dan nilai hamburan balik citra Sentinel-1 memiliki hubungan yang kurang erat, karena pada polarisasi VV koefisien korelasinya hanya sebesar 0,531% (sedang) dan untuk polarisasi VH sebesar 0,599% (sedang). Selain itu, hasil uji akurasi klasifikasi menggunakan matriks konfusi memperlihatkan bahwa skenario dengan lebih dari satu variabel menghasilkan tingkat akurasi yang lebih baik.",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2093",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "date": "2021-12",
+      "id_number": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/issue\/download\/134\/pdf_13",
+      "datestamp": "2022-12-01 03:58:52",
+      "lastmod": "2022-12-01 03:58:52",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung"
+    },
+    {
+      "pagerange": "1-6",
+      "datestamp": "2021-11-06 02:10:36",
+      "userid": 3260,
+      "lastmod": "2021-11-06 02:10:36",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35088",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "inpress",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155853",
+            "docid": 155853,
+            "main": "a64-salsabila final (1).pdf",
+            "files": [
+                {
+                  "hash": "4deb233438457c885616988ad90fdbaf",
+                  "filename": "a64-salsabila final (1).pdf",
+                  "mtime": "2021-11-05 10:31:53",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 410423,
+                  "filesize": 774226,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410423",
+                  "objectid": 155853
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 35088,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "keywords": "paddy rice, phenology, DpRVI, Sentinel-1, Lampung",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "type": "conference_item",
+      "dir": "disk0\/00\/03\/50\/88",
+      "date": "2021-11-02",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Salsabila",
+            "given": "Choirunnisa"
+          },
+          "id": "choirunnisasalsabila@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Mochamad Firman",
+            "honourific": null,
+            "family": "Ghazali",
+            "lineage": null
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Zaenudin",
+            "honourific": null,
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "subjects": [
+        "G1",
+        "S1"
+      ],
+      "abstract": "Availability of a good record of paddy rice growth\r\ncondition is important for obtaining sustainable paddy rice\r\nproduction in agricultural countries like Indonesia. A multitemporal of synthetic aperture radar (SAR) images of dualpolarization Sentinel-1 data collected from January 2020 to\r\nJanuary 2021 are good enough to show the variation occurs in\r\ntwo or more regions in Lampung Province based on starting\r\ntheir cultivation time in the paddy field. This study provides the\r\nrecommendation for detecting paddy rice phenology from two\r\ndifferent approaches. Backscatter values (σ0) generated from\r\nVV, VH, VV\/VH, and VV-VH and dual-polarization radar\r\nvegetation index (DpRVI) that has arranged to show the paddy\r\nrice growth and phenology pattern are compared with the\r\nobservation directly from the field at a different time of\r\ncultivation period. Both patterns matching with the acquisition\r\ntime of the direct observation has represented the similar\r\npattern created by radar backscatter and dpRVI with an\r\naccuracy of about 85%. The characteristic of phenology and\r\npaddy rice growth pattern in the many regions in Lampung province is possible to detect using backscatter values and\r\nDpRVI.",
+      "status_changed": "2021-11-06 02:10:36",
+      "eprint_status": "archive",
+      "rev_number": 11,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_dates": "1-3 November 2021",
+      "title": "Historical Paddy Rice Growth and Phenology Pattern Estimation Using Dual Polarization of Sentinel 1",
+      "referencetext": "[1] Ditjen BP Holtikultura, Profil Komoditas Padi. 2003.\r\n[2] Badan Pusat Statistika, “Luas Panen dan Produksi Padi di Indonesia 2020,” Ber. Resmi Stat., no. 22, pp. 1–20, 2021.\r\n[3] Direktorat Statistik Tanaman Pangan, Hortikultura, “Luas Panen dan Produksi Padi di Indonesia 2020 (Hasil Kegiatan Statistik Pendataan Pertanian Tanaman Pangan Terintegrasi Dengan Metode Kerangka Sampel Area),” Badan Pus. Stat., pp. 1–341, 2021.\r\n[4] BPS, “Statistik Luas Panen dan Produksi Padi di Indonesia 2020,” Ber. Resmi Stat., vol. 3, no. 22, pp. 1–12, 2021.\r\n[5] Badan Pusat Statistika, “Statistik Luas Panen dan Produksi Padi,” Ber. Resmi Stat., vol. 2, no. 16, pp. 1–12, 2020.\r\n[6] Anugerah Indah Lestari and D. Kushardono, “Potensi data satelit radar x- band dan c- band untuk pemantauan lahan sawah dan fase pertumbuhan padi,” Inderaja, vol. IX, no. March, 2018.\r\n[7] J. E. Hill, “Rice Growth and Development,” Calif. Rice Prod. Work., pp. 1–11, 2005.\r\n[8] S. S. Parul, Rice technical manual for extension officers. Subregional Office for the Pacific Islands Food and Agriculture\r\nOrganization of the United Nations Apia, 2017, 2017.\r\n[9] B. Tjahjono, A. H. Syafri, D. R. Panuju, A. Kasno, B. H.\r\nTrisasongko, and F. Heidina, “Pemantauan Lahan Sawah\r\nMenggunakan Citra Alos Avnir-2,” vol. 15, pp. 1–8, 2009.\r\n[10] M. N. Fathoni, G. A. Chulafak, and D. Kushardono, “Kajian Awal Pemanfaatan Data Radar Sentinel-1 untuk Pemetaan Lahan Baku Sawah di Kabupaten Indramayu Jawa Barat,” Semin. Nas. Penginderaan jauh ke-4, no. October, pp. 179–186, 2017.\r\n[11] R. U. Nuevo, R. B. Saludes, M. A. Dorado, and N. C. Bantayan, “Monitoring of rice in small paddy fields using multi-temporal Sentinel-1 data,” 38th Asian Conf. Remote Sens. - Sp. Appl. Touching Hum. Lives, ACRS 2017, vol. 2017-Octob, no. October, 2017.\r\n[12] F. Ramadhani, R. Pullanagari, G. Kereszturi, and J. Procter, “Automatic mapping of rice growth stages using the integration of sentinel-2, mod13q1, and sentinel-1,” Remote Sens., vol. 12, no. 21, pp. 1–21, 2020, doi: 10.3390\/rs12213613.\r\n[13] C. Yonezawa et al., “Growth monitoring and classification of rice fields using multitemporal RADARSAT-2 full-polarimetric data,” Int. J. Remote Sens., vol. 33, no. 18, pp. 5696–5711, 2012, doi: 10.1080\/01431161.2012.665194.\r\n[14] Supriatna, Rokhmatuloh, A. Wibowo, and I. P. A. Shidiq, “Spatial analysis of rice phenology using Sentinel-1 and Sentinel-2 in Karawang Regency,” IOP Conf. Ser. Earth Environ. Sci., vol. 500, no. 1, 2020, doi: 10.1088\/1755-1315\/500\/1\/012033.\r\n[15] C. Szigarski et al., “Analysis of the Radar Vegetation Index and potential improvements,” Remote Sens., vol. 10, no. 11, pp. 1–15, 2018, doi: 10.3390\/rs10111776.\r\n[16] D. Kumar, S. Rao, and J. R. Sharma, “Radar Vegetation Index as an Alternative to NDVI for Monitoring of Soyabean and Cotton,” Proc. XXXIII INCA Int. Congr. (Indian Cartogr. 19-21 Sept. 2013, Jodhpur, India, no. September 2013, pp. 91–96, 2013.\r\n[17] D. Mandal et al., “Dual polarimetric radar vegetation index for crop growth monitoring using sentinel-1 SAR data,” Remote Sens. Environ., vol. 247, 2020, doi: 10.1016\/j.rse.2020.111954.\r\n[18] BPS Lampung Selatan, Kabupaten Lampung Selatan Dalam Angka 2021. 2020.\r\n[19] D. Dirgahayu and I. Made Parsa, “Detection Phase Growth of Paddy Crop Using SAR Sentinel-1 Data,” IOP Conf. Ser. Earth Environ. Sci., vol. 280, no. 1, 2019, doi: 10.1088\/1755-\r\n1315\/280\/1\/012020",
+      "date_type": "published",
+      "event_title": "7th Asia Pacific Conference in Synthetic Aperture Radar (APSAR) 2021",
+      "eprintid": 35088,
+      "event_location": "Online, Bali."
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Salsabila",
+            "given": "Meylia Sinta"
+          },
+          "id": "meyliaasinta@email.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null,
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "family": "Rahmadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Eko"
+          }
+        }
+      ],
+      "issn": "2776-9283",
+      "publication": "Journal of Geodesy and Geomatics",
+      "dir": "disk0\/00\/03\/83\/33",
+      "date": "2021-12-01",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 38333,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159408",
+            "docid": 159408,
+            "main": "134-65-PB.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434666",
+                  "objectid": 159408,
+                  "filesize": 375011,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-25 11:41:00",
+                  "filename": "134-65-PB.pdf",
+                  "hash": "40f55d3b29c3f1396225408fa9febb47",
+                  "fileid": 434666,
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38333",
+      "lastmod": "2022-01-26 10:02:19",
+      "userid": 240,
+      "datestamp": "2022-01-26 10:02:19",
+      "pagerange": "23-30",
+      "eprintid": 38333,
+      "date_type": "published",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2090",
+      "title": "ANALISIS PERGESERAN DAN REGANGAN WILAYAH LAMPUNG BERDASARKAN DATA PENGAMATAN GPS EPISODIK TAHUN 2018-2019",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 8,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2090"
+        }
+      ],
+      "status_changed": "2022-01-26 10:02:19",
+      "eprint_status": "archive",
+      "abstract": "Lampung berdekatan dengan pertemuan Lempeng Indo-Australia dan Lempeng Eurasia, menyebabkan terbentuknya zona subduksi di Pesisir Lampung. Selain itu, Lampung dilalui“The Great Sumatran Fault”, Sesar Tarahan dan sesar kecil lainnya membuat wilayah Lampung rawan akan aktivitas geodinamika. Tsunami yang melanda wilayah Lampung, gempa tektonik yang menimbulkan korban jiwa, serta aktivitas vulkanisme yang tinggi merupakan implikasi dari geodinamika yang terjadi. Maka diperlukan penelitian untuk menentukan pola deformasi yang terjadi diwilayahLampung. Penelitian ini bertujuan menghitung besar pergeseran, kecepatan pergeseran dan arah pergeseran serta regangan arah horizontal. Data yang digunakan hasil pengamatan GPS di 9 titik CORS yang berada diwilayah Lampung, yaitu CBJY, CMEN, CTCN, CSBK, CWJP, CPRI, CKMN, CKRI, CLGI dan data pengamatan GPS titik ULP2 yang berada di Universitas Lampung. Titik ikat yang digunakan sebanyak 14 stasiun IGS yaitu, BAKO, COCO, CUSV, DARW, DGAR, NTUS, HYDE, IISC, KARR, KAT1, LHAZ, POHN, XMIS, YAR3. \r\nPengolahan dilakukan menggunakan software GAMIT\/GLOBK 10.7. Hasil penelitian ini yaitu, pergeseran dengan rentang 0.20 – 29.78 mm untuk sumbu easting, -0.6 – -30.56 mm untuk sumbu northing dan 1.2 – 47.86 mm\/tahun untuk perubahan ketinggian. Kecepatan pergeseran horizontal sebesar 7.237 – 18.104 mm\/tahun yang didominasi bergerak mengarah ke Barat Daya,  serta regangan yang terjadi didominasi pola kompresi dengan nilai 0.0098  s.d -0.8251 µstrain\/tahun.\r\n\r\n \r\n\r\nKata Kunci : Deformasi, GPS, Lampung, Pergeseran, Regangan",
+      "subjects": [
+        "G1",
+        "GA",
+        "QB"
+      ]
+    },
+    {
+      "eprintid": 38334,
+      "date_type": "published",
+      "status_changed": "2022-01-26 10:02:22",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2091",
+          "type": "pub"
+        }
+      ],
+      "subjects": [
+        "G1",
+        "GA",
+        "QB"
+      ],
+      "abstract": "Selat Sunda merupakan wilayah perairan yang berada pada pertemuan dua lempeng tektonik, yaitu lempeng Benua Eurasia dan lempeng Samudera Indo-Australia pertemuan lempeng tersebut membentuk zona subduksi sehingga menyebabkan patahan yang bergerak dan dikenal dengan Sesar Sumatra. Selain Sesar Sumatera di Selat Sunda juga terdapat aktivitas vulkanik yang disebabkan oleh aktivitas Gunung Anak Krakatau. Hal tersebut menyebabkan tingginya aktifitas geodinamika dan potensi bencana di Selat Sunda, mengingat wilayah selat sunda dikelilingi oleh provinsi yang padat penduduk dan menjadi jalur tranfortasi laut sehingga jika terjadi bencana maka banyak kerugian yang ditimbulkan. Oleh karena itu perlu adanya mitigasi bencana. Untuk mendukung mitigasi bencana maka dapat dilakuakan pemantauan pergeseran dan regangan Selat Sunda. Penelitian ini bertujuan menghitung besar pergeseran, kecepatan dan regangan Selat Sunda. Data yang digunakan yaitu data episodik titik CORS CGON, CLGI, CPSR, CSBK, CTCN dan CUJK, yang diikatkan ke 14 stasiun IGS BAKO, COCO, NTUS, XMIS, YAR3, DARW, KAT1, LHAZ, POHN, HYDE, DGAR,\r\n\r\nCUSV, SGOC, IISC, KARR dan pengolahan menggunakan software Gamit\/GLOBK 10.7. Hasil penelitian ini yaitu, pergeseran horizontal titik pengamatan sebesar 34,2 – 0,0525 mm dan pergeseran ketinggian sebesar 10,9 mm s.d -45,3 mm. Kecepatan pergeseran horizontal titik pengamatan sebesar  15,832 - 25,875 mm\/,   titik pengamatan dominan bergerak ke arah tenggara dengan arah pergeseran sebesar 78,3260- 135,5190. Pola regangan titik pengamatan yaitu, kompresi dengan nilai kompresi -0,4254 μstrain s.d -0.2382 μstrain.\r\n\r\n \r\n\r\nKata Kunci:KecepatanPergeseran, Pergeseran, Regangan, Selat Sunda.",
+      "title": "ANALISIS PERGESERAN DAN REGANGAN SELAT SUNDA BERDASARKAN DATA CORS BIG TAHUN2017-2019",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2091",
+      "volume": 1,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "publication": "Journal of Geodesy and Geomatics",
+      "creators": [
+        {
+          "id": "Elysanti258@email.com",
+          "name": {
+            "given": "Ely",
+            "family": "Santi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly"
+          }
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null,
+            "given": "Eko"
+          }
+        }
+      ],
+      "issn": "2776-9283",
+      "dir": "disk0\/00\/03\/83\/34",
+      "date": "2021-12-01",
+      "lastmod": "2022-01-26 10:02:22",
+      "userid": 240,
+      "datestamp": "2022-01-26 10:02:22",
+      "pagerange": "31-42",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159409",
+            "rev_number": 1,
+            "docid": 159409,
+            "main": "134-66-PB.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-25 11:46:49",
+                  "filename": "134-66-PB.pdf",
+                  "hash": "b8676e2f204b5f4249a59f6b20d02b6f",
+                  "fileid": 434674,
+                  "mime_type": "application\/pdf",
+                  "filesize": 585345,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434674",
+                  "objectid": 159409
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 38334,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38334",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Saputra",
+            "lineage": null,
+            "given": "I Wayan Indra"
+          },
+          "id": "wayanindra07.wis@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2776-9283",
+      "publication": "Journal of Geodesy and Geomatics",
+      "dir": "disk0\/00\/03\/83\/35",
+      "date": "2021-12-01",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159410",
+            "rev_number": 1,
+            "docid": 159410,
+            "main": "134-67-PB.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 743949,
+                  "fileid": 434688,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-01-25 11:55:36",
+                  "hash_type": "MD5",
+                  "hash": "e15fbc57b9454f83c65d3692c3450f6e",
+                  "filename": "134-67-PB.pdf",
+                  "objectid": 159410,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434688"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 38335,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38335",
+      "userid": 240,
+      "lastmod": "2022-01-26 10:02:24",
+      "datestamp": "2022-01-26 10:02:24",
+      "pagerange": "43-55",
+      "eprintid": 38335,
+      "date_type": "published",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2092",
+      "title": "ANALISIS PERUBAHAN TOPOGRAFI GUNUNG ANAK KRAKATAU PASCA ERUPSI TANGGAL 22 DESEMBER 2018 MENGGUNAKAN DATA FOTO UDARA DAN DEMNAS",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 9,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2092"
+        }
+      ],
+      "status_changed": "2022-01-26 10:02:24",
+      "eprint_status": "archive",
+      "abstract": "Erupsi yang terjadi pada Gunung Anak Krakatau (GAK) sejak bulan agustus hingga bulan Desember tahun 2018, membuat bagian puncak GAK tersebut longsor ke laut yang menyebabkan perubahan fisik dan berkurangnya jumlah volume GAK. Analisis perubahan topografi Gunung Anak Krakatau perlu dilakukan guna mendapatkan informasi dan perubahan kondisi sebelum dan setelah mengalami erupsi. Analisis dilakukan dengan cara membandingkan data DEM Foto Udara terhadap DEMNAS. Perhitungan perubahan jumlah volume GAK menggunakan metode perhitungan kontur dari data kontur DEM NAS dan DEM Foto Udara. Ketinggian puncak Gunung Anak Krakatau mengalami penurunan dari 260.136 meter menjadi 158.635 meter. Luasnya berubah dari 328.87 ha menjadi 315.876 ha. Terdapat lubang kawah menghadap kearah Barat Daya yang terendam air laut dengan diameter 385 meter seluas 12.64 ha. Sebelum terjadi erupsi, total volume Gunung Anak Krakatau±164,871,247.779782 m³ (berdasarkan DEMNAS), setelah erupsi total volume menjadi 126,647,397.3282 m³ (Berdasarkan DEM foto udara).\r\n\r\n \r\n\r\nKata kunci : DEMNAS, Gunung Anak Krakatau, Perubahan Bentuk Fisik Volume, Foto udara",
+      "subjects": [
+        "G1",
+        "GA"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 29610,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 43807,
+            "main": "132-23-PB.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262087",
+                  "objectid": 43807,
+                  "filesize": 1209535,
+                  "datasetid": "document",
+                  "mtime": "2021-04-23 13:49:22",
+                  "hash_type": "MD5",
+                  "hash": "14386cba49ab1fd556bd37a1e413b335",
+                  "filename": "132-23-PB.pdf",
+                  "fileid": 262087,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43807"
+          }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29610",
+      "full_text_status": "public",
+      "lastmod": "2021-04-24 03:07:31",
+      "userid": 121,
+      "datestamp": "2021-04-24 03:07:31",
+      "pagerange": "55-61",
+      "creators": [
+        {
+          "name": {
+            "given": "Pasek Budi",
+            "lineage": null,
+            "family": "Sastrawan",
+            "honourific": null
+          },
+          "id": "pasekbudisastrawan@gmail.com"
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Citra"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Murdapa",
+            "lineage": null,
+            "given": "Fauzan"
+          },
+          "id": "fauzan.murdapa@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Journal of Geodesy and Geomatics",
+      "date": "2021-03",
+      "dir": "disk0\/00\/02\/96\/10",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1846",
+      "title": "Pembuatan Peta Zona Nilai Tanah Dengan Sistem Informasi Geografis Berbasis Web (Studi Kasus : Desa Kota Gajah Timur, Lampung Tengah)",
+      "metadata_visibility": "show",
+      "rev_number": 14,
+      "volume": 1,
+      "related_url": [
+        {
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg",
+          "type": "pub"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-04-24 03:07:31",
+      "abstract": "Nilai tanah selalu mengalami peningkatan yang disebabkan beberapa faktor, salah satunya adalah perubahan fungsi lahan akibat pertumbuhan penduduk yang meningkat. Informasi tentang nilai tanah tidak selalu diketahui oleh publik. Dengan permasalahan tersebut, maka diperlukan suatu media yang dapat memberikan informasi mengenai nilai tanah yang dapat diakses dengan mudah dan cepat. Tujuan penelitian yaitu membuat Peta Zona Nilai Tanah Berbasis Web atau WebGIS dengan metode analisis regresi berganda. Variabel bebas yang digunakan meliputi lebar jalan, jarak bidang tanah ke jalan utama, jarak bidang tanah ke pasar,\r\ndan jarak bidang tanah ke sekolah menengah atas (SMA). Perancangan WebGIS menggunakan bahasa pemrograman PHP (Hypertext Preprosessor) dan Javascript yang selanjutnya\r\nditampilkan dalam web map dengan Leaflet Javascript Library. Penelitian ini menghasilkan peta zona nilai tanah dalam bentuk peta analog dan peta digital yang ditampilkan dalam WebGIS. Peta zona nilai tanah analog dan peta digital terdiri dari 25 zona nilai tanah dengan nilai tanah tertinggi sebesar Rp.1.989.639 per m2 dan nilai tanah terendah sebesar Rp.54.392 per m2. \r\n \r\nKata kunci: Leaflet Javascript, Peta Zona Nilai Tanah, PHP, Sistem Informasi Geografis,WebGIS",
+      "subjects": [
+        "GA",
+        "HJ",
+        "TX"
+      ],
+      "eprintid": 29610,
+      "date_type": "published"
+    }
+]
+

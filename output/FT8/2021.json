@@ -1,0 +1,3677 @@
+[
+    {
+      "event_title": "International Conference on Converging Technology in Electrical and Information Engineering (ICCTEIE)",
+      "eprintid": 49457,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-31 00:48:46",
+      "succeeds": 39052,
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Recognizing a large number of faces at the same time is an algorithmic and computational challenge. The integration of a facial recognition system with an existing automation system in a library is also a big challenge because of the many sub-systems that operate in it. The aim is to develop a prototype of a library attendance system to assist library management related to facial recognition of users who visit the library. This study uses image processing focuses on object detection using the YOLOv5 algorithm. The library attendance system integrates 3 sub-systems: API service, face recognition using YOLOv5, and visitor identification system. The results obtained are that the library attendance system can function properly, can read the API service, and display information on the results of face detection therefore the system can be used by the existing library automation system.",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/9650628\/",
+      "event_dates": "27-28 October 2021",
+      "title": "Library Attendance System using YOLOv5 Faces Recognition",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mulyani",
+            "given": "Yessi"
+          }
+        }
+      ],
+      "date": 2021,
+      "dir": "disk0_bak\/00\/04\/94\/57",
+      "userid": 1199,
+      "lastmod": "2023-03-31 00:48:46",
+      "datestamp": "2023-03-31 00:48:46",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189016",
+            "rev_number": 3,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 536563,
+                  "hash": "09627264b66a82670aef59aae8f97e16",
+                  "filename": "ICCTEIE-Library_Attendance_System_YOLOv5-20210821.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-04 16:27:35",
+                  "datasetid": "document",
+                  "filesize": 1130426,
+                  "objectid": 189016,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536563"
+                }
+            ],
+            "docid": 189016,
+            "main": "ICCTEIE-Library_Attendance_System_YOLOv5-20210821.pdf",
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49457
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "other",
+            "eprintid": 49457,
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "korespondensi",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189035",
+            "docid": 189035,
+            "main": "meizano-korespondensi-Library Attendance System using YOLOv5 Faces Recognition.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 536651,
+                  "filename": "meizano-korespondensi-Library Attendance System using YOLOv5 Faces Recognition.pdf",
+                  "hash": "1709e88e2239316dc4ca3a1e4ec33d16",
+                  "mtime": "2023-03-30 17:35:02",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 92594,
+                  "objectid": 189035,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536651"
+                }
+            ]
+          },
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1162908,
+                  "mime_type": "application\/pdf",
+                  "fileid": 536653,
+                  "filename": "meizano-prosiding-2021-ICCTEIE-Library_Attendance_System_YOLOv5-20210821.pdf.pdf",
+                  "hash": "7bac24290ff5d91e092a2e19b3371bfc",
+                  "mtime": "2023-03-30 17:35:14",
+                  "hash_type": "MD5",
+                  "objectid": 189036,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536653"
+                }
+            ],
+            "main": "meizano-prosiding-2021-ICCTEIE-Library_Attendance_System_YOLOv5-20210821.pdf.pdf",
+            "docid": 189036,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189036",
+            "formatdesc": "simiiarity",
+            "pos": 3,
+            "format": "text",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 49457,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49457",
+      "refereed": "TRUE"
+    },
+    {
+      "title": "Similarity - Library Attendance System using YOLOv5 Faces Recognition",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2022-03-09 07:27:07",
+      "abstract": "Recognizing a large number of faces at the same time is an algorithmic and computational challenge. The integration of a facial recognition system with an existing automation system in a library is also a big challenge because of the many sub-systems that operate in it. The aim is to develop a prototype of a library attendance system to assist library management related to facial recognition of users who visit the library. This study uses image processing focuses on object detection using the YOLOv5 algorithm. The library attendance system integrates 3 sub-systems: API service, face recognition using YOLOv5, and visitor identification system. The results obtained are that the library attendance system can function properly, can read the API service, and display information on the results of face detection therefore the system can be used by the existing library automation system.",
+      "subjects": [
+        "T1"
+      ],
+      "eprintid": 40045,
+      "date_type": "published",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161337",
+            "main": "Similarity - Library Attendance System Using Yolov5_compressed.pdf",
+            "docid": 161337,
+            "files": [
+                {
+                  "filesize": 802642,
+                  "datasetid": "document",
+                  "mtime": "2022-03-09 07:06:10",
+                  "hash_type": "MD5",
+                  "hash": "2ceb99b0a6e22dcd5e9a4e1ef551b3ab",
+                  "filename": "Similarity - Library Attendance System Using Yolov5_compressed.pdf",
+                  "fileid": 447949,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447949",
+                  "objectid": 161337
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 40045,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "The Institute of Electrical and Electronics Engineers",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40045",
+      "lastmod": "2022-03-09 07:27:07",
+      "userid": 517,
+      "datestamp": "2022-03-09 07:27:07",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "given": "Yessi",
+            "honourific": null,
+            "family": "Mulyani",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/00\/45",
+      "date": "2021-10-27",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "title": "AUGMENTED REALITY BERBASIS IMAGE MARKER TRACKING UNTUK \r\nSISTEM PENGENALAN BUKU DI PERPUSTAKAAN- Full Cover",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:08:22",
+      "succeeds": 40046,
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Buku merupakan koleksi literatur terbanyak di perpustakaan, sehingga perpustakaan memerlukan \r\nsistem katalog yang memuat informasi buku. Sistem katalog di perpustakaan saat ini masih memerlukan usaha \r\nagar mudah dipahami pemustaka. Augmented Reality dengan teknologi Image Marker Tracking\r\nmemungkinkan pemustaka untuk mengetahui informasi buku dengan memindai sampul buku melalui kamera \r\nbrowser pada smartphone. Pengembangan aplikasi menggunakan software ar.js, a-frame, XAMPP, dan metode \r\nKanban sebagai metode pengembangan sistem. Metode Kanban terdiri dari tahap perencanaan, analisis, \r\ndesain, implementasi, evaluasi, dan pelaporan. Secara keseluruhan, penelitian ini telah menghasilkan aplikasi \r\npengenalan buku AR yang dapat menampilkan informasi buku melalui pemindaian custom marker (image \r\nmarker dengan black border) yang dapat diakses melalui web browser pada smartphone.\r\nKata kunci — Buku, Augmented reality, Image marker, Kanban, User Acceptance test.",
+      "eprintid": 41116,
+      "date_type": "published",
+      "ispublished": "pub",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162545",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456472",
+                  "objectid": 162545,
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 04:27:12",
+                  "filename": "AUGMENTED REALITY BERBASIS IMAGE MARKER.pdf",
+                  "hash": "a3cda730a69cbddd69c59ed10d126c17",
+                  "fileid": 456472,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1900262,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "AUGMENTED REALITY BERBASIS IMAGE MARKER.pdf",
+            "docid": 162545,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41116
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41116",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "lastmod": "2022-04-06 06:08:22",
+      "userid": 517,
+      "datestamp": "2022-04-06 06:08:22",
+      "publication": "Jurnal Profesi insinyur Universitas Lampung",
+      "issn": "2722-5771",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Fitriyani"
+          },
+          "id": null
+        }
+      ],
+      "date": 2021,
+      "dir": "disk0\/00\/04\/11\/16",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-03-09 07:27:12",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Buku merupakan koleksi literatur terbanyak di perpustakaan, sehingga perpustakaan memerlukan \r\nsistem katalog yang memuat informasi buku. Sistem katalog di perpustakaan saat ini masih memerlukan usaha \r\nagar mudah dipahami pemustaka. Augmented Reality dengan teknologi Image Marker Tracking\r\nmemungkinkan pemustaka untuk mengetahui informasi buku dengan memindai sampul buku melalui kamera \r\nbrowser pada smartphone. Pengembangan aplikasi menggunakan software ar.js, a-frame, XAMPP, dan metode \r\nKanban sebagai metode pengembangan sistem. Metode Kanban terdiri dari tahap perencanaan, analisis, \r\ndesain, implementasi, evaluasi, dan pelaporan. Secara keseluruhan, penelitian ini telah menghasilkan aplikasi \r\npengenalan buku AR yang dapat menampilkan informasi buku melalui pemindaian custom marker (image \r\nmarker dengan black border) yang dapat diakses melalui web browser pada smartphone.\r\nKata kunci — Buku, Augmented reality, Image marker, Kanban, User Acceptance test",
+      "title": "Similarity - AUGMENTED REALITY BERBASIS IMAGE MARKER TRACKING UNTUK SISTEM PENGENALAN BUKU DI PERPUSTAKAAN",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 40047,
+      "date_type": "published",
+      "userid": 517,
+      "lastmod": "2022-03-09 07:27:12",
+      "datestamp": "2022-03-09 07:27:12",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 40047,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1016849,
+                  "mime_type": "application\/pdf",
+                  "fileid": 447964,
+                  "hash": "dc9c8d6ab2dc6d5277f1b5a6ec9eb484",
+                  "filename": "Similarity - AUGMENTED REALITY BERBASIS IMAGE MARKER TRACKING_compressed (1).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-09 07:20:32",
+                  "objectid": 161339,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447964"
+                }
+            ],
+            "docid": 161339,
+            "main": "Similarity - AUGMENTED REALITY BERBASIS IMAGE MARKER TRACKING_compressed (1).pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161339",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40047",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "given": "Hery Dian",
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fitriyani",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/04\/00\/47",
+      "date": 2021
+    },
+    {
+      "date_type": "published",
+      "event_title": "2nd International Indonesia Conference on Interdisciplinary Studies (IICIS 2021)",
+      "eprintid": 49463,
+      "subjects": [
+        "S1",
+        "T1",
+        "TJ",
+        "TK"
+      ],
+      "abstract": "Plastic has become the dominant problems in recent years since it become the dominant material for food packaging. More than 600 thousand tons of plastic becoming waste in 2019. Leaf as food packaging material has been known since the dawn of civilization In Indonesia itself leaf and other plant’s organic material commonly used as traditional food wrapper. Commonly known leaves such as banana leaf, waru leaf, tepus leaf, simpur leaf, syzygium leaf and also tembakak leaf are used for wrapping traditional food. Thus triggering for the use of environmentally friendly tebakak leaf plates that are easily biodegradable, easy to produce, hygienic, and have lampung cultural background. One main question can the consumer shift from plastic based disposable plate to greener leaf base plate. Can tebakak leaf plate as an eco-friendly product try to replace plastic or just another plastic alternative. And, the consumer’s perspective of tebakak leaf plates as an eco-friendly product. We learn that both leaf plates (tebakak leaf plates and teak leaf plates) can be contender for plastic plates and paper plates while styrofoam plates has the lowest value. The consumer agrees that tebakak leaf plates and the teak leaf plates are green and want to use them. The main hindrance of using the leaf plates is the availability on the market and its higher price.",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-31 00:49:15",
+      "succeeds": 39054,
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/iicis-21\/125965484",
+      "event_dates": "26-27 October 2021",
+      "title": "Tebakak Leaves Plates as an Eco-friendly Disposable Plates: Cultural Roots, Technology and People Transformations",
+      "referencetext": "[1] D. R. Haque, “Plastics: Wonder Material in Trouble,” Paradigm, vol. 3, pp. 160-163, Jan. 1999. \r\n\r\n[2] M. Yudell, D. Roberts, R. DeSalle, and S. Tishkoff, “NIH must confront the use of race in science,” Science (80-. )., vol. 369, no. 6509, pp. 1314-1315, 2020. \r\n\r\n[3] A. J. Kora, “Leaves as dining plates, food wraps and food packing material: Importance of renewable resources in Indian culture,” Bull. Natl. Res. Cent., vol. 43, no. 1, 2019. \r\n\r\n[4] R. Rini, Y. Fakhrurrozi, and D. Akbarini, “Pemanfaatan Daun Sebagai Pembungkus Makanan Tradisional Oleh Masyarakat Bangka (Studi Kasus di Kecamatan Merawang),” EKOTONIA J. Penelit. Biol. Bot. Zool. dan Mikrobiol., vol. 2, no. 1, pp. 20-32, 2018. \r\n\r\n[5] Dawud Achroni, Belajar dari Makanan Tradisional Jawa. 2017. \r\n\r\n[6] V. AC et al., “Global research priorities to mitigate plastic pollution impacts on marine wildlife ,” Endanger. Species Res., vol. 25, no. 3, pp. 225-247, 2014. \r\n\r\n[7] “Indonesia Consumers Are Most Pessimistic in 16 Years on Outbreak - Bloomberg.” [Online]. Available: https:\/\/www.bloomberg.com\/news\/articles\/2021 -09-08\/indonesia-consumers-are-most pessimistic-in-16-years-on-outbreak. [Accessed: 20-Oct-2021]. \r\n\r\n[8] “Consumer Survey March 2021: Consumer Confidence Continues to Grow.” [Online]. Available: https:\/\/www.bi.go.id\/en\/publikasi\/ruang media\/news-release\/Pages\/sp_239121.aspx. [Accessed: 20-Oct-2021]. bangsa\/kebudayaan\/suku-bangsa. [Accessed: 19-Oct-2021]. [10] “Suku Bangsa di Indonesia Sangat Beragam, Apa Penyebabnya? | kumparan.com.” [Online]. Available: https:\/\/kumparan.com\/berita update\/suku-bangsa-di-indonesia-sangat beragam-apa-penyebabnya-1v0EWRGG96x. [Accessed: 19-Oct-2021]. [11] R. Setiawan, “Memaknai Kuliner Tradisional diNusantara : Sebuah Tinjauan Etis Rudi Setiawan,” Respons, vol. Gabriele W, no. 01, pp. 113-140, 2016. [12] Y. Sari, B. Afriyansyah, and L. Juairiah, “Pemanfaatan Daun sebagai Bahan Pembungkus Ma",
+      "divisions": [
+        "FISIP1",
+        "FP5",
+        "FT5",
+        "FT8",
+        "FT7"
+      ],
+      "type": "conference_item",
+      "date": 2021,
+      "dir": "disk0_bak\/00\/04\/94\/63",
+      "creators": [
+        {
+          "name": {
+            "given": "Martinus",
+            "family": ".",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Djausal",
+            "given": "Gita Paramita"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          }
+        },
+        {
+          "id": "mareli.telaumbanua@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Telaumbanua",
+            "lineage": null,
+            "given": "Mareli"
+          }
+        }
+      ],
+      "datestamp": "2023-03-31 00:49:15",
+      "lastmod": "2023-03-31 00:49:15",
+      "userid": 1199,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49463",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189038",
+            "docid": 189038,
+            "main": "conference_paper--m_gd_et_al-tebakak_leaves_plates_as_an_eco-friendly_disposable_plates.pdf",
+            "files": [
+                {
+                  "filesize": 867620,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-04 16:46:50",
+                  "hash": "e5894cfd9b856f2e7f7b1c7bcedc96e0",
+                  "filename": "conference_paper--m_gd_et_al-tebakak_leaves_plates_as_an_eco-friendly_disposable_plates.pdf",
+                  "fileid": 536667,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536667",
+                  "objectid": 189038
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 49463,
+            "placement": 1,
+            "security": "public"
+          },
+          {
+            "security": "public",
+            "placement": 2,
+            "eprintid": 49463,
+            "content": "bibliography",
+            "mime_type": "text\/plain",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 189039,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536668",
+                  "datasetid": "document",
+                  "filesize": 1952,
+                  "fileid": 536668,
+                  "mime_type": "text\/plain",
+                  "mtime": "2022-02-04 16:46:57",
+                  "hash_type": "MD5",
+                  "filename": "bibliography.txt",
+                  "hash": "8a4a1a7338a808011ef3057569a35162"
+                }
+            ],
+            "main": "bibliography.txt",
+            "docid": 189039,
+            "formatdesc": "Plain Text Bibliography",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189039",
+            "rev_number": 3,
+            "format": "other",
+            "pos": 2
+          },
+          {
+            "main": "martinus+meizano-prosiding-2021-Tebakak Leaves Plates as an Eco-friendly Disposable Plates.pdf.pdf",
+            "docid": 189040,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 536670,
+                  "hash": "8bcdbab00887fa78c99226052c3c1edc",
+                  "filename": "martinus+meizano-prosiding-2021-Tebakak Leaves Plates as an Eco-friendly Disposable Plates.pdf.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 17:43:48",
+                  "datasetid": "document",
+                  "filesize": 836299,
+                  "objectid": 189040,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536670"
+                }
+            ],
+            "pos": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189040",
+            "rev_number": 2,
+            "formatdesc": "similiarity",
+            "eprintid": 49463,
+            "placement": 3,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "other"
+          },
+          {
+            "files": [
+                {
+                  "objectid": 189041,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536673",
+                  "fileid": 536673,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 17:44:20",
+                  "filename": "martinus-korespondensi-Tebakak Leaves Plates as an Eco-friendly.pdf",
+                  "hash": "61846bec5ccd933115833f67010caacc",
+                  "datasetid": "document",
+                  "filesize": 93429
+                }
+            ],
+            "main": "martinus-korespondensi-Tebakak Leaves Plates as an Eco-friendly.pdf",
+            "docid": 189041,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189041",
+            "formatdesc": "Korespondensi M1",
+            "pos": 4,
+            "format": "text",
+            "placement": 4,
+            "security": "public",
+            "eprintid": 49463,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 5,
+            "security": "public",
+            "eprintid": 49463,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189042",
+            "rev_number": 2,
+            "formatdesc": "Korespondensi M2",
+            "pos": 5,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 536675,
+                  "filename": "meizano-korespondensi-Tebakak Leaves Plates as an Eco-friendly.pdf",
+                  "hash": "fba8435d8680bed99ddc10b64a66bc61",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 17:44:27",
+                  "datasetid": "document",
+                  "filesize": 93411,
+                  "objectid": 189042,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536675"
+                }
+            ],
+            "main": "meizano-korespondensi-Tebakak Leaves Plates as an Eco-friendly.pdf",
+            "docid": 189042
+          }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156362",
+            "rev_number": 1,
+            "main": "thermal_isesd.pdf",
+            "docid": 156362,
+            "files": [
+                {
+                  "objectid": 156362,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/413620",
+                  "datasetid": "document",
+                  "filesize": 923288,
+                  "fileid": 413620,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-11-08 05:45:33",
+                  "hash_type": "MD5",
+                  "hash": "fb9116d409d1bcb8613edbdf8e0f7a3a",
+                  "filename": "thermal_isesd.pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 35493,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35493",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 159,
+      "lastmod": "2021-11-08 06:01:24",
+      "datestamp": "2021-11-08 06:01:24",
+      "creators": [
+        {
+          "name": {
+            "given": "Septama",
+            "honourific": null,
+            "family": "Hery Dian",
+            "lineage": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Komarudin"
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yulianti",
+            "family": "Titin",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Afri",
+            "lineage": null,
+            "given": "Yudamson"
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Mahendra",
+            "honourific": null,
+            "lineage": null,
+            "given": "Pratama"
+          },
+          "id": "mahendra.pratama15@eng.unila.ac.id"
+        }
+      ],
+      "date": 2021,
+      "dir": "disk0\/00\/03\/54\/93",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "Low Cost Non-Contact Rapid Body Temperature Screening using Thermal Camera for Early Detection of Covid-19 Suspect",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/abstract\/document\/9526215",
+      "event_dates": "29-30 Juni 2021",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-08 06:01:24",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Symptoms with a body temperature above 37,5°C can be categorized as suspected of covid-19. Therefore, rapid body temperature may be used as early screening of covid-19 suspect. Many location use staff equipped with thermometer gun for screening the visitor body temperature. This scenario has drawbacks since there is closed contact between staff and visitor within body temperature screening which may cause the spread of the virus. This paper present low cost non-contact rapid body temperature screening using a thermal camera that integrate with barrier gate. Therefore, there is no staff needed for body temperature screening since visitor may check their body temperature independently. For visitors who are detected as having a body temperature ≤ 37.5°C, system will count as covid-19 suspect and the barrier gate will not open. The visitor with body temperature below 37.5°C will considered as normal and the system will open the barrier gate. The results show the the proposed system work properly for visitor body temperature screening with the accuracy is 98,75%.",
+      "event_location": "Bandung",
+      "event_title": "2021 International Symposium on Electronics and Smart Devices (ISESD)",
+      "eprintid": 35493,
+      "date_type": "published"
+    },
+    {
+      "dir": "disk0\/00\/03\/06\/19",
+      "date": "2021-04",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Komarudin",
+            "lineage": null,
+            "given": "Muhamad"
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "given": "Septama",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hery Dian"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Titin",
+            "honourific": null,
+            "given": "Yulianti"
+          }
+        },
+        {
+          "name": {
+            "given": "Yudamson",
+            "honourific": null,
+            "family": "Afri",
+            "lineage": null
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30619",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/137945",
+            "rev_number": 1,
+            "main": "Komarudin_2021_IOP_Conf._Ser.__Earth_Environ._Sci._739_012026 (1).pdf",
+            "docid": 137945,
+            "files": [
+                {
+                  "filesize": 1456662,
+                  "datasetid": "document",
+                  "filename": "Komarudin_2021_IOP_Conf._Ser.__Earth_Environ._Sci._739_012026 (1).pdf",
+                  "hash": "ab84663aaa1192ccaa6724f4415b936f",
+                  "mtime": "2021-05-24 07:38:22",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 363036,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/363036",
+                  "objectid": 137945
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 30619,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2021-05-24 08:37:52",
+      "lastmod": "2021-05-24 08:37:52",
+      "userid": 159,
+      "event_title": "Ulicoste",
+      "eprintid": 30619,
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "Multi node sensors for water quality monitoring towards\r\nprecision aquaculture",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/739\/1\/012026",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Shrimp culture is carried out by ponds in open areas, especially near coastal areas.\r\nThe ponds water condition or water quality has a significant impact on the shrimp culture.\r\nThere are also frequent problems among these shrimp ponds, such as crop failure caused by\r\nbad water quality. The water quality monitoring in shrimp ponds is often done manually by the\r\nfarmer in periodical times. The water quality monitoring that is done manually tends to be\r\nimpractical, requires high worker wages, and has a high human error rate. With the advances in\r\nthe field of Information Technology, data may be retrieved through sensors and collected into a\r\nserver. Then the data may be processed and visualized in order to support precision aquaculture\r\nusing the Internet of Things (IoT). Precision Fish Farming (PFF) or precision aquaculture is a\r\nconcept that applies control-engineering principles to aquaculture industries. The PPF concepts\r\nallow farmers to have the ability to monitor, control, and document biological processes in\r\naquaculture farms. This research aims were to design and build a multi node sensor and master\r\nboard to monitor water quality in real time using the prototyping method. The system consists\r\nof several sensors for monitoring temperature, pH, and salinity in shrimp ponds that are\r\ninstalled at each node. Nodes are actively sending data to the master board. This model is done\r\nto reduce the need for direct data access to the internet. The monitoring system is tested in PB\r\nTunas Baru shrimps pond in order to check if the system may work properly. The sensor is set\r\nto retrieve pond water quality data every 5 minutes in a total 100 minute period. The result\r\nshows that the model works properly, and the means value of the total error rate for the salinity\r\nsensors, pH, and temperature sensors consecutively is 1.65%, 1.25%, and 0%. This information\r\nallows the farmers to maintain the water quality precisely in aim to produce high quality\r\nshrimp crops toward the precision aquaculture concepts.",
+      "status_changed": "2021-05-24 08:37:52",
+      "eprint_status": "archive"
+    },
+    {
+      "event_dates": "18-19 November 2020",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/739\/1\/012026\/pdf",
+      "title": "Multi node sensors for water quality monitoring towards precision aquaculture",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-08 05:40:40",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Shrimp culture is carried out by ponds in open areas, especially near coastal areas.\r\nThe ponds water condition or water quality has a significant impact on the shrimp culture.\r\nThere are also frequent problems among these shrimp ponds, such as crop failure caused by\r\nbad water quality. The water quality monitoring in shrimp ponds is often done manually by the\r\nfarmer in periodical times. The water quality monitoring that is done manually tends to be\r\nimpractical, requires high worker wages, and has a high human error rate. With the advances in\r\nthe field of Information Technology, data may be retrieved through sensors and collected into a\r\nserver. Then the data may be processed and visualized in order to support precision aquaculture\r\nusing the Internet of Things (IoT). Precision Fish Farming (PFF) or precision aquaculture is a\r\nconcept that applies control-engineering principles to aquaculture industries. The PPF concepts\r\nallow farmers to have the ability to monitor, control, and document biological processes in\r\naquaculture farms. This research aims were to design and build a multi node sensor and master\r\nboard to monitor water quality in real time using the prototyping method. The system consists\r\nof several sensors for monitoring temperature, pH, and salinity in shrimp ponds that are\r\ninstalled at each node. Nodes are actively sending data to the master board. This model is done\r\nto reduce the need for direct data access to the internet. The monitoring system is tested in PB\r\nTunas Baru shrimps pond in order to check if the system may work properly. The sensor is set\r\nto retrieve pond water quality data every 5 minutes in a total 100 minute period. The result\r\nshows that the model works properly, and the means value of the total error rate for the salinity\r\nsensors, pH, and temperature sensors consecutively is 1.65%, 1.25%, and 0%. This information\r\nallows the farmers to maintain the water quality precisely in aim to produce high quality\r\nshrimp crops toward the precision aquaculture concepts.",
+      "event_location": "Radisson Hotel",
+      "event_title": "ULICOSTE2020",
+      "eprintid": 35489,
+      "date_type": "published",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2026251,
+                  "mime_type": "application\/pdf",
+                  "fileid": 413595,
+                  "filename": "Komarudin_2021_IOP_Conf._Ser.__Earth_Environ._Sci._739_012026.pdf",
+                  "hash": "08181962439a5e81cfba9813351b3d02",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-08 05:36:44",
+                  "objectid": 156358,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/413595"
+                }
+            ],
+            "docid": 156358,
+            "main": "Komarudin_2021_IOP_Conf._Ser.__Earth_Environ._Sci._739_012026.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156358",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 35489,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35489",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2021-11-08 05:40:40",
+      "userid": 159,
+      "datestamp": "2021-11-08 05:40:40",
+      "pagerange": "1-10",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null,
+            "given": "Muhamad"
+          },
+          "id": "m.komarudin@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hery Dian",
+            "lineage": null,
+            "given": "Septama"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Titin",
+            "lineage": null,
+            "given": "Yulianti"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Afri",
+            "honourific": null,
+            "given": "Yudamson"
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Henry",
+            "lineage": null,
+            "family": "John",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "date": 2021,
+      "dir": "disk0\/00\/03\/54\/89",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "id_number": "DOI: 10.25126\/jtiik.202184142",
+      "date": "2021-04",
+      "datestamp": "2021-06-04 01:37:08",
+      "lastmod": "2021-06-04 01:37:08",
+      "publisher": "Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya (UB)",
+      "number": 2,
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 31985,
+      "abstract": "Udang merupakan salah satu komoditas unggulan bagi Indonesia dari sektor perikanan. Budidaya udang pada tambak, perlu memperhatikan kualitas air. Kualitas air yang perlu diperhatikan dalam pertumbuhan dan kehidupan udang adalah perubahan temperatur, kadar garam, kebutuhan oksigen dan tingkat keasaman atau kandungan pH.  Pemantauan secara manual membutuhkan waktu, tenaga dan biaya yang jauh lebih besar karena harus ada petugas yang berkeliling kolam untuk melakukan pengukuran. Dengan Internet of Things (IoT) yang dikembangkan dalam penelitian ini proses monitoring tersebut dapat dilakukan dengan cepat atau realtime. Model yang dikembangkan terdiri dari perangkat node yang dipasang pada setiap kolam dan masterboard untuk pengumpulan data. Sensor yang dipasang pada setiap node adalah sensor salinitas air, sensor pH dan sensor suhu. Nilai salinitas, pH dan suhu selain ditampilkan pada perangkat penampil yang ada pada node juga dikirimkan ke masterboard. Hasil penelitian menunjukkan perangkat sensor bekerja dengan baik, data salinitas air, pH dan suhu dapat ditampilkan pada node. Ujicoba komunikasi data juga dapat berkerja dengan baik yang ditunjukkan dengan data dapat dikirimkan ke masterboard dengan delay 1 detik karena data masuk secara bergantian atau serial. Masterboard dapat bekerja untuk mengirimkan data ke basis data cloud firebase untuk selanjutnya data ditampilkan pada aplikasi monitoring yang telah dikembangkan.",
+      "subjects": [
+        "T1",
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jtiik.ub.ac.id\/",
+      "funders": [
+        "Hibah Penelitian Terapan DIPA BLU Unila tahun 2020"
+      ],
+      "contact_email": "m.komarudin@eng.unila.ac.id",
+      "dir": "disk0\/00\/03\/19\/85",
+      "creators": [
+        {
+          "id": "m.komarudin@eng.unila.ac.id",
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Komarudin"
+          }
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "given": "Hery Dian",
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null
+          }
+        },
+        {
+          "id": "titin.yulianti@eng.unila.ac.id",
+          "name": {
+            "given": "Titin",
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "wicaksono",
+            "given": "Muhamad Aby"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2528-6579",
+      "publication": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+      "pagerange": "395-402",
+      "userid": 394,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31985",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 31985,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144935",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 1733747,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-03 21:15:23",
+                  "filename": "4142-18711-1-PB.pdf",
+                  "hash": "594643f8f74664cf169d179cc61ac153",
+                  "fileid": 378528,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/378528",
+                  "objectid": 144935
+                }
+            ],
+            "docid": 144935,
+            "main": "4142-18711-1-PB.pdf"
+          }
+      ],
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jtiik.ub.ac.id\/index.php\/jtiik\/article\/view\/4142"
+        }
+      ],
+      "status_changed": "2021-06-04 01:37:08",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "volume": 8,
+      "title": "Rekayasa E-Aquaculture untuk Pemantauan Tambak Udang secara Realtime dengan Model Multipoint Node"
+    },
+    {
+      "datestamp": "2023-03-31 00:49:39",
+      "userid": 1199,
+      "lastmod": "2023-03-31 00:49:39",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49468",
+      "publisher": "Universitas Islam Negeri Raden Intan Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536726",
+                  "objectid": 189069,
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:14:04",
+                  "filename": "meizano+martinus-jurnal-2021-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf",
+                  "hash": "fd1f74c6860726a3a4a8ae79cad9f8b7",
+                  "fileid": 536726,
+                  "mime_type": "application\/pdf",
+                  "filesize": 997802,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "meizano+martinus-jurnal-2021-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf",
+            "docid": 189069,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189069",
+            "formatdesc": "Artikel",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 49468,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "placement": 2,
+            "security": "public",
+            "eprintid": 49468,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 977264,
+                  "fileid": 536728,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:14:16",
+                  "hash": "24b53604321006df0a9de79c25d5cd89",
+                  "filename": "meizano+martinus-jurnal-2021-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf.pdf",
+                  "objectid": 189070,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536728"
+                }
+            ],
+            "main": "meizano+martinus-jurnal-2021-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf.pdf",
+            "docid": 189070,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189070",
+            "rev_number": 2,
+            "formatdesc": "Similiarity",
+            "pos": 2,
+            "format": "text"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189071",
+            "rev_number": 2,
+            "formatdesc": "Korespondensi M2",
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "meizano-korespondensi-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf",
+                  "hash": "93a45e45a91a443c6b592cec1fffa252",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:14:27",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536730,
+                  "filesize": 91200,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536730",
+                  "objectid": 189071
+                }
+            ],
+            "docid": 189071,
+            "main": "meizano-korespondensi-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf",
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 49468
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536732",
+                  "objectid": 189072,
+                  "filesize": 107227,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:14:36",
+                  "filename": "martinus-korespondensi-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf",
+                  "hash": "0155118856ca2a44155db7e420289259",
+                  "fileid": 536732,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "martinus-korespondensi-Internet of Things Ultraviolet Sterilizer Receiver Box.pdf",
+            "docid": 189072,
+            "formatdesc": "Korespondensi M1",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189072",
+            "format": "text",
+            "pos": 4,
+            "security": "public",
+            "placement": 4,
+            "eprintid": 49468,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "LPPM Unila"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/04\/94\/68",
+      "date": 2021,
+      "issn": "ISSN: 2798-2610",
+      "creators": [
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yahya",
+            "lineage": null,
+            "family": "Panuju",
+            "honourific": null
+          },
+          "id": "achmad.yahya@eng.unila.ac.id"
+        },
+        {
+          "id": "hadi.prayitno@eng.unila.ac.id",
+          "name": {
+            "given": "Hadi",
+            "family": "Prayitno",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "rio.ariestia@eng.unila.ac.id",
+          "name": {
+            "given": "Rio Ariestia",
+            "honourific": null,
+            "family": "Pradipta",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "id": "gustian.ilham1048@students.unila.ac.id",
+          "name": {
+            "given": "Gustian Ilham",
+            "lineage": null,
+            "honourific": null,
+            "family": "Akbar"
+          }
+        }
+      ],
+      "publication": "International Journal of Electronics and Communications System",
+      "abstract": "COVID-19 is a virus that can spread through objects and depending on environmental conditions. It can last for several hours without destroying structures or disintegrating. Due to the COVID-19 pandemic, people were restricted from going outside to buy essential goods. Based on these conditions, it is necessary to design an IoT-based virus-safe package receipt box that is intuitive and comfortable for users to use, whether sending or receiving packages. People can control the system via remote control. Sterilization is carried out intelligently by considering the packet received. Design and construction of Internet of Things Ultraviolet Sterilizer Receiver Box use the Design Science Research Method. The methods consist of six stages: identify problem & motivate, define the objective of a solution, design & development, demonstration, evaluation, and communication. There are three parts of the system: sterilizer receiver box, mobile application, and Internet of Things. The system successfully passes the five testing scenarios: package received detection, package retrieved detection, ultraviolet irradiation, data service, and locking. The IoT-based virus-safe package receipt box can help maintain public health by preventing the COVID-19 virus with ultraviolet sterilization and supporting a modern lifestyle where people who work when the package arrives do not have to worry about the packages arriving.\r\nMeizano Ardhi Muhammad, Achmad Yahya Teguh Panuju, Hadi Prayitno, Rio Ariestia Pradipta, Martinus Martinus, Gustian Ilham Akbar",
+      "subjects": [
+        "T1",
+        "TJ",
+        "TK"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.radenintan.ac.id\/"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-03-31 00:49:39",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 8,
+      "title": "Internet of Things Ultraviolet Sterilizer Receiver Box: How to Design and Construct?",
+      "official_url": "http:\/\/ejournal.radenintan.ac.id\/index.php\/IJECS\/article\/view\/13694",
+      "date_type": "published",
+      "eprintid": 49468,
+      "projects": [
+        "TEPAV"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46818",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46818,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185751",
+            "docid": 185751,
+            "main": "2147-Article Text-572-1-10-20210202 (2).pdf",
+            "files": [
+                {
+                  "hash": "28a50cbbe1e7d861549f71dc4c410a95",
+                  "filename": "2147-Article Text-572-1-10-20210202 (2).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-24 03:06:53",
+                  "mime_type": "application\/pdf",
+                  "fileid": 515362,
+                  "filesize": 767170,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515362",
+                  "objectid": 185751
+                }
+            ]
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2022-11-24 03:08:04",
+      "lastmod": "2022-11-24 03:08:04",
+      "userid": 1,
+      "dir": "disk0\/00\/04\/68\/18",
+      "date": 2021,
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "issn": "1978-6042",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 15,
+      "title": "Analisis Daftar Pemilih Tetap pada Hasil Rekapitulasi KPU Berdasarkan Usia Menggunakan Algoritma K-Means (Studi Kasus : Kota Bandar Lampung)",
+      "abstract": "— Pada pemilihan umum di Kota Bandar Lampung, masih banyak yang masuk ke dalam golongan\r\nputih (golput). Minimnya pengetahuan masyarakat mengenai tata cara pemilu dan pentingnya menggunakan\r\nhak pilih mereka terutama pemilih pemula, dewasa dan usia lanjut menjadi faktor rendahnya penggunaan\r\nhak pilih. Kurang efektifnya pendekatan sosialisasi dari panitia penyelenggara kepada masyarakat, tetapi\r\njika harus melakukan sosialisasi secara acak dan menyeluruh ke semua daerah akan menghabiskan dana\r\nyang besar. Dari latar belakang tersebut bertujuan untuk menerapkan Teknik data mining dengan metode\r\nclustering dengan menggunakan algoritma K-Means dan memanfaatkan tools data mining RapidMiner 9.2\r\nterhadap data yang ada untuk memperoleh informasi mengenai daerah mana yang banyak terdapat pemilih\r\nmuda, dewasa dan lansia. Penelitian ini mengelompokan data DPT dari Kecamatan Langkapura, Rajabasa\r\ndan Kemiling. Data di kelompokan berdasarkan usia dan daerah. Algoritma yang digunakan untuk mengcluster adalah K-Means, dengan menggunakan metode CRISP-DM (Cross Industry Standart for Data Mining).\r\nHasil cluster dianalisa berdasarkan Kelurahan dan Kecamatan. Hasil analisa cluster Kecamatan Langkapura\r\nusia muda berjumlah 10167, usia dewasa berjumlah 9527,lansia berjumlah 4821 orang. Kecamatan Rajabasa\r\nusia muda berjumlah 12557, dewasa berjumlah 10930 dan lansia berjumlah 5097. Kecamatan Kemiling pada\r\nusia muda, dewasa dan lansia berjumlah 19442, 19086 dan 9394.",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-24 03:08:04",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 46818
+    },
+    {
+      "documents": [
+          {
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185515",
+            "rev_number": 1,
+            "docid": 185515,
+            "main": "Design_and_Implementation_of_Real_Time_Reading_Sys.pdf",
+            "files": [
+                {
+                  "filesize": 2496821,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 08:59:28",
+                  "hash": "507586d7c2c3f4d74d7dff867e73472e",
+                  "filename": "Design_and_Implementation_of_Real_Time_Reading_Sys.pdf",
+                  "fileid": 513821,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513821",
+                  "objectid": 185515
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46622,
+            "placement": 2,
+            "security": "public"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46622,
+            "security": "public",
+            "placement": 3,
+            "format": "text",
+            "pos": 3,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185519",
+            "docid": 185519,
+            "main": "unila.ac.id Mail - Information about paper #1570742521 (Design and Implementation of Real-Time Reading System of Atmospheric Corrosion Sensor on Metal Material Using Internet of Things (IoT) Technology) has been changed.pdf",
+            "files": [
+                {
+                  "fileid": 513834,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 09:06:25",
+                  "hash": "1f96929660ef45fdf3c1be8bbb73814a",
+                  "filename": "unila.ac.id Mail - Information about paper #1570742521 (Design and Implementation of Real-Time Reading System of Atmospheric Corrosion Sensor on Metal Material Using Internet of Things (IoT) Technology) has been changed.pdf",
+                  "datasetid": "document",
+                  "filesize": 172419,
+                  "objectid": 185519,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513834"
+                }
+            ]
+          },
+          {
+            "placement": 4,
+            "security": "public",
+            "eprintid": 46622,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 185752,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515368",
+                  "fileid": 515368,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-24 03:11:30",
+                  "hash_type": "MD5",
+                  "hash": "5d48822cdc2c01d8bcc18d485680bb67",
+                  "filename": "6130.pdf",
+                  "datasetid": "document",
+                  "filesize": 757875
+                }
+            ],
+            "docid": 185752,
+            "main": "6130.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185752",
+            "pos": 4,
+            "format": "text"
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46622",
+      "lastmod": "2022-11-24 03:11:30",
+      "userid": 1,
+      "datestamp": "2022-11-14 09:00:38",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "date": 2021,
+      "dir": "disk0\/00\/04\/66\/22",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "Design and Implementation of Real-Time Reading System of Atmospheric Corrosion Sensor on Metal Material Using Internet of Things (IoT) Technology - Similarity",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 09:00:38",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 46622,
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/66\/24",
+      "date": 2021,
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2022-11-14 09:10:41",
+      "lastmod": "2022-11-23 09:17:02",
+      "userid": 1,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46624",
+      "documents": [
+          {
+            "eprintid": 46624,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 185520,
+            "main": "Design_and_Implementation_of_Smart_Energy_Manageme.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513839",
+                  "objectid": 185520,
+                  "hash": "171fab4d7a978be9745a86a53b4278df",
+                  "filename": "Design_and_Implementation_of_Smart_Energy_Manageme.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 09:07:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513839,
+                  "filesize": 3004611,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185520",
+            "rev_number": 1
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46624,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185521",
+            "main": "unila.ac.id Mail - Information about paper #1570757392 (Design and Implementation of Smart Energy Management System Integrated with Internet of Things (IoT) Technology in Engineering Faculty Unila) has been changed.pdf",
+            "docid": 185521,
+            "files": [
+                {
+                  "objectid": 185521,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513841",
+                  "datasetid": "document",
+                  "filesize": 163111,
+                  "mime_type": "application\/pdf",
+                  "fileid": 513841,
+                  "filename": "unila.ac.id Mail - Information about paper #1570757392 (Design and Implementation of Smart Energy Management System Integrated with Internet of Things (IoT) Technology in Engineering Faculty Unila) has been changed.pdf",
+                  "hash": "74b1bf71ca30c02e5bb848f87347a285",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 09:09:52"
+                }
+            ]
+          },
+          {
+            "main": "6131.pdf",
+            "docid": 185743,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 596419,
+                  "mime_type": "application\/pdf",
+                  "fileid": 515311,
+                  "hash": "86c019711e84cd4fe4bbdefc05c576fa",
+                  "filename": "6131.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 09:17:02",
+                  "objectid": 185743,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515311"
+                }
+            ],
+            "format": "text",
+            "pos": 3,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185743",
+            "eprintid": 46624,
+            "security": "public",
+            "placement": 3,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 46624,
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 09:10:41",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "title": "Design and Implementation of Smart Energy Management System Integrated with Internet of Things Technology in Engineering Faculty Unila - review - similarity"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46626",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185523",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 2173189,
+                  "datasetid": "document",
+                  "filename": "Developing_a_Prototype_of_Solar_Tracking_for_Solar.pdf",
+                  "hash": "ede309ac68e669f37616e506d3b060ed",
+                  "mtime": "2022-11-14 09:11:47",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513852,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513852",
+                  "objectid": 185523
+                }
+            ],
+            "docid": 185523,
+            "main": "Developing_a_Prototype_of_Solar_Tracking_for_Solar.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46626
+          },
+          {
+            "eprintid": 46626,
+            "security": "public",
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 185524,
+            "main": "unila.ac.id Mail - Information about paper #1570746076 (Developing a Prototype of Solar Tracking for Solar Cell Energy Optimization with Internet of Things (IoT) Technology) has been changed.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 142078,
+                  "mime_type": "application\/pdf",
+                  "fileid": 513854,
+                  "hash": "6639790c8f7e014878bbedf63f92f424",
+                  "filename": "unila.ac.id Mail - Information about paper #1570746076 (Developing a Prototype of Solar Tracking for Solar Cell Energy Optimization with Internet of Things (IoT) Technology) has been changed.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 09:15:25",
+                  "objectid": 185524,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513854"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185524"
+          },
+          {
+            "main": "6132.pdf",
+            "docid": 185744,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515313",
+                  "objectid": 185744,
+                  "filesize": 363911,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 09:20:32",
+                  "filename": "6132.pdf",
+                  "hash": "34edbfd01393555dd954807cc603143f",
+                  "fileid": 515313,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 3,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185744",
+            "eprintid": 46626,
+            "placement": 3,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "IEEE",
+      "datestamp": "2022-11-14 09:16:17",
+      "lastmod": "2022-11-23 09:20:32",
+      "userid": 1,
+      "date": 2021,
+      "dir": "disk0\/00\/04\/66\/26",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Developing a Prototype of Solar Tracking for Solar Cell Energy Optimization with Internet of Things (IoT) Technology- similarity - email",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 09:16:17",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 46626
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 12:00:02",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Virtual Reality as Learning Media for Lampung Historical Heritage - similarity check",
+      "date_type": "published",
+      "eprintid": 46635,
+      "datestamp": "2022-11-14 12:00:02",
+      "lastmod": "2023-01-09 08:14:33",
+      "userid": 1,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46635",
+      "documents": [
+          {
+            "eprintid": 46635,
+            "security": "public",
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 186735,
+            "main": "Scan_Article-ICCTEIE-VRWSL-Yes.pdf.pdf",
+            "files": [
+                {
+                  "objectid": 186735,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522097",
+                  "datasetid": "document",
+                  "filesize": 893361,
+                  "fileid": 522097,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-09 08:14:24",
+                  "hash": "1547cb512c1040ccee166257cfe35078",
+                  "filename": "Scan_Article-ICCTEIE-VRWSL-Yes.pdf.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186735"
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "date": 2021,
+      "dir": "disk0\/00\/04\/66\/35",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2021-05-31 03:32:40",
+      "lastmod": "2021-05-31 03:32:40",
+      "userid": 498,
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31273",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "staffonly",
+            "eprintid": 31273,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2021-05-29 03:48:59",
+                  "hash_type": "MD5",
+                  "filename": "2167-Article Text-612-1-10-20210506.pdf",
+                  "hash": "577af311504c4ffe81626a478c4a8dd3",
+                  "fileid": 370679,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1076636,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/370679",
+                  "objectid": 141324
+                }
+            ],
+            "main": "2167-Article Text-612-1-10-20210506.pdf",
+            "docid": 141324,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141324",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/12\/73",
+      "date": "2021-05",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Noer Soedjarwanto",
+            "lineage": null,
+            "given": "Noer"
+          },
+          "id": "noersoedjarwanto@gmail.com"
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          }
+        }
+      ],
+      "issn": "1978-6042",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Abstrak — Internet of things adalah sebuah konsep yang bertujuan untuk memperluas manfaat dari\r\nkonektivitas internet yang tersambung secara terus menerus . adapun kemampuan nya seperti berbagi data\r\nmaupun sebagai remote control dan lain sebagainya. Maka dari itu penulis berinisiatif untuk membuat\r\npengaman sekaligus pengontrol pintu dari jarak jauh untuk mempermudah pemilik rumah mengontrol\r\nkeadaan kunci saat terbuka maupun sedang terkunci.Aplikasi di rancang menggunakan mit inventor dengan\r\nberbagai vitur diantaranya tombol untuk membuka kunci dan menutup kunci dengan mengatur sudut dan\r\narah gerak motor menggunakan driver motor steeper. kemudian pada aplikasi menampilkan notifikasi kondisi\r\npintu saat di jalankan ,dan juga menampilkan berapa arus dan tegangan yang di gunakan saat menjalankan\r\nalat tersebut. Hasil penelitian memperlihatkan bahwa semakin berat beban yang diberikan pada alat ini maka\r\nnilai daya saat membuka dan mengunci pintu tetap konstan. Prototype smart dor lock menampilkan data\r\nsecara realtime dan hanya diberikan beban 0,08 kg , 0,115 kg, dan 0,170 kg.\r\nKata kunci — smart door lock, Motor Stepper , internet of things , Driver Motor Stepper",
+      "eprint_status": "archive",
+      "status_changed": "2021-05-31 03:32:40",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "title": "Prototipe Smart door lock Menggunakan Motor Stepper\r\nBerbasis IoT (Internet of Things)",
+      "eprintid": 31273
+    },
+    {
+      "title": "Peer review : Perancangan Sistem Portal Program Studi dengan Menggunakan Framework Laravel Dan Database Postgresql",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "status_changed": "2022-04-07 00:48:56",
+      "eprint_status": "archive",
+      "subjects": [
+        "AI"
+      ],
+      "eprintid": 41144,
+      "documents": [
+          {
+            "docid": 162603,
+            "main": "Peer Review Lengkap.pdf",
+            "files": [
+                {
+                  "objectid": 162603,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456733",
+                  "fileid": 456733,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 08:36:09",
+                  "filename": "Peer Review Lengkap.pdf",
+                  "hash": "f682c7ca87e52a67c8449bcd588e0e81",
+                  "datasetid": "document",
+                  "filesize": 661394
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162603",
+            "rev_number": 1,
+            "eprintid": 41144,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "ispublished": "unpub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41144",
+      "full_text_status": "public",
+      "userid": 3233,
+      "lastmod": "2022-04-07 00:48:56",
+      "datestamp": "2022-04-07 00:48:56",
+      "creators": [
+        {
+          "id": "rio.ariestia@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Pradipta",
+            "honourific": null,
+            "given": "Rio Ariestia"
+          }
+        }
+      ],
+      "date": 2021,
+      "dir": "disk0\/00\/04\/11\/44",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2199",
+      "title": "Peer review jurnal Perancangan Sistem Portal Program Studi dengan Menggunakan Framework \r\nLaravel Dan Database Postgresql",
+      "place_of_pub": "Universitas Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "status_changed": "2022-04-01 01:04:01",
+      "eprint_status": "archive",
+      "abstract": "Program studi Teknik Informatika Universitas Lampung memiliki beberapa sistem informasi \r\nuntuk menunjang kegiatan administrasi yang mempermudah aktifiitas yang dilakukan oleh mahasiswa, \r\ndosen dan juga bagian administrasi. Keseluruhan sistem tersebut berfungsi untuk mempermudah kegiatan \r\nadministrasi, dokumentasi serta untuk pengembangan aktifitas strategis yang direncanakan dan akan \r\ndilaksanakan oleh program studi pada masa yang akan datang. Untuk mempermudah terjadinya integrasi \r\npada seluruh sistem informasi yang terdapat di program studi maka diperlukan sebuah sistem yang \r\nberfungsi sebagai wadah untuk mengintegrasikan keseluruhan sistem yang ada. Tujuan dari penelitian ini \r\nadalah memberikan solusi pada program studi Teknik Informatika dalam melakukan integrasi informasi \r\ndari beberapa sistem informasi yang berjalan ke dalam sebuah sistem portal berbasiskan web. Penelitian ini \r\ndilakukan dengan menggunakan metode pengembangan sistem secara local dimana pengembangan software \r\ndilakukan dengan alur Rapid Application Development yang termasuk di dalamnya perancangan sistem \r\nmenggunakan usecase diagram, class diagram dan struktur navigasi portal. Bahasa pemrograman dalam \r\npengembangan sistem adalah PHP dengan framework Laravel dan menggunakan database PostgreSQL. \r\nMetode blackbox digunakan dalam melakukan pengetesan dari sistem portal yang telah dirancang untuk \r\nmengetahui kesesuaian antara rancangan dengan sistem portal terbangun. Hasil yang didapatkan adalah \r\nkesesuaian antara rancangan dengan portal yang siap untuk diimplementasikan sebagai sebuah sistem \r\ninformasi",
+      "subjects": [
+        "AI"
+      ],
+      "eprintid": 40919,
+      "date_type": "published",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162315",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 166115,
+                  "fileid": 454892,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-03-31 09:23:55",
+                  "hash_type": "MD5",
+                  "hash": "ab63f31fc90e777f1af4ed59795a83a9",
+                  "filename": "1. Reviewer 1_peer review jurnal_RioAP.pdf",
+                  "objectid": 162315,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454892"
+                }
+            ],
+            "docid": 162315,
+            "main": "1. Reviewer 1_peer review jurnal_RioAP.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 40919
+          }
+      ],
+      "publisher": "Journal Electrician Jurusan Teknik Elektro Universitas Lampung",
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "rio.ariestia@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Pradipta",
+            "lineage": null,
+            "given": "Rio Ariestia"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pratama",
+            "given": "Mahendra"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/EDT",
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Batubara",
+            "honourific": null,
+            "given": "Mona Arif Muda"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB",
+          "id": null
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40919",
+      "full_text_status": "public",
+      "userid": 3233,
+      "lastmod": "2022-04-01 01:04:01",
+      "datestamp": "2022-04-01 01:04:01",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pradipta",
+            "honourific": null,
+            "given": "Rio Ariestia"
+          },
+          "id": "rio.ariestia@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Pratama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mahendra"
+          },
+          "id": "mahendra.pratama15@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Mona Arif",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muda"
+          },
+          "id": "mona.batubara@eng.unila.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/09\/19",
+      "date": "2021-05",
+      "type": "other",
+      "contact_email": "rio.ariestia@eng.unila.ac.id",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 30772,
+      "metadata_visibility": "show",
+      "volume": 15,
+      "rev_number": 8,
+      "title": "Perancangan Sistem Portal Program Studi Dengan Menggunakan Framework Laravel Dan Database Postgresql",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2199",
+      "abstract": "Program studi Teknik Informatika Universitas Lampung memiliki beberapa sistem informasi \r\nuntuk menunjang kegiatan administrasi yang mempermudah aktifiitas yang dilakukan oleh mahasiswa, \r\ndosen dan juga bagian administrasi. Keseluruhan sistem tersebut berfungsi untuk mempermudah kegiatan \r\nadministrasi, dokumentasi serta untuk pengembangan aktifitas strategis yang direncanakan dan akan \r\ndilaksanakan oleh program studi pada masa yang akan datang. Untuk mempermudah terjadinya integrasi \r\npada seluruh sistem informasi yang terdapat di program studi maka diperlukan sebuah sistem yang \r\nberfungsi sebagai wadah untuk mengintegrasikan keseluruhan sistem yang ada. Tujuan dari penelitian ini \r\nadalah memberikan solusi pada program studi Teknik Informatika dalam melakukan integrasi informasi \r\ndari beberapa sistem informasi yang berjalan ke dalam sebuah sistem portal berbasiskan web. Penelitian ini \r\ndilakukan dengan menggunakan metode pengembangan sistem secara local dimana pengembangan software \r\ndilakukan dengan alur Rapid Application Development yang termasuk di dalamnya perancangan sistem \r\nmenggunakan usecase diagram, class diagram dan struktur navigasi portal. Bahasa pemrograman dalam \r\npengembangan sistem adalah PHP dengan framework Laravel dan menggunakan database PostgreSQL. \r\nMetode blackbox digunakan dalam melakukan pengetesan dari sistem portal yang telah dirancang untuk \r\nmengetahui kesesuaian antara rancangan dengan sistem portal terbangun. Hasil yang didapatkan adalah \r\nkesesuaian antara rancangan dengan portal yang siap untuk diimplementasikan sebagai sebuah sistem \r\ninformasi.",
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-05-27 02:32:28",
+      "id_number": "https:\/\/doi.org\/10.23960\/elc.v15n2.2199",
+      "dir": "disk0\/00\/03\/07\/72",
+      "date": "2021-05",
+      "creators": [
+        {
+          "name": {
+            "given": "Rio Ariestia",
+            "lineage": null,
+            "family": "Pradipta",
+            "honourific": null
+          },
+          "id": "rio.ariestia@eng.unila.ac.id"
+        },
+        {
+          "id": "mahendra.pratama15@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pratama",
+            "given": "Mahendra"
+          }
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Mona Arif Muda",
+            "lineage": null,
+            "family": "batubara",
+            "honourific": null
+          },
+          "id": "mona.batubara@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2549-3442",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "contact_email": "rio.ariestia@eng.unila.ac.id",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30772",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "license": "cc_by_nc",
+            "eprintid": 30772,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138829",
+            "formatdesc": "pdf, open access",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364976",
+                  "objectid": 138829,
+                  "filename": "2199-Article Text-623-1-10-20210506.pdf",
+                  "hash": "10995f4d60d3e0b9b680ad2440f3c4c1",
+                  "mtime": "2021-05-25 08:24:52",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 364976,
+                  "filesize": 456111,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 138829,
+            "main": "2199-Article Text-623-1-10-20210506.pdf"
+          }
+      ],
+      "publisher": "Department of Electrical Engineering, Faculty of Engineering, Universitas Lampung",
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2021-05-27 02:32:28",
+      "pagerange": "136-141",
+      "lastmod": "2021-05-27 02:32:28",
+      "userid": 3233
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/11\/49",
+      "date": "2021-05",
+      "creators": [
+        {
+          "name": {
+            "given": "Mahendra",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pratama"
+          },
+          "id": "mahendra.pratama15@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hery Dian",
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2022-04-07 00:49:00",
+      "lastmod": "2022-04-07 00:49:00",
+      "userid": 3235,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41149",
+      "full_text_status": "public",
+      "publisher": "Department of Electrical Engineering, Faculty of Engineering, Universitas Lampung",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162608",
+            "docid": 162608,
+            "main": "Publikasi dan Peer Review Mahendra.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 10:25:56",
+                  "hash": "2a67518f4e54ca9b1945691177b49e93",
+                  "filename": "Publikasi dan Peer Review Mahendra.pdf",
+                  "fileid": 456763,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1969171,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456763",
+                  "objectid": 162608
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 41149,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 41149,
+      "abstract": "Di-era pandemi covid-19 berefek ke dunia pendidikan yang di mana semua dilakukan secara online salah satunya pelaksanaan ujian akhir perkuliahan. Mahasiswa harus bisa terbiasa di mana yang sebelumnya dilakukan secara manual (luring), sekarang harus dilakukan secara online (daring). Perancangan  aplikasi ujian online berbasiskan web harus mengedepankan kebiasaan pengguna, sehingga mudah beradaptasi dan mudah untuk digunakan. Pengukuran dilakukan dengan menggunakan kuisioner UEQ, sehingga memiliki hasil bahwa CAT bisa digunakan sebagai alternatif aplikasi ujian online untuk ujian akhir perkuliahan di era Pandemi karena memiliki aspek yang sangat baik untuk pengguna berdasarkan hasil kuisioner.",
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-04-07 00:49:00",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Peer Review Pemanfaatan Computer Assisted Test sebagai alternatif Ujian Akhir Perkuliahan di era Pandemi"
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/10\/64",
+      "date": "2021-05",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "issn": "2549-3442",
+      "creators": [
+        {
+          "id": "mahendra.pratama15@eng.unila.ac.id",
+          "name": {
+            "given": "Mahendra",
+            "honourific": null,
+            "family": "Pratama",
+            "lineage": null
+          }
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "given": "Hery Dian",
+            "honourific": null,
+            "family": "Septama",
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2021-05-28 01:00:27",
+      "pagerange": "142-145",
+      "lastmod": "2021-05-28 01:00:27",
+      "userid": 3235,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31064",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Department of Electrical Engineering, Faculty of Engineering, Universitas Lampung",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/140297",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 140297,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/368358",
+                  "datasetid": "document",
+                  "filesize": 556647,
+                  "fileid": 368358,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-27 14:15:25",
+                  "hash": "422db9b7a2ca2aac56c900343068bca8",
+                  "filename": "2204-Article Text-625-1-10-20210506_2.pdf"
+                }
+            ],
+            "main": "2204-Article Text-625-1-10-20210506_2.pdf",
+            "docid": 140297,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31064
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 31064,
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "abstract": "Di-era pandemi covid-19 berefek ke dunia pendidikan yang di mana semua dilakukan secara online salah satunya pelaksanaan ujian akhir perkuliahan. Mahasiswa harus bisa terbiasa di mana yang sebelumnya dilakukan secara manual (luring), sekarang harus dilakukan secara online (daring). Perancangan aplikasi ujian online berbasiskan web harus mengedepankan kebiasaan pengguna, sehingga mudah beradaptasi dan mudah untuk digunakan. Pengukuran dilakukan dengan menggunakan kuisioner UEQ, sehingga memiliki hasil bahwa CAT bisa digunakan sebagai alternatif aplikasi ujian online untuk ujian akhir perkuliahan di era Pandemi karena memiliki aspek yang sangat baik untuk pengguna berdasarkan hasil kuisioner",
+      "status_changed": "2021-05-28 01:00:27",
+      "eprint_status": "archive",
+      "volume": 15,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Pemanfaatan Computer Assisted Test sebagai alternatif Ujian Akhir Perkuliahan di era Pandemi",
+      "official_url": "https:\/\/electrician.unila.ac.id\/"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 35216,
+      "abstract": "Student  service  corner  is  an  application designed  as  a  student  service  system  by  utilizing  a  laravel framework  in  the  Informatics  Engineering  study  program, University of Lampung. The choice of Laravel as an application development framework at this time is because this application will continue to be developed with several programmers and will be integrated with other systems into a larger informatics study program.  Data  were  collected  by  conducting  interviews  and literature studies.  Data modeling in this  system uses an  entitty relationship diagram \/ ERD. The test result of this system is that the level of student satisfaction with services in the Information Engineering  study  program  increases  because  it  is  always available because it is online. The admin of the study program can manage and  request  services  for follow  up.  The results of this  test  show  that  the  student  service  corner  application  can meet the system requirements as a communication between the    administration  and  students  in  a  value  service  system  and correspondence requests.Keywords—Student   Service   Corner,   Laravel, student administration services",
+      "subjects": [
+        "TA"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/ejournal.uhb.ac.id\/index.php\/IKOMTI\/article\/view\/611"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-11-06 03:05:07",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 2,
+      "title": "SSC Student Service Corner",
+      "official_url": "https:\/\/ejournal.uhb.ac.id\/index.php\/IKOMTI\/index",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "id_number": "https:\/\/ejournal.uhb.ac.id\/index.php\/IKOMTI\/article\/view\/611",
+      "dir": "disk0\/00\/03\/52\/16",
+      "date": 2021,
+      "issn": "2746-4237",
+      "creators": [
+        {
+          "name": {
+            "family": "Puput Budi Wintoro",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wintoro"
+          },
+          "id": "budi.wintoro@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Budiyanto",
+            "honourific": null,
+            "family": "Deny Budiyanto",
+            "lineage": null
+          },
+          "id": "deny.budianto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Annisa",
+            "lineage": null,
+            "honourific": null,
+            "family": "Resty"
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Ilmu Komputer dan Teknologi",
+      "pagerange": "1-4",
+      "datestamp": "2021-11-06 03:05:07",
+      "lastmod": "2021-11-06 03:05:07",
+      "userid": 3234,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35216",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 35216,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156006",
+            "rev_number": 1,
+            "main": "document (2).pdf",
+            "docid": 156006,
+            "files": [
+                {
+                  "mtime": "2021-11-06 02:50:55",
+                  "hash_type": "MD5",
+                  "hash": "c553b011ed0ba94f311ba98bb0b42b96",
+                  "filename": "document (2).pdf",
+                  "fileid": 411430,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1094379,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/411430",
+                  "objectid": 156006
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1
+    },
+    {
+      "date_type": "published",
+      "eprintid": 50097,
+      "subjects": [
+        "R1",
+        "T1"
+      ],
+      "abstract": "Menjaga kesehatan kebutuhan utama manusia khususnya sekarang pada saat pendemi COVID-19.\r\nSetiap manusia memiliki kebutuhan yang berbeda dalam menjaga kesehatan. Dimasa pandemi\r\nmengharuskan kita membatasi kegiatan diluar rumah namun tetap menerapkan pola hidup sehat\r\ndiantaranya adalah berolahraga  dalam upaya untuk menjaga kondisi kesehatan, penulis terinspirasi\r\nmembangun sebuah sistem yang dapat mendukung hal tersebut. Sistem yang dibangun harus dapat\r\nmemahami profil kesehatan (Health Profiling) dari user. Setiap hari user mendapat notifikasi untuk\r\nmelakukan pengecekan kesehatan dengan cara menjawab beberapa pertanyaan tentang kesehatan\r\nkhususnya gejala COVID-19, Jika user terdeteksi gejala COVID-19, akan ditampilkan notifikasi\r\nsegera melakukan pengecekan ke klinik kesehatan terdekat. Setelah terdeteksi gejala dini COVID-19\r\noleh pihak klinik, system akan memberikan informasi rekomendasi ke rumah sakit rujukan COVID19.\r\n\r\nSystem ini juga dapat memberikan informasi cara menjaga kesehatan dengan pemberitahuan\r\nuntuk berolahraga beserta program latihannya (exercises) dan informasi terbaru mengenai COVID19.\r\n\r\nHal ini sebagai tindakan deteksi dini pencegahan COVID-19. Metode yang digunakan pada\r\nperancangan system ini yaitu User-Centered Design yang mengacu pada user experience calon\r\npengguna. Tujuan utama dari metode tersebut adalah untuk membuat suatu sistem informasi yang\r\nuser-friendly dengan tingkat usability yang tinggi.  \r\n\r\nKata kunci: Health, Notifikasi, Olahraga, Profiling, Usability",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-10 09:19:47",
+      "volume": 6,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Co-Fit: Menjaga Kesehatan melalui Aplikasi Health Profiling dalam Pencegahan dan Deteksi Gejala Covid-19",
+      "official_url": "https:\/\/garuda.kemdikbud.go.id\/documents\/detail\/2582157",
+      "divisions": [
+        "FT8"
+      ],
+      "contact_email": "resty.annisa@eng.unila.ac.id",
+      "type": "article",
+      "dir": "disk0_bak\/00\/05\/00\/97",
+      "date": "2021-12-01",
+      "id_number": "http:\/\/doi.org\/10.543367\/jtiust.v6i2.1500",
+      "publication": "JTIUST: Jurnal Teknik Informatika Unika St. Thomas",
+      "issn": "2657-1501",
+      "creators": [
+        {
+          "name": {
+            "family": "Resty",
+            "honourific": null,
+            "lineage": null,
+            "given": "Annisa"
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2023-04-10 09:19:47",
+      "pagerange": "429-438",
+      "lastmod": "2023-04-10 09:19:47",
+      "userid": 2822,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50097",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Teknik Informatika Universitas Katolik Santo Thomas",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 50097,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189798",
+            "rev_number": 1,
+            "main": "Jurnal 5_JTIUST-12-21.pdf",
+            "docid": 189798,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 656220,
+                  "fileid": 541804,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-10 07:43:45",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal 5_JTIUST-12-21.pdf",
+                  "hash": "091110689a2225d2560a13442b959852",
+                  "objectid": 189798,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541804"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Resty",
+            "given": "Annisa"
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2746-4237",
+      "publication": "IKOMTI: Jurnal Ilmu Komputer dan Teknologi",
+      "dir": "disk0_bak\/00\/04\/98\/99",
+      "date": "2021-05-28",
+      "lastmod": "2023-04-08 13:29:07",
+      "userid": 2822,
+      "datestamp": "2023-04-08 13:29:07",
+      "pagerange": "1-4",
+      "publisher": "Fakultas Sains dan Teknologi Universitas Harapan Bangsa",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189575",
+            "rev_number": 1,
+            "docid": 189575,
+            "main": "Jurnal 6_JIKT-5-21.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540175",
+                  "objectid": 189575,
+                  "filesize": 1095262,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-08 07:49:55",
+                  "filename": "Jurnal 6_JIKT-5-21.pdf",
+                  "hash": "4147145596201f4a5a46d07ad6a3e04f",
+                  "fileid": 540175,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49899,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49899",
+      "eprintid": 49899,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-08 13:29:07",
+      "abstract": "Student service corner is an application\r\ndesigned as a student service system by utilizing a laravel\r\nframework in the Informatics Engineering study program, \r\nUniversity of Lampung. The choice of Laravel as an application development framework at this time is because this application will continue to be developed with several programmers and will be integrated with other systems into a larger informatics study program. Data were collected by conducting interviews and literature studies. Data modeling in this system uses an entitty relationship diagram \/ ERD. The test result of this system is that the level of student satisfaction with services in the Information Engineering study program increases because it is always available because it is online. The admin of the study program\r\ncan manage and request services for follow up. The results of this test show that the student service corner application can meet the system requirements as a communication between the administration and students in a value service system and correspondence requests. \r\nKeywords: Student Service Corner, Laravel, student administration services",
+      "subjects": [
+        "T1",
+        "ZA",
+        "ZA4050",
+        "ZA4450"
+      ],
+      "official_url": "https:\/\/ejournal.uhb.ac.id\/index.php\/IKOMTI\/article\/view\/611",
+      "title": "Student Service Corner",
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 9
+    },
+    {
+      "contributors": [
+        {
+          "name": {
+            "given": "trisya",
+            "lineage": null,
+            "family": "septiana",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "iswandi",
+            "family": "iswandi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "iswanditech@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "family": "rahmi",
+            "honourific": null,
+            "lineage": null,
+            "given": "lidya"
+          },
+          "id": "3lydiarahmi@iainbatusangkar.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "syerli rahmi",
+            "honourific": null,
+            "family": "fitri",
+            "lineage": null
+          }
+        }
+      ],
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160588",
+            "docid": 160588,
+            "main": "jurnal fix_1.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/442313",
+                  "objectid": 160588,
+                  "filesize": 1297309,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-15 07:21:21",
+                  "filename": "jurnal fix_1.pdf",
+                  "hash": "13abbb39c312fa7f96e97048a5578c16",
+                  "fileid": 442313,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 39304,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Fakultas Teknik Unila",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39304",
+      "full_text_status": "public",
+      "lastmod": "2022-02-15 08:15:26",
+      "userid": 2818,
+      "datestamp": "2022-02-15 08:15:26",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septiana",
+            "honourific": null,
+            "given": "Trisya"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Iswandi",
+            "lineage": null,
+            "given": "iswandi"
+          },
+          "id": "iswanditech@gmail.com"
+        },
+        {
+          "id": "3lydiarahmi@iainbatusangkar.ac.id",
+          "name": {
+            "family": "rahmi",
+            "honourific": null,
+            "lineage": null,
+            "given": "lidya"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "fitri",
+            "lineage": null,
+            "given": "syerli rahmi"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/03\/93\/04",
+      "date": "2021-05-31",
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "Peer review jurnal  sistem Informasi Pemesanan Tiket Online pada Stasiun Kereta Api Kecamatan 2x11 Kayu Tanam",
+      "referencetext": "[1]  J. S. D. Raharjo , R. Tullah and H.\r\nSetiana, “Sistem Informasi Pemesanan\r\nDan Pembelian Tiket Bus Online Berbasis Web Pada P.O Budiman,”\r\nJURNAL SISFOTEK GLOBAL, vol. 9,\r\nno. 2, pp. 120-125, 2019.  \r\n[2]  Y. Nopianti, R. and E. Fadilah ,\r\n“SISTEM INFORMASI PEMESANAN\r\nTIKET TRAVEL BERBASIS WEB\r\n(Studi Kasus: Lantra Wisata Travel PO.\r\nSejahtera),” JUSIFO (Jurnal Sistem\r\nInformasi), vol. 3, no. 2, pp. 143-150,\r\n2017.  \r\n[3]  R. Garett, J. Chiu and S. D. Young, “A\r\nLiterature Review: Website Design and\r\nUser Engagement,” HHS Public Access,\r\nvol. 6, no. 3, pp. 1-14, 2016.  \r\n[4]  N. Amran, H. Mohamed and F. D. S.\r\nBahry, “Developing Human Resource\r\nTraining Management\r\n(HRTM)Conceptual Model Using Entity\r\nRelationship Diagram (ERD),”\r\nIntertional journal of Academic\r\nResearch in Business & Social Sciences,\r\nvol. 8, no. 12, pp. 1444-1459, 2018.  \r\n[5]  F. K. R. Sumantri, H. F. Worwor and A.\r\nS. Lumenta, “Sistem Informasi Anggota\r\nJemaat GMIM Bethesda Ranotana\r\nMenggunakan Framework\r\nCodeIgniter,” E-Journal Teknik Elektro\r\ndan Komputer, vol. 5, no. 4, pp. 21-28,\r\n2016.  \r\n[6]  Y. S. Dwanoko, “IMPLEMENTASI\r\nSOFTWARE DEVELOPMENT LIFE\r\nCYCLE (SDLC) DALAM\r\nPENERAPAN PEMBANGUNAN\r\nAPLIKASI PERANGKAT LUNAK,”\r\nJurnal Teknologi Informasi: teori,\r\nKonsep, Implementasi , vol. 7, no. 2, pp. \r\n83-94, 2016.  \r\n[7]  M. T. A. Zaen, M. Patoni and S. Fadli,\r\n“IMPLEMENTASI SYSTEM\r\nDEVELOPMENT LIFE CYCLE\r\nDALAM PERANCANGAN\r\nPENYEBARAN INFORMASI PADA\r\nMADRASAH ALIYAH NW\r\nPUYUNG,” MISI Jurnal Manajemen\r\nInformatika & Sistem Informasi , vol. 2, \r\nno. 1, 2018.",
+      "rev_number": 7,
+      "place_of_pub": "https:\/\/electrician.unila.ac.id\/",
+      "metadata_visibility": "show",
+      "status_changed": "2022-02-15 08:15:26",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Moda  transportasi  publik  semakin  digemari  oleh  masyarakat  karena  lebih  praktis  dan  efektif terutama kereta api. Saat ini kereta api menjadi paling diminati sehingga pelayanan maksimal harus menjadi prioritas utama bagi PT Kereta Api Indonesia(PT KAI). Sejak mulai beroperasi pada tahun 2016 kereta api jalur Padang-Kayu Tanam terus berinovasi agar dapat memudahkan masyarakat dalam menggunakan moda transportasi ini. Setelah dilakukan penelitian pada 2X11 Stasiun Kereta Api Kayutanam, permasalahan yang muncul adalah pemesanan tiket yang masih dilakukan secara konvensional dimana penumpang harus datang ke  stasiun  mengikuti  antrian  pembelian  sehingga  menjadi  kurang  efektif  dan  efisien  terutama  pada  saat pandemi ini.  Untuk  itu  dirancanglah  sistem  informasi  yang terkomputerisasi dalam  bentuk  aplikasi  online. Sistem  informasi  ini  dapat  diakses  melalui  web  browser  dengan  desain  yang  dinamis  dan  user  friendly menggunakan  Unified  Modelling  Language  (UML)  dengan  2  hak  akses  yaitu  admin  dan  pengguna (penumpang). Pengujian white box dan black box menjadi pilihan penulis dalam menentukan fungsionalitas serta strukur internal pada sistem informasi KAI-Online ini.",
+      "eprintid": 39304
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "type": "article",
+      "dir": "disk0\/00\/03\/02\/59",
+      "date": "2021-05-05",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "issn": "1978-6042",
+      "creators": [
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Septiana",
+            "given": "Trisya"
+          }
+        },
+        {
+          "id": "iswanditech@gmail.com",
+          "name": {
+            "family": "Iswandi",
+            "honourific": null,
+            "lineage": null,
+            "given": "iswandi"
+          }
+        },
+        {
+          "name": {
+            "family": "rahmi",
+            "honourific": null,
+            "lineage": null,
+            "given": "lidya"
+          },
+          "id": "3lydiarahmi@iainbatusangkar.ac.id"
+        },
+        {
+          "name": {
+            "given": "syerli rahmi",
+            "lineage": null,
+            "family": "fitri",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "datestamp": "2021-05-21 01:06:42",
+      "pagerange": "123-133",
+      "userid": 2818,
+      "lastmod": "2021-05-21 01:06:42",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30259",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "trisya",
+            "family": "septiana",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "iswanditech@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "iswandi",
+            "honourific": null,
+            "given": "iswandi"
+          }
+        },
+        {
+          "id": "3lydiarahmi@iainbatusangkar.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "rahmi",
+            "honourific": null,
+            "lineage": null,
+            "given": "lidya"
+          }
+        },
+        {
+          "name": {
+            "given": "syerli rahmi",
+            "honourific": null,
+            "family": "fitri",
+            "lineage": null
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136070",
+            "docid": 136070,
+            "main": "2198-Article Text-622-1-10-20210506 (2).pdf",
+            "files": [
+                {
+                  "objectid": 136070,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/358866",
+                  "datasetid": "document",
+                  "filesize": 684264,
+                  "mime_type": "application\/pdf",
+                  "fileid": 358866,
+                  "filename": "2198-Article Text-622-1-10-20210506 (2).pdf",
+                  "hash": "0aa046da86b36d03badef7e0197bb59e",
+                  "mtime": "2021-05-20 04:18:08",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 30259,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "date_type": "published",
+      "eprintid": 30259,
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Moda  transportasi  publik  semakin  digemari  oleh  masyarakat  karena  lebih  praktis  dan  efektif terutama kereta api. Saat ini kereta api menjadi paling diminati sehingga pelayanan maksimal harus menjadi prioritas utama bagi PT Kereta Api Indonesia(PT KAI). Sejak mulai beroperasi pada tahun 2016 kereta api jalur Padang-Kayu Tanam terus berinovasi agar dapat memudahkan masyarakat dalam menggunakan moda transportasi ini. Setelah dilakukan penelitian pada 2X11 Stasiun Kereta Api Kayutanam, permasalahan yang muncul adalah pemesanan tiket yang masih dilakukan secara konvensional dimana penumpang harus datang ke  stasiun  mengikuti  antrian  pembelian  sehingga  menjadi  kurang  efektif  dan  efisien  terutama  pada  saat pandemi ini.  Untuk  itu  dirancanglah  sistem  informasi  yang terkomputerisasi dalam  bentuk  aplikasi  online. Sistem  informasi  ini  dapat  diakses  melalui  web  browser  dengan  desain  yang  dinamis  dan  user  friendly menggunakan  Unified  Modelling  Language  (UML)  dengan  2  hak  akses  yaitu  admin  dan  pengguna (penumpang). Pengujian white box dan black box menjadi pilihan penulis dalam menentukan fungsionalitas serta strukur internal pada sistem informasi KAI-Online ini",
+      "status_changed": "2021-05-21 01:06:42",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "volume": 15,
+      "metadata_visibility": "show",
+      "title": "Sistem Informasi Pemesanan Tiket Online Pada Stasiun Kereta Api Kecamatan 2x11 Kayu Tanam",
+      "official_url": "https:\/\/electrician.unila.ac.id\/"
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "date": "2021-02-16",
+      "dir": "disk0\/00\/03\/03\/11",
+      "creators": [
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "given": "Trisya",
+            "honourific": null,
+            "family": "Septiana",
+            "lineage": null
+          }
+        },
+        {
+          "id": "khairudin@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Khairudin",
+            "given": "Khairudin"
+          }
+        }
+      ],
+      "issn": "2716-053X",
+      "publication": "Prosiding Seminar Nasional Pendidikan FKIP 2021",
+      "pagerange": "727-731",
+      "datestamp": "2021-05-24 01:32:13",
+      "lastmod": "2021-05-24 01:32:13",
+      "userid": 2818,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30311",
+      "full_text_status": "public",
+      "publisher": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN UNIVERSITAS LAMPUNG",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/137505",
+            "docid": 137505,
+            "main": "FINAL-PROSIDING SEMNAS 2021 FULL-738-742.pdf",
+            "files": [
+                {
+                  "filesize": 217792,
+                  "datasetid": "document",
+                  "mtime": "2021-05-23 13:51:09",
+                  "hash_type": "MD5",
+                  "filename": "FINAL-PROSIDING SEMNAS 2021 FULL-738-742.pdf",
+                  "hash": "e129ee95e04c67101e8425cedeadf172",
+                  "fileid": 362020,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/362020",
+                  "objectid": 137505
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 30311,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "septiana",
+            "honourific": null,
+            "given": "trisya"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": null,
+          "id": "khairudin@eng.unila.ac.id",
+          "name": {
+            "given": "khairudin",
+            "lineage": null,
+            "honourific": null,
+            "family": "khairudin"
+          }
+        }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 30311,
+      "abstract": "Virus Corona yang masuk ke Indonesia di awal tahun 2020 mempengaruhi\r\nseluruh kegiatan manusia, terutama pada bidang pendidikan. Kegiatan yang semula\r\ndirencanakan berjalan secara normal dengan sistem luring beralih ke sistem daring.\r\nPelaksanaan proses pembelajaran ini pun secara otomatis berubah total dimulai dari\r\nmedia yang digunakan, cara penyampaian hingga pelaksanaannya. Perguruan Tinggi\r\nmemastikan kegiatan pembelajaran tetap dilaksanakan sehingga menuntut dosen untuk\r\ndapat lebih kreatif dan inovatif dalam merancang pembelajaran secara daring.\r\nPemanfaatan media digital dalam sistem daring merupakan salah satu upaya untuk\r\nmeningkatkan kualitas proses pembelajaran terutama pada pembelajaran. Penelitian ini\r\nbertujuan untuk menganalisis pengaruh pemanfaatkan media digital dalam proses\r\npembelajaran daring. Hasil penelitian berdasarkan data yang telah dikumpulkan melalui\r\nkuisioner dan wawancara didapatkan pemanfaatan media digital sangat efektif dalam\r\nmembantu mahasiswa memahami materi perkuliahan dan pelaksanaan kegiatan lainnya\r\nseperti kuis ataupun ujian.",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2021-05-24 01:32:13",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 4,
+      "title": "Optimalisasi Pembelajaran Daring Melalui Pemanfaatan Media\r\nDigital Pada Program Studi Teknik Informatika Universitas\r\nLampung Di Masa Pandemi",
+      "official_url": "http:\/\/semnaspend.fkip.unila.ac.id\/"
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "date": 2021,
+      "dir": "disk0_bak\/00\/04\/94\/62",
+      "creators": [
+        {
+          "name": {
+            "given": "Wahyu Eko",
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septiana",
+            "honourific": null,
+            "given": "Trisya"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "resty.annisa@eng.unila.ac.id",
+          "name": {
+            "given": "Resty",
+            "lineage": null,
+            "honourific": null,
+            "family": "Annisa"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wintoro",
+            "given": "Puput Budi"
+          },
+          "id": "budi.wintoro@eng.unila.ac.id"
+        },
+        {
+          "id": "yetti.yuniati@eng.unila.ac.id",
+          "name": {
+            "given": "Yetti",
+            "honourific": null,
+            "family": "Yuniati",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nining",
+            "honourific": null,
+            "family": "Purwasih",
+            "lineage": null
+          },
+          "id": "nining.purwasih@eng.unila.ac.id"
+        },
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Purwiyanti",
+            "honourific": null,
+            "given": "Sri"
+          }
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Djausal",
+            "given": "Gita Paramita"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Yolanda",
+            "lineage": null,
+            "given": "Gatra"
+          }
+        }
+      ],
+      "datestamp": "2023-03-31 00:49:10",
+      "lastmod": "2023-03-31 00:49:10",
+      "userid": 1199,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49462",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 49462,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "meizano+martinus-prosiding-2021-Virtual Reality untuk Museum Lampung.pdf",
+            "docid": 189031,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536637",
+                  "objectid": 189031,
+                  "mtime": "2023-03-30 17:21:14",
+                  "hash_type": "MD5",
+                  "filename": "meizano+martinus-prosiding-2021-Virtual Reality untuk Museum Lampung.pdf",
+                  "hash": "03e26419afe42373612bd054ca3d2082",
+                  "fileid": 536637,
+                  "mime_type": "application\/pdf",
+                  "filesize": 479267,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189031",
+            "rev_number": 2
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "other",
+            "eprintid": 49462,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189032",
+            "formatdesc": "Similliarity",
+            "docid": 189032,
+            "main": "meizano+martinus-prosiding-2021-Virtual Reality untuk Museum Lampung.pdf.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536639",
+                  "objectid": 189032,
+                  "filesize": 515036,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 17:21:23",
+                  "filename": "meizano+martinus-prosiding-2021-Virtual Reality untuk Museum Lampung.pdf.pdf",
+                  "hash": "5f1f1389ed22d0832cd36d1ae6b748ba",
+                  "fileid": 536639,
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          },
+          {
+            "format": "text",
+            "pos": 3,
+            "formatdesc": "Korespondensi M2",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189033",
+            "rev_number": 2,
+            "docid": 189033,
+            "main": "meizano-korespondensi-Virtual Reality untuk Museum Lampung.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536641",
+                  "objectid": 189033,
+                  "filesize": 88167,
+                  "datasetid": "document",
+                  "hash": "26edaf28f213be7fc0d8306a58e2cafc",
+                  "filename": "meizano-korespondensi-Virtual Reality untuk Museum Lampung.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 17:21:35",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536641
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "other",
+            "eprintid": 49462,
+            "security": "public",
+            "placement": 3
+          },
+          {
+            "formatdesc": "Korespondensi M1",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189034",
+            "format": "text",
+            "pos": 4,
+            "files": [
+                {
+                  "mtime": "2023-03-30 17:21:42",
+                  "hash_type": "MD5",
+                  "hash": "8064cbfc8ba5fcbd9e6c21ec0752e8e4",
+                  "filename": "martinus-korespondensi-Virtual Reality untuk Museum Lampung.pdf",
+                  "fileid": 536643,
+                  "mime_type": "application\/pdf",
+                  "filesize": 88458,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536643",
+                  "objectid": 189034
+                }
+            ],
+            "main": "martinus-korespondensi-Virtual Reality untuk Museum Lampung.pdf",
+            "docid": 189034,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 4,
+            "eprintid": 49462
+          }
+      ],
+      "date_type": "published",
+      "event_title": "SINTA 2022",
+      "eprintid": 49462,
+      "event_location": "Bandar Lampung",
+      "subjects": [
+        "T1",
+        "TK"
+      ],
+      "abstract": "useum Lampung merupakan kurator dan pemelihara budaya Lampung serta memiliki tanggung jawab yang besar agar budaya Lampung ini dapat diwariskan secara utuh oleh generasi muda. Sosialisasi sejarah Lampung dengan menggunakan Virtual Reality membuka banyak peluang. Museum Lampung merupakan salah satu sumber pengetahuan masyarakat ingin mengetahui lebih jauh tentang sejarah Lampung. Virtual Reality menempatkan pengguna di dalam dunia virtual untuk menciptakan pengalaman baru di lingkungan digital di mana objek digital dapat berinteraksi secara real-time. Virtual reality memungkinkan informasi digital untuk memperkaya eksistensi yang dalam hal ini digunakan untuk menyebarkan informasi tentang budaya Lampung. Penyebaran informasi melalui virtual reality, sebagai bentuk pemanfaatan teknologi hijau, juga mengurangi jejak karbon yang dihasilkan dengan berwisata ke Museum Lampung. Selain itu, pandemi COVID-19 yang sedang berlangsung berdampak besar terhadap kinerja Museum Lampung dalam mensosialisasikan sejarah Lampung. Metode yang digunakan untuk mengembangkan Museum Virtual Reality Lampung terdiri dari tujuh tahap yaitu Perumusan Masalah, Penentuan Motivasi, Pengembangan Ide, Perancangan, Pembuatan Prototipe, Pengujian, Pengembangan Lanjutan, dan Implementasi\/Rilis. Aplikasi Virtual Reality Museum Lampung menyediakan fitur Virtual Tour. Ketersediaan Museum Virtual Reality Lampung, yang merupakan bagian dari penelitian besar tentang teknologi hijau di Universitas Lampung, memungkinkan penyebaran sejarah Lampung secara progresif.",
+      "status_changed": "2023-03-31 00:49:10",
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "title": "Virtual Reality untuk Museum Lampung",
+      "official_url": "https:\/\/doi.org\/10.23960\/prosidingsinta.v5i.88",
+      "event_dates": "6 Oktober 2022"
+    },
+    {
+      "projects": [
+        "EDUKASI 4.0 MELALUI VIRTUAL REALITY WARISAN SEJARAH BUDAYA LAMPUNG"
+      ],
+      "event_title": "International Conference on Converging Technology in Electrical and Information Engineering (ICCTEIE)",
+      "eprintid": 49472,
+      "date_type": "published",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/9650626",
+      "title": "Virtual Reality as Learning Media for Lampung Historical Heritage",
+      "event_dates": "27-28 October 2021",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-31 00:49:54",
+      "succeeds": 39050,
+      "subjects": [
+        "T1",
+        "TK"
+      ],
+      "abstract": "Lampung Province has a lot of historical heritage which is a world heritage for future human generations. The Lampung Museum, which was founded in 1975, plays a role in ensuring the continuity of history in the people of Lampung. Dissemination of Lampung history can be improved through education 4.0. Virtual Reality is a technology that allows a user to interact with the environment that exists in the virtual world and can provide information. Virtual Reality can help disseminate the history of Lampung with interactive and humanistic interaction models for historical objects that are presented without being bound by space and time. In addition, the ongoing COVID-19 pandemic has had a major impact on the performance of the Lampung museum in disseminating the history of Lampung. The method used to develop Virtual Reality of Lampung Historical Heritage consists of seven stages, namely Problem Formulation, Determination of Motivation, Idea Development, Design, Prototype Making, Testing, Advanced Development, and Implementation\/Release. Eight historical objects were modeled and enriched with information regarding their relationship to Lampung history, namely the Lampung Museum, Thay Hin Bio Vihara, Al-Anwar Mosque, Lampung Siger Tower, Krakatau Monument, Kerti Bhuana Temple, Nuwo Sesat Traditional House, and the Japanese Cave. It is hoped that with the availability of Virtual Reality of Lampung Historical Heritage, the dissemination of Lampung history can be carried out more progressively through education 4.0.",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistiono",
+            "given": "Wahyu Eko"
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "rico.andrian@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rico",
+            "honourific": null,
+            "family": "Andrian",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "S",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ghuffrony Rezaldhy"
+          },
+          "id": "ghuffrony.rezaldhy1008@stidents.unila.ac.id"
+        },
+        {
+          "id": "resty.annisa@eng.unila.ac.id",
+          "name": {
+            "given": "Resty",
+            "honourific": null,
+            "family": "Annisa",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yessi",
+            "honourific": null,
+            "family": "Mulyani",
+            "lineage": null
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        },
+        {
+          "id": "anisa.nuraisa@fk.unila.ac.id",
+          "name": {
+            "given": "Anisa Nuraisa",
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null
+          }
+        }
+      ],
+      "date": "2021-10",
+      "dir": "disk0_bak\/00\/04\/94\/72",
+      "type": "conference_item",
+      "funders": [
+        "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "content": "accepted",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49472,
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189086",
+            "rev_number": 5,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536787",
+                  "objectid": 189086,
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-04 16:18:10",
+                  "hash": "034d7f8f02ad29228b40109d693c047d",
+                  "filename": "Meizano_PKM_Desbin_Article-ICCTEIE-VRWSL-Yes.pdf",
+                  "fileid": 536787,
+                  "mime_type": "application\/pdf",
+                  "filesize": 866735,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 189086,
+            "main": "Meizano_PKM_Desbin_Article-ICCTEIE-VRWSL-Yes.pdf"
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536788",
+                  "objectid": 189087,
+                  "filesize": 889482,
+                  "datasetid": "document",
+                  "mtime": "2023-03-30 19:30:48",
+                  "hash_type": "MD5",
+                  "filename": "Meizano+martinus-prosiding-2021-VRaLMfLHH.pdf.pdf",
+                  "hash": "68bbec046c250cf601d23476835e6ec8",
+                  "fileid": 536788,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Meizano+martinus-prosiding-2021-VRaLMfLHH.pdf.pdf",
+            "docid": 189087,
+            "formatdesc": "Similialirity",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189087",
+            "format": "text",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 49472,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "placement": 3,
+            "security": "public",
+            "eprintid": 49472,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 19:31:00",
+                  "filename": "meizano-korespondensi-Virtual Reality as Learning Media for Lampung Historical Heritage.pdf",
+                  "hash": "bd1b4ba4338e1cc9a3a91e750e4c9ef9",
+                  "fileid": 536790,
+                  "mime_type": "application\/pdf",
+                  "filesize": 93528,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536790",
+                  "objectid": 189088
+                }
+            ],
+            "docid": 189088,
+            "main": "meizano-korespondensi-Virtual Reality as Learning Media for Lampung Historical Heritage.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189088",
+            "formatdesc": "Korespondensi M2",
+            "pos": 3,
+            "format": "text"
+          },
+          {
+            "files": [
+                {
+                  "fileid": 536792,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 19:31:07",
+                  "filename": "martinus-korespondensi-Virtual Reality as Learning Media for.pdf",
+                  "hash": "8e25868caff657678686f3b8416269dd",
+                  "datasetid": "document",
+                  "filesize": 95052,
+                  "objectid": 189089,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536792"
+                }
+            ],
+            "docid": 189089,
+            "main": "martinus-korespondensi-Virtual Reality as Learning Media for.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189089",
+            "formatdesc": "Korespondensi M1",
+            "pos": 4,
+            "format": "text",
+            "placement": 4,
+            "security": "public",
+            "eprintid": 49472,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49472",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-03-31 00:49:54",
+      "userid": 1199,
+      "datestamp": "2023-03-31 00:49:54"
+    },
+    {
+      "abstract": "Pengusir hama babi yang dipasang di lahan pertanian akan membantu pentane untuk memperoleh hasil panen yang maksimal. agar dapat mendapatkan hasil yang maksimal alat ini perlu di letakan di tempat yang strategis misalnya di tempat tempat yang sering dimasuki oleh hama babi. Pada paper ini akan dideskripsikan rancangan sistem yang mampu mengusir hama babi dengan bantuan sensor gerak dan basis mikrokontroler Arduino UNO, yaitu pergerakan mendeteksi gerakan gerakan yang mencurigakan yang masuk kedalam lahan pertanian. Sistem yang dirancang, mampu mengendalikan sensor dan output speaker serta motor DC yang menggerakan orang-orangan sawah secara otomatis.",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-06-08 16:19:12",
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 6,
+      "title": "Rancang Bangun Pengusir Hama Babi Menggunakan Arduino dengan Sensor Gerak",
+      "date_type": "published",
+      "eprintid": 32342,
+      "datestamp": "2021-06-08 16:19:12",
+      "pagerange": "21-27",
+      "userid": 2799,
+      "lastmod": "2021-06-08 16:19:12",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32342",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 32342,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146699",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 382742,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-06-08 13:07:28",
+                  "hash_type": "MD5",
+                  "hash": "7b1548d30c2fc185ac53678fdaf97944",
+                  "filename": "1032-3289-1-PB(1).pdf",
+                  "datasetid": "document",
+                  "filesize": 287819,
+                  "objectid": 146699,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382742"
+                }
+            ],
+            "docid": 146699,
+            "main": "1032-3289-1-PB(1).pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/23\/42",
+      "date": "2021-01",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null,
+            "given": "Titin"
+          },
+          "id": "titin.yulianti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Slamet",
+            "family": "Samsugi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Nugroho",
+            "honourific": null,
+            "lineage": null,
+            "given": "Prio Agung"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Harry",
+            "lineage": null,
+            "honourific": null,
+            "family": "Anggono"
+          }
+        }
+      ],
+      "publication": "JTST"
+    },
+    {
+      "eprintid": 32278,
+      "eprint_status": "archive",
+      "status_changed": "2021-06-08 16:15:43",
+      "abstract": "Identifying beef manually has some drawbacks because human visual has limitations and there are differences of\r\nhuman perception in assessing object quality. Several researches developed beef quality assessment methods\r\nbased on image feature extraction. However, not all features support for obtaining the classification results that\r\nhave high accuracy. The efficiency will be achieved if the classification analyzes only the relevant features.\r\nTherefore, a feature selection process is required to select relevant features and to eliminate irrelevant features to\r\nobtain more accurate and faster classification results. One of the feature selection algorithms is the F-Score which\r\nis a simple technique that measures the discrimination of two sets of real numbers. The features with the lowest\r\nranking from the F-Score will be eliminated one by one until the most relevant features are obtained. The test is\r\ncarried out by analyzing the classification results in the form of sensitivity, specificity, and accuracy values. The\r\nresults of this research showed that by using the F-Score feature, the most relevant features for the classification\r\nof freshness level of local beef are obtained using the K-Nearest Neighbor (KNN) method. These features include\r\nthe average color intensity R and standard deviation with a sensitivity of 0.8, a specificity of 0.93, and an\r\naccuracy of 86%.",
+      "subjects": [
+        "TK"
+      ],
+      "title": "Pengaruh Seleksi Fitur Citra Terhadap Klasifikasi Tingkat Kesegaran Daging Sapi Lokal",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 10,
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "issn": "2302-559X",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yulianti",
+            "honourific": null,
+            "given": "Titin"
+          }
+        },
+        {
+          "name": {
+            "given": "Mareli",
+            "lineage": null,
+            "honourific": null,
+            "family": "Telaumbanua"
+          },
+          "id": "mareli.telaumbanua@fp.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null,
+            "given": "Hery Dian"
+          }
+        },
+        {
+          "name": {
+            "given": "Helmy",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriawan"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Afri",
+            "honourific": null,
+            "family": "Yudamson",
+            "lineage": null
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "date": "2021-03",
+      "dir": "disk0\/00\/03\/22\/78",
+      "lastmod": "2021-06-08 16:15:43",
+      "userid": 2799,
+      "datestamp": "2021-06-08 16:15:43",
+      "pagerange": "85-95",
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 32278,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146662",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 232203,
+                  "datasetid": "document",
+                  "hash": "bbd72c72fd4a8d56e160181a58d55766",
+                  "filename": "1. Jurnal_TY_Seleksi fitur.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-08 12:57:09",
+                  "mime_type": "application\/pdf",
+                  "fileid": 382685,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382685",
+                  "objectid": 146662
+                }
+            ],
+            "docid": 146662,
+            "main": "1. Jurnal_TY_Seleksi fitur.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32278"
+    }
+]
+

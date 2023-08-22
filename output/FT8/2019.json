@@ -1,0 +1,2194 @@
+[
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41082",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 41082,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162505",
+            "rev_number": 1,
+            "docid": 162505,
+            "main": "sertifikat IDM Dashboard dan deskripsi.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456205",
+                  "objectid": 162505,
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-05 09:21:49",
+                  "filename": "sertifikat IDM Dashboard dan deskripsi.pdf",
+                  "hash": "f09618a5e7a012cd53d006a0d2aec831",
+                  "fileid": 456205,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1207155,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2022-04-06 01:21:25",
+      "lastmod": "2022-04-06 01:21:25",
+      "userid": 517,
+      "date": 2019,
+      "dir": "disk0\/00\/04\/10\/82",
+      "id_number": "EC00202045770",
+      "patent_applicant": "LPPM Unila",
+      "creators": [
+        {
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Program Komputer IDM Dashboard - Sertifikat dan Deskripsi",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Sistem Elektronik Indeks Desa Membangun (IDM) Dashboard dengan penyajian informasi berdasarkan laporan IDM tahunan Kemendesa yang dapat disajikan mulai dari tingkat desa, kecamatan, kabupaten, provinsi hingga nasional. Sistem Elektronik IDM Dashboard dapat dijalankan pada perangkat bergerak.",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 01:21:25",
+      "date_type": "published",
+      "eprintid": 41082
+    },
+    {
+      "status_changed": "2020-02-11 09:08:03",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Kelompok Sadar Wisata(Pokdarwis) Cinta Bahari dibentuk oleh aparat DesaPulau Pahawang Lampung sejak tahun 2013.Akan  tetapi  rendahnya  tingkat  pendidikan  anggota  Pokdarwis  membuat  mereka  sangat  sulit  untuk dapat mengembangkan  potensi  wisata  pulau  Pahawang.  Pada  tahun  2017,  promosi  wisata  sudah  dilakukan  menggunakan Teknologi  Informasi  dan  Komunikasi  (TIK)  dalam  bentuk  mobile  application  CintaBahari  yang  dikembangkan  pada kegiatan Pengabdian Kepada Masyarakat (PKM) sebelumnya. Namun demikian masalah promosi ini masih harus terus ditingkatkan  dan  berkelanjutan,  sehingga  jumlah  kunjungan  wisatawan  yang  diperoleh  dapat  lebih  maksimal.Solusi yang   ditawarkan   oleh   Tim   PKM   ini   adalah   mengembangkan   media   promosi   dengan   menggunakan   teknologi Augmented Reality (AR) yang menggambarkan objek wisata Pahawang secara real yang dikemas secara menarik dan atraktif. Teknologi AR dapat menggabungkan benda maya dua dimensi atau tiga dimensi ke dalam sebuah lingkungan nyata tiga dimensi lalu memproyeksikan benda-benda maya tersebut dalam waktu nyata. Selain itu,Tim PKM ini juga memberikan  sosialisasi tentang  penggunaan aplikasi  ARtersebutdan  pembagian  poster  dengan  konten  AR  kepada masyarakat sebagai sarana mereka memberikan promosi kepada wisatawan yang datang. Metoda    yang    digunakan  dalam      pembangunan   aplikasi   menggunakan   metode   iterative   development      yang   disebut   dengan   Rapid Application Development  (RAD)  dengan  tahapan  :  identifikasimasalahdanmotivasi,menetapkanobjeksolusi,penerapan  solusi  dan  pelatihanserta  pelaporanhasil  dan  publikasi.  Adanya  aplikasi AR  ini  diharapkan  dapat membuat peningkatan   potensi  wisatawan   yang   datang   dan   kembali  datang   lagi  ke   Pulau   Pahawang   melalui ketersediaan informasi yang lengkap dan menarik dalam bentuk AR. Sehingga secara langsung akan berdampak pada peningkatan pendapatan pokdarwis dan masyarakat Desa Pulau Pahawang pada umumnya.Kata kunci: Augmented Reality, CintaBahari, Pokdarwis, Pahawang, Promosi",
+      "title": "AUGMENTED REALITY PADA APLIKASI CINTABAHARISEBAGAI MEDIA PROMOSI PULAU PAHAWANG",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/",
+      "rev_number": 11,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "eprintid": 16171,
+      "date_type": "published",
+      "userid": 517,
+      "lastmod": "2022-12-05 04:19:00",
+      "datestamp": "2020-02-11 09:08:03",
+      "pagerange": "116-121",
+      "ispublished": "pub",
+      "number": 3,
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "id",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 16171,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29274",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 3587,
+                  "datasetid": "document",
+                  "mtime": "2019-11-12 13:36:47",
+                  "hash_type": "MD5",
+                  "hash": "ec811208ff3c76774a353b04a5653763",
+                  "filename": 114,
+                  "fileid": 138399,
+                  "mime_type": "text\/html",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138399",
+                  "objectid": 29274
+                }
+            ],
+            "main": 114,
+            "docid": 29274
+          }
+      ],
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16171",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "SAKAI SAMBAYAN",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Mulyani",
+            "lineage": null,
+            "given": "Yessi"
+          }
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistiono"
+          }
+        }
+      ],
+      "issn": "e-ISSN 2550-1089",
+      "dir": "disk0\/00\/01\/61\/71",
+      "date": "2019-11"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32296",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 32296,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 146490,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382240",
+                  "datasetid": "document",
+                  "filesize": 500029,
+                  "fileid": 382240,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-08 07:24:39",
+                  "hash": "0d4df7ca8eb33471ed4c6bb41cc4480d",
+                  "filename": "125957465.pdf"
+                }
+            ],
+            "main": "125957465.pdf",
+            "docid": 146490,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146490",
+            "format": "text",
+            "pos": 1
+          },
+          {
+            "eprintid": 32296,
+            "placement": 2,
+            "security": "public",
+            "language": "en",
+            "mime_type": "text\/html",
+            "content": "published",
+            "main": 125957465,
+            "docid": 146491,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382243",
+                  "objectid": 146491,
+                  "filesize": 27461,
+                  "datasetid": "document",
+                  "filename": 125957465,
+                  "hash": "b003770f20756d0c8a983a382c544fa7",
+                  "mtime": "2021-06-08 07:24:59",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "fileid": 382243
+                }
+            ],
+            "pos": 2,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146491"
+          }
+      ],
+      "pres_type": "paper",
+      "datestamp": "2021-06-08 08:20:34",
+      "userid": 471,
+      "lastmod": "2021-06-08 08:20:34",
+      "date": 2019,
+      "dir": "disk0\/00\/03\/22\/96",
+      "creators": [
+        {
+          "id": "mona.batubara@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Batubara",
+            "given": "Mona Arif Muda"
+          }
+        },
+        {
+          "id": "syaiful.alam@eng.unila.ac.id",
+          "name": {
+            "given": "Syaiful",
+            "honourific": null,
+            "family": "Alam",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nisa",
+            "lineage": null,
+            "given": "Khoirin"
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rizka WA",
+            "lineage": null,
+            "honourific": null,
+            "family": "Utami"
+          },
+          "id": "rizkawidya@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriawan",
+            "given": "Helmy"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        },
+        {
+          "id": "ardian.ulvan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ulvan",
+            "given": "Ardian"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9",
+        "FT5",
+        "FT8"
+      ],
+      "type": "conference_item",
+      "event_type": "conference",
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/icsb-19\/125957465",
+      "title": "Estimating the Number of Trees in Margasari Mangrove Forests of Lampung Through Aerial Images Using Adaptive Thresholding and Contour Extraction Methods",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Estimating number of trees with field plots located in remote or inaccessible areas can be a costly and timely endeavor. Unmanned aerial vehicle (UAV) remote sensing allowing for the estimation of the forest vegetation offers an alternative to traditional ground-based forest measurements. It is an important supplement to traditional aerial and satellite remote sensing due to its flexible, fast and cost-effective capability for acquiring very high spatial resolution imagery. In this study, we explored the application of UAV to monitoring mangrove forests in Margasari Lampung Indonesia. Using the UAV, we collected aerial photos of the Margasari mangrove area. The adaptive thresholding and contour extraction methods were applied to measure the number of trees of the mangrove forest.",
+      "eprint_status": "archive",
+      "status_changed": "2021-06-08 08:20:34",
+      "event_location": "Indonesia",
+      "date_type": "published",
+      "event_title": "International Conference on Sustainable Biomass (ICSB 2019)",
+      "eprintid": 32296
+    },
+    {
+      "official_url": "http:\/\/ecampus.iainbatusangkar.ac.id\/ojs\/index.php\/sainstek\/article\/view\/1621",
+      "abstract": "Talking about West Sumatra, what will surely be drawn is tourism, it is undeniable that West Sumatra is a tourist province, one of which is island tourism, including Pamusan Island, Cubadak Island, Pasumpahan Island, Pagai Island, Siberut and others. Because it needs the support of supporting applications such as inter-island transportation ordering, it needs the support of technology, one of which is inter-island transportation and also ordering food that can be delivered directly to the address. In order to help make it easier for tourists to visit the island in West Sumatra, an application called the Go Land Application was designed. The Go Land application is an application designed using the Agile system development method with the Android Studio programming language and the UML (Unified Modeling Language) system design tool. This application has several services including: Go_Land, Land_Car, Land_Food, Land_Med, Land_Rent, Land_Auto, in this application Travelers can use facilities on the island including water games, snorkeling, seafood and can be used for formal or informal events. With this application, tourists are expected to be easier, faster and safer to enjoy island tourism in West Sumatra.",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 20206,
+      "publisher": "Saintek : Jurnal sains dan teknologi",
+      "contributors": [
+        {
+          "id": "iswanditech@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "name": {
+            "honourific": null,
+            "family": "iswandi",
+            "lineage": null,
+            "given": "iswandi"
+          }
+        },
+        {
+          "name": {
+            "given": "rahmi",
+            "lineage": null,
+            "family": "lidya",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT",
+          "id": "lidyarahmi23@gmail.com"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT",
+          "id": "trisya.septiana@eng.unila.ac.ic",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "trisya",
+            "given": "septiana"
+          }
+        }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2020-05-22 01:48:23",
+      "lastmod": "2020-05-22 01:48:23",
+      "date": "2019-12-01",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 11,
+      "referencetext": "Afrina, M., Ibrahim, A., & Simarmata, T. (2013). Pariwisata Berbasis Android. 170–174.\r\nAl-Zewairi, M., Biltawi, M., Etaiwi, W., & Shaout, A. (2017). Agile Software Development Methodologies: Survey of Surveys. Journal of Computer and Communications, 05(05), 74–97. https:\/\/doi.org\/10.4236\/jcc.2017.55007\r\nFathoni, L. F., Mushlihudin, Firdausy, K., & Yudhana, A. (2016). Application Information System Based Health Services Android. Jurnal Ilmu Teknik Elektro Komputer Dan Informatika (JITEKI), 2(1), 37–46.\r\nHaviluddin. (2011). Memahami Penggunaan UML ( Unified Modelling Language ). Memahami Penggunaan UML (Unified Modelling Language), 6(1), 1–15.\r\nLeonid, M. (2014). The Impact Of Smartphones And Mobile Devices On Human Health And Life. The Impact Of Smartphones And Mobile Devices On Human Health And Life, 28.\r\nNurhayati, S., & Ristanto, V. G. (2017). Sistem Informasi Pariwisata Provinsi Papua Berbasis Web. Seminar Nasional APTIKOM (SEMNASTIKOM), 3(1), 1–13.\r\nRiski, T. R., Azman, H. A., Rahmi, F., Ekonomi, F., Dharma, U., & Padang, A. (2016). Strategi Pengembangan Wisata Bahari di Kota Padang. 7.\r\nSoelistijadi, R. (2015). Sistem Informasi Pariwisata Berbasis Web : Studi Kasus Fasilitas Penginapan Di Wilayah PropinsiYogyakarta. Jurnal Dinamika Informatika, 7(1), 59–67.\r\nSunaryo, B., Rusydi, M. I., Manab, A., Luthfi, A., . R., & Septiana, T. (2016). Sistem Informasi Manajamen Perangkat Elektronik Berbasis Web. Jurnal Nasional Teknologi Dan Sistem Informasi, 2(1), 75–82.\r\nThakur, S., & Kaur, A. (2013). International Journal of Computer Science and Mobile Computing Role of Agile Methodology in Software Development. International Journal of Computer Science and Mobile Computing, 2(10), 86–90.\r\nXia, F., Hsu, C. H., Liu, X., Liu, H., Ding, F., & Zhang, W. (2013). The power of smartphones. Multimedia Systems, 21(1), 87–101. https:\/\/doi.org\/10.1007\/s00530-013-0337-x\r\nZheng, J., Feng, Y., & Zhao, Y. (2014). A Unified Modeling Language-Based Design and Application for a Library Management Information System. Bulgarian Academy of Sciences Cybernetics and Information Tecnologies, 14, 129–144.",
+      "title": "PERANCANGAN APLIKASI GO LAND (WEST SUMATERA ISLAND TOUR) BERBASIS ANDROID",
+      "status_changed": "2020-05-22 01:48:23",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20206",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 20206,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33546",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 190546,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-20 04:33:39",
+                  "filename": "1620-6014-1-PB.pdf",
+                  "hash": "a6ad8b2d8990df8a0379c666696cd960",
+                  "datasetid": "document",
+                  "filesize": 392673,
+                  "objectid": 33546,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190546"
+                }
+            ],
+            "docid": 33546,
+            "main": "1620-6014-1-PB.pdf"
+          }
+      ],
+      "pagerange": "28-36",
+      "userid": 2818,
+      "dir": "disk0\/00\/02\/02\/06",
+      "issn": "2085-8019",
+      "creators": [
+        {
+          "id": "iswanditech@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Iswandi",
+            "given": "iswandi"
+          }
+        },
+        {
+          "name": {
+            "family": "Lidya",
+            "honourific": null,
+            "lineage": null,
+            "given": "rahmi"
+          },
+          "id": "lidyarahmi23@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Trisya",
+            "lineage": null,
+            "given": "septiana"
+          },
+          "id": "trisya.septiana@eng.unila.ac.ic"
+        }
+      ],
+      "publication": "PERANCANGAN APLIKASI GO LAND (WEST SUMATERA ISLAND TOUR) BERBASIS ANDROID",
+      "contact_email": "trisya.septiana@eng.unila.ac.id"
+    },
+    {
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Improving the quality of services for students from the Batusangkar IAIN Information Management Department requires a system that can provide information needed by students and graduates such as information about alumni data and alumni careers themselves. In addition, this system can also be used as a means to establish communication and manage friendship between students and alumni. This research was carried out in several stages, namely: Collecting data through field studies by observing and observing the IAIN Batusangkar's Information Management Study Program, developing the system using the waterfall method and proceeding with the process, database and interface design. One indicator of the success of the education process can be seen from the success of alumni both continuing studies at a higher level, as well as various fields of work carried out professionally, but the Department of Information Management has not been managed and organized systematically causing some alumni data to not be captured properly, resulting in the lack of information and communication between alumni and alumni. The results of this study are in the form of developing a tracking information system for alumni that contains the amount of alumni data that has worked, alumni workplaces. For this reason, it is necessary to create a system to facilitate the institution, especially the informatics management department in tracking alumni. In this research the web-based application system is designed using supporting applications such as Apache, MySQL and Macromedia Dream Weaver and the waterfall modeling method.\r\nKeywords: Alumni, Macromedia Dream Waver, waterfall, PHP and MySQL database",
+      "official_url": "http:\/\/ecampus.iainbatusangkar.ac.id\/ojs\/index.php\/sainstek\/article\/view\/1621",
+      "eprintid": 20211,
+      "date_type": "published",
+      "lastmod": "2020-05-22 01:49:47",
+      "datestamp": "2020-05-22 01:49:47",
+      "number": 1,
+      "contributors": [
+        {
+          "name": {
+            "family": "lidya",
+            "honourific": null,
+            "lineage": null,
+            "given": "rahmi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT",
+          "id": "lidyarahmi23@gmail.com"
+        },
+        {
+          "name": {
+            "family": "trisya",
+            "honourific": null,
+            "lineage": null,
+            "given": "septiana"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT",
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD",
+          "name": {
+            "honourific": null,
+            "family": "farid",
+            "lineage": null,
+            "given": "ahmad marlion"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "id": null,
+          "name": {
+            "given": "hidayat",
+            "honourific": null,
+            "family": "rahmad",
+            "lineage": null
+          }
+        }
+      ],
+      "ispublished": "pub",
+      "publisher": "Saintek : Jurnal sains dan teknologi",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "date": "2019-12-01",
+      "status_changed": "2020-05-22 01:49:47",
+      "title": "SISTEM INFORMASI PELACAKAN DATA ALUMNI JURUSAN MANAJEMEN INFORMATIKA IAIN BATUSANGKAR BERBASIS WEB",
+      "referencetext": "Adenowo, A. A., & Adenowo, B. A. (2013).\r\nSoftware Engineering Methodologies: A\r\nReview of the Waterfall Model and\r\nObjek-Oriented Approach. International\r\nJournal of Scientific & Engineering\r\nResearch, 4(7), 427–434.\r\nBinarso, Y. A., Sarwoko, E. A., & Bahtiar, N.\r\n(2012). Pembangunan Sistem Informasi\r\nAlumni Berbasis Web pada Program Studi\r\nTeknik Informatika Universitas\r\nDiponegoro. Journal of Informatics and\r\nTechnology, 1(1), 72–84.\r\nHaviluddin. (2011). Memahami Penggunaan\r\nUML (Unified Modelling Language).\r\nJurnal Informatika Mulawarman, 6(1), 1–\r\n15.\r\nIvan Arifard Watung, Alicia A. E. Sinsuw, ST.,\r\nM., & Sary D. E. Paturusi, ST., M.Eng\r\nXaverius B. N. Najoan, ST., M. (2014). Perancangan Sistem Informasi Data\r\nAlumni. Jurnal Ilmiah Sistem\r\nManajenmen Informatika, 1(1), 47–57.\r\nPawar, R. P. (2015). A comparative study of\r\nagile software development methodology\r\nand traditional waterfall model. (IOSRJCE) IOSR Journal of Computer\r\nEngineering, 1(1), 1–5.\r\nPutra, P. S., Maryanto, H., & Pd, S. (2014).\r\nRancang Bangun Sistem Informasi\r\nPenelusuran Data Alumni Berbasis Web\r\nPada Sekolah Tinggi Teknik Dharma\r\nIswara Madiun. Program Studi Teknik\r\nInformatika Stt Dharma Iswara Madiun,\r\n1–7.\r\nRahma, S. E. (2016). Rancang Bangun Sistem\r\nInformasi Alumni Berbasis Web (Studi\r\nKasus : Jurusan Teknik Informatika\r\nUniversitas Negeri Surabaya). 6(1), 143–\r\n150.\r\nZheng, J., Feng, Y., & Zhao, Y. (2014). A\r\nUnified Modeling Language-Based\r\nDesign and Application for a Library\r\nManagement Information System.\r\nBulgarian Academy of Sciences\r\nCybernetics and Information Tecnologies,\r\n14, 129–144.",
+      "rev_number": 8,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "userid": 2818,
+      "pagerange": "8-15",
+      "documents": [
+          {
+            "docid": 33549,
+            "main": "1621-6011-1-PB.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 190571,
+                  "hash": "120e9100f4e8aaec89ebb5dbe1a7cf0d",
+                  "filename": "1621-6011-1-PB.pdf",
+                  "mtime": "2020-05-20 05:13:37",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 488793,
+                  "objectid": 33549,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190571"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33549",
+            "rev_number": 1,
+            "eprintid": 20211,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "security": "public",
+            "placement": 2,
+            "eprintid": 20211,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190599",
+                  "objectid": 33553,
+                  "filesize": 488793,
+                  "datasetid": "document",
+                  "filename": "1621-6011-1-PB.pdf",
+                  "hash": "120e9100f4e8aaec89ebb5dbe1a7cf0d",
+                  "mtime": "2020-05-20 05:45:36",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 190599
+                }
+            ],
+            "docid": 33553,
+            "main": "1621-6011-1-PB.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33553",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 2
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20211",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "publication": "SISTEM INFORMASI PELACAKAN DATA ALUMNI JURUSAN MANAJEMEN INFORMATIKA IAIN BATUSANGKAR BERBASIS WEB",
+      "issn": "2085-8019",
+      "creators": [
+        {
+          "id": "lidyarahmi23@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Lidya",
+            "lineage": null,
+            "given": "rahmi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "trisya",
+            "given": "septiana"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "farid",
+            "honourific": null,
+            "given": "ahmad marlion"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "hidayat",
+            "honourific": null,
+            "family": "rahmat",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/02\/11"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "issn": "1979-889X",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Anbiya",
+            "honourific": null,
+            "given": "Hafiz"
+          },
+          "id": null
+        }
+      ],
+      "publication": "BAROMETER",
+      "dir": "disk0\/00\/02\/16\/27",
+      "date": "2019-07",
+      "userid": 3,
+      "lastmod": "2020-06-03 04:54:12",
+      "datestamp": "2020-06-03 04:54:12",
+      "publisher": "Universitas Singaperbangsa Karawang",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 21627,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35013",
+            "rev_number": 1,
+            "main": "1907-7499-1-PB (1).pdf",
+            "docid": 35013,
+            "files": [
+                {
+                  "objectid": 35013,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200277",
+                  "fileid": 200277,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-03 04:52:23",
+                  "hash_type": "MD5",
+                  "filename": "1907-7499-1-PB (1).pdf",
+                  "hash": "fa2b7dd6eeb3ca3632cf15a140a41e89",
+                  "datasetid": "document",
+                  "filesize": 747987
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21627",
+      "full_text_status": "public",
+      "eprintid": 21627,
+      "date_type": "published",
+      "status_changed": "2020-06-03 04:54:12",
+      "eprint_status": "archive",
+      "abstract": "A B S T R A K\r\nKehadiran shuttle bus di Universitas Lampung yang bertujuan untuk mempermudah transportasi\r\ncivitas Universitas Lampung memiliki potensi yang bisa dikembangkan dengan teknologi yang ada.\r\nSaat ini smartphone merupakan teknologi yang sudah menjadi bagian dari kehidupan masyarakat\r\nkarena memiliki mobilitas yang tinggi dan multifungsi. GPS (Global Positioning System) merupakan\r\nbagian yang wajib pada smartphone. Sistem informasi untuk mengetahui posisi shuttle bus yang\r\nsedang beroperasi, penuh atau tidaknya shuttle bus dan estimasi perjalanan shuttle bus dapat\r\nditampilkan pada smartphone yang bertujuan untuk mempermudah pengguna shuttle bus dan\r\nmengangkat aspek dari Intelligent Transportation System (ITS) yang merupakan bagian dari Smart\r\nTechnology pada Smart Campus. Penelitian ini dimanfaatkan untuk memberikan informasi mengenai\r\nshuttle bus yang disajikan pada aplikasi smartphone dalam bentuk user interface yang mudah\r\ndigunakan dan dipahami.",
+      "subjects": [
+        "AC"
+      ],
+      "title": "APLIKASI POSITION TRACKING VEHICLE BERBASIS INTELLIGENT TRANSPORTATION SYSTEM UNTUK SHUTTLE BUS UNIVERSITAS LAMPUNG",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 4
+    },
+    {
+      "datestamp": "2020-06-03 04:49:40",
+      "userid": 3,
+      "lastmod": "2020-06-03 04:49:40",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21625",
+      "full_text_status": "public",
+      "publisher": "Politeknik Sekayu",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35010",
+            "main": "198-Article Text-738-1-10-20191022.pdf",
+            "docid": 35010,
+            "files": [
+                {
+                  "fileid": 200264,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-03 04:46:51",
+                  "hash_type": "MD5",
+                  "hash": "afc85a5c304ddfa6d6d6e07ade87e179",
+                  "filename": "198-Article Text-738-1-10-20191022.pdf",
+                  "datasetid": "document",
+                  "filesize": 529960,
+                  "objectid": 35010,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200264"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 21625,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/16\/25",
+      "date": "2019-12",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "id": "resty.annisa@eng.unila.ac.id",
+          "name": {
+            "given": "Resty",
+            "lineage": null,
+            "honourific": null,
+            "family": "Annisa"
+          }
+        }
+      ],
+      "issn": "2654-5071",
+      "publication": "Jurnal TIPS : Jurnal Teknologi Informasi dan Komputer Politeknik Sekayu",
+      "abstract": "Shuttle Bus Universitas Lampung merupakan moda transportasi lokal di dalam kampus. Penggunaan shuttle bus\r\ndapat ditingkatkan dengan adanya sistem informasi yang dikontrol langsung oleh driver. Penyampaian informasi\r\nmenggunakan Global Positioning System pada smartphone android secara real time. Sistem ini dibangun\r\nmenggunakan metode prototyping. Pengujian dilakukan dengan metode blackbox, pengujian data, dan Hasilnya\r\nsistem informasi dapat menampilkan posisi shuttle bus yang sedang beroperasi, kondisi penuh atau tidaknya\r\nshuttle bus, dan estimasi waktu perjalanan. Selain itu hasil User Acceptance Test masuk dalam kategori baik,\r\nefisiensi data base dan diketahui bahwa waktu untuk melalui semua halte di Universitas Lampung berkisar 11\r\nmenit.\r\nKata Kunci : Shuttle Bus, Smartphone, GPS (Global Positioning System)",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2020-06-03 04:49:40",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 9,
+      "rev_number": 6,
+      "title": "DRIVER INFORMATION SYSTEM PADA SHUTTLE BUS UNIVERSITAS LAMPUNG",
+      "date_type": "published",
+      "eprintid": 21625
+    },
+    {
+      "pres_type": "paper",
+      "documents": [
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35136",
+            "format": "archive",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/201132",
+                  "objectid": 35136,
+                  "filesize": 30908,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-04 02:00:40",
+                  "filename": "index.html",
+                  "hash": "218c21f9c88a5e21b0732ddf59513e30",
+                  "fileid": 201132,
+                  "mime_type": "text\/html"
+                }
+            ],
+            "main": "index.html",
+            "docid": 35136,
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "id",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 21734
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21734",
+      "userid": 517,
+      "lastmod": "2020-06-04 02:07:39",
+      "datestamp": "2020-06-04 02:07:39",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mustakim",
+            "given": "Hendri"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/17\/34",
+      "date": "2019-02",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "event_dates": "Oktober 2019",
+      "official_url": "http:\/\/sniper.library.unila.ac.id\/2020\/05\/29\/e-prosding-2019\/",
+      "title": "Virtual Reality Tour sebagai Media Pengenalan Lingkungan Perpustakaan",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 10,
+      "eprint_status": "archive",
+      "status_changed": "2020-06-04 02:07:39",
+      "abstract": "Pengenalan lingkungan perpustakaan merupakan bentuk pemberian informasi kepada pengguna terhadap apa yang ada di dalam perpustakaan, seperti gedung, ruang dan fasilitas lainnya. Metoda pengenalan yang dilakukan oleh pustakawan ataupun staf perpustakaan kepada pengunjung biasanya berupa sebuah tour konvensional. Dengan menggunakan aplikasi Virtual Tour memungkinkan pengguna dapat berinteraksi dengan lingkungan maya perpustakaan. Tujuan dari penelitian ini adalah membuat aplikasi Virtual Tour menggunakan teknologi Virtual Reality (VR) untuk memperkenalkan gedung dan ruang Perpustakaan Universitas Lampung (Unila) kepada pengguna. Metode yang digunakan adalah DSR (Design Science Research). Pengembangan aplikasi menggunakan unity3D, sedangkan desain tiga dimensi (3D) gedung Perpustakaan dibuat menggunakan blender dengan mode first person.. Pengambilan gambar 360° dilakukan menggunakan samsung gear 360°. Aplikasi telah berhasil dirancang dan dikembangkan hingga tahap demonstrasi. Aplikasi dapat dijalankan menggunakan smartphone dengan gyroscope sensor pada mode VR. Perangkat VR yang digunakan berupa Google cardboard, yang memiliki harga relatif terjangkau bagi pengguna umumnya.\r\nKata kunci : Perpustakaan, virtual tour, virtual reality, unity3D, gyroscope sensor, DSR (Design Science Research)",
+      "subjects": [
+        "T1"
+      ],
+      "event_location": "Bandar Lampung",
+      "eprintid": 21734,
+      "event_title": "SEMINAR NASIONAL INOVASI PERPUSTAKAAN (SNIPer) 2019",
+      "date_type": "published"
+    },
+    {
+      "abstract": "Corrosion  is  a  chemical  reaction  that  occurs  in  materials  made  of  iron  such  as steel.  Steel that is experiencing corrosion will appear dark brown spots, the longer it is getting more and more and can cover the entire surface. Corroded steel will result in a major deterioration and structural failure because the thickness of the steel will decrease over a period of time, so the safety of the building is clearly not guaranteed. Research onthe tools used to detect the corrosion value of steel has been carried out. However, not using the internet of things technology. Therefore, a  web-based  corrosion  monitoring or  monitoring  system  was  designed.  The  web will display data on voltage and temperature values in the form of numbers and charts.  In  addition,  the  website  can  also  send  SMS  and  Whatsapp  message notifications if the value obtained exceeds the threshold. In developing this website using  the  prototype  method,  Laravel  Framework,  PHP  and Java  programming languages, MySQL database, Guzzle, and Whatspie as automatic message sending bots. The System can provide information of monitoring regarding dummy, active, and delta voltage along with their time and temperature",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-23 08:28:27",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 3,
+      "title": "Dashboard Monitoring of Atmospheric Corrosion Sensor in Materials Metal Using Laravel Framework",
+      "date_type": "published",
+      "eprintid": 46807,
+      "datestamp": "2022-11-23 08:28:27",
+      "lastmod": "2022-11-23 08:28:27",
+      "userid": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46807",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46807,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185732",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 662380,
+                  "datasetid": "document",
+                  "hash": "bb08dbfab642e5a35d65ed88208af31c",
+                  "filename": "52-Article Text-435-1-10-20220810.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 08:26:57",
+                  "mime_type": "application\/pdf",
+                  "fileid": 515258,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515258",
+                  "objectid": 185732
+                }
+            ],
+            "docid": 185732,
+            "main": "52-Article Text-435-1-10-20220810.pdf"
+          }
+      ],
+      "publisher": "Fakultas Teknik Unila",
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/04\/68\/07",
+      "date": 2019,
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          }
+        }
+      ],
+      "issn": "2685-1695",
+      "publication": "Dashboard Monitoring of Atmospheric Corrosion Sensor in Materials Metal Using Laravel Framework"
+    },
+    {
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "date": 2019,
+      "dir": "disk0\/00\/04\/66\/11",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "ispublished": "pub",
+      "publisher": "Blue Eyes Intelligence Engineering & Sciences Publication",
+      "documents": [
+          {
+            "eprintid": 46611,
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "A2708109119 (2).pdf.pdf",
+            "docid": 186736,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522100",
+                  "objectid": 186736,
+                  "filename": "A2708109119 (2).pdf.pdf",
+                  "hash": "c8c94ba5ac23f3697f21bf9c67ab0129",
+                  "mtime": "2023-01-09 08:19:28",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522100,
+                  "filesize": 976091,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186736",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46611",
+      "lastmod": "2023-01-09 08:19:38",
+      "userid": 1,
+      "datestamp": "2022-11-14 08:00:52",
+      "eprintid": 46611,
+      "date_type": "published",
+      "title": "Implementation of K-Means Technique in Data Mining to Cluster Researchers Google Scholar Profile - Similarity check",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 08:00:52",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 46613,
+            "placement": 2,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 186738,
+            "main": "2209-2220.pdf.pdf",
+            "files": [
+                {
+                  "fileid": 522106,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-01-09 08:25:50",
+                  "hash_type": "MD5",
+                  "filename": "2209-2220.pdf.pdf",
+                  "hash": "ff07fce8d5b1f1f93c04cd2de6d21fb0",
+                  "datasetid": "document",
+                  "filesize": 771420,
+                  "objectid": 186738,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522106"
+                }
+            ],
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186738",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Medwell Journal",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46613",
+      "full_text_status": "public",
+      "lastmod": "2023-01-09 08:25:53",
+      "userid": 1,
+      "datestamp": "2022-11-14 08:07:34",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/66\/13",
+      "date": 2019,
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "Implementation of Two-Factor Authentication (2FA) to Enhance the Security of Academic Information System - Similarity",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 08:07:34",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 46613
+    },
+    {
+      "eprintid": 21594,
+      "eprint_status": "archive",
+      "status_changed": "2020-06-03 03:26:57",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "A university usually has many Lecturers that have an\r\nimportant role in improving the quality of Higher Education. The\r\nLecturers should produce scientific publications at least 1\r\npublication on each semester. The achievements of a Lecturer in\r\nresearch and publication become the main indicator that\r\ndescribes the professionalism of lecturers as scientists.\r\nMonitoring the improvement of publication trends is very\r\nimportant to do as an evaluation for organizational management\r\nin choosing the best strategy to strengthen the quality of\r\npublication, and one of the common tools used for analyzing the\r\npublication data is the Google Scholar system. This paper\r\nattempts to analyze the Google scholar data using Data Mining\r\ntechniques (Text Mining) by R language, to collect Lecturer’s\r\nprofile and list of publications in a real-time, the aim of this\r\nresearch is to allow the Management for identifying the Cluster\r\nfrom total 1039 Lecturers on University of Lampung. The results\r\nof this research shown there were 5 Cluster of scholar profile\r\ndata, with member details C0=102, C1=924, C2=1, C3=1, C4=11,\r\ntotal 88.93% of Lecturers are on cluster C1 with, centroid data\r\nwas h_index=1.942, total_cites=20.89, i10_index=0.417.\r\nKeywords: Text Mining, r Language, Clustering, Data Mining,\r\nGoogle Scholar, Publication Analysis",
+      "title": "Implementation of K-Means Technique in Data\r\nMining to Cluster Researchers Google Scholar\r\nProfile",
+      "volume": 9,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "International Journal of Engineering and Advanced Technology (IJEAT)",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "id": "plgsekip@eng.unila.ac.id",
+          "name": {
+            "given": "Hakim",
+            "family": "Lukmanul",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi"
+          }
+        }
+      ],
+      "issn": "2249 – 8958",
+      "date": "2019-10",
+      "dir": "disk0\/00\/02\/15\/94",
+      "lastmod": "2020-06-03 03:26:57",
+      "userid": 3,
+      "datestamp": "2020-06-03 03:26:57",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Blue Eyes Intelligence Engineering and Sciences Publication",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 21594,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 34977,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200075",
+                  "fileid": 200075,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-03 03:21:45",
+                  "hash_type": "MD5",
+                  "filename": "A2708109119.pdf",
+                  "hash": "46ec7eb2ae23a1266cf4f08bc700737f",
+                  "datasetid": "document",
+                  "filesize": 936691
+                }
+            ],
+            "docid": 34977,
+            "main": "A2708109119.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34977",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21594",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 41115,
+      "rev_number": 6,
+      "volume": 6,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/jtiik.ub.ac.id\/index.php\/jtiik\/article\/view\/1096",
+      "title": "RANCANG BANGUN APLIKASI GAME EDUKASI KOLEKSI PERMAINAN AKSARA LAMPUNG (KOPER APUNG)BERBASIS ANDROID MENGGUNAKAN METODE SCRUM- Full Cover",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Indonesia  merupakan  negara  yang  memiliki  keanekaragaman  budaya.  Salah  satu  bentuk keragamanbudayanyaadalahbahasa  daerah  yang  berbeda  di  setiap  wilayah.  Bahkan, pada  beberapa  daerah  tertentu memiliki  aksarakhusus  dalam  penulisan,  salah  satunya  yaitu  aksara  Lampung.  Ada  berbagai  macam  cara  yang biasa dilakukan untuk  melestarikan  penggunaan  aksara  dan  bahasa  daerah,  salahsatunya  dengan  memanfaatkan  teknologi. Penelitian ini menghasilkan sebuah produkgameedukasi belajar bahasa dan aksara Lampung(KOPER APUNG) berbasis android dengan metode scrumdan menggunakan gameengineconstruct2. Dari 3kali proses iterasisprintyang  dilakukan, menghasilkan  sebuah gameedukasi yang sesuai  dengan  kebutuhan  pengguna.Pengujian portabilitymenunjukkanbahwagamedapat  berjalan padaperangkat  android  minimum  versi  4.1.  Pengujian functionalitymenunjukkan  aset game100%  dapat  berjalan  baik.  User acceptancetestdengan  melibatkan  25 responden, menunjukkan predikat sangat baik dengan persentase 95,77%. Pengujian efficiencymenunjukkan gamemenggunakan CPU rata-rata sebesar 15% dan RAM 400 MB. Sedangkan pada tahap evaluasi, tingkat kelulusan responden   meningkat  dari  sebelumnya  36 %  menjadi  96%.  Sehingga,  gameiniefektif digunakan  sebagai salah satu media belajar Aksara Lampung.\r\n\r\nKata kunci: android,  construct  2,  metode  scrum,  game  edukasi,  aksaralampung",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:08:29",
+      "succeeds": 40688,
+      "date": "2019-08",
+      "dir": "disk0\/00\/04\/11\/15",
+      "id_number": "http:\/\/dx.doi.org\/10.25126\/jtiik.201961096",
+      "publication": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pamungkas",
+            "honourific": null,
+            "given": "Ayu Dian"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hery Dian",
+            "family": "Septama",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        }
+      ],
+      "issn": "p-ISSN: 2355-7699",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41115",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 4,
+      "publisher": "Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya (UB)",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 41115,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162543",
+            "docid": 162543,
+            "main": "RANCANG BANGUN APLIKASI GAME EDUKASI.pdf",
+            "files": [
+                {
+                  "objectid": 162543,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456465",
+                  "datasetid": "document",
+                  "filesize": 590367,
+                  "fileid": 456465,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-04-06 04:22:15",
+                  "hash_type": "MD5",
+                  "hash": "1d2b20d97fbeefef00001ae9bc44fbb5",
+                  "filename": "RANCANG BANGUN APLIKASI GAME EDUKASI.pdf"
+                }
+            ]
+          }
+      ],
+      "pagerange": "421-430",
+      "datestamp": "2022-04-06 06:08:29",
+      "lastmod": "2022-04-06 06:08:29",
+      "userid": 517
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "volume": 11,
+      "title": "How to Build Digital Library in University - Full Cover",
+      "abstract": "-Currently there is euphoria among college librarians. The trigger for the situation is related to the widespread development of digital-based library concepts. According to Oppenheim and Smithson a digital library is an information service where all information sources are available \/ processed in computers and the functions of acquisition \/ retrieval, storage, retrieval, access and display using digital technology. The problem in this study is how to build digital library management. This study aims to design digital-based library management. The result of this research that digital library programs have been made from the initial display into digital libraries to the process of borrowing books, but the appearance of digital libraries is still simple.",
+      "subjects": [
+        "T1",
+        "Z665"
+      ],
+      "succeeds": 13842,
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 04:20:23",
+      "date_type": "published",
+      "eprintid": 41113,
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41113",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 7,
+            "eprintid": 41113,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162540",
+            "format": "text",
+            "pos": 7,
+            "files": [
+                {
+                  "objectid": 162540,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456434",
+                  "fileid": 456434,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 04:12:07",
+                  "filename": "How to Build Digital Library in University.pdf",
+                  "hash": "e7e4d8204185c08030b2809abf4c86e5",
+                  "datasetid": "document",
+                  "filesize": 1522557
+                }
+            ],
+            "docid": 162540,
+            "main": "How to Build Digital Library in University.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 5,
+      "datestamp": "2022-04-06 04:20:23",
+      "lastmod": "2022-04-06 04:20:23",
+      "userid": 517,
+      "date": "2019-07-19",
+      "dir": "disk0\/00\/04\/11\/13",
+      "creators": [
+        {
+          "name": {
+            "given": "Andri",
+            "lineage": null,
+            "family": "Winata",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Zuriana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Herlina",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "1943-023X",
+      "publication": "Journal of Advanced Research in Dynamical & Control Systems",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Andri",
+            "family": "Winata",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Zuriana",
+            "lineage": null,
+            "family": "Zuriana",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Herlina",
+            "lineage": null,
+            "given": "Herlina"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Kurnia",
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "2622-3481",
+      "publication": "Jurnal Teknika",
+      "date": "2019-07-30",
+      "dir": "disk0\/00\/01\/38\/41",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26872",
+            "main": "Rancang Bangun Perpustakaan Digital.pdf",
+            "docid": 26872,
+            "files": [
+                {
+                  "fileid": 120814,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-08-18 02:09:15",
+                  "hash_type": "MD5",
+                  "hash": "9e563e0570738bad82681f20db479016",
+                  "filename": "Rancang Bangun Perpustakaan Digital.pdf",
+                  "datasetid": "document",
+                  "filesize": 802163,
+                  "objectid": 26872,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120814"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 13841,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "PPPM Politeknik Negeri Sriwijaya Palembang",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13841",
+      "full_text_status": "public",
+      "lastmod": "2019-08-19 03:19:49",
+      "userid": 517,
+      "datestamp": "2019-08-19 03:19:49",
+      "eprintid": 13841,
+      "date_type": "published",
+      "title": "Rancang Bangun Perpustakaan Digital",
+      "official_url": "https:\/\/jurnal.polsri.ac.id",
+      "metadata_visibility": "show",
+      "volume": 13,
+      "rev_number": 14,
+      "status_changed": "2019-08-19 03:19:49",
+      "eprint_status": "archive",
+      "abstract": "Berdasarkan surat edaran Dirjen Dikti No. 152\/E\/T\/2012 tanggal 27 Januari 2012 yang dituju kepada :Rektor\/Ketua\/Direktur PTN\/PTS di seluruh Indonesia menyatakan bahwa publikasi hasil penelitian menjadi persyaratan wajib bagi mahasiswa pasca untuk lulus, karena itu kualitas penelitian mahasiswa harus semakin baik dan dapat diterima di jurnal nasional terakreditasi atau jurnal international bereputasi. Hal ini menjadi tugas besar para pengelola program pascasarjana dan dosen-dosen pembimbing untuk mendorong dan melibatkan mahasiswa pasca untuk dapat mempublikasikan hasil penelitiannya. Salah satunya dengan memfasilitasi dengan literature-literature baik buku, maupun jurnal-jurnal yang berkualitas yang dapat diakses di perpustakaan lingkungan mahasiswa berada. Penelitian ini bertujuan untuk mendesain manajemen perpustakaan berbasis digital. Hasil penelitiannya bahwa program perpustakaan digital telah dibuat dari tampilan awal masuk perpustakaan digital sampai proses peminjaman buku, namun tampilan perpustakan digital masih sederhana.",
+      "subjects": [
+        "Z665"
+      ]
+    },
+    {
+      "publisher": "scitech framework journal of science and technology",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 16546,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29621",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 141152,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-11-15 05:09:50",
+                  "hash_type": "MD5",
+                  "filename": "7-Article Text-16-1-10-20191109.pdf",
+                  "hash": "7725e1afa10ca155103cd34e03822ab5",
+                  "datasetid": "document",
+                  "filesize": 886858,
+                  "objectid": 29621,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/141152"
+                }
+            ],
+            "docid": 29621,
+            "main": "7-Article Text-16-1-10-20191109.pdf"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "budi.sunaryo@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "budi",
+            "honourific": null,
+            "given": "sunaryo"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "family": "trisya",
+            "honourific": null,
+            "lineage": null,
+            "given": "septiana"
+          }
+        },
+        {
+          "name": {
+            "given": "febrian rusdi",
+            "honourific": null,
+            "family": "jack",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "jack@sttbandung.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16546",
+      "lastmod": "2019-11-18 05:08:18",
+      "userid": 2818,
+      "datestamp": "2019-11-18 05:08:18",
+      "pagerange": "41-46",
+      "creators": [
+        {
+          "id": "budi.sunaryo@gmail.com",
+          "name": {
+            "given": "sunaryo",
+            "lineage": null,
+            "honourific": null,
+            "family": "budi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "hardi",
+            "honourific": null,
+            "family": "ricky",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "taufiq",
+            "family": "rohmat",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "vicente",
+            "given": "aquino pitogo"
+          }
+        },
+        {
+          "name": {
+            "given": "septiana",
+            "family": "trisya",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "riska",
+            "lineage": null,
+            "given": "amelia"
+          }
+        },
+        {
+          "id": "jack@sttbandung.ac.id",
+          "name": {
+            "family": "jack",
+            "honourific": null,
+            "lineage": null,
+            "given": "febrian rusdi"
+          }
+        }
+      ],
+      "publication": "Mapping Mining Potential Using WebGIS",
+      "date": "2019-08-17",
+      "dir": "disk0\/00\/01\/65\/46",
+      "type": "article",
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "divisions": [
+        "FT8"
+      ],
+      "referencetext": "Ã, V. P., & Meroni, F. (2009). A WebGis tool for seismic hazard scenarios and risk analysis.  Soil Dynamics and Earthquake \r\nEngineering, 29(9), 1274–1281. https:\/\/doi.org\/10.1016\/j.soildyn.2009.03.001\r\nAmelia,  R.,  &  Ayu,  S.  (2016).  Sistem  Informasi  Geografis  Lokasi  SMA  di  Kota  Padang.  Jurnal  Teknologi  Informasi  Dan \r\nPendidikan, 9(3), 18–25.\r\nFago, P., Pignatelli, C., Piscitelli, A., Milella, M., Venerito, M., Sansò, P., & Mastronuzzi, G. (2014). WebGIS for  Italian tsunami : \r\nA useful tool for coastal planners. Marine Geology, 355, 369–376. https:\/\/doi.org\/10.1016\/j.margeo.2014.06.012\r\nJayakumar, K. (2019).  Chapter 15  -  Managing Mangrove Forests Using Open Source-Based WebGIS.  Coastal Management. \r\nElsevier Inc. https:\/\/doi.org\/10.1016\/B978-0-12-810473-6.00016-9\r\nRusdi, J. F., Salam,  S.,  Abu, N. A., Sahib,  S., Naseer, M., & Abdullah, A.  A. (2019). Drone Tracking Modelling Ontology for \r\nTourist Behavior. In Journal of Physics: Conference Series (Ed.), International Conference on Electronics Representation \r\nand  Algorithm  (ICERA  2019)  (Vol.  1201,  pp.  159–165).  Yogyakarta,  Indonesia.  https:\/\/doi.org\/10.1088\/1742-6596\/1201\/1\/012032\r\nRusdi, J. F., Salam, S., Abu, N. A., Sunaryo, B., Taufiq, R., Muchlis, L. S., … Vitianingsih, A. V. (2019). Dataset Smartphone Usage \r\nof International Tourist Behavior. Data in Brief, 104610. https:\/\/doi.org\/10.1016\/j.dib.2019.104610\r\nSobczyk, E. J., Kicki, J., Sobczyk, W., & Szuwarzyński, M. (2017). Support of mining investment choice decisions w ith the use \r\nof  multi-criteria  method.  Resources  Policy,  51(November  2016),  94–99. \r\nhttps:\/\/doi.org\/10.1016\/j.resourpol.2016.11.012\r\nSoleimani,  H.  (2018).  A  new  sustainable  closed-loop  supply  chain  model  for  mining  industry  considering  fixed -charged \r\ntransportation:  A  case  study  in  a  travertine  quarry.  Resources  Policy,  (July),  1–11. \r\nhttps:\/\/doi.org\/10.1016\/j.resourpol.2018.07.006\r\nSunaryo, B., Rusydi, M. I., Manab, A., Luthfi, A., & Septiana, T. (2016). Sistem Informasi Manajemen Perangkat Elektronik \r\nBerbasis  Web.  Jurnal  Nasional  Teknologi  Dan  Sistem  Informasi ,  02(01),  75–82. \r\nhttps:\/\/doi.org\/10.25077\/TEKNOSI.v2i1.2016.75-82\r\nSunaryo, B., Rusydi, M. I., Rusdi, J. F., Suriani, R., & Daus, S. (2019). Sistem Pelacakan Lokasi Pelaporan Petugas Lapangan \r\nIrigasi Provinsi Sumatera Barat Berbasis GPS Smartphone dan WebGIS.  Jurnal RESTI (Rekayasa Sistem Dan Teknologi \r\nInformasi), 3, 271–281. Taufiq, R. (2013). Sistem Informasi Manajemen : Konsep Dasar, Analisis dan Metode Penge mbangan. Graha Ilmu.\r\nWerner, T. T., Bebbington, A., & Gregory, G. (2019). Assessing impacts of mining: Recent contributions from GIS and remote \r\nsensing. The Extractive Industries and Society, 6(3), 993–1012. https:\/\/doi.org\/10.1016\/j.exis.2019.06.011\r\nXia, J. (2004). Library space management : a GIS proposal, 22(4), 375–382. https:\/\/doi.org\/10.1108\/07378830410570476https:\/\/doi.org\/doi.org\/10.29207\/resti.v3i2.957",
+      "title": "Mapping Mining Potential Using WebGIS",
+      "official_url": "http:\/\/scitech.id\/index.php\/framework\/",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 1,
+      "status_changed": "2019-11-18 05:08:18",
+      "eprint_status": "archive",
+      "abstract": "The mining potential of an area has an attraction in terms of research, exploration, investment, and t ourism. \r\nUnfortunately, information on potential mining areas is still limited and difficult to obtain. A media is needed in \r\nthe form of a digital map that is able to provide detailed information along with a wide area of the potential \r\nmine area. This study  describes the mapping of mining potential using the Web Geographic Information System \r\n(WebGIS).  The  coordinates  of  the  mining  area's  potential  points  that  form  polygons  in  the  map  will  be \r\nrepresented  in  a  web-based  digital  map.  So  that  information  will  be  more  accessible  and  provide  greater \r\nopportunities for researchers, investors, and visitors before coming to the mine site.",
+      "subjects": [
+        "T1"
+      ],
+      "eprintid": 16546,
+      "date_type": "published"
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35667",
+      "publisher": "STMIK BINA PATRIA",
+      "documents": [
+          {
+            "eprintid": 35667,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 156594,
+            "main": "170-812-1-PB.pdf",
+            "files": [
+                {
+                  "objectid": 156594,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/415035",
+                  "datasetid": "document",
+                  "filesize": 328775,
+                  "fileid": 415035,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-11-09 08:37:15",
+                  "hash_type": "MD5",
+                  "hash": "c8bfb275c768a53354a9a4fe27ce5bc2",
+                  "filename": "170-812-1-PB.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156594"
+          }
+      ],
+      "number": 2,
+      "ispublished": "submitted",
+      "datestamp": "2021-11-09 10:05:39",
+      "pagerange": "143-150",
+      "corp_creators": [
+        "Universitas Lampung",
+        "STMIK Bina Patria"
+      ],
+      "lastmod": "2021-11-09 10:05:39",
+      "userid": 3232,
+      "date": 2019,
+      "dir": "disk0\/00\/03\/56\/67",
+      "creators": [
+        {
+          "name": {
+            "given": "deny",
+            "lineage": null,
+            "family": "budiyanto",
+            "honourific": null
+          },
+          "id": "deny.budianto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "budiyanto",
+            "lineage": null,
+            "given": "djoko"
+          },
+          "id": null
+        }
+      ],
+      "issn": "1978-5569",
+      "publication": "Jurnal TRANSFORMASI (Informasi & Pengembangan Iptek)",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "contact_email": "deny.budianto@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "volume": 14,
+      "rev_number": 9,
+      "official_url": "http:\/\/ejournal.stmikbinapatria.ac.id\/index.php\/DS\/issue\/",
+      "title": "PERENCANAAN PORTOFOLIO SISTEM AKADEMIK\r\nMENGGUNAKAN PEMANFAATAN ENTERPRISE ARCHITECTURE",
+      "abstract": "Meningkatnya kebutuhan civitas akademika terhadap pelayanan akademik berbasis teknologi informasi dan komunikasi telah terjadi dewasa ini khususnya sebuah organisasi perguruan tinggi.Oleh karena itu, Wajiblah sebuah institusi mempunyai perencanaan strategis sistem informasi dan teknologi informasi. Tujuan dari perencanaan strategis sistem dan teknologi informasi adalah supaya pengembangan sistem informasi akademik lebih terarah. Dalam hal ini juga Politeknik “API” Yogyakarta yaitu salah satu Politeknik dimana pengembangan sistem informasi pada proses bisnis yang ada saat ini masih dilakukan dengan konvensional yaitu seluruh proses bisnis masih dikelola dengan aplikasi seperti word dan excel dalam kubutuhan proses yang ada pada\r\nsekolah tersebut. Penelitian ini ingin membangun sebuah model arsitektur enterprise yang nantinya bisa dijadikan oleh Perguruan Tinggi untuk mencapai tujuan perencanaan strategis sistem informasi yang terintegrasi supaya dapat selaras dengan visi misi tujuan organisasi sehingga dapat memberikan pelayanan Akademik yang berbasis teknologi serta menjadi lebih efisien dan efektif. Untuk melakukan pengembangan pemodelan arsitektur enterprise diperlukan\r\nsuatu motodologi yang lengkap serta dapat dengan mudah digunakan dan salah satu metodologinya yaitu EAP (Enterprise Architecture Planning) yang merupakan metodologi yang\r\ndetail, lengkap dan mudah untuk digunakan dalam berbagai organisasi.",
+      "subjects": [
+        "L1",
+        "TA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-11-09 10:05:39",
+      "date_type": "submitted",
+      "eprintid": 35667
+    },
+    {
+      "datestamp": "2020-05-22 01:50:00",
+      "lastmod": "2020-05-22 01:50:00",
+      "publisher": "Saintek : Jurnal sains dan teknologi",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "iswandi",
+            "given": "iswandi"
+          },
+          "id": "iswanditech@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "name": {
+            "given": "rahmi",
+            "family": "lidya",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT",
+          "id": "lidyarahmi23@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "trisya",
+            "honourific": null,
+            "given": "septiana"
+          },
+          "id": "trisya.septiana@eng.unila.ac.ic",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Khairulis",
+            "honourific": null,
+            "given": "sobirin"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AFT"
+        }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "date": "2019-12-01",
+      "abstract": "Talking about West Sumatra, what will surely be drawn is tourism, it is undeniable that West Sumatra is a tourist province, one of which is island tourism, including Pamusan Island, Cubadak Island, Pasumpahan Island, Pagai Island, Siberut and others. Because it needs the support of supporting applications such as inter-island transportation ordering, it needs the support of technology, one of which is inter-island transportation and also ordering food that can be delivered directly to the address. In order to help make it easier for tourists to visit the island in West Sumatra, an application called the Go Land Application was designed. The Go Land application is an application designed using the Agile system development method with the Android Studio programming language and the UML (Unified Modeling Language) system design tool. This application has several services including: Go_Land, Land_Car, Land_Food, Land_Med, Land_Rent, Land_Auto, in this application Travelers can use facilities on the island including water games, snorkeling, seafood and can be used for formal or informal events. With this application, tourists are expected to be easier, faster and safer to enjoy island tourism in West Sumatra. Keywords: Application, UML, Agile, Go Land, West Sumatera Island Tour, Android Studio",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/ecampus.iainbatusangkar.ac.id\/ojs\/index.php\/sainstek\/article\/view\/1620",
+      "date_type": "published",
+      "eprintid": 20216,
+      "pagerange": "28-36",
+      "userid": 2818,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20216",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 33556,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190610",
+                  "fileid": 190610,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-20 05:50:12",
+                  "hash": "a6ad8b2d8990df8a0379c666696cd960",
+                  "filename": "1620-6014-1-PB.pdf",
+                  "datasetid": "document",
+                  "filesize": 392673
+                }
+            ],
+            "docid": 33556,
+            "main": "1620-6014-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33556",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 20216,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "dir": "disk0\/00\/02\/02\/16",
+      "issn": "2085-8019",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "iswandi",
+            "lineage": null,
+            "given": "iswandi"
+          },
+          "id": "iswanditech@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "lidya",
+            "honourific": null,
+            "given": "rahmi"
+          },
+          "id": "lidyarahmi23@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "trisya",
+            "honourific": null,
+            "given": "septiana"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "khairulis",
+            "lineage": null,
+            "given": "sobirin"
+          }
+        }
+      ],
+      "publication": "PERANCANGAN APLIKASI GO LAND (WEST SUMATERA ISLAND TOUR) BERBASIS ANDROID",
+      "status_changed": "2020-05-22 01:50:00",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 6,
+      "referencetext": "Afrina, M., Ibrahim, A., & Simarmata, T. (2013). Pariwisata Berbasis Android. 170–174.\r\nAl-Zewairi, M., Biltawi, M., Etaiwi, W., & Shaout, A. (2017). Agile Software Development Methodologies: Survey of Surveys. Journal of Computer and Communications, 05(05), 74–97. https:\/\/doi.org\/10.4236\/jcc.2017.55007\r\nFathoni, L. F., Mushlihudin, Firdausy, K., & Yudhana, A. (2016). Application Information System Based Health Services Android. Jurnal Ilmu Teknik Elektro Komputer Dan Informatika (JITEKI), 2(1), 37–46.\r\nHaviluddin. (2011). Memahami Penggunaan UML ( Unified Modelling Language ). Memahami Penggunaan UML (Unified Modelling Language), 6(1), 1–15.\r\nLeonid, M. (2014). The Impact Of Smartphones And Mobile Devices On Human Health And Life. The Impact Of Smartphones And Mobile Devices On Human Health And Life, 28.\r\nNurhayati, S., & Ristanto, V. G. (2017). Sistem Informasi Pariwisata Provinsi Papua Berbasis Web. Seminar Nasional APTIKOM (SEMNASTIKOM), 3(1), 1–13.\r\nRiski, T. R., Azman, H. A., Rahmi, F., Ekonomi, F., Dharma, U., & Padang, A. (2016). Strategi Pengembangan Wisata Bahari di Kota Padang. 7.\r\nSoelistijadi, R. (2015). Sistem Informasi Pariwisata Berbasis Web : Studi Kasus Fasilitas Penginapan Di Wilayah Propinsi Yogyakarta. Jurnal Dinamika Informatika, 7(1), 59–67.\r\nSunaryo, B., Rusydi, M. I., Manab, A., Luthfi, A., . R., & Septiana, T. (2016). Sistem Informasi Manajamen Perangkat Elektronik Berbasis Web. Jurnal Nasional Teknologi Dan Sistem Informasi, 2(1), 75–82.\r\nThakur, S., & Kaur, A. (2013). International Journal of Computer Science and Mobile Computing Role of Agile Methodology in Software Development. International Journal of Computer Science and Mobile Computing, 2(10), 86–90.\r\nXia, F., Hsu, C. H., Liu, X., Liu, H., Ding, F., & Zhang, W. (2013). The power of smartphones. Multimedia Systems, 21(1), 87–101. https:\/\/doi.org\/10.1007\/s00530-013-0337-x\r\nZheng, J., Feng, Y., & Zhao, Y. (2014). A Unified Modeling Language-Based Design and Application for a Library Management Information System. Bulgarian Academy of Sciences Cybernetics and Information Tecnologies, 14, 129–144.",
+      "title": "PERANCANGAN APLIKASI GO LAND (WEST SUMATERA ISLAND TOUR) BERBASIS ANDROID"
+    },
+    {
+      "lastmod": "2019-11-18 05:09:32",
+      "userid": 2818,
+      "datestamp": "2019-11-18 05:09:32",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29624",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3142840,
+                  "fileid": 141168,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-15 05:28:59",
+                  "filename": "Dataset smartphone usage of international tourist behavior _ Elsevier Enhanced Reader.pdf",
+                  "hash": "c378352d1038041a5c112a55183a1c4e",
+                  "objectid": 29624,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/141168"
+                }
+            ],
+            "docid": 29624,
+            "main": "Dataset smartphone usage of international tourist behavior _ Elsevier Enhanced Reader.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 16550
+          }
+      ],
+      "publisher": "elsevier",
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "jack",
+            "lineage": null,
+            "given": "febrian rusdi"
+          },
+          "id": "jack@sttbandung.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "salam",
+            "honourific": null,
+            "family": "sazilah",
+            "lineage": null
+          },
+          "id": "sazilah@utem.edu.my",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "nur",
+            "given": "azman abu"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "nura@utem.edu.my"
+        },
+        {
+          "name": {
+            "given": "sunaryo",
+            "lineage": null,
+            "family": "budi",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "id": "budi.sunaryo@gmail.com"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "id": "rohmat.taufiq@umt.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "rohmat",
+            "lineage": null,
+            "given": "taufiq"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "lita",
+            "given": "sari muchlis"
+          },
+          "id": "litasari.m@iainbatusangkar.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD",
+          "name": {
+            "given": "septiana",
+            "honourific": null,
+            "family": "trisya",
+            "lineage": null
+          }
+        },
+        {
+          "id": "hamdi_khairil@yahoo.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "name": {
+            "given": "hamdi",
+            "family": "khairil",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "arianto",
+            "honourific": null,
+            "family": "arianto",
+            "lineage": null
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUS",
+          "id": "benie.ilman@gmail.com",
+          "name": {
+            "given": "ilham",
+            "honourific": null,
+            "family": "benie",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "desfitriady",
+            "honourific": null,
+            "lineage": null,
+            "given": "desfitriady"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD",
+          "id": null
+        },
+        {
+          "id": "frkodong@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AFT",
+          "name": {
+            "lineage": null,
+            "family": "frans",
+            "honourific": null,
+            "given": "richard kodong"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "anik",
+            "lineage": null,
+            "given": "vega vitrianingsih"
+          },
+          "id": "vega@unitomo.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        }
+      ],
+      "number": 104610,
+      "ispublished": "submitted",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16550",
+      "full_text_status": "public",
+      "type": "article",
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "jack@sttbandung.ac.id",
+          "name": {
+            "given": "febrian rusdi",
+            "family": "jack",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "sazilah@utem.edu.my",
+          "name": {
+            "honourific": null,
+            "family": "sazilah",
+            "lineage": null,
+            "given": "salam"
+          }
+        },
+        {
+          "id": "nura@utem.edu.my",
+          "name": {
+            "given": "abu",
+            "family": "nur azman",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "budi.sunaryo@gmail.com",
+          "name": {
+            "given": "sunaryo",
+            "honourific": null,
+            "family": "budi",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rohmat.taufiq@umt.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "rohmat",
+            "lineage": null,
+            "given": "taufiq"
+          }
+        },
+        {
+          "id": "litasari.m@iainbatusangkar.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "lita",
+            "given": "sari muchlis"
+          }
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "trisya",
+            "honourific": null,
+            "given": "septiana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "khairil",
+            "lineage": null,
+            "given": "hamdi"
+          },
+          "id": "hamdi_khairil@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "arianto",
+            "family": "arianto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "ilham",
+            "lineage": null,
+            "family": "benie",
+            "honourific": null
+          },
+          "id": "benie.ilman@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "desfitriady",
+            "lineage": null,
+            "given": "desfitriady"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "richard kodong",
+            "honourific": null,
+            "family": "frans",
+            "lineage": null
+          },
+          "id": "frkodong@gmail.com"
+        },
+        {
+          "id": "vega@unitomo.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "anik",
+            "given": "vega vitianingsih"
+          }
+        }
+      ],
+      "publication": "Dataset smartphone usage of international tourist behavior",
+      "id_number": "https:\/\/doi.org\/10.1016\/j.dib.2019.104610",
+      "date": "2019-10-05",
+      "dir": "disk0\/00\/01\/65\/50",
+      "status_changed": "2019-11-18 05:09:32",
+      "eprint_status": "archive",
+      "abstract": "This article contains dataset on the behavior of international tourists when traveling is related to 1) tourist demographics, 2) things that affect tourists to choose travel destinations when planning, 3) use of mobile data while traveling, 4) how to get internet access while traveling, 5) social media used during traveling, and 6) behavior of smartphone use for tourists during traveling. The raw data presented here can be used as material to analyze the behavior of international tourists related to any media that affects international tourists in planning their trips, and how they behave during traveling. This data is a source of raw data from our research on smartphones and international tourist behavior, besides being used for various other research purposes.",
+      "subjects": [
+        "T1"
+      ],
+      "referencetext": "[1] Z. XiangFrom digitization to the age of acceleration: on information technology and tourism Tourism Manag. Perspect., 25 (2018), pp. 147-150,10.1016\/j.tmp.2017.11.023\r\n[2] G.W.H. Tan, K.B. Ooi Gender and age: do they really moderate mobile tourism shopping behavior?Telematics Inf., 35 (6) (2018), pp. 1617-1642, 10.1016\/j.tele.2018.04.009\r\n[3] R. Brauer, M. Dymitrow, J. Tribe. The impact of tourism research.Ann. Tourism Res., 77 (2019), pp. 64-78, 10.1016\/j.annals.2019.05.006\r\n[4] C.D. Huang, J. Goo, K. Nam, C.W. Yoo. Smart tourism technologies in travel planning: the role of exploration and exploitation Inf. Manag., 54 (6) (2017), pp. 757-770, 10.1016\/j.im.2016.11.010\r\n[5] A.E. Arenas, J.M. Goh, A. Urueña.How does IT affect design centricity approaches: evidence from Spain's smart tourism ecosystem. Int. J. Inf. Manag., 45 (2019), pp. 149-162, 10.1016\/j.ijinfomgt.2018.10.015\r\n[6] A.G. Assaf, M.G. Tsionas. A review of research into performance modeling in tourism research - launching the Annals of Tourism Research curated collection on performance modeling in tourism research. Ann. Tourism Res., 76 (2019), pp. 266-277,10.1016\/j.annals.2019.04.010\r\n[7] F. Kock, A. Josiassen, A.G. Assaf On the origin of tourist behavior. Ann. Tourism Res., 73 (2018), pp. 180-183, 10.1016\/j.annals.2018.04.002\r\n[8] J.F. Rusdi. Smartphone usage and international tourist behaviour. Mendeley Data, V1. (2019), 10.17632\/zwzb8hzc9j.1\r\n[9] J.F. Rusdi. Kolaborasi Pariwisata Bandung Raya.Indonesia Tourism Journalist Association (2017)\r\n[10] A.K.M. Tarigan, S. Sagala, D.A.A. Samsura, D.F. Fiisabiilillah, H.A. Simarmata, M. Nababan\r\nBandung city, Indonesia Cities, 50 (2016), pp. 100-110, 10.1016\/j.cities.2015.09.005\r\n[11] J.F. Rusdi, S. Salam, N.A. Abu, S. Sahib, M. Naseer, A.A. Abdullah. Drone tracking modelling ontology for tourist behavior. J. Phys. Conf. Ser., 1201 (1) (2019), p. 012032, 10.1088\/1742-6596\/1201\/1\/012032\r\n[12] J.F. Rusdi, S. Salam, N.A. Abu, T.G. Baktina, R.G. Hadiningrat, B. Sunaryo, A. Rusmartiana, W. Nashihuddin, P. Fannya, F. Laurenty, N. Shanono, R. Hardi. ICT research in Indonesia. SciTech Framework, 1 (2019), pp. 1-23",
+      "title": "Dataset smartphone usage of international tourist behavior",
+      "official_url": "https:\/\/www.sciencedirect.com\/",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "volume": 27,
+      "eprintid": 16550,
+      "date_type": "submitted"
+    }
+]
+

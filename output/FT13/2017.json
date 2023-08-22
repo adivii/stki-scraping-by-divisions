@@ -1,0 +1,224 @@
+[
+    {
+      "eprintid": 13808,
+      "date_type": "completed",
+      "eprint_status": "archive",
+      "status_changed": "2019-08-19 03:33:33",
+      "related_url": [
+        {
+          "type": "org",
+          "url": "http:\/\/eng.unila.ac.id\/"
+        },
+        {
+          "type": "org",
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Kegiatan ini merujuk Proposal warga Dusun Sindangsari Desa Natar Kec. Natar Kab. Lampung Selatan yang mengajukan usulan ke prodi D3 Survei dan pemetaan agar daerah mereka dapat dipetakan terkait dengan rencana usulan pembiayaan pengembangan dan pembangunan infrastuktur dusun yang me-manfaatkan dana bantuan desa dari pemerintah dalam merealisasikan undang undang no.6 tahun 2014 tentang desa. Salah satu dokumen penting yang harus dilampirkan dalam usulan perencanaan pembangunan desa adalah peta teknis desa\/dusun dengan skala besar sehingga keperluan akan data peta teknis dirasakan sangat mendesak untuk menunjang rencana tersebut. Dalam memetakan suatu daerah tahap pekerjaan yang dilakukan adalah proses pengambilan\/pengukuran, pengolahan, dan penyajian data dalam bentuk peta, sehingga kegiatan ini melakukan pemetaan serta pengolahannya untuk menghasilkan peta Skala Besar. Dilakukan pengamatan data dari hasil pemotretan dengan UAV Type Copter (Drone) serta pengukuran langsung dilapangan, sehingga dapat menghasilkan peta sekala besar dalam bentuk hard-copy dan softcopy. Pelaksanaan kegiatan juga meliputi pengukuran GPS untuk Tititk Ikat (GCP dan GCP), Pemotretan dengan Drone untuk menghasilkan DTM yang digabungkan dengan pemetaan situasi dengan pengukuran kerangka hori-zontal maupun vertikal dan pengukuran detil yang dilanjutkan dengan penyajian akhir berupa peta teknis detail situasi. Hasil kegiatan ini berupa peta skala besar dusun sindangsari 1:1000. Hasil kegiatan ini diharapkan dapat memenuhi kebu-tuhan informasi spasial kelurahan Hajimena khususnya bagi warga dusun Sin-dangsari desa Natar serta dapat digunakan sebagai referensi untuk keperluan perencanaan pembangunan dimasa yang akan datang.",
+      "official_url": "https:\/\/armijon.com\/",
+      "title": "PEMETAAN SITUASI SKALA BESAR DUSUN SINDANGSARI DESA NATAR KEC. NATAR KAB. LAMPUNG SELATAN",
+      "referencetext": "A. Leick, L. Rapoport, and D. Tatarnikov, GPS Satellite Surveying, Fourth. New Jersey: John Wiley & Sons, Inc., Hoboken, 2015.\r\n\r\nArmijon. (2015). Modul Kuliah Penginderaan Jauh. T.Geodesi Fakultas Teknik Universitas Lampung, Lampung\r\n\r\nArmijon. (2016). Modul Pemetaan Digital Dengan Land Desktop. T.Geodesi Fakultas Teknik Universitas Lampung, Lampung\r\n\r\nBadan Pusat Statistik (BPS), 2013, Lampung Dalam Angka Tahun 2013.\r\n\r\nIrvine, Wiliam (1974). Surveying for C onstruction, Edisi kedua. London: McGraw-Hill Book Company\r\n\r\nLillesand, T. M. and Ralph W. Kiefer (1990) Penginderaan Jauh dan Interpretasi Citra -. Edited by Sutanto. Gadjah Mada University Press.\r\n\r\nSaptono, Didi Joko. 1998. Ilmu Ukur Tanah. Teknik Geodesi Universitas Gajah Mada, Yogyakarta.\r\n\r\nSosrodarsono, Suyono. Takasaki, Marayosi.1983. Pengukuran Topografi dan Teknik Pemetaan. Pradaya Pranata, Jakarta.\r\n\r\nSutanto (1986), Penginderaan Jauh Jilid 1, Yogyakarta: Gadjah Dada University Press\r\n\r\nSutanto (1987), Penginderaan Jauh Jilid 2, Yogyakarta: Gadjah Dada University Press\r\n\r\n_______, 2011, UU No. 4 tahun 2011 tentang Informasi Geospasial.\r\n\r\n_______, 2014, Undang-Undang Republik Indonesia Nomor 6 Tahun 2014 Tentang Desa.",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "contact_email": "armijon@eng.unila.ac.id",
+      "type": "other",
+      "funders": [
+        "DIPA Fakultas Teknik Universitas Lampung"
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Dusun Sindang Sari, UAV Drone, Pemetaan Desa Skala Besar",
+      "creators": [
+        {
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Idharmahadi",
+            "lineage": null,
+            "family": "Adha",
+            "honourific": null
+          },
+          "id": "idharmahadi.adha@eng.unila.ac.id"
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null,
+            "given": "Citra"
+          }
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null,
+            "given": "Eko"
+          }
+        },
+        {
+          "id": "margaretta.welly@eng.unila.ac.id",
+          "name": {
+            "given": "Margaretta",
+            "honourific": null,
+            "family": "Welly",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/38\/08",
+      "date": "2017-11-08",
+      "userid": 102,
+      "lastmod": "2019-08-19 03:33:33",
+      "datestamp": "2019-08-19 03:33:33",
+      "ispublished": "unpub",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26830",
+            "formatdesc": "Laporan Pengabdian Sindang Sari Hajimea",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 3198249,
+                  "datasetid": "document",
+                  "mtime": "2019-08-12 15:58:10",
+                  "hash_type": "MD5",
+                  "hash": "77abd90b0fbbb66d6941496cbc45157a",
+                  "filename": "Laporan Pengabdian Sindang Sari Hajimea.pdf",
+                  "fileid": 120426,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120426",
+                  "objectid": 26830
+                }
+            ],
+            "docid": 26830,
+            "main": "Laporan Pengabdian Sindang Sari Hajimea.pdf",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "validuser",
+            "eprintid": 13808
+          }
+      ],
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13808"
+    },
+    {
+      "datestamp": "2019-10-16 03:04:03",
+      "lastmod": "2019-10-16 03:04:03",
+      "userid": 102,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14031",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "eprintid": 14031,
+            "placement": 1,
+            "security": "public",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "docid": 27064,
+            "main": "Makalah Pengabdian GTS.pdf",
+            "files": [
+                {
+                  "filesize": 1779289,
+                  "datasetid": "document",
+                  "filename": "Makalah Pengabdian GTS.pdf",
+                  "hash": "ced98b2085f87ea6ed2c1b2772c48d76",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-26 04:38:36",
+                  "mime_type": "application\/pdf",
+                  "fileid": 122148,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122148",
+                  "objectid": 27064
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 5,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27064",
+            "formatdesc": "PKM: BANTUAN TEKNIS PEMETAAN SITUASI AREAL PERUMAHAN  GRIYA TANPAN SEJAHTERA (GTS) KEL. HAJIMENA  KEC. NATAR KAB. LAMPUNG SELATAN"
+          }
+      ],
+      "publisher": "LPPM Unila",
+      "ispublished": "pub",
+      "keywords": "Perumahan   Griya   Tanpan   Sejahtera,   Pemetaan   Topografi, Pengabdian D3 Teknik Survei dan Pemetaan",
+      "divisions": [
+        "FT13"
+      ],
+      "funders": [
+        "DIPA FT Unila"
+      ],
+      "type": "article",
+      "contact_email": "armijon@eng.unila.ac.id",
+      "dir": "disk0\/00\/01\/40\/31",
+      "date": "2017-11-04",
+      "creators": [
+        {
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Citra",
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Romi",
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Seminar Nasional Pengabdian Kepada Masyarakat \"Berkarya dan Berinovasi Untuk Bangsa\" Hotel Emersia 4 November 2017 Bandar Lampung",
+      "abstract": "ABSTRACK\r\n\r\nBANTUAN TEKNIS PEMETAAN SITUASI AREAL PERUMAHAN \r\nGRIYA TANPAN SEJAHTERA (GTS) KEL. HAJIMENA \r\nKEC. NATAR KAB. LAMPUNG SELATAN\r\n\r\nTerinspirasi dari usulan warga komplek Perumahan Griya Tanpan Se-jahtera yang mengajukan permohonan kepada prodi D3 Teknik Survei Pemetaan agar daerah mereka dapat dipetakan terkait dengan rencana warga yang akan me-renovasi secara besar besaran masjid serta perbaikan jalan dikompleks tersebut sehingga keperluan akan data peta teknis dirasakan sangat mendesak. Berdasar-kan usulan tersebut maka terlahirlah kegiatan pengabdian kepada masyarakat dengan judul Bantuan teknis Pemetaan Situasi Areal Perumahan Griya Tanpan Sejahtera di kelurahan Hajimena Kecamatan Natar Lampung Selatan.\r\nDalam kegiatan ini dilakukan pengukuran, pengolahan data sampai dihasilkannya peta topografi dalam bentuk softcopy maupun hardcopy wilayah yang dipetakan. Tahap pekerjaan yang dilakukan adalah proses pengambilan da-ta, pengolahan data, dan penyajian data dalam bentuk peta. Peta tersebut di-peroleh dari data ukur dilapangan yang meliputi pengukuran Kerangka Kontrol Horizontal dan Kerangka Kontrol Vertikal (yang terbagi menjadi Polygon utama dan polygon cabang) Serta pengukuran Detail Situasi. Dalam pengukuran situasi data unsur unsur detail  dalam pengukuran yang disajikan adalah persil bangunan saluran pembuangan air, jalan, Titik BM, kontur, fasilitas umum dan lain se-bagainya yang ketelitiannya tetap  mempertimbangkan skala peta yang akan dihasilkan. Selain hal-hal diatas tersebut hal utama yang dilakukan adalah survey lokasi dan pemasangan patok beton BM (Bench Mark) dan CP (Control Point) sebanyak 6 titik.\r\nHasil akhir kegiatan ini diproses dengan bantuan perangkat lunak CAD menghasilkan peta topografi skala 1:1000 (dalam bentuk  hardcopy dan softcopy) yang diharapkan dapat berguna sebagai data penunjang perencanaan dan pembangunan Areal Perumahan Griya Tanpan Sejahtera dimasa yang akan datang.\r\nKata Kunci:\tPerumahan Griya Tanpan Sejahtera, Pemetaan Topografi, Pengabdian D3 Teknik Survei dan Pemetaan",
+      "subjects": [
+        "TA"
+      ],
+      "succeeds": 13970,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-10-16 03:04:03",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "referencetext": "Saptono, Didi Joko. 1998. Ilmu Ukur Tanah. Teknik Geodesi Universitas Gajah Mada, Yogyakarta.\r\n\r\nSosrodarsono,  Suyono.  Takasaki,  Marayosi.1983.  Pengukuran  Topografi  dan\r\nTeknik Pemetaan. Pradaya Pranata, Jakarta.",
+      "title": "BANTUAN TEKNIS PEMETAAN SITUASI AREAL PERUMAHAN \r\nGRIYA TANPAN SEJAHTERA (GTS) KEL. HAJIMENA \r\nKEC. NATAR KAB. LAMPUNG SELATAN",
+      "official_url": "https:\/\/armijon.com\/",
+      "date_type": "published",
+      "eprintid": 14031
+    }
+]
+

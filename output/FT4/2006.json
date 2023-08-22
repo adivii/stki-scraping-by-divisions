@@ -1,0 +1,212 @@
+[
+    {
+      "eprintid": 28187,
+      "date_type": "published",
+      "title": "ANALISIS PERILAKU BALOK BETON PRACETAK DENGAN WET JOINT YANG MENERIMA LENTURAN",
+      "metadata_visibility": "show",
+      "volume": 16,
+      "rev_number": 9,
+      "status_changed": "2021-03-05 01:41:15",
+      "eprint_status": "archive",
+      "abstract": "Penelitian ini bertujuan untuk menganalisis perilaku balok beton pracetak sambungan basah (wet joint) dan membandingkannya dengan perilaku balok beton monolit secara eksperimental. Benda uji berupa 3 balok beton bertulang (150mmx250mmx2100mm).  Variabelnya adalah jenis sambungan tulangan pada wet joint-nya, yaitu:  balok pracetak dengan tulangan lewatan yang ujungnya dibengkokkan (BP1), baloak pracetak dengan tulangan lewatan yang dilas (BP2), balok monolit tanpa sambungan (BM). Kuat tekan beton 45 MPa. Balok ditumpu sendi-rol dengan jarak 1800mm, kemudian diberi 2 beban terpusat pada jarak 600mm masing-masing dari tumpuan. Hasil pengujian berupa analisis grafik hubungan beban-lendutan, toughness, dan pola retak. Beban maksimum yang dapat dipikul BP1 hampir sama dengan BM (selisih 2,751 %),  sedangkan beban maksimum BP II lebih besar dibandingkan BM (selisih 27,447 %).  Nilai toughness ketiga balok tersebut hampir sama. Ketiga balok tersebut mengalami kehancuran lentur.  Kesimpulannya, kedua jenis sambungan itu dapat menyalurkan beban antar elemen pracetak dengan baik",
+      "subjects": [
+        "TA",
+        "TH"
+      ],
+      "issn": "0853-9723",
+      "creators": [
+        {
+          "name": {
+            "given": "Vera A.",
+            "lineage": null,
+            "honourific": null,
+            "family": "Noorhidana"
+          },
+          "id": "vera.agustriana@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Sains dan Teknologi EMAS",
+      "date": "2006-02",
+      "dir": "disk0\/00\/02\/81\/87",
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ],
+      "publisher": "FT Universitas Kristen Indonesia",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42238",
+            "docid": 42238,
+            "main": "V A Noorhidana (2006) - Analisis perilaku balok beton pracetak dengan wet-joint yang menerima lenturan.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/250866",
+                  "objectid": 42238,
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-04 21:02:29",
+                  "filename": "V A Noorhidana (2006) - Analisis perilaku balok beton pracetak dengan wet-joint yang menerima lenturan.pdf",
+                  "hash": "c81cc8f89fdd836663adaee205dea4de",
+                  "fileid": 250866,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2666802,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 28187,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28187",
+      "full_text_status": "public",
+      "lastmod": "2021-03-05 01:41:15",
+      "userid": 1032,
+      "pagerange": "79-89",
+      "datestamp": "2021-03-05 01:41:15"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 27771,
+      "abstract": "Tamim (1997) menjelaskan bahwa sebagian besar teknik dan metode untuk menyelesaikan masalah-masalah transportasi membutuhkan informasi MAT sebagai informasi dasar untuk menggambarkan tingkat kebutuhan transportasi. Konsep perencanaan transportasi yang telah berkembang sampai saat ini dan yang paling populer adalah \"model perencanaan transportasi empat tahap\" dimana model ini merupakan proses bertahap dari beberapa sub model yang harus dilakukan secara terpisah dan berurutan (sequential). Dalam proses pemodelannya, keluaran dari tahap awal menjadi masukan bagi tahapan selanjutnya.Sampai saat ini telah banyak model yang dikembangkan untuk memformulasikan bentuk gabungan dari tahapan-tahapan pemodelan tersebut, baik secara parsial maupun secara keseluruhan tahapan (simultan). \r\nPenelitian ini bertujuan untuk melanjutkan pengembangan MAT berdasarkan arus lalu lintas dan terutama meninjau faktor-faktor yang berpengaruh dalam akurasi MAT yang dihasilkan dari data arus lalu lintas. Fokus utama penelitian ini adalah melanjutkan pengembangan model gabungan parsial yang mengkombinasikan antara tahapan sebaran pergerakan dan tahapan pemilihan moda (SPPM) yang tujuan utamanya adalah menaksir parameter model kebutuhan transportasi tersebut dengan menggunakan informasi data arus lalu lintas. Setelah parameter model dapat dikalibrasi, maka model tersebut dapat digunakan bukan saja untuk menaksir MAT pada masa sekarang, tetapi juga untuk meramalkan MAT masa mendatang. \r\nTamin dan Purwanti, 2002 telah mengembangkan model SPPM ini namun masih dalam kondisi all or nothing dimana mempunyai kelemahan jika diterapkan dalam jaringan di perkotaan karena tidak mempertimbangkan efek kemacetan. Mengacu pada beberapa penelitian terdahulu kemungkinan pengembangan penelitian selanjutnya adalah pengembangan model SPPM berdasarkan informasi data arus lalu lintas pada kondisi pemilihan rute keseimbangan. Dimana model sebaran pergerakan yang digunakan adalah model gravity dan model pemilihan moda yang digunakan adalah model multinominal logit. \r\nPenelitian ini juga meninjau faktor pengaruh akurasi MAT yang dihasilkan, yaitu faktor pengaruh informasi arus lalu lintas. aktor pengaruh pemilihan metode estimasi,  pengaruh pemilihan model sebaran pergerakan, pengaruh model pembebanan rute dan pengaruh model kombinasi sebaran pergerakan dan pemilihan moda. Hasil yang diharapkan adalah pengembangan model kebutuhan transportasi dengan mempertimbangkan efek kemacetan menggunakan pembebanan rute keseimbangan.",
+      "subjects": [
+        "TA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-02-08 07:31:45",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Estimasi Model Kombinasi Sebaran Pergerakan dan Pemilihan Moda Berdasarkan Informasi Arus Lalulintas Pada Kondisi Pemilihan Rute Keseimbangan",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "date": "2006-11-18",
+      "dir": "disk0\/00\/02\/77\/71",
+      "issn": "979-95721-2-9",
+      "creators": [
+        {
+          "name": {
+            "given": "Rahayu",
+            "honourific": null,
+            "family": "Sulistyorini",
+            "lineage": null
+          },
+          "id": "sulistyorini_smd@yahoo.co.uk"
+        },
+        {
+          "id": "Ofyar@trans.si.itb.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Tamin",
+            "lineage": null,
+            "given": "Ofyar Z"
+          }
+        }
+      ],
+      "publication": "Simposium Forum Studi Transportasi Antar Perguruan Tinggi",
+      "pagerange": "378-388",
+      "datestamp": "2021-02-08 07:31:45",
+      "lastmod": "2021-02-08 07:31:45",
+      "corp_creators": [
+        "University of Lampung",
+        "Institut Technology of Bandung"
+      ],
+      "userid": 354,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27771",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 27771,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41737",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1695279,
+                  "fileid": 247685,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-08 03:11:27",
+                  "hash": "e9a14110b4accf58802a5b710f0b26a6",
+                  "filename": "Judul FSTPT 2006.pdf",
+                  "objectid": 41737,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247685"
+                }
+            ],
+            "main": "Judul FSTPT 2006.pdf",
+            "docid": 41737
+          },
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41738",
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247687",
+                  "objectid": 41738,
+                  "filesize": 317201,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-08 03:11:49",
+                  "hash": "22d1155dbac4a8a2e2597219ab831d63",
+                  "filename": "Daf Isi FSTPT 2006.pdf",
+                  "fileid": 247687,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 41738,
+            "main": "Daf Isi FSTPT 2006.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 27771
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41739",
+            "rev_number": 1,
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 247689,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-02-08 03:12:17",
+                  "hash_type": "MD5",
+                  "filename": "Pengesahan FSTPT 2006.pdf",
+                  "hash": "cf029133451b5d05b77308fa48a4a183",
+                  "datasetid": "document",
+                  "filesize": 416626,
+                  "objectid": 41739,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247689"
+                }
+            ],
+            "main": "Pengesahan FSTPT 2006.pdf",
+            "docid": 41739,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 27771
+          }
+      ],
+      "ispublished": "pub"
+    }
+]
+

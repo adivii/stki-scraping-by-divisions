@@ -1,0 +1,69 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50920",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "eprintid": 50920,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "11-FJMS-03702-181_print.pdf",
+            "docid": 190634,
+            "files": [
+                {
+                  "objectid": 190634,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548086",
+                  "datasetid": "document",
+                  "filesize": 373967,
+                  "mime_type": "application\/pdf",
+                  "fileid": 548086,
+                  "filename": "11-FJMS-03702-181_print.pdf",
+                  "hash": "234c630a74a839f2bfeeeec8437572d3",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-02 03:27:06"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190634"
+          }
+      ],
+      "publisher": "Sarkowi",
+      "datestamp": "2023-05-02 07:35:00",
+      "lastmod": "2023-05-02 07:35:00",
+      "userid": 816,
+      "dir": "disk0_bak\/00\/05\/09\/20",
+      "date": 1010,
+      "creators": [
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sarkowi",
+            "lineage": null,
+            "given": "Muh"
+          }
+        }
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similirity FJMS",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Similirity FJMS Mathematical Model of Time Lapse Vertical Gradient Microgravity Measurements and Its Application for Subsurface Mass Change and Vertical Ground Movement (Subsidence) Identification, Case Study: Semarang Alluvial Plain, Central Java, Indonesia",
+      "status_changed": "2023-05-02 07:35:00",
+      "eprint_status": "archive",
+      "date_type": "completed",
+      "eprintid": 50920
+    }
+]
+

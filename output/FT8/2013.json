@@ -1,0 +1,73 @@
+[
+    {
+      "dir": "disk0\/00\/00\/00\/28",
+      "date": "2013-05",
+      "creators": [
+        {
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          },
+          "id": "mardiana@ ale.csce.kyushu-u.ac.jp"
+        }
+      ],
+      "publication": "International Journal of Software Engineering & Applications (IJSEA)",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/201",
+                  "objectid": 51,
+                  "hash_type": "MD5",
+                  "mtime": "2016-06-30 02:42:29",
+                  "filename": "EA-MDA MODEL TO RESOLVE IS.pdf",
+                  "hash": "db43c7e630e1ba5ef4aa7ea2f37ffe37",
+                  "fileid": 201,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1050680,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "EA-MDA MODEL TO RESOLVE IS.pdf",
+            "docid": 51,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/51",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "pagerange": "1-20",
+      "datestamp": "2016-06-30 02:48:43",
+      "lastmod": "2016-06-30 02:48:43",
+      "userid": 10,
+      "date_type": "published",
+      "eprintid": 28,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 4,
+      "title": "EA-MDA MODEL TO RESOLVE IS\r\nCHARACTERISTIC PROBLEMS IN EDUCATIONAL\r\nINSTITUTIONS",
+      "abstract": "alignment between business strategy and existing information technologies. Developing the required model\r\nis a complex task. A combination of the EA, MDA and SOA concepts can be one of the solutions to\r\novercome the complexity of building a specific information technology architecture for higher education\r\ninstitutions. EA allows for a comprehensive understanding of the institution’s main business process while\r\ndefining the information system that will assist in optimizing the business process. EA essentially focuses on\r\nstrategy and integration. MDA relies on models as its main element and places focuses on efficiency and\r\nquality. SOA on the other hand uses services as its principal element and focuses on flexibility and reuse.\r\nThis paper seeks to formulate an information technology architecture that can provide clear guidelines on\r\ninputs and outputs for EA development activities within a given higher education institution. This proposed\r\nmodel specifically emphasises on WIS development in order to ensure that WIS in higher education\r\ninstitutions has a coherent planning, implementation and control process in place consistent with the\r\nenterprise’s business strategy. The model will then be applied to support WIS development and\r\nimplementation at University of Lampung (Unila) as the case study.\r\nKEYWORDS\r\nEnterprise Architecture, Web Information system, Higher Education, MDA, SOA",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-06-30 02:48:43"
+    }
+]
+

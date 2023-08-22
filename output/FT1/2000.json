@@ -1,0 +1,138 @@
+[
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34066",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 34066,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154500",
+            "docid": 154500,
+            "main": "2020_JTerasFisika_Pemisahan_RegionalResidua.pdf",
+            "files": [
+                {
+                  "filesize": 1070178,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-22 01:42:39",
+                  "hash": "e2a1e3300b76fd644911d9d890907c9b",
+                  "filename": "2020_JTerasFisika_Pemisahan_RegionalResidua.pdf",
+                  "fileid": 402210,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/402210",
+                  "objectid": 154500
+                }
+            ]
+          }
+      ],
+      "pagerange": "156-160",
+      "userid": 886,
+      "dir": "disk0\/00\/03\/40\/66",
+      "publication": "Jurnal Teras Fisika",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        },
+        {
+          "id": "ilham.dani.ID9@gmail.com",
+          "name": {
+            "given": "Ilham",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dani"
+          }
+        },
+        {
+          "name": {
+            "given": "Ledia",
+            "family": "Damayanti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ledia.pangestu@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Oktaviana",
+            "honourific": null,
+            "family": "Oktaviana",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Al Farizi",
+            "given": "Ahmad"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2614-7580",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "volume": 3,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Pemisahan Anomali Regional-Residual Data Gayaberat Daerah Karangsambung Jawa Tengah Menggunakan Metode Tren Surface Analysis",
+      "status_changed": "2021-09-22 04:41:08",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jos.unsoed.ac.id\/index.php\/tf\/"
+        }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "given": "Syamsurijal",
+            "family": "Rasimeng",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika Universitas Jenderal Soedirman",
+      "datestamp": "2021-09-22 04:41:08",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA"
+      ],
+      "lastmod": "2021-09-22 04:41:08",
+      "date": "2000-09",
+      "divisions": [
+        "FT1"
+      ],
+      "type": "article",
+      "official_url": "http:\/\/jos.unsoed.ac.id\/index.php\/tf\/",
+      "subjects": [
+        "TN"
+      ],
+      "abstract": "Pemisahan anomali regional-residual pada metode gravitasi di daerah Karang Sambung Jawa Tengah menggunakan  metode  tren  surface analysis.  Pemisahan  anomali  ini dibuat dengan  menggunakan bahasa program  Matlab dan kemudian  dibuat  penampangnya  menggunakan software Surfer. Interpretasi  kualitatif dilakukan  dengan mengamati data gayaberat  berupa  anomali  Bouguer.  Sedangkan  Interpretasi kuantitatif dilakukan untuk memahami lebih dalam hasil interpretasi kualitatif dengan membuat penampang gayaberat pada peta  kontur  anomali.  Berdasarkan  hasil  analisis  spektrum  hasil  penapisan  dengan  lebar  jendela  23x23  km didapatkan peta anomali regional. Nilai anomali residual yang didapat berkisar antara -45 sampai 30 mGal yang \r\nmenunjukkan  pola  anomali  negatif  hingga  positif. Anomali  negatif  berkisar  antara  -45  sampai  -10  mGal, \r\nsedangkan anomali positif berkisar antara 0 sampai 30 mGal.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 34066
+    }
+]
+

@@ -1,0 +1,78 @@
+[
+    {
+      "eprintid": 49697,
+      "date_type": "published",
+      "status_changed": "2023-04-06 00:53:27",
+      "eprint_status": "archive",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "title": "ESTIMASI NILAI TEMPERATUR FORMASI PADA SUMUR MINYAK MENGGUNAKAN \r\nMETODE CORE DAN LOG",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FT1"
+      ],
+      "creators": [
+        {
+          "id": "ordas.dewanto@eng.unila.ac.id",
+          "name": {
+            "given": "Ordas",
+            "honourific": null,
+            "family": "Dewanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "hermanto",
+            "family": "hermanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/96\/97",
+      "date": 207,
+      "lastmod": "2023-04-06 00:53:27",
+      "userid": 946,
+      "datestamp": "2023-04-06 00:53:27",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 49697,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189337",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 189337,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538624",
+                  "datasetid": "document",
+                  "filesize": 1255775,
+                  "fileid": 538624,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-05 08:31:19",
+                  "hash_type": "MD5",
+                  "hash": "647f98da760036e383398e143c251769",
+                  "filename": "UNDANGAN DAN SERTIFIKAT, ESTIMASI NILAI TEMPERATUR FORMASI PADA SUMUR MINYAK MENGGUNAKAN METODE CORE DAN LOG (2007).pdf"
+                }
+            ],
+            "docid": 189337,
+            "main": "UNDANGAN DAN SERTIFIKAT, ESTIMASI NILAI TEMPERATUR FORMASI PADA SUMUR MINYAK MENGGUNAKAN METODE CORE DAN LOG (2007).pdf"
+          }
+      ],
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat, Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49697",
+      "full_text_status": "public"
+    }
+]
+

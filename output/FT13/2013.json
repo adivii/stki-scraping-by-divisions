@@ -1,0 +1,533 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14436",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 14436,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Seminar Nasional RTH BDL Sains & Teknologi V Lembaga Penelitian Universitas Lampung 2013",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27513",
+            "rev_number": 2,
+            "main": "Seminar Nasional RTH BDL Sains & Teknologi V Lembaga Penelitian Universitas Lampung 2013 .pdf",
+            "docid": 27513,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/125158",
+                  "objectid": 27513,
+                  "filename": "Seminar Nasional RTH BDL Sains & Teknologi V Lembaga Penelitian Universitas Lampung 2013 .pdf",
+                  "hash": "638f1161be192c09b176a15b3274a1e4",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-02 03:33:14",
+                  "mime_type": "application\/pdf",
+                  "fileid": 125158,
+                  "filesize": 1112814,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "pagerange": "709-717",
+      "userid": 102,
+      "dir": "disk0\/00\/01\/44\/36",
+      "publication": "PROSIDING SEMINAR NASIONAL - SAINS &   TEKNOLOGI V - SATEK & INDONESIA HIJAU",
+      "creators": [
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Armijon"
+          }
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "family": "Fajriyanto",
+            "lineage": null
+          },
+          "id": "fajri_yanto@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Paradais",
+            "lineage": null,
+            "given": "Vanessa"
+          },
+          "id": "vnsparadais@gmail.com"
+        },
+        {
+          "id": "rena.andari.ra@gmail.com",
+          "name": {
+            "given": "Renanda",
+            "family": "Andari",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Siti Nurul",
+            "honourific": null,
+            "family": "Khotimah",
+            "lineage": null
+          },
+          "id": "unun_salim2@yah00.com"
+        }
+      ],
+      "funders": [
+        "DIPA FT Unila"
+      ],
+      "keywords": "maps, green open space, remote sensing",
+      "contact_email": "armijon@gmail.com",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "title": "ANALYSIS OF GREEN OPEN SPACE IN THE CITY OF BANDAR LAMPUNG",
+      "referencetext": "Lillesand.M.T dan  R.W. Kieffer, (1997), Pengindraan  Jauh  dan  Interpretasi  Citra, Gadjah Mada University Press, Yogyakarta.\r\n\r\nUndang-Undang Republik Indonesia Nomor 26 Tahun 2007 Tentang Penataan Ruang\r\n\r\nPeraturan Menteri Pekerjaan Umum Nomor :  05\/Prt\/M\/2008 Tentang Pedoman Penyediaan Dan Pemanfaatan Ruang Terbuka Hijau Di Kawasan Perkotaan.",
+      "status_changed": "2019-10-17 01:09:37",
+      "related_url": [
+        {
+          "url": "https:\/\/armijon.com\/",
+          "type": "author"
+        }
+      ],
+      "ispublished": "pub",
+      "publisher": "LPM Unila",
+      "datestamp": "2019-10-17 01:09:37",
+      "lastmod": "2019-10-17 01:09:37",
+      "date": "2013-11-19",
+      "divisions": [
+        "FT13"
+      ],
+      "type": "conference_item",
+      "event_type": "conference",
+      "official_url": "http:\/\/lppm.unila.ac.id\/",
+      "event_dates": "19-20 November 2013",
+      "subjects": [
+        "T1",
+        "TA"
+      ],
+      "abstract": "Green open space (the RTH) is defined as open land without the building that has the shape, size and specific geographical boundaries with any tenure in which there are a green woody plants and trees as the main feature and other plants such as shrubs, bushes, grass and ground cover plants other as the carrying capacity of land to support the lives of people in the city area. Refer from UU No. 26 in 2007, that every urban area is required to have 30 % green open space area consisting of 20 % for public and 10 % for private from the total of the city area. This research will be mapped the availability of green open space in the city of Bandar Lampung using utilization of remote sensing technology. This study uses a database map imagery obtained from Google Earth and Quickbird imagery and  Orb  View  3.  RTH map generated from the image of the delineation process supervised classification and visual interpretation. The results of this study are the map of availability of green open space in  Bandar Lampung City,  that contains spatial Green Open Space, Park City, Green Belt, Forest City, Coastal Border, BorderRiverwitha total area of green space in the city of Bandar Lampung is 11.083 haor 56% from the total area in Bandar Lampung City. Keywords: maps, green open space, remote sensing.",
+      "eprint_status": "archive",
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "event_title": "SEMINAR NASIONAL SAINS & TEKNOLOGI V - SATEK & INDONESIA HIJAU",
+      "eprintid": 14436
+    },
+    {
+      "date_type": "completed",
+      "eprintid": 13799,
+      "abstract": "Kegiatan pengabdian masyarakat ini dilakukan pada Kelurahan Gedung Pakuon Kecamatan Teluk Betung Selatan Kota Bandar Lampung dengan tujuan untuk membantu pengadaan peta citra dan peta garis di Kelurahan Gedung Pakuon. Metode yang digunakan pada kegiatan ini meliputi:  Pengadaan Image, Pemotongan Citra, Koreksi Geometrik, Digitasi, Kartografi peta citra dan peta garis, Pencetakan. Hasil dari kegiatan ini berupa Peta Citra dan Peta Garis Kelurahan Gedung Pakuon Kec. Teluk Betung Selatan dengan skala 1:2000 yang memiliki informasi spasial batas kelurahan, batas lingkungan, batas administrasi rukun tetangga (RT), jalan, jembatan, sungai, penggunaan lahan (pemukiman, kolam, lahan kosong, pemakaman umum), lokasi industri\/jasa Perdagangan (pasar, rumah makan, ruko, bengkel, PT, dll), tempat peribadatan  (mushola, masjid, gereja, dll), pelayanan kesehatan (posyandu, dokter umum, rumah sakit bersalin),  kantor pemerintahan (kantor kelurahan,  gedung DPRD,dll), serta lokasi pendidiikan (SMP, PAUD, dll).",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2019-08-12 09:08:21",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "referencetext": "Badan Pertanahan Nasional, 2004, standar struktur data spasial dxf.\r\n\r\nJensen,  J.R,  1996,  Introductory Digital Image Processing, Prentice Hall, Singapore\r\n\r\nLillesand. M. T  dan  R. W.  Kieffer.  1997. Pengindraan Jauh  dan  Interpretasi Citra. Gadjah Mada  University  Press, Yogyakarta\r\n\r\nMartain. 2006.  Pemanfaatan  Citra Quickbird  sebagai  komponen untuk pembuatan  peta  zona  nilai  tanah  di wilayah  perbatasan  antar  dua  Kantor Pelayanan Pajak Bumi dan Bangunan - Studi  kasus  Perbatasan Kecamatan Tegalrejo  (KP. PBB Yogyakarta)  dan Kecamatan  Mlati  (KP. PBB  Sleman). Thesis  S-2.  Program  Studi  Teknik Geomatika  Universitas  Gadjah  Mada, Yogyakarta.\r\n\r\nUndang-Undang  Republik  Indonesia Nomor 26 Tahun 2007 Tentang Penataan Ruang",
+      "title": "BANTUAN TEKNIS PEMBUATAN  PETA CITRA DAN PETA GARIS KELURAHAN GEDUNG PAKUON KEC. TELUK BETUNG SELATAN KOTA BANDAR LAMPUNG",
+      "official_url": "http:\/\/lpm.unila.ac.id\/",
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Bantuan Teknis, Peta Citra, Peta Garis, Gedung Pakuon",
+      "type": "article",
+      "contact_email": "citradewirohana@yahoo.com",
+      "dir": "disk0\/00\/01\/37\/99",
+      "date": "2013-12-03",
+      "creators": [
+        {
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dewi"
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Armijon"
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "id": "yohannessp@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Yohannes",
+            "honourific": null,
+            "given": "Yohannes"
+          }
+        }
+      ],
+      "issn": "978-602-70050-0-6",
+      "publication": "Prosiding Seminar Nasional Pengabdian Kepada Masyarakat",
+      "datestamp": "2019-08-12 09:08:21",
+      "pagerange": "143-149",
+      "lastmod": "2019-08-12 09:08:21",
+      "userid": 102,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13799",
+      "full_text_status": "public",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat (LPPM) Unila",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26818",
+            "formatdesc": "Prosiding Pengabdian Pemetaan Kel Gedung Pakuon",
+            "docid": 26818,
+            "main": "Prosiding Pengabdian Pemetaan Kel Gedung Pakuon.pdf",
+            "files": [
+                {
+                  "fileid": 120288,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-11 13:50:51",
+                  "filename": "Prosiding Pengabdian Pemetaan Kel Gedung Pakuon.pdf",
+                  "hash": "18f07093ac258234f5bcc3a0a48aad9b",
+                  "datasetid": "document",
+                  "filesize": 4203883,
+                  "objectid": 26818,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120288"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "eprintid": 13799,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "date_type": "completed",
+      "eprintid": 17360,
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "referencetext": "Irvine, Wiliam (1974). Surveying for C onstruction, Edisi kedua. London: McGraw-Hill Book Company\r\n\r\nLillesand, T. M. and Ralph W. Kiefer (1990) Penginderaan Jauh dan Interpretasi Citra. Gadjah Mada University Press.\r\n\r\nSutanto (1986), Penginderaan Jauh Jilid 1, Yogyakarta: Gadjah Dada University Press",
+      "title": "Bantuan Teknis Pembuatan Peta Citra dan Peta Garis Kelurahan Gedung Pakuon Kecamatan Teluk Betung Selatan Kota Bandar Lampung",
+      "official_url": "https:\/\/armijon.com\/",
+      "abstract": "Pelaksanaan  kegiatan  Bantuan Teknis Pembuatan Peta Citra dan Peta Garis Kelurahan Gedung Pakuon Kec. Teluk Betung Selatan dilaksanakan sebagai  bentuk kegiatan pengabdian  Program Studi Diploma Ill Teknik Survei dan Pemetaan, Jurusan Teknik Sipil,  Fakuttas Teknik, Universitas Lampung terhadap kebutuhan  akan ketersediaan Peta Citra dan Peta Garis tepatnya di Kelurahan Gedung Pakuon, Kecamatan Teluk Betung Selatan.  Kegiatan ini dilaksanakan  dari tanggal 07 Juli 2012 sampa. dengan  07  Agustus  2012. Tim  pelaksana  terdiri  dari  Citra  Dewi, S.T.,M.Eng.  sebagai Ketua, dan 3 anggota yaltu : Ir.  Yohannes, M.T., Armijon, S.T.,  M.T.,  Suyadi, S.T.,M.T. Kegiatan teknis ini meliputi beberapa tahapan antara lain Pengadaan Image, Pemotongan Citra, Koreksi Geometrik, Digttasi, Kartografi, Pecetakan dan Pembuatan Laporan. Hasil dari  kegiatan ini berupa  Peta  Citra dan Peta  Garis Kelurahan Gedung Pakuon Kec. Teluk Betung Selatan.",
+      "subjects": [
+        "T1"
+      ],
+      "succeeds": 13809,
+      "related_url": [
+        {
+          "url": "http:\/\/eng.unila.ac.id\/",
+          "type": "org"
+        },
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/",
+          "type": "org"
+        }
+      ],
+      "status_changed": "2020-02-17 03:38:13",
+      "eprint_status": "archive",
+      "date": "2013-11-01",
+      "dir": "disk0\/00\/01\/73\/60",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null,
+            "given": "Citra"
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Yohannes",
+            "honourific": null,
+            "family": "Yohannes",
+            "lineage": null
+          },
+          "id": "yohannessp@gmail.com"
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Armijon"
+          }
+        },
+        {
+          "id": "suyadi.1974@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Suyadi",
+            "honourific": null,
+            "given": "Suyadi"
+          }
+        }
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Peta Citra, Peta  Garis, Kelurahan Gedung Pakuon.",
+      "funders": [
+        "DIPA Fakultas Teknik Universitas Lampung"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17360",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "docid": 30476,
+            "main": "Laporan Pengabdian Pemetaan Gedung Pakuon.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3860807,
+                  "fileid": 146919,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-12-19 18:34:15",
+                  "hash_type": "MD5",
+                  "hash": "29d9732aa33ae2f7e8cb25a6282f7cca",
+                  "filename": "Laporan Pengabdian Pemetaan Gedung Pakuon.pdf",
+                  "objectid": 30476,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146919"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Laporan Pengabdian Pemetaan Gedung Pakuon",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30476",
+            "rev_number": 2,
+            "eprintid": 17360,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "id"
+          }
+      ],
+      "ispublished": "unpub",
+      "datestamp": "2020-02-17 03:38:13",
+      "userid": 102,
+      "lastmod": "2020-02-17 03:38:13"
+    },
+    {
+      "userid": 30,
+      "pagerange": "358-367",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190145",
+            "rev_number": 1,
+            "docid": 190145,
+            "main": "16. Yohannes_Aplikasi Teknologi TLS 3D untuk Penentuan Volume Tambang Batubara.pdf",
+            "files": [
+                {
+                  "hash": "55452cd4ee22f0ad096a6cc44b23fc1c",
+                  "filename": "16. Yohannes_Aplikasi Teknologi TLS 3D untuk Penentuan Volume Tambang Batubara.pdf",
+                  "mtime": "2023-04-13 02:12:27",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 544330,
+                  "filesize": 1479106,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/544330",
+                  "objectid": 190145
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 50439,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50439",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "publication": "SEMINAR NASIONAL TEKNOLOGI TERAPAN 2013 (Sekolah Vokasi UGM), Pengembangan Teknologi Terapan yang Unggul, Bermartabat, dan Profesional",
+      "issn": "978-602-14066-2-5",
+      "creators": [
+        {
+          "id": "fajriyanto@eng.unila.ac.id",
+          "name": {
+            "given": "Fajriyanto",
+            "family": "Fajriyanto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Yohannes",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yohannes"
+          },
+          "id": "yohannes.1952@eng.unila.ac.id"
+        },
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "family": "Dini",
+            "lineage": null,
+            "given": "Yeshara Rona"
+          }
+        },
+        {
+          "name": {
+            "given": "Dyah Ayu Mayang",
+            "honourific": null,
+            "family": "Sekar",
+            "lineage": null
+          },
+          "id": "-"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/04\/39",
+      "status_changed": "2023-04-13 03:40:20",
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "title": "Aplikasi Teknologi TLS 3D (Terrestrial Laser Scanner) untuk Penentuan Volume\r\nTambang Batubara \r\n(Studi Kasus : Kutai Barat, Kalimantan Timur)",
+      "referencetext": "Abidin, Z.A. 1995. Penentuan Posisi dengan GPS dan Aplikasinya, PT Pradnya Paramita, JAKARTA-INDONESIA\r\nFirdaus, Wildan. 2008. Laser Scanner 3D untuk Anjungan Minyak. Tugas Akhir tidak diterbitkan. TEKNIK GEODESI ITB BANDUNG.\r\nGilang, Arky. 2009. Analisis Geometri Data Obyek 3D Menggunakan Fotogrametri Rentang Dekat, Terrestrial Laser Scanner, dan Elektronic Total Station (ETS). Tesis tidak diterbitkan. TEKNIK GEODESI ITB BANDUNG\r\nMikhail, E.W. 1985. Analysis and Adjustment of Survey Measurement, Van Nostrand Reinhold Co, NEW YORK-USA\r\nPermatahati, D. Anyelir. 2011. Analisis Perbedaan Volume Over Burden Antara Metode Truck Count dan Weekly Progress Menggunakan Software AutoCAD Civil 3D 2009. Tugas Akhir tidak diterbitkan. TEKNIK GEODESI UNIVERSITAS DIPONEGORO SEMARANG\r\nPhillis, J.O, 1985, FGCC-Specifications to Support Classification Standards of Accuracy and General Specifications of Geodetic Control Survey, Rockville, Madison Co, WISCONSIN-USA\r\nYudhistira, Boy. 2012. Percepatan Implementasi Pengukuran Laser Scanner. Fresh Graduated Development Program, JOBSITE PAMA-TCMM KALIMANTAN TIMUR",
+      "volume": "1A",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "lastmod": "2023-04-13 03:40:20",
+      "datestamp": "2023-04-13 03:40:20",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Sekolah Vokasi  Universitas Gadjah Mada Yogyakarta",
+      "type": "article",
+      "divisions": [
+        "FT13"
+      ],
+      "date": "2013-10-26",
+      "id_number": 1,
+      "eprint_status": "archive",
+      "subjects": [
+        "GA",
+        "HA",
+        "QE",
+        "TA"
+      ],
+      "abstract": "Semakin pesatnya kegiatan penambangan batubara, disebabkan ditemukannya lokasilokasi\r\n\r\nyang masih mengandung banyak batubara dan tersedianya sumber daya manusia\r\nserta perkembangan teknologi yang kian menunjang kegiatan pertambangan. Terrestrial 3D\r\nlaser scanner (TLS) atau lebih dikenal dengan sebutan Laser Scanner, merupakan\r\ninstrument analisis obyek real word yang dapat mengumpulkan data permukaan dan\r\ntopografi obyek kemudian ditampilkan dalam bentuk 3 dimensi. Terrestrial 3D Laser Scanner\r\nmerupakan bukti kemajuan dari teknologi alat ukur di bidang Geodesi. Terrestrial 3D Laser\r\nScanner adalah alat yang prinsip kerjanya hampir mirip dengan Total Station, yang bekerja\r\nmemanfaatkan sinar laser. Terrestrial 3D Laser Scanner meminimalis waktu dalam\r\npengukuran, dan berbagai keuntungan lainnya. Kegiatan monitoring pertambangan\r\nmenggunakan alat 3D Laser Scanner diantaranya bertujuan untuk mengetahui perubahan\r\nvolume pada area tambang. Perubahan volume dapat diketahui dengan membandingkan\r\nsurface antara bulan pertama dengan surface bulan kedua. Hasil akhir dari pengolahan data\r\npengukuran 3D Laser Scanner adalah kontur permukaan area pertambangan dan volume\r\nperubahan tambang batubara. Area yang dimonitoring adalah pit 3000 blok 11, pit 3000 blok\r\n7, dan pit 6200 blok 5. Total material Remove Coal di periode End Of Month (EOM) Februari\r\n2013 pada pit 3000 blok 11 adalah sebesar 325.741,599 BCM (Bank Cubic Meter). Total\r\nmaterial Remove Coal di periode End Of Month Februari 2013 pada pit 3000 blok 7 adalah\r\nsebesar 59.459,174 BCM. Total material Remove Coal di periode End Of Month Februari\r\n2013 pada pit 6200 blok 5 adalah sebesar 572.526,191 BCM.",
+      "official_url": "http:\/\/www.sv.ugm.ac.id",
+      "eprintid": 50439,
+      "date_type": "published"
+    },
+    {
+      "abstract": "The road infrastructure has a significant influence on the development facilities of the city as a center of a new generation. Bandar Lampung  as the capital of Lampung province was not im - mune to these problems. Development of a very dynamic with a diverse urban population, trig- gered over the land due to the complexity of the construction of roads that will lead to many nega - tive issues in the future. Problem caused by the increasing development of road infrastructure in and on the outskirts of the city, will increase the rate of population growth to the high impact of urban land usage that is not in line with the regional spatial plan. To suppress the effect of infra - structure development on land conversion, required policy analysis tool. The making of policy simulation modeling of land usage on the development of road infrastructure using dynamic sys - tem modeling. The models created using causality approach (causal loop), starting from the basic modeling that is a mapping of the real system of urban land usage which is then converted into 4 model. Model of transportation, demography, population and land usage activities, which are as - sociated with a causal relationship. The models will be aided by the GIS as spatial data analysis input, the models simulate some policy scenarios. The most optimal scenario results to reducing the rate of population growth, reduce the level of unemployment, increased GDP, and control the pattern of land usage. By performing simulations using these scenarios, all the desired purpose can be met and brought a good impact on the growth of Bandar Lampung city.\r\n\r\nKata Kunci : Pemanfaatan Lahan, Model Sistem Dinamik, SIG, Powersim.",
+      "subjects": [
+        "TE"
+      ],
+      "succeeds": 10473,
+      "status_changed": "2019-08-30 08:12:18",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 17,
+      "title": "PENGARUH PERKEMBANGAN PEMBANGUNAN INFRASTRUKTUR JALAN TERHADAP PERTUMBUHAN PEMANFAATAN LAHAN KOTA",
+      "date_type": "published",
+      "eprintid": 13973,
+      "datestamp": "2019-08-30 08:12:18",
+      "lastmod": "2019-08-30 08:12:18",
+      "userid": 102,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13973",
+      "full_text_status": "public",
+      "publisher": "Jurusan Teknik Sipil Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13973,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 27007,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121777",
+                  "datasetid": "document",
+                  "filesize": 451200,
+                  "fileid": 121777,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-12-06 04:55:45",
+                  "hash_type": "MD5",
+                  "hash": "b6804412d69ad59e587ae467a90a58ce",
+                  "filename": "PENGARUH PERKEMBANGAN PEMBANGUNAN INFRASTRUKTUR JALAN TERHADAP PERTUMBUHAN PEMANFAATAN LAHAN KOTA.pdf"
+                }
+            ],
+            "main": "PENGARUH PERKEMBANGAN PEMBANGUNAN INFRASTRUKTUR JALAN TERHADAP PERTUMBUHAN PEMANFAATAN LAHAN KOTA.pdf",
+            "docid": 27007,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27007",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Pemanfaatan Lahan, Model Sistem Dinamik, SIG, Powersim.",
+      "type": "article",
+      "dir": "disk0\/00\/01\/39\/73",
+      "date": "2013-04",
+      "issn": "2303-0011",
+      "creators": [
+        {
+          "id": "idasusantis@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Susanti S",
+            "honourific": null,
+            "given": "Ida"
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Rekayasa Sipil dan Desain (JRSDD)"
+    }
+]
+

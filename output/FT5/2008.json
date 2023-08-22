@@ -1,0 +1,978 @@
+[
+    {
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22250,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35667",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 35667,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204701",
+                  "fileid": 204701,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-11 04:17:55",
+                  "filename": "Identifikasi Panas Objek Menggunakan Citra Thermal (ELECTRICIAN).pdf",
+                  "hash": "7566f59ce9a2f8f03a3b6dd5c3ba17ed",
+                  "datasetid": "document",
+                  "filesize": 907810
+                }
+            ],
+            "docid": 35667,
+            "main": "Identifikasi Panas Objek Menggunakan Citra Thermal (ELECTRICIAN).pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22250",
+      "full_text_status": "public",
+      "userid": 586,
+      "lastmod": "2020-06-11 06:38:25",
+      "datestamp": "2020-06-11 06:38:25",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Marta Yose",
+            "family": "Aulia",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/22\/50",
+      "date": "2008-09",
+      "type": "other",
+      "divisions": [
+        "FT5"
+      ],
+      "title": "Peer Review Karya Ilmiah : Jurnal Nasional dengan Judul Identifikasi Panas Objek Menggunakan Citra Termal",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-06-11 06:38:25",
+      "subjects": [
+        "TK"
+      ],
+      "eprintid": 22250
+    },
+    {
+      "dir": "disk0\/00\/02\/22\/49",
+      "date": "2008-09",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Yopi",
+            "family": "Marjuki",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Setyawan",
+            "given": "FX Arinto"
+          }
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22249",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35666",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204694",
+                  "objectid": 35666,
+                  "filesize": 907810,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-11 04:06:07",
+                  "filename": "Identifikasi Panas Objek Menggunakan Citra Thermal (ELECTRICIAN).pdf",
+                  "hash": "7566f59ce9a2f8f03a3b6dd5c3ba17ed",
+                  "fileid": 204694,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Identifikasi Panas Objek Menggunakan Citra Thermal (ELECTRICIAN).pdf",
+            "docid": 35666,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 22249
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "datestamp": "2020-06-11 06:38:20",
+      "userid": 586,
+      "lastmod": "2020-06-11 06:38:20",
+      "eprintid": 22249,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Peer Review Karya Ilmiah: Jurnal Nasional dengan Judul Identifikasi Panas Objek Menggunakan Citra Thermal",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2020-06-11 06:38:20",
+      "eprint_status": "archive"
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Salt and Pepper noise is caused by malfunctioning pixel in camera sensor, defect in memory\r\nlocations of hardware or transmission in a noisy channel. The image pixel will be seen different\r\nfrom its neighbour pixel. For images corrupted by salt-and-pepper noise, the noisy pixels can\r\ntake only the maximum and the minimum values in the dynamic range. This noise can be\r\nrepresented with black or white dot in the image.\r\nThe median filter was once the most popular nonlinear filter for removing salt and pepper noise,\r\nbecause of its good power denoising and computational efficiency. However, the median filter\r\nmethod caused all pixel of the restored image will be changed, so the image become not\r\noriginal. Restored can be done for degraded pixel to keep the originality of image. Degraded\r\npixel determination can be determinate by seeing neighbour pixels and its compared with salt\r\nand pepper noise characteristic. Pixel has degraded if it has been black or white color and its\r\nsurrounding has not the same color.\r\nProposed method has been tested to standard image, i.e. Lena and Mandrill with noise which has\r\n0.01-0.7 density. The result of the Lena image is 97.7% and in the Mandrill is 98.05%.",
+      "eprint_status": "archive",
+      "status_changed": "2019-03-15 02:54:29",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Penentuan Letak Derau pada Citra Berderau Salt And Pepper\r\nBerdasarkan Sifat Ketetanggaan Piksel",
+      "date_type": "published",
+      "eprintid": 10746,
+      "pagerange": "216-223",
+      "datestamp": "2019-03-15 02:54:29",
+      "lastmod": "2019-03-15 02:54:29",
+      "userid": 56,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10746",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "LPPM Unila",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 10746,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23760",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "ef0bdfe4b922c294c75a23870258c5d4",
+                  "filename": "SRI PURWIYANTI 216-223.pdf",
+                  "mtime": "2019-02-12 02:43:31",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 99178,
+                  "filesize": 316226,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99178",
+                  "objectid": 23760
+                }
+            ],
+            "main": "SRI PURWIYANTI 216-223.pdf",
+            "docid": 23760
+          }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": 2008,
+      "dir": "disk0\/00\/01\/07\/46",
+      "publication": "Prosiding Seminar Hasil Penelitian dan Pengabdian Masyarakat",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "family": "Purwiyanti",
+            "honourific": null
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "family": "Setyawan",
+            "honourific": null,
+            "lineage": null,
+            "given": "FX. Arinto"
+          }
+        }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 647,
+      "metadata_visibility": "show",
+      "volume": 6,
+      "rev_number": 6,
+      "title": "Studi Penggunaan Penyearah 18 Pulsa dengan Transformator 3 Fasa ke 9 Fasa Hubungan Segienam",
+      "official_url": "http:\/\/telkomnika.ee.uad.ac.id\/n9\/files\/Vol.6No.1Apr08\/6.1.4.08.04.pdf",
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang Studi Penggunaan Penyearah 18 Pulsa. Pada aplikasinya penyearah 18 Pulsa memerlukan sumber AC 9 fasa. Pada tulisan ini diusulkan rancangan transformator untuk mengubah sumber 3 fasa menjadi 9 fasa dengan menggunakan transformator 3 fasa ke 9 fasa Hubungan Segi enam. Desain rancangan dan perhitungan dibahas secara detil pada tulisan ini. Kemudian sumber 9 fasa yang dihasilkan disearahkan dengan penyearah 9 fasa gelombang penuh dan menghasilkan penyearah 18 pulsa.",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-09-23 07:30:49",
+      "date": "2008-04",
+      "dir": "disk0\/00\/00\/06\/47",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad Saudi",
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1693-6930",
+      "publication": "TELKOMNIKA",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/647",
+      "publisher": "Universitas Ahmad Dahlan",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 647,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/551",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 551,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3582",
+                  "fileid": 3582,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-09-23 05:57:43",
+                  "hash_type": "MD5",
+                  "filename": "13_Jurnal Nasional Telkomnika 2008.pdf",
+                  "hash": "8cb31775c14b41ea34c45bfaff97c35b",
+                  "datasetid": "document",
+                  "filesize": 191763
+                }
+            ],
+            "docid": 551,
+            "main": "13_Jurnal Nasional Telkomnika 2008.pdf"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "pagerange": "21-32",
+      "datestamp": "2016-09-23 07:30:49",
+      "lastmod": "2016-09-23 07:30:49",
+      "userid": 504
+    },
+    {
+      "metadata_visibility": "show",
+      "place_of_pub": "Johor, Malaysia",
+      "rev_number": 7,
+      "title": "Dynamic Evolution Control For Step Down DC-DC Converter",
+      "official_url": "https:\/\/scholar.google.com\/scholar?oi=bibs&cluster=11116253314912557823&btnI=1&hl=en",
+      "abstract": "Karya ilmiah ini mepresentasikan tentang sebuah teknik untuk mengontrol keluaran Konverter Elektronika Daya dari jenis Step down Converter menggunakan Teknik Dynamic Evolution Control. Tulisan ini membahas antara lain Dynamic Evolution Control Theory, synthesis penurunan formula kontroler untuk step down dc-dc converter, serta pembuatan model dan simulasi computer untuk memverifikasi unjuk kerja kontroler.",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-09-23 07:22:58",
+      "date_type": "published",
+      "isbn": "978-983-52-0648-1",
+      "eprintid": 630,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/630",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/534",
+            "rev_number": 1,
+            "main": "01_Book Chapter UTM.pdf",
+            "docid": 534,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1073855,
+                  "fileid": 3476,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-09-21 04:47:08",
+                  "hash_type": "MD5",
+                  "filename": "01_Book Chapter UTM.pdf",
+                  "hash": "004be1688e558a6b4b18f27bf11b8664",
+                  "objectid": 534,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3476"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 630,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Penerbit UTM Press",
+      "ispublished": "pub",
+      "pagerange": "37-49",
+      "datestamp": "2016-09-23 07:22:58",
+      "lastmod": "2016-09-23 07:22:58",
+      "userid": 504,
+      "date": 2008,
+      "dir": "disk0\/00\/00\/06\/30",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null,
+            "given": "Ahmad Saudi"
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Abdul Halim",
+            "family": "Mohd Yatim",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "halim@fke.utm.my"
+        }
+      ],
+      "book_title": "Modeling and Control of Power Converters and Drives",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "book_section"
+    },
+    {
+      "eprintid": 50241,
+      "date_type": "published",
+      "status_changed": "2023-04-11 07:37:59",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/ele-200805-02-02-04"
+        }
+      ],
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "A good grounding system belived if the its resistance has a small value that measured with DC source or low frquency. Meanwhile, lightning stroke that caused impulse current with high frequency up to kHz, so when gounding system work when striking by lightning, its impedance not only mark out by resisftif component but also will affected by induktif and capasitif value. In this paper discussed impedance of grounding system for driven rod that burried with varying dept from 2 to 6 meter. Then impulse injected to imitate lightning stroke as a voltage source with high frequency. From measurement and calculation result  shows that the lowest grounding system was 23,01 ohm when the dept of driven rod 6 m and grounding impedance decrease abut 5.25 ohm pe meter. Experiment result compare with simulasion using EMTP. EMTP model for driven rod using a R-L-C model. The result shows the magnitude of voltage and current for both experiment and simulation have a good correspondingly, but response for simulation has a far farter tail time impulse. Keyword: impulse response, grounding impedance, driven rod grounding",
+      "title": "Respons Impuls Pada Elektroda Pentanahan Batang Tunggal Untuk Menentukan Nilai Impedansi Pentanahan",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/issue\/view\/3",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "given": "Herman Halomoan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sinaga"
+          }
+        },
+        {
+          "name": {
+            "given": "Gamaliel",
+            "lineage": null,
+            "family": "Ketaren",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Sunardi",
+            "honourific": null,
+            "given": "Anang"
+          }
+        }
+      ],
+      "issn": "1978-6042",
+      "date": "2008-05",
+      "dir": "disk0_bak\/00\/05\/02\/41",
+      "lastmod": "2023-04-11 07:37:59",
+      "userid": 689,
+      "datestamp": "2023-04-11 07:37:59",
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 50241,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189940",
+            "rev_number": 1,
+            "docid": 189940,
+            "main": "Respons Impuls Pada Elektroda Pentanahan Batang Tunggal Untuk Menentukan Nilai Impedansi Pentanahan.pdf",
+            "files": [
+                {
+                  "hash": "9c8ba8ab6c0adcf56b6457b790da5adc",
+                  "filename": "Respons Impuls Pada Elektroda Pentanahan Batang Tunggal Untuk Menentukan Nilai Impedansi Pentanahan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 07:29:27",
+                  "mime_type": "application\/pdf",
+                  "fileid": 542871,
+                  "filesize": 379082,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542871",
+                  "objectid": 189940
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50241",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "issn": "1978-6042",
+      "creators": [
+        {
+          "name": {
+            "given": "Herman Halomoan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sinaga"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sitorus",
+            "lineage": null,
+            "given": "Henry B.H."
+          },
+          "id": "hbhstr@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Risky",
+            "lineage": null,
+            "given": "Risky"
+          },
+          "id": null
+        }
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "dir": "disk0_bak\/00\/05\/02\/37",
+      "date": "2008-01",
+      "userid": 689,
+      "lastmod": "2023-04-11 07:38:02",
+      "datestamp": "2023-04-11 07:38:02",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50237,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 542833,
+                  "filename": "Analisis Karakteristik Gangguan Hubung Singkat Antar Belitan Transformator Menggunakan Transformasi Wavelet Diskrit.pdf",
+                  "hash": "f66a03440c864c3fb38658af097f1f13",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 07:24:24",
+                  "datasetid": "document",
+                  "filesize": 355249,
+                  "objectid": 189938,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542833"
+                }
+            ],
+            "main": "Analisis Karakteristik Gangguan Hubung Singkat Antar Belitan Transformator Menggunakan Transformasi Wavelet Diskrit.pdf",
+            "docid": 189938,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189938",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50237",
+      "eprintid": 50237,
+      "date_type": "published",
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/ele-200801-02-01-06"
+        }
+      ],
+      "status_changed": "2023-04-11 07:38:02",
+      "eprint_status": "archive",
+      "abstract": "Transient fault could occur on transformer in power system. This is could be because of internal fault or external fault. Disturbance could be because of short circuit between winding of transformer or because of short circuit on load. Short circuit on transformer winding could lead to catastrophic failure of transformer. So itâ€™s needed to detect short circuit between winding on transformer before it breakdown. On this paper discussed experiment using a step transformer 220\/500 volt with 5 tap on primer side and 10 tap on secondary side. Each tap on primary and secondary side is connected to simulated short circuit evidence in transformer winding. The transformer connected to resistif load that have 10 tap to simulated short circuit on load side. Measurements conduct on both side and analysis done using wavelet transformation analysis. Experiment result shows measurement result on secondary side gave wavelet decomposition that easier to discriminate fault result from normal condition. Fault condition could be known from spike thatâ€™s occurs on wavelet decomposition. Keywords : wavelet transformation, short circuit fault, wavelet decomposition",
+      "subjects": [
+        "TK"
+      ],
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/issue\/view\/2",
+      "title": "Analisis Karakteristik Gangguan Hubung Singkat Antar Belitan Transformator Menggunakan Transformasi Wavelet Diskrit",
+      "metadata_visibility": "show",
+      "rev_number": 7
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FT5"
+      ],
+      "creators": [
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "name": {
+            "given": "Warsito",
+            "family": "Warsito",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Andi",
+            "lineage": null,
+            "family": "Darmawan",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/02\/22\/78",
+      "date": "2008-01",
+      "lastmod": "2020-06-11 08:38:21",
+      "userid": 586,
+      "datestamp": "2020-06-11 08:38:21",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "d01b8543d1a7200d88f9adbb316fe2e2",
+                  "filename": "Rancang Bangun Model Sistem Pemantau Tinggu Muka Air (ELECTRICIAN).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-11 07:47:56",
+                  "mime_type": "application\/pdf",
+                  "fileid": 204882,
+                  "filesize": 924298,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204882",
+                  "objectid": 35694
+                }
+            ],
+            "main": "Rancang Bangun Model Sistem Pemantau Tinggu Muka Air (ELECTRICIAN).pdf",
+            "docid": 35694,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35694",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22278,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22278",
+      "eprintid": 22278,
+      "status_changed": "2020-06-11 08:38:21",
+      "eprint_status": "archive",
+      "subjects": [
+        "TK"
+      ],
+      "title": "Peer Review Karya Ilmiah : Jurnal Nasional dengan Judul Rancang Bangun Model Sistem Pemantauan Tinggi Muka Air Sungai Menggunakan Telemetri Radio",
+      "metadata_visibility": "show",
+      "rev_number": 7
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46901",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 205267,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-26 03:04:11",
+                  "hash": "e62acc1251b407c9020c76dc179c256c",
+                  "filename": "BUKTI KORESPONDENSI IFIP-AICT 2008.pdf",
+                  "fileid": 515924,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515924",
+                  "objectid": 185840
+                }
+            ],
+            "docid": 185840,
+            "main": "BUKTI KORESPONDENSI IFIP-AICT 2008.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185840",
+            "formatdesc": "BUKTI KORESPONDENSI IFIP-AICT 284",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46901,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "SPRINGER",
+      "ispublished": "pub",
+      "datestamp": "2022-11-28 02:13:28",
+      "userid": 668,
+      "lastmod": "2022-11-28 02:13:28",
+      "date": 2008,
+      "dir": "disk0\/00\/04\/69\/01",
+      "creators": [
+        {
+          "id": "ardian.ulvan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ulvan",
+            "given": "Ardian"
+          }
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "BUKTI KORESPONDENSI IFIP-AICT 2008",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2022-11-28 02:13:28",
+      "eprint_status": "archive",
+      "eprintid": 46901
+    },
+    {
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 284 2008",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2022-11-28 02:13:34",
+      "eprint_status": "archive",
+      "eprintid": 46907,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46907",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 46907,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 284 2008.pdf",
+            "docid": 185844,
+            "files": [
+                {
+                  "mtime": "2022-11-26 05:04:49",
+                  "hash_type": "MD5",
+                  "filename": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 284 2008.pdf",
+                  "hash": "689466377ef077a6fbfcb578cbf5af59",
+                  "fileid": 515958,
+                  "mime_type": "application\/pdf",
+                  "filesize": 160692,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515958",
+                  "objectid": 185844
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 284 2008",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185844"
+          }
+      ],
+      "publisher": "SPRINGER",
+      "datestamp": "2022-11-28 02:13:34",
+      "lastmod": "2022-11-28 02:13:34",
+      "userid": 668,
+      "dir": "disk0\/00\/04\/69\/07",
+      "date": 2008,
+      "creators": [
+        {
+          "id": "ardian.ulvan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null,
+            "given": "Ardian"
+          }
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "other"
+    },
+    {
+      "publisher": "SpringerLink",
+      "ispublished": "pub",
+      "number": 284,
+      "datestamp": "2017-06-05 02:13:44",
+      "lastmod": "2017-06-05 02:13:44",
+      "id_number": "doi:10.1007\/978-0-387-84839-6_30",
+      "pages": 11,
+      "date": 2008,
+      "divisions": [
+        "FT5"
+      ],
+      "book_title": "Wireless and Mobile Networking",
+      "series": "IFIP International Federation for Information Processing book series",
+      "type": "book_section",
+      "official_url": "http:\/\/doi.org\/10.1007\/978-0-387-84839-6_30",
+      "abstract": "This paper investigates the impact of cell partitioning in cell capacity of CDMA-based system. We examine the implementation of four partitions per cell as well as the influence of various height of the base station transceiver antenna to the system. We contemplated the urban area as the target, therefore the COST-231 Walfisch – Ikegami is applied as the propagation model. Calculations on the capacity of cell, the link budget (and MAPL) and the radius of each partition, depending on the height of the base station transceiver antenna, are made. The results show that the capacity increases as the number of partitions increases; the height of the base station transceiver affects the radius of the partitions.",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "eprintid": 2542,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2542",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3088",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22254",
+                  "objectid": 3088,
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 15:31:28",
+                  "hash": "348f1d8b3c1a79f87936acdd378fcc3b",
+                  "filename": "Springer WMNC.pdf",
+                  "fileid": 22254,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1997268,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Springer WMNC.pdf",
+            "docid": 3088,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2542
+          }
+      ],
+      "pagerange": "383-394",
+      "userid": 668,
+      "dir": "disk0\/00\/00\/25\/42",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null,
+            "given": "Ardian"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ribeiro",
+            "given": "Diogo"
+          }
+        },
+        {
+          "name": {
+            "family": "Bestak",
+            "honourific": null,
+            "lineage": null,
+            "given": "Robert"
+          }
+        }
+      ],
+      "issn": "1571-5736",
+      "contact_email": "ardian.ulvan@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 284,
+      "title": "Multiple Cell Partitions for Increasing the CDMA-Based Cell Capacity",
+      "related_url": [
+        {
+          "url": "https:\/\/link.springer.com\/chapter\/10.1007%2F978-0-387-84839-6_30"
+        }
+      ],
+      "status_changed": "2017-06-05 02:13:44",
+      "isbn": "978-0-387-84838-9"
+    },
+    {
+      "dir": "disk0\/00\/01\/44\/09",
+      "date": 2008,
+      "issn": "1978-6042",
+      "creators": [
+        {
+          "name": {
+            "given": "herlinawati",
+            "lineage": null,
+            "family": "herlinawati",
+            "honourific": null
+          },
+          "id": "herlinawati.rusydi@yahoo.com"
+        },
+        {
+          "id": "umi.murdika@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Murdika",
+            "given": "Umi"
+          }
+        },
+        {
+          "name": {
+            "given": "Eka",
+            "honourific": null,
+            "family": "Riyadi",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14409",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "id",
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 14409,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27462",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 27462,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/124943",
+                  "datasetid": "document",
+                  "filesize": 16197,
+                  "mime_type": "text\/html",
+                  "fileid": 124943,
+                  "filename": "ele-200809-02-03-05",
+                  "hash": "426b41e28e9ab6c66599edb259929a89",
+                  "mtime": "2019-09-28 14:50:40",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "ele-200809-02-03-05",
+            "docid": 27462
+          }
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "datestamp": "2021-05-27 02:28:39",
+      "pagerange": "175-188",
+      "lastmod": "2021-05-27 02:28:39",
+      "userid": 66,
+      "eprintid": 14409,
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 8,
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/",
+      "title": "Proses Pengiriman Paket IP Menggunakan All Optical Label Swapping (AOLS)",
+      "abstract": "Transmission IP packet into WDM network will experience of encapsulation process at Data Link Layer with adding overhead to packet. IP packet through Gigabit Ethernet have more less overhead than ATM. The usage of All Optical Label Swapping (AOLS) technology for transmitting IP packet into WDM network with using label swapping will add optical label to packet. At AOLS, process routing decision is to be done with only processing the optic label. During that process data payload constantly within optic domain. Key word : ATM, Gigabit Ethernet, AOLS, optic label.",
+      "subjects": [
+        "Q1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-05-27 02:28:39"
+    }
+]
+

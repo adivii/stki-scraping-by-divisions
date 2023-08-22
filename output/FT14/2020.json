@@ -1,0 +1,337 @@
+[
+    {
+      "date_type": "published",
+      "event_title": "IOP Conference Series: Materials Science and Engineering",
+      "eprintid": 24296,
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Low Cycle Fatigue Properties of Aluminizing Coating on Cold- Drawn AISI 1018 Steel",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "The mechanical and the low cycle fatigue (LCF) properties of cold-drawn AISI 1018 steel (CDS 1018) with and without hot-dip aluminizing (HDA) coating had been experimentally investigated at room temperature. The tensile properties and the LCF properties were determined from tensile test results and cyclic strain-fatigue test results, respectively. The aluminide coating on the CDS 1018 significantly decreases the mechanical properties and the strain-fatigue life of the steel. With increasing in strain amplitude levels, CDS 1018 experienced continuously cyclic softening behaviour after cyclic loading in few cycles. By contrast, the cyclic softening of HDA steel was observed in few cycles and HDA steel continuously exhibits the stably cyclic hardening behaviour until failure. CDS 1018 with aluminide coating results the longer transition fatigue cycles (Nt) than those of CDS 1018 without aluminide coating by a factor of 3.0. CDS 1018 with HDA coating can be used for material components which the components are safely designed under cyclic loading below the yield strength of the material.",
+      "status_changed": "2020-10-14 04:08:32",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/42\/96",
+      "date": "2020-04-23",
+      "creators": [
+        {
+          "name": {
+            "given": "Sugiyanto",
+            "honourific": null,
+            "family": "Sugiyanto",
+            "lineage": null
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT14"
+      ],
+      "type": "conference_item",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24296",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 38015,
+            "main": "Cover Badaruddin_2020_IOP_Conf._Ser.__Mater._Sci._Eng._807_012019.pdf",
+            "files": [
+                {
+                  "hash": "31f7d7cb6a56d8247284e779ae8e1577",
+                  "filename": "Cover Badaruddin_2020_IOP_Conf._Ser.__Mater._Sci._Eng._807_012019.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-13 10:38:42",
+                  "mime_type": "application\/pdf",
+                  "fileid": 221095,
+                  "filesize": 195515,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221095",
+                  "objectid": 38015
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38015",
+            "eprintid": 24296,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper",
+      "datestamp": "2020-10-14 04:08:32",
+      "userid": 1133,
+      "lastmod": "2020-10-14 04:08:32"
+    },
+    {
+      "divisions": [
+        "FT14"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/02\/42\/91",
+      "date": "2020-04-27",
+      "creators": [
+        {
+          "name": {
+            "given": "Sugiyanto",
+            "honourific": null,
+            "family": "Sugiyanto",
+            "lineage": null
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2020-10-14 04:10:51",
+      "lastmod": "2020-10-14 04:10:51",
+      "userid": 1133,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24291",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 38009,
+            "main": "5J. Similarity Artikel High-temperatur (Badar, Sugi, Dwi).pdf",
+            "files": [
+                {
+                  "objectid": 38009,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221056",
+                  "datasetid": "document",
+                  "filesize": 290363,
+                  "fileid": 221056,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-13 05:48:55",
+                  "filename": "5J. Similarity Artikel High-temperatur (Badar, Sugi, Dwi).pdf",
+                  "hash": "69d4ca5ec747994536013b3054eaad69"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38009",
+            "rev_number": 1,
+            "eprintid": 24291,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "LPPM-Unila",
+      "date_type": "published",
+      "eprintid": 24291,
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Similarity Check Judul 5: High-temperature corrosion of aluminized AISI 1020 steel with Na C1 and Na2SO4 deposits",
+      "eprint_status": "archive",
+      "status_changed": "2020-10-14 04:10:51",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similarity Check Judul 5: High-temperature corrosion of aluminized AISI 1020 steel with Na C1 and Na2SO4 deposits"
+    },
+    {
+      "publisher": "Proceedings of the 6th Food Ingredient Asia Conference",
+      "documents": [
+          {
+            "eprintid": 44857,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 166764,
+            "main": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+            "files": [
+                {
+                  "objectid": 166764,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484142",
+                  "fileid": 484142,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-09-09 04:00:00",
+                  "hash_type": "MD5",
+                  "hash": "a84c843ec947789037ec25e3d50f0a35",
+                  "filename": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+                  "datasetid": "document",
+                  "filesize": 377791
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166764",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44857",
+      "full_text_status": "public",
+      "lastmod": "2022-09-12 01:13:22",
+      "userid": 306,
+      "datestamp": "2022-09-12 01:13:22",
+      "creators": [
+        {
+          "id": "neti.yuliana@fp.unila.ac.id",
+          "name": {
+            "given": "Neti",
+            "family": "Yuliana",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dewi",
+            "lineage": null,
+            "family": "Sartika",
+            "honourific": null
+          },
+          "id": "dewikincai@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Sutikno",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sutikno"
+          },
+          "id": "sutiknolampung@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Edo",
+            "honourific": null,
+            "family": "Jatmiko",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "date": 2020,
+      "dir": "disk0\/00\/04\/48\/57",
+      "type": "other",
+      "divisions": [
+        "FP19",
+        "FP22",
+        "FT9",
+        "FT13",
+        "FT14",
+        "FT12",
+        "FT3",
+        "FT2"
+      ],
+      "title": "Profile of Sweet Potato Fermentation using Leuconostoc Mesenteroides as a Starter",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-09-12 01:13:22",
+      "subjects": [
+        "S1"
+      ],
+      "eprintid": 44857,
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2021-06-02 01:08:15",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/ojs.ummetro.ac.id\/index.php\/turbo\/article\/view\/1295\/pdf",
+          "type": "pub"
+        }
+      ],
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Indonesia is an agricultural country with a tropical climate. One of the many \r\nagricultural products in Indonesia is vegetables. Handling of vegetables after harvesting is \r\nimportant because the decrease in product quality can reach up to 50%. This decrease in \r\nquality is the result of metabolic processes such as transpiration and respiration that occur \r\nin post-harvest vegetables. The respiration rate of vegetables cannot be stopped but can be \r\nslowed down by lowering the temperature, so that the freshness of the vegetables can last \r\nlonger. One method of maintaining the temperature of vegetables is storage in a cool box\r\nwith cooling media. Phase change material (PCM) is an alternative cooling medium that \r\nutilizes latent heat in thermal energy storage. Paraffin is a PCM that can be used for this \r\napplication. Paraffin has a freezing and melting temperature range that can be adjusted \r\naccording to your needs, namely by mixing liquid paraffin and solid paraffin. This study used \r\nmixed paraffin with a liquid-solid paraffin ratio of 98:2 mass basis. This mixture has a \r\nmelting temperature of 6\r\noC until 13oC and is close to the optimal temperature for storing \r\nvegetables, which is 5oC. In this study, testing was also carried out using water as a \r\ncomparison. The test results show that ice can make vegetables last longer in cold conditions, \r\nnamely that it is able to maintain the vegetable temperature below 20oC for 11 hours, while \r\nparaffin only lasts 2 hours. The physical condition of the vegetables that are cooled with ice \r\nin the packing changes color and becomes watery because the water in the vegetables is \r\ncondensed. Meanwhile, on cooling with paraffin it is physically fresher",
+      "title": "Pemanfaatan material fasa berubah untuk mempertahankan \r\nkesegaran sayuran",
+      "volume": 9,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 31628,
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2021-06-02 01:08:15",
+      "userid": 866,
+      "pagerange": "201-209",
+      "datestamp": "2021-06-02 01:08:15",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31628,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/143274",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 143274,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/374874",
+                  "fileid": 374874,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-01 14:01:53",
+                  "hash": "c605bafd0af9dd4dce0b8516230a9a38",
+                  "filename": "Turbo des 2020.pdf",
+                  "datasetid": "document",
+                  "filesize": 608899
+                }
+            ],
+            "docid": 143274,
+            "main": "Turbo des 2020.pdf"
+          }
+      ],
+      "publisher": "Jurusan Teknik Mesin, Fakultas Teknik, Universitas Muhammadiyah Metro",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31628",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "publication": "TURBO",
+      "creators": [
+        {
+          "id": "muhammad.irsyad@eng.unila.ac.id",
+          "name": {
+            "given": "muhammad",
+            "lineage": null,
+            "family": "irsyad",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Tobing",
+            "honourific": null,
+            "lineage": null,
+            "given": "Natal A.H.L"
+          }
+        },
+        {
+          "name": {
+            "family": "Susila",
+            "honourific": null,
+            "lineage": null,
+            "given": "M Dyan"
+          },
+          "id": "mdyan.susila@eng.unila.ac.id"
+        }
+      ],
+      "issn": "p-ISSN: 2301-6663, e-ISSN: 2477-250X",
+      "dir": "disk0\/00\/03\/16\/28",
+      "date": "2020-12",
+      "id_number": "https:\/\/ojs.ummetro.ac.id\/index.php\/turbo\/article\/view\/1295\/pdf"
+    }
+]
+

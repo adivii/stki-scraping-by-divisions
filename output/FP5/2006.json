@@ -1,0 +1,73 @@
+[
+    {
+      "divisions": [
+        "FP5"
+      ],
+      "type": "book",
+      "pages": 210,
+      "date": "2006-09",
+      "dir": "disk0\/00\/03\/72\/49",
+      "creators": [
+        {
+          "id": "indriyanto.1962@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Indriyanto",
+            "given": "."
+          }
+        }
+      ],
+      "datestamp": "2021-12-13 01:33:54",
+      "lastmod": "2021-12-13 01:33:54",
+      "userid": 995,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37249",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 37249,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158152",
+            "rev_number": 1,
+            "docid": 158152,
+            "main": "Indriyanto_Ekologi hutan.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-12-10 17:03:11",
+                  "hash": "c78d6d70ab4861644c53b47fb7deaeb7",
+                  "filename": "Indriyanto_Ekologi hutan.pdf",
+                  "fileid": 426557,
+                  "mime_type": "application\/pdf",
+                  "filesize": 932557,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/426557",
+                  "objectid": 158152
+                }
+            ]
+          }
+      ],
+      "publisher": "PT Bumi Aksara",
+      "ispublished": "pub",
+      "date_type": "published",
+      "isbn": "979-526-253-X",
+      "eprintid": 37249,
+      "abstract": "Hutan sebagai salah satu komunitas biologis memberikan kontribusi terbesar dalam kehidupan.  Aspek-aspek yang terkait dengan ekologi hutan sangat beragam.  Untuk orang-orang yang sangat interest terhadap keberadaan hutan, sudah selayaknya konsep ekologi diterapkan dalam pengelolaan hutan.  Di dalam kajian ilmu kehutanan, ekologi hutan diberikan sebagai salah satu mata kuliah prasyarat untuk Perlindungan Hutan, Manajemen Hutan, Manajemen Hutan Mangrove, dan mata kuliah Sumber Daya Hutan.  Buku di hadapan pembaca ini juga ditujukan untuk memperkaya bahan bacaan dalam bidang ekologi hutan yang sangat diperlukan, baik oleh mahasiswa, khususnya mahasiswa kehutanan, maupun masyarakat yang mencintai lingkungan hidup atau mereka yang bergerak dalam bidang lingkungan hidup.  Selamat membaca.",
+      "subjects": [
+        "SD"
+      ],
+      "status_changed": "2021-12-13 01:33:54",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "place_of_pub": "Jakarta",
+      "rev_number": 7,
+      "title": "EKOLOGI HUTAN"
+    }
+]
+

@@ -1,0 +1,126 @@
+[
+    {
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/xml",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 899,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/798",
+            "format": "archive",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 24425,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-24 19:07:36",
+                  "filename": 139,
+                  "hash": "dfe1f967057f06a5ef90fccb11105d80",
+                  "fileid": 5531,
+                  "mime_type": "application\/xml",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5531",
+                  "objectid": 798
+                }
+            ],
+            "docid": 798,
+            "main": 139
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/899",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Pusat Penelitian Bioteknologi dan Bioindustri Indonesia (PPBBI).",
+        "Pusat Penelitian Bioteknologi dan Bioindustri Indonesia (PPBBI).",
+        "Pusat Penelitian Bioteknologi dan Bioindustri Indonesia (PPBBI).",
+        "Pusat Penelitian Bioteknologi dan Bioindustri Indonesia (PPBBI).",
+        "University of Lampung",
+        "Pusat Penelitian Bioteknologi dan Bioindustri Indonesia (PPBBI)."
+      ],
+      "lastmod": "2016-10-25 01:11:40",
+      "userid": 1078,
+      "datestamp": "2016-10-25 01:11:40",
+      "publication": "Menara Perkebunan",
+      "creators": [
+        {
+          "name": {
+            "given": "D.",
+            "family": "SANTOSO,",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "CHAIDAMSARI",
+            "given": "T."
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "A.",
+            "honourific": null,
+            "family": "BUDIANI",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "H",
+            "lineage": null,
+            "family": "MINARSIH",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Setyo Dwi"
+          },
+          "id": "setyo.dwiutomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Siswanto",
+            "given": "Siswanto"
+          },
+          "id": null
+        }
+      ],
+      "date": 2000,
+      "dir": "disk0\/00\/00\/08\/99",
+      "type": "article",
+      "divisions": [
+        "FP25"
+      ],
+      "official_url": "http:\/\/mp.iribb.org\/index.php\/mpjurnal\/issue\/view\/35\/showToc",
+      "title": "OVEREXPRESSION OF CHITINASE GENE WITH A GC-RICH SYNTHETIC ENHANCER IN TOBACCO PLANT (NICOTIANA TABACUM L.) OVEREKSPRESI GEN KITINASE DENGAN ENHANCER SINTETIS KAYA GC PADA TANAMAN TEMBAKAU (NICOTIANA TABACUM L.)",
+      "rev_number": 11,
+      "volume": 68,
+      "metadata_visibility": "show",
+      "status_changed": "2016-10-25 01:11:40",
+      "eprint_status": "archive",
+      "subjects": [
+        "SB"
+      ],
+      "abstract": "Ringkasan\r\n \r\n\r\nPerakitan tanaman perkebunan toleran terhadap serangan cendawan patogenik  dilakukan dengan mengoverekspresikan gen penyandi kitinase. Untuk itu elemen DNA peningkat ekspresi (enhancer E52) yang berupa oligonukleotida 52 pb dan kaya kandungan basa purin (GC) disisipkan di ujung 5’ konstruk 35S-chi. Penyisipan E52 tersebut dilakukan secara lebih terarah pada situs ganda HindIII-SalI dari MCS pCAMBIA2301. Melalui situs HindIII yang terletak tepat di ujung 3’ E52, konstruk 35S-chi kemudian disambungkan dengan E52 pada pCAMBIA tersebut. Transformasi DNA rekombinan ke dalam sel tembakau dikerjakan melalui perantaraan Agrobacterium tumefaciens LBA4404. Sel tanaman transgenik     diseleksi    dan  diregenrasi dalam media  yang    mengandung  3%  sukrosa, 0,5 mg\/L diregenerasikan pada media   MS   padat  benzilaminopurin   (BAP)  dan  50 mg\/L kanamisin. Pada media ini tunas transgenik    tembakau   mulai   terbentuk    setelah 5 minggu penanaman. Analisis  tingkat aktivitas enzimatis menunjukkan bahwa aktivitas kitinase pada tembakau transgenik 40 hingga 80 kali lebih tinggi daripada non-transgenik. Pengujian hibridisasi protein menggunakan antibodi anti-kitinase, dot blot dan western blot, membuktikan bahwa enhancer tersebut dapat meningkatkan ekspresi transgen chi pada tanaman tembakau.\r\n\r\n\r\n\r\nSummary\r\n \r\n\r\nDevelopment of estate crops tolerant to pathogenic fungi is conducted by overexpressing chi gene. For this purpose, a synthetic enhancer consisting of 52 base pairs and GC-rich was inserted at immediate 5’ end of a 35S-chi cassette. Insertion of the E52 was directed at HindIII-SalI restriction sites of  the pCAMBIA2301 MCS.  With HindIII restriction site located just after the 3’ end of the E52 sequence, the 35S-chi construct was then ligated with the E52 of the pCAMBIA. Transformation of the resulting recombinant DNA into tobacco cells was mediated by Agrobacterium tumefaciens LBA4404. The transgenic cells were selected and regenerated on a solid MS medium supplemented with 3% sucrose, 0.5 mg\/L benzylamino purine (BAP) and 50 mg\/L kanamycin. Tobacco   shoots   were   initiated  after 5 weeks inoculation on the selection media. Enzymatic analysis demonstrated that chitinase activity of transgenic tobacco was 40 to 80 folds higher than that of the control plant. Analysis of  enzymatic activity using hybridization with anti-chitinase antibody indicated that the level of chitinase activity in the transgenic tobacco carrying the enhancer is higher than that  without enhancer. These data suggest that the enhancer improved the expression of chi transgene in tobacco. \r\n\r\n\r\n\r\n\r\nKEYWORDS\r\n\r\nGene expression, recombinant DNA, transgenic tobacc",
+      "eprintid": 899,
+      "date_type": "published"
+    }
+]
+

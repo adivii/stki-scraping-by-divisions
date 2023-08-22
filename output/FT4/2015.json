@@ -1,0 +1,2980 @@
+[
+    {
+      "divisions": [
+        "FT4"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/25\/07",
+      "date": "2015-09-09",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Achintha",
+            "honourific": null,
+            "given": "Mithila"
+          },
+          "id": "Mithila.Achintha@soton.ac.uk"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "ALAMI",
+            "honourific": null,
+            "given": "FIKRI"
+          },
+          "id": "fikri.alami@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Alan",
+            "lineage": null,
+            "family": "Bloodworth",
+            "honourific": null
+          }
+        }
+      ],
+      "pagerange": "34-40",
+      "datestamp": "2017-07-20 08:54:10",
+      "lastmod": "2017-07-20 08:54:10",
+      "userid": 399,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2507",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2507,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 06:48:12",
+                  "hash": "bf11452487b2ef4d757c154af8aecf6b",
+                  "filename": "Conference-Paper2015.pdf",
+                  "fileid": 17354,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1547048,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17354",
+                  "objectid": 2391
+                }
+            ],
+            "main": "Conference-Paper2015.pdf",
+            "docid": 2391,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2391",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "date_type": "published",
+      "event_title": "Proceedings of the 7th Biennial Conference on Advanced Composites In Construction held at St John’s College, University of Cambridge on 9th to 11th September 2015",
+      "eprintid": 2507,
+      "event_location": "University of Cambridge, UK",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "This paper presents preliminary results of an experimental programme that investigated mechanical\r\nproperties of a balanced-symmetric CFRP fabric laminate. Although FRP fabrics have potential to be\r\nformed into efficient reinforcement systems that can enable the development of innovative low\r\nembodied energy concrete structures, very little research on applications of FRP fabrics has been\r\nreported in the literature. In accordance with the classical laminate theory, in a balanced-symmetric\r\nlaminate there is no coupling between in-plane deformation and curvature, nor between in-plane\r\nnormal loading and shear deformation. As a result of the choice of lay-up arrangement the flexural\r\nreinforcement systems in concrete beams can be designed by considering the conventional section\r\nequilibrium analysis.",
+      "status_changed": "2017-07-20 08:54:10",
+      "eprint_status": "archive",
+      "rev_number": 9,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/acic-conference.com\/",
+      "event_dates": "9th to 11th September 2015",
+      "title": "CFRP FABRICS AS INTERNAL REINFORCEMENT IN CONCRETE BEAM"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41329",
+      "ispublished": "pub",
+      "publisher": "DIKTI",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162919",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1298771,
+                  "mime_type": "application\/pdf",
+                  "fileid": 458234,
+                  "hash": "12cc5c4a3440d57a5333d93a0bf9163e",
+                  "filename": "Kontrak Penelitian Hibah Bersaing Baru 2015.pdf",
+                  "mtime": "2022-04-14 02:43:41",
+                  "hash_type": "MD5",
+                  "objectid": 162919,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458234"
+                }
+            ],
+            "main": "Kontrak Penelitian Hibah Bersaing Baru 2015.pdf",
+            "docid": 162919,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41329
+          }
+      ],
+      "datestamp": "2022-04-14 03:14:01",
+      "lastmod": "2022-04-14 03:14:01",
+      "userid": 808,
+      "date": 2015,
+      "dir": "disk0\/00\/04\/13\/29",
+      "creators": [
+        {
+          "id": "lusmelia.afriani@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Afriani",
+            "given": "Lusmeilia"
+          }
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Surat Penugasan Penelitian Hibah Bersaing Baru \"Pemodelan Perkuatan Tanah Dengan Matras Beton Sebagai Perkuatan Jalan Diatas Tanah Lempung dengan Sistem Pengontrolan Microkontroler Arduino Uno\"",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Penelitian Hibah Bersaing Baru 2015",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-14 03:14:01",
+      "date_type": "published",
+      "eprintid": 41329
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1148",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filename": "Setifikat paten-rumah ferosemen.jpg",
+                  "hash": "b28327cd082c0bce8e726007187b34f5",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 06:24:21",
+                  "mime_type": "image\/jpeg",
+                  "fileid": 12795,
+                  "filesize": 175342,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12795",
+                  "objectid": 1688
+                }
+            ],
+            "docid": 1688,
+            "main": "Setifikat paten-rumah ferosemen.jpg",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1688",
+            "rev_number": 1,
+            "format": "image",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1148,
+            "mime_type": "image\/jpeg",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2017-05-29 08:04:03",
+      "userid": 1021,
+      "lastmod": "2017-05-29 08:04:03",
+      "date": "2015-03-31",
+      "dir": "disk0\/00\/00\/11\/48",
+      "id_number": "IDS000001374",
+      "patent_applicant": "S00201000084",
+      "creators": [
+        {
+          "id": "masdar.helmi@eng.unila.ac.id",
+          "name": {
+            "given": "Masdar",
+            "lineage": null,
+            "family": "Helmi",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "type": "patent",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/e-statushki.dgip.go.id\/index.php\/penelusuran\/paten\/S00201000084",
+      "title": "KONSTRUKSI RUMAH DENGAN DINDING PANEL FEROSEMEN\r\nPRACETAK DAN ATAP BAJA RINGAN",
+      "subjects": [
+        "TH"
+      ],
+      "abstract": "Suatu konstruksi rumah yang terdiri dari: bagian dinding dari panel ferosemen pracetak; bagian atap dengan penutup atap berbentuk-pelana berupa lebaran baja ringan tipis tahan karat yang terbentuk menyerupai-genteng; bagian lantai dari bahan mortar ferosemen; sejumlah ruang; dan sejumlah kusen yang mencakup pintu dan jendela yang didesain sesuai dengan kebutuhan dan ditempatkan pada setiap ruang tersebut; dimana panel ferosemen pracetak dari dinding tersebut merupakan suatu dinding tipis beton bertulang yang terbentuk dari baja berdiameter antara 6 sampai 10 mm dengan kawat jala pada bagian dalam dan luar dari baja tersebut sebagai penulangan dan membentuk panel berbentuk-kanal yang dilapis dengan mortal.\r\n\r\n\r\nGambar 1",
+      "status_changed": "2017-05-29 08:04:03",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 1148
+    },
+    {
+      "title": "An Experimental Study on Mitigating Alkali Silica Reaction by\r\nUsing Fly Ash (FA) in Combination with Silica Fume and\r\nExpanded Perlite Powder (EPP)",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 01:19:16",
+      "abstract": "ASR suppression by FA, SF, EPP, FA in combination with SF and EPP were\r\nevaluated by both mortar bar and concrete prism test. Mortar bars were made based on JIS A\r\n1146, meanwhile concrete prism bars were casted in accordance with Rilem AAR-3. Both\r\nspecimens were stored in 40oC 100% R.H. controlled room. Mortar and concrete mixtures used\r\nreactive aggregate in pessimum proportion. The results indicated that FA in combination with\r\nSF and EPP showed smaller expansion compared to FA. The best of concrete mixtures in\r\nreducing expansion is combination of FA with SF (FA15SF10).",
+      "subjects": [
+        "TH"
+      ],
+      "eprintid": 2491,
+      "date_type": "published",
+      "documents": [
+          {
+            "eprintid": 2491,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "matecconf_iconcees2016_01014-1.pdf",
+            "docid": 2367,
+            "files": [
+                {
+                  "filesize": 138639,
+                  "datasetid": "document",
+                  "hash": "340e6611cd96bcf2f476b57438107878",
+                  "filename": "matecconf_iconcees2016_01014-1.pdf",
+                  "mtime": "2017-05-31 06:20:35",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17207,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17207",
+                  "objectid": 2367
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2367"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2491",
+      "userid": 648,
+      "lastmod": "2017-06-02 01:19:16",
+      "datestamp": "2017-06-02 01:19:16",
+      "creators": [
+        {
+          "id": "isneini.m@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Isneini",
+            "lineage": null,
+            "given": "mohd"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "sagawa",
+            "lineage": null,
+            "given": "yasutaka"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "hamada",
+            "honourific": null,
+            "lineage": null,
+            "given": "hidenori"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "daisuke",
+            "lineage": null,
+            "given": "yamamoto"
+          },
+          "id": null
+        }
+      ],
+      "publication": "proceeding of international conference on civil and environmental engineering for sustainabiity  2015 (Icon Cees)",
+      "id_number": 1014,
+      "dir": "disk0\/00\/00\/24\/91",
+      "date": "2015-12",
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ]
+    },
+    {
+      "eprintid": 27892,
+      "event_title": "Pertemuan Ilmiah Tahunan (PIT) XXXI HATHI",
+      "date_type": "published",
+      "title": "PENERAPAN METODE REGIONALISASI DALAM ANALISIS HIDROLOGI DAS WAY SEMAKA UNTUK PEMBUATAN FLOW DURATION CURVE",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "eprint_status": "archive",
+      "status_changed": "2021-02-16 03:56:45",
+      "abstract": "Aliran pada DAS Way Semaka berpotensi untuk dimanfaatkan sebagai pembangkit listrik tenaga air. Metode regionalisasi dipakai dalam analisis hidrologi karena keterbatasan data pada DAS Way Semaka. Langkah pertama dalam analisis hidrologi adalah menghitung Hujan Maksimum Rerata DAS Tahunan, dilanjutkan dengan analisis frekuensi. Berdasarkan nilai intensitas hujan dan koefisien aliran, maka debit puncak DAS dapat dihitung dengan persamaan rasional. Metode regionalisasi dilakukan dengan membandingkan koefisien aliran dan luas DAS. Dengan metode rasional, didapat nilai debit terlalu besar. Nilai debit tersebut tidak dapat digunakan sebagai pembanding nilai debit terukur di lapangan. Hal ini karena waktu konsentrasi DAS Way Semaka lebih besar dibanding durasi hujan. Dari analisis Hidrograf Satuan Terukur, didapatkan bahwa data tanggal 29 September 2012, Phi indeks yang didapat tidak valid, karena nilai phi indeks sebesar 38,77 mm, lebih besar dibanding intensitas hujan kala ulang 2 tahun (sebesar 19,08 mm). Flow Duration Curve (FDC) adalah grafik hubungan antara debit  dan waktu, didapatkan dari pengolahan data debit jam-jaman selama kurun waktu cukup lama. Dari Flow Duration Curve DAS Way Besai dapat diketahui nilai probabilitas Q10%, Q50% dan Q80% untuk DAS Way Semaka sebesar 62,53 m3\/dt, 27,33 m3\/dt dan 15,34m3\/dt sedangkan DAS Way Semuong sebesar 14,77 m3\/dt , 6,45 m3\/dt dan 3,62 m3\/dt.",
+      "subjects": [
+        "TA"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Jokowinarno"
+          },
+          "id": "d.jokowinarno@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sianipar",
+            "honourific": null,
+            "given": "John"
+          },
+          "id": "johnsian1962@yahoo.com"
+        }
+      ],
+      "dir": "disk0\/00\/02\/78\/92",
+      "date": "2015-11-08",
+      "type": "conference_item",
+      "divisions": [
+        "FT4"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 27892,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41873",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248558",
+                  "objectid": 41873,
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-15 09:54:37",
+                  "hash": "e2e0af13b431d4a7dbcffbb1b0a80e34",
+                  "filename": "PENERAPAN METODE REGIONALISASI - Dwi Joko - Rev 2020.pdf",
+                  "fileid": 248558,
+                  "mime_type": "application\/pdf",
+                  "filesize": 832272,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "PENERAPAN METODE REGIONALISASI - Dwi Joko - Rev 2020.pdf",
+            "docid": 41873
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27892",
+      "lastmod": "2021-02-16 03:56:45",
+      "userid": 577,
+      "pagerange": "298-308",
+      "datestamp": "2021-02-16 03:56:45"
+    },
+    {
+      "ispublished": "pub",
+      "publisher": "Elsevier Ltd",
+      "documents": [
+          {
+            "eprintid": 3171,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "2. Paper-ku.pdf",
+            "docid": 3061,
+            "files": [
+                {
+                  "objectid": 3061,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22072",
+                  "datasetid": "document",
+                  "filesize": 591299,
+                  "fileid": 22072,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-06-02 12:21:30",
+                  "hash_type": "MD5",
+                  "hash": "9fc56155526714b7087eb10277ad02f6",
+                  "filename": "2. Paper-ku.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3061"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3171",
+      "refereed": "TRUE",
+      "lastmod": "2017-06-12 04:31:28",
+      "userid": 1015,
+      "pagerange": "452-460",
+      "datestamp": "2017-06-12 04:31:28",
+      "publication": "Procedia Engineering",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhammad",
+            "family": "Karami",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "muhammad.karami@eng,unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hamid",
+            "lineage": null,
+            "family": "Nikraz",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "date": 2015,
+      "dir": "disk0\/00\/00\/31\/71",
+      "contact_email": "muhammad.karami@eng.unila.ac.id",
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ],
+      "title": "Using advanced materials of granular BRA modifier binder to improve the flexural fatigue performance of asphalt mixtures",
+      "official_url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S1877705815034372",
+      "referencetext": "[1]\tA. K. Khiavi and M. Ameri, \"Laboratory evaluation of strain controlled fatigue criteria in hot mix asphalt,\" Construction and Building Materials, vol. 47, pp. 1497-1502, 2013.\r\n[2]\tH. Hakimelahi, S. Saadeh, and J. Harvey, \"Investigation of fracture properties of California asphalt mixtures using semicircular bending and beam fatigue tests,\" Road Materials and Pavement Design, vol. 14, pp. 252-265, 2013.\r\n[3]\tQ. Li, H. J. Lee, and T. W. Kim, \"A simple fatigue performance model of asphalt mixtures based on fracture energy,\" Construction and Building Materials, vol. 27, pp. 605-611, 2012.\r\n[4]\tF. Zhou, X. Hu, S. Hu, L.F. Walubita, and T.Scullion, \"Incorporation of Crack Propagation in the M-E Fatigue Cracking Prediction,\" Road Materials and Pavement Design, vol. 9, pp. 433-465, 2008.\r\n[5]\tP. Baburamani, \"Asphalt fatigue life prediction model - a literature review,\" Victoria - Australia1999.\r\n[6]\tC. G. Vazquez, J.P. Aguiar-Moya, A. de F. Smit, and J.A. Prozzi, \"Laboratory Evaluation of Influence of Operational Tolerance (Acceptance Criterion) on Performance of Hot-Mix Asphalt Concrete,\" Center for Transportation Research The University of Texas, USA, Austin, USA2010.\r\n[7]\tM. Guler, \"Effect of mix design variables on mechanical properties of hot mix asphalt,\" Journal of Transportation Engineering vol. 134, pp. 128-136, 2008.\r\n[8]\tS. S. Awanti, M. S. Amarnath, and A. Veeraragavan, \"Influence of rest periods on fatigue characteristics of SBS polymer modified bituminous concrete mixtures,\" International Journal of Pavement Engineering, vol. 8, pp. 177-186, 2007.\r\n[9]\tC. Brovelli, M. Crispino, J. Pais, and P. Pereira, \"Using polymers to improve the rutting resistance of asphalt concrete,\" Construction and Building Materials, vol. 77, pp. 117-123, 2015.\r\n[10]\tT. W. Kim, J. Baek, H.J. Lee, and J.Y. Choi, \"Fatigue performance evaluation of SBS modified mastic asphalt mixtures,\" Construction and Building Materials, vol. 48, pp. 908-916, 2013.\r\n[11]\tA. Sibal, A. Das, and B. B. Pandey, \"Flexural Fatigue Characteristics of Asphalt Concrete with Crumb Rubber,\" International Journal of Pavement Engineering, vol. 1, pp. 119-132, 2000.\r\n[12]\tK. A. Zamhari, M. Merhadi, and M.H. Ali, \"Comparing the Performance of Granular and Extracted Binder from Buton Rock Asphalt,\" International Journal Pavement Research Technology vol. 7, pp. 25-30, 2014.\r\n[13]\tF. Affandy, \"The performance of bituminous mixes using Indonesia natural asphalt,\" presented at the 25th ARRB Conference, Perth, Western Australia, 2012.\r\n[14]\tB. S. Subagio, B. Siswosoebrotho, and R. Karsaman, \"Development of laboratory performance of indonesia rock asphalt (ASBUTON) in hot rolled asphalt mix,\" in Proceeding of the Eastern Asia Society for Transportation Studies, 2003, pp. 436-449.\r\n[15]\tB. S. Subagio, J. Adwang, R.H. Karsaman, and I. Fahmi, \"Fatigue performance of HRA (hot rolled asphalt) and superpave mixes using Indonesian rock asphalt (asbuton) as fine aggregates and filler,\" Journal of the Eastern Asia Society for Transportation Studies vol. 6, pp. 1207-1216, 2005.\r\n[16]\tAustralian Standard, \"Residual bitumen for pavements,\" in AS 2008-1997, ed. New South Wales, Australia, 1997.\r\n[17]\tMain Roads Western Australia, \"Bitumen content and particle size distribution of asphalt and stabilised soil: centrifuge method,\" in Test method WA 730.1-2011, ed. Perth, 2011, pp. 1-4.\r\n[18]\tH. Silva, J. Pais, P. Pereira, and L. Picardo-Santos \"Evaluation of the bond between mastic and coarse aggregates,\" 3rd International Symposium on Maintenance and Rehabilitation of Pavement and Technological Control, pp. 465–474, 2003.\r\n[19]\tMain Road Western Australia, \"Asphalt Wearing Course,\" in Specification 504, ed. Perth, 2010, pp. 1-45.\r\n[20]\tAustralian Standard, \"Methods of sampling and testing asphalt - Method 1.1: Sampling loose asphalt,\" in AS 2891.1.1-2008, ed. New South Wales, Australia, 2008, pp. 1-12.\r\n[21]\tAustroads, \"Sample preparation - compaction of asphalt slabs suitable for characterisation,\" in AG:PT\/T220, ed. Sydney, New South Wales 2005, pp. 1-11.\r\n[22]\tAustroads, \"Fatigue life of compacted bituminous mixes subject to repeated flexural bending,\" in AG:PT\/T233, ed. Sydney, New South Wales, 2006, pp. 1-17.\r\n[23]\tG. Al-Khateeb, and A. Shenoy, \"A distinctive fatigue failure criterion,\" Association of Asphalt Paving Technology, vol. 73, pp. 585-622, 2004.\r\n[24]\tS. Shen, and S.H. Carpenter, \"Dissipated energy concepts for HMA performance: fatigue and healing,\" Departmen of Civil and Environmental Engineering - University of Illinois, Urbana, Illinois - USA2007.\r\n[25]\tF. Pérez-Jiménez, R. Miró, A. Martínez, R. Botella, O. Reyes, G. Valdés, \"False Failure in Flexural Fatigue Tests,\" 2nd Workshop on Four Point Bending, Pais (ed.), University of Minho, 2009.\r\n[26]\tG. Dondi, M. Pettinari, C. Sangiorgi, and S.E. Zoorob, \"Traditional and Dissipated Energy approaches to compare the 2PB and 4PB flexural methodologies on a Warm Mix Asphalt,\" Construction and Building Materials, vol. 47, pp. 833-839, 2013.\r\n[27]\tM. M. Yuan, Z.X. Ning, C.W. Qiang, and Z.S. Xian, \"Ratio of Dissipated Energy Change-based Failure Criteria of Asphalt Mixtures,\" Research Journal of Applied Sciences, Engineering and Technology, vol. 6, pp. 514-2519, 2013.\r\n[28]\tW. S. Mogawer, A.J. Austerman, J.S. Daniel, F. Zhou, and T. Bennert, \"Evaluation of the effects of hot mix asphalt density on mixture fatigue performance, rutting performance and MEPDG distress predictions,\" International Journal of Pavement Engineering, vol. 12, pp. 161-175, 2011.\r\n[29]\tM. Abojaradeh, \"Development of Fatigue Failure Criterion for Hot-Mix Asphalt Based on Dissipated Energy and Stiffness Ratio,\" Jordan Journal of Civil Engineering, vol. 7, 2013.\r\n[30]\tP. K. Shukla and A. Das, \"A re-visit to the development of fatigue and rutting equations used for asphalt pavement design,\" International Journal of Pavement Engineering, vol. 9, pp. 355-364, 2008.\r\n[31]\tN. Li, A.A.A Molenaar, M.F.C. van de Ven, and S. Wu, \"Characterization of fatigue performance of asphalt mixture using a new fatigue analysis approach,\" Construction and Building Materials, vol. 45, pp. 45-52, 2013.\r\n[32]\tP. A. A. Pereira, J. R. M. Oliveira, and L. G. Picado-Santos, \"Mechanical Characterisation of Hot Mix Recycled Materials,\" International Journal of Pavement Engineering, vol. 5, pp. 211-220, 2004.",
+      "rev_number": 6,
+      "volume": 125,
+      "metadata_visibility": "show",
+      "status_changed": "2017-06-12 04:31:28",
+      "eprint_status": "archive",
+      "subjects": [
+        "TE"
+      ],
+      "abstract": "The objective of this research is to determine the effect on the flexural fatigue performance of asphalt mixtures of using granular Buton rock asphalt (BRA) modifier binder. A repeated flexural bending test under the controlled-strain mode of loading in accordance with Austroads AG:PT\/T233 test method was conducted to examine fatigue behaviour of the BRA modified asphalt mixtures and the unmodified asphalt mixtures (as control mixtures) for a dense grading of 10 mm. Beam specimens were tested at the temperatures of 20°C and three different peak tensile strain (400, 600 and 800 µε) and used classical and energy-stiffness ratio approach to analyse fatigue life of the asphalt mixtures. According to the test results, the fatigue lifes of the BRA modified asphalt mixtures were higher than that for the unmodified asphalt mixtures at the test temperature and tensile strain. Moreover, based on the initial flexure stiffness and phase angle values, BRA modified asphalt mixtures showed more elastic and less viscous behaviour than unmodified mixtures.",
+      "eprintid": 3171,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 3216,
+      "place_of_pub": "Hongkong",
+      "official_url": "http:\/\/www.crcnetbase.com\/isbn\/9781315690490",
+      "abstract": "This study is aimed to evaluate the effect of using a granular Buton Rock Asphalt (BRA) modifier binder for improving the stiffness modulus performance of asphalt mixtures. The stiffness moduli of BRA modified asphalt mixtures and unmodified asphalt mixtures (as control mixtures) for a dense grading of 10 mm were determined using an Indirect Tensile Stiffness Modulus (ITSM) test at five different temperatures (5, 15, 25, 40, and 60ºC), three different rise times (40, 60, and 80 ms), and three pulse repetition periods (1000, 2000, and 3000 ms). Results from this study indicated that stiffness moduli for BRA modified asphalt mixtures were higher than that for control mixtures at any test temperature, rise time, and pulse repetition period. The change in temperature is the biggest influence on changing the stiffness modulus compared to the change in rise time and the pulse repetition period for both asphalt mixtures.",
+      "subjects": [
+        "TE"
+      ],
+      "eprint_status": "archive",
+      "pages": 476,
+      "date": 2015,
+      "divisions": [
+        "FT4"
+      ],
+      "book_title": "Advanced in Civil Engineering and Building Materials IV",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Chang",
+            "given": "Shuenn-Yih"
+          }
+        },
+        {
+          "name": {
+            "given": "Suad Khalid",
+            "lineage": null,
+            "family": "Al-Bahar",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Husain",
+            "honourific": null,
+            "lineage": null,
+            "given": "Adel Abdulmajeed M"
+          }
+        },
+        {
+          "name": {
+            "given": "Jingying",
+            "family": "Zhao",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "publisher": "CRC Press\/Balkema",
+      "ispublished": "pub",
+      "datestamp": "2017-06-12 04:25:58",
+      "lastmod": "2017-06-12 04:25:58",
+      "isbn": "978-1-138-00088-9",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "referencetext": "Affandi F. 2012. The performance of bituminous mixes using Indonesia natural asphalt. 25th\tARRB Conference, Perth, Australia: 1-12.\r\nAhmedzade P. & Sengoz B. 2009. Evaluation of steel slag coarse aggregate in hot mix \tasphalt concrete. Journal of Hazardous Materials 165:300-305.\r\nHartman A.M, Gilchrist M.D. & Walsh G. 2001. Effect of mix-ture compaction on indirect \ttensile stiffness and fatigue. Journal of Transportation Engineering (127) 5:370-\t378.\r\nMain Roads Western Australia (MRWA) \tstandards. 2010. Specification 504 Asphalt Wearing Course: 1-45.\r\nMain Roads Western Australia (MRWA) \tstandards. 2011.\r\n\tWA 730.1-2011: Bitumen Content and Particle Size Distri-bution of Asphalt and \tStabilised Soil-Centrifuge Method: 1-4.\r\nMokhtari A & Nejad F.M. 2012. Mechanistic approach for fi-ber and polymer modified SMA \tmixtures. Journal of Construction and Building Materials 36:381-390.\r\nSilva H, Pais J, Pereira P. & Picardo-Santos L. 2003. Evalua-tion of the bond between mastic \tand coarse aggregates. 3rd International Symposium on Maintenance and Rehabilitation \tof Pavement and Technological Control, Guimaras, Portugal:465-474.\r\nStandards Australia. 2008. AS 2008-Residual Bitumen for Pavements.\r\nStandard Australia. 1995. AS 2891.2.2-1995: Method of Sam-pling and Testing Asphalt-Sample Preparation-\tCompaction of Asphalt Test Specimens Using a Gyratory Compactor:1-8.\r\nStandard Australia. 1995. AS 2891.13.1-1995: Methods of sampling and testing asphalt-Method 13.1: \tDetermination of resilient modulus of asphalt-Indirect tensile method: 1-8.\r\nSubagio B.S, Siswosoebrotho B.I. & Karsaman R.H. 2003. Development of laboratory \tperformance of Indonesian rock asphalt (Asbuton) in hot rolled asphalt mix.\t Proceed-ings of the Eastern Asia Society for Transportation Studies  4:436-449.\r\nSubagio B.S, Karsaman R.H, Adwang J. & Fahmi I. 2005. Fa-tigue performance of HRA (hot \trolled asphalt) and super-pave mixes using Indonesian rock asphalt (asbuton) as fine aggregates and filler. Journal of the Eastern Asia Society for Transportation Studies 6:1207-1216.\r\nTayfur S, Ozen H. & Aksoy A. 2007. Investigation of rutting performance of asphalt mixtures containing polymer modi-fiers. Journal of Construction and Building Materials 21:328-337.\r\nWang H, Al-Qadi I.L, Faheem A.F, Bahia H.U, Yang S.H. & Reinke G.H. 2011. Effect of \tmineral filler characteris-ticson asphalt mastic and mixture rutting potential. In Transportation Research Record: Journal of the Transpor-tation Research Board 2208:33-39.\r\nYilmaz, M. & Celoglu, M.E. 2013. Effects of SBS and different natural asphalts on the properties of bituminous binders and mixtures. Journal of construction and Building Materials 44:533-540.",
+      "title": "The effect of granular BRA modifier binder on the stiffness modulus of modified asphalt",
+      "status_changed": "2017-06-12 04:25:58",
+      "dir": "disk0\/00\/00\/32\/16",
+      "creators": [
+        {
+          "id": "muhammad.karami@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Karami",
+            "lineage": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "given": "Hamid",
+            "honourific": null,
+            "family": "Nikraz",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "contact_email": "muhammad.karami@eng.unila.ac.id",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3216",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3216,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3463391,
+                  "mime_type": "application\/pdf",
+                  "fileid": 22376,
+                  "hash": "64109117cc05d6e5e562405cec81914d",
+                  "filename": "MKarami-Full Paper.pdf",
+                  "mtime": "2017-06-02 23:26:30",
+                  "hash_type": "MD5",
+                  "objectid": 3104,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22376"
+                }
+            ],
+            "main": "MKarami-Full Paper.pdf",
+            "docid": 3104,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3104",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "pagerange": "345-349",
+      "userid": 1015
+    },
+    {
+      "pagerange": "191-201",
+      "userid": 491,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49979",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189668",
+            "docid": 189668,
+            "main": "prosiding hathi ke 32 az 2015.pdf",
+            "files": [
+                {
+                  "objectid": 189668,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540866",
+                  "fileid": 540866,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-09 10:52:02",
+                  "hash_type": "MD5",
+                  "filename": "prosiding hathi ke 32 az 2015.pdf",
+                  "hash": "d3089bc3b2c522fbddb44137e6ef76f9",
+                  "datasetid": "document",
+                  "filesize": 900335
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49979,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pres_type": "paper",
+      "keywords": "FFT, persamaan Fourier, autoregressif, debit aliran",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "dir": "disk0_bak\/00\/04\/99\/79",
+      "creators": [
+        {
+          "id": "kurniawan_eka11@yahoo.com",
+          "name": {
+            "given": "Eka",
+            "honourific": null,
+            "family": "Kurniawan",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Zakaria",
+            "given": "Ahmad"
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "status_changed": "2023-04-10 00:58:12",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Pemodelan Periodik Stokastik Debit Sungai Seputih Segalamider dari PDA 138 Kabupaten Lampung Tengah Provinsi Lampung",
+      "referencetext": "Cooley, James W. Tukey, John W., 1965. An Algorithm for the machine\r\ncalculation of Complex Fourier Series, Mathematics of Computation, Vol 19\r\n(90): 297–301.\r\nKottegoda, N. T., 1980. Stochastic Water Resources Technology, halaman 384,\r\nThe Macmillan Press, London.\r\nRizalihadi, M., 2002. The generation of synthetic sequences of monthly rainfall\r\nusing autoregressive model, Jurnal Teknik Sipil Universitas Syah Kuala,\r\nVol. 1 (2): 64-68.\r\nZakaria, A., 2003. Numerical Modelling of Wave Propagation Using Higher\r\nOrder Finite Difference Formulas, Thesis (Doktor), Curtin University of\r\nTechnology, 247 halaman.\r\nBhakar, S.R., Singh, Raj Vir, Chhajed, Neeraj, and Bansal, Anil Kumar. 2006.\r\nStochastic modeling of monthly rainfall at kota region. ARPN Journal of\r\nEngineering and Applied Sciences, Vol.1(3): 36-44.\r\nZakaria, A., 2008. The generation of synthetic sequences of monthly cumulative\r\nrainfall using FFT and least squares method. Prosiding Seminar Hasil\r\nPenelitian & Pengabdian kepada masyarakat, Universitas Lampung, Vol. 1:\r\n1-15.\r\nZakaria, A., 2010a. A study periodic modeling of daily rainfall at Purajaya region.\r\nSeminar Nasional Sain & Teknologi III, Lampung University, Vol. 3: 1-15.\r\nZakaria, A., 2010b. Studi pemodelan stokastik curah hujan harian dari data curah\r\nhujan stasiun Purajaya. Seminar Nasional Sain Mipa dan Aplikasinya,\r\nLampung University, Vol. 2: 145-155.",
+      "datestamp": "2023-04-10 00:58:12",
+      "lastmod": "2023-04-10 00:58:12",
+      "ispublished": "pub",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "conference_item",
+      "date": "2015-11-06",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Tujuan dari penelitian ini adalah untuk mempelajari model periodik stokastik\r\ndebit air harian sungai Seputih Segala Mider dari Pos Duga Air (PDA) 138,\r\nKabupaten Lampung Tengah Profinsi Lampung. Studi ini dilakukan dengan\r\nmenggunakan data debit harian sungai Seputih Segala Mider dengan panjang 1\r\ntahun (2011) dari PDA 138 Kabupaten Lampung Tengah Profinsi Lampung.\r\nPemodelan ini dilakukan dengan menggunakan panjang data 512 hari. Dengan\r\nmengaplikasikan FFT dihasilkan 253 frekuensi debit harian. Dengan\r\nmenggunakan 253 frekuensi dan dengan menggunakan persamaan Fourier dan\r\nmetode kuadrat terkecil, dapat dihasilkan model periodik debit aliran sungai.\r\nSelisih debit terukur dan model periodik merupakan residu, dengan menggunakan\r\nmodel autoregressif order 3, residu ini dimodelkan sebagai model stokastik. Dari\r\nhasil penelitian ini didapat bahwa model periodik debit harian sungai Seputih\r\nSegala Mider yang dihasilkan mempunyai korelasi sebesar 0,6995 sedangkan\r\nkoefisien korelasi model periodik stokastik debit aliran yang dihasilkan dapat\r\nmencapai 0,99895.",
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "official_url": "http:\/\/www.hathi-pusat.org\/",
+      "event_dates": "6-8 November 2015",
+      "date_type": "published",
+      "event_title": "Pertemuan llmiah Tahunan PIT HATHI XXXII. Malang,  6 - 8 Nopember 2015",
+      "eprintid": 49979,
+      "event_location": "Malang"
+    },
+    {
+      "datestamp": "2019-08-01 07:23:15",
+      "pagerange": "57-70",
+      "userid": 354,
+      "lastmod": "2019-08-01 07:23:15",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13301",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116609",
+                  "objectid": 26302,
+                  "filesize": 146349,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-26 08:00:22",
+                  "hash": "c09314264b049a7b51f40dea54219014",
+                  "filename": "makalah 4.pdf",
+                  "fileid": 116609,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "makalah 4.pdf",
+            "docid": 26302,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26302",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13301,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Jurusan Teknik Sipil Universitas Lampung",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "date": "2015-03",
+      "dir": "disk0\/00\/01\/33\/01",
+      "publication": "Jurnal Rekayasa Sipil dan Desain (JRSDD)",
+      "issn": "2303-0011",
+      "creators": [
+        {
+          "name": {
+            "given": "Devianti",
+            "lineage": null,
+            "family": "Muziansyah",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "sulistyorini",
+            "lineage": null,
+            "given": "rahayu"
+          },
+          "id": "sulistyorini.smd@gmail.com"
+        },
+        {
+          "name": {
+            "given": "syukur",
+            "lineage": null,
+            "honourific": null,
+            "family": "sebayang"
+          },
+          "id": null
+        }
+      ],
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Terminal Pasar Bawah Ramayana yang berada di pusat Kota Bandar Lampung merupakan salah\r\nsatu tempat penyumbang terbesar kadar emisi gas buang, dimana aktivitas transportasi mobil\r\nangkutan yang sangat tinggi. Transportasi merupakan salah satu kegiatan yang berkontribusi\r\nsebagai penghasil emisi gas buang kendaraan bermotor baik yang berbahan bakar bensin maupun\r\nsolar.\r\nPenelitian ini bertujuan untuk membuat model hubungan antara emisi gas buang kendaraan dengan\r\naktivitas transportasi, menentukan faktor-faktor yang mempengaruhi emisi, menghitung besar\r\nemisi, dan menghitung kerugian emisi dalam rupiah per tahun di Terminal Pasar Bawah Ramayana\r\nKota Bandar Lampung.\r\nModel hubungan didapat dari persamaan regresi linier berganda dengan menggunakan program\r\nSPSS 16 untuk mobil penumpang solar adalah Y = -19,401 + 0,684 X1 + 11,497 X2 + 0,031 X3\r\ndan untuk mobil penumpang bensin adalah Y = 20,060 + 0,143 X1 + 0,421 X2 + 0,028 X3\r\nsedangkan untuk sepeda motor adalah Y = 9,049 + 0,082 X1 + 0,921 X2 + 0,051 X3. Dimana nilai\r\nemisi gas buang (Y), umur kendaraan (X1), perawatan kendaraan (X2) dan kapasitas mesin (X3).\r\nBerdasarkan survei dan analisis perhitungan beban emisi serta biaya kerugian untuk Terminal\r\nPasar Bawah Ramayana sebesar Rp 63.492.632\/tahun.",
+      "status_changed": "2019-08-01 07:23:15",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "title": "Model Emisi Gas Buangan Kendaraan Bermotor Akibat Aktivitas\r\nTransportasi (Studi Kasus: Terminal Pasar Bawah Ramayana Kota Bandar Lampung)",
+      "date_type": "published",
+      "eprintid": 13301
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ],
+      "publication": "Jurnal Rekayasa Sipil Dan Disain (JRSDD)",
+      "creators": [
+        {
+          "name": {
+            "given": "Syahreza",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nurdian"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Setyanto",
+            "honourific": null,
+            "given": "Setyanto"
+          },
+          "id": "setyanto@eng.unila.ac.id"
+        },
+        {
+          "id": "lusmelia.afriani@eng.unila.ac.id",
+          "name": {
+            "family": "Afriani",
+            "honourific": null,
+            "lineage": null,
+            "given": "Lusmeilia"
+          }
+        }
+      ],
+      "issn": "P-ISSN: 2303-0011 (Print); E-ISSN: 2715-0690 (Online)",
+      "date": "2015-03",
+      "dir": "disk0\/00\/04\/12\/30",
+      "lastmod": "2022-04-13 02:30:56",
+      "userid": 808,
+      "datestamp": "2022-04-12 01:22:33",
+      "pagerange": "13-26",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Jurusan Teknik Sipil Universitas Lampung",
+      "documents": [
+          {
+            "docid": 162893,
+            "main": "7. Dok Lengkap_Korelasi Parameter Kekuatan Geser Tanah dengan Menggunakan Uji Triaksial dan Uji Geser Langsung.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458031",
+                  "objectid": 162893,
+                  "filesize": 1020568,
+                  "datasetid": "document",
+                  "hash": "6fd14f9557b59446e191e2f00cd2919b",
+                  "filename": "7. Dok Lengkap_Korelasi Parameter Kekuatan Geser Tanah dengan Menggunakan Uji Triaksial dan Uji Geser Langsung.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-13 02:30:56",
+                  "mime_type": "application\/pdf",
+                  "fileid": 458031
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162893",
+            "eprintid": 41230,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41230",
+      "refereed": "TRUE",
+      "eprintid": 41230,
+      "date_type": "published",
+      "status_changed": "2022-04-12 01:22:33",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "This study aims to get  the relationship (correlation) between the shear strength parameters\r\nobtained from unconsolidated undrained triaxial test and direct shear test. The test results were\r\nanalyzed  using  multiple  linear  regression  analysis  between  the  results  of  unconsolidated\r\nundrained triaxial tests, the results of direct shear test, and physical properties of the soil mixture\r\nto obtain a simple equation to estimate the shear strength parameters based on the results of\r\nunconsolidated undrained triaxial test, results of direct shear test, and physical properties of the\r\nmixed soil.\r\nBy using multiple linear regression analysis, correlation shear strength parameters (c and )ϕ\r\nbetween the results of triaxial, direct shear test, and physical properties of soil tests is obtained.\r\nThe Cohesion value of triaxial test results are bigger 1.1 to 1.3 kg\/cm2 than the value of cohesion\r\ndirect shear test for wet conditions with an average difference of 1,26kg \/cm2 and 0.7 – 0,9kg\/cm2\r\nfor dry conditions with average differences 0,892kg\/cm2. While the value of the angle of internal\r\nfriction of  direct  shear test  results for wet  conditions are bigger 24\r\no\r\n - 42\r\no\r\n than the angle of\r\ninternal friction of triaxial test with average differences 35,138\r\no\r\n and for dry conditions is bigger\r\n1,7-19,7\r\no\r\n than the angle of internal friction of triaxial test with an average difference of 11,56\r\nKeywords: triaxial, direct shear, correlation, shear strength",
+      "title": "KORELASI PARAMETER KEKUATAN GESER TANAH DENGAN MENGGUNAKAN UJI TRIAKSIAL DAN UJI GESER LANGSUNG PADA TANAH LEMPUNG SUBSTITUSI PASIR",
+      "rev_number": 7,
+      "volume": 3,
+      "metadata_visibility": "show"
+    },
+    {
+      "eprintid": 38379,
+      "date_type": "published",
+      "title": "Korelasi Parameter Kekuatan Geser Tanah dengan Menggunakan Uji Triaksial dan Uji Geser Langsung Pada Tanah Lempung Substitusi Pasir",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2022-01-26 06:21:37",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Similarity Cek",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nurdian",
+            "honourific": null,
+            "given": "Syahreza"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Setyanto",
+            "lineage": null,
+            "family": "Setyanto",
+            "honourific": null
+          },
+          "id": "setyanto@eng.unila.ac.id"
+        },
+        {
+          "id": "lusmelia.afriani@eng.unila.ac.id",
+          "name": {
+            "given": "Lusmeilia",
+            "lineage": null,
+            "family": "Afriani",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/83\/79",
+      "date": "2015-03",
+      "type": "other",
+      "divisions": [
+        "FT4"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159475",
+            "rev_number": 1,
+            "main": "Plagiarisme_Jurnal Tidak terakreditasi (4)_Korelasi Parameter Kekuatan Geser Tanah dengan Menggunakan Uji Triaksial dan Uji Geser Langsung Pada Tanah Lempung Substitusi Pasir.pdf",
+            "docid": 159475,
+            "files": [
+                {
+                  "objectid": 159475,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/435074",
+                  "datasetid": "document",
+                  "filesize": 2534180,
+                  "mime_type": "application\/pdf",
+                  "fileid": 435074,
+                  "filename": "Plagiarisme_Jurnal Tidak terakreditasi (4)_Korelasi Parameter Kekuatan Geser Tanah dengan Menggunakan Uji Triaksial dan Uji Geser Langsung Pada Tanah Lempung Substitusi Pasir.pdf",
+                  "hash": "c6b630ab9d382917ae97abdaa6a6c6d0",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-26 05:02:30"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 38379,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "JRSDD",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38379",
+      "userid": 808,
+      "lastmod": "2022-01-26 06:21:37",
+      "datestamp": "2022-01-26 06:21:37"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null,
+            "given": "Aleksander"
+          },
+          "id": "aleksander.purba@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Journal of the Eastern Asia Society for Transportation Studies",
+      "date": 2015,
+      "dir": "disk0\/00\/04\/69\/32",
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46932,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185873",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 439751,
+                  "datasetid": "document",
+                  "mtime": "2022-11-26 09:29:13",
+                  "hash_type": "MD5",
+                  "hash": "2b540f220637e1e17a1ae38909fd99a4",
+                  "filename": "Evaluating TransJogja Service Quality...turnitin result.pdf",
+                  "fileid": 516137,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/516137",
+                  "objectid": 185873
+                }
+            ],
+            "docid": 185873,
+            "main": "Evaluating TransJogja Service Quality...turnitin result.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46932",
+      "full_text_status": "public",
+      "userid": 392,
+      "lastmod": "2022-11-28 02:14:21",
+      "datestamp": "2022-11-28 02:14:21",
+      "pagerange": "1173-1187",
+      "eprintid": 46932,
+      "date_type": "published",
+      "title": "Similarity Check: Turnitin Evaluating TransJogja Service Quality based on User Perceptions and Expectations",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 11,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-28 02:14:21",
+      "abstract": "To tackle the increased motorization, Ministry of Transportation (MoT) of Indonesia has promoted pilot cities for land transport improvement. Unfortunately, TransJogja\r\nas a new transit system has failed to encourage number of passengers in spite of the increasing of travel demand from population growth as its service quality has continually declined after over five years of operations. This research provides a comprehensive tool for measuring the overall transit service quality, named Heterogeneous Customer Satisfaction Index (HCSI), by considering different service aspects. To measure TransJogja service quality, users completed information about 8 service aspects which consists of overall 27 service attributes. The value of HCSI is 7.22 out of 10 indicating that the service delivered is about 72 percent successful in satisfying TransJogja customers. More efforts are needed to increase the level of customer\r\nsatisfaction and attract new users to establish TransJogja as an appropriate transit system within the city.",
+      "subjects": [
+        "TA"
+      ]
+    },
+    {
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "date": "2015-09",
+      "dir": "disk0\/00\/00\/32\/73",
+      "creators": [
+        {
+          "name": {
+            "given": "Aleksander",
+            "family": "Purba",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "aleksander.purba@eng.unila.ac.id"
+        },
+        {
+          "id": "f-naka@ynu.ac.jp",
+          "name": {
+            "given": "Fumihiko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nakamura"
+          }
+        },
+        {
+          "id": "stanaka@ynu.ac.id",
+          "name": {
+            "family": "Tanaka",
+            "honourific": null,
+            "lineage": null,
+            "given": "Shinji"
+          }
+        }
+      ],
+      "publication": "Journal of JSCE, Ser. D3 (Infrastructure Planning and Management)",
+      "pagerange": "1-9",
+      "datestamp": "2017-06-12 04:11:27",
+      "userid": 392,
+      "lastmod": "2017-06-12 04:11:27",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3273",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 3273,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3177",
+            "docid": 3177,
+            "main": "AN ASSESSMENT OF TRANSPORT POLICY FOR TOURISM CITY.pdf",
+            "files": [
+                {
+                  "objectid": 3177,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22811",
+                  "datasetid": "document",
+                  "filesize": 995740,
+                  "fileid": 22811,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-06-03 09:22:35",
+                  "hash_type": "MD5",
+                  "hash": "12cf95ac544fa69e1dc534a1cfb804ba",
+                  "filename": "AN ASSESSMENT OF TRANSPORT POLICY FOR TOURISM CITY.pdf"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 5,
+      "date_type": "published",
+      "eprintid": 3273,
+      "abstract": "The Jogjakarta economy is largely dependent on education and tourism industry. The emerging dominance of private transport has reached to a degrading traffic conditions.  Severe traffic congestions and high level of air pollution have been affecting the attractiveness of Jogjakarta, a popular tourism city in Indonesia.  Unless a new approach of urban transport system development, it is feared that the amount of visitors will keep declining and hence affecting the city economy. From the awareness of the increasingly complex issues, the Ministry of Transportation of Indonesia enacted a decree No 51 of 2007 promoting pilot cities for land transport improvement. This paper originally examines the existing transport policy framework before and after new transit, TransJogja, implementation. The impact of service quality policies on visitor’s willingness to take trip by transit is then investigated by using SEM model. From organizational structure point of view, there are only two institutions in terms of urban public transport management at city level, i.e. the city government as the regulator and operators as the service provider. There is no direct relation between the two institutions that can be used to develop the system and to encourage the number of passengers. More than two years after TransJogja was launched, the Cities Development Initiative for Asia (CDIA) was appointed to undertake a review of the urban transport plans for Jogjakarta and the surrounding urban area, however, over three years later the provincial, city and regency governments are in complete support of the strategy of the conducted research and in particular the improvements proposed. According to SEM results, rather than TranJogja service quality, , the information and English guidance factor is the main consideration for the foreign users to travel by the transit.",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2017-06-12 04:11:27",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 71,
+      "title": "AN ASSESSMENT OF TRANSPORT POLICY FOR TOURISM CITY —CASE STUDY: FOREIGN USERS SATISFACTION OF TRANSJOGJA—"
+    },
+    {
+      "lastmod": "2017-06-12 04:11:15",
+      "userid": 392,
+      "datestamp": "2017-06-12 04:11:15",
+      "pagerange": "1-12",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 3274,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 3178,
+            "main": "Evaluating TransJogja Service Quality based on User Perceptions and Expectations.pdf",
+            "files": [
+                {
+                  "objectid": 3178,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22817",
+                  "datasetid": "document",
+                  "filesize": 508280,
+                  "mime_type": "application\/pdf",
+                  "fileid": 22817,
+                  "hash": "c3d544462a6a2a5ebb752660e12dfe4f",
+                  "filename": "Evaluating TransJogja Service Quality based on User Perceptions and Expectations.pdf",
+                  "mtime": "2017-06-03 09:32:14",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3178"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3274",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ],
+      "publication": "Journal of EASTS",
+      "creators": [
+        {
+          "id": "aleksander.purba@eng.unila.ac.id",
+          "name": {
+            "given": "Aleksander",
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fumihiko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nakamura"
+          },
+          "id": "f-naka@ynu.ac.jp"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Tanaka",
+            "lineage": null,
+            "given": "Shinji"
+          },
+          "id": "stanaka@ynu.ac.jp"
+        }
+      ],
+      "date": 2015,
+      "dir": "disk0\/00\/00\/32\/74",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 04:11:15",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "To tackle the increased motorization, Ministry of Transportation (MoT) of Indonesia has promoted pilot cities for land transport improvement. Unfortunately, TransJogja as a new transit system has failed to encourage number of passengers in spite of the increasing of travel demand from population growth as its service quality has continually declined after over five years of operations. This research provides a comprehensive tool for measuring the overall transit service quality, named Heterogeneous Customer Satisfaction Index (HCSI), by considering different service aspects. To measure TransJogja service quality, users completed information about 8 service aspects which consists of overall 27 service attributes. The value of HCSI is 7.22 out of 10 indicating that the service delivered is about 72 percent successful in satisfying TransJogja customers. More efforts are needed to increase the level of customer satisfaction and attract new users to establish TransJogja as an appropriate transit system within the city.",
+      "title": "Evaluating TransJogja Service Quality based on User Perceptions and Expectations",
+      "rev_number": 8,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "eprintid": 3274,
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FT4"
+      ],
+      "keywords": "Financial losses, Traffic Jam, Value of Time, Accidents, Fuel Consumption, Pollution",
+      "type": "conference_item",
+      "dir": "disk0\/00\/02\/78\/94",
+      "date": "2015-01-12",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rahayu",
+            "honourific": null,
+            "given": "Sulistyorini"
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2021-02-16 03:56:47",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2021-02-16 03:56:47",
+      "userid": 354,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27894",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 41875,
+            "main": "Isi.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 248576,
+                  "filename": "Isi.pdf",
+                  "hash": "ca4d40ea26b4f8e49c94d8d41e41fef3",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-15 10:26:04",
+                  "datasetid": "document",
+                  "filesize": 10007846,
+                  "objectid": 41875,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248576"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41875",
+            "rev_number": 1,
+            "eprintid": 27894,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41876",
+            "rev_number": 1,
+            "main": "Judul WSEAS 2015.pdf",
+            "docid": 41876,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248578",
+                  "objectid": 41876,
+                  "filesize": 1043409,
+                  "datasetid": "document",
+                  "hash": "e190b603a75355827c6bff66e15bf81a",
+                  "filename": "Judul WSEAS 2015.pdf",
+                  "mtime": "2021-02-15 10:26:21",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 248578
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 27894,
+            "security": "public",
+            "placement": 2
+          },
+          {
+            "security": "public",
+            "placement": 3,
+            "eprintid": 27894,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248580",
+                  "objectid": 41877,
+                  "mtime": "2021-02-15 10:26:27",
+                  "hash_type": "MD5",
+                  "filename": "Daf Isi WSEAS 2015.pdf",
+                  "hash": "eff6722918f55e523c7c8ff7faca4420",
+                  "fileid": 248580,
+                  "mime_type": "application\/pdf",
+                  "filesize": 591621,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 41877,
+            "main": "Daf Isi WSEAS 2015.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41877",
+            "format": "text",
+            "pos": 3
+          }
+      ],
+      "pres_type": "paper",
+      "date_type": "published",
+      "event_title": "Advances in Environmental Science and Energy Planning",
+      "eprintid": 27894,
+      "event_location": "Tenefire, Canary Islands, Spain",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Traffic jam caused financial losses when viewed from the value of time, accidents and pollution. This study try to calculate the financial losses cause of three factors above. The cost of accidents viewed from treatment costs from 5 hospitals as a sample and lost productivity charges. In one year with 65 mortality accident, 105 mayor accident and 523 minor accident, totally accident cost is Rp 50,8 billion. Financial losses due to value of time as an impact of traffic jam is Rp. 2,1 billion per year. Total cost looses caused by pollution within 1 year due to traffic volume on two main roads along 9.1 km as a sample in CBD area of Bandar Lampung is Rp. 169 Billion. We can imagine if the calculation of time, fuel consumption and pollution which is large enough, represent the importance of implementing traffic management in Bandar Lampung.",
+      "status_changed": "2021-02-16 03:56:47",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/www.wseas.org"
+        }
+      ],
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.wseas.org\/cms.action?id=8630",
+      "title": "How Much Money Will Looses Cause of Accident and Traffic Jam in Bandar Lampung Indonesia",
+      "event_dates": "10-12 January 2015"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 27147,
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Akibat adanya pengembangan perumahan di Bandar Lampung yang demikian pesatnya,\r\nkhususnya di Perumahan Bhayangkara, Kelurahan Beringin Jaya, Kecamatan Kemiling. Proses\r\npenyerapan air ke dalam tanah tidak berlangsung dengan baik. Limpasan air hujan yang jatuh\r\nlangsung mengalir ke saluran drainase. Sumur resapan berfungsi sebagai tempat menampung air\r\nhujan sementara yang jatuh di atas atap rumah, kemudian air hujan tersebut akan diserap oleh\r\ntanah. Pada penelitian ini menentukan nilai koefisien permeabilitas yang didapat dengan alat yang\r\ndimodifikasi dengan diameter berbeda, yang selanjutnya akan dibandingkan dan dilakukan\r\npenentuan pembuatan sumur resapan.\r\nBerdasarkan pemeriksaan sifat fisik tanah asli, dengan menggunakan sampel yang telah diuji pada\r\npenelitian ini, dapat diklasifikasikan sampel tanah pada kelompok tanah berlempung, sedangkan\r\nUSCS mengklasifikasikan sampel tanah sebagai tanah lempung dan termasuk ke dalam kelompok\r\nCL\r\nHasil analisa dan perhitungan yang dilakukan, diperoleh koefesien permeabilitas lapangan untuk\r\nalat uji berdiameter 2\", 3\" dan 4\" serta koefisien permeabilitas pada penelitian di laboratorium.\r\nNilai koefisien permeabilitas tersebut yang digunakan untuk menghitung jumlah sumur resapan\r\nyang efsien.\r\nKata kunci: lempung, permeabilitas, sumur resapan",
+      "status_changed": "2020-12-28 01:45:29",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/article\/view\/353"
+        }
+      ],
+      "volume": 3,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Desain Dan Eksperimentasi Perancangan Sumur Resapan Air Hujan\r\nBerdasarkan Hasil Uji Permeabilitas Lapangan",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/article\/view\/353",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "date": "2015-03",
+      "dir": "disk0\/00\/02\/71\/47",
+      "publication": "Jurnal Rekayasa Sipil Dan Disain (JRSDD)",
+      "creators": [
+        {
+          "id": "akbarprimarifai@gmail.com.",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rifai",
+            "given": "Akbar Prima"
+          }
+        },
+        {
+          "name": {
+            "given": "Lusmeilia",
+            "honourific": null,
+            "family": "Afriani",
+            "lineage": null
+          },
+          "id": "lusmelia.afriani@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Setyanto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setyanto"
+          },
+          "id": "setyanto@eng.unila.ac.id"
+        }
+      ],
+      "issn": "P-ISSN: 2303-0011 (Print); E-ISSN: 2715-0690 (Online)",
+      "datestamp": "2020-12-28 01:45:29",
+      "pagerange": "27-36",
+      "lastmod": "2020-12-28 01:45:29",
+      "userid": 808,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27147",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 27147,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41166",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 41166,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/243317",
+                  "fileid": 243317,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-12-27 05:51:00",
+                  "filename": "1_V.3.No.1.Ed.Maret.2015.Hal.27-36 (akbar prima).pdf",
+                  "hash": "004dbf406afe5b63391cf8bbb37686f3",
+                  "datasetid": "document",
+                  "filesize": 429749
+                }
+            ],
+            "docid": 41166,
+            "main": "1_V.3.No.1.Ed.Maret.2015.Hal.27-36 (akbar prima).pdf"
+          }
+      ],
+      "publisher": "Jurusan Teknik Sipil Universitas Lampung"
+    },
+    {
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Sipil Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458021",
+                  "objectid": 162890,
+                  "filesize": 1187838,
+                  "datasetid": "document",
+                  "filename": "5. Dok Lengkap_Desain Dan Eksperimentasi Perancangan Sumur Resapan Air Hujan Berdasarkan Hasil Uji Permeabilitas Lapangan.pdf",
+                  "hash": "c82893ad9269ddc41c1fe3ebeae865fe",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-13 02:24:19",
+                  "mime_type": "application\/pdf",
+                  "fileid": 458021
+                }
+            ],
+            "main": "5. Dok Lengkap_Desain Dan Eksperimentasi Perancangan Sumur Resapan Air Hujan Berdasarkan Hasil Uji Permeabilitas Lapangan.pdf",
+            "docid": 162890,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162890",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41228,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41228",
+      "refereed": "TRUE",
+      "lastmod": "2022-04-13 02:24:19",
+      "userid": 808,
+      "datestamp": "2022-04-12 01:22:25",
+      "pagerange": "27-36",
+      "publication": "Jurnal Rekayasa Sipil Dan Disain (JRSDD)",
+      "issn": "P-ISSN: 2303-0011 (Print); E-ISSN: 2715-0690 (Online)",
+      "creators": [
+        {
+          "name": {
+            "given": "Akbar Prima",
+            "honourific": null,
+            "family": "Rifai",
+            "lineage": null
+          },
+          "id": "akbarprimarifai@gmail.com."
+        },
+        {
+          "id": "setyanto@eng.unila.ac.id",
+          "name": {
+            "given": "Setyanto",
+            "honourific": null,
+            "family": "Setyanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "lusmelia.afriani@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Afriani",
+            "given": "Lusmeilia"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/12\/28",
+      "date": "2015-03",
+      "type": "article",
+      "divisions": [
+        "FT4"
+      ],
+      "title": "Desain Dan Eksperimentasi Perancangan Sumur Resapan Air Hujan\r\nBerdasarkan Hasil Uji Permeabilitas Lapangan",
+      "volume": 3,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-12 01:22:25",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Due to the development of housing in Bandar Lampung so rapidly,  its specialty in Housing\r\nBhayangkara, Village Beringin Jaya, District Kemiling. The process of absorption of water into\r\nthe ground is not going well.  Runoff  rainwater that falls directly flowing into the drainage\r\nchannel. Infiltration wells serves as a temporary rainwater that falls on the roof of the house, then\r\nthe rain water will be absorbed by the soil. In this study determines the permeability coefficient\r\nvalues obtained by means of modified with different diameters, which will then be compared and a\r\ndetermination made as catchment wells.\r\nBased on the examination of the physical properties of the original soil, using samples that have\r\nbeen tested in this study, soil samples can be classified in the group of argillaceous soil, while\r\nUSCS soil samples classified as clay and included in the CL group\r\nThe results of the analysis and calculations performed, the permeability coefficient obtained for\r\nthe field test tool diameter 2 \", 3\" and 4 \"as well as the permeability coefficient in laboratory\r\nresearch. The permeability coefficient used to calculate the amount of recharge wells that efsien.\r\nKeywords: clay, permeability, infiltration well",
+      "eprintid": 41228,
+      "date_type": "published"
+    },
+    {
+      "type": "article",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "divisions": [
+        "FT4"
+      ],
+      "keywords": "Regulating Dam, Simulasi, Constrain, dan Objective function",
+      "creators": [
+        {
+          "name": {
+            "given": "Darmawan",
+            "lineage": null,
+            "family": "Setioko",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Susilo",
+            "given": "Gatot Eko"
+          },
+          "id": "gatot89@yahoo.ca"
+        },
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Zakaria"
+          }
+        }
+      ],
+      "issn": "0852-7733",
+      "publication": "Rekayasa, Jurnal Sipil dan Perencanaan",
+      "date": "2015-04-01",
+      "dir": "disk0_bak\/00\/05\/05\/78",
+      "userid": 491,
+      "lastmod": "2023-04-17 00:46:22",
+      "pagerange": "1-11",
+      "datestamp": "2023-04-17 00:46:22",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190276",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 717502,
+                  "mime_type": "application\/pdf",
+                  "fileid": 545351,
+                  "hash": "3d7b0fe89650b25aa4f2f34d941b4222",
+                  "filename": "repo  JR april 2015 - setioko gatot az.pdf",
+                  "mtime": "2023-04-16 03:14:43",
+                  "hash_type": "MD5",
+                  "objectid": 190276,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545351"
+                }
+            ],
+            "main": "repo  JR april 2015 - setioko gatot az.pdf",
+            "docid": 190276,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50578
+          }
+      ],
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50578",
+      "full_text_status": "public",
+      "eprintid": 50578,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-17 00:46:22",
+      "abstract": "Argoguruh Weir is the biggest irrigation weir in Lampung Province. This hydraulic structure was\r\ndeveloped in 1935, crossing Way Sekampung River and serving Sekampung Irrigation Area which\r\nis about 67,000 ha. This weir is supplied by water from Batutegi Dam and baseflow of the upper\r\nWay Sekampung basin. Excessive water in Argoguruh Weir is passing by and flowing to the sea.\r\nDue to this condition, the government plan to build a dam between Batutegi Dam and Argoguruh\r\nWeir.\r\nThis research aims to carry out a simulation of water balance in the Regulating Dam in order to\r\nfind the best operational pattern for the dam. The Objective function of the simulation is water elevation\r\nof reservoir with probability more than 80%. The constrain of the simulation is that water\r\nelevation of the reservoir has to be higher than the water elevation of reservoir dead storage that\r\nis +102.30 m. Discharge data used in the simulation is daily discharge data of Argoguruh Weir\r\nfrom the year 2005 to the year 2013. The simulation is operated in 15-days time basis.\r\nResults of the simulation indicate that the objective function of the simulation is found in elevation\r\n+116.07 m with probability of 80.09%. On that condition, water from the reservoir is utilised for\r\nPDAM Pringsewu water supply and for the water supply for 242.90 ha new irrigation area. The\r\nlowest water elevation in this condition is +111.86 m. This water elevation is much more higher\r\nthan the one of reservoir dead storage.",
+      "subjects": [
+        "TA"
+      ],
+      "referencetext": "Armansyah. 2006. “Kekuatan Struktur Balok Laminasi (Glulam Beams) Pada Sambungan\r\nTegak (Butt Joint) Menggunakan Resin Melamine Formaldehyde Adhesive”.\r\nSkripsi S1, Universitas Lampung. Bandar Lampung.\r\nAnonim, 2010, Format Penulisan Karya Ilmiah, Universitas Lampung – Lampung.\r\nAnonim, 2004, Undang-Undang Nomor 7 Tahun 2004 Tentang Sumber Daya Air,\r\nJakarta.\r\nBina Buana Raya, PT., 2012, Laporan Akhir Detail Desain Regulating Dam Way Sekampung,\r\nPT. Bina Buana Raya – Lampung.\r\nHarto, Sri, 2000, Hidrologi : Teori, Masalah, Penyelesaian, Nafiri Offset – Yogyakarta.\r\nKiranaratri, AH., 2012, Tesis, Universitas Lampung – Lampung.\r\nSoedibyo, 2003, Teknik Bendungan, PT. Pradnya Paramita – Jakarta, hal 1 – 33.\r\nSoemarto, CD, 1993, Hidrologi Teknik, Penerbit Erlangga, Jakarta.\r\nSosrodarsono, Suyono., Kensaku Takeda, 1985, Hidrologi Untuk Pengairan, Pradnya\r\nParamita, Jakarta.\r\nSubarkah, Iman, 1980, Hidrologi untuk Bangunan Air, Penerbit Idea Dharma, Bandung.\r\nSusilo, G.E., 2015, Conversation with Expert, Bandar Lampung, Indonesia.\r\nYosananto, Yedida., Ratnayanti, Rini., 2013, Studi Simulasi Pola Operasi Waduk untuk\r\nAir Baku dan Air Irigasi pada Waduk Darma Kabupaten Kuningan Jawa Barat\r\n(221A), Proseding Konferensi Nasional Teknik Sipil 7 (KoNTekS 7) Universitas\r\nSebelas Maret (UNS) - Surakarta, 24-26 Oktober 2013, hal A-163 – A -169.",
+      "title": "Optimasi Waduk Regulating Dam di Kabupaten Pringsewu, Provinsi Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 19
+    },
+    {
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "BERAPA RUPIAH TERBUANG PERCUMA AKIBAT KEMACETAN \r\nDITINJAU DARI PEMBOROSAN BAHAN BAKAR\r\nSTUDI KASUS JL ZA. PAGAR ALAM-TEUKU UMAR BANDAR LAMPUNG",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Kemacetan terjadi hampir di setiap selang waktu lalulintas di kota besar, termasuk di \r\nBandar Lampung. Kemacetan ini menyebabkan banyak kerugian ditinjau secara finansial dari \r\nbeberapa faktor seperti polusi, kehilangan waktu, pemborosan bahan bakar, dan faktor \r\npsikologis diantaranya stres. Kerugian finansial ini akan berimplikasi pada penurunan \r\npoduktifitas dan pertumbuhan ekonomi masyarakat. Penelitian ini mencoba menganalisis \r\nseberapa besar kerugian akibat kemacetan jika ditinjau dari pemborosan bahan bakar. \r\nDiharapkan hasil yang diperoleh dapat menjadi perhatian bagi pemerintah untuk mengurangi \r\nkerugian seperti contohnya menerapkan manajemen lalulintas.\r\nPenelitian ini dilakukan sepanjang Jalan Z.A Pagar Alam - Teuku Umar (±3.7 km). \r\nSemakin lama waktu perjalanan dibutuhkan, maka semakin besar jumlah liter bahan bakar \r\nyang dibuang sehingga jika dirupiahkan akan besar. Jenis kendaraan yang ditinjau adalah \r\nmobil pribadi berbahan bakar bensin dan solar, angkot serta BRT. Survey pencacahan \r\nkendaraan serta wawancara dilakukan untuk mendapatkan data yang diperlukan, yaitu \r\nkonsumsi bahan bakar pada kondisi kendaraan tertunda akibat macet. \r\nHasil penelitian menunjukkan kerugian akibat konsumsi bahan bakar sangat besar \r\nsekitar Rp. 4.765.223.503, - per tahun dengan sample sepanjang 3,7 km segmen jalan. Angka \r\nini hanya mengambil sampel 8.123 kendaraan. Dengan mengasumsikan jumlah kendaraan di \r\nBandar Lampung pada Tahun 2015 sebesar 169.370 kendaraan (dengan asumsi pertumbuhan \r\nkendaraan 12 % per tahun). Jika diasumsikan lagi rata-rata setiap kendaraan menempuh 8-10 \r\nkm per hari nya, maka total jumlah kerugian per tahunnya menjadi Rp. 267.2 Miliar per \r\ntahun. Suatu jumlah yang sangat besar mengingat hitungan ini hanya berdasar satu faktor saja \r\nyaitu konsumsi bahan bakar akibat kemacetan. Jika ditambah dengan keugian akibat polusi, \r\nkehilangan nilai waktu juga kerugian lainnya, maka jumlah ini akan jauh lebih besar lagi. Hal \r\nini bisa menjadi pertimbangan pemerintah untuk mengambil tindakan pengurangan \r\nkemacetan yang tidak begitu mahal seperti manajemen lalulintas, tetapi dapat menguangi \r\nkemacetan sehingga kerugian finansial tadi dapat ditekan bahkan dihilangkan",
+      "eprint_status": "archive",
+      "status_changed": "2021-08-26 13:10:26",
+      "date_type": "published",
+      "eprintid": 33652,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33652",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 33652,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153803",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 637076,
+                  "datasetid": "document",
+                  "hash": "52acc4117f57e2389fbb1dc03562eb18",
+                  "filename": "agst a.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 09:50:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398739,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398739",
+                  "objectid": 153803
+                }
+            ],
+            "docid": 153803,
+            "main": "agst a.pdf"
+          },
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153804",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 544151,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 09:51:02",
+                  "hash": "bfb52029a91a427cf6348008cb66dedc",
+                  "filename": "agst gab.pdf",
+                  "fileid": 398741,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398741",
+                  "objectid": 153804
+                }
+            ],
+            "docid": 153804,
+            "main": "agst gab.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 33652
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398743",
+                  "objectid": 153805,
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 09:51:14",
+                  "hash": "72c3b38b1bad62f2faaa37eec0c9a219",
+                  "filename": "agst k.pdf",
+                  "fileid": 398743,
+                  "mime_type": "application\/pdf",
+                  "filesize": 495682,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "agst k.pdf",
+            "docid": 153805,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153805",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 3,
+            "security": "public",
+            "placement": 3,
+            "eprintid": 33652,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "badan penelitian dan pengembangan inovasi daerah provinsi lampung",
+      "datestamp": "2021-08-26 13:10:26",
+      "lastmod": "2021-08-26 13:10:26",
+      "userid": 354,
+      "date": 2015,
+      "dir": "disk0\/00\/03\/36\/52",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sulistyorini",
+            "lineage": null,
+            "given": "Rahayu"
+          }
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "type": "other"
+    },
+    {
+      "abstract": "Kemacetan terjadi hampir di setiap selang waktu lalulintas di kota besar, termasuk di Bandar Lampung. Kemacetan ini menyebabkan banyak kerugian ditinjau secara finansial dari beberapa faktor seperti polusi, kehilangan waktu, pemborosan bahan bakar, dan faktor psikologis diantaranya stres. Kerugian finansial ini akan berimplikasi pada penurunan poduktifitas dan pertumbuhan ekonomi masyarakat. Penelitian ini mencoba menganalisis seberapa besar kerugian akibat kemacetan jika ditinjau dari pemborosan bahan bakar. Diharapkan hasil yang diperoleh dapat menjadi perhatian bagi pemerintah untuk mengurangi kerugian seperti contohnya menerapkan manajemen lalulintas.\r\nPenelitian ini dilakukan sepanjang Jalan Z.A Pagar Alam - Teuku Umar (±3.7 km). Semakin lama waktu perjalanan dibutuhkan, maka semakin besar jumlah liter bahan bakar yang dibuang sehingga jika dirupiahkan akan besar. Jenis kendaraan yang ditinjau adalah mobil pribadi berbahan bakar bensin dan solar, angkot serta BRT. Survey pencacahan kendaraan serta wawancara dilakukan untuk mendapatkan data yang diperlukan, yaitu konsumsi bahan bakar pada kondisi kendaraan tertunda akibat macet.\r\nHasil penelitian menunjukkan kerugian akibat konsumsi bahan bakar sangat besar sekitar Rp. 4.765.223.503, - per tahun dengan sample sepanjang 3,7 km segmen jalan. Angka ini hanya mengambil sampel 8.123 kendaraan. Dengan mengasumsikan jumlah kendaraan di Bandar Lampung pada Tahun 2015 sebesar 169.370 kendaraan (dengan asumsi pertumbuhan kendaraan 12 % per tahun). Jika diasumsikan lagi rata-rata setiap kendaraan menempuh 8-10 km per hari nya, maka total jumlah kerugian per tahunnya menjadi Rp. 267.2 Miliar per tahun. Suatu jumlah yang sangat besar mengingat hitungan ini hanya berdasar satu faktor saja yaitu konsumsi bahan bakar akibat kemacetan. Jika ditambah dengan keugian akibat polusi, kehilangan nilai waktu juga kerugian lainnya, maka jumlah ini akan jauh lebih besar lagi. Hal ini bisa menjadi pertimbangan pemerintah untuk mengambil tindakan pengurangan kemacetan yang tidak begitu mahal seperti manajemen lalulintas, tetapi dapat menguangi kemacetan sehingga kerugian finansial tadi dapat ditekan bahkan dihilangkan.",
+      "subjects": [
+        "TA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-08-25 10:11:06",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Berapa Rupiah Terbuang Percuma Akibat Kemacetan Ditinjau dari Pemborosan Bahan Bakar Studi Kasus Jalan ZA. Pagar Alam Teuku Umar Bandar Lampung",
+      "date_type": "published",
+      "eprintid": 33619,
+      "datestamp": "2021-08-25 10:11:06",
+      "lastmod": "2021-08-25 10:11:06",
+      "userid": 354,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33619",
+      "publisher": "Badan Penelitian dan Pengembangan",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33619,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153761",
+            "rev_number": 1,
+            "main": "agst a.pdf",
+            "docid": 153761,
+            "files": [
+                {
+                  "objectid": 153761,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398484",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398484,
+                  "filename": "agst a.pdf",
+                  "hash": "52acc4117f57e2389fbb1dc03562eb18",
+                  "mtime": "2021-08-24 09:54:22",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 637076
+                }
+            ]
+          },
+          {
+            "pos": 2,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153762",
+            "docid": 153762,
+            "main": "agst gab.pdf",
+            "files": [
+                {
+                  "objectid": 153762,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398486",
+                  "datasetid": "document",
+                  "filesize": 544151,
+                  "fileid": 398486,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-24 09:54:27",
+                  "hash": "bfb52029a91a427cf6348008cb66dedc",
+                  "filename": "agst gab.pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 33619,
+            "placement": 2,
+            "security": "public"
+          },
+          {
+            "pos": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153763",
+            "rev_number": 1,
+            "main": "agst k.pdf",
+            "docid": 153763,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398488",
+                  "objectid": 153763,
+                  "filesize": 495682,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-24 09:54:32",
+                  "hash": "72c3b38b1bad62f2faaa37eec0c9a219",
+                  "filename": "agst k.pdf",
+                  "fileid": 398488,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 33619,
+            "placement": 3,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "other",
+      "date": 2015,
+      "dir": "disk0\/00\/03\/36\/19",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistyorini",
+            "given": "Rahayu"
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "divisions": [
+        "FT4"
+      ],
+      "type": "other",
+      "date": 2015,
+      "dir": "disk0\/00\/03\/36\/53",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistyorini",
+            "given": "Rahayu"
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2021-08-27 01:45:53",
+      "userid": 354,
+      "lastmod": "2021-08-27 01:45:53",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33653",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 33653,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398759",
+                  "objectid": 153806,
+                  "filesize": 651839,
+                  "datasetid": "document",
+                  "filename": "april 15 a.pdf",
+                  "hash": "f710c5374e0db6568702392a71adbfce",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 13:17:58",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398759
+                }
+            ],
+            "main": "april 15 a.pdf",
+            "docid": 153806,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153806",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153807",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398761",
+                  "objectid": 153807,
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 13:18:05",
+                  "hash": "2c22b0db4b3a67909e85e7c2d9bd0741",
+                  "filename": "april 15 gab.pdf",
+                  "fileid": 398761,
+                  "mime_type": "application\/pdf",
+                  "filesize": 544629,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "april 15 gab.pdf",
+            "docid": 153807,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 33653
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153808",
+            "rev_number": 1,
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 525282,
+                  "datasetid": "document",
+                  "hash": "d355e2acfdcc21cea923a91dc0569e88",
+                  "filename": "april 15 k.pdf",
+                  "mtime": "2021-08-26 13:18:12",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398763,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398763",
+                  "objectid": 153808
+                }
+            ],
+            "docid": 153808,
+            "main": "april 15 k.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 33653
+          }
+      ],
+      "publisher": "Badan Penelitian dan Pengembangan",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 33653,
+      "abstract": "Kemacetan terjadi hampir di setiap selang waktu lalulintas di kota besar, termasuk di \r\nBandar Lampung. Kemacetan ini menyebabkan banyak kerugian ditinjau secara finansial dari \r\nbeberapa faktor seperti polusi, kehilangan waktu, pemborosan bahan bakar, dan faktor \r\npsikologis diantaranya stres. Kerugian finansial ini akan berimplikasi pada penurunan \r\npoduktifitas dan pertumbuhan ekonomi masyarakat. Penelitian ini mencoba menganalisis \r\nseberapa besar kerugian akibat kemacetan jika ditinjau dari pemborosan bahan bakar. \r\nDiharapkan hasil yang diperoleh dapat menjadi perhatian bagi pemerintah untuk mengurangi \r\nkerugian seperti contohnya menerapkan manajemen lalulintas.\r\nPenelitian ini dilakukan sepanjang Jalan Z.A Pagar Alam - Teuku Umar (±3.7 km). \r\nSemakin lama waktu perjalanan dibutuhkan, maka semakin besar jumlah liter bahan bakar \r\nyang dibuang sehingga jika dirupiahkan akan besar. Jenis kendaraan yang ditinjau adalah \r\nmobil pribadi berbahan bakar bensin dan solar, angkot serta BRT. Survey pencacahan \r\nkendaraan serta wawancara dilakukan untuk mendapatkan data yang diperlukan, yaitu \r\nkonsumsi bahan bakar pada kondisi kendaraan tertunda akibat macet. \r\nHasil penelitian menunjukkan kerugian akibat konsumsi bahan bakar sangat besar \r\nsekitar Rp. 4.765.223.503, - per tahun dengan sample sepanjang 3,7 km segmen jalan. Angka \r\nini hanya mengambil sampel 8.123 kendaraan. Dengan mengasumsikan jumlah kendaraan di \r\nBandar Lampung pada Tahun 2015 sebesar 169.370 kendaraan (dengan asumsi pertumbuhan \r\nkendaraan 12 % per tahun). Jika diasumsikan lagi rata-rata setiap kendaraan menempuh 8-10 \r\nkm per hari nya, maka total jumlah kerugian per tahunnya menjadi Rp. 267.2 Miliar per \r\ntahun. Suatu jumlah yang sangat besar mengingat hitungan ini hanya berdasar satu faktor saja \r\nyaitu konsumsi bahan bakar akibat kemacetan. Jika ditambah dengan keugian akibat polusi, \r\nkehilangan nilai waktu juga kerugian lainnya, maka jumlah ini akan jauh lebih besar lagi. Hal \r\nini bisa menjadi pertimbangan pemerintah untuk mengambil tindakan pengurangan \r\nkemacetan yang tidak begitu mahal seperti manajemen lalulintas, tetapi dapat menguangi \r\nkemacetan sehingga kerugian finansial tadi dapat ditekan bahkan dihilangkan",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2021-08-27 01:45:53",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Berapa Rupiah Terbuang Percuma Akibat Kemacetan Ditinjau dari Pemborosan Bahan Bakar Studi Kasus Jalan ZA. Pagar Alam Teuku Umar Bandar Lampung"
+    },
+    {
+      "pagerange": "1-15",
+      "datestamp": "2021-02-17 05:58:52",
+      "lastmod": "2021-02-17 05:58:52",
+      "userid": 354,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27924",
+      "full_text_status": "public",
+      "publisher": "Balitbangnovda",
+      "documents": [
+          {
+            "eprintid": 27924,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Judul Jurnal Kelitbangan April 2015.pdf",
+            "docid": 41914,
+            "files": [
+                {
+                  "objectid": 41914,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248816",
+                  "fileid": 248816,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-02-17 04:36:37",
+                  "hash_type": "MD5",
+                  "filename": "Judul Jurnal Kelitbangan April 2015.pdf",
+                  "hash": "83eb20efbb137cf6cba55243c3e36611",
+                  "datasetid": "document",
+                  "filesize": 731338
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41914",
+            "rev_number": 1
+          },
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 614345,
+                  "fileid": 248818,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-17 04:36:44",
+                  "filename": "Daftar Isi Jurnal Kelitbangan April 2015.pdf",
+                  "hash": "2043508c04970652d66674bc6f0d7c34",
+                  "objectid": 41915,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248818"
+                }
+            ],
+            "docid": 41915,
+            "main": "Daftar Isi Jurnal Kelitbangan April 2015.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41915",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 27924,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 3,
+            "eprintid": 27924,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41916",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 3,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 524377,
+                  "fileid": 248820,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-17 04:36:50",
+                  "filename": "ISI.pdf",
+                  "hash": "9d700c1abba9b490050ce1759c47a776",
+                  "objectid": 41916,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248820"
+                }
+            ],
+            "docid": 41916,
+            "main": "ISI.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/79\/24",
+      "date": "2015-04",
+      "creators": [
+        {
+          "name": {
+            "given": "Rahayu",
+            "lineage": null,
+            "family": "Sulistyorini",
+            "honourific": null
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2354-5704",
+      "publication": "Jurnal Kelitbangan Provinsi",
+      "abstract": "Ditinjau  dari  volume  lalu  lintas  barang  yang  dapat  dilayani,  peranan  angkutan  darat  di wilayah  Lampung  saat  ini  memegang  peranan  yang  sangat  penting.  Dalam  Sub  sektor transportasi  darat  di  wilayah  Sumatera  maka  angkutan  jalan  masih  mendominasi,  terutama untuk  pergerakan  penumpang  dan  barang  menuju  wilayah  lain  di  Pulau  Sumatera.  Khusus untuk   perangkutan   barang,   kereta   api   merupakan  prasarana   utama   untuk   menjamin kelancaran  angkutan  tersebut  dari  sumber  komoditas  menuju  pengolahan,  daerah  pemasaran maupun titik transfer moda lainnya seperti bandara, terminal maupun dermaga pelabuhan.\r\nAngkutan  barang  yang  sangat  potensial  di  Lampung  khususnya  dan  Sumatera  umumnya adalah Batubara. Batubara dari lokasi tambang Tanjung Enin, Sumatera Selatan, diangkut ke Pelabuhan  Tarahan  dengan  kereta  api  sepanjang  60  gerbang  untuk  setiap  rangkaian  dan masing-masing gerbong memuat 50 ton batubara. Namun ada banyak perusahaan yang masih menggunakan truk  sebagai angkutan batubara. Digunakannya jalan nasional   untuk transportasi angkutan truk pengangkut batubara   membawa eksternalitas negatif bagi penduduk di sepanjang jalan tersebut. Eksternalitas negatif  yang timbul  yaitu rusaknya jalan nasional  dan  infrastruktur  jalan,  kemacetan,  polusi,  dan  banyaknya  korban  kecelakaan \r\nlalulintas oleh truk batubara. Penelitian  dilakukan  di  tiga  perusahaan  pertambangan  batubara  yaitu  PT.  Bukit  Asam  Tbk yang  menggunakan  moda  kereta  api,  serta  dua  perusahaan  yang  menggunakan  moda  truk \r\nyaitu  PT.  Sumatera  Bahtera  Raya  dan  PT.  Putera  Lampung.  Pengumpulan data  dilakukan dengan survey wawancara dan pembagian kuesioner. Dari hasil analisis   didapatkan bahwa faktor yang mempengaruhi perusahaan   dalam menentukan  moda  angkutan  adalah  letak  tambang  dan  stockpile  serta    target  produksi perusahaan.  Untuk  biaya  pengangkutan  per  ton\/km  kereta  api  memiliki  keunggulan  biaya yang lebih murah untuk beban yang besar dan jarak yang semakin jauh tetapi kurang fleksibel untuk menjangkau tempat-tempat tertentu.   Jadi, moda truk tetap dibutuhkan untuk perusahaan batubara yang memiliki target produksi yang tidak memungkinkan menggunakan moda  kereta  api.  Jalur  khusus  angkutan  truk  batubara  dibutuhkan  agar  angkutan  truk pengangkut  batubara  tidak  melewati  jalan raya sehingga tidak mengakibatkan kemacetan serta    rusaknya infrastruktur jalan negara akibat kepentingan    pribadi perusahaan pertambangan batubara\r\n.",
+      "subjects": [
+        "TA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-02-17 05:58:52",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 3,
+      "title": "POTENSI KERETA API SEBAGAI ANGKUTAN BARANG  DI PROVINSI \r\nLAMPUNG",
+      "official_url": "https:\/\/jurnal.balitbangda.lampungprov.go.id\/index.php\/jip",
+      "date_type": "published",
+      "eprintid": 27924
+    },
+    {
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "given": "Rahayu",
+            "family": "Sulistyorini",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2015,
+      "dir": "disk0\/00\/03\/36\/22",
+      "type": "other",
+      "divisions": [
+        "FT4"
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 33622,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 651839,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-24 10:13:43",
+                  "filename": "april 15 a.pdf",
+                  "hash": "f710c5374e0db6568702392a71adbfce",
+                  "fileid": 398495,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398495",
+                  "objectid": 153764
+                }
+            ],
+            "main": "april 15 a.pdf",
+            "docid": 153764,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153764",
+            "pos": 1,
+            "format": "text"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33622,
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153765",
+            "rev_number": 1,
+            "main": "april 15 gab.pdf",
+            "docid": 153765,
+            "files": [
+                {
+                  "filesize": 544629,
+                  "datasetid": "document",
+                  "mtime": "2021-08-24 10:13:49",
+                  "hash_type": "MD5",
+                  "filename": "april 15 gab.pdf",
+                  "hash": "2c22b0db4b3a67909e85e7c2d9bd0741",
+                  "fileid": 398497,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398497",
+                  "objectid": 153765
+                }
+            ]
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153766",
+            "rev_number": 1,
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 153766,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398499",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398499,
+                  "hash": "d355e2acfdcc21cea923a91dc0569e88",
+                  "filename": "april 15 k.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-24 10:14:00",
+                  "datasetid": "document",
+                  "filesize": 525282
+                }
+            ],
+            "docid": 153766,
+            "main": "april 15 k.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 33622
+          }
+      ],
+      "publisher": "Badan Penelitian dan Pengembangan",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33622",
+      "full_text_status": "public",
+      "userid": 354,
+      "lastmod": "2021-08-25 10:11:12",
+      "datestamp": "2021-08-25 10:11:12",
+      "eprintid": 33622,
+      "date_type": "published",
+      "title": "Potensi Kereta Api Sebagai Angkutan Barang di Provinsi Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "status_changed": "2021-08-25 10:11:12",
+      "eprint_status": "archive",
+      "abstract": "Ditinjau dari volume lalu lintas barang yang dapat dilayani, peranan angkutan darat di wilayah Lampung saat ini memegang peranan yang sangat penting. Dalam Sub sektor transportasi darat di wilayah Sumatera maka angkutan jalan masih mendominasi, terutama untuk pergerakan penumpang dan barang menuju wilayah lain di Pulau Sumatera. Khusus untuk perangkutan barang, kereta api merupakan prasarana utama untuk menjamin kelancaran angkutan tersebut dari sumber komoditas menuju pengolahan, daerah pemasaran maupun titik transfer moda lainnya seperti bandara, terminal maupun dermaga pelabuhan adalah Batubara. Batubara dari lokasi tambang Tanjung Enin, Sumatera Selatan, diangkut ke Pelabuhan Tarahan dengan kereta api sepanjang 60 gerbang untuk setiap rangkaian dan masing-masing gerbong memuat 50 ton batubara. Namun ada banyak perusahaan yang masih menggunakan truk sebagai angkutan batubara. Digunakannya jalan nasional untuk transportasi angkutan truk pengangkut batubara membawa eksternalitas negatif bagi penduduk di sepanjang jalan tersebut. Eksternalitas negatif yang timbul yaitu rusaknya jalan nasional dan infrastruktur jalan, kemacetan, polusi, dan banyaknya korban kecelakaan lalulintas oleh truk batubara.\r\nPenelitian dilakukan di tiga perusahaan pertambangan batubara yaitu PT. Bukit Asam Tbk yang menggunakan moda kereta api, serta dua perusahaan yang menggunakan moda truk yaitu PT. Sumatera Bahtera Raya dan PT. Putera Lampung. Pengumpulan data dilakukan dengan survey wawancara dan pembagian kuesioner.\r\nDari hasil analisis didapatkan bahwa faktor yang mempengaruhi perusahaan dalam menentukan moda angkutan adalah letak tambang dan stockpile serta target produksi perusahaan. Untuk biaya pengangkutan per ton\/km kereta api memiliki keunggulan biaya yang lebih murah untuk beban yang besar dan jarak yang semakin jauh tetapi kurang fleksibel untuk menjangkau tempat-tempat tertentu. Jadi, moda truk tetap dibutuhkan untuk perusahaan batubara yang memiliki target produksi yang tidak memungkinkan menggunakan moda kereta api. Jalur khusus angkutan truk batubara dibutuhkan agar angkutan truk pengangkut batubara tidak melewati jalan raya sehingga tidak mengakibatkan kemacetan serta rusaknya infrastruktur jalan negara akibat kepentingan pribadi perusahaan pertambangan batubara.",
+      "subjects": [
+        "TA"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 27920,
+      "abstract": "Dalam rangka mengakomodasi kebutuhan pelayanan angkutan dimasa datang perlu adanya pengembangan Jaringan Lalu Lintas dan Angkutan Jalan untuk konektivitas semua moda transportasi dimana pengembangan itu sendiri memerlukan acuan agar terdapat kesinambungan perencanaan dengan keterbatasan anggaran Pemerintah Provinsi Lampung. Tujuan penelitian ini untuk mengetahui pola pergerakan dan dampak penerapan kebijakan terkait jaringan transportasi yang ada di Provinsi Lampung dan mengetahui pengaruh rencana pengembangan Jaringan Transportasi Wilayah penelitian adalah ruas jalan provinsi dan jalan nasional di Provinsi Lampung. Data MAT tahun 2009 yang dipakai merupakan data sekunder yang diperoleh berdasarkan data survey harian menggunakan Metode Furness untuk mendapatkan jumlah pergerakan pada rencana penerapan kebijakan.",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2021-02-17 04:40:23",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 19,
+      "rev_number": 6,
+      "title": "Analisis Kinerja Jaringan Jalan di Provinsi Lampung dengan Menggunakan Pemodelan Transportasi",
+      "official_url": "http:\/\/ft-sipil.unila.ac.id\/ejournals\/index.php\/jrekayasa\/article\/view\/223\/article\/view\/223",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/79\/20",
+      "date": "2015-12",
+      "issn": "0852-7733",
+      "creators": [
+        {
+          "name": {
+            "given": "Rahayu",
+            "lineage": null,
+            "family": "Sulistyorini",
+            "honourific": null
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "family": "Herianto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dwyc@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Intan Bonita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Lumbangaol"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Rekayasa, Jurnal Sipil dan Perencanaan",
+      "pagerange": "191-204",
+      "datestamp": "2021-02-17 04:40:23",
+      "lastmod": "2021-02-17 04:40:23",
+      "userid": 354,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27920",
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 27920,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "isi.pdf",
+            "docid": 41911,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248801",
+                  "objectid": 41911,
+                  "hash": "89416cc208dd8e7129c4b8baa7bde4eb",
+                  "filename": "isi.pdf",
+                  "mtime": "2021-02-17 04:15:44",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 248801,
+                  "filesize": 453741,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41911"
+          }
+      ],
+      "number": 3,
+      "ispublished": "pub"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 33623,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Analisis Kinerja Jaringan Jalan di Provinsi Lampung dengan Menggunakan Pemodelan Transportasi",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Dalam rangka mengakomodasi kebutuhan pelayanan angkutan dimasa datang perlu adanya pengembangan Jaringan Lalu Lintas dan Angkutan Jalan untuk konektivitas semua moda transportasi dimana pengembangan itu sendiri memerlukan acuan agar terdapat kesinambungan perencanaan dengan keterbatasan anggaran Pemerintah Provinsi Lampung. Tujuan penelitian ini untuk mengetahui pola pergerakan dan dampak penerapan kebijakan terkait jaringan transportasi yang ada di Provinsi Lampung dan mengetahui pengaruh rencana pengembangan Jaringan Transportasi Wilayah penelitian adalah ruas jalan provinsi dan jalan nasional di Provinsi Lampung. Data MAT tahun 2009 yang dipakai merupakan data sekunder yang diperoleh berdasarkan data survey harian menggunakan Metode Furness untuk mendapatkan jumlah pergerakan pada rencana penerapan kebijakan.Hasil penelitian menunjukkan bahwa (1) Pola pergerakan menunjukkan adanya pola pergerakan menerus pada orang dari Provinsi Palembang ke Pulau Jawa atau sebaliknya tahun 2014 sebesar 8 juta penumpang pertahun dan dari Bengkulu ke Pulau Jawa dan sebaliknya sebesar 0,7 juta penumpang pertahun, (2) semua skenario meningkatkan kinerja jalan terutama setelah pembangunan\r\nJalur Kereta Api dan Pembangunan Tol Sumatera dengan perubahan nilai VCR dari 0,83 menjadi 0,45 pada simpang Asahan-Simpang Mesuji D saat pembangunan Tol Sumatera dan perubahan VCR dari 1,29 menjadi 0,45 pada simpang Terbanggi Besar-Bandar Jaya, (3) perlu dilakukannya\r\nrencana pengembangan jaringan jalan pada jaringan Lalulintas dan Angkutan Jalan, Jaringan Kereta Api, Jaringan Penyeberangan, Jaringan Laut dan Jaringan Udara di Provinsi Lampung",
+      "status_changed": "2021-08-25 10:11:17",
+      "eprint_status": "archive",
+      "date": 2015,
+      "dir": "disk0\/00\/03\/36\/23",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistyorini",
+            "honourific": null,
+            "given": "Rahayu"
+          }
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herianto"
+          },
+          "id": "dwyc@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Lumbangaol",
+            "lineage": null,
+            "given": "Intan Bonita"
+          },
+          "id": "intanbonita@rocketmail.com"
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33623",
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Sipil, Fakultas Teknik, Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 33623,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 398506,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-08-24 10:18:47",
+                  "hash_type": "MD5",
+                  "hash": "5bb92e2605482aa7007f72a3a6af08c5",
+                  "filename": "jur rek a.pdf",
+                  "datasetid": "document",
+                  "filesize": 648356,
+                  "objectid": 153767,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398506"
+                }
+            ],
+            "main": "jur rek a.pdf",
+            "docid": 153767,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153767",
+            "pos": 1,
+            "format": "text"
+          },
+          {
+            "docid": 153768,
+            "main": "jur rek gab.pdf",
+            "files": [
+                {
+                  "objectid": 153768,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398508",
+                  "datasetid": "document",
+                  "filesize": 559077,
+                  "mime_type": "application\/pdf",
+                  "fileid": 398508,
+                  "filename": "jur rek gab.pdf",
+                  "hash": "3ddf53027303bea2e0d795150d0bf273",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-24 10:18:50"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153768",
+            "eprintid": 33623,
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "eprintid": 33623,
+            "security": "public",
+            "placement": 3,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 153769,
+            "main": "jur rek k.pdf",
+            "files": [
+                {
+                  "hash": "94367e5b1be61a83b2a1600d76a39794",
+                  "filename": "jur rek k.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-24 10:18:54",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398510,
+                  "filesize": 505586,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398510",
+                  "objectid": 153769
+                }
+            ],
+            "format": "text",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153769",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2021-08-25 10:11:17",
+      "lastmod": "2021-08-25 10:11:17",
+      "userid": 354
+    },
+    {
+      "datestamp": "2021-08-27 01:45:55",
+      "lastmod": "2021-08-27 01:45:55",
+      "userid": 354,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33654",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153809",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "jur rek a.pdf",
+                  "hash": "5bb92e2605482aa7007f72a3a6af08c5",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 13:24:15",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398770,
+                  "filesize": 648356,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398770",
+                  "objectid": 153809
+                }
+            ],
+            "main": "jur rek a.pdf",
+            "docid": 153809,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 33654
+          },
+          {
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153810",
+            "rev_number": 1,
+            "main": "jur rek gab.pdf",
+            "docid": 153810,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398772",
+                  "objectid": 153810,
+                  "filename": "jur rek gab.pdf",
+                  "hash": "3ddf53027303bea2e0d795150d0bf273",
+                  "mtime": "2021-08-26 13:24:21",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398772,
+                  "filesize": 559077,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33654,
+            "security": "public",
+            "placement": 2
+          },
+          {
+            "placement": 3,
+            "security": "public",
+            "eprintid": 33654,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "94367e5b1be61a83b2a1600d76a39794",
+                  "filename": "jur rek k.pdf",
+                  "mtime": "2021-08-26 13:24:27",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 398774,
+                  "filesize": 505586,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398774",
+                  "objectid": 153811
+                }
+            ],
+            "main": "jur rek k.pdf",
+            "docid": 153811,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153811",
+            "pos": 3,
+            "format": "text"
+          }
+      ],
+      "publisher": "Jurusan Teknik Sipil, Fakultas Teknik, Universitas Lampung",
+      "ispublished": "pub",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "other",
+      "date": 2015,
+      "dir": "disk0\/00\/03\/36\/54",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sulistyorini",
+            "honourific": null,
+            "given": "Rahayu"
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        },
+        {
+          "id": "dwyc@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Herianto",
+            "honourific": null,
+            "given": "Dwi"
+          }
+        },
+        {
+          "id": "intanbonita@rocketmail.com",
+          "name": {
+            "given": "Intan Bonita",
+            "honourific": null,
+            "family": "Lumbangaol",
+            "lineage": null
+          }
+        }
+      ],
+      "abstract": "Dalam rangka mengakomodasi kebutuhan pelayanan angkutan dimasa datang perlu adanya\r\npengembangan Jaringan Lalu Lintas dan Angkutan Jalan untuk konektivitas semua moda trans�portasi dimana pengembangan itu sendiri memerlukan acuan agar terdapat kesinambungan peren�canaan dengan keterbatasan anggaran Pemerintah Provinsi Lampung. Tujuan penelitian ini untuk\r\nmengetahui pola pergerakan dan dampak penerapan kebijakan terkait jaringan transportasi yang\r\nada di Provinsi Lampung dan mengetahui pengaruh rencana pengembangan Jaringan Transportasi\r\nWilayah penelitian adalah ruas jalan provinsi dan jalan nasional di Provinsi Lampung. Data MAT\r\ntahun 2009 yang dipakai merupakan data sekunder yang diperoleh berdasarkan data survey harian\r\nmenggunakan Metode Furness untuk mendapatkan jumlah pergerakan pada rencana penerapan ke�bijakan. \r\nHasil penelitian menunjukkan bahwa (1) Pola pergerakan menunjukkan adanya pola pergerakan\r\nmenerus pada orang dari Provinsi Palembang ke Pulau Jawa atau sebaliknya tahun 2014 sebesar 8\r\njuta penumpang pertahun dan dari Bengkulu ke Pulau Jawa dan sebaliknya sebesar 0,7 juta\r\npenumpang pertahun, (2) semua skenario meningkatkan kinerja jalan terutama setelah pembangu�nan Jalur Kereta Api dan Pembangunan Tol Sumatera dengan perubahan nilai VCR dari 0,83 men�jadi 0,45 pada simpang Asahan-Simpang Mesuji D saat pembangunan Tol Sumatera dan peruba�han VCR dari 1,29 menjadi 0,45 pada simpang Terbanggi Besar-Bandar Jaya, (3) perlu dilakukan�nya rencana pengembangan jaringan jalan pada jaringan Lalulintas dan Angkutan Jalan, Jaringan\r\nKereta Api, Jaringan Penyeberangan, Jaringan Laut dan Jaringan Udara di Provinsi Lampung",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2021-08-27 01:45:55",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Analisis Kinerja Jaringan Jalan di Provinsi Lampung dengan Menggunakan Pemodelan Transportasi.",
+      "date_type": "published",
+      "eprintid": 33654
+    },
+    {
+      "contact_email": "gatot89@yahoo.ca",
+      "type": "conference_item",
+      "divisions": [
+        "FT4"
+      ],
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "family": "Susilo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gatot E"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/46\/11",
+      "date": "2015-06-01",
+      "lastmod": "2019-11-04 08:22:10",
+      "userid": 874,
+      "datestamp": "2019-11-04 08:22:10",
+      "pagerange": "B1-B8",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14611,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126592",
+                  "objectid": 27704,
+                  "filesize": 1224554,
+                  "datasetid": "document",
+                  "mtime": "2019-10-24 03:59:40",
+                  "hash_type": "MD5",
+                  "hash": "767fdae2838a18523cf7709821d1bde2",
+                  "filename": "ICWRDEP PAPER.pdf",
+                  "fileid": 126592,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "ICWRDEP PAPER.pdf",
+            "docid": 27704,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27704",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14611",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "event_title": "The 1st Young Scientist International Conference of Water Resources Development and Environmental Protection",
+      "eprintid": 14611,
+      "date_type": "published",
+      "event_location": "Malang, Indonesia",
+      "status_changed": "2019-11-04 08:22:10",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA",
+        "TC",
+        "TD"
+      ],
+      "abstract": "Indonesia is a country that has large rain water availability. However, the implementation of rainwater\r\nharvesting in urban areas has not become a popular activity in Indonesia. Instead of the ignorance of\r\nthe public about the importance of rainwater harvesting as an alternative source of freshwater,\r\ninformation and knowledge about the construction of the installation of rainwater harvesting systems\r\nis still very limited. This paper aims to analyze supporting capacity of rainwater harvesting for\r\ndomestic needs in Bandar Lampung city, Indonesia. This paper also aims to introduce a real\r\nexperience in rainwater harvesting at household scale in the city. Rainwater harvesting simulation is\r\napplied to a family with a roof area of 70 m2 with number of family members 5 persons and maximum\r\nstorage capacity 1.2 m3. Daily rainfall data used in the simulation is obtained from Bandar Lampung\r\nRaingauge Station with period of data from 1992 to 1996. The simulation shows that supporting\r\ncapacity of rainwater harvesting in the area of study is about 53% and 42% for wet year and dry year,\r\nrespectively. Experience also shows that knowledge about the operation and maintenance of rainwater\r\nharvesting facility is important in the application of rainwater harvesting at household scale.",
+      "event_dates": "5-7 June 2015",
+      "title": "Experience in Rainwater Harvesting Application at\r\nHousehold Scale in Bandar Lampung, Indonesia",
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show"
+    },
+    {
+      "datestamp": "2018-06-29 06:38:14",
+      "lastmod": "2018-06-29 06:38:14",
+      "number": 23,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Gatot E",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "gatot89@yahoo.ca"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nalaralagi",
+            "honourific": null,
+            "given": "Ankavisi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "ankavisinalaralagi@gmail.com"
+        }
+      ],
+      "publisher": "UTM Malaysia",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article",
+      "date": "2015-12-01",
+      "subjects": [
+        "TD"
+      ],
+      "abstract": "This study aims to recommend a design of environmental friendly building based on the local wisdom philosophy of the Sumatera traditional house. The house is a combination between modern and traditional house of Sumatera which is a stilt house. The basement of the house is designed as rainwater storage in order to guarantee the availability of household water supply. On the other hand, the upper part of the house is designed as a dwelling. Simulation is undertaken in order to investigate the water volume behavior in the storage due to the variation of rainfall and water uses in the house. The simulation is applied in a house with a roof area of 54 m2, 4 residents, and 24 m3 of storage capacity. Daily rainfall data are obtained from the rainfall station in Bandar Lampung, Indonesia. The result of the simulation indicates that rainwater facility in the house is relatively effective to store rain water and to provide household water supply. For wet year periods, the system is able to supply about 80% to 90% of the total needs. Oppositely, in the dry seasons, the system can support the household water demand up to 60% of total needs.",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/jurnalteknologi.utm.my\/index.php\/jurnalteknologi\/article\/view\/6700",
+      "date_type": "published",
+      "eprintid": 8268,
+      "pagerange": "101-106",
+      "userid": 874,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8268",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8268,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21316",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "JURNAL TEKNOLOGI GATOT.pdf",
+                  "hash": "0e46860dffd2203a534ec4134c953ebb",
+                  "mtime": "2018-06-29 04:54:38",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 82040,
+                  "filesize": 571750,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82040",
+                  "objectid": 21316
+                }
+            ],
+            "docid": 21316,
+            "main": "JURNAL TEKNOLOGI GATOT.pdf"
+          }
+      ],
+      "dir": "disk0\/00\/00\/82\/68",
+      "publication": "Jurnal Teknologi",
+      "issn": "2180–3722",
+      "creators": [
+        {
+          "name": {
+            "given": "Gatot E",
+            "honourific": null,
+            "family": "Susilo",
+            "lineage": null
+          },
+          "id": "gatot89@yahoo.ca"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nalaralagi",
+            "lineage": null,
+            "given": "Ankavisi"
+          },
+          "id": "ankavisinalaralagi@gmail.com"
+        }
+      ],
+      "status_changed": "2018-06-29 06:38:14",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnalteknologi.utm.my\/index.php\/jurnalteknologi"
+        }
+      ],
+      "rev_number": 7,
+      "volume": 77,
+      "metadata_visibility": "show",
+      "title": "Design of environmental friendly building based on the local wisdom philosophy of Sumatera traditional house",
+      "referencetext": "(1) Abdulla, F. A. and Al-Shareef, A.W. 2009. Roof rainwater harvesting systems for household water supply in Jordan. Desalination. 243: 195–207. \r\n(2) Lee, K.W., Lee, C.H., Yang, M.S. and Yu, C.C. 2000. Probabilistic design of storage capacity for rainwater cistern systems. Journal of Agricultural Engineering Systems. 77(3). 343–348. \r\n(3) Basinger, M., Montalto, F. and Lall , U. 2010. A rainwater harvesting system reliability model based on nonparametric stochastic rainfall generator. Journal of Hydrology. 392: 105–118. \r\n(4) Cowden, J.R., Watkins, D.W. and Mihelcic, J.R. 2008. Stochastic rainfall modeling in West Africa: parsimonious approaches for domestic rainwater harvesting assessment. Journal of Hydrology. 361: 64–77. \r\n(5) World Weather and Climate Information. 2013. Average weather and climate in Indonesia. World Weather and Climate Information website. Available from: http:\/\/www.weather-and-climate.com\/average-monthly-Rainfall-Temperature-Sunshine-in-Indonesia [Accessed September 26, 2014]. \r\n(6) Encyclopedia of the Nations. 2014. Indonesia – Climate. Encyclopedia of the Nations web site. Available from: http:\/\/www.nationsencyclopedia.com\/Asia-and-Oceania\/Indonesia-CLIMATE.html [Accessed September 26, 2014]. \r\n(7) Laresque. 2005. Water Supplies, Department of Landscape Architecture, University of Washington website. Available from: http:\/\/courses.washington.edu\/larescue\/projects\/vince\/. [Accessed September 26, 2014]. \r\n(8) CRD, 1996. Rainwater Harvesting [online]. Capital Regional District website. Available from: http:\/\/www.crd.bc.ca\/water\/conservation\/outdoorwateruse\/recycling\/harvesting.htm. [Accessed March 1, 2013]. \r\n(9) Wikipedia. 2013. Rainwater Harvesting [online]. Wikipedia, the free encyclopedia website. Available from: http:\/\/en.wikipedia.org\/wiki\/Rainwater_harvesting [Accessed March 1, 2013]. \r\n(10) Khastagir, A. and Jayasuriya, N. 2010 Optimal sizing of rain water tanks for domestic water conservation. Journal of Hydrology. 381(3–4): 181–188. \r\n(11) Kahinda, J. M., Taigbenu, A.E., and Boroto, R.J. 2010 Domestic rainwater harvesting as an adaptation measure to climate change in South Africa. Physics and Chemistry of the Earth. 32(15-18): 1050–1057. \r\n(12) Susilo, G.E., Yamamoto, K. and Imai, T. 2011. The Identification of Rainwater Harvesting Potency in Supporting Freshwater Availability under the Effect of El Nino. Proceeding IWA – ASPIRE International Conference, October 2011, Tokyo – Japan. \r\n(13) Fewkes, A. 1999 The use of rainwater for WC flushing: the field testing of a collection system. Building and Environmen. 34(6): 765–772. \r\n(14) Washilatur, R. 2008 Pola konsumsi air untuk kebutuhan domestik di Sukoharjo bagian Utara (Domestic Water Consumption Pattern in Northern Sukoharjo). BSc thesis, Physical Geography Departement, Universitas Muhammadiyah Surakarta, Indonesia. \r\n(15) Wulan, A. I. S. 2005 Kualitas air bersih untuk pemenuhan kebutuhan rumah tangga di Desa Pesarean Kecamatan Adiwerna Kabupaten Tegal (Evaluation of water quality for domestic water use in Pesarean Village, Adiwerna – Tegal). BSc thesis, Geography Departement, Universitas Negeri Semarang, Indonesia. \r\n(16) Qureshi, M. I., Rasli, A. M., Awan, U., Ma, J., Ali, G., Alam, A., ... & Zaman, K. 2014. Environment and air pollution: health services bequeath to grotesque menace. Environmental Science and Pollution Research. 22(5): 3467-3476. \r\n(17) Qureshi, M. I., Khan, N. U., Rasli, A. M., & Zaman, K. 2015. The battle of health with environmental evils of Asian countries: promises to keep.Environmental Science and Pollution Research. 1-8. \r\n(18) Qureshi, M. I., Rasli, A. M., & Zaman, K. 2015. Energy crisis, greenhouse gas emissions and sectoral growth reforms: Repairing the fabricated mosaic. Journal of Cleaner Production."
+    },
+    {
+      "status_changed": "2021-02-22 02:36:29",
+      "eprint_status": "archive",
+      "abstract": "Modal shift from road to rail freight has been examined at last decades throughout many region globally. The shifting decisions tends to be considered on some comparative advantages such as more efficient land use, delivery time, frequent, capacity, costs, less environmental and social impacts. Otherwise, the long distance heavy trucks can be contributed to road congestion that may lead to unplanned maintenance an unpredicted rate of road deterioration. In context of Sumatera-Lampung Line, the modal shift can be arranged to explore the potential market along its line. Finding shows, the existing commodities have an opportunity to be extended, following by its potential market, including energy (especially coal), mining, agriculture, plantation, fishery, livestock, wood industry.",
+      "subjects": [
+        "TA"
+      ],
+      "event_dates": "28 August 2015",
+      "official_url": "http:\/\/fstpt.unila.ac.id\/proceeding-fstpt-18-universitas-lampung\/",
+      "title": "Potential Market for Modal Shift from Road to Rail Freight Case Study: South Sumatera-Lampung Line",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 21,
+      "eprintid": 27987,
+      "event_title": "The 18th FSTPT International Symposium",
+      "date_type": "published",
+      "event_location": "Bandar Lampung, Indonesia",
+      "lastmod": "2021-02-22 02:36:29",
+      "userid": 354,
+      "pagerange": "842-848",
+      "datestamp": "2021-02-22 02:36:29",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 27987,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41994",
+            "rev_number": 1,
+            "docid": 41994,
+            "main": "Isi.pdf",
+            "files": [
+                {
+                  "fileid": 249251,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-02-20 16:53:02",
+                  "hash_type": "MD5",
+                  "hash": "f7dc1da98961b9aa527bc240f3849c5f",
+                  "filename": "Isi.pdf",
+                  "datasetid": "document",
+                  "filesize": 21596942,
+                  "objectid": 41994,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249251"
+                }
+            ]
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41995",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "fileid": 249253,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-20 16:53:07",
+                  "hash": "e27e20642c8e5dc4f253a2601f1a2320",
+                  "filename": "Daf Isi FSTPT 2015.pdf",
+                  "datasetid": "document",
+                  "filesize": 737571,
+                  "objectid": 41995,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249253"
+                }
+            ],
+            "docid": 41995,
+            "main": "Daf Isi FSTPT 2015.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 27987
+          },
+          {
+            "files": [
+                {
+                  "objectid": 41996,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249255",
+                  "datasetid": "document",
+                  "filesize": 1306113,
+                  "fileid": 249255,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-02-20 16:53:12",
+                  "hash_type": "MD5",
+                  "filename": "Judul FSTPT 2015.pdf",
+                  "hash": "6ac22195800dcd446ee81b2cced31cb7"
+                }
+            ],
+            "main": "Judul FSTPT 2015.pdf",
+            "docid": 41996,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41996",
+            "format": "text",
+            "pos": 3,
+            "security": "public",
+            "placement": 3,
+            "eprintid": 27987,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27987",
+      "type": "conference_item",
+      "divisions": [
+        "FT4"
+      ],
+      "creators": [
+        {
+          "id": "kris.usman@gmail.com",
+          "name": {
+            "family": "Usman",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kristianto"
+          }
+        },
+        {
+          "name": {
+            "given": "Rahayu",
+            "honourific": null,
+            "family": "Sulistyorini",
+            "lineage": null
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ],
+      "date": "2015-08-28",
+      "dir": "disk0\/00\/02\/79\/87"
+    },
+    {
+      "rev_number": 7,
+      "volume": 19,
+      "metadata_visibility": "show",
+      "title": "Analisa Karakteristik Hujan di Kota Bandar Lampung",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Knowledge of the characteristics of rainfall causes floods and droughts is an important thing. This\r\nresearch intends to investigate the characteristics of rainfall in the city of Bandar Lampung in order to predict and anticipate events of drought and flood in Bandar Lampung. The data used in\r\nthis study is the annual rainfall data obtained from four rainfall stations in Bandar Lampung from\r\n1987 until 2006. The stations that are: Pahoman Station, Sukarame, Sumur Putri, and Kemiling\r\n(Sumber Rejo). The results showed that the pattern and trend of the respective data from each of\r\nthe stations the rain is not too different from each other. Most of the stations showed decreased dy -\r\nnamically on rainfall. Although this decline did not occur in the rest of the station, but in general\r\ndecline is clearly visible when the trend was taken fourth. A dry year, the year in which the annual\r\nprecipitation totals less than 90% of the average annual rainfall, dominated after the year 2000.\r\nMost of the rainfall in the year El Nino is below the average annual precipitation. Near Pahoman,\r\nthere have been five times the annual rainfall is below average at the time of El Nino (1991, 1992,\r\n1993, 2002, 2004). Near Sukarame, there has been four times the annual rainfall is below average at the time of El Nino (1991, 1997, 2002, 2004). At the Sumur Putri station, there has been\r\nfour times the annual rainfall is below average at the time of El Nino (1991, 1993, 2002, and\r\n2004). Near Kemiling, there has been four times the annual rainfall is below average at the time\r\nof El Nino (1991, 1992, 1997, 2002). This suggests the possibility of EL Nino events are associated with a decrease in rainfall in each station.\r\nKeywords: characteristics, rainfall, Bandar Lampung",
+      "eprint_status": "archive",
+      "status_changed": "2019-08-12 09:07:41",
+      "date_type": "published",
+      "eprintid": 13757,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13757",
+      "refereed": "TRUE",
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13757,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119959",
+                  "objectid": 26768,
+                  "filesize": 178193,
+                  "datasetid": "document",
+                  "filename": "3. JR_welly_desember_2015_179-190.pdf",
+                  "hash": "f8f1aa0ce8d389b4cc5de439ea546f8f",
+                  "mtime": "2019-08-08 02:59:09",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 119959
+                }
+            ],
+            "main": "3. JR_welly_desember_2015_179-190.pdf",
+            "docid": 26768,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26768",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pagerange": "179-190",
+      "datestamp": "2019-08-12 09:07:41",
+      "lastmod": "2019-08-12 09:07:41",
+      "userid": 327,
+      "dir": "disk0\/00\/01\/37\/57",
+      "date": "2015-12",
+      "publication": "Rekayasa, Jurnal Teknik Sipil dan Perencanaan",
+      "creators": [
+        {
+          "name": {
+            "given": "Margaretta",
+            "honourific": null,
+            "family": "Welly",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "0852-7733",
+      "divisions": [
+        "FT4"
+      ],
+      "type": "article"
+    }
+]
+

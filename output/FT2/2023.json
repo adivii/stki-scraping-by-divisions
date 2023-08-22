@@ -1,0 +1,70 @@
+[
+    {
+      "userid": 846,
+      "lastmod": "2023-04-11 00:49:30",
+      "datestamp": "2023-04-11 00:49:30",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 50124,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "SK IV_b Angka kredit yang sudah diakui .pdf",
+            "docid": 189824,
+            "files": [
+                {
+                  "filename": "SK IV_b Angka kredit yang sudah diakui .pdf",
+                  "hash": "4a46a309a0ba9df8e647511edafffe1e",
+                  "mtime": "2023-04-10 11:37:49",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 542023,
+                  "filesize": 232164,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542023",
+                  "objectid": 189824
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189824"
+          }
+      ],
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50124",
+      "type": "other",
+      "divisions": [
+        "FT2"
+      ],
+      "creators": [
+        {
+          "id": "chatarinaniken@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Chatarina",
+            "honourific": null,
+            "given": "Niken"
+          }
+        }
+      ],
+      "id_number": "16993\/S\/07\/2023",
+      "date": "2023-04-01",
+      "dir": "disk0_bak\/00\/05\/01\/24",
+      "status_changed": "2023-04-11 00:49:30",
+      "eprint_status": "archive",
+      "abstract": "Angka kredit yang sudah diakui",
+      "subjects": [
+        "TA"
+      ],
+      "title": "Angka kredit yang sudah diakui",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "rev_number": 7,
+      "eprintid": 50124
+    }
+]
+

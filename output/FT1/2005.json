@@ -1,0 +1,99 @@
+[
+    {
+      "divisions": [
+        "FT1"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/02\/09\/67",
+      "date": "2005-04-24",
+      "creators": [
+        {
+          "id": "sarkov323@yahoo.com",
+          "name": {
+            "given": "Muh",
+            "lineage": null,
+            "family": "Sarkowi",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Wawan",
+            "family": "Gunawan A Kadir",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Djoko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Santoso"
+          }
+        }
+      ],
+      "datestamp": "2020-05-29 04:06:57",
+      "pagerange": "1-5",
+      "userid": 816,
+      "lastmod": "2020-05-29 04:06:57",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20967",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 20967,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 34340,
+            "main": "06de01ca6d86fc789d4d920bf8bab8137fd2.pdf",
+            "files": [
+                {
+                  "filesize": 371801,
+                  "datasetid": "document",
+                  "filename": "06de01ca6d86fc789d4d920bf8bab8137fd2.pdf",
+                  "hash": "cd9bb994fbb80b9ecd8f8c15bcc2266f",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-29 03:31:23",
+                  "mime_type": "application\/pdf",
+                  "fileid": 195778,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/195778",
+                  "objectid": 34340
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34340",
+            "rev_number": 2
+          }
+      ],
+      "date_type": "published",
+      "event_title": "World Geothermal Congress 2005",
+      "eprintid": 20967,
+      "event_location": "Antalaya Turki",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Time Lapse microgravity represents a development of\r\ngravity methods. The microgravity change due to fluid\r\nmovement in the subsurface is very small, therefore special\r\nequipment and strategic surveys are required.\r\nSimulations of response microgravity anomalies must be\r\ndone in order to know the time interval period of\r\nmeasurement and the specification of the gravity meter\r\nwhich must be used. Gravity meter: Graviton-EG Meter,\r\nScitrex-CG5 and of Lacoste & Romberg type G and type D\r\nwith Alliod 100 system are very good for the survey of\r\nmicrogravity. In every period, the measurement sequence of\r\nmicrogravity must be fixed, since every gravity station in\r\none loop can see similar drift correction. Corrections of\r\ntidal gravity observations and theory give different results of amplitude or period, so tidal correction must be\r\nobserved.",
+      "eprint_status": "archive",
+      "status_changed": "2020-05-29 04:06:57",
+      "related_url": [
+        {
+          "url": "https:\/\/pdfs.semanticscholar.org\/c3bb\/06de01ca6d86fc789d4d920bf8bab8137fd2.pdf"
+        }
+      ],
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/pdfs.semanticscholar.org\/c3bb\/06de01ca6d86fc789d4d920bf8bab8137fd2.pdf",
+      "event_dates": "24 - 29 April 2005",
+      "title": "Strategy of 4D Microgravity Survey for the Monitoring of Fluid Dynamics in the Subsurface"
+    }
+]
+

@@ -1,0 +1,82 @@
+[
+    {
+      "volume": 14,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.iptek.its.ac.id\/",
+      "title": "Immobilisation of activated sludge in a column type upflow anaerobic sludge blanket reactor",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "Development of immobilised microorganisms in UASB reactors relies on the formation and the stability of highly settleable immobilised microorganisms’ sludge.  One of the factors that influence these mechanisms is the type of inoculum.  This experiment used the activated sludge to develop anaerobic sludge and aimed to observe the process of immobilisation of the activated sludge and to determine the capacity of the formed anaerobic cells.  Observation indicated that immobilisation of the activated sludge required proper immobilisation strategy.  Concentrations of anaerobic sludge were around 17.00 g-TSS\/L at pH of 6.60-6.90, which were suitable for the UASB operation, but the efficiencies of decomposition were low (5-37%).  Approximately 1 (one) day was required by microorganisms to recover from effects of changes of influent flow rates.  The best flow rates for the cultivation were between 0.30-0.50 L\/h.",
+      "status_changed": "2016-10-04 01:12:41",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/iptek2.its.ac.id\/detail_jurnal.php?masuk=197"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 713,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/713",
+      "refereed": "TRUE",
+      "number": 4,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/611",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 611,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4069",
+                  "datasetid": "document",
+                  "filesize": 1814508,
+                  "fileid": 4069,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-03 13:44:14",
+                  "hash": "12cdb0f2a19915b22e3479ed2b0b1e53",
+                  "filename": "06 Jurnal Nasional IPTEK ITS 2003.pdf"
+                }
+            ],
+            "main": "06 Jurnal Nasional IPTEK ITS 2003.pdf",
+            "docid": 611,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 713
+          }
+      ],
+      "publisher": "Lembaga Penelitian Institut Teknologi 10 Nopember",
+      "pagerange": "185-192",
+      "datestamp": "2016-10-04 01:12:41",
+      "lastmod": "2016-10-04 01:12:41",
+      "userid": 390,
+      "dir": "disk0\/00\/00\/07\/13",
+      "date": "2003-11",
+      "publication": "Majalah IPTEK Jurnal Ilmu Pengetahuan Alam dan Teknologi",
+      "issn": "0853-4098",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "given": "Joni",
+            "lineage": null,
+            "honourific": null,
+            "family": "Agustian"
+          }
+        }
+      ],
+      "divisions": [
+        "FT6"
+      ],
+      "type": "article"
+    }
+]
+

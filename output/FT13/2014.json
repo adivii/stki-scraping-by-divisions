@@ -1,0 +1,546 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 13795,
+      "rev_number": 15,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/lemlit.unila.ac.id.",
+      "title": "ANALISIS KETELITIAN KOREKSI GEOMETRIK DATA QUICKBIRD PESISIR TELUK LAMPUNG MENGGUNAKAN RECEIVER TIPE NAVIGASI",
+      "referencetext": "Bernstein, R., 1983. Image  Geometry   and  Rectification.   Chapter  21   in  The   Manual of  Remote Sensing,  R.  N  Colwell,  ed .. Bethesda.   MD. American  Society of Photogrametry,  I:875-881.\r\n\r\nLillesand M .T  Jan  R. W. Kieffer.  ( 1997). Penginderaan  Jauh  dan lnterpretasi  Citra.  Gadjah Mada\r\nUniversity  Press, Yogyakarta. \r\n\r\nMunir.R, (2004).  Pengoluhan  Cara Digital dengan Pendekatan Algoritma.  lnformatika  Bandung.\r\n\r\nThurston.J,   Thomas     K.P  dan  J.Patrick   Moore,  (2003),  Intergrated   Geospasial   Technologies.  A Guide to   GPS, GIS  and Data logging, John  Willey  &  Sons,  Inc,  Hoboken,   New  Jersey Canada.",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Kesalahan geometrik  baik sistematik maupun  non sistematik yang terdapat  pada data digital penginderaan jauh  dapat  dikoreksi  baik dengan  menggunakan  variabel yang diketahui dalam internal  sensor juga  dapat  dilakukan  koreksi  dengan menyamakan ( matching) koordinat dengan citra  yaang telah dikoreksi  atau dengan menggunakan titik  kontrol  tanah\/GCP (Ground Control Point). Tujuan penelitian ini adlah untuk mengetahui  ketelitian  koreksi geometrik data Quickbird pesisir Teluk Lampung menggunakan  GPS  receiver  type navigasi.  Bahan yang digunakan  pada penelitian ini adalah  Citra Quickbird  dan data GPS Nuvigasi  yang digunakan sehagai GCP (Ground Control Point). Tahapan  penelitian ini meliputi  pengadaan citra, pengolahan  citra (RGB) dan pemotongan, penetapan titk kontraol tanah, Registrasi citra, serta Analisis ketelitian Geometrik. Hasil koreksi geometrik menggunakan 17 tahap koreksi yaitu dengan sebaran GCP; 4, 5, 9, 13, 21, 37, 46, 57, 68,76, 87, 97,106, 118,127, 130, dan 150 titik. 17 sebaran ini menghasilkan citra yang terkoreksi geometriknya dengan pemilihan daerah kepadatan tinggi bertopografi yang relatif datar. Proses koreksi  geometrik  data citra Quickbird ini memperoleh hasil pergeseran jarak ≤ 2,11 meter sehingga pergeseran ini masih dalam batas  toleransi  dan ketelitian  GPS receiver type navigasi yang keteltian ukurannya mencapai maksimal 3 meter).  Untuk menghasilkan ketelitian terbaik dengan metode penelitian ini adalah dengan menempatkan sebaran titik GCP merata pada citra, dimana besarnya jumlah titik GCP tidak mempengaruhi tingkat ketelitian hasil. Semakin merata titik GCP dengan kerapatan yang normal akan menghasilkan ketelitian semakin baik.",
+      "eprint_status": "archive",
+      "status_changed": "2019-08-12 09:08:18",
+      "related_url": [
+        {
+          "url": "https:\/\/armijon.com\/"
+        }
+      ],
+      "dir": "disk0\/00\/01\/37\/95",
+      "date": "2014-10-10",
+      "publication": "Prosiding seminar hasil hasil penelitian - Lembaga Penelitian Unila",
+      "issn": "978-979-8510-73-1",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "honourific": null,
+            "family": "Armijon",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Citra",
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null
+          }
+        }
+      ],
+      "keywords": "Quickbird, GPS navigas, Koreksi Geometrik Citra, GCP, Sebaran GCP",
+      "divisions": [
+        "FT13"
+      ],
+      "contact_email": "armijon@eng.unila.ac.id",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13795",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 26810,
+            "main": "Prosiding SemNas Penelitian Analisis Ketelitian Geometrik Quickbird dengan GPS Navigasi.pdf",
+            "files": [
+                {
+                  "filesize": 2730304,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-10 04:09:46",
+                  "hash": "c541544823fb1376c38ef593180225a1",
+                  "filename": "Prosiding SemNas Penelitian Analisis Ketelitian Geometrik Quickbird dengan GPS Navigasi.pdf",
+                  "fileid": 120230,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120230",
+                  "objectid": 26810
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Prosiding Analisis Ketelitian Geometrik Quickbird dengang GPS Nav",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26810",
+            "eprintid": 13795,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "id"
+          }
+      ],
+      "datestamp": "2019-08-12 09:08:18",
+      "pagerange": "166-175",
+      "lastmod": "2019-08-12 09:08:18",
+      "userid": 102
+    },
+    {
+      "publisher": "SEMBISTEK 2014 IBI DARMAJAYA",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 97068,
+                  "filename": "ANALISIS PEMBUATAN PETA ZONA RAWAN.pdf",
+                  "hash": "2423b39f05035649800f39d5e4d43e84",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-28 14:52:46",
+                  "datasetid": "document",
+                  "filesize": 1328063,
+                  "objectid": 23466,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97068"
+                }
+            ],
+            "main": "ANALISIS PEMBUATAN PETA ZONA RAWAN.pdf",
+            "docid": 23466,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23466",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10447,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10447",
+      "full_text_status": "public",
+      "userid": 102,
+      "lastmod": "2019-04-29 07:54:19",
+      "datestamp": "2019-04-29 07:54:19",
+      "creators": [
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "armijon.1973@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly",
+            "given": "Romi"
+          }
+        }
+      ],
+      "issn": "2407-6171",
+      "publication": "Proseding Seminar Bisnis & Teknologi",
+      "date": "2014-12-15",
+      "dir": "disk0\/00\/01\/04\/47",
+      "type": "article",
+      "contact_email": "armijon.1973@eng.unila.ac.id",
+      "keywords": "tsunami, coastal, Bandar Lampung",
+      "divisions": [
+        "FT13"
+      ],
+      "title": "ANALYSIS OF MAKING TSUNAMI DISASTER ZONE MAP IN COASTAL AREA (Location study: Bandar Lampung City Coastal)",
+      "metadata_visibility": "show",
+      "rev_number": 17,
+      "status_changed": "2019-04-29 07:54:19",
+      "eprint_status": "archive",
+      "abstract": "Based  on  Undang-undang  No.  24  of  2007  about  preventive  of  disaster,  that  disaster  is caused  by  phenomenon  such  as  earth  quake,  volcano  eruption,  flood,  dryness,  typhoon, and  landslide.  This  research  will  analyze  how  to  make  a  tsunami-prone  zone  map  for coastal  area  in  order  to  give  direction  to  prevent  tsunami  disaster.  This  research  uses image  of  location  to  create  map  to  determine  location  of  tsunami-prone  and  also evacuation  path  as  early  alarm  to  minimize  victims.  From  this  map,  discovered  that  if wave height is 5 m, tsunami will reach154 m from coastline. While if wave height is 15m, tsunami will reach 488 m from coast line. If wave height is 25 m, tsunami will reach 843 m from coastline, and for wave height of 40 m, tsunami will reach 955 m from coastline. \r\n\r\nKey words: tsunami, coastal, Bandar Lampung",
+      "subjects": [
+        "TA",
+        "TC"
+      ],
+      "eprintid": 10447,
+      "date_type": "published"
+    },
+    {
+      "ispublished": "unpub",
+      "publisher": "LPPM Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "eprintid": 19548,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32790",
+            "rev_number": 3,
+            "formatdesc": "Analisis Pembuatan Peta Zona Rawan Bencana Tsunami Pada Daerah Pesisir (studi kasus pesisir kota Bandar Lampung)",
+            "main": "2014 Laporan Penelitian DIPA FT Pemetaan Zona Tsunami Di BDL.pdf",
+            "docid": 32790,
+            "files": [
+                {
+                  "filesize": 2375881,
+                  "datasetid": "document",
+                  "hash": "93590e72ba8f03c4635bfd8c940052e9",
+                  "filename": "2014 Laporan Penelitian DIPA FT Pemetaan Zona Tsunami Di BDL.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-09 14:06:56",
+                  "mime_type": "application\/pdf",
+                  "fileid": 163313,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163313",
+                  "objectid": 32790
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19548",
+      "lastmod": "2020-05-11 03:01:02",
+      "userid": 102,
+      "datestamp": "2020-05-11 03:01:02",
+      "creators": [
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yohannes",
+            "honourific": null,
+            "family": "Yohannes",
+            "lineage": null
+          },
+          "id": "yohannessp@gmail.com"
+        }
+      ],
+      "date": "2014-11-17",
+      "dir": "disk0\/00\/01\/95\/48",
+      "contact_email": "citradewirohana@yahoo.com",
+      "type": "other",
+      "funders": [
+        "Hibah Berbasis DIPA Fakultas Teknik Universitas Lampung 2014"
+      ],
+      "keywords": "Gunung Anak Krakatau, Pesisir Lampung, Tinggi Gelombang Tsunami, Peta Rendaman Tsunami",
+      "divisions": [
+        "FT13"
+      ],
+      "title": "Analisis Pembuatan Peta Zona Rawan Bencana Tsunami Pada Daerah Pesisir (studi kasus pesisir kota Bandar Lampung)",
+      "referencetext": "Adityawan,  Bagus,  M.  2007.  Pomodelan  Pemodelan Aliran Permukaan 2D Pada Satu Lahan Akibat Rambatan Tsunami.  lnstitut  Teknologi Bandung, Bandung.\r\n\r\nAronoff, S., 1989, Geographic Information System: A Management Perspective, WDL Publication, Ottawa, Canada.\r\n  \r\nDiposapto, S, dan Budiman. 2006. Tsunami. Buku Ilmiah Populer, Jakarta.\r\n\r\nLillesand.M.T  dan  R.W.  Kieffer,  (1990),  Pengindraan  Jauh  dan Interpretasi Citra, Gadjah Mada University Press, Yogyakarta.\r\n\r\nMardiyanto,  B.,  Rochaddi,  B.,  dan  Helmi,  M.  2013.  Kajian  Kerentanan Tsunami  Menggunakan  Metode  Sistem  Informasi  Geografi  di Kabupaten  Bantul, Daerah  lstimewa  Yogyakarta. Journl Of Marine Research.  Volume 2,  Nomor 1, Halaman 103-111.\r\n\r\nSengaji, Ernawnti  2009  Pemetaan Tingkat Resiko Tsunami di Kabupaten Sikka. Nusa  Tenggara Timur. lnstitut Pertanian  Bogor, Bogor.\r\n\r\nUndang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana.\r\n\r\nYudichara  dan  Budiono,  K.  2008.Tsunamigenik  di  Selat  Sunda:  Kajian terhadap  katalog  Tsunami . Jurnal Geologi Indonesia. Volume 3,  Nomor 4, Halaman 241-251.\r\n\r\nZakaria  ,  Ahmad  dan  Susllowati,  Kartini.  2012. Simulasi  Waktu Perambatan  Dan  Tinggi  Gelombang Tsunami  Akibal  Meletusnya Gunung  Anak  Krakatau.  Seminar Nasional Peranan Infrastruktur Dalam Pengembangan Wilayah. Magister  Teknik  Sipil  UNILA, Bandar Lampung.\r\n\r\nhttp:\/\/www.iniGIS.com\/ (akses 16 September 2013}",
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "status_changed": "2020-05-11 03:01:02",
+      "eprint_status": "archive",
+      "subjects": [
+        "GA",
+        "GC",
+        "T1"
+      ],
+      "abstract": "Berdasarkan  Undang-undang  No.  24  tahun  2007  tentang  penanggulangan  bencana dikatakan  bahwa  Bencana  alam  adalah  bencana  yang  diakibatkan  oleh  peristiwa  atau serangkaian  peristiwa  yang  disebabkan  oleh  alam  antara  lain  berupa  gempa  bumi, tsunami,  gunung  meletus,  banjir,  kekeringan,  angin  topan,  dan  tanah  longsor.  Pada penelitian ini akan dilakukan analisis pembuatan peta zona rawan tsunami pada daerah pesisir  yang  bertujuan  untuk  memberikan  arahan  penanggulangan  terjadinya  bencan tsunami. Penelitian ini menggunakan data dasar peta citra yang kemudian menghasilkan lokasi mana saja yang termasuk dalam zona rawan tsunami serta jalur evakuasi sehingga dapat  digunakan  sebagai  bentuk  peringatan  dini  untuk  menghindari  besarnya  korban jiwa. Dari peta zonasi rawan bencana tsunami di pesisir kota Bandar Lampung terlihat pada  tinggi  gelombang  tsunami  mencapai  5m  daerah  yang  terkena  dampaknya  adalah daerah yang terletak sekitaran  154m  dari garis  pantai,  pada  tinggi  gelombang  tsunami mencapai  15m  daerah  yang  terkena  dampaknya  adalah  daerah  yang  terletak  sekitaran 488m  dari  garis  pantai,  pada  tinggi  gelombang  tsunami  mencapai  25m  daerah  yang terkena dampaknya adalah daerah yang terletak sekitaran 843m dari garis pantai, pada tinggi gelombang tsunami mencapai 40m daerah yang terkena dampaknya adalah daerah yang terletak sekitaran 955m dari garis pantai.",
+      "eprintid": 19548,
+      "date_type": "completed"
+    },
+    {
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Pelaksanaan kegiatan Pelatihan Pemanfaatan Data Penginderaan Jauh Google Earth untuk Pembuatan Peta Citra bagi Siswa SMK Negeri 2 Bandar Lampung Jurusan Survey dan Pemetaan dilaksanakan sebagai bentuk dukungan Universitas Lampung dalam bal ini Fakultas Teknik, Jurusan Teknik Sipil, Program Studi Diploma Ill Teknik Survei dan Pemetaan terhadap peningkatan sumber daya manusia pada SMK Negeri 2 Bandar Lampung. Kegiatan yang bertujuan memberi wawasan pengetahuan teknologi penginderaan jauh serta melatih keterampilan peserta dalam hal memanfaatkan data penginderaan jauh untuk keperluan pembuatan peta citra ini dilaksanakan dari tanggal 14 sampai dengan 16 November 2014. Tim pelaksana kegiatan pengabdian ini terdiri dari Citra Dewi, S.T., M.Eng., Romi Fadly,S.T., M.Eng. ,lr.Yohannes, M.T., dan Armijon, S.T.,M.T.\r\n\r\nMetode yang digunakan dalam pelatihan antara lain memberikan tutorial serta melakukan praktik pengumpulan data citra google earth secara online. Materi yang diberikan pada kegiatan pelatihan ini meliputi: Pengenalan teknologi Penginderaan Jauh, Kegunaan dan Jenis\/Macam data penginderaan jauh (disampaikan oleh Ir. Yohannes, M.T.), Praktik Pengumpulan data citra google earth dilakukan secara online (Armijon., S.T.,M.T) dan Pengolahan data dengan melakukan koreksi geometrik citra berdasarkan titik pengukuran GPS tipe navigasi (disampaikan oleh Romi Fadly, S.T.,M.Eng.), dan layout serta penyajian data citra yang telah terkoreksi geometrik berupa peta citra (disampaikan oleh Citra Dewi, S.T.,M.Eng.)",
+      "eprint_status": "archive",
+      "status_changed": "2019-10-17 01:04:13",
+      "succeeds": 13990,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/lppm.unila.ac.id\/",
+      "title": "Pelatihan Pemanfaatan Data Penginderaan Jauh Google Earth untuk Pembuatan Peta Citra bagi Siswa SMK Negeri 2 Bandar Lampung Jurusan Survey dan Pemetan.",
+      "referencetext": "Sutanto, 1992, Penginderaan Jauh, Jilid 1, Gadjah Mada University Press, Yogyakarta.",
+      "date_type": "completed",
+      "eprintid": 14030,
+      "datestamp": "2019-10-17 01:04:13",
+      "userid": 102,
+      "lastmod": "2019-10-17 01:04:14",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14030",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "eprintid": 14030,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Pelatihan Pemanfaatan data Penginderaan Jauh Google Earth Untuk Pembuatan Peta Citra Bagi Siswa SMK Negeri 2 Bandar Lampung Jurusan Survey dan Pemetaan",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27063",
+            "docid": 27063,
+            "main": "Laporan Pengabdian - Google Earth SMKN2 2014.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 7797826,
+                  "mime_type": "application\/pdf",
+                  "fileid": 122109,
+                  "filename": "Laporan Pengabdian - Google Earth SMKN2 2014.pdf",
+                  "hash": "784a8461365187d133df84574ec82666",
+                  "mtime": "2019-08-28 07:56:31",
+                  "hash_type": "MD5",
+                  "objectid": 27063,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122109"
+                }
+            ]
+          }
+      ],
+      "publisher": "Fakultas Teknik Unila",
+      "funders": [
+        "DIPA FT Unila"
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Pelatihan Pemanfaatan Data Penginderaan Jauh, Pembuatan Peta Citra Siswa SMKN 2, Pengabdian D3 Teknik Survey dan Pemetaan, peningkatan SDM SMKN 2",
+      "type": "other",
+      "date": "2014-11-11",
+      "dir": "disk0\/00\/01\/40\/30",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null,
+            "given": "Citra"
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null,
+            "given": "Romi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Armijon",
+            "lineage": null,
+            "given": "Armijon"
+          },
+          "id": "armijon@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "lastmod": "2023-04-12 07:41:08",
+      "userid": 30,
+      "datestamp": "2023-04-12 07:41:08",
+      "pagerange": "1-30",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50365,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190061",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 190061,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543703",
+                  "fileid": 543703,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-12 04:07:40",
+                  "hash": "9c9209e6c0dc78d2b507603b05873005",
+                  "filename": "10. Laporan Akhir IbM Ternak Sapi-Kediri-Fajri-Sri Ismi.pdf",
+                  "datasetid": "document",
+                  "filesize": 1605707
+                }
+            ],
+            "main": "10. Laporan Akhir IbM Ternak Sapi-Kediri-Fajri-Sri Ismi.pdf",
+            "docid": 190061
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50365",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FT13"
+      ],
+      "publication": "Laporan Akhir IbM KELOMPOK TERNAK SAPI BIBIT DI DUSUN KEDIRI II,  DESA KEDIRI, KEC. GADINGREJO, KAB. PRINGSEWU, LAMPUNG",
+      "creators": [
+        {
+          "name": {
+            "given": "Fajriyanto",
+            "family": "Fajriyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fajri_yanto@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Damayanti",
+            "honourific": null,
+            "given": "Sri Ismiyati"
+          },
+          "id": "mya_wid@yahoo.com"
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0_bak\/00\/05\/03\/65",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-12 07:41:08",
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "Saat ini krisis energi sangat dirasakan oleh seluruh masyarakat Indonesia,\r\ntermasuk  warga  dusun  Kediri  II,  Desa  Kediri,  Kec.  Gadingrejo,  Kab.  Pringsewu,\r\nLampung. Lokasi dusun  yang jauh dari akses jalan kabupaten serta kemampuan ekonomi\r\nwarga yang rendah karena hanya berasal dari menggarap sawah dan berladang di pereng\r\nsungai menyebabkan warga sulit memenuhi kebutuhan elpiji untuk memasak. Selain\r\nkesulitan dalam penyediaan elpiji, suasana dusun yang gelap saat malam karena belum\r\nada fasilitas penerangan jalan dan warga tidak mampu menyediakannya secara swadaya\r\nakibat  keterbatasan  kemampuan  membayar  tarif  listrik,  juga  merupakan  masalah\r\ntersendiri bagi warga.\r\nDibalik keterbatasan di atas, desa ini menyimpan potensi. Saat ini telah bergulir\r\nbantuan dari pemda Pringsewu berupa sapi-sapi yang diproyeksikan sebagai penyedia\r\nsapi bibit. Aspek produksi maupun manajemen usaha peternakan sapi bibit ini sudah\r\ndikelola oleh pemda. Namun limbah buang peternakan yaitu kotoran sapi belum dikelola.\r\nPadahal kotoran sapi ini sangat potensial untuk dijadikan biogas yang dapat dimanfaatkan\r\nuntuk memasak maupun penerangan jalan.\r\nTujuan dari IbM ini adalah menyadarkan warga akan potensi yang dimiliki, yaitu\r\nkotoran sapi, yang sebenarnya dapat menjadi solusi masalah yang ada. Selain itu, juga akan\r\ndiaplikasikan teknologi biogas sehingga masalah warga benar-benar terselesaikan, dimana\r\ntersedia biogas untuk memasak dan lampu petromaks berbahan bakar biogas yang dapat\r\nmenerangi jalan.\r\nMetode yang digunakan dalam program ini adalah sosialisasi, pendampingan,\r\ndan penerapan riil di lapangan. Sosialisasi dan diskusi dengan warga dilakukan untuk\r\nmengetahui permasalahan  yang ada pada mereka, membuka wacana  yang mengantar\r\nwarga pada pengambilan solusi dari masalah yang ada, dengan mengoptimalkan potensi\r\nyang dimiliki. Kemudian dilakukan penerapan di lapangan yaitu penginstalan digester\r\nbiogas dan pengoperasiannya, kemudian dilanjutkan dengan pendampingan hingga warga\r\ndapat mandiri dalam mengoperasikannya.\r\nLuaran yang ditargetkan adalah tersedianya biogas untuk kebutuhan memasak,\r\ntersedianya petromaks berbahan bakar biogas untuk penerangan jalan, terwujudnya\r\nlingkungan yang sehat dan bebas bau kotoran sapi, dan terpasangnya digester tipe fix dome \r\n3\r\nberkapasitas 10 m\r\n yang digunakan sebagai reaktor mengolah kotoran sapi\r\nmenjadi biogas.",
+      "title": "LAPORAN AKHIR\r\nIPTEKS BAGI MASYARAKAT (IbM), IbM KELOMPOK TERNAK SAPI BIBIT DI DUSUN KEDIRI II, DESA KEDIRI, KECAMATAN GADINGREJO, KABUPATEN PRINGSEWU, LAMPUNG",
+      "referencetext": "Damayanti, S.I., 2010, “Pemanfaatan Stillage menjadi Biogas melalui Proses Co- digestion\r\nStillage dan Kotoran Sapi”, Laporan Tesis S2, hal. 35-40, Program Pascasarjana Teknik\r\nKimia, Universitas Gadjah Mada, Jogjakarta. \r\nWiratni, 2010, “Improved Design Of Low-Cost Anaerobic Digesters For Household Biogass\r\nProduction In Indonesian Rural Areas”, CHEMECA 2010, Adelaide, Australia. \r\nWiratni, and Purnomo, C.W., 2009, “Optimization of Continuous Bio-Digester : Part 2.\r\nQuantitative Analysis on Biogas Formation Rate and Product Composition”, Chemical\r\nEngineering Department Gadjah Mada University, Yogyakarta.",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 50365,
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "referencetext": "Damayanti, S.I., 2010, “Pemanfaatan Stillage menjadi Biogas melalui Proses Co-\r\ndigestion Stillage dan Kotoran Sapi”, Laporan Tesis S2, hal. 35-40, Program\r\nPascasarjana Teknik Kimia, Universitas Gadjah Mada, Jogjakarta.\r\nDirektorat Jenderal Listrik dan Pemanfaatan Energi, 2004, ”Potensi energi terbaharukan\r\ndi Indonesia”, Jakarta\r\nMohammad Junaidi dan Sami'an, 2002, ”Pemanfaatan Teknologi Biogas Sebagai\r\nSumber Energi Ramah Lingkungan Di Perusahaan Susu Umbul Katon\r\nSurakarta” , Universitas Muhammadiyah Surakarta\r\nPresiden Republik Indonesia, 2006, “Peraturan Presiden Republik Indonesia Nomor 5\r\nTahun 2006 Tentang Kebijakan Energi Nasional”, Jakarta\r\nWiratni, 2010, “Improved Design Of Low-Cost Anaerobic Digesters For Household\r\nBiogass Production In Indonesian Rural Areas”, CHEMECA 2010,\r\nAdelaide, Australia.\r\nWiratni, and Purnomo, C.W., 2009, “Optimization of Continuous Bio-Digester : Part 2. \r\nQuantitative Analysis on Biogas Formation Rate and Product Composition”,\r\nChemical Engineering Department Gadjah Mada University, Yogyakarta.",
+      "title": "POTENSI KOTORAN SAPI UNTUK MEMPRODUKSI BIOGAS PADA \r\nKELOMPOK TERNAK BIBIT SAPI",
+      "abstract": "Saat ini krisis energi sangat dirasakan oleh seluruh masyarakat Indonesia, termasuk warga\r\nDusun Kediri II, Desa Kediri, Kecamatan Gadingrejo, Kabupaten Pringsewu, Propinsi\r\nLampung. Lokasi dusun yang jauh dari akses jalan kabupaten serta kemampuan ekonomi\r\nwarga yang rendah karena hanya berasal dari menggarap sawah dan berladang di pereng\r\nsungai menyebabkan warga sulit memenuhi kebutuhan elpiji untuk memasak. Selain\r\nkesulitan dalam penyediaan elpiji, suasana dusun yang gelap saat malam karena belum\r\nada fasilitas penerangan jalan dan warga tidak mampu menyediakannya secara swadaya\r\nakibat keterbatasan kemampuan membayar tarif listrik, juga merupakan masalah\r\ntersendiri bagi warga.\r\nDibalik keterbatasan di atas, desa ini menyimpan potensi. Saat ini telah bergulir bantuan\r\ndari Pemda Pringsewu berupa sapi-sapi yang diproyeksikan sebagai penyedia sapi bibit.\r\nAspek produksi maupun manajemen usaha peternakan sapi bibit ini sudah dikelola oleh\r\nPemda. Namun limbah buang peternakan yaitu kotoran sapi belum dikelola. Padahal\r\nkotoran sapi ini sangat potensial untuk dijadikan biogas yang dapat dimanfaatkan untuk\r\nmemasak maupun penerangan jalan. Tujuan dari IbM ini adalah menyadarkan warga akan\r\npotensi yang dimiliki, yaitu kotoran sapi, yang sebenarnya dapat menjadi solusi masalah\r\nyang ada. Selain itu, juga akan diaplikasikan teknologi biogas dengan membuat digester\r\nsehingga masalah warga benar-benar terselesaikan, dimana tersedia biogas untuk\r\nmemasak dan lampu petromaks berbahan bakar biogas yang dapat menerangi jalan.\r\nMetode yang digunakan dalam program ini adalah sosialisasi, pendampingan, dan\r\npenerapan riil di lapangan. Sosialisasi dan diskusi dengan warga dilakukan untuk\r\nmengetahui permasalahan yang ada pada mereka, membuka wacana yang mengantar \r\nwarga pada pengambilan solusi dari masalah yang ada, dengan mengoptimalkan potensi\r\nyang dimiliki. Kemudian dilakukan penerapan di lapangan yaitu penginstalan digester\r\nbiogas dan pengoperasiannya, kemudian dilanjutkan dengan pendampingan hingga warga\r\ndapat mandiri dalam mengoperasikannya.",
+      "subjects": [
+        "QD"
+      ],
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-12 07:41:06",
+      "date_type": "published",
+      "eprintid": 50364,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50364",
+      "documents": [
+          {
+            "eprintid": 50364,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 190060,
+            "main": "12. Potensi Kotoran Sapi untuk Memproduksi Biogas_Fajriyanto-Sri Ismiyati.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 327174,
+                  "mime_type": "application\/pdf",
+                  "fileid": 543697,
+                  "filename": "12. Potensi Kotoran Sapi untuk Memproduksi Biogas_Fajriyanto-Sri Ismiyati.pdf",
+                  "hash": "66f71a5a1df8f1a477ca03f2137f2b86",
+                  "mtime": "2023-04-12 03:50:33",
+                  "hash_type": "MD5",
+                  "objectid": 190060,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543697"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190060",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "datestamp": "2023-04-12 07:41:06",
+      "pagerange": "185-195",
+      "userid": 30,
+      "lastmod": "2023-04-12 07:41:06",
+      "id_number": 1,
+      "dir": "disk0_bak\/00\/05\/03\/64",
+      "date": 2014,
+      "creators": [
+        {
+          "id": "fajri_yanto@yahoo.com",
+          "name": {
+            "given": "Fajriyanto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fajriyanto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Damayanti",
+            "honourific": null,
+            "given": "Sri Ismiyati"
+          },
+          "id": "mya_wid@yahoo.com"
+        }
+      ],
+      "publication": "S e m i n a r  N a s i o n a l  P e n g a b d i a n  K e p a d a  M a s y a r a k a t  2 0 1 4",
+      "divisions": [
+        "FT13"
+      ],
+      "type": "article"
+    }
+]
+

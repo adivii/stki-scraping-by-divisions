@@ -1,0 +1,79 @@
+[
+    {
+      "official_url": "http:\/\/www.asian-transactions.org\/",
+      "eprint_status": "archive",
+      "succeeds": 686,
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Abstract— A study was done using monthly rainfall data with\r\nlong data 25 years (1977-2001) of Purajaya station. The goal of\r\nthis research is to study periodic and stochastic models of data\r\nseries of the monthly cumulative rainfall. Based on daily rainfall\r\ndata, monthly cumulative rainfall data series was calculated. The\r\nseries of rainfall is assumed to be free of trend. Periodicities of\r\nrainfall data were presented using 125 periodic components.\r\nStochastic series of rainfall data are assumed as residues between\r\nrainfall data with periodic rainfall model. Stochastic components\r\nwere calculated using the approach of autoregressive model.\r\nStochastic Model presented in this research is using the fourth\r\norders autoregressive model. Validation between data and the\r\nmodel is done by calculating the correlation coefficient. For this\r\nstudy, the correlation coefficient between the data and the model\r\nof the cumulative monthly rainfall is 0.9992. From the results of\r\nthis study can be inferred that the model of the monthly rainfall\r\nfrom Purajaya station gives highly accurate approach.",
+      "eprintid": 49184,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "Asian-Transactions",
+      "lastmod": "2023-03-24 01:31:20",
+      "datestamp": "2023-03-24 01:31:20",
+      "date": "2011-07",
+      "type": "article",
+      "divisions": [
+        "FT2"
+      ],
+      "title": "A study of periodic and stochastic modeling of\r\nmonthly rainfall from Purajaya station",
+      "referencetext": "J. Cooley, W. James, Tukey, W. John, “An Algorithm for the machine\r\ncalculation of Complex Fourier Series,” Mathematics of Computation.\r\npp. 199-215, 1965.\r\nN. T. Kottegoda, Stochastic Water Resources Technology, The\r\nMacmillan Press Ltd., London, 1980.\r\nA. Zakaria, “Preliminary study of tidal prediction using Least Squares\r\nMethod,” M.S. Thesis, Bandung Institute of Technology, Bandung,\r\nIndonesia, 1998.\r\nM. Rizalihadi, “The generation of synthetic sequences of monthly\r\nrainfall using autoregressive model,” Jurnal Teknik Sipil Universitas\r\nSyah Kuala, vol. 1, no. 2, pp. 64-68, 2002.\r\nA. Zakaria, “Numerical Modelling of Wave Propagation Using Higher\r\nOrder Finite Difference Formulas,” Ph.D. dissertation, Curtin University\r\nof Technology, Perth, WA, 2003.\r\nS.R. Bhakar, R.V. Singh, N. Chhajed, and A.K. Bansal, “Stochastic\r\nmodeling of monthly rainfall at Kota region,” ARPN Journal of\r\nEngineering and Applied Sciences, vol. 1, no. 3, pp. 36-44, 2006.\r\nA. Zakaria, “The generation of synthetic sequences of monthly\r\ncumulative rainfall using FFT and least squares method,” in Proc.\r\nSeminar Hasil Penelitian & Pengabdian kepada masyarakat\r\nUniversitas Lampung, Lampung University, 2008, vol. 1, pp. 1-15.\r\nA. Zakaria, “ A study periodic modeling of daily rainfall at Purajaya\r\nregion,” in Proc. Seminar Nasional Sain & Teknologi III, 18-19\r\nOctober 2010, Lampung University, vol. 3, pp. 1-15.\r\nA. Zakaria, “ Studi pemodelan stokastik curah hujan harian dari data\r\ncurah hujan stasiun Purajaya,” in Proc. Seminar Nasional Sain Mipa\r\ndan Aplikasinya, 8-9 December 2010, Lampung University, vol. 2, pp.\r\n145-155.",
+      "volume": 1,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2023-03-24 01:31:20",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 7,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188641",
+            "docid": 188641,
+            "main": "ate - a study of periodic - 2011.pdf",
+            "files": [
+                {
+                  "objectid": 188641,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534366",
+                  "datasetid": "document",
+                  "filesize": 4191313,
+                  "mime_type": "application\/pdf",
+                  "fileid": 534366,
+                  "filename": "ate - a study of periodic - 2011.pdf",
+                  "hash": "a3e791303c16f4974e10bf721eaa3a5a",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-23 07:09:51"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49184,
+            "security": "public",
+            "placement": 7
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49184",
+      "refereed": "TRUE",
+      "userid": 491,
+      "pagerange": "1-7",
+      "publication": "Asian Transactions on Engineering",
+      "issn": "2221-4267",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/91\/84",
+      "keywords": "monthly cumulative rainfall, periodic and stochastic, FFT, autoregressive model."
+    }
+]
+

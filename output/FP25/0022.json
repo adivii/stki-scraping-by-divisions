@@ -1,0 +1,107 @@
+[
+    {
+      "lastmod": "2022-03-16 01:57:20",
+      "userid": 741,
+      "pagerange": "31-40",
+      "datestamp": "2022-03-16 01:57:20",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 40187,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161495",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/449072",
+                  "objectid": 161495,
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-15 07:35:26",
+                  "hash": "97898781d9f39b74db24fdbece5c21ed",
+                  "filename": "Maria Viva Rini -JAAST 2022.pdf",
+                  "fileid": 449072,
+                  "mime_type": "application\/pdf",
+                  "filesize": 326131,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 161495,
+            "main": "Maria Viva Rini -JAAST 2022.pdf"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40187",
+      "type": "article",
+      "divisions": [
+        "FP25"
+      ],
+      "issn": "2621-2528",
+      "creators": [
+        {
+          "id": "maria.vivarini@fp.unila.ac.id",
+          "name": {
+            "given": "Maria Viva",
+            "honourific": null,
+            "family": "Rini",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Syaifudin Nur",
+            "lineage": null,
+            "family": "Hasan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "kfhidayat@gmail.com",
+          "name": {
+            "given": "Kuswanta Futas",
+            "honourific": null,
+            "family": "Hidayat",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aeny",
+            "lineage": null,
+            "given": "Titik Nur"
+          },
+          "id": "titik.nuraeny@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Journal of Applied Agricultural Science and Technology",
+      "dir": "disk0\/00\/04\/01\/87",
+      "date": "0022-02",
+      "related_url": [
+        {
+          "url": "https:\/\/www.jaast.org\/index.php\/jaast"
+        }
+      ],
+      "status_changed": "2022-03-16 01:57:20",
+      "eprint_status": "archive",
+      "abstract": "Currently, basal stem rot disease incident in oil palm caused by the Ganoderma sp. increasing rapidly. Arbuscular mycorrhizal fungi (AMF) are one of the types of mycorrhizae that are useful for plants as they can increase plant growth and resistance to disease. Therefore, this study aimed to determine whether the application of AMF to oil palm seedlings was able to increase the growth and resistance of oil palm seedlings against Ganoderma sp. The study used a\r\nfactorial treatment design (4x2) with 5 replications arranged according to a completely randomized block design. The first factor was the type of AMF, namely without AMF (m0), Glomus sp. (m1), Entrophospora sp. (m2), and a mixture of Glomus sp. with Entrophospora sp. (m3). The second factor was soil from the oil palm rhizosphere that was attacked by Ganoderma sp., namely sterilized soil (g0) and unsterilized soil (g1). The data obtained were analyzed using analysis of\r\nvariance and the mean separation was tested using the Least Significant Difference test at the 5% level. The results showed that all AMF treatments (m1, m2, and m3) increased the growth of oil palm seedlings compared to controls. Ganoderma sp. present in the planting medium has not\r\ninhibited the growth of oil palm seedlings (both control and those applied with AMF) as there is no Ganoderma sp. infection in the roots of oil palm seedlings observed at the end of the study (5 months after planting).",
+      "subjects": [
+        "S1"
+      ],
+      "title": "APPLICATIONS OF ARBUSCULAR MYCORRHIZA FUNGI TO IMPROVE \r\nGROWTH OF OIL PALM SEEDLINGS AND DISEASE RESISTANCE AGAINST\r\nGanoderma sp.",
+      "official_url": "https:\/\/www.jaast.org\/index.php\/jaast\/article\/view\/40\/17",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 6,
+      "eprintid": 40187,
+      "date_type": "published"
+    }
+]
+

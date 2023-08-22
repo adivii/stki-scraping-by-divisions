@@ -1,0 +1,339 @@
+[
+    {
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/fema\/article\/view\/30",
+      "title": "PEMBUATAN OTOMASI PENGATURAN KERETA API, PENGEREMAN, DAN PALANG PINTU PADA REL KERETA API MAINAN BERBASIS MIKROKONTROLER",
+      "volume": 1,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2020-09-21 03:26:21",
+      "eprint_status": "archive",
+      "subjects": [
+        "TJ",
+        "TK"
+      ],
+      "abstract": "This research is intended to study experimentally the relationship between automation systems for the transportation system, while the emphasis is on the point of train control system on the rails. The design of manufacturing automation systems in this research using a microcontroller PU ATTiny 2313-20 for setting the working mechanism of the dynamo on a train and Arduino Duemilanove to open or close the railway doorstop. The data obtained from this research are speed, braking system that is safe, and the optocoupler output. Safe braking distances used in research was 10 cm.",
+      "eprintid": 24106,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37809",
+            "docid": 37809,
+            "main": "30-50-1-PB.pdf",
+            "files": [
+                {
+                  "objectid": 37809,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219491",
+                  "fileid": 219491,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-09-20 08:19:02",
+                  "hash_type": "MD5",
+                  "hash": "3c2b448ac125b760384c3a82a319f8b1",
+                  "filename": "30-50-1-PB.pdf",
+                  "datasetid": "document",
+                  "filesize": 1438465
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 24106,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24106",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2020-09-21 03:26:21",
+      "userid": 217,
+      "datestamp": "2020-09-21 03:26:21",
+      "publication": "Jurnal Ilmiah Teknik Mesin",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Ari Beni",
+            "lineage": null,
+            "family": "Santoso",
+            "honourific": null
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sugiyanto",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2337 4780",
+      "dir": "disk0\/00\/02\/41\/06",
+      "date": 2013,
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sugiyanto",
+            "given": "Sugiyanto"
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "issn": "1662-8985",
+      "publication": "Trans Tech Publications, Switzerland",
+      "dir": "disk0\/00\/01\/38\/21",
+      "date": 2013,
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "publisher": "Advanced Materials Research Online available since 2013\/Sep\/04 at www.scientific.net",
+      "documents": [
+          {
+            "eprintid": 13821,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "5. Hot Corrosion of Aluminized 1020 Steel with NaCl Deposit-1.pdf",
+            "docid": 26845,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120533",
+                  "objectid": 26845,
+                  "filesize": 2790761,
+                  "datasetid": "document",
+                  "filename": "5. Hot Corrosion of Aluminized 1020 Steel with NaCl Deposit-1.pdf",
+                  "hash": "aa7006f0d32316af1848b2a5e52e6880",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-13 06:12:04",
+                  "mime_type": "application\/pdf",
+                  "fileid": 120533
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26845",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13821",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-08-19 03:09:08",
+      "userid": 1133,
+      "datestamp": "2019-08-19 03:09:08",
+      "eprintid": 13821,
+      "date_type": "published",
+      "title": "Hot Corrosion of Aluminized 2010 Steel With NaCI Deposit",
+      "official_url": "http:\/\/ www.scientific.net",
+      "metadata_visibility": "show",
+      "volume": 789,
+      "rev_number": 9,
+      "status_changed": "2019-08-19 03:09:08",
+      "eprint_status": "archive",
+      "abstract": "Plagiarism check",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "abstract": "We present here a three-dimensional (3D) sandwich system made by poly(ethylene terephthalate) (PET) fibre and fibrin extracellular matrix (ECM) for endothelial cell dictation and angiogenesis guidance. In this three-dimensional system, Human Umbilical Vein Endothelial cells (HUVECs) were firstly cultured for 2 (two) days to cover the PET fibre before sandwiched in two layer fibrin gel containing HUVECs. After 4 (four) days of culture, cel-to-cel connection, tube-like structure and multi-cellular lumen formation were then assessed and validated. Phase contrast and fluorescence imaging using an inverted microscope were used to determine cell-to-cell and cell-ECM interactions. Laser scanning confocal microscopy and histological techniques were used to confirm the development of tube-like structure and multi-cellular lumen formation. This study shows that polymer fibres sandwiched in fibrin gel can be used to dictate endothelial cells undergoing angiogenesis with potential application in cancer and cardiovascular study and tissue engineering vascularisation.",
+      "subjects": [
+        "TJ"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-08-14 06:34:31",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 423,
+      "title": "Sandwiched polymer fibre in fibrin matrices for the dictation of endothelial cells undergoing angiogenesis",
+      "date_type": "published",
+      "eprintid": 3772,
+      "datestamp": "2017-08-14 06:34:31",
+      "pagerange": "1-4",
+      "lastmod": "2017-08-14 06:34:31",
+      "userid": 464,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3772",
+      "documents": [
+          {
+            "docid": 3628,
+            "main": "10. 022013_INT.pdf",
+            "files": [
+                {
+                  "hash": "e90d02d0b2459fdae4ba5969b386e7f3",
+                  "filename": "10. 022013_INT.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-04 03:18:15",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26431,
+                  "filesize": 605334,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26431",
+                  "objectid": 3628
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3628",
+            "rev_number": 1,
+            "eprintid": 3772,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "IOP Publishing",
+      "number": 1,
+      "ispublished": "pub",
+      "divisions": [
+        "FT14"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/37\/72",
+      "date": "2013-05",
+      "issn": "Print : 1742-6588 Online : 1742-6596",
+      "creators": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "given": "Joy Riski Pangestu",
+            "lineage": null,
+            "family": "Djuansjah",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Journal of Physics: Conference Series"
+    },
+    {
+      "eprintid": 3771,
+      "date_type": "published",
+      "title": "In vitro angiogenesis assay for the guidance of microvessel containing multi-cellular lumen formation",
+      "volume": 19,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-08-14 01:37:32",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Angiogenesis is a development process of new capillaries from the pre-existing blood microvessel. It involves multiple steps, including proliferation of endothelial cells (ECs), migration, alignment, sprouting, cell-to-cell connection, tube-like structure and lumen formation. One of the major problems faced by the angiogenesis researchers has been the difficulty of finding suitable in vitro assay to follow the morphological events during angiogenesis development. Morphological events of EC undergoing angiogenesis is of important knowledge for tissue engineering and biomedical societies. In this work we describe step-by-step angiogenesis process and morphological development of human umbilical vein endothelial cells (HUVECs) in the in vitro three-dimensional fibrin gel assays. Endothelial cell was firstly used to cover polymer fiber surface. When the fiber covered with cells was sandwiched between two fibrin gel containing cells, endothelial cell-covered fiber recruits cells\r\ninside the gel to form cell-to-cell connection and tube-like structure. Afterwards cells were degraded their fibrin matrix in order to form complex networks of microvessel containing multi-cellular lumen in between two adjacent fibres.",
+      "publication": "Advanced Science Letters",
+      "issn": "1936-6612 (Print) 1936-7317 (Online)",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana",
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "kadir",
+            "honourific": null,
+            "lineage": null,
+            "given": "mohammed rafiq abdul"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "djuansjah",
+            "honourific": null,
+            "lineage": null,
+            "given": "joy rizki pangestu"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/37\/71",
+      "date": "2013-12",
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "ispublished": "pub",
+      "number": 12,
+      "documents": [
+          {
+            "main": "9. 012013_INT.pdf",
+            "docid": 3627,
+            "files": [
+                {
+                  "fileid": 26425,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-08-04 03:06:18",
+                  "hash_type": "MD5",
+                  "hash": "fe909d0c6755cb388544d4361a1d4d37",
+                  "filename": "9. 012013_INT.pdf",
+                  "datasetid": "document",
+                  "filesize": 186131,
+                  "objectid": 3627,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26425"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3627",
+            "rev_number": 1,
+            "eprintid": 3771,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "American Scientific Publishers",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3771",
+      "refereed": "TRUE",
+      "lastmod": "2017-08-14 01:37:32",
+      "userid": 464,
+      "datestamp": "2017-08-14 01:37:32",
+      "pagerange": "1-4"
+    }
+]
+

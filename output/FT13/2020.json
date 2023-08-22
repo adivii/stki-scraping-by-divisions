@@ -1,0 +1,102 @@
+[
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 166764,
+            "main": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484142",
+                  "objectid": 166764,
+                  "filesize": 377791,
+                  "datasetid": "document",
+                  "mtime": "2022-09-09 04:00:00",
+                  "hash_type": "MD5",
+                  "filename": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+                  "hash": "a84c843ec947789037ec25e3d50f0a35",
+                  "fileid": 484142,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166764",
+            "eprintid": 44857,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Proceedings of the 6th Food Ingredient Asia Conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44857",
+      "full_text_status": "public",
+      "lastmod": "2022-09-12 01:13:22",
+      "userid": 306,
+      "datestamp": "2022-09-12 01:13:22",
+      "creators": [
+        {
+          "id": "neti.yuliana@fp.unila.ac.id",
+          "name": {
+            "family": "Yuliana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Neti"
+          }
+        },
+        {
+          "id": "dewikincai@yahoo.com",
+          "name": {
+            "given": "Dewi",
+            "lineage": null,
+            "family": "Sartika",
+            "honourific": null
+          }
+        },
+        {
+          "id": "sutiknolampung@yahoo.com",
+          "name": {
+            "given": "Sutikno",
+            "family": "Sutikno",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Jatmiko",
+            "lineage": null,
+            "given": "Edo"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/04\/48\/57",
+      "date": 2020,
+      "type": "other",
+      "divisions": [
+        "FP19",
+        "FP22",
+        "FT9",
+        "FT13",
+        "FT14",
+        "FT12",
+        "FT3",
+        "FT2"
+      ],
+      "title": "Profile of Sweet Potato Fermentation using Leuconostoc Mesenteroides as a Starter",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-09-12 01:13:22",
+      "subjects": [
+        "S1"
+      ],
+      "eprintid": 44857,
+      "date_type": "published"
+    }
+]
+

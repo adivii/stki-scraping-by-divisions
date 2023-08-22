@@ -1,0 +1,97 @@
+[
+    {
+      "event_location": "Bandar Lampung",
+      "eprintid": 51925,
+      "event_title": "HEDS Seminar on Science & Technology (HEDS-SST) 2006",
+      "date_type": "published",
+      "event_dates": "13-14 September 2006",
+      "title": "Pemodelan Temperatur Keluar Penukar Kalor dengan Metode Komputasi",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "status_changed": "2023-05-22 01:06:48",
+      "eprint_status": "archive",
+      "abstract": "The change of temperature in heat exchanger path is depending to inlet temperature, mass flow rate, length of path and gradient temperature of fluid on heat exchanger will give an effect to properties of fluid and heat exchanger performances. In the present work, the statistic-numerical approach to outlet temperature of a concentric tube heat exchanger is presented to determine optimize of design temperature value and it effect to the convective heat transfer rate, efficiency and effectiveness. The statistic-numerical results were obtained using the second order-least square method from Matlab and are validated with the experimental and design data for a smooth tube heat exchanger. The modeling process result of outlet temperature have agree with the experimental data and it has just deviation standard about SD = 0.9605 with coefficient of correlation and determination is about R = 0.994 and R = 0.987 respectively. Also, the model has deviation of outlet temperature about 4.65% and 10.60% compared with actual and design temperature design respectively. This deviation will be give a deviation effect about 20.57% between actual and design of heat transfer rate.",
+      "subjects": [
+        "TJ"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Gandidi",
+            "honourific": null,
+            "given": "Indra Mamad"
+          },
+          "id": "indra.mamad@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Harmen",
+            "honourific": null,
+            "given": "Harmen"
+          },
+          "id": "harmen.1969@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "irsyad",
+            "honourific": null,
+            "given": "muhammad"
+          },
+          "id": "muhammad.irsyad@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/19\/25",
+      "date": "2006-09-14",
+      "type": "conference_item",
+      "divisions": [
+        "FT7"
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251166",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 251166,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615234",
+                  "datasetid": "document",
+                  "filesize": 958570,
+                  "fileid": 615234,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-21 07:56:20",
+                  "filename": "Pemodelan Temperatur Keluar Penukar Kalor Dengan Metode Komputasi.pdf",
+                  "hash": "95b368d5745ef21f0b400e7f4bb7cfc8"
+                }
+            ],
+            "main": "Pemodelan Temperatur Keluar Penukar Kalor Dengan Metode Komputasi.pdf",
+            "docid": 251166,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51925
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51925",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "lastmod": "2023-05-22 01:06:48",
+      "userid": 569,
+      "datestamp": "2023-05-22 01:06:48"
+    }
+]
+

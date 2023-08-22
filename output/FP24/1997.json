@@ -1,0 +1,85 @@
+[
+    {
+      "isbn": "979859164X",
+      "date_type": "published",
+      "eprintid": 872,
+      "rev_number": 8,
+      "place_of_pub": "Bandung",
+      "metadata_visibility": "show",
+      "title": "Kiat Belajar di Perguruan Tinggi Edisi 1",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2016-10-24 01:34:30",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/08\/72",
+      "date": 1997,
+      "pages": 86,
+      "creators": [
+        {
+          "id": "cipta.ginting@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ginting",
+            "given": "Cipta"
+          }
+        }
+      ],
+      "funders": [
+        "Ditjen Dikti"
+      ],
+      "divisions": [
+        "FP24"
+      ],
+      "type": "book",
+      "editors": [
+        {
+          "name": {
+            "family": "Sakri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Adjat"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/872",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5273",
+                  "objectid": 758,
+                  "filesize": 381094,
+                  "datasetid": "document",
+                  "hash": "078c5c84fc022fe610a8a471414760f3",
+                  "filename": "Scan Kiat Belajar.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-23 06:24:34",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5273
+                }
+            ],
+            "docid": 758,
+            "main": "Scan Kiat Belajar.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/758",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 872,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Penerbit ITB",
+      "datestamp": "2016-10-24 01:34:30",
+      "lastmod": "2016-10-25 02:03:38",
+      "userid": 1039
+    }
+]
+

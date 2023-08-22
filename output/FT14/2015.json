@@ -1,0 +1,111 @@
+[
+    {
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3635",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 3635,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26475",
+                  "datasetid": "document",
+                  "filesize": 443419,
+                  "fileid": 26475,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-04 04:06:24",
+                  "filename": "16. 012015_INT.pdf",
+                  "hash": "9549ad65c3ebf61844c6d4a35e545d7c"
+                }
+            ],
+            "main": "16. 012015_INT.pdf",
+            "docid": 3635,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3780
+          }
+      ],
+      "publisher": "J-STAGE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3780",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2017-08-14 03:07:08",
+      "userid": 464,
+      "datestamp": "2017-08-14 03:07:08",
+      "pagerange": "19-23",
+      "publication": "Bioreheology",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Shaoyi",
+            "family": "Chen",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Akihiro",
+            "honourific": null,
+            "family": "Morita",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana",
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Eijiro",
+            "honourific": null,
+            "family": "Maeda",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Tohsiro",
+            "honourific": null,
+            "family": "Ohashi",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "1867-0466 (Print) 1867-0474 (Online)",
+      "dir": "disk0\/00\/00\/37\/80",
+      "date": "2015-01",
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "title": "Development of Fibrin Gel-Microgroove Model For Microvascularization by Endothelial Cells",
+      "volume": 9,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2017-08-14 03:07:08",
+      "eprint_status": "archive",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "This study was performed to develop a new for study of microvascularization by endothelial cells (ECs). The effects of the width of microgrooves, initial cell seeding density and a supplementation of vascular endothe lial growth factor (VEGF) on in vitro microvasculaization formed on a polydimethylsiloxane microgroove substrate, were elongated and sprouted within the gel in all the four types of microgrooves. In addition, multicellular network serves as a geometrical constraint for ECs, with a promotional effect on angiogenic responses of ECs, and thus, it can be used as an experimental model in the study of invitro vascularization.",
+      "eprintid": 3780,
+      "date_type": "published"
+    }
+]
+

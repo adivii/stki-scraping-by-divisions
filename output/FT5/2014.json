@@ -1,0 +1,1609 @@
+[
+    {
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2014-09",
+      "dir": "disk0\/00\/01\/74\/71",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Prayogo",
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null
+          }
+        },
+        {
+          "id": "herri.gusmedi@eng.unila.ac.id",
+          "name": {
+            "given": "Gusmedi",
+            "honourific": null,
+            "family": "Herri",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1978-6042",
+      "pagerange": "189-201",
+      "datestamp": "2020-02-17 03:43:35",
+      "userid": 484,
+      "lastmod": "2020-02-17 03:43:35",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17471",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 3,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17471,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30598",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 147766,
+                  "hash": "cb67311100db83e882fddb8fe6dca0cd",
+                  "filename": "Prototype Proteksi Arus Lebih Menggunakan Current Transformer Berbasis Mikrokontroller Atmega32.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-01-03 07:16:23",
+                  "datasetid": "document",
+                  "filesize": 529096,
+                  "objectid": 30598,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147766"
+                }
+            ],
+            "docid": 30598,
+            "main": "Prototype Proteksi Arus Lebih Menggunakan Current Transformer Berbasis Mikrokontroller Atmega32.pdf"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "date_type": "published",
+      "eprintid": 17471,
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Intisari -Sistem proteksi pada peralatan tenaga listrik sangat diperlukan  untuk menjaga kehandalan dan kualitas listrik, sistem proteksi yang baik mampu melokasilisir keadaan dari gangguan seperti kelebihan beban dan hubung singkat. Pengendalian dari sistem proteksi sendiri harus cepat dan sensitif dalam merespon gangguan, sehingga langsung memerintahkan sistem proteksi untuk bekerja. Dalam penelitian ini dibuat prototipe proteksi arus lebih terdiri dari komponen seperti Tranformator Arus, Mikrokontroller ATmega32, pengkondisi sinyal, lcd 2x16, ULN 2003, relay, dan komponen pendukung lainnya. Diperlukan pengkalibrasian system, supaya tidak terjadi kesalahan pada proses pengamanan saluran, kesalahan pembacaan sensor sebesar 0.01553% pada saat pengujian tranformator arus 1, pada saat pengujian tranformator arus 2 kesalahan pembacaan alat  sebesar 0.019495% , sedangkan pada saat pengujian sensor tegangan kesalahan pembacaannya 0.001459%. Pada masing-masing Tranformator arus dibatasi arus maksimal 4 ampere. Apabila terjadi arus lebih dari batas maksimal arus yang ditentukan, maka sistem proteksi akan memutus saluran dan menghubungkan kembali apabila arus dibawah batas maksimal. Kata kunci –Transformator Arus, Mikrokontroller ATmega32, ULN 2003 dan Relay. Abstract -Protection systems in electric power equipment is needed to maintain reliability and power quality, The good protection system capable to alocate overload and short circuit. System control of the protection system must be fast and sensitive in responding of fault thus directly ordered protection system to work. In this research a prototype overcurrent protection consists of components such as transformers Flow, ATmega32 microcontroller, signal conditioning, lcd 2x16, ULN 2003, relays, and other supporting components. In this thesis required calibration system, so that won’t give error occurs in the process of securing the channel, the sensor reading error of 0.01553% when the current transformer testing 1, when the current transformer testing tool 2 reading errors by 0.019495% and then testing error voltage sensor reading is 0.001459%. For each of the current transformers is limitedmaximum current4 amperes. If there is more current than the maximum current limit isspecified, the protection system will be disconnected and reconnected when the channel below the current maximum limit. Keywords– Current transformer, microcontroller ATmega32, ULN 2003 and Relay.",
+      "eprint_status": "archive",
+      "status_changed": "2020-02-17 03:43:35",
+      "volume": 8,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/151",
+      "title": "Prototype Proteksi Arus Lebih Menggunakan Current Transformer Berbasis Mikrokontroller Atmega32"
+    },
+    {
+      "official_url": "http:\/\/jestec.taylors.edu.my\/",
+      "eprint_status": "archive",
+      "abstract": "This paper proposes a digital hardware control of Permanent Magnet\r\nSynchronous Motor (PMSM) using a SiC MOSFET inverter implemented in a\r\nFPGA (Field Programmable Gate Array) device. High frequency is required\r\nusing a SiC MOSFET inverter to obtain high response and good stability for\r\nspeed control systems. Not only the switching frequency of inverter, but also\r\nthe control frequency is achieved up to 100 kHz for speed control system of AC\r\nmotor drive including vector control and dq transformation. As the result, high\r\nresponse control system of PMSM can be achieved. Digital hardware control\r\nbased on FPGA is used to maximize the switching frequency of SiC MOSFET\r\ninverter. Finally, an experimental system is set up and some experimental\r\nresults are demonstrated.",
+      "subjects": [
+        "TK"
+      ],
+      "eprintid": 5656,
+      "date_type": "published",
+      "publisher": "School of Engineering. Taylor’s University",
+      "contributors": [
+        {
+          "id": "charles.harahap69@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Harahap",
+            "lineage": null,
+            "given": "Charles Ronald"
+          }
+        },
+        {
+          "name": {
+            "given": "Tsuyoshi",
+            "honourific": null,
+            "family": "Hanamoto",
+            "lineage": null
+          },
+          "id": "hanamoto@life.kyutech.ac.jp"
+        }
+      ],
+      "ispublished": "pub",
+      "corp_creators": [
+        "Lampung University",
+        "Kyushu Institute of Technology"
+      ],
+      "lastmod": "2017-11-16 06:53:17",
+      "datestamp": "2017-11-16 06:53:17",
+      "date": "2014-10",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "title": "SPEED CONTROL OF PERMANENT MAGNET SYNCHRONOUS MOTOR USING FPGA FOR HIGH FREQUENCY SIC MOSFET INVERTER",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 9,
+      "related_url": [
+        {
+          "url": "http:\/\/jestec.taylors.edu.my\/"
+        }
+      ],
+      "status_changed": "2017-11-16 06:53:17",
+      "documents": [
+          {
+            "eprintid": 5656,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 18603,
+            "main": "SPEEDCONTROLOFPERMANENTMAGNETSYNCHRONOUSMOTORUSINGFPGAFORHIGHFREQUENCYSICMOSFETINVERTER1.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-16 04:18:12",
+                  "filename": "SPEEDCONTROLOFPERMANENTMAGNETSYNCHRONOUSMOTORUSINGFPGAFORHIGHFREQUENCYSICMOSFETINVERTER1.pdf",
+                  "hash": "05b9e080157c8c5037e56f1a75f6ec62",
+                  "fileid": 53022,
+                  "mime_type": "application\/pdf",
+                  "filesize": 943111,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/53022",
+                  "objectid": 18603
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18603",
+            "rev_number": 1
+          }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5656",
+      "full_text_status": "public",
+      "userid": 450,
+      "pagerange": "11-20",
+      "creators": [
+        {
+          "id": "charles.harahap69@gmail.com",
+          "name": {
+            "given": "Charles Ronald",
+            "lineage": null,
+            "honourific": null,
+            "family": "Harahap"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "R",
+            "honourific": null,
+            "given": "Saito"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "H",
+            "lineage": null,
+            "given": "Yamada"
+          }
+        },
+        {
+          "name": {
+            "given": "Tsuyoshi",
+            "honourific": null,
+            "family": "Hanamoto",
+            "lineage": null
+          },
+          "id": "hanamoto@life.kyutech.ac.jp"
+        }
+      ],
+      "issn": "1823-4690",
+      "publication": "Journal of Engineering Science and Technology (JESTEC)",
+      "dir": "disk0\/00\/00\/56\/56",
+      "contact_email": "charles.harahap69@gmail.com"
+    },
+    {
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "event_dates": "9-11 Desember 2014",
+      "title": "Feasibility and Optimal Design of Micro-Hydro and Photovoltaic Hybrid System in Support to Energy Independent Village",
+      "abstract": "A hybrid system itilizes energy sources to generate electricity. This paper proposes combination of two renewable  energies i.e. micro-hydro and photovolataic for energy independent village application in Dusun Mergosari, Pesawaran Indah village, Pesawaran Regency, Lampung Province. Previously, the village was only supplied by one micro hydro generator through a long feeder line with high voltage drop along the line. In this work, an optimal placement and size of photovoltaic system is identified and studied through software simulation.  The obtained results show that installation of a PV system improves grid's performances in terms of lower voltage drop and power loss. About 9,5% to 31% voltage improvements were observed in accordance with PVB System installation.\r\n\r\nKeywords: hybrid system, micro-hydro, photovoltaic, voltage drop",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2020-02-17 03:39:29",
+      "eprint_status": "archive",
+      "event_location": "Institut Teknologi Bandung, Indonesia",
+      "date_type": "published",
+      "eprintid": 17501,
+      "event_title": "The 2nd IEEE Conference on Power Engineering and Renewable Energy (ICPERE 2014)",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17501",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30629",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 30629,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147956",
+                  "fileid": 147956,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-01-06 08:17:53",
+                  "hash": "b29b84c0ce3650625271a06a0edeee22",
+                  "filename": "Feasibility.pdf",
+                  "datasetid": "document",
+                  "filesize": 4158004
+                }
+            ],
+            "docid": 30629,
+            "main": "Feasibility.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17501
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2020-02-17 03:39:29",
+      "pagerange": "141-144",
+      "lastmod": "2020-02-17 03:39:29",
+      "userid": 484,
+      "date": "2014-12",
+      "dir": "disk0\/00\/01\/75\/01",
+      "creators": [
+        {
+          "name": {
+            "given": "Gusmedi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herri"
+          },
+          "id": "herri.gusmedi@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Komalasari",
+            "family": "Endah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "endah.komalasari@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "referencetext": "1. Shinada, T., Okamoto, S., Kobayashi, T., Ohdomari, I.\r\nEnhancing Semiconductor Device Performance using\r\nOrdered Dopant Arrays Nature 437 2005: pp. 1128 – 1131.\r\n2. Pierre, M., Wacquez, R., Jehl, X., Vinet, M., Cueto, O.,\r\nSanquer, M. Single-Donor Ionization Energies in a\r\nNanoscale CMOS Channel Nature Nanotechnology 5\r\n2010: pp. 133 – 137.\r\nhttp:\/\/dx.doi.org\/10.1038\/nnano.2009.373\r\n3. Sellier, H., Lansbergen, G. P., Caro, J., Collaert, N.,\r\nFerain, I., Jurczak, M., Biesemans, S., Rogge, S. Transport\r\nSpectroscopy of a Single Dopant in a Gated Silicon Nanowire\r\nPhysical Review Letters 97 2006: p. 206805.\r\n4. Tabe, M., Moraru, D., Ligowski, M., Anwar, M.,\r\nJablonski, R., Ono, Y., Mizuno, T. Single-Electron\r\nTransport through Single Dopants in a Dopant-Rich\r\nEnvironment Physical Review Letters 105 2010: p.\r\n016803. http:\/\/dx.doi.org\/10.1103\/PhysRevLett.105.016803\r\n5. Hamid, E., Moraru, D., Kuzuya, Y., Mizuno, T.,\r\nAnh, L. T., Mizuta, H., Tabe, M. Electron-Tunneling\r\nOperation of Single-Donor-Atom Transistors at Elevated\r\nTemperatures Physical Review B 87 2013: p. 085420.\r\n6. Moraru, D., Udhiarto, A., Anwar, M., Nowak, R.,\r\nJablonski, R., Hamid, E., Tarido, J. C., Mizuno, T.,\r\nTabe, M. Atom Devices based on Single Dopants in Silicon\r\nNanostructures Nanoscale Research Letters 6 2011:\r\np. 479.\r\n7. Petrosyan, S., Yesayan, A., Reuter, D., Wieck, A. D. The\r\nLinearly Graded Two-Dimensional p-n Junctions Applied\r\nPhysics Letters 84 2004: pp. 3313 – 3315.\r\nhttp:\/\/dx.doi.org\/10.1063\/1.1736316\r\n8. Udhiarto, A., Moraru, D., Purwiyanti, S., Kuzuya, Y.,\r\nMizuno, T., Mizuta, H., Tabe, M. Photon-Induced Random\r\nTelegraph Signal due to Potential Fluctuation of a Single\r\nDonor-Acceptor Pair in Nanoscale Si p-n Junctions Applied\r\nPhysics Express 5 2012: p. 112201.\r\nhttp:\/\/dx.doi.org\/10.1143\/APEX.5.112201\r\n9. Nowak, R., Moraru, D., Mizuno, T., Jablonski, R., Tabe,\r\nM. Effects of Deep-Level Dopants on the Electronic Potential\r\nof Thin Si pn Junctions Observed by Kelvin Probe Force\r\nMicroscope Applied Physics Letters 102 2013: p. 083109.\r\n10. Nowak, R., Moraru, D., Mizuno, T., Jablonski, R. Tabe,\r\nM. Potential Profile and Photovoltaic Effect in Nanoscale\r\nLateral pn Junction Observed by Kelvin Probe Force\r\nMicroscopy Thin Solid Films 557 2014: pp. 249 – 253.\r\n11. Ligowski, M., Moraru, D., Anwar, M., Mizuno, T.,\r\nJablonski, R., Tabe, M. Observation of Individual Dopants\r\nin a Thin Silicon Layer by Low Temperature Kelvin Probe\r\nForce Microscope Applied Physics Letters 93 2008:\r\np. 142101.\r\n12. Anwar, M., Nowak, R., Moraru, D., Udhiarto, A.,\r\nMizuno, T., Jablonski, R., Tabe, M. Effect of Electron\r\nInjection into Phosphorus Donors in Silicon-on-Insulator\r\nChannel Observed by Kelvin Probe Force Microscopy\r\nApplied Physics Letters 99 2011: p. 213101.\r\n13. Foty, D. P. Impurity Ionization in MOSFETs at Very Low\r\nTemperatures Cryogenics 30 1990: pp. 1056 – 1063.\r\n14. Diarra, M., Niquet, Y.-M., Delerue, C., Allan, G.\r\nIonization Energy of Donor and Acceptor Impurities in\r\nSemiconductor Nanowires: Importance of Dielectric\r\nConfinement Physical Review B 75 2007: p. 045301.\r\nhttp:\/\/dx.doi.org\/10.1103\/PhysRevB.75.045301\r\n15. Moraru, D., Hamid, E., Kuzuya, Y., Mizuno, T.,\r\nAnh, L. T., Mizuta, H., Tabe, M. Experimental and Ab\r\nInitio Study of Donor State Deepening in Nanoscale SOIMOSFETs\r\nTransactions of Materials Research Society of\r\nJapan 38 2013: pp. 261 – 264.\r\nhttp:\/\/dx.doi.org\/10.14723\/tmrsj.38.261",
+      "title": "Individuality of Dopants in Silicon Nano-pn Junctions",
+      "metadata_visibility": "show",
+      "volume": 20,
+      "rev_number": 8,
+      "related_url": [
+        {
+          "url": "http:\/\/www.matsc.ktu.lt\/index.php\/MatSc\/article\/view\/6312\/3713"
+        }
+      ],
+      "status_changed": "2018-04-25 08:02:16",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19706",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1495162,
+                  "mime_type": "application\/pdf",
+                  "fileid": 61872,
+                  "filename": "Moraru-etal Materials Science - Medziagotyra 2014.pdf",
+                  "hash": "448eced3a0ece584cf17e573f043b6e7",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-18 07:25:22",
+                  "objectid": 19706,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61872"
+                }
+            ],
+            "main": "Moraru-etal Materials Science - Medziagotyra 2014.pdf",
+            "docid": 19706,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6738
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6738",
+      "userid": 56,
+      "pagerange": "129-131",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Moraru",
+            "honourific": null,
+            "given": "Daniel"
+          }
+        },
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Purwiyanti"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Roland",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nowak"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mizuno",
+            "given": "Takeshi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Udhiarto",
+            "lineage": null,
+            "given": "Arief"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Djoko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hartanto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Ryszard",
+            "lineage": null,
+            "honourific": null,
+            "family": "Jablonski"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Michiharu",
+            "honourific": null,
+            "family": "Tabe",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "1392–1320",
+      "publication": "MATERIALS SCIENCE (MEDŽIAGOTYRA).",
+      "dir": "disk0\/00\/00\/67\/38",
+      "keywords": "individual dopant, pn junction, nanoscale, silicon-on-insulator, random telegraph signal.",
+      "official_url": "http:\/\/www.matsc.ktu.lt\/index.php\/MatSc\/article\/view\/6312\/3713",
+      "eprint_status": "archive",
+      "abstract": "The reduced dimensionality of present electronic devices brings along changes in the dopant distribution in the device channel, in which only a small number of dopants exist. Recent studies demonstrated that individual dopants strongly affect the electrical characteristics of nanoscale transistors. On the other hand, nanoscale pn junctions, building unit of more complex devices, have not been sufficiently studied from this viewpoint. In this work, we report several experiments that we carried out on nano-pn junctions in which the individuality of dopants is prominently observed. In electrical characteristics,\r\nwe report, under various conditions, random telegraph signals (RTS) related to dopants as traps. The dynamic behavior of the depletion region of nano-pn junctions is also characterized by Kelvin probe force microscopy.",
+      "subjects": [
+        "TK"
+      ],
+      "eprintid": 6738,
+      "date_type": "published",
+      "publisher": "Kaunas University of Technology",
+      "ispublished": "pub",
+      "number": 2,
+      "lastmod": "2018-04-25 08:02:16",
+      "datestamp": "2018-04-25 08:02:16",
+      "date": "2014-04-16",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 50531,
+      "rev_number": 6,
+      "volume": 2,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/index",
+      "title": "PERANCANGAN SISTEM TRANSFER ENERGI SECARA WIRELESS DENGAN MENGGUNAKAN TEKNIK RESONANSI INDUKTIF MEDAN ELEKTROMAGNETIK",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Energi listrik merupakan salah satu kebutuhan pokok yang sangat penting dalam kehidupan manusia saat ini, di mana sampai saat ini pengiriman energi listrik komersial tegangan rendah 220 volt masih mempergunakan kabel listrik. Salah satu cara pengiriman atau transfer energi listrik yang terus dikembangkan sampai saat ini adalah transfer energi listrik wireless. Transfer energi listrik wireless memiliki beberapa kelebihan dibandingkan menggunakan kabel yaitu dapat meningkatkan kenyamanan dalam penggunaan peralatan listrik dan dapat mengurangi jumlah sampah elektronik. Metode yang digunakan untuk transfer energi wireless pada tugas akhir ini menggunakan teknik resonansi induktif medan elektromagnetik. Pengguna membuat dua buah kumparan tembaga berbentuk selenoid yang digunakan untuk menghasilkan induktansi bersama. Rangkaian transfer energi listrik wireless terdiri dari dua yaitu rangkaian pengirim dan rangkaian penerima. Rangkaian pengirim terdiri dari rangkaian LC osilasi dan rangkaian penerima merupakan penggabungan beberapa komponen elektronika.\r\nRealisasi alat bekerja dengan baik dengan pengaturan komponen yang sesuai. Namun pengaruh jarak dan sudut kemiringan antar kumparan sangat mempengaruhi nilai energi listrik yang mampu ditransfer. Semakin jauh jarak antar kumparan, maka semakin kecil energi yang mampu ditrasfer, demikian juga dengan sudut kemiringan kumparan. Semakin miring sudut kumparan penerima, maka semakin kecil energi listrik yang dihasilkan.",
+      "status_changed": "2023-04-14 06:26:46",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/article\/view\/234"
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0_bak\/00\/05\/05\/31",
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "issn": "2303-0577",
+      "creators": [
+        {
+          "name": {
+            "given": "Berri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Panggabean"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Herman Halomoan",
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purwasih",
+            "honourific": null,
+            "given": "Nining"
+          },
+          "id": "nining.purwasih@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50531",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190230",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "508496d339d401df3aef2517c0b29256",
+                  "filename": "Berri - 234-385-1-SM.pdf",
+                  "mtime": "2023-04-14 04:38:48",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 544966,
+                  "filesize": 644857,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/544966",
+                  "objectid": 190230
+                }
+            ],
+            "docid": 190230,
+            "main": "Berri - 234-385-1-SM.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50531
+          }
+      ],
+      "datestamp": "2023-04-14 06:26:46",
+      "lastmod": "2023-04-14 06:26:46",
+      "userid": 689
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Jumanto Sardion Panjaitan",
+            "family": "Panjaitan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Herman Halomoan",
+            "family": "Sinaga",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purwasih",
+            "honourific": null,
+            "given": "Nining"
+          },
+          "id": "nining.purwasih@eng.unila.ac.id"
+        }
+      ],
+      "issn": "1978-6042",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "dir": "disk0_bak\/00\/05\/01\/85",
+      "date": "2014-09",
+      "lastmod": "2023-04-11 04:02:39",
+      "userid": 689,
+      "datestamp": "2023-04-11 04:02:39",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 50185,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189887",
+            "rev_number": 1,
+            "main": "Analisis Peluahan Sebagian di Udara Menggunakan Metode Elektromagnetik.pdf",
+            "docid": 189887,
+            "files": [
+                {
+                  "fileid": 542493,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 02:17:30",
+                  "hash": "02361d806d38a4af1d4325bd54e77bbd",
+                  "filename": "Analisis Peluahan Sebagian di Udara Menggunakan Metode Elektromagnetik.pdf",
+                  "datasetid": "document",
+                  "filesize": 533088,
+                  "objectid": 189887,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542493"
+                }
+            ]
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "number": 3,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50185",
+      "eprintid": 50185,
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/148"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-11 04:02:39",
+      "abstract": "Sistem isolasi peralatan listrik merupakan salah satu bagian yang paling vital dari sebuah peralatan listrik. Kerusakan peralatan listrik pada umumnya terjadi pada bagian sistem isolasinya. Sehingga kondisi kesehatan peralatan listrik dapat dimonitoring dari keadaan sistem isolasinya. Salah satu upaya monitoring kondisi isolasi dapat dilakukan dengan mendeteksi kehadiran peluahan sebagian (partial discharge) pada sistem isolasi tersebut. Peluahan sebagian pada sistem isolasi dapat terjadi jika sistem isolasi mengalami tekanan medan listrik yang tinggi. Pada penelitian ini dibahas bagaimana peluahan sebagian dapat dideteksi dengan menggunakan metode elektromagnetik. Metode ini menggunakan sensor yang berguna menangkap sinyal elektromagnetik yang dipancarkan oleh sumber peluahan. Sensor yang digunakan di sini adalah berupa antena UHF dengan tipe monopole. Jarak sensor terhadap sumber peluahan divariasikan pada jarak 20 cm, 30 cm dan 50 cm, untuk mengetahui pengaruh jarak terhadap kualitas pendeteksian. Kualitas pendeteksian sendiri akan diketahui melalui besar energi dan magnitude yang dihasilkan oleh sumber peluahan sebagian. Peluahan sebagian yang akan dideteksi dihasilkan oleh model sumber peluahan sebagian korona dengan menggunakan elektroda jarum dan piring. Hasil penelitian menunjukkan bahwa magnitude tertinggi peluahan sebagian terjadi saat sensor berada dekat dengan sumber peluahan yaitu sejauh 20 cm. Magnitude peluahan sebagian akan mengalami penurunan saat sensor ditempatkan jauh dari sumber peluahan. Sehingga magnitude peluahan sebagian terkecil terjadi saat sensor ditempatkan sejauh 50 cm terhadap sumber peluahan sebagian. Seperti halnya magnitude peluahan sebagian, cumulative energy juga akan mengalami penurunan seiring bertambahnya jarak antara sensor dengan sumber peluahan.",
+      "subjects": [
+        "TK"
+      ],
+      "title": "Analisis Peluahan Sebagian di Udara Menggunakan Metode Elektromagnetik",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 8
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "issn": 193114973,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Permata",
+            "lineage": null,
+            "given": "Diah"
+          },
+          "id": "diah.permata@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Naoto",
+            "lineage": null,
+            "family": "Nagaoka",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Transactions on Electrical and Electronic Engineering",
+      "id_number": "https:\/\/doi.org\/10.1002\/tee.22043",
+      "date": "2014-10-18",
+      "dir": "disk0_bak\/00\/05\/00\/40",
+      "lastmod": "2023-04-10 05:09:30",
+      "userid": 657,
+      "pagerange": "S37-S43",
+      "datestamp": "2023-04-10 05:09:30",
+      "publisher": "John Wiley & Sons Inc.",
+      "documents": [
+          {
+            "docid": 189731,
+            "main": "An Impedance Measurement of a Small-Capacitance Circuit using Transient.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1539439,
+                  "fileid": 541349,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-10 04:18:21",
+                  "hash_type": "MD5",
+                  "filename": "An Impedance Measurement of a Small-Capacitance Circuit using Transient.pdf",
+                  "hash": "616a13a0d1deff0dd1f9195a62e32f55",
+                  "objectid": 189731,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541349"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189731",
+            "rev_number": 1,
+            "eprintid": 50040,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "number": "S1",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50040",
+      "full_text_status": "public",
+      "eprintid": 50040,
+      "date_type": "published",
+      "related_url": [
+        {
+          "url": "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/tee.22043",
+          "type": "pub"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-10 05:09:30",
+      "abstract": "A method to measure a small capacitance with its loss resistance using a set of transient current waveforms is proposed in this paper. The parameters are obtained from the time constants in the time domain. The method has high resistance to extraneous noise, because a time-to-frequency transformation, which is sensitive to noise, is not required. The transient current waveforms are obtained by a voltage or current source, a current transformer, and a waveform recorder. The measured capacitance by the\r\nproposed method is not affected by the capacitance of the voltage probe, because it is obtained without any voltage information. The sheath surge impedance of the current injection cable, which is indispensable for the transient measurement, is corrected.\r\nThe application of the method has the advantage in that it allows the modeling of a fast transient of a power apparatus, comparing it with the steady-state measurement using an impedance measuring instrument. The proposed method is applied to create an\r\nequivalent circuit between electrodes implanted into a piece of wood, and its reliability is confirmed by comparison between the\r\nmeasured and calculated results. Stray capacitances of a miniature circuit breaker are also measured, and the results show that\r\nthe proposed method is applicable to equipment in power systems",
+      "subjects": [
+        "TK"
+      ],
+      "official_url": "https:\/\/onlinelibrary.wiley.com\/",
+      "title": "An Impedance Measurement of a Small-Capacitance Circuit using Transient Responses for Lightning Surge Analysis",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 9
+    },
+    {
+      "title": "Study of Quantized-Energy Effects in Si Nanoscale Lateral pn Junction Diodes",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7348593",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "related_url": [
+        {
+          "url": "https:\/\/ieeexplore.ieee.org\/document\/7348593",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2019-01-29 04:19:06",
+      "eprint_status": "archive",
+      "abstract": "In this work, we study SOI nanoscale pn junctions and find that transport characteristics are strongly affected by states of individual dopants and by quantized energy states. For pn diodes with lower doping concentration, we find that individual dopant atoms work as electron traps, inducing RTS in the diode current. On the other hand, for highlydoped pn diodes, quantization effects play critical\r\nroles in transport characteristics for both forward\r\nand reverse bias regimes.",
+      "subjects": [
+        "TK"
+      ],
+      "eprintid": 10531,
+      "date_type": "published",
+      "publisher": "IEEE",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23548",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 23548,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97694",
+                  "fileid": 97694,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-01-09 07:14:43",
+                  "filename": "purwiyanti2014 (SNW 2014).pdf",
+                  "hash": "29a17d1b3ec8470298f1732f2ca1f9f4",
+                  "datasetid": "document",
+                  "filesize": 654937
+                }
+            ],
+            "main": "purwiyanti2014 (SNW 2014).pdf",
+            "docid": 23548,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10531
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10531",
+      "full_text_status": "public",
+      "lastmod": "2019-01-29 04:19:06",
+      "userid": 56,
+      "datestamp": "2019-01-29 04:19:06",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Purwiyanti",
+            "given": "Sri"
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hoang Nat",
+            "lineage": null,
+            "family": "Tan",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Daniel",
+            "honourific": null,
+            "family": "Moraru",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Anh",
+            "honourific": null,
+            "given": "Lee The"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M.",
+            "family": "Manoharan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Mizuno",
+            "honourific": null,
+            "lineage": null,
+            "given": "Takeshi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Mizuta",
+            "honourific": null,
+            "given": "Hioshi"
+          }
+        },
+        {
+          "name": {
+            "given": "Djoko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hartanto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tabe",
+            "given": "Michiharu"
+          },
+          "id": null
+        }
+      ],
+      "publication": "2014 IEEE Silicon Nanowlwctronics Workshop",
+      "date": 2014,
+      "dir": "disk0\/00\/01\/05\/31",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-05-28 03:36:37",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "As electronic device dimensions are continuously reduced, applied bias conditions significantly change and the transport mechanisms must be reconsidered. Tunneling devices are promising for scaled-down electronics because of\r\nexpected high-speed operation and relatively low bias. In this work, we investigated the tunneling features in silicon-on-insulator lateral nanowire pn junction and pin junction devices. By controlling the substrate voltage, tunneling features can be observed in the electrical characteristics. We found that the minimum substrate voltage required for tunneling to occur in pn junctions is higher as compared with pin junctions. The main cause of these effects relies in the difference between the doping profiles, since the pn junctions contain a co-doped region, while the pin junctions contain an i-layer.",
+      "title": "Observation of Tunneling Effects in Lateral Nanowire pn Junctions",
+      "official_url": "http:\/\/journal.ui.ac.id\/technology\/index.php\/journal\/article\/view\/2948",
+      "volume": 18,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 6866,
+      "date_type": "published",
+      "userid": 56,
+      "lastmod": "2018-05-28 03:36:37",
+      "datestamp": "2018-05-28 03:36:37",
+      "pagerange": "91-95",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "DRPM Universitas Indonesia",
+      "documents": [
+          {
+            "main": "Purwiyanti-Makara.pdf",
+            "docid": 19848,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63109",
+                  "objectid": 19848,
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-07 03:22:13",
+                  "hash": "e3ea71d73aad7a205eebd3cfecd3177c",
+                  "filename": "Purwiyanti-Makara.pdf",
+                  "fileid": 63109,
+                  "mime_type": "application\/pdf",
+                  "filesize": 699187,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19848",
+            "eprintid": 6866,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6866",
+      "refereed": "TRUE",
+      "type": "article",
+      "keywords": "nanowire, pn junction, silicon, tunneling",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "Makara Journal of Technology",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Purwiyanti",
+            "lineage": null,
+            "given": "Sri"
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arief",
+            "lineage": null,
+            "family": "Udhiarto",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Moraru",
+            "honourific": null,
+            "lineage": null,
+            "given": "Daniel"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Takeshi",
+            "lineage": null,
+            "family": "Mizuno",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Djoko",
+            "lineage": null,
+            "family": "Hartanto",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Michiharu",
+            "family": "Tabe",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2355-2786",
+      "dir": "disk0\/00\/00\/68\/66",
+      "date": 2014
+    },
+    {
+      "date_type": "published",
+      "eprintid": 17470,
+      "abstract": "Intisari — Keseimbangan daya antara kebutuhan beban pada sistem dengan pembangkitan oleh pembangkit listrik merupakan salah satu ukuran kestabilan operasi sistem tenaga listrik. Jatuh tegangan yang disebabkan oleh adanya perubahan beban aktif maupun reaktif secara tiba- tiba, merupakan salah satu bentuk dari ketidakstabilan sistem dalam melakukan penyaluran energi listrik ke konsumen. Berdasarkan SPLN No. 1:1995 Pasal 4 tentang ketentuan variasi tegangan pelayanan dimana drop tegangan yang dijinkan hanya sebesar -10% hingga +5%. Hasil yang diperoleh dengan menjadwal ulang generator terlihat bahwa sebelum dihitung optimasinya dengan menggunakan Primal- Dual interior Point, sistem pada studi kasus memiliki nilai tegangan yang masih stabil sedangkan setelah dilakukan optimasi nilai tegangan mengalami peningkatan menjadi 0.9636 pu dari sebelumnya 0.960 pu pada kondisi beban naik sebesar 15% dari beban dasar. Konsekuensinya adalah terjadinya sedikit peningkatan keluaran daya aktif maupun reaktif pada pembangkit listrik. Namun jika ditinjau dari stabilitas tegangannya maka nilai ini lebih baik dari sebelumnya penjadwalan menggunakan metode aliran daya Newton- Raphson. Kata kunci — penjadwalan ulang pembangkit, stabilitas tegangan, Aliran Daya Oprimum,  primal-dual interior point.   Abstract — The balance between the power demand and power generation of a system is one of the requirement to obtain a stability in power system operation. The voltage drop caused by the sudden changes of active and reactive load is a form of the instability of the system in channeling electricity to consumers. Based on SPLN No. 1:1995 Article 4 of the terms of service voltage variations where the allowable voltage drop of only 10% s \/ d +5%. From the result, as we can see that before we using the optimization method with Primal- Dual Interior Point, the system indicates a condition that still reliable. In other words the system is stable. After we use the optimization on the system that use in the study case, the voltage stability of the system is increasing from 0.960 to 0.9636 with the power demand increase by 20% from its base demand. The consequence is a slight increase in power generation, active and reactive. However, from the view of voltage stability, this number is still greater than previous schedule the generator using only power flow Newton- Raphson method. Keywords— Generation Rescheduling, Voltage Stability, Optimal Power Flow, Primal-Dual Interior Point.",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-02-17 03:43:38",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 8,
+      "title": "Studi Analisis Perbaikan Stabilitas Tegangan Melalui Penjadwalan Ulang Generator",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2014-09",
+      "dir": "disk0\/00\/01\/74\/70",
+      "issn": "1978-6042",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Reza",
+            "honourific": null,
+            "given": "Utama Putra"
+          }
+        },
+        {
+          "name": {
+            "given": "Hakim",
+            "family": "Lukmanul",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "herri.gusmedi@eng.unila.ac.id",
+          "name": {
+            "family": "Herri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gusmedi"
+          }
+        }
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "datestamp": "2020-02-17 03:43:38",
+      "pagerange": "124-135",
+      "lastmod": "2020-02-17 03:43:38",
+      "userid": 484,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17470",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30597",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147757",
+                  "objectid": 30597,
+                  "filename": "Studi Analisis Perbaikan Stabilitas Tegangan Melalui Penjadwalan Ulang Generator.pdf",
+                  "hash": "4ecd0056f81b1b34eef0c61e3227bea4",
+                  "mtime": "2020-01-03 07:10:16",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 147757,
+                  "filesize": 774056,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 30597,
+            "main": "Studi Analisis Perbaikan Stabilitas Tegangan Melalui Penjadwalan Ulang Generator.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17470
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "number": 3,
+      "ispublished": "pub"
+    },
+    {
+      "abstract": "A new controller is developed for a single-phase inverter\r\nbased on the dynamic evolution controlmethod. The non-linear model\r\nequations and algorithm of the approach is derived and presented.\r\nThe simulation is conducted based on the proposed method by MATLAB\/\r\nSimulink to test the performance of the controller for large load\r\nvariations. The system was also tested experimentally to show the\r\nfeasibility of the proposed method applied to a single-phase inverter.\r\nResults show that the proposed approach is suitable for applications\r\nwith large load variations. Practical results show that the controller\r\ncan successfully handle a 40 times load change in less than 2 ms. It\r\nalso has good output in the harmonic spectrum compared with the\r\nIEEE 519 harmonic standard during no-load and full-load conditions.",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-08-22 02:19:25",
+      "metadata_visibility": "show",
+      "volume": 42,
+      "rev_number": 8,
+      "official_url": "http:\/\/www.tandfonline.com\/loi\/uemp20",
+      "title": "Design and Implementation of a Dynamic Evolution\r\nController for Single-phase Inverters with Large\r\nLoad Changes",
+      "date_type": "published",
+      "eprintid": 322,
+      "datestamp": "2016-08-22 02:19:25",
+      "pagerange": "995-1003",
+      "lastmod": "2016-08-22 07:55:04",
+      "userid": 10,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/322",
+      "full_text_status": "restricted",
+      "publisher": "aylor & Francis Group, LLC",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/312",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-19 04:41:08",
+                  "filename": "Design and Implementation of a Dynamic Evolution Controller for Single-phase Inverters with Large Load Changes.pdf",
+                  "hash": "610193f2bfc1ad2f6521ff3d6d735a38",
+                  "fileid": 1834,
+                  "mime_type": "application\/pdf",
+                  "filesize": 662378,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1834",
+                  "objectid": 312
+                }
+            ],
+            "docid": 312,
+            "main": "Design and Implementation of a Dynamic Evolution Controller for Single-phase Inverters with Large Load Changes.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "staffonly",
+            "eprintid": 322
+          }
+      ],
+      "number": 10,
+      "ispublished": "pub",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2014-06-27",
+      "dir": "disk0\/00\/00\/03\/22",
+      "issn": "1532-5016",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null,
+            "given": "Ahmad Saudi"
+          }
+        }
+      ],
+      "publication": "Electric Power Components and Systems"
+    },
+    {
+      "eprintid": 641,
+      "date_type": "published",
+      "status_changed": "2016-09-23 07:29:38",
+      "eprint_status": "archive",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Karya ilmiah ini mepresentasikan tentang desain dan implementasi teknik Dynamic Evolution Control untuk mengendalikan sebuah Konverter Elektronika Daya jenis Inverter satu fasa yang dibebani dengan perubahan beban yang besar. \r\nTulisan ini membahas penerapan Teknik Dynamic Evolution Control untuk Inverter satu fasa, penurunan formula kontroler, pemodelan, simulasi komputer, dan implementasi dalam bentuk Hardware Inverter satu fasa yang dibebani dengan perubahan beban yang besar.",
+      "title": "Design and Implementation of a Dynamic Evolution Controller for Single-phase Inverters with Large Load Changes",
+      "official_url": "http:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/15325008.2014.903536",
+      "rev_number": 6,
+      "volume": 42,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "Electric Power Components and Systems",
+      "issn": "1532-5016",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad Saudi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Samosir"
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Mohd Yatim",
+            "honourific": null,
+            "given": "Abdul Halim"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/06\/41",
+      "date": "2014-07",
+      "lastmod": "2016-09-23 07:29:38",
+      "userid": 504,
+      "datestamp": "2016-09-23 07:29:38",
+      "pagerange": "995-1003",
+      "number": 10,
+      "ispublished": "pub",
+      "publisher": "Taylor and Francis",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 641,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/546",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2016-09-23 04:43:27",
+                  "hash_type": "MD5",
+                  "filename": "10_Jurnal Internasional Electric Power Component and System 2014.pdf",
+                  "hash": "a9fee96271292f0c39abdcdcbfeb1578",
+                  "fileid": 3554,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1312449,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3554",
+                  "objectid": 546
+                }
+            ],
+            "docid": 546,
+            "main": "10_Jurnal Internasional Electric Power Component and System 2014.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/641",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 50178,
+      "abstract": "Partial discharge (PD) is a symptom of insulation defect or degradation in high-voltage equipment. Thus, PD detection is an important diagnostic tool. Furthermore in practical situations, the PD can be generated from a single or multiple sources. Being able to detect and classify such PD events will help to determine the necessary corrective action to prevent insulation breakdown. To demonstrate, three different simulated discharge conditions in transformers were investigated: void, floating metal and their combination. The PD signals were captured using an ultra-high frequency (UHF) sensor and denoised using wavelet transform method by application of Matlab wavelet multi-variate denoising tool. Two types of mother wavelet, that is, db and sym, were applied to decompose the signals and extract the signal features in terms of their skewness, kurtosis and energy. These features were then used as input to train a neural network to analyse and determine the PD source type. Results show this technique is able to classify and recognise single and multiple PD source types with a high degree of success.",
+      "subjects": [
+        "TK"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/digital-library.theiet.org\/content\/journals\/10.1049\/iet-gtd.2013.0131"
+        }
+      ],
+      "status_changed": "2023-04-11 04:02:33",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 8,
+      "title": "Recognition of single and multiple partial discharge sources in transformers based on ultra-high frequency signals",
+      "official_url": "https:\/\/digital-library.theiet.org\/content\/journals\/iet-gtd",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2014-01",
+      "dir": "disk0_bak\/00\/05\/01\/78",
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null,
+            "given": "Herman Halomoan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Phung",
+            "lineage": null,
+            "given": "Toan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Trevor",
+            "family": "Blackburn",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1751-8695",
+      "publication": "IET Generation, Transmission & Distribution",
+      "pagerange": "160-169",
+      "datestamp": "2023-04-11 04:02:33",
+      "lastmod": "2023-04-11 04:02:33",
+      "userid": 689,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50178",
+      "publisher": "The Institution of Engineering and Technology",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189880",
+            "main": "Recognition of single and multiple partial discharge sources in transformers based on ultra‐high frequency signals.pdf",
+            "docid": 189880,
+            "files": [
+                {
+                  "mtime": "2023-04-11 01:57:33",
+                  "hash_type": "MD5",
+                  "hash": "1bc282b2387cb16d8e81a35fd22ebacc",
+                  "filename": "Recognition of single and multiple partial discharge sources in transformers based on ultra‐high frequency signals.pdf",
+                  "fileid": 542449,
+                  "mime_type": "application\/pdf",
+                  "filesize": 546672,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542449",
+                  "objectid": 189880
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 50178,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1
+    },
+    {
+      "date_type": "published",
+      "eprintid": 14407,
+      "abstract": "Intisari — Rancang bangun sistem keamanan ganda interaktif kendaraan bermotor roda dua berbasis RFID dilengkapi fitur keamanan darurat dengan akurasi dan presisi yang menunjang terwujudnya sistem keamanan interaktif. Metode penelitian yang dilakukan berupa perancangan dan pengujian (pengujian subsistem dan pengujian sistem keseluruhan). Data penelitian berupa data hasil pengujian subsistem identifikasi RFID, deteksi GPS, aksi Rele, dan komunikasi GSM. Sistem keamanan ganda kendaraan bermotor roda dua berbasis RFID yang dihasilkan sesuai dengan ketentuan fungsi sistem yang interaktif. Sistem memiliki rata-rata waktu tunda kerja sebesar 5.6 detik untuk awal sistem dihidupkan dan 1.6 detik untuk aksi terhadap kondisi masukan. Waktu tunda terjadi akibat penggunaan sepasang pin komunikasi serial mikrokontroler Arduino Uno R3 yang harus memenuhi kebutuhan proses komunikasi serial sistem untuk identifikasi RFID, deteksi GPS, dan komunikasi GSM dalam satu waktu. Kata kunci —  Sistem keamanan, RFID, GPS, GSM Abstract — The interactive double security system of two-wheeled motor vehicles design based on RFID equipped with an emergency security features with accuracy and precision that support the realization of an interactive security system. The method of research was done by designing and testing (subsystem testing and overall system testing). Research data was result data testing of RFID identification subsystem, GPS detection , the relay action, and GSM communication. The interactive double security system of two-wheeled motor vehicles design based on RFID that created was according to the provisions of interactive system functions. The system had an average of delay time 5.6 seconds for system starting and 1.6 seconds for the action of input conditions. Delay time caused by the use of only a pair of Arduino Uno R3 Microcontroller serial communication pin which is should meet the needs of serial communication systems for RFID identification, GPS detection, and GSM communication at one time. Keywords— Security System, RFID, GPS, GSM.",
+      "subjects": [
+        "Q1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-05-27 02:28:32",
+      "metadata_visibility": "show",
+      "volume": 8,
+      "rev_number": 7,
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/issue\/archive",
+      "title": "Rancang Bangun Sistem Keamanan Ganda Interaktif Kendaraan Bermotor Roda Dua Berbasis RFID (Radio Frequency Identification)",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2014-05",
+      "dir": "disk0\/00\/01\/44\/07",
+      "creators": [
+        {
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Susanto"
+          },
+          "id": null
+        },
+        {
+          "id": "herlinawati.rusydi@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "herlinawati",
+            "given": "herlinawati"
+          }
+        },
+        {
+          "id": "umi.murdika@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Murdika",
+            "lineage": null,
+            "given": "Umi"
+          }
+        }
+      ],
+      "issn": "1978-6042",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "datestamp": "2021-05-27 02:28:32",
+      "pagerange": "57-67",
+      "lastmod": "2021-05-27 02:28:32",
+      "userid": 66,
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14407",
+      "full_text_status": "restricted",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "validuser",
+            "eprintid": 14407,
+            "content": "accepted",
+            "mime_type": "text\/html",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/124933",
+                  "objectid": 27460,
+                  "hash": "93f49bd5824f82dc98cb54202b252cd0",
+                  "filename": 125,
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-28 14:08:31",
+                  "mime_type": "text\/html",
+                  "fileid": 124933,
+                  "filesize": 19661,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 27460,
+            "main": 125,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27460",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "number": 2
+    },
+    {
+      "date_type": "published",
+      "eprintid": 50184,
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Energi listrik merupakan salah satu energi yang dibutuhkan oleh masyarakat. Sumber energi listrik dihasilkan oleh pembangkit tenaga listrik. Komponen penting dalam pembangkit tenaga listrik adalah tranformator. Penggunaan transformator secara terus menerus dapat menyebabkan kegagalan isolasi dan rusaknya transformator. Pada saat sebelum terjadinya kerusakan, terjadi proses peluahan sebagian pada isolasi tegangan tinggi. Peluahan sebagian yang terjadi secara terus menerus pada suatu bahan isolasi dapat mengakibatkan break down, hal ini karena adanya tekanan medan magnet pada sumber peluahan sebagian. Peluahan sebagian terdiri dari peluahan sebagian permukaan, rongga dan korona. Analisis peluahan sebagian dilakukan pada tiga jenis sumber peluahan, yaitu peluahan permukaan, rongga dan korona. Penggunaan sumber peluahan yang berbeda bertujuan untuk mengetahui perbedaan karakteristik dari masing masing sumber peluahan. Perbedaan karakteristik masing-masing sumber peluahan dianalisis berdasarkan amplitudo, durasi sinyal dan frekuensi peluahan yang menghasilkannya. Data yang dihasilkan berupa gelombang peluahan yang didapat dari osiloskop. Data yang dihasilkan diolah dengan menggunakan software matlab sehingga dapat ditentukan karakteristik amplitudo, durasi peluahan dan frekuensi masingmasing sumber peluahan. Dari hasil analisis diketahui bahwa amplitudo dan durasi waktu terlama terjadi pada korona dan frekuensi terbesar terjadi pada peluahan permukaan. Karakteristik peluahan sebagian bergantung pada sumber peluahan yang menghasilkannya.",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-11 04:02:37",
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/148"
+        }
+      ],
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Pendeteksian Beragam Sumber Peluahan Sebagian dengan Menggunakan Metode Elektromagnetik",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/about",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2014-09",
+      "dir": "disk0_bak\/00\/05\/01\/84",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Syahputra",
+            "honourific": null,
+            "given": "Luqvi Rizki"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sinaga",
+            "given": "Herman Halomoan"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "id": "yulmartin@eng.unila.ac.id",
+          "name": {
+            "given": "Yul",
+            "family": "Martin",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1978-6042",
+      "datestamp": "2023-04-11 04:02:37",
+      "lastmod": "2023-04-11 04:02:37",
+      "userid": 689,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50184",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189885",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 379405,
+                  "mime_type": "application\/pdf",
+                  "fileid": 542482,
+                  "filename": "Pendeteksian Beragam Sumber Peluahan Sebagian dengan Menggunakan Metode Elektromagnetik.pdf",
+                  "hash": "0cdd957e95b92078a5c55ff46bdddded",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 02:11:18",
+                  "objectid": 189885,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542482"
+                }
+            ],
+            "docid": 189885,
+            "main": "Pendeteksian Beragam Sumber Peluahan Sebagian dengan Menggunakan Metode Elektromagnetik.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50184
+          }
+      ]
+    },
+    {
+      "abstract": "To prevent loss of synchronism, power oscillations should be damped with an adequate damping torque so\r\nthat system can regain a new equilibrium point. There are several methods that have been used to improve the\r\ndamping such as using Power System Stabilizer (PSS), Flexible AC Transmission System (FACTS) device or\r\nHVDC Transmission system.\r\nThe implementation of PSS needs valid and detail power system parameter data such as line data, generator\r\ndata, etc. These data are required to get the correct setting of PSS. Un-proper PSS setting can lead to power\r\nsystem instability instead of strengthen the power system. In Indonesian power system, line data and\r\ntransformer data can be easily collected but generator parameters data are very hard to obtain especially for\r\nold generator. The large number of generator installed in the system made the data collections took a lot of time.\r\nThese conditions makes implementation of PSS is not a simple task in Indonesia\r\nThe main principle of damping controller that is installed in the transmission line such as FACTS device is to\r\ncontrol the power flows. Based on these principles, direct load control can be used to improve the power\r\noscillation damping. Simulation using a simple Kundur’s two area power systems is conducted as model. Modal\r\nanalysis and sensitivity analysis are used to identify the load that having significant effect to the power\r\noscillations. Phase plane analysis is conducted to identify the switching time of the loads.\r\nSimulation shows with the proper switching time, power oscillations can be damped with direct load control.\r\nLoads in each area are switched off in particular order to control the power flows in transmission line. PMU\r\nmeasurement data are used as an input. This method can be used for temporary solution as long as damping\r\ncontroller with PSS has not implemented yet.",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2017-04-13 04:32:20",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "event_type": "conference",
+      "event_dates": "27-30 October 2014",
+      "title": "OSCILLATION DAMPING WITH DIRECT LOAD CONTROL\r\nBASED ON PMU MEASUREMENT DATA",
+      "date_type": "published",
+      "eprintid": 1514,
+      "event_title": "CEPSI 2014",
+      "event_location": "Jeju, Korea",
+      "datestamp": "2017-04-13 04:32:20",
+      "lastmod": "2017-04-13 04:32:20",
+      "userid": 194,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1514",
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1514,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10352",
+                  "objectid": 1386,
+                  "mtime": "2017-04-12 09:19:04",
+                  "hash_type": "MD5",
+                  "filename": "1515-00.pdf",
+                  "hash": "7af46de34c89d9817735c9c562f8c9d6",
+                  "fileid": 10352,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3077205,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "1515-00.pdf",
+            "docid": 1386,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1386",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "conference_item",
+      "date": "2014-10-27",
+      "dir": "disk0\/00\/00\/15\/14",
+      "creators": [
+        {
+          "name": {
+            "given": "Eko Aptono",
+            "lineage": null,
+            "family": "Tri Yuwono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nurdin",
+            "lineage": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hariyanto",
+            "given": "Nanang"
+          }
+        },
+        {
+          "name": {
+            "family": "Khairudin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Khairudin"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mitani",
+            "honourific": null,
+            "given": "Yasunori"
+          }
+        }
+      ]
+    }
+]
+

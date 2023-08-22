@@ -1,0 +1,813 @@
+[
+    {
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "creators": [
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Despa",
+            "given": "Dikpride"
+          }
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          }
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "given": "Trisya",
+            "lineage": null,
+            "honourific": null,
+            "family": "Septiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "MAM",
+            "honourific": null,
+            "family": "Meizano Ardhi Muhammad",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2147-6799",
+      "publication": "International Journal of Intelligent Systems and Applications in  Engineering (IJISAE)",
+      "dir": "disk0_bak\/00\/05\/08\/17",
+      "date": "2023-04",
+      "userid": 1,
+      "lastmod": "2023-04-28 02:30:39",
+      "datestamp": "2023-04-28 02:30:39",
+      "pagerange": "1-8",
+      "publisher": "Ismail Saritas",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190527",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547322",
+                  "objectid": 190527,
+                  "filesize": 597481,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-28 02:28:01",
+                  "hash": "734e7e7100d639889d1565b3bc03cf58",
+                  "filename": "3003_Final_Vol.+11+No.+S4+(2023) (1).pdf",
+                  "fileid": 547322,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "3003_Final_Vol.+11+No.+S4+(2023) (1).pdf",
+            "docid": 190527,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50817
+          }
+      ],
+      "number": "5s",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50817",
+      "full_text_status": "public",
+      "eprintid": 50817,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-28 02:30:39",
+      "abstract": "As technologies advance and the population grows, electrical energy became one of the necessities for many peoples. Because the availability of electrical energy is limited, it requires various ways to be used efficiently. Electrical load monitoring usage in Indonesia still require an electrical officer to come to an electric panel location to record electrical usage. During the COVID-19 pandemic, it is not feasible to locally visit an electric panel because of the many restrictions. Remote monitoring using Internet of Things (IoT) can be used to address the problem. Going further, by knowing the electrical load usage, prediction can be done using fuzzy logic as a way to understand how to use electricity efficiently. Thus, a fuzzy logic load forecasting system IoT is developed in this research. Fuzzy variables used in this system are time of day, days of the week, measured loads, and forecasted loads. The research produced a system that predicts electrical load with one hour of accuracy based on the previous week's data. The average prediction error rate of the system is 9.48%. The implemented system is available on a web server and can be accessed via a web browser, either via a computer or cellphone. The system allows users to monitor and predict electrical load usage regardless of time and place.",
+      "official_url": "https:\/\/www.ijisae.org\/IJISAE",
+      "title": "Online Fuzzy Logic Prediction of Electrical Load Based on Real-Time Measurements During the Covid-19 Pandemic",
+      "metadata_visibility": "show",
+      "rev_number": 5,
+      "volume": 11
+    },
+    {
+      "issn": "2147-6799",
+      "creators": [
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "given": "Dikpride",
+            "lineage": null,
+            "family": "Despa",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Septiana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Trisya"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "publication": "International Journal of Intelligent Systems and Applications in Engineering",
+      "dir": "disk0_bak\/00\/05\/08\/22",
+      "contact_email": "despa@eng.unila.ac.id",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 50822,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190532",
+            "rev_number": 1,
+            "main": "3003_Final_Vol.+11+No.+S4+(2023).pdf.pdf",
+            "docid": 190532,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547351",
+                  "objectid": 190532,
+                  "filename": "3003_Final_Vol.+11+No.+S4+(2023).pdf.pdf",
+                  "hash": "1a088f63e910c4c2b58bfc2aa66cfccf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-28 03:32:15",
+                  "mime_type": "application\/pdf",
+                  "fileid": 547351,
+                  "filesize": 609459,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50822",
+      "userid": 656,
+      "pagerange": "1-8",
+      "referencetext": "References[1]Despa, D., Hakim, L., Syafruddin, M.,2014. Metode Regresi   Linier   untuk   Prediksi   Kebutuhan   Energi Listrik    Jangka    Panjang    (Studi    Kasus    Provinsi Lampung.Lampung: JITETvol. 2 no. 2 2014.[2]Despa, D., Kurniawan, A., Komarudin, M., & Nama, G.F., 2015. Smart Monitoring of Electrical Quantities Based  on  Single  Board  Computer  BCM238. 2nd International Conference on Information Technology,  Computer,  and  ElectricalEngineering (ICITACEE).[3]Despa,  D.,  Nama,  G.F.,  Komarudin,  M.  &  Zontche, M., 2016. Multi-Area Smart Monitoring of Electrical Quantities  on  Single  Board  Computer  BCM2835. International conference EECCIS, Malang, Indonesia.[4]Despa, D., Nama, G.F., Muhammad, M.A., & Anwar, K.,  2017. The  Implementation  of  Internet  of  Things (IoT)   Technology   in   Real   Time   Monitoring   of Electrical    Quantities. IOP    Conference    Series: Materials Science and EngineeringVol 335 No 1.[5]Despa, D., Nama, G.F. 2018. An Enhanced K-Means Clustering  Algorithm  for  Pattern  Discovery  in  Big Data   Analysis   of   3-Phase   Electrical   Quantities. International  Journal  of  Engineering  &Technology (IJET) Vol 7 Issue 4.36.[6]Despa, D., Nama, G.F., Setiawan, Fx., A., & Delano, J., 2019. Artificial Neural Network Applications Use Measurements  of  Electrical  Quantities  to  Estimate Electric Power. Journal of Physics: Conference Series Vol 1376 Issue 1.[7]Ali, A.T., Elisa, B.M., Shamseldin, Z.M., 2016.Short Term  Load  Forecasting  Using  Fuzzy  Logic.  Sudan: IJAETMAS[8]Dewi,  S.K., 2010. Neuro-Fuzzy:  Integrasi  Sistem Fuzzy dan Jaringan Syaraf.Yogyakarta: Graha Ilmu[9]Widodo,   T.S,   2005. Sistem   Neuro   Fuzzy   untuk Pengolahan   Informasi,   Pemodelan,   dan   Kendali. Yogyakarta: Graha Ilmu.[10]Singh,   S.K., 2009. Database System   Concepts, Design,   and   Application.   New   Delhi:   Dorling Kindersley.[11]Mamdani, E.; Assilian, S. An experiment in linguistic synthesis  with  a  fuzzy  logic  controller.  Int.  J.  Man-Mach. Stud. 1975, 7, 1–13.[12]Takagi,   T.;   Sugeno,   M.   Fuzzy   identification   of systems and its applications to modeling and control. IEEE Trans. Syst. Man.Cybern. 1985, SMC-15, 116–132. [13]Jang,  J.S.  ANFIS:  Adaptive-network-based  fuzzy inference  system.  IEEE  Trans.  Syst.  Man,  Cybern. 1993, 23, 665–685.[14]Tak,   N.   Type-1   possibilistic   fuzzy forecasting functions. J. Comput. Appl. Math. 2020, 370, 112653. [15]Singh, P. High-order fuzzy-neuro-entropy integration-based   expert   system   for   time   series forecasting.  Neural  Comput.  Appl.  2017,  28,  3851–3868. [16]Cagcag Yolcu, O.; Alpaslan, F. Prediction of TAIEX based on hybrid fuzzy time series model with single optimization  process.Appl.  Soft  Comput.  2018,  66, 18–33.[17]Cai,  Q.;  Zhang,  D.;  Zheng,  W.;  Leung,  S.C.  A  new fuzzy  time  series  forecasting  model  combined  with ant colony optimization and auto-regression. Knowl.-Based Syst. 2015, 74, 61–68.\r\nInternational Journal of Intelligent Systems and Applications in EngineeringIJISAE, 2023, 11(5s), 01–08|8[18]Egrioglu,  E.;  Aladag,  C.H.;  Yolcu,  U.  Fuzzy  time series   forecasting   with   a   novel   hybrid   approach combining   fuzzy   c-means   and   neural   networks. Expert Syst. Appl. 2013, 40, 854–857. [19]Teoh, H.J.; Cheng, C.H.; Chu, H.H.; Chen, J.S. Fuzzy time  series  model  based  on  probabilistic    approach and rough set rule induction for empirical research in stock markets. Data Knowl. Eng. 2008, 67, 103–117.[20]E.H.  Mamdani  and  S.  Assilian.  An  experiment  in linguistic  synthesis  with  a  fuzzy  logic  controller. International    Journal    of   Man-Machine    Studies, 7(1):1-13. 1975",
+      "title": "Similarity Check - Online Fuzzy Logic Prediction of Electrical Load Based on Real-Time Measurements During the Covid-19 Pandemic",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 11,
+      "status_changed": "2023-04-28 06:23:22",
+      "date": "2023-04-15",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Auricle Global Society of Education and Research",
+      "number": "5s",
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "name": {
+            "family": "despa",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dikpride"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "despa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "gigih forda",
+            "lineage": null,
+            "family": "nama",
+            "honourific": null
+          },
+          "id": "gigih@ang.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "septiana",
+            "lineage": null,
+            "given": "Trisya"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2023-04-28 06:23:22",
+      "datestamp": "2023-04-28 06:23:22",
+      "eprintid": 50822,
+      "date_type": "submitted",
+      "official_url": "https:\/\/ijisae.org\/index.php\/IJISAE\/article\/view\/2745",
+      "eprint_status": "archive",
+      "abstract": "As technologies advance and the population grows, electrical energy became one of the necessities for many peoples. Because the availability of electrical energy is limited, it requires various ways to be used efficiently. Electrical load monitoring usage in Indonesia still require an electrical officer to come to an electric panel location to record electrical usage. During the COVID-19 pandemic, it is not feasible to locally visit an electric panel because of the many restrictions. Remote monitoring using Internet of Things (IoT) can be used to address the problem. Going further, by knowing the electrical load usage, prediction can be done using fuzzy logic as a way to understand how to use electricity efficiently. Thus, a fuzzy logic load forecasting system IoT is developed in this research. Fuzzy variables used in this system are time of day, days of the week, measured loads, and forecasted loads. The research produced a system that predicts electrical load with one hour of accuracy based on the previous week's data. The average prediction error rate of the system is 9.48%. The implemented system is available on a web server and can be accessed via a web browser, either via a computer or cellphone. The system allows users to monitor and predict electrical load usage regardless of time and place.",
+      "subjects": [
+        "TK"
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52267",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 3011310,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-18 04:00:15",
+                  "filename": "JITET - DETEKSI FX.pdf",
+                  "hash": "47e8e52ef7b8014c9f14865d77a3bdd3",
+                  "fileid": 619471,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619471",
+                  "objectid": 253084
+                }
+            ],
+            "main": "JITET - DETEKSI FX.pdf",
+            "docid": 253084,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253084",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52267,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2023-07-18 06:11:05",
+      "lastmod": "2023-07-18 06:11:05",
+      "userid": 197,
+      "dir": "disk0_bak\/00\/05\/22\/67",
+      "date": "2023-01-01",
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "creators": [
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "given": "FX. Arinto",
+            "honourific": null,
+            "family": "Setyawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "hanif",
+            "honourific": null,
+            "given": "ahmad rizalul"
+          }
+        },
+        {
+          "name": {
+            "family": "Nasrullah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Emir"
+          },
+          "id": "emir.nasrullah@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2303-0577",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "title": "DETEKSI KARAKTER PLAT NOMOR KENDARAAN DENGAN MENGGUNAKAN METODE OPTICAL CHARACTER RECOGNITION (OCR)",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Plat nomor kendaraan merupakan salah satu bentuk identitas dari suatu kendaraan bermotor. Plat nomor kendaraan terdiri dari kombinasi huruf dan angka yang mengandung informasi baik kode daerah dan lainnya.\r\n\r\nInformasi tersebut tentunya penting untuk mengidentifikasi suatu kendaraan satu dengan yang lainnya. Maka dari itu informasi tentang plat nomor kendaraan haruslah tersaji dengan mudah dan cepat. Pada penelitian ini, dibangun sebuah sistem untuk memudahkan dalam mendeteksi dan membaca plat nomor kendaraan bermotor berdasarkan nomor kendaraan yang diambil secara langsung menggunakan kamera. Nomor kendaraan diidentifikasi dengan cara Optical Character Recognition (OCR) menggunakan tesseractocr.\r\n\r\nProses identifikasi diawali dengan pengambilan citra melalui kamera webcam. Selanjutnya dilakukan proses segmentasi, ekstraksi ciri dan pengenalan karakter. Untuk mengenali karakter pada nomor kendaraan, dilakukan proses klasifikasi menggunakan metode OCR. Berdasarkan hasil data penelitian, diketahui persentase keberhasilan pada jarak 150cm yaitu 93,3%, jarak 200cm yaitu 80% dan pada jarak 250cm yaitu 46,6%. Pengaruh Jarak kamera dan juga ukuran dari plat nomor kendaraan berpengaruh dalam deteksi dan pembacaan karakter plat nomor kendaraan, semakin jauh kamera maka semakin kecil persentase keberhasilannya.",
+      "eprint_status": "archive",
+      "status_changed": "2023-07-18 06:11:05",
+      "eprintid": 52267
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "creators": [
+        {
+          "id": "noersoedjarwanto@gmail.com",
+          "name": {
+            "given": "Noer",
+            "lineage": null,
+            "honourific": null,
+            "family": "Soedjarwanto"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Arinto",
+            "lineage": null,
+            "given": "FX"
+          },
+          "id": null
+        },
+        {
+          "id": "arhanadiwinata35@gmail.co m",
+          "name": {
+            "family": "Adiwinata",
+            "honourific": null,
+            "lineage": null,
+            "given": "Farhan"
+          }
+        }
+      ],
+      "issn": "2303-0577",
+      "publication": "RANCANG BANGUN DIODE CLAMPED MULTILEVEL INVERTER 7 TINGKAT UNTUK KONTROL DAN MONITORING MOTOR INDUKSI SATU FASA BERBASIS IoT",
+      "id_number": 10.2396,
+      "date": "2023-01-15",
+      "dir": "disk0_bak\/00\/05\/01\/94",
+      "lastmod": "2023-04-11 04:02:51",
+      "userid": 498,
+      "datestamp": "2023-04-11 04:02:51",
+      "pagerange": "7-13",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 542552,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 02:47:04",
+                  "filename": "RANCANG BANGUN DIODE CLAMPED MULTILEVEL.pdf",
+                  "hash": "ea9878c1aa3f44798d3b674c391676db",
+                  "datasetid": "document",
+                  "filesize": 492075,
+                  "objectid": 189896,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542552"
+                }
+            ],
+            "docid": 189896,
+            "main": "RANCANG BANGUN DIODE CLAMPED MULTILEVEL.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189896",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50194,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "JITET (Jurnal Informatika dan Teknik Elektro Terapan)",
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50194",
+      "full_text_status": "public",
+      "eprintid": 50194,
+      "date_type": "published",
+      "related_url": [
+        {
+          "url": "http:\/\/dx.doi.org\/10.23960\/jitet.v11i1.2791"
+        }
+      ],
+      "status_changed": "2023-04-11 04:02:51",
+      "eprint_status": "archive",
+      "abstract": "Kecepatan motor induksi dapat diatur dengan mengubah tegangan input, jumlah kutub ataupun frekuensi yang diberikan pada motor. Mengatur kecepatan motor induksi dengan cara mengubah tegangan input dan jumlah kutub cukup sulit dilakukan. Oleh karena itu hal yang paling mudah dilakukan adalah dengan mengubah frekuensi input pada motor induksi. Salah satu cara mendapatkan nilai frekuensi yang dapat diubah – ubah adalah dengan menggunakan inverter. Inverter yang digunakan pada penelitian ini adalah diode clamped multilevel inverter. Untuk memudahkan dalam melakukan kontrol kecepatan dan monitoring motor induksi, digunakan sensor tegangan ZMPT101B dan sensor kecepatan Optocoupler serta aplikasi blynk sebagai media dari internet of things. Hasil pengujian menunjukkan jika rangkaian alat dapat bekerja dengan baik. Perubahan frekuensi yang dilakukan diode clamped multilevel inverter berhasil mengubah kecepatan putaran motor induksi dan kontrol serta monitoring menggunakan konsep internet of things dapat bekerja sesuai kebutuhan.",
+      "subjects": [
+        "TK"
+      ],
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/article\/view\/2791",
+      "title": "RANCANG BANGUN DIODE CLAMPED MULTILEVEL INVERTER 7 TINGKAT UNTUK KONTROL DAN MONITORING MOTOR INDUKSI SATU FASA BERBASIS IoT",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 6
+    },
+    {
+      "eprintid": 50191,
+      "date_type": "published",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/article\/view\/2861",
+      "title": "ANALISIS SISTEM KONTROL KECEPATAN MOTOR DC PADA ROTARY KILN MENGGUNAKAN DC VARIABEL SPEED DRIVE DI INDUSTRI SEMEN",
+      "volume": 11,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-11 04:02:42",
+      "related_url": [
+        {
+          "url": "http:\/\/dx.doi.org\/10.23960\/jitet.v11i1.2861"
+        }
+      ],
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Motor DC merupakan salah satu jenis motor yang digunakan pada industri semen. Hal ini dikarenakan motor DC dapat mempermudah pekerjaan sehingga proses industri berjalan dengan efisien. Kecepatan motor yang dapat diatur sesuai kebutuhan juga dibutuhkan dalam proses produksi. Pada penelitian kali ini menggunakan metode studi literatur, observasi lapangan, wawancara, proses pengumpulan data dan pengujian, yang bertujuan untuk menganalisis pengaturan kecepatan motor DC pada rotary kiln yang menghasilkan kecepatan maksimum 1000 rpm yang terhubung dengan gear box dengan perbandingan sebesar 28 dan rasio roda gigi 8 ,9 menghasilkan output kiln 4 rpm. Dengan penggunaan VSD DC dapat menghasilkan kecepatan variabel yang dapat dikendalikan sesuai dengan kebutuhan operasional.",
+      "publication": "ANALISIS SISTEM KONTROL KECEPATAN MOTOR DC PADA ROTARY KILN MENGGUNAKAN DC VARIABEL SPEED DRIVE DI INDUSTRI SEMEN",
+      "creators": [
+        {
+          "id": "noersoedjarwanto@gmail.com",
+          "name": {
+            "family": "Soedjarwanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Noer"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "M Prawira D",
+            "honourific": null,
+            "given": "Mahkuta"
+          },
+          "id": "mahkutap@gmail.com"
+        }
+      ],
+      "issn": "2303-0577",
+      "date": "2023-01-15",
+      "dir": "disk0_bak\/00\/05\/01\/91",
+      "id_number": 10.2396,
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 189894,
+            "main": "ANALISIS SISTEM KONTROL KECEPATAN MOTOR DC.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 463963,
+                  "fileid": 542539,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-11 02:39:12",
+                  "hash_type": "MD5",
+                  "hash": "f5b878aa19d022d53d86020b603034b0",
+                  "filename": "ANALISIS SISTEM KONTROL KECEPATAN MOTOR DC.pdf",
+                  "objectid": 189894,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542539"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189894",
+            "eprintid": 50191,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "JITET (Jurnal Informatika dan Teknik Elektro Terapan)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50191",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 498,
+      "lastmod": "2023-04-11 04:02:42",
+      "datestamp": "2023-04-11 04:02:42",
+      "pagerange": "52-57"
+    },
+    {
+      "datestamp": "2023-07-12 05:11:38",
+      "lastmod": "2023-07-12 05:11:38",
+      "userid": 586,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52241",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "LPPM UNILA",
+      "documents": [
+          {
+            "eprintid": 52241,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 252937,
+            "main": "JSS - PEMBERDAYAAN SRS.pdf",
+            "files": [
+                {
+                  "hash": "da1bdb1cbaf001fc6c7022d83d6f6beb",
+                  "filename": "JSS - PEMBERDAYAAN SRS.pdf",
+                  "mtime": "2023-07-12 05:01:14",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 619087,
+                  "filesize": 947442,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619087",
+                  "objectid": 252937
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252937"
+          }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "date": "2023-03-20",
+      "dir": "disk0_bak\/00\/05\/22\/41",
+      "publication": "Jurnal Sakai Sambayan",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "syaiful.alam@eng.unila.ac.id",
+          "name": {
+            "given": "Syaiful",
+            "lineage": null,
+            "family": "Alam",
+            "honourific": null
+          }
+        },
+        {
+          "id": "umi.murdika@eng.unila.ac.id",
+          "name": {
+            "given": "Umi",
+            "honourific": null,
+            "family": "Murdika",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Komarudin",
+            "given": "Muhamad"
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "arief",
+            "honourific": null,
+            "lineage": null,
+            "given": "khollaqul"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Tiya",
+            "honourific": null,
+            "family": "Muthia",
+            "lineage": null
+          },
+          "id": "tiyamuthia7@gmail.com"
+        }
+      ],
+      "issn": "2550-1089",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Secara umum, masyarakat yang tinggal di sekitar masjid terdiri dari berbagai  tingkat ekonomi. Sebagian mereka mampu berbagi kepada sebagian lain yang membutuhkan. Mempertemukan kedua kebutuhan ini, yakni berbagi dan menerima, kadang tidak semudah yang dibayangkan. Selain karena faktor wabah yang mengharuskan social distancing, juga karena faktor-faktor yang berhubungan dengan kenyamanan dalam memberi dan menerima. Peran masjid dalam hal ini menjadi sangat penting. Tujuan dari kegiatan ini adalah memberdayakan masjid dalam menjembatani kedua pihak pemberi dan penerima, khususnya dalam berbagi kebutuhan pokok beras dengan menyediakan ATM Beras. Keberadaan ATM ini dapat membantu mengatasi masalah-masalah yang timbul dengan kontak langsung seperti wabah Covid-19 dan hal-hal yang berhubungan dengan ketidaknyamanan antara pemberi dan penerima. Cara kerja dari ATM Beras ini tidak sama dengan ATM konvensional yang digunakan dalam perbankan. Setiap penerima beras yang didata oleh pengurus masjid, akan diberi",
+      "status_changed": "2023-07-12 05:11:38",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "ELATIHAN PEMBUATAN ATM BERAS SEBAGAI SOLUSI BERBAGI UNTUK MASYARAKAT DI SEKITAR MASJID KHALILURRAHMAN BANDAR LAMPUNG",
+      "eprintid": 52241
+    },
+    {
+      "title": "SISTEM PEMANTAU KANDUNGAN GAS KARBON MONOKSIDA (CO) DAN KARBON DIOKSIDA (CO2) MENGGUNAKAN SENSOR MQ-7 DAN MQ-135 TERINTEGRASI DENGAN TELEGRAM",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "status_changed": "2023-07-12 05:11:40",
+      "eprint_status": "archive",
+      "abstract": "Polusi udara dan banyaknya aktifitas manusia dalam waktu yang lama menyebabkan meningkatnya kandungan gas polutan. Untuk itu diperlukan suatu alat yang dapat menginformasikan kandungan gas. Salah satu cara ialah sistem pemantau gas CO dan CO2 menggunakan sensor MQ-7 dan MQ-135 terintegrasi telegram yang memanfaatkan teknologi Internet Of Things (IoT). Dimana sensor MQ-135 dan sensor MQ-7 digunakan sebagai alat untuk mendeteksi dan mengukur kadar gas yang dibantu dengan esp32 sebagai mikrokontroler dan pemroses sinyal, Liquid Crystal Display (LCD) yang berfungsi untuk menampilkan data hasil pembacaan, buzzer sebagai indikator suara, serta aplikasi telegram yang berfungsi untuk menerima notifikasi apabila kandungan gas melebihi nilai ambang batas yag telah di tentukan. Sensor MQ-7 dan sensor MQ-135 dikalibrasi dengan menggunakan alat Az-Instrument. Berdasarkan hasil kalibrasi sensor didapatkan nilai kesalahan dari sensor MQ-7 sebesar 0.87% dan untuk sensor MQ-135 sebesar 0,66%. Hasil pengujian dari sistem ini adalah sistem mampu membaca kandungan gas CO dan CO2 yang ada di lingkungan kampus Universitas Lampung. Pengiriman informasi secara real time apabila kandungan gas melebihi nilai ambang batas yang telah ditentukan.",
+      "subjects": [
+        "TA"
+      ],
+      "eprintid": 52242,
+      "publisher": "Teknik Elektro Unila",
+      "documents": [
+          {
+            "docid": 252938,
+            "main": "JITET - SISTEM PEMANTAU SRS.pdf",
+            "files": [
+                {
+                  "objectid": 252938,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619094",
+                  "fileid": 619094,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-12 05:07:34",
+                  "hash": "0c1631049c53a7dda75567845319294b",
+                  "filename": "JITET - SISTEM PEMANTAU SRS.pdf",
+                  "datasetid": "document",
+                  "filesize": 2339596
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252938",
+            "rev_number": 1,
+            "eprintid": 52242,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52242",
+      "userid": 586,
+      "lastmod": "2023-07-12 05:11:40",
+      "datestamp": "2023-07-12 05:11:40",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "kurniawan",
+            "honourific": null,
+            "given": "dendi"
+          }
+        },
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Umi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Murdika"
+          },
+          "id": "umi.murdika@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2303-0577",
+      "publication": "Jurnal informatika dan Teknik elektro terapan (JITET)",
+      "date": "2023-04-12",
+      "dir": "disk0_bak\/00\/05\/22\/42",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ]
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "issn": "2830-7062",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "laksana",
+            "lineage": null,
+            "given": "Agung"
+          },
+          "id": "agunglaksana371@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Alam",
+            "lineage": null,
+            "given": "Syaiful"
+          },
+          "id": "syaiful.alam@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Purwiyanti"
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "emir.nasrullah@eng.unila.ac.id",
+          "name": {
+            "given": "Emir",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nasrullah"
+          }
+        }
+      ],
+      "publication": "JITET (Jurnal Informatika dan Teknik Elektro Terapan)",
+      "dir": "disk0_bak\/00\/05\/10\/65",
+      "date": "2023-04",
+      "lastmod": "2023-05-04 08:47:24",
+      "userid": 56,
+      "pagerange": "217-223",
+      "datestamp": "2023-05-04 08:47:24",
+      "publisher": "Teknik Elektro UNILA",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549134",
+                  "objectid": 190781,
+                  "filesize": 1115424,
+                  "datasetid": "document",
+                  "filename": "Jitet 2023 lengkap.pdf",
+                  "hash": "87e291a2493dd70019a0f423dcd6c06e",
+                  "mtime": "2023-05-04 08:19:25",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 549134
+                }
+            ],
+            "main": "Jitet 2023 lengkap.pdf",
+            "docid": 190781,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190781",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 51065,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51065",
+      "eprintid": 51065,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-04 08:47:24",
+      "abstract": "Akuaponik merupakan metode penggabungan budidaya ikan air tawar (akuakultur) dan budidaya sayuran (hidroponik) yang memanfaatkan media air dan tidak menggunakan tanah. Pada budidaya Akuaponik, sayuran dan ikan dapat tumbuh optimal dipengaruhi beberapa faktor salah satunya pH air. pH pada sistem Akuaponik berpengaruh pada kemampuan tanaman dalam\r\nmenyerap nutrisi. Penelitian ini bertujuan untuk mengetahui kinerja alat sistem pemantau pH dan kendali pH Akuaponik pada tanaman selada dengan mikrokontroler Wemos D1 R2 sebagai pengendali utama, aplikasi Blynk yang dapat membantu memantau keadaan pH dan Aktuator dalam hal ini Pompa\r\nPeristaltik sebagai pengendali otomatis pH Akuaponik. Setelah dilakukan penelitian diketahui bahwa penelitian ini menghasilkan alat yang dapat memantau nilai pH menggunakan aplikasi Blynk dan dapat mengendalikan pH menggunakan Aktuator. Alat pemantau dan pengendali stabil karena mampu\r\nmenampilkan data dan mempertahankan nilai pH pada rentang nilai pH 6-7 selama pertumbuhan tanaman selada. Waktu yang dibutuhkan untuk menurunkan nilai pH cenderung lebih lama yaitu 23,6 detik dibandingkan dengan waktu untuk menaikkan nilai pH yaitu 14,8 detik.",
+      "subjects": [
+        "TK"
+      ],
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/index",
+      "title": "RANCANG BANGUN SISTEM PEMANTAU PH MENGGUNAKAN APLIKASI BLYNK DAN KENDALI PH MENGGUNAKAN AKTUATOR PADA BUDIDAYA AKUAPONIK BERBASIS WEMOS D1 R2",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "volume": 11
+    }
+]
+

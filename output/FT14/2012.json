@@ -1,0 +1,145 @@
+[
+    {
+      "lastmod": "2017-08-14 01:36:06",
+      "userid": 464,
+      "datestamp": "2017-08-14 01:36:06",
+      "pagerange": "215-224",
+      "publisher": "The Japanese Society for Artificial Organs",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26411",
+                  "objectid": 3624,
+                  "mtime": "2017-08-04 02:49:32",
+                  "hash_type": "MD5",
+                  "filename": "7. 012012_INT.pdf",
+                  "hash": "692d0202ba71d46c2fae3867f138ebc8",
+                  "fileid": 26411,
+                  "mime_type": "application\/pdf",
+                  "filesize": 231466,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 3624,
+            "main": "7. 012012_INT.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3624",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3769,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3769",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "creators": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "family": "Sukmana",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1434-7229",
+      "publication": "Journal of Artificial Organs",
+      "date": "2012-04",
+      "dir": "disk0\/00\/00\/37\/69",
+      "status_changed": "2017-08-14 01:36:06",
+      "eprint_status": "archive",
+      "abstract": "Tissue engineering seeks strategies to design\r\npolymeric scaffolds that allow high-cell-density cultures\r\nwith signaling molecules and suitable vascular supply. One\r\nmajor obstacle in tissue engineering is the inability to\r\ncreate thick engineered-tissue constructs. A pre-vascularized tissue scaffold appears to be the most favorable approach to avoid nutrient and oxygen supply limitations as well as to allow waste removal, factors that are often hurdles in developing thick engineered tissues. Vascularization can be achieved using strategies in which cells are cultured in bioactive polymer scaffolds that can mimic extracellular matrix environments. This review addresses recent advances and future challenges in developing and using bioactive polymer scaffolds to promote tissue construct\r\nvascularization.",
+      "subjects": [
+        "TJ"
+      ],
+      "title": "Bioactive Polymer Scaffold For Fabrication of Vascularized Engineering Tissue",
+      "metadata_visibility": "show",
+      "volume": 15,
+      "rev_number": 6,
+      "eprintid": 3769,
+      "date_type": "published"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "issn": "2356-6140 (Print) 1537-744X (Online)",
+      "creators": [
+        {
+          "name": {
+            "given": "Irza",
+            "family": "Sukmana",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "publication": "The Scientific World Journal",
+      "dir": "disk0\/00\/00\/37\/70",
+      "date": "2012-05",
+      "lastmod": "2017-08-14 01:36:59",
+      "userid": 464,
+      "datestamp": "2017-08-14 01:36:59",
+      "pagerange": "1-10",
+      "publisher": "The Scientific World Journal",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 3770,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3625",
+            "docid": 3625,
+            "main": "8. 022012_INT.pdf",
+            "files": [
+                {
+                  "filesize": 2350648,
+                  "datasetid": "document",
+                  "mtime": "2017-08-04 02:58:19",
+                  "hash_type": "MD5",
+                  "filename": "8. 022012_INT.pdf",
+                  "hash": "25124cd3f8d4abcd99974ca511de4fee",
+                  "fileid": 26417,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26417",
+                  "objectid": 3625
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3770",
+      "full_text_status": "public",
+      "eprintid": 3770,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2017-08-14 01:36:59",
+      "abstract": "The guidance of endothelial cell organization into a capillary network has been a long-standing challenge in tissue engineering. Some research efforts have been made to develop methods to promote capillary networks inside engineered tissue constructs. Capillary and vascular networks that would mimic blood microvessel function can be used to subsequently facilitate oxygen and nutrient transfer as well as waste removal. Vascularization of engineering tissue construct is one of the most favorable strategies\r\nto overpass nutrient and oxygen supply limitation, which is often the major hurdle in developing thick and complex tissue and artificial organ. This paper addresses recent advances and future challenges in developing three-dimensional culture systems to promote tissue construct vascularization allowing mimicking blood microvessel development and function encountered in vivo.\r\nBioreactors systems that have been used to create fully vascularized functional tissue constructs will also be outlined.",
+      "subjects": [
+        "TJ"
+      ],
+      "title": "Microvascular Guidance: A Challenge to Support the Development of Vascularised Tissue Engineering Construct",
+      "metadata_visibility": "show",
+      "volume": 2012,
+      "rev_number": 6
+    }
+]
+

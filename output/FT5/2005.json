@@ -1,0 +1,144 @@
+[
+    {
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "Impelementasi Teknik Feed Forward untuk Mengurangi Riak Keluaran Konverter DC ke DC",
+      "event_dates": "12-13 September 2005",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Catu data DC yang dapat menghasilkan tegangan keluaran dengan riak yang sangat kecil sangat diperlukan dalam berbagai aplikasi industri dan peralatan Telekomunikasi. Makalah ini mengusulkan sebuah metoda untuk meminimisasi riak tegangan keluaran konverter DC ke DC. Untuk menghasilkan riak tegangan keluaran yang rendah tanpa menggunakan filter LC yang besar diusulkan sebuah konverter DC ke DC yang menggunakan teknik feed forward. Pada Makalah ini dilakukan studi penggunaan Teknik Feed Forward untuk mengurangi riak keluaran konverter DC ke DC. Pada teknik Feed Forward tegangan masukan di sensor dan digunakan untuk menghasilkan sinyal kontrol dari konverter DC ke DC. Penelitian dilakukan melalui simulasi komputer menggunakan Matlab Simulink.",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-02 04:19:01",
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "event_title": "National Seminar on ASET '05",
+      "eprintid": 273,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/273",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 12246233,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-02 03:43:16",
+                  "hash": "5ed7d25f36de4ac70dfbf7ed16872e08",
+                  "filename": "Paper_Seminar_ASET_2005.pdf",
+                  "fileid": 1526,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1526",
+                  "objectid": 268
+                }
+            ],
+            "docid": 268,
+            "main": "Paper_Seminar_ASET_2005.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/268",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 273,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2016-08-02 04:19:01",
+      "lastmod": "2016-08-02 04:19:01",
+      "userid": 504,
+      "dir": "disk0\/00\/00\/02\/73",
+      "date": "2005-09",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad Saudi",
+            "family": "Samosir",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 653,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/558",
+            "rev_number": 1,
+            "docid": 558,
+            "main": "19_Proceeding Nasional ASET 2005.pdf",
+            "files": [
+                {
+                  "mtime": "2016-09-23 06:20:52",
+                  "hash_type": "MD5",
+                  "filename": "19_Proceeding Nasional ASET 2005.pdf",
+                  "hash": "e8a064d8ea89ba09e615c0c7b7020031",
+                  "fileid": 3622,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3218112,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3622",
+                  "objectid": 558
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/653",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 504,
+      "lastmod": "2016-09-23 07:34:08",
+      "pagerange": "138-147",
+      "datestamp": "2016-09-23 07:34:08",
+      "publication": "Proceeding National Seminar on ASET 2005",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad Saudi",
+            "lineage": null,
+            "family": "Samosir",
+            "honourific": null
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        }
+      ],
+      "issn": "979-8287-80-0",
+      "date": "2005-09-12",
+      "dir": "disk0\/00\/00\/06\/53",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "title": "Implementasi Teknik Feed Forward Untuk Mengurangi Riak Keluaran Konverter DC ke DC",
+      "volume": 2,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-09-23 07:34:08",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang Implementasi Teknik Feed Forward Untuk Mengurangi Riak Keluaran Konverter DC ke DC. \r\nPembahasan dimulai dengan analisa teoritis persamaan tegangan keluaran converter DC ke DC, dan dilanjutkan dengan perancangan teknik control Feed Forward. Rancangan Teknik Kontrol Feed Forward yang diusulkan dimodelkan dan disimulasikan menggunakan perangkat lunak Simulink. Kemudian dilakukan pembangunan Hardware untuk memvalidasi unjuk kerja rangkaian.",
+      "eprintid": 653,
+      "date_type": "published"
+    }
+]
+

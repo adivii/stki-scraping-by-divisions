@@ -1,0 +1,171 @@
+[
+    {
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50389,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190097",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "0c70a489338570aabc31b2b8653ed056",
+                  "filename": "Usul PHB 2007 Lanjutan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-12 10:04:35",
+                  "mime_type": "application\/pdf",
+                  "fileid": 543979,
+                  "filesize": 1715471,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543979",
+                  "objectid": 190097
+                }
+            ],
+            "main": "Usul PHB 2007 Lanjutan.pdf",
+            "docid": 190097
+          }
+      ],
+      "publisher": "FT Unila",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50389",
+      "full_text_status": "public",
+      "lastmod": "2023-04-13 00:35:07",
+      "userid": 390,
+      "datestamp": "2023-04-13 00:35:07",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "given": "Joni",
+            "family": "Agustian",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nugrahini",
+            "given": "Panca"
+          },
+          "id": null
+        },
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hermida",
+            "given": "Lilis"
+          }
+        }
+      ],
+      "date": "2007-11",
+      "dir": "disk0_bak\/00\/05\/03\/89",
+      "type": "other",
+      "divisions": [
+        "FT6"
+      ],
+      "title": "Karakterisasi proses anaerobik perombak\r\nsubstrat multi karbon dengan teknologi sel\r\nterimobilisasi UASB – TAHAP II",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2023-04-13 00:35:07",
+      "eprint_status": "archive",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "Tujuan jangka panjang penelitian ini adalah dihasilkannya unit pengolahan limbah\r\ncair secara biologi anaerobik dengan umpan campuran limbah cair dari industri tapioka,\r\nindustri gula dan pabrik pengolahan minyak kelapa sawit. Umpan yang terdiri atas\r\ncampuran limbah cair ketiga jenis industri tersebut dengan perbandingan tertentu diolah\r\ndengan menggunakan teknologi proses anaerobik sel terimobilisasi UASB.\r\nPenelitian ini menggunakan reaktor UASB skala laboratorium. Variasi konsentrasi COD dengan beban maksimal 25.000 mg\/L pada waktu tinggal hidrolik\r\ncairan tertentu dan kondisi pH dan nutrisi umpan yang ditetapkan dievaluasi dalam\r\npenelitian, sehingga analisis parameter kinetika dan simulasi untuk scale-up serta\r\nanalisis finansial terhadap kemungkinan penerapan UASB dapat dilakukan",
+      "eprintid": 50389,
+      "date_type": "submitted"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Joni",
+            "lineage": null,
+            "family": "Agustian",
+            "honourific": null
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nugrahini",
+            "honourific": null,
+            "given": "Panca"
+          },
+          "id": null
+        },
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hermida",
+            "lineage": null,
+            "given": "Lilis"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/03\/88",
+      "date": "2007-11",
+      "type": "other",
+      "divisions": [
+        "FT6"
+      ],
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190096",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 190096,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543971",
+                  "datasetid": "document",
+                  "filesize": 6456558,
+                  "mime_type": "application\/pdf",
+                  "fileid": 543971,
+                  "filename": "Laporan Pen Hibah Bersaing 2007 Joni Agustian.pdf",
+                  "hash": "7d8201499a48d5b78abea7702a7ef6d4",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-12 09:51:08"
+                }
+            ],
+            "docid": 190096,
+            "main": "Laporan Pen Hibah Bersaing 2007 Joni Agustian.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50388
+          }
+      ],
+      "publisher": "FT Unila",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50388",
+      "lastmod": "2023-04-13 00:35:12",
+      "userid": 390,
+      "datestamp": "2023-04-13 00:35:12",
+      "eprintid": 50388,
+      "date_type": "submitted",
+      "title": "Laporan Penelitian Hibah Bersaing KArakterisasi Poses Anaerobik Perombak Substrat Multi-Karbon Dengan Teknologi Sel Terimobilisasi UASB",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2023-04-13 00:35:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "Pengolahan limbah cair secara biologi anaerobik dengan umpan campuran limbah cair dari industri tapioka, industri gula dan pabrik pengolahan minyak kelapa sawit merupakan proses pengolahan dengan prospek yang baik.  Kandungan senyawa karbon dalam limbah cair ketiga industri tersebut cukup tinggi, sehingga dapat digunakan untuk membangkitkan biogas metan yang dapat digunakan sebagai sumber energi.  Umpan yang terdiri atas campuran limbah cair ketiga industri dengan perbandingan tertentu diolah dengan teknologi proses anaerobik sel terimobilisasi UASB.  Reaktor UASB merupakan tipe reaktor yang mampu bekerja pada tingkat beban organik yang tinggi.  Oleh karena itu kandungan COD yang besar yang ada dalam limbah cair akan dapat diolah dengan baik.  Penelitian ini menggunakan reaktor UASB skala laboratorium.  Variasi konsentrasi COD dengan beban maksimal 15.000 mg\/L , waktu tinggal hidrolik cairan 10-20 jam, kondisi pH dan nutrisi umpan yang alami dan terkontrol dievaluasi dalam penelitian.  \r\nDalam eksperimen digunakan perbandingan volume 1:1:12 agar diperoleh kandungan COD campuran awal diatas 15.000 mg\/L.  Campuran ketiga jenis limbah cair pada penelitian ini menghasilkan limbah cair yang berwarna coklat keruh dengan pH sekitar 5.  Reduksi kandungan COD limbah cair pada setiap kelompok eksperimen berada pada rentang yang cukup baik, yaitu sekitar 67,07%-82,52% pada laju beban organik 6-36 kgCOD\/m3\/hari.  Kondisi pH-nutrisi alami menghasilkan tingkat reduksi COD yang lebih besar daripada kondisi limbah cair yang memiliki pH dan nutrisi terkendali.  Jumlah gas yang diakumulasi berada pada rentang rata-rata 140-370 mL\/jam.  Pada kondisi pH 5,5-6,5 proses degradasi COD limbah cair campuran berjalan lebih maksimal daripada biodegradasi dengan kondisi pH yang cenderung asam atau mendekati 7.  Proses biodegradasi dengan pH kontrol menghasilkan reduksi COD sebesar 42-92%, sedangkan reduksi COD pada kondisi pH alami adalah lebih tinggi (sekitar 61-97%).  Jika dibandingkan kedua kondisi diatas dapat ditemui bahwa pH alami 5,5 dan pH kontrol 6,5 memiliki nilai yang lebih baik dari kelompok pH lainnya, dengan tingkat reduksi berada pada rentang 70-80%.  Mayoritas nilai pH effluen berada pada nilai diatas 6,0, sehingga proses hidrolisis-fermentasi dan metanasi berjalan dengan kesetimbangan yang baik.  Kandungan TSS yang diumpankan ke bioreaktor UASB adalah 553-6.350 mg\/L, yang masih dapat diolah oleh bioreaktor UASB dengan tingkat effisiensi yang cukup tinggi pada saat kandungan TSS > 4.000 mg\/L.  Kandungan nitrogen dan posfor yang terdapat dalam limbah cair (nutrisi alami) cukup menunjang aktivitas mikroorganisme anaerobik dalam mereduksi kandungan COD limbah cair gabungan.  Kesimpulan yang didapat adalah bioreaktor UASB dapat beroperasi dengan baik dalam mengolah limbah cair campuran dari tiga jenis industri tersebut."
+    }
+]
+

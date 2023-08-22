@@ -1,0 +1,75 @@
+[
+    {
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 26179,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 40060,
+            "main": "FIX_Analysis effect of wind speed variation on the design of horizontal axis wind turbine with Qblade software.pdf",
+            "files": [
+                {
+                  "mtime": "2020-11-19 03:03:46",
+                  "hash_type": "MD5",
+                  "filename": "FIX_Analysis effect of wind speed variation on the design of horizontal axis wind turbine with Qblade software.pdf",
+                  "hash": "11efb60b8f9cb8dffd4aaabb7b855d07",
+                  "fileid": 235971,
+                  "mime_type": "application\/pdf",
+                  "filesize": 569963,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/235971",
+                  "objectid": 40060
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40060",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "submitted",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26179",
+      "full_text_status": "public",
+      "lastmod": "2020-11-19 11:36:10",
+      "userid": 3227,
+      "pagerange": "1-6",
+      "datestamp": "2020-11-19 11:36:10",
+      "creators": [
+        {
+          "name": {
+            "family": "Akhmad Riszal",
+            "honourific": null,
+            "lineage": null,
+            "given": "Riszal"
+          },
+          "id": "riszal.eng@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/02\/61\/79",
+      "date": "0015-10-15",
+      "type": "conference_item",
+      "divisions": [
+        "FT7"
+      ],
+      "title": "Analysis effect of wind speed variation on the design horizontal axis wind turbine with Qblade software",
+      "official_url": "http:\/\/ic-star.unila.ac.id\/?page_id=17",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2020-11-19 11:36:10",
+      "abstract": "Abstract. Wind energy is renewable energy environmentally friendly energy. One of the utilization of wind energy conversion the wind turbine. The Wind turbine is an energy conversion device to convert wind energy into mechanical energy and convert it into electricity through the generator. The size of the power produced by wind turbines, one of which depends on the wind speed and type of turbine used. So in this research, research will design wind turbines with wind speed variations. The purpose of the design and analysis of variations in wind speed is to design a low speed wind turbine and use model with a number of blades 5 wind turbine. The object of this study was the design of wind turbines with variations in wind speed of 2 m\/s, 3 m\/s,4 m\/s, 5 m\/s and 6 m\/s with a number of blades 5 wind turbine horizontal axis, rotor diameter of 1.4 m and this rotor used NACA 4412 airfoil type. The method use Blade Element Momentum (BEM) and design simulation used Q- Blade software. The results of the design of wind turbines with wind speed variations show that there is an increase in power as the wind speed increases.\r\n\r\nKeywords: Wind Turbine, Qblade Software,Blade Element Momentum (BEM).",
+      "subjects": [
+        "TJ"
+      ],
+      "event_location": "Zoom Meet",
+      "eprintid": 26179,
+      "event_title": "ICSTAR 2020",
+      "date_type": "published"
+    }
+]
+

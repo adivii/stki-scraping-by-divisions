@@ -1,0 +1,101 @@
+[
+    {
+      "id_number": 1,
+      "date": "2016-10-27",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "publisher": "Departemen Teknik Geodesi  Fakultas Teknik Universitas Gadjah Mada  Yogyakarta, 2016",
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2023-04-06 07:24:09",
+      "lastmod": "2023-04-06 07:24:09",
+      "date_type": "published",
+      "eprintid": 49751,
+      "official_url": "https:\/\/geodesi.ugm.ac.id\/",
+      "abstract": "The Village of Gedung Pakuon is one of the villages of the coastal area of Lampung Bay. The monitoring\r\nresults are directly in some village in the district of Teluk Betung Selatan, Bandar Lampung, most of the village\r\nmap still does not meet the rules of cartography (still shaped sketch). In this study, carried out several activities,\r\nstarting from the procurement stage image, cropping the image, geometry correction, cartography and plotting.\r\nAccuracy Quickbird image used was 2.4 m, then the tolerance value RMSE after multiplied by the accuracy\r\nof the image should be no more than 2.4 m, the results of the entire value of the average RMSE of 10 GCP\r\n(ground control points) obtained was 0:18, then 0:18 x 2.4 = 0432 m, which means that 0432 m <2.4 m so that\r\nthe geometric correction Quickbird categorized sign of tolerance. These forms of technical assistance in the\r\nform of maps and map image Gedung Pakuon sub line with the scale of 1: 2,000 which is expected to meet\r\nthe needs of spatial information, especially the village community and can be used as a reference for mapping\r\npurposes and other users.",
+      "subjects": [
+        "GE"
+      ],
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/97\/51",
+      "issn": "978-979-98731-7-0",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yohannes",
+            "lineage": null,
+            "given": "Yohannes"
+          },
+          "id": "yohannessp@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fajriyanto",
+            "honourific": null,
+            "given": "Fajriyanto"
+          },
+          "id": "fajriyanto@eng.unila.ac.id"
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmadi",
+            "given": "Eko"
+          }
+        }
+      ],
+      "publication": "Seminar Nasional 3rd CGISE dan FIT ISI 2016",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49751",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49751,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189390",
+            "rev_number": 1,
+            "main": "8. Co Author-Prosiding Seminar Nasional 3rd CGISE dan FIT ISI 2016-Fajriyanto.pdf",
+            "docid": 189390,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 504256,
+                  "fileid": 539037,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-06 04:40:10",
+                  "hash_type": "MD5",
+                  "hash": "66410864d2afbd53214546c9a57e73f3",
+                  "filename": "8. Co Author-Prosiding Seminar Nasional 3rd CGISE dan FIT ISI 2016-Fajriyanto.pdf",
+                  "objectid": 189390,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539037"
+                }
+            ]
+          }
+      ],
+      "pagerange": "523-528",
+      "userid": 30,
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "referencetext": "Dewi, C., dkk, 2013: Analisis Ruang Terbuka Hijau di\r\nKota Bandar Lampung. Penelitiandan Pengabdian\r\nMasyarakat, Universitas Lampung, Lampung.\r\nJulzarika, A. 2009: Perbandingan Teknik\r\nOrthorektifikasi Citra Satelit SPOT5 Wilayah\r\nSemarang Dengan Metode Digital Mono Plotting\r\n(DMP) Dan Metode Rational Polynomial\r\nCoefficients (RPCs), Jurnal Penginderaan Jauh\r\nVolume 6, Tahun 2009 halaman :11-21\r\nJensen, J.R, 1996: Introductory Digital Image\r\nProcessing, Prentice Hall, Singapore.\r\nLillesand.M.T dan R.W. Kieffer, 1997. Penginderaan\r\nJauh dan Interpretasi Citra. Gadjah Mada\r\nUniversity Press, Yogyakarta.\r\nMartain. 2006: Pemanfaatan Citra Quickbird sebagai\r\nkomponen untuk pembuatan peta zona nilai tanah di\r\nwilayah perbatasan antar dua Kantor Pelayanan\r\nPajak Bumi dan Bangunan-Studi kasus Perbatasan\r\nKecamatan Tegalrejo (KP. PBB Yogyakarta) dan\r\nKecamatan Mlati (KP. PBB Sleman). Thesis S-2.\r\nProgram Studi Teknik Geomatika, Universitas\r\nGadjah Mada, Yogyakarta. \r\nNugroho, H, 2011: Kajian Implementasi Metode\r\nPenetapan Batas Administrasi Kota\/Kabupaten\r\n(Studi Kasus: Provinsi Sumatera Barat), Jurnal\r\nRekayasa LPPM Itenas, Nomor 1 Volume XV, edisi\r\nJanuari – Maret 2011, Bandung.\r\nPeraturan Menteri Dalam Negeri Nomor 27 Tahun\r\n2006 tentang Penetapan dan Penegasan Batas Desa.\r\nJakarta\r\nPeraturan Kepala Badan BIG Nomor 3 Tahun 2016\r\ntentang Spesifikasi Teknik Penyajian Peta Desa\r\nYang Menyajikan Peta Desa Dalam Bentuk Peta\r\nCitra, Cibinong, Bogor.\r\nPramono, H. dkk., 2013: Panduan Penataan Batas\r\nDesa secara Partisipatif, Laporan Akhir Support\r\nServices for Land Use Planning, District Readiness,\r\nStrategic Environmental Assessment and Related\r\nPreparatory Activities for the Green Prosperity\r\nProject in Indonesia, Millennium Challenge\r\nCorporation, Washington DC, U.S.A \r\nUndang-Undang Republik Indonesia Nomor 26 Tahun\r\n2007 Tentang Penataan Ruang, Jakarta\r\nWahyono, E.B, 2007: Kajian pemanfaatan citra satelit\r\nIkonos untuk pembuatan peta dasar pendaftaran tanah: Kasus pada sebagian daerah Kabupaten\r\nTrenggalek Provinsi Jawa Timur. Thesis S-2.\r\nProgram Studi Teknik Geomatika, Universitas\r\nGadjah Mada, Yogyakarta.\r\nYudono, A. 2016: Teknologi, Informasi Dan\r\nPerencanaan Di Indonesia: Quo Vadis One Map\r\nPolicy? Department of Urban Studies and Planning,\r\nUniversity of Sheffield. U.K.",
+      "title": "Realisasi Kebijakan Satu Peta (One Map Policy) Berbasis Peta\r\nDesa (Studi Kasus Bantuan Teknis Peta Kelurahan Pakuon,\r\nKecamatan Teluk Betung Selatan, Kota Bandar Lampung)",
+      "related_url": [
+        {
+          "url": "https:\/\/geodesi.ugm.ac.id\/"
+        }
+      ],
+      "status_changed": "2023-04-06 07:24:09"
+    }
+]
+

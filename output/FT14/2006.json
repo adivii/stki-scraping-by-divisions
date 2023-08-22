@@ -1,0 +1,149 @@
+[
+    {
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "publication": "Jurnal Teknologi",
+      "issn": "1410 - 8577",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null,
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "date": "2006-12",
+      "dir": "disk0\/00\/00\/37\/57",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Unila"
+      ],
+      "lastmod": "2017-08-14 04:00:11",
+      "userid": 464,
+      "pagerange": "97-101",
+      "datestamp": "2017-08-14 04:00:11",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Pusat Penelitian dan Pengabdian Masyarakat Sekolah Tinggi Teknologi Jakarta",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3757,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3614",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1371564,
+                  "fileid": 26356,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-03 05:50:16",
+                  "filename": "1. 012006_NAS.pdf",
+                  "hash": "34791ea78833eb6e0366ba09894a0a6a",
+                  "objectid": 3614,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26356"
+                }
+            ],
+            "main": "1. 012006_NAS.pdf",
+            "docid": 3614
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3757",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 3757,
+      "eprint_status": "archive",
+      "status_changed": "2017-08-14 04:00:11",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Magnesium alloys as a new light-weight structural metals.",
+      "title": "Emerging Trend in the Application of Magnesium Alloys : From Mechanical to Bio – Engineering",
+      "volume": 9,
+      "rev_number": 6,
+      "metadata_visibility": "show"
+    },
+    {
+      "eprintid": 3759,
+      "date_type": "published",
+      "title": "potentiality and drawback on the application of magnesium and its alloy in automobile industry",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "status_changed": "2017-08-14 04:00:32",
+      "eprint_status": "archive",
+      "abstract": "penemuan material baru memegang peran kunci di dalam pengembangan teknologi di masa yang akan datang, saat ini, paduan magnesium merupakan material baru.",
+      "subjects": [
+        "TJ"
+      ],
+      "issn": "1411 - 2698",
+      "creators": [
+        {
+          "name": {
+            "given": "Irza",
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "publication": "Jurnal Kajian Teknologi",
+      "dir": "disk0\/00\/00\/37\/59",
+      "date": "2006-05",
+      "type": "article",
+      "divisions": [
+        "FT14"
+      ],
+      "publisher": "Fakultas Teknik, Universitas Tarumanegara, Jakarta",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3616",
+            "rev_number": 1,
+            "docid": 3616,
+            "main": "2. 022006_NAS.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26368",
+                  "objectid": 3616,
+                  "filename": "2. 022006_NAS.pdf",
+                  "hash": "65311a353a36f2af77ea999425ed9a0f",
+                  "mtime": "2017-08-03 06:02:15",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26368,
+                  "filesize": 1642750,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 3759,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "number": 8,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3759",
+      "full_text_status": "public",
+      "lastmod": "2017-08-14 04:00:32",
+      "userid": 464,
+      "pagerange": "45-52",
+      "datestamp": "2017-08-14 04:00:32"
+    }
+]
+

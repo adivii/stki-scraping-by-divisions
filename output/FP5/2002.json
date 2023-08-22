@@ -1,0 +1,95 @@
+[
+    {
+      "publisher": "LPPM Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 40624,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161993",
+            "docid": 161993,
+            "main": "Peer Review Cartacius Mollosus.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/452417",
+                  "objectid": 161993,
+                  "hash": "5bab54efb9c99de9e52860ed12b97448",
+                  "filename": "Peer Review Cartacius Mollosus.pdf",
+                  "mtime": "2022-03-28 13:21:48",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 452417,
+                  "filesize": 778699,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40624",
+      "lastmod": "2022-03-29 01:51:01",
+      "userid": 469,
+      "datestamp": "2022-03-29 01:51:01",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Jepfry",
+            "honourific": null,
+            "family": "Saputra",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null,
+            "given": "Bainah Sari"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Harianto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sugeng P."
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Yulia Rahma",
+            "honourific": null,
+            "family": "Fitriana",
+            "lineage": null
+          },
+          "id": "yulia.fitriana@fp.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/06\/24",
+      "date": "2002-04-21",
+      "type": "other",
+      "divisions": [
+        "FP5"
+      ],
+      "title": "Hasil Penilaian Peer Review Cartasius mollosus Pada Lahan Agroforestri di Blok Pemanfaatan Tahura Wan Abdul Rachman",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-03-29 01:51:01",
+      "abstract": "Hasil Penilaian Peer Review Cartasius mollosus Pada Lahan Agroforestri di Blok Pemanfaatan Tahura Wan Abdul Rachman",
+      "subjects": [
+        "SD"
+      ],
+      "eprintid": 40624
+    }
+]
+

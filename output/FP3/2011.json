@@ -1,0 +1,104 @@
+[
+    {
+      "type": "article",
+      "divisions": [
+        "FP3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Deny Sapto Chondro",
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null
+          },
+          "id": "deny.utomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Alimuddin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Alimuddin"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Agus Oman",
+            "family": "Sudrajat",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Faizal",
+            "honourific": null,
+            "given": "Irvan"
+          }
+        }
+      ],
+      "issn": "1412-5269",
+      "publication": "Jurnal Akuakultur Indonesia",
+      "dir": "disk0\/00\/00\/25\/02",
+      "date": "2011-01",
+      "lastmod": "2017-06-02 05:13:37",
+      "userid": 1193,
+      "datestamp": "2017-06-02 05:13:37",
+      "pagerange": "44-50",
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/xml",
+            "content": "published",
+            "eprintid": 2502,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2382",
+            "rev_number": 4,
+            "main": 4114,
+            "docid": 2382,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 33776,
+                  "fileid": 17293,
+                  "mime_type": "application\/xml",
+                  "mtime": "2017-05-31 06:39:48",
+                  "hash_type": "MD5",
+                  "filename": 4114,
+                  "hash": "286faec5ff68ae7c942a5394c4000ec9",
+                  "objectid": 2382,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17293"
+                }
+            ]
+          }
+      ],
+      "publisher": "Indonesia Society for Scientific Aquaculture",
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2502",
+      "eprintid": 2502,
+      "date_type": "published",
+      "status_changed": "2017-06-02 05:13:37",
+      "eprint_status": "archive",
+      "abstract": "This study aimed to produce recombinant growth hormone (rGH) protein of common carp (Cyprinus carpio) and evaluate its bioactivity. DNA fragment encoding mature GH protein of common carp (mCcGH) was amplified by polymerase chain reaction (PCR) method and PCR products were then ligated into pCold I to generate pCold I-mCcGH protein expression vector. Escherichia coli BL21 (DE3) harboring pCold I-mCcGH was cultured in the 2xYT medium at 15 °C for 24 hours and protein production was induced by isopropyl-beta-thio galactopyranoside (IPTG). The inclusion bodies containing rGH protein from E. coli transformants were isolated by sonication method and analyzed by SDS-PAGE. The result showed that rGH with molecular weight of about 25 kDa was obtained. Common carp juveniles with average body weight of 5.2±0.4 g were intramuscularly injected once a week for 4 weeks with rGH protein solution from 1 μg bacterial cells per gram fish body weight. The result showed that juveniles fish injected with rGH grew 106.56% higher than control. This result indicated that rGH produced in E. coli BL21 possessed biological activity and it may be useful to improve growth of aquaculture species.",
+      "subjects": [
+        "SH"
+      ],
+      "official_url": "http:\/\/journal.ipb.ac.id\/index.php\/jai\/index",
+      "title": "Production and bioactivity test of recombinant protein common carp growth hormone",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 10
+    }
+]
+

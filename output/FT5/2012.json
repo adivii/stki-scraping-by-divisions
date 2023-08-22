@@ -1,0 +1,621 @@
+[
+    {
+      "date": "2012-09",
+      "dir": "disk0\/00\/02\/22\/88",
+      "creators": [
+        {
+          "name": {
+            "given": "Anisa Ulya",
+            "lineage": null,
+            "honourific": null,
+            "family": "Darajat"
+          },
+          "id": "ni.annisa@gmail.com,"
+        },
+        {
+          "name": {
+            "given": "Muhammad",
+            "family": "Komarudin",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "m.komarudin@gmail.com"
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri Ratna",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistiyanti"
+          }
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22288",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35707",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 35707,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204970",
+                  "fileid": 204970,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-11 08:39:15",
+                  "hash_type": "MD5",
+                  "filename": "SIistem Telemetri UAV (ELECTRICIAN).pdf",
+                  "hash": "cb0e68b969e5013e639ae7d505c5b471",
+                  "datasetid": "document",
+                  "filesize": 725234
+                }
+            ],
+            "docid": 35707,
+            "main": "SIistem Telemetri UAV (ELECTRICIAN).pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 22288
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "datestamp": "2020-06-11 08:46:55",
+      "userid": 586,
+      "lastmod": "2020-06-11 08:46:55",
+      "eprintid": 22288,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Peer Review Karya Ilmiah : Jurnal Nasional dengan Judul SISTEM TELEMETRI Unmanned Aerial Vehicle (UAV)\r\nBERBASIS Inertial Measurement Unit (IMU)",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-06-11 08:46:55"
+    },
+    {
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/95",
+      "title": "Penilaian Karya Ilmiah Untuk Artikel \"Identifikasi Plat Nomor Kendaraan Secara Off-line Berbasis Pengolahan Citra dan Jaringan Syaraf Tiruan\"",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-11-16 02:56:37",
+      "subjects": [
+        "TK"
+      ],
+      "eprintid": 25409,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "6. Penilaian_Karya_Ilmiah_Identifikasi Plat Nomor Kendaraan Secara Off-line Berbasis Pengolahan Citra dan JST.pdf",
+            "docid": 39198,
+            "files": [
+                {
+                  "filesize": 1743782,
+                  "datasetid": "document",
+                  "mtime": "2020-11-16 02:35:58",
+                  "hash_type": "MD5",
+                  "filename": "6. Penilaian_Karya_Ilmiah_Identifikasi Plat Nomor Kendaraan Secara Off-line Berbasis Pengolahan Citra dan JST.pdf",
+                  "hash": "96616988695e04e0a48c46d178ae72ab",
+                  "fileid": 229435,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/229435",
+                  "objectid": 39198
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39198",
+            "eprintid": 25409,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Jurusan Teknik Elektro, Universitas Lampung",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25409",
+      "userid": 663,
+      "lastmod": "2020-11-16 02:56:37",
+      "datestamp": "2020-11-16 02:56:37",
+      "creators": [
+        {
+          "name": {
+            "given": "Helmy",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriawan"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        }
+      ],
+      "date": "2012-05",
+      "dir": "disk0\/00\/02\/54\/09",
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id",
+      "type": "other",
+      "divisions": [
+        "FT5"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriawan",
+            "given": "Helmy"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/49\/22",
+      "date": "2012-05",
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id",
+      "type": "other",
+      "divisions": [
+        "FT5"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 24922,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 38669,
+            "main": "6. Identifikasi_Plat_Nomor_Kendaraan_Secara_Off_line_.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1444509,
+                  "fileid": 225728,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-11-11 06:37:10",
+                  "hash_type": "MD5",
+                  "hash": "baf531fa4a28a412bd4a35c5c7cc47bc",
+                  "filename": "6. Identifikasi_Plat_Nomor_Kendaraan_Secara_Off_line_.pdf",
+                  "objectid": 38669,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/225728"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38669"
+          }
+      ],
+      "publisher": "Jurusan Teknik Elektro, Universitas Lampung",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24922",
+      "lastmod": "2020-11-11 07:40:12",
+      "userid": 663,
+      "datestamp": "2020-11-11 07:40:12",
+      "eprintid": 24922,
+      "title": "Similarity Index Untuk Artikel \"Identifikasi Plat Nomor Kendaraan Secara Off-line Berbasis Pengolahan Citra dan Jaringan Syaraf Tiruan\"",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/95",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2020-11-11 07:40:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "TK"
+      ]
+    },
+    {
+      "eprintid": 25452,
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/95",
+      "title": "Identifikasi Plat Nomor Kendaraan Secara Off-line Berbasis Pengolahan Citra dan Jaringan Syaraf Tiruan",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Sistem pengenalan dan pembacaan plat nomor kendaraan digunakan dalam berbagai aplikasi seperti akses tempat parkir, pengendalian trafik lalu lintas dan sistem keamanan dan pengawasan kendaraan. Pada penelitian ini, dikembangkan suatu teknik pengolahan citra untuk dapat membaca dan mengenali plat nomor kendaraan secara off-line. Proses pengenalan karakter plat nomor kendaraan dilakukan dengan dua tahap yaitu tahap pengolahan citra dilanjutkan dengan tahap pengenalan pola dengan jaringan syaraf tiruan (JST). Tahap pengolahan citra plat nomor kendaraan meliputi: binerisasi, open-close morphology, median filtering, slicing, dan resizing. Algoritma backpropagation digunakan untuk melatih jaringan syaraf tiruan dengan arah mundur, yaitu dimulai dari lapisan keluaran (output) sampai lapisan masukan (input) dengan error keluaran digunakan untuk mengubah bobot didalam jaringan. Pengujian dilakukan dalam dua skenario, yaitu pengujian dengan data sampel yang diikutsertakan dalam pelatihan dan data sampel baru yang tidak diikut sertakan dalam proses pelatihan. Hasil pengujian memperlihatkan sistem dapat mengenali sebanyak 96% dan 90% dari data sampel untuk masing-masing skenario.",
+      "status_changed": "2020-11-16 04:50:02",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/54\/52",
+      "date": 2012,
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "issn": "1978-6042",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Fitriawan",
+            "lineage": null,
+            "given": "Helmy"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ouriz",
+            "family": "Pucu",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Yohanes",
+            "lineage": null,
+            "family": "Baptista",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25452",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 25452,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39245",
+            "docid": 39245,
+            "main": "6. Identifikasi Plat Nomor Kendaraan Secara Off-line_2012.pdf",
+            "files": [
+                {
+                  "objectid": 39245,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/229767",
+                  "datasetid": "document",
+                  "filesize": 5542272,
+                  "mime_type": "application\/pdf",
+                  "fileid": 229767,
+                  "hash": "e8523f8029a9769fd4eb477160103ba8",
+                  "filename": "6. Identifikasi Plat Nomor Kendaraan Secara Off-line_2012.pdf",
+                  "mtime": "2020-11-16 04:45:51",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2020-11-16 04:50:02",
+      "pagerange": "123-126",
+      "lastmod": "2020-11-16 04:50:02",
+      "userid": 663
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/02\/22",
+      "date": "2012-10",
+      "publication": "IEEE 10th International Conference on the Properties and Applications of Dielectric Materials",
+      "issn": "2160-9241",
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "given": "Herman Halomoan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sinaga"
+          }
+        },
+        {
+          "name": {
+            "given": "Toan",
+            "honourific": null,
+            "family": "Phung",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Blackburn",
+            "honourific": null,
+            "lineage": null,
+            "given": "Trevor"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50222",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "IEEE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50222,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189926",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 189926,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542753",
+                  "fileid": 542753,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 06:45:00",
+                  "hash": "8e4c751d8abae8633771bcd52d38b2d8",
+                  "filename": "Partial discharge localization in transformers using monopole and log-spiral UHF sensors.pdf",
+                  "datasetid": "document",
+                  "filesize": 847662
+                }
+            ],
+            "docid": 189926,
+            "main": "Partial discharge localization in transformers using monopole and log-spiral UHF sensors.pdf"
+          }
+      ],
+      "datestamp": "2023-04-11 07:26:08",
+      "lastmod": "2023-04-11 07:26:08",
+      "userid": 689,
+      "date_type": "published",
+      "eprintid": 50222,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Partial Discharge Localization in Transformers Using Monopole and Log-Spiral UHF Sensors",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/6306340\/proceeding",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "The location of a partial discharge (PD) source inside a transformer can be determined from the time differences of arrival (TDOA) between signals that are captured by an array of UHF sensors. From these, the PD location can be found by geometric triangulation which involves solving a set of non-linear equations. This can be achieved using an efficient software realization of the maximum-likelihood estimator. The recorded PD waveforms are affected by the type of sensor used to capture PD signals. In this paper, the accuracy of the PD localization using different sensors is investigated. Two types of sensor, i. e. short monopole and log-spiral are used to capture electromagnetic waves emitted from a PD source. To calculate the TDOA, two methods: first peak and cross-correlation were applied. The localization result shows the monopole sensor produces higher accuracy than the logspiral and the first peak method achieves better result than the cross-correlation method.",
+      "status_changed": "2023-04-11 07:26:08",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/ieeexplore.ieee.org\/document\/6319006"
+        }
+      ]
+    },
+    {
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Partial Discharge Localization in Transformers Using UHF Detection Method",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "The location of a partial discharge (PD) source inside a transformer can be determined from the time differences of arrival (TDOA) between signals that are captured by an array of UHF sensors. The TDOA can be acquired from the received PD waveforms. In this paper, three different methods of acquiring the TDOA from the PD waveforms are discussed. The time difference can be calculated either by taking the first peak of the signal as the arrival instant, or from the cross-correlation of the PD waveforms, or by applying the similarity function to the plots of the PD signals cumulative energy. Computation algorithms for determining the TDOA automatically are introduced so that possible bias from human interpretation is avoided. The presence of noise and its effect on the accuracy of the PD localization will also be presented. Experimental results show the first-peak method has higher accuracy than the two other methods. The application of signal denoising further improves the localization accuracy.",
+      "status_changed": "2023-04-11 07:26:05",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/ieeexplore.ieee.org\/document\/6396945"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 50214,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50214",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "IEEE",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50214,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189918",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 1265794,
+                  "datasetid": "document",
+                  "hash": "55a1b0e550ac2ee40fca4e450eb90d75",
+                  "filename": "Partial Discharge Localization in Transformers Using UHF Detection Method.pdf",
+                  "mtime": "2023-04-11 06:03:54",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 542700,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542700",
+                  "objectid": 189918
+                }
+            ],
+            "docid": 189918,
+            "main": "Partial Discharge Localization in Transformers Using UHF Detection Method.pdf"
+          }
+      ],
+      "pagerange": "1891 -1900",
+      "datestamp": "2023-04-11 07:26:05",
+      "lastmod": "2023-04-11 07:26:05",
+      "userid": 689,
+      "dir": "disk0_bak\/00\/05\/02\/14",
+      "date": "2012-12",
+      "publication": "IEEE Transactions on Dielectrics and Electrical Insulation",
+      "issn": "1070-9878",
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "given": "Herman Halomoan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sinaga"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Toan",
+            "family": "Phung",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Trevor",
+            "lineage": null,
+            "honourific": null,
+            "family": "Blackburn"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article"
+    },
+    {
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 7,
+      "official_url": "http:\/\/iopscience.iop.org\/article\/10.1143\/APEX.5.112201\/pdf",
+      "title": "Photon-Induced Random Telegraph Signal Due to Potential Fluctuation of a Single Donor–Acceptor Pair in Nanoscale Si p–n Junctions",
+      "abstract": "We study the photoresponse of Si nanoscale p–n and p–i–n diodes. As a result, we find a photon-sensitive multilevel random telegraph signal(RTS) in p–n diodes, but not in p–i–n diodes. From this fact and analysis of current jumps in the RTS, the multilevel RTS is ascribed to single photocarrier charging and discharging in a donor–acceptor pair in the depletion region. Thus, it is found that a donor–acceptor pair plays an important role in p–n junctions, while, according to our previous report, a single donor (acceptor) works as an electron (hole) trap in junctionless\r\nfield-effect transistors. # 2012 The Japan Society of Applied Physics",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2018-04-25 08:05:07",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 6725,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6725",
+      "full_text_status": "public",
+      "publisher": "IOP Publishing Ltd",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6725,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19694",
+            "main": "Purwiyanti-APL-2013.pdf",
+            "docid": 19694,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1663615,
+                  "mime_type": "application\/pdf",
+                  "fileid": 61801,
+                  "hash": "c6c74f3aa156787171aea131b59f775b",
+                  "filename": "Purwiyanti-APL-2013.pdf",
+                  "mtime": "2018-04-17 05:02:27",
+                  "hash_type": "MD5",
+                  "objectid": 19694,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61801"
+                }
+            ]
+          }
+      ],
+      "number": 112201,
+      "ispublished": "pub",
+      "datestamp": "2018-04-25 08:05:07",
+      "pagerange": "112201-1-112201-3",
+      "lastmod": "2018-04-25 08:05:07",
+      "userid": 56,
+      "date": "2012-10-18",
+      "dir": "disk0\/00\/00\/67\/25",
+      "issn": "1882-0786",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Udhiarto",
+            "given": "Arief"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Daniel",
+            "family": "Moraru",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purwiyanti",
+            "honourific": null,
+            "given": "Sri"
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yohei",
+            "honourific": null,
+            "family": "Kuzuya",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mizuno",
+            "honourific": null,
+            "given": "Takeshi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Hioshi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Mizuta"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tabe",
+            "given": "Michiharu"
+          }
+        }
+      ],
+      "publication": "Applied Physics Express",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article"
+    }
+]
+

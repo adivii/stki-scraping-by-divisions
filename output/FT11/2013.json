@@ -1,0 +1,568 @@
+[
+    {
+      "documents": [
+          {
+            "eprintid": 44681,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 166556,
+            "main": "978-979-8510-71-7(Citra Of Green).pdf",
+            "files": [
+                {
+                  "objectid": 166556,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482690",
+                  "mime_type": "application\/pdf",
+                  "fileid": 482690,
+                  "hash": "cf0a80f0959888a3ccd09e09524e513c",
+                  "filename": "978-979-8510-71-7(Citra Of Green).pdf",
+                  "mtime": "2022-09-02 23:24:44",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 903837
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166556"
+          }
+      ],
+      "publisher": "lembaga penelitian universitas lampung",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44681",
+      "full_text_status": "public",
+      "lastmod": "2022-09-05 01:26:30",
+      "userid": 121,
+      "datestamp": "2022-09-05 01:26:30",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Citra"
+          }
+        },
+        {
+          "name": {
+            "given": "Siti Nurul",
+            "family": "Khotimah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "unun_salim2@yah00.com"
+        }
+      ],
+      "dir": "disk0\/00\/04\/46\/81",
+      "date": "2013-11-19",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "title": "ANALYSIS OF GREEN OPEN SPACE IN THE CITY OF BANDAR LAMPUNG",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2022-09-05 01:26:30",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "eprintid": 44681,
+      "date_type": "published"
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2013-09-23",
+      "dir": "disk0\/00\/04\/46\/85",
+      "lastmod": "2022-09-05 01:26:43",
+      "userid": 121,
+      "datestamp": "2022-09-05 01:26:43",
+      "publisher": "lembaga penelitian universitas lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 44685,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166560",
+            "docid": 166560,
+            "main": "978-979-8510-73-1.pdf",
+            "files": [
+                {
+                  "objectid": 166560,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482716",
+                  "datasetid": "document",
+                  "filesize": 882432,
+                  "fileid": 482716,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-09-02 23:43:21",
+                  "hash_type": "MD5",
+                  "hash": "c317f7c8298fe17650916deddb267a4f",
+                  "filename": "978-979-8510-73-1.pdf"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44685",
+      "full_text_status": "public",
+      "eprintid": 44685,
+      "date_type": "published",
+      "status_changed": "2022-09-05 01:26:43",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "title": "ANALISIS KETELITIAN KOREKSI GEOMETRIK DATA QUICKBIRD PESISIR TELUK LAMPUNG MENGGUNAKAN RECEIVER TIPE NAVIGASI",
+      "metadata_visibility": "show",
+      "rev_number": 7
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "date": "2013-09-23",
+      "dir": "disk0_bak\/00\/04\/98\/14",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "ispublished": "pub",
+      "publisher": "LPPM-UNIVERSITAS LAMPUNG",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 49814,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189453",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 935611,
+                  "mime_type": "application\/pdf",
+                  "fileid": 539518,
+                  "hash": "004809bb4a4007168b85fb829640d864",
+                  "filename": "LEMBAR HASIL PENILAIAN.pdf",
+                  "mtime": "2023-04-06 20:59:26",
+                  "hash_type": "MD5",
+                  "objectid": 189453,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539518"
+                }
+            ],
+            "main": "LEMBAR HASIL PENILAIAN.pdf",
+            "docid": 189453
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49814",
+      "full_text_status": "public",
+      "lastmod": "2023-04-08 13:23:57",
+      "userid": 240,
+      "datestamp": "2023-04-08 13:23:57",
+      "eprintid": 49814,
+      "date_type": "published",
+      "title": "Review Prosiding: ANALISIS KETELITIAN KOREKSI GEOMETRIK DATA QUICKBIRD PESISIR TELUK LAMPUNG MENGGUNAKAN RECEIVER TIPE NAVIGASI",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/13795\/1\/Prosiding%20SemNas%20Penelitian%20Analisis%20Ketelitian%20Geometrik%20Quickbird%20dengan%20GPS%20Navigasi.pdf",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "place_of_pub": "http:\/\/repository.lppm.unila.ac.id\/13795\/1\/Prosiding%20SemNas%20Penelitian%20Analisis%20Ketelitian%20Geometrik%20Quickbird%20dengan%20GPS%20Navigasi.pdf",
+      "status_changed": "2023-04-08 13:23:57",
+      "eprint_status": "archive",
+      "subjects": [
+        "G1",
+        "Q1",
+        "T1"
+      ],
+      "abstract": "Kesalahan geometrik baik sistematik maupun non sistematik yang terdapat pada data digital penginderaan jauh dapat dikoreksi baik dengan menggunakan variabel yang diketahui dalam internal sensor juga dapat dilakukan koreksi dengan menyamakan ( matching) koordinat dengan citra yaang telah dikoreksi atau dengan menggunakan titik kontrol tanah\/GCP (Ground Control Point). Tujuan penelitian ini adlah untuk mengetahui ketelitian koreksi geometrik data Quickbird pesisir Teluk Lampung menggunakan GPS receiver type navigasi. Bahan yang digunakan pada penelitian ini adalah Citra Quickbird dan data GPS Nuvigasi yang digunakan sehagai GCP (Ground Control Point). Tahapan penelitian ini meliputi pengadaan citra, pengolahan citra (RGB) dan pemotongan, penetapan titk kontraol tanah, Registrasi citra, serta Analisis ketelitian Geometrik. Hasil koreksi geometrik menggunakan 17 tahap koreksi yaitu dengan sebaran GCP; 4, 5, 9, 13, 21, 37, 46, 57, 68,76, 87, 97,106, 118,127, 130, dan 150 titik. 17 sebaran ini menghasilkan citra yang terkoreksi geometriknya dengan pemilihan daerah kepadatan tinggi bertopografi yang relatif datar. Proses koreksi geometrik data citra Quickbird ini memperoleh hasil pergeseran jarak ≤ 2,11 meter sehingga pergeseran ini masih dalam batas toleransi dan ketelitian GPS receiver type navigasi yang keteltian ukurannya mencapai maksimal 3 meter). Untuk menghasilkan ketelitian terbaik dengan metode penelitian ini adalah dengan menempatkan sebaran titik GCP merata pada citra, dimana besarnya jumlah titik GCP tidak mempengaruhi tingkat ketelitian hasil. Semakin merata titik GCP dengan kerapatan yang normal akan menghasilkan ketelitian semakin baik."
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44683",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "lembaga penelitian universitas lampung",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166558",
+            "rev_number": 1,
+            "main": "978-979-8510-71-7.pdf",
+            "docid": 166558,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 482704,
+                  "hash": "26013f37aa330c1a970803b58cdf52a2",
+                  "filename": "978-979-8510-71-7.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-02 23:37:28",
+                  "datasetid": "document",
+                  "filesize": 858698,
+                  "objectid": 166558,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482704"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 44683,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2022-09-05 01:26:39",
+      "userid": 121,
+      "lastmod": "2022-09-05 01:26:39",
+      "dir": "disk0\/00\/04\/46\/83",
+      "date": "2013-11-19",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fajriyanto"
+          },
+          "id": "fajri_yanto@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Suyadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suyadi"
+          },
+          "id": "suyadi.1974@eng.unila.ac.id"
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null,
+            "given": "Citra"
+          }
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "ESTIMASI LAJU GESER DAN PEMBUATAN MODEL DEFORMASI DI SELAT SUNDA DENGAN MENGGUNAKAN GPS KONTINYU",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2022-09-05 01:26:39",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 44683
+    },
+    {
+      "corp_creators": [
+        "Jurusan Teknik Geodesi dan Geomatika, FT-Universitas Lampung",
+        "Jurusan Teknik Geodesi dan Geomatika, FT-Universitas Lampung",
+        "Jurusan Teknik Geodesi dan Geomatika, FT-Universitas Lampung",
+        "Jurusan Geodesi dan Geomatika, FITB-ITB, Bandung"
+      ],
+      "lastmod": "2022-03-11 14:17:33",
+      "userid": 121,
+      "datestamp": "2022-03-11 14:17:33",
+      "pagerange": "241-252",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 38359,
+            "placement": 1,
+            "security": "staffonly",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "docid": 161424,
+            "main": "3-241.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 793775,
+                  "mime_type": "application\/pdf",
+                  "fileid": 448541,
+                  "hash": "a3fdff6f8497d760dcc83be7566367cb",
+                  "filename": "3-241.pdf",
+                  "mtime": "2022-03-11 06:33:41",
+                  "hash_type": "MD5",
+                  "objectid": 161424,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/448541"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161424",
+            "formatdesc": "Prosiding"
+          }
+      ],
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38359",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Fajriyanto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fajriyanto"
+          }
+        },
+        {
+          "id": "suyadi.1974@eng.unila.ac.id",
+          "name": {
+            "given": "Suyadi",
+            "honourific": null,
+            "family": "Suyadi",
+            "lineage": null
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null,
+            "given": "Citra"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Irwan",
+            "honourific": null,
+            "family": "Meilano",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/83\/59",
+      "date": "2013-11-20",
+      "eprint_status": "archive",
+      "status_changed": "2022-03-11 14:17:33",
+      "subjects": [
+        "Q1",
+        "QE",
+        "TD"
+      ],
+      "abstract": "One of straits in Indonesia that have activity active tectonic is Sunda Strait. This Strait it is at meeting two tectonic plates, that is Eurasia and Indo-Australia. Meeting both plate of zone form subduction that have direction and type slab that not uniform and different each other in Sunda Strait region. Interaction from meeting both plate referred,\r\nalongside Sumatera island generates fault that recognized with Patahan Sumatera.\r\nCharacteristic of earthquake source zone that existed in Sunda Strait is earthquake source subduction that associated become some active faults.\r\nOne of methods that applied to see deformation was using GPS either through episodic or continuous that have high precission till some millimeters (mm). By determining slip\r\nrate estimation and making of deformation model then could be determined activity that happened in Sunda Strait. Modelling were referred to see residue between vector of\r\nGPS and model vector.\r\nSlip rate in Sunda Strait that has been associated in segment of Semangko Fault (SF)\r\nwas 2.5 cm\/year, with depth 8 km and mechanisms dextral, that gave result GPS continuous data were not far significant with some former research that is 1.8 – 2.1\r\ncm\/year. Subduction model by using dislocation formula Okada and giving coupling rate equal to 25% and post seismic as 6 cm\/year, gave result that deformation model\r\nthat produced near with GPS continuous data.",
+      "official_url": "http:\/\/satek.unila.ac.id",
+      "title": "ESTIMASI LAJU GESER DAN PEMBUATAN MODEL DEFORMASI\r\nDI SELAT SUNDA DENGAN MENGGUNAKAN GPS KONTINYU",
+      "event_dates": "19-20 November 2013",
+      "event_type": "conference",
+      "rev_number": 15,
+      "metadata_visibility": "show",
+      "event_title": "Seminar Nasional Sains dan Teknologi - V",
+      "eprintid": 38359,
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "referencetext": "Abidin, Hz. Dkk . “Studi Geodetik Sesar Lembang”, Kelompok Keahlian Geodesi\r\nDepartemen Teknik Geodesi Institut Teknologi Bandung, 2004.\r\nAbidin, Hz. Dkk . “Studi Geodinamika Daerah Sulawesi dengan GPS”, Kelompok\r\nKeahlian Geodesi Departemen Teknik Geodesi Institut Teknologi Bandung,\r\n2004.\r\nAndreas H., D.A. Sarsito, M.Irwan, H.Z.Abidin, D. Darmawan, M. Gamal. “Implikasi\r\nCo-Seismic dan Post-Seismic Horizontal Displacement Gempa Aceh 2004\r\nTerhadap Status Geometrik Data Spasial Wilayah Aceh dan Sekitarnya”,\r\nKelompok Keahlian Geodesi Departemen Teknik Geodesi Institut Teknologi\r\nBandung, 2004.\r\nHerring T. “Dislocation in Elastic Halfspace Model of the Earthquake Cycle”, Lecture\r\nnotes, MIT OpenCourseware, Spring 2006\r\nMori J, “Earthquake Prediction”. Lecture notes on KAGI 21 Summer School. Institut\r\nTeknologi Bandung, 2004.\r\nMurdapa, F. “Studi Aawal Monitoring Penurunan Tanah di Propinsi Lampung”,\r\nProsiding Seminar Nasional Sains & Teknologi  III, Universitas Lampung\r\n2010.\r\nMulyatno, B.S dan Suharno, 2007, Atenuasi Energi Gempabumi Akibat Médium Batuan\r\ndi Wilayah Lampung Berdasarkan Data Gempabumi tahun 2003-2005.\r\nProsiding, Seminar Nasional Sain dan Teknologi, Lembaga Penelitian\r\nUniversitas Lampung.\r\nNatawijaya, Dany H. “Aceh Andaman Megatrust Earthquake 26 December 2004; what’s\r\nhappen then and where is the Future Giant earthquake and Tsunami in\r\nsumatera”. Workshop Gempa Aceh; Geodesi ITB, 2004.\r\nOkada, Y., Internal deformation due to shear and tensile faults in a halfspace, Bull.\r\nSeismol. Soc. Am., 82, 1018–1040, 1992.\r\nRahmadi, E, Dkk: “Monitoring Pergerakan Sesar Sumatera di Wilayah Lampung Dalam\r\nUpaya Pemantauan Potensi dan Mitigasi Bencana Alam Gempa Bumi di\r\nLampung ”,  Prosiding seminar hasil penelitian di Universitas Lampung, \r\n2.006.\r\nSuharno, :” Microearthquakes in the Rendingan-Ulubelu-Waypanas Geothermal System\r\nin Lampung”. Jurnal Ilmiah MIPA, 2005.\r\nSuharno dan Mulyatno, B.S., ”Distribuís Peluang Tingkat Resiko Gempa Wilayah\r\nProvinsi Lampung Berdasarkan Data Gempa 1990-2004”. Prosiding,\r\nSeminar Nasional Sain dan Teknologi, Lembaga Penelitian Universitas\r\nLampung, 2007.\r\nSuharno, Soengkono, S. and Sudarman, S.,: “Microearthquake distribution in RendinganUlubelu-Waypanas,\r\nTanggamus,\r\nIndonesia”.\r\nProceedings 23rd New Zealand\r\nGeothermal Workshop, 2001.\r\nSuharno, :”Distribusi dan Resiko gempa Daerah Lampung dan Sekitarnya”. Jurnal Sain\r\ndan Teknologi Mitigasi Bencana, 2007.",
+      "title": "KAJIAN AKTIVITAS PERGESERAN SESAR LAMPUNG-PANJANG\r\nDENGAN MENGGUNAKAN METODE SURVEI\r\nGLOBAL POSITIONING SISTEM (GPS)",
+      "official_url": "https:\/\/lp3m.unila.ac.id\/",
+      "metadata_visibility": "show",
+      "rev_number": 5,
+      "volume": 1,
+      "succeeds": 50529,
+      "status_changed": "2023-04-18 08:27:20",
+      "eprint_status": "archive",
+      "abstract": "Tujuan jangka panjang yang ingin dicapai dalam rencana penelitian ini adalah tersedianya\r\nPeta Resiko Bencana Disekitar Sesar Lampung-Panjang, yang bisa digunakan sebagai\r\nreferensi dalam penyusunan Rencana Tata Ruang Wilayah. Sedangkan target khususnya\r\nadalah 1). Terdeteksinya pola, karakteristik dan  parameter-parameter sesar seperti lokasi,\r\ngeometri, 2). Dengan diketahuinya karakteristik sesar yang diitegrasikan dengan\r\ninformasi aktifitas sesar dan informasi tektonik dapat di prediksi energi gempa yang\r\nmungkin terjadi di daerah tersebut . 3). Ditambah dengan informasi lain (kepadatan\r\npenduduk, bangunan)  maka akan dibuat Peta Resiko Bencana\r\nMetode yang digunakan untuk melakukan pengukuran pergerakan sesar dalam penelitian\r\nini adalah metode geodetic, yaitu melakukan pengukuran dengan menggunakan teknologi \r\nGlobal Positioning System (GPS). Teknologi GPS adalah teknologi penentu posisi yang\r\nberbasiskan satelit dan didesain untuk memberikan informasi posisi dan kecepatan\r\npergerakan sesar dalam tiga dimensi serta secara cepat dan tepat secara kontinyu tanpa\r\ntergantung waktu dan cuaca, kepada banyak orang secara simultan.\r\nDari hasil pengukuran sesar awal didapatkan data bahwa telah terjadi pergeseran titik-titik\r\nmonitor rata-rata antara 5 s\/d 7 cm per tahun ke arah timur laut. Namun pada titik monitor\r\ndi Tanjung Bintang terjadi pergerakan ke arah tenggara sejauh +\/- 6 cm. Mengingat\r\nbahwa Kota Bandar Lampung dan sekitarnya merupakan daerah yang padat penduduk,\r\nsehingga memiliki resiko bencana yang lebih besar, maka harus dilakukan perapatan\r\npengukuran disekitar Sesar Lampung dilakukan secara kontinyu (setiap tahun).",
+      "subjects": [
+        "GA",
+        "H1",
+        "Q1",
+        "QE",
+        "TA"
+      ],
+      "eprintid": 50644,
+      "date_type": "published",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50644,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545874",
+                  "objectid": 190347,
+                  "filesize": 3192685,
+                  "datasetid": "document",
+                  "hash": "d778ad495004d4627507e4c6c8dde741",
+                  "filename": "18. Lap Akhir Hibah Bersaing 2013-sesar panjang.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-18 07:53:53",
+                  "mime_type": "application\/pdf",
+                  "fileid": 545874
+                }
+            ],
+            "docid": 190347,
+            "main": "18. Lap Akhir Hibah Bersaing 2013-sesar panjang.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190347",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50644",
+      "lastmod": "2023-04-18 08:27:20",
+      "userid": 30,
+      "datestamp": "2023-04-18 08:27:20",
+      "creators": [
+        {
+          "name": {
+            "given": "Fauzan",
+            "family": "Murdapa",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fauzan.murdapa@eng.unila.ac.id"
+        },
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "given": "Suharno",
+            "family": "Suharno",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "fajriyanto@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fajriyanto",
+            "honourific": null,
+            "given": "Fajriyanto"
+          }
+        }
+      ],
+      "issn": "14-2023",
+      "publication": "LAPORAN PENELITIAN HIBAH BERSAING, KAJIAN AKTIVITAS PERGESERAN SESAR LAMPUNG-PANJANG DENGAN MENGGUNAKAN METODE SURVEI GLOBAL POSITIONING SISTEM (GPS)",
+      "date": 2013,
+      "dir": "disk0_bak\/00\/05\/06\/44",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ]
+    },
+    {
+      "abstract": "Green open space (the RTH) is defined as open land without the building that has the shape, size and specific geographical boundaries with any tenure in which there are a green woody plants and trees as the main feature and other plants such as shrubs, bushes, grass and ground cover plants other as the carrying capacity of land to support the lives of people in the city area. Refer from UU No. 26 in 2007, that every urban area is required to have 30 % green open space area consisting of 20 % for public and 10 % for private from the total of the city area. This research will be mapped the availability of green open space in the city of Bandar Lampung using utilization of remote sensing technology. This study uses a database map imagery obtained from Google Earth and Quickbird imagery and Orb View 3. RTH map generated from the image of the delineation process supervised classification and visual interpretation. The results of this study are the map of availability of green open space in Bandar Lampung City, that contains spatial Green Open Space, Park City, Green Belt, Forest City, Coastal Border, BorderRiverwitha total area of green space in the city of Bandar Lampung is 11.083 haor 56% from the total area in Bandar Lampung City. Keywords: maps, green open space, remote sensing.",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-09-05 01:26:19",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "title": "ANALYSIS OF GREEN OPEN SPACE IN THE CITY OF BANDAR LAMPUNG",
+      "date_type": "published",
+      "eprintid": 44676,
+      "datestamp": "2022-09-05 01:26:19",
+      "lastmod": "2022-09-05 01:26:19",
+      "userid": 121,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44676",
+      "full_text_status": "none",
+      "publisher": "lembaga penelitian universitas lampung",
+      "ispublished": "pub",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/46\/76",
+      "date": "2013-11-19",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "dewi",
+            "honourific": null,
+            "given": "citra"
+          }
+        },
+        {
+          "name": {
+            "given": "romi",
+            "lineage": null,
+            "honourific": null,
+            "family": "fadly"
+          }
+        },
+        {
+          "name": {
+            "given": "fajriyanto",
+            "lineage": null,
+            "family": "fajriyanto",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "siti nurul",
+            "lineage": null,
+            "honourific": null,
+            "family": "khotimah"
+          }
+        }
+      ]
+    }
+]
+

@@ -1,0 +1,82 @@
+[
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "contact_email": "meizano@eng.unila.ac.id",
+      "type": "conference_item",
+      "date": "2011-06-15",
+      "dir": "disk0\/00\/00\/38\/42",
+      "creators": [
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2017-09-04 01:59:32",
+      "pagerange": "373-376",
+      "lastmod": "2017-09-04 01:59:32",
+      "userid": 1199,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3842",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2017-08-18 00:35:28",
+                  "hash_type": "MD5",
+                  "hash": "317c4f3cc9bd7907c8e04e008590a1ad",
+                  "filename": "REG-07.pdf",
+                  "fileid": 26941,
+                  "mime_type": "application\/pdf",
+                  "filesize": 235858,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26941",
+                  "objectid": 3703
+                }
+            ],
+            "docid": 3703,
+            "main": "REG-07.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3703",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3842,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "date_type": "published",
+      "event_title": "eII-Forum VII 2011",
+      "eprintid": 3842,
+      "event_location": "Bandung",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Desa memiliki kesenjangan digital yang tinggi, terutama dikarenakan kurangnya tata kelola teknologi informasi (TI). Studi ini mempelajari bagaimana sebaiknya sebuah tata kelola TI dikembangkan untuk pedesaan. Metode yang digunakan adalah studi literatur dan implementasi framework COBIT untuk kebutuhan perencanaan tata kelola TI Digital Village. Studi literatur dilakukan terhadap bahan-bahan yang berkaitan dengan pedesaaan terutama karakteristiknya. Framework COBIT digunakan untuk membuat tata kelola TI yang tepat sebagai panduan dalam mengembangkan TI di pedesaan. Studi ini dapat membantu dalam membuat kebijakan dan tindakan yang tepat untuk penerapan TI di pedesaaan. Diharapkan dengan tersedia tata kelola TI untuk Digital Village, kesenjangan digital yang ada antara kota dan desa dapat ditekan dan bersinergi secara optimal.",
+      "status_changed": "2017-09-04 01:59:32",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/www.eii-forum.or.id\/",
+          "type": "pub"
+        }
+      ],
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_dates": "14-15 Jun 2011",
+      "title": "Tata Kelola TI untuk Digital Village"
+    }
+]
+

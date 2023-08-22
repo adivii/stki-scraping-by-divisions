@@ -1,0 +1,208 @@
+[
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4274",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17168",
+            "rev_number": 1,
+            "docid": 17168,
+            "main": "1569633563.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 42947,
+                  "hash": "bb2aa2e1088082a9ef0ea8ce0efb89de",
+                  "filename": "1569633563.pdf",
+                  "mtime": "2017-11-01 07:43:03",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1361771,
+                  "objectid": 17168,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42947"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 4274,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2017-11-16 07:00:41",
+      "pagerange": "1-6",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Université de Haute-Alsace,",
+        "Universitas Indonesia"
+      ],
+      "lastmod": "2017-11-16 07:00:41",
+      "userid": 471,
+      "date": "2012-11",
+      "dir": "disk0\/00\/00\/42\/74",
+      "creators": [
+        {
+          "id": "mona.batubara@eng.unila.id",
+          "name": {
+            "given": "Mona Arif",
+            "honourific": null,
+            "family": "Muda",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Alban",
+            "lineage": null,
+            "honourific": null,
+            "family": "Foulonneau"
+          },
+          "id": "alban.foulonneau@uha.fr"
+        },
+        {
+          "id": "laurent.bigue@uha.fr",
+          "name": {
+            "given": "Laurent",
+            "lineage": null,
+            "honourific": null,
+            "family": "Bigué"
+          }
+        },
+        {
+          "name": {
+            "given": "Harry",
+            "lineage": null,
+            "family": "Sudibyo",
+            "honourific": null
+          },
+          "id": "harisudi@ee.ui.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Sudiana",
+            "honourific": null,
+            "given": "Dodi"
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "event_type": "conference",
+      "title": "Small format optical sensors for measuring vegetation indices in remote sensing applications: A comparative approach",
+      "official_url": "http:\/\/ieeexplore.ieee.org",
+      "event_dates": "November 2012",
+      "abstract": "We consider passive polarimetric near infra-red imaging systems that measure the three first elements of the Stokes vector and deduce from them the degree of linear polarization and the angle of polarization in near infra-red spectrum for analyzing plant leaves. By using the variance of the angel of polarization from each sample leaf, we identify the curl of the leaf surface and compare it to other sample leaves. The identification will be useful for the next research and application in leaves classification, especially in plant diseases and its level which can be detected by its leaves.",
+      "subjects": [
+        "TK"
+      ],
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/6412302\/"
+        }
+      ],
+      "status_changed": "2017-11-16 07:00:41",
+      "eprint_status": "archive",
+      "event_location": "Cebu, Philippines",
+      "date_type": "published",
+      "eprintid": 4274,
+      "event_title": "TENCON 2012 - 2012 IEEE Region 10 Conference"
+    },
+    {
+      "eprintid": 2514,
+      "event_title": "International Conference on Cloud Computing and Social Networking 2012",
+      "date_type": "published",
+      "event_location": "Bandung, Indonesia",
+      "status_changed": "2017-06-05 03:02:38",
+      "eprint_status": "archive",
+      "abstract": "Information heterogeneity of ITS Indonesia becomes an obstacle to provide interoperability. The transportation information resource sharing is affected by this condition. ITS generally comprise a distinguished form of large-scale, distributed information system deployed in some form of tangible or virtual network. Cloud computing could benefits ITS for it’s essential characteristics, which are on-demand self service, broad network access, resource pooling, rapid elasticity, and measured service. By establishing Cloud ITS based on cloud computing, it is feasible to accommodate transportation information sharing platform.",
+      "subjects": [
+        "T1"
+      ],
+      "official_url": "http:\/\/doi.org\/10.1109\/ICCCSN.2012.6215742",
+      "title": "Cloud ITS Indonesia: Transportation information sharing platform",
+      "event_dates": 2012,
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 13,
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "book_title": "2012 International Conference on Cloud Computing and Social Networking (ICCCSN)",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          }
+        },
+        {
+          "id": "suhono@stei.itb.ac.id",
+          "name": {
+            "given": "Suhono H.",
+            "family": "Supangkat",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "id_number": "doi:10.1109\/ICCCSN.2012.6215742",
+      "dir": "disk0\/00\/00\/25\/14",
+      "date": 2012,
+      "lastmod": "2017-06-05 03:02:38",
+      "userid": 1199,
+      "pagerange": "1-11",
+      "datestamp": "2017-06-05 03:02:38",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2514,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 749484,
+                  "datasetid": "document",
+                  "filename": "6FB1-6-54-PID2292317.pdf",
+                  "hash": "f7e21751b1af89fa00cdaa643a535bc9",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 07:00:30",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17422,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17422",
+                  "objectid": 2405
+                }
+            ],
+            "docid": 2405,
+            "main": "6FB1-6-54-PID2292317.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2405",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2514"
+    }
+]
+

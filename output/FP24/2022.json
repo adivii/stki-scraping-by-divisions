@@ -1,0 +1,1381 @@
+[
+    {
+      "eprintid": 52043,
+      "date_type": "published",
+      "isbn": "978-623-467-167-4",
+      "status_changed": "2023-05-29 01:33:09",
+      "eprint_status": "archive",
+      "abstract": "Buku \"Serangga Berguna\" merupakan sumbangan ilmu dan pengetahuan dari para anggota Perhimpunan Entomologi Indonesia. Buku ini berisi deskripsi biologi dan manfaat dari berbagai serangga yang bermanfaat bagi manusia, pertanian, dan lingkungan secara umum.",
+      "subjects": [
+        "Q1"
+      ],
+      "title": "SERANGGA BERGUNA",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bogor",
+      "rev_number": 8,
+      "type": "book",
+      "editors": [
+        {
+          "name": {
+            "given": "Dadang",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dadang"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sudarsono",
+            "given": "Hamim"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purnomo",
+            "honourific": null,
+            "given": "Hari"
+          }
+        }
+      ],
+      "divisions": [
+        "FP24"
+      ],
+      "pages": 246,
+      "dir": "disk0_bak\/00\/05\/20\/43",
+      "date": "2022-07",
+      "lastmod": "2023-05-29 01:33:09",
+      "userid": 1090,
+      "datestamp": "2023-05-29 01:33:09",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251810",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 616639,
+                  "hash": "106430cbc96195bcca50bf1829d5d364",
+                  "filename": "Buku serangga berguna + bukti pengesahan Hamim SUdarsono 18755.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-28 10:16:57",
+                  "datasetid": "document",
+                  "filesize": 1657185,
+                  "objectid": 251810,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616639"
+                }
+            ],
+            "docid": 251810,
+            "main": "Buku serangga berguna + bukti pengesahan Hamim SUdarsono 18755.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 52043
+          }
+      ],
+      "publisher": "Penerbit IPB Press",
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52043"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Yuyun",
+            "family": "Fitriana",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "yuyun.fitriana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Lestari",
+            "honourific": null,
+            "given": "Puji"
+          },
+          "id": "puji.lestari@fp.unila.ac.id"
+        },
+        {
+          "id": "purnomo.1964@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Purnomo",
+            "given": "."
+          }
+        }
+      ],
+      "patent_applicant": "Fitriana, Yuyun",
+      "id_number": 382570,
+      "date": "2022-09-08",
+      "dir": "disk0_bak\/00\/05\/01\/48",
+      "type": "patent",
+      "divisions": [
+        "FP24"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542203",
+                  "objectid": 189849,
+                  "filesize": 2094483,
+                  "datasetid": "document",
+                  "hash": "e7f57853842efa36f42c4b6025d7d1be",
+                  "filename": "sertifikat_VMK Hama Penting Tanaman (1).pdf",
+                  "mtime": "2023-04-10 15:22:19",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 542203
+                }
+            ],
+            "docid": 189849,
+            "main": "sertifikat_VMK Hama Penting Tanaman (1).pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189849",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50148,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50148",
+      "lastmod": "2023-04-11 00:50:55",
+      "userid": 1063,
+      "datestamp": "2023-04-11 00:50:55",
+      "eprintid": 50148,
+      "date_type": "published",
+      "title": "Video Pembelajaran Mata Kuliah Hama Penting Tanaman",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/EC00202266831?type=copyright&keyword=Yuyun+Fitriana+video+pembelajaran+hama+tanaman",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "status_changed": "2023-04-11 00:50:55",
+      "eprint_status": "archive",
+      "abstract": "Video pembelajaran mata kuliah Hama Penting Tanaman ini bermanfaat untuk menambah pengetahuan mahasiswa peserta mata kuliah wajib pada Prodi Proteksi Tanaman FP Unila.  Video pembelajaran ini awalnya dibuat untuk menyiasati perkuliahan online pada masa pandemi, namun ternyata dapat digunakan pula untuk kuliah offline.",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "id_number": "https:\/\/doi.org\/10.5423\/PPJ.OA.03.2022.0031",
+      "dir": "disk0\/00\/04\/59\/82",
+      "date": "2022-10-01",
+      "creators": [
+        {
+          "name": {
+            "given": "Yuyun",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriana"
+          },
+          "id": "yuyun.fitriana@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Tampubolon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Desi Apriani Teresa"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suharjo",
+            "lineage": null,
+            "given": "Radix"
+          },
+          "id": "radix.suharjo@fp.unila.ac.id"
+        },
+        {
+          "id": "puji.lestari@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Lestari",
+            "lineage": null,
+            "given": "Puji"
+          }
+        },
+        {
+          "name": {
+            "family": "Swibawa",
+            "honourific": null,
+            "lineage": null,
+            "given": "I Gede"
+          },
+          "id": "igede.swibawa@fp.unila.ac.id"
+        }
+      ],
+      "issn": "eISSN 2093-9280",
+      "publication": "Plant Pathology Journal",
+      "divisions": [
+        "FP24"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45982",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 45982,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184798",
+            "docid": 184798,
+            "main": "PPJ-OA-03-2022-0031 YUYUN dkk.pdf",
+            "files": [
+                {
+                  "objectid": 184798,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509049",
+                  "fileid": 509049,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-10-26 02:20:27",
+                  "hash_type": "MD5",
+                  "filename": "PPJ-OA-03-2022-0031 YUYUN dkk.pdf",
+                  "hash": "e9a46197881e3562f942991a658974cd",
+                  "datasetid": "document",
+                  "filesize": 2719919
+                }
+            ]
+          }
+      ],
+      "publisher": "The Korean Society of Plant Pathology",
+      "ispublished": "pub",
+      "number": 5,
+      "pagerange": "449-460",
+      "datestamp": "2022-10-26 06:41:02",
+      "lastmod": "2022-10-26 06:41:02",
+      "userid": 158,
+      "date_type": "published",
+      "eprintid": 45982,
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "volume": 38,
+      "title": "Lysinabacillus fusiformis and Paenibacillus alvei Obtained from the Internal of Nasutitermes Termites Revealed their Ability as Antagonist of Plant Pathogenic Fungi",
+      "official_url": "https:\/\/ppjonline.org\/journal\/view.php?number=2341",
+      "abstract": "This study was performed to reveal phenotypic characters and identity of symbiont bacteria of Nasutitermes\r\nas well as investigate their potential as antagonist of\r\nplant pathogenic fungi. Isolation of the symbiont bacteria was carried out from inside the heads and the bodies of soldier and worker termite which were collected\r\nfrom 3 locations of nests. Identification was performed\r\nusing phenotypic test and sequence of 16S ribosomal\r\nDNA (16S rDNA). Antagonistic capability was investigated in the laboratory against 3 phytopathogenic fungi\r\ni.e., Phytophthora capsici, Ganoderma boninense, and\r\nRigidoporus microporus. Totally, 39 bacterial isolates\r\nwere obtained from inside the heads and the bodies of\r\nNasutitermes. All the isolates showed capability to inhibit growth of P. capsici, however, 34 isolates showed\r\ncapability to inhibit growth of G. boninense and 32\r\nisolates showed capability to inhibit growth of R. microporus. Two bacterial strains (IK3.1P and 1B1.2P)\r\nwhich showed the highest percentage of inhibition were\r\nfurther identified based on their sequence of 16S rDNA.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-10-26 06:41:02"
+    },
+    {
+      "datestamp": "2022-11-11 01:06:03",
+      "userid": 330,
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-11-11 01:06:03",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46471",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2241417,
+                  "fileid": 512674,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-10 07:48:11",
+                  "hash": "2abaa8ab42014fdd501f9032462d4098",
+                  "filename": "Repositori 2Nov 2022 Ilmu Penyakit Benih.pdf",
+                  "objectid": 185345,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512674"
+                }
+            ],
+            "main": "Repositori 2Nov 2022 Ilmu Penyakit Benih.pdf",
+            "docid": 185345,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185345",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46471,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        }
+      ],
+      "divisions": [
+        "FP24"
+      ],
+      "type": "video",
+      "dir": "disk0\/00\/04\/64\/71",
+      "date": "2022-11-02",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Nurdin",
+            "honourific": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "id": "suskandini.ratih@fp.unila.ac.id",
+          "name": {
+            "given": "Suskandini R.",
+            "family": "Dirmawati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Helina",
+            "honourific": null,
+            "lineage": null,
+            "given": "Selvi"
+          },
+          "id": null
+        }
+      ],
+      "abstract": "Mata kuliah Ilmu Penyakit Benih merupakan mata kuliah pilihan bagi semua mahasiswa Fakultas Pertanian Universitas Lampung dalam memahami berbagai konsep penyakit pada benih tanaman sehingga dapat mengidentifikasi berbagai penyakit pada benih tanaman serta merencanakan teknologi yang dapat digunakan dalam pengelolaan penyakit pada benih tanaman yang ramah lingkungan serta berkelanjutan. Cakupan materi yang dibahas dalam mata kuliah ini yaitu Membahas pembentukan dan perkembangan benih, kandungan kimia benih, dormansi dan perkecambahan benih, longevitas dan deteorasi benih, viabilitas dan vigor benih, pengujian mutu benih, produksi dan pengolahan benih, penyimpanan dan tata niaga benih.",
+      "subjects": [
+        "S1"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/www.youtube.com\/watch?v=JBQMJx00o0c"
+        }
+      ],
+      "output_media": "Online",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-11 01:06:03",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "official_url": "https:\/\/www.youtube.com\/watch?v=JBQMJx00o0c",
+      "title": "Video Pembelajaran Mata Kuliah Ilmu Penyakit Benih-Studi Penyakit Benih",
+      "eprintid": 46471
+    },
+    {
+      "subjects": [
+        "SB"
+      ],
+      "abstract": "ABSTRAK\r\nProvinsi Lampung merupakan salah satu daerah sentra penghasil jagung di Indonesia. Produktivitas jagung masih belum optimal. Rendahnya produktivitas lahan jagung dapat disebabkan oleh berbagai faktor, salah satunya adanya penyakit bulai. Penyakit bulai dapat menyebabkan kehilangan hasil hingga 90%. Alternatif pengendalian yang efektif dan ramah lingkungan adalah dengan memanfaatkan Trichodema spp. sebagai penginduksi ketahanan tanaman terhadap penyakit bulai. Tujuan penelitian ini adalah untuk mengetahui pengaruh empat isolat Trichoderma spp. terhadap keterjadian dan keparahan penyakit bulai dan pengaruhnya terhadap pertumbuhan tanaman jagung. Penelitian ini dilakukan dalam Rancangan Acak Kelompok (RAK) dengan lima perlakuan dan empat ulangan. Perlakuan terdiri dari (T0) tanpa isolat Trichoderma sp., (T1) Trichoderma sp. isolat Hajimena, (T2) Trichoderma sp. isolat Lampung Tengah, (T3) Trichoderma spp. Isolat Lampung Timur, dan (T4) Trichoderma sp. isolat Metro. Hasil penelitian menunjukkan bahwa jamur Trichoderma spp Trichoderma spp. isolat Hajimena dan Metro dapat menekan keterjadian penyakit dan Trichoderma spp. isolat Hajimena dan Lampung Tengah dapat meningkatkan pertumbuhan tanaman pada bobot basah akar.\r\nKata kunci: Induksi ketahanan, keterjadian, ramah lingkungan.",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JA",
+      "date_type": "published",
+      "eprintid": 43618,
+      "projects": [
+        "Penenllitian mandiri"
+      ],
+      "datestamp": "2022-07-26 08:02:11",
+      "lastmod": "2022-07-26 08:02:11",
+      "corp_creators": [
+        "LPPM UNILA",
+        "LPPM UNILA",
+        "LPPM UNILA",
+        "LPPM UNILA"
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurnal Agrotek Tropika",
+      "divisions": [
+        "FP24"
+      ],
+      "type": "article",
+      "date": "2022-04-30",
+      "status_changed": "2022-07-26 08:02:11",
+      "volume": 10,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "PENGARUH EMPAT ISOLAT Trichoderma spp. TERHADAP PENYAKIT BULAI DAN PERTUMBUHAN TANAMAN JAGUNG (Zea mays L.)",
+      "pagerange": "177-185",
+      "userid": 852,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43618",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43618,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 165564,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475846",
+                  "datasetid": "document",
+                  "filesize": 1184476,
+                  "fileid": 475846,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-07-26 06:30:37",
+                  "hash_type": "MD5",
+                  "hash": "830ce686f182b2fa08107695232b0c80",
+                  "filename": "5873-16955-1-PB (1)Joko-Reza Putri.pdf"
+                }
+            ],
+            "docid": 165564,
+            "main": "5873-16955-1-PB (1)Joko-Reza Putri.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165564",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "funders": [
+        "Plant Clinic"
+      ],
+      "dir": "disk0\/00\/04\/36\/18",
+      "publication": "Jurnal Agrotek Tropika",
+      "issn": "2337-4993",
+      "creators": [
+        {
+          "id": "rezaputri367@gmail.com",
+          "name": {
+            "given": "Reza",
+            "lineage": null,
+            "honourific": null,
+            "family": "Putri"
+          }
+        },
+        {
+          "id": "joko.prasetyo@fp.unila.ac.id",
+          "name": {
+            "family": "Prasetyo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Joko"
+          }
+        },
+        {
+          "id": "tri.maryono@fp.unila.ac.id",
+          "name": {
+            "family": "Tri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Maryono"
+          }
+        },
+        {
+          "id": "suskandini.ratih@fp.unila.ac.id",
+          "name": {
+            "given": "Suskandini R.",
+            "family": "Dirmawati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2022-11-11 01:01:19",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-11-11 01:01:19",
+      "userid": 330,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46457",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CTB"
+        }
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46457,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512634",
+                  "objectid": 185340,
+                  "filesize": 2779410,
+                  "datasetid": "document",
+                  "hash": "368a06de1a960c340c59cebf0726b64d",
+                  "filename": "Repositori 2Nov 2022 HaKI Bakteriologi Tumbuhan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-10 06:53:54",
+                  "mime_type": "application\/pdf",
+                  "fileid": 512634
+                }
+            ],
+            "docid": 185340,
+            "main": "Repositori 2Nov 2022 HaKI Bakteriologi Tumbuhan.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185340",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FP24"
+      ],
+      "type": "video",
+      "date": "2022-11-02",
+      "dir": "disk0\/00\/04\/64\/57",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Radix",
+            "honourific": null,
+            "family": "Suhardjo",
+            "lineage": null
+          }
+        },
+        {
+          "id": "efri.1960@fp.unila.ac.id",
+          "name": {
+            "given": "Efri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Efri"
+          }
+        },
+        {
+          "name": {
+            "family": "Dirmawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suskandini R."
+          },
+          "id": "suskandini.ratih@fp.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Mata kuliah Bakteriologi Tumbuhan merupakan mata kuliah wajib bagi semua mahasiswa Jurusan Proteksi Tanaman, Fakultas Pertanian Universitas Lampung dalam memahami berbagai konsep mengenai perkembangan bakteriologi dan bakteri pada tumbuhan sehingga dapat mengidentifikasi berbagai penyakit tanaman yang disebabkan oleh bakteri serta mengembangkan teknologi yang dapat digunakan dalam pengelolaan penyakit tanaman yang disebabkan oleh bakteri. Cakupan materi yang dibahas dalam mata kuliah ini yaitu pengertian dasar tentang bakteri; taksonomi, klasifikasi, dan identifikasi bakteri; deteksi dan diagnosis penyakit karena bakteri; penularan penyakit oleh bakteri; epidemiologi dan pengendalian bakteri.",
+      "output_media": "Online",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-11 01:01:19",
+      "related_url": [
+        {
+          "url": "https:\/\/www.youtube.com\/watch?v=uWB3pQYRFNo"
+        }
+      ],
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.youtube.com\/watch?v=uWB3pQYRFNo",
+      "title": "Video Pembelajaran Mata Kuliah Bakteriologi Tumbuhan\r\ntopik PERTUMBUHAN BAKTERI",
+      "eprintid": 46457
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FP24"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": ".",
+            "lineage": null,
+            "family": "Sutarman",
+            "honourific": null
+          },
+          "id": "sutarman@umsida.ac.id"
+        },
+        {
+          "name": {
+            "family": "Purnomo",
+            "honourific": null,
+            "lineage": null,
+            "given": "."
+          },
+          "id": "purnomo.1964@fp.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/95\/47",
+      "date": "2022-08-01",
+      "lastmod": "2023-04-03 00:56:34",
+      "userid": 1063,
+      "datestamp": "2023-04-03 00:56:34",
+      "ispublished": "pub",
+      "publisher": "International Journal of Environmental Science and Development",
+      "documents": [
+          {
+            "eprintid": 49547,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 189180,
+            "main": "Similarity-IJESD Vol 13 No 4 Agustus 2022.pdf",
+            "files": [
+                {
+                  "filesize": 2893411,
+                  "datasetid": "document",
+                  "hash": "c7d20458a24ef3a3b197d078f4fac8d1",
+                  "filename": "Similarity-IJESD Vol 13 No 4 Agustus 2022.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-01 14:09:38",
+                  "mime_type": "application\/pdf",
+                  "fileid": 537370,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537370",
+                  "objectid": 189180
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189180"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49547",
+      "eprintid": 49547,
+      "date_type": "published",
+      "status_changed": "2023-04-03 00:56:34",
+      "eprint_status": "archive",
+      "succeeds": 49544,
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The use of synthetic pesticides has been widely practiced by farmers to control plant diseases. However, it can promote negative impacts such as environmental pollution, threatening human health, and making pathogens more resistant. This study aims to determine the inhibition of Trichoderma Tc-Jjr-02 in vitro against Colletotrichum sp. and test its ability as a biopesticide and biofertilizer agent in suppressing the growth of anthracnose disease and chili production. The results show that, there was no interaction effect between the application of Trichoderma Tc-Jjr-02 as a biopesticide and biofertilizer agent. The in vitro test reveals that Trichoderma Tc-Jjr-02 could inhibit the growth of pathogenic colonies up to 61.4% at 11 days after inoculation. In vivo test show, that application of Trichoderma 6 hours before inoculation of pathogens (T1) and Trichoderma inoculation concurrent pathogens (T3) can reduce the symptoms intensity of anthracnose attacks 70% and 43%, respectively, then increasing the number of fresh fruit 62.66% and 76.58%, respectively, also increasing fresh fruit weights 84.83% and 91.90% respectively, compared with the pathogen inoculation treatment six hours before the application of Trichoderma. Thus, Trichoderma is more effective when applied before inoculation of pathogens and more suitable as a prevention agent. Using Trichoderma asperellum as biopesticed can protect the environment.",
+      "title": "Evaluation of Trichoderma asperellum Effect toward Anthracnose Pathogen Activity on Red Chili (Capsicum annum L.) As Ecofriendly Pesticide",
+      "official_url": "http:\/\/www.ijesd.org\/show-180-1929-1.html",
+      "rev_number": 5,
+      "metadata_visibility": "show"
+    },
+    {
+      "eprintid": 49261,
+      "official_url": "http:\/\/www.ijesd.org\/show-180-1929-1.html",
+      "title": "Evaluation of Trichoderma asperellum Effect toward\r\nAnthracnose Pathogen Activity on Red Chili (Capsicum\r\nannum L.) As Ecofriendly Pesticide",
+      "volume": 13,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-28 08:35:09",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The use of synthetic pesticides has been widely\r\npracticed by farmers to control plant diseases. However, it can\r\npromote negative impacts such as environmental pollution,\r\nthreatening human health, and making pathogens more\r\nresistant. This study aims to determine the inhibition of\r\nTrichoderma Tc-Jjr-02 in vitro against Colletotrichum sp. and\r\ntest its ability as a biopesticide and biofertilizer agent in\r\nsuppressing the growth of anthracnose disease and chili\r\nproduction. The results show that, there was no interaction\r\neffect between the application of Trichoderma Tc-Jjr-02 as a\r\nbiopesticide and biofertilizer agent. The in vitro test reveals that\r\nTrichoderma Tc-Jjr-02 could inhibit the growth of pathogenic\r\ncolonies up to 61.4% at 11 days after inoculation. In vivo test\r\nshow, that application of Trichoderma 6 hours before\r\ninoculation of pathogens (T1) and Trichoderma inoculation\r\nconcurrent pathogens (T3) can reduce the symptoms intensity\r\nof anthracnose attacks 70% and 43%, respectively, then\r\nincreasing the number of fresh fruit 62.66% and 76.58%,\r\nrespectively, also increasing fresh fruit weights 84.83% and\r\n91.90% respectively, compared with the pathogen inoculation\r\ntreatment six hours before the application of Trichoderma. Thus,Trichoderma is more effective when applied before inoculation of pathogens and more suitable as a prevention agent. Using Trichoderma asperellum as biopesticed can protect the environment.\r\nIndex Terms—Anthracnose, Colletotrichum sp., red chili,\r\nTrichoderma asperellum.",
+      "publication": "International Journal of Environmentgal Science and Development",
+      "issn": "2010-0264 (Print); 2972-3698 (Online)",
+      "creators": [
+        {
+          "id": "sutarman@umsida.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sutarman",
+            "lineage": null,
+            "given": "."
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "T",
+            "family": "Setiorini",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "AS",
+            "family": "Li'aini",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "purnomo.1964@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Purnomo",
+            "lineage": null,
+            "given": "."
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rahmat",
+            "honourific": null,
+            "given": "Ali"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/92\/61",
+      "date": "2022-08-01",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jat.v10i4.6467",
+      "type": "article",
+      "divisions": [
+        "FP24"
+      ],
+      "ispublished": "pub",
+      "number": 4,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188810",
+            "rev_number": 1,
+            "docid": 188810,
+            "main": "IJESD-13(4), August 2022, 131-137.pdf",
+            "files": [
+                {
+                  "fileid": 535063,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-03-26 08:10:23",
+                  "hash_type": "MD5",
+                  "filename": "IJESD-13(4), August 2022, 131-137.pdf",
+                  "hash": "4517a11c0980cd6ce070ab157e913549",
+                  "datasetid": "document",
+                  "filesize": 1167581,
+                  "objectid": 188810,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535063"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49261,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "International Journal of Environmental Science and Developmen",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49261",
+      "refereed": "TRUE",
+      "userid": 1063,
+      "lastmod": "2023-03-28 08:35:09",
+      "pagerange": "131-137",
+      "datestamp": "2023-03-28 08:35:09"
+    },
+    {
+      "datestamp": "2023-04-04 05:52:37",
+      "userid": 1063,
+      "lastmod": "2023-04-04 05:52:37",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49622",
+      "full_text_status": "none",
+      "ispublished": "pub",
+      "publisher": "International Journal of Environmental Science and Development",
+      "divisions": [
+        "FP24"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/04\/96\/22",
+      "date": "2022-08-01",
+      "creators": [
+        {
+          "id": "sutarman@umsida.ac.id",
+          "name": {
+            "family": "Sutarman",
+            "honourific": null,
+            "lineage": null,
+            "given": "."
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Setiorini",
+            "lineage": null,
+            "given": "Triana"
+          }
+        },
+        {
+          "name": {
+            "given": "AS",
+            "family": "Li'aini",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": ".",
+            "family": "Purnomo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "purnomo.1964@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ali",
+            "lineage": null,
+            "family": "Rahmat",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The use of synthetic pesticides has been widely practiced by farmers to control plant diseases. However, it can promote negative impacts such as environmental pollution, threatening human health, and making pathogens more resistant. This study aims to determine the inhibition of Trichoderma Tc-Jjr-02 in vitro against Colletotrichum sp. and test its ability as a biopesticide and biofertilizer agent in suppressing the growth of anthracnose disease and chili production. The results show that, there was no interaction effect between the application of Trichoderma Tc-Jjr-02 as a biopesticide and biofertilizer agent. The in vitro test reveals that Trichoderma Tc-Jjr-02 could inhibit the growth of pathogenic colonies up to 61.4% at 11 days after inoculation. In vivo test show, that application of Trichoderma 6 hours before inoculation of pathogens (T1) and Trichoderma inoculation concurrent pathogens (T3) can reduce the symptoms intensity of anthracnose attacks 70% and 43%, respectively, then increasing the number of fresh fruit 62.66% and 76.58%, respectively, also increasing fresh fruit weights 84.83% and 91.90% respectively, compared with the pathogen inoculation treatment six hours before the application of Trichoderma. Thus, Trichoderma is more effective when applied before inoculation of pathogens and more suitable as a prevention agent. Using Trichoderma asperellum as biopesticed can protect the environment.",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-04 05:52:37",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.ijesd.org\/show-180-1929-1.html",
+      "title": "Evaluation of Trichoderma asperellum Effect toward Anthracnose Pathogen Activity on Red Chili (Capsicum annum L.) As Ecofriendly Pesticide",
+      "date_type": "published",
+      "eprintid": 49622
+    },
+    {
+      "title": "Evaluation of Trichoderma asperellum Effect toward Anthracnose Pathogen Activity on Red Chili (Capsicum annum L.) As Ecofriendly Pesticide",
+      "official_url": "http:\/\/www.ijesd.org\/show-180-1929-1.html",
+      "metadata_visibility": "show",
+      "rev_number": 4,
+      "status_changed": "2023-04-05 02:22:31",
+      "eprint_status": "archive",
+      "abstract": "The use of synthetic pesticides has been widely practiced by farmers to control plant diseases. However, it can promote negative impacts such as environmental pollution, threatening human health, and making pathogens more resistant. This study aims to determine the inhibition of Trichoderma Tc-Jjr-02 in vitro against Colletotrichum sp. and test its ability as a biopesticide and biofertilizer agent in suppressing the growth of anthracnose disease and chili production. The results show that, there was no interaction effect between the application of Trichoderma Tc-Jjr-02 as a biopesticide and biofertilizer agent. The in vitro test reveals that Trichoderma Tc-Jjr-02 could inhibit the growth of pathogenic colonies up to 61.4% at 11 days after inoculation. In vivo test show, that application of Trichoderma 6 hours before inoculation of pathogens (T1) and Trichoderma inoculation concurrent pathogens (T3) can reduce the symptoms intensity of anthracnose attacks 70% and 43%, respectively, then increasing the number of fresh fruit 62.66% and 76.58%, respectively, also increasing fresh fruit weights 84.83% and 91.90% respectively, compared with the pathogen inoculation treatment six hours before the application of Trichoderma. Thus, Trichoderma is more effective when applied before inoculation of pathogens and more suitable as a prevention agent. Using Trichoderma asperellum as biopesticed can protect the environment.",
+      "subjects": [
+        "S1"
+      ],
+      "eprintid": 49644,
+      "date_type": "published",
+      "publisher": "International Journal of Environmental Science and Development",
+      "documents": [
+          {
+            "eprintid": 49644,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Similarity-IJESD Vol 13 No 4 Agustus 2022.pdf",
+            "docid": 189282,
+            "files": [
+                {
+                  "objectid": 189282,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538207",
+                  "datasetid": "document",
+                  "filesize": 2893411,
+                  "fileid": 538207,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-04 13:12:45",
+                  "hash": "c7d20458a24ef3a3b197d078f4fac8d1",
+                  "filename": "Similarity-IJESD Vol 13 No 4 Agustus 2022.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189282"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49644",
+      "lastmod": "2023-04-05 02:22:31",
+      "userid": 1063,
+      "datestamp": "2023-04-05 02:22:31",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sutarman",
+            "lineage": null,
+            "given": "."
+          },
+          "id": "sutarman@umsida.ac.id"
+        },
+        {
+          "name": {
+            "given": "Triana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiorini"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Li'aini",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "purnomo.1964@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Purnomo",
+            "given": "."
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rahmat",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ali"
+          }
+        }
+      ],
+      "date": "2022-08-01",
+      "dir": "disk0_bak\/00\/04\/96\/44",
+      "type": "other",
+      "divisions": [
+        "FP24"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Swibawa",
+            "honourific": null,
+            "given": "I Gede"
+          },
+          "id": "igede.swibawa@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Tiara",
+            "lineage": null,
+            "family": "Oktavia",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Alfira Rahma",
+            "honourific": null,
+            "family": "Dhona",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hariri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Agus M."
+          },
+          "id": "agus.muhammad@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Efri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Efri"
+          },
+          "id": "efri.1960@fp.unila.ac.id"
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0_bak\/00\/04\/97\/11",
+      "type": "conference_item",
+      "divisions": [
+        "FP24"
+      ],
+      "documents": [
+          {
+            "eprintid": 49711,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "2023 I Gede Swibawa et al. 2023. Keragaman dan kelimpahan artropoda pada pertanaman terong. 2575-5563-1-PB.pdf",
+            "docid": 189347,
+            "files": [
+                {
+                  "objectid": 189347,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538703",
+                  "fileid": 538703,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-05 14:39:22",
+                  "hash_type": "MD5",
+                  "filename": "2023 I Gede Swibawa et al. 2023. Keragaman dan kelimpahan artropoda pada pertanaman terong. 2575-5563-1-PB.pdf",
+                  "hash": "f0ceeeec717869eb22781462bb3cf6e8",
+                  "datasetid": "document",
+                  "filesize": 654873
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189347",
+            "rev_number": 1
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49711",
+      "full_text_status": "public",
+      "lastmod": "2023-04-06 00:54:06",
+      "userid": 738,
+      "datestamp": "2023-04-06 00:54:06",
+      "pagerange": "153-165",
+      "event_location": "Universitas Sriwijaya Palembang",
+      "eprintid": 49711,
+      "event_title": "Prosiding Seminar Nasional Lahan Suboptimal ke-10 Tahun 2022, Palembang 27 Oktober 2022",
+      "date_type": "published",
+      "title": "Keragaman dan Kelimpahan Artropoda Tajuk Tanaman Cabai dan Terong di Pringsewu Lampung",
+      "event_dates": "27 Oktober 2022",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "status_changed": "2023-04-06 00:54:06",
+      "eprint_status": "archive",
+      "abstract": "Chili and eggplant were two famous vegetable crops in Pringsewu Lampung and their cultivation practice were intensively using synthetic mulch, inorganic fertilizer, and synthetic pesticides, that may affect to arthropods communities. The purpose of this research was to study diversity and abundance of arthropod community inhabited canopy crop of chili and eggplant in Pringsewu, Lampung. Sampling of arthropods by yellow sticky trap and ground cloth methods on 4, 6, and 10 weeks after planting of chili and eggplant crops were conducted in district of Adiluwih, Pringsewu, province of Lampung on May until August 2022. Identification of arthropods into taxon of family was done in Plant Pest Laboratory, University of Lampung. The result show that the abundance of arthropod that indicated by total individual that were caught were 905 on Chili and 1399 on eggplant respectively. Taxonomic diversity \r\nof arthropod on chili were 8 order, 34 families with Shannon index of 2.38 and Simpsons Index of 0.84, while on eggplant were 8 order and 32 families with Shannon Index of 2.58 and \r\nSimpsons Index of 0.89. The functional groups of arthropods on Chili consisted of 14 families of herbivore and 20 families of non-herbivore, while on eggplant there were 14 families of herbivore and 18 families of non-herbivore arthropods. Base on Sorenson Index, the similarities of arthropods communities on chili and eggplant was 0.76. Diversity and abundance of arthropods both on chili and eggplant was higher on 6 than 4 and 10 weeks after \r\nplanting crop old. Total individual of herbivore arthropods was higher than non-herbivore.",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 42321,
+      "abstract": "Pengabdian kepada masyarakat yang berjudul “Pengendalian Hama Spodoptera frugiperda dengan Mating Disruption Feromon pada Pertanaman Jagung di Pekon Tritunggal Mulya Kabupaten\r\nPringsewu” dilaksanakan untuk memecahkan permasalahan Kelompok Tani Setia Bakti yaitu belum tersedianya insektisida yang cukup efektif untuk mengendalikan hama ulat grayak S. frugiperda pada pertanaman jagung. Tujuan pengabdian kepada masyarakat ini adalah untuk untuk meningkatkan pengetahuan petani tentang hama S. frugiperda dan teknik pengendalian menggunakan Mating Disruption\r\nFeromon.   Kegiatan ini  dilaksanakan oleh 4 orang Tim\r\nPengabdian selama Mei - Oktober 2021. Metode yang\r\nditerapkan adalah ceramah, diskusi dalam kelas, dan\r\nkunjungan lapangan. Hasil kegiatan menunjukkan: 1)\r\nKegiatan pengabdian kepada masyarakat diikuti oleh anggota dan pengurus Kelompok Tani Setia Bakti, Pekon Tritunggal Mulya dan Kepala Laboratorium POPT Gadingrejo, Pringsewu. 2) Peserta sangat antusias mengikuti setiap tahapan kegiatan yang ditunjukan oleh keaktifannya dalam menyimak dan merespon penyampaian materi serta aktif bertanya dan memberi tanggapan terhadap setiap permasalahan yang dibahas. 3) Terjadi peningkatan penguasaan pengEtahuan Pengendalian Hama Spodoptera frugiperda dengan Mating Disruption Feromon pada Pertanaman Jagung yang signifikan yang ditunjukkan oleh setelah diberi penyuluhan lebih dari 70% memiliki pengatahuan sangat baik. Disrankan untuk melakukan kegiatan pengabdian kepada masyarakat lanjutan dengan topik penggunaan insektisida secara bijaksana.)",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-06-12 11:41:22",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "title": "PENGENDALIAN HAMA Spodoptera frugiperda DENGAN MATING DISRUPTION FEROMON PADA PERTANAMAN JAGUNG DI PEKON TRITUNGGAL MULYA KABUPATEN PRINGSEWU",
+      "divisions": [
+        "FP24"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/04\/23\/21",
+      "date": "2022-03",
+      "issn": "2829-2235",
+      "creators": [
+        {
+          "name": {
+            "family": "Swibawa",
+            "honourific": null,
+            "lineage": null,
+            "given": "I Gede"
+          },
+          "id": "igede.swibawa@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hamim",
+            "family": "Sudarsono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "hamim.sudarsono@fp.unila.ac.id"
+        },
+        {
+          "id": "purjomo@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Purnomo",
+            "honourific": null,
+            "given": "."
+          }
+        },
+        {
+          "id": "titik.nuraeny@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Aeny",
+            "given": "Titik Nur"
+          }
+        }
+      ],
+      "publication": "Jurnal Pengabdian Fakultas Pertanian Universitas Lampung",
+      "pagerange": "78-87",
+      "datestamp": "2022-06-12 11:41:22",
+      "userid": 738,
+      "lastmod": "2022-06-12 11:41:22",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42321",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164024",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 164024,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/465628",
+                  "datasetid": "document",
+                  "filesize": 512069,
+                  "fileid": 465628,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-06-10 16:08:42",
+                  "hash_type": "MD5",
+                  "filename": "I Gede S Jurnal Pengabdian kepada Masyarakat 5784-16127-2-PB.pdf",
+                  "hash": "a91f0b815e46049765a01c9ca55f584c"
+                }
+            ],
+            "main": "I Gede S Jurnal Pengabdian kepada Masyarakat 5784-16127-2-PB.pdf",
+            "docid": 164024,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 42321
+          }
+      ],
+      "publisher": "Fakultas Pertanian Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub"
+    },
+    {
+      "abstract": "Bawang merah termasuk tanaman hortikultura yang memiliki arti penting bagi kehidupan masyarakat dan bernilai ekonomis cukup tinggi untuk dibudidayakan, rendahnya produktivitas bawang merah dapat dipengaruhi oleh penyakit moler yang disebabkan Fusarium oxysporum. Berdasarkan permasalahan yang ditimbulkan maka diperlukan upaya untuk mengendalikan penyakit moler tersebut dengan menggunakan beberapa tumbuhan yang dapat dijadikan sebagai pestisida nabati salah satunya yaitu daun kipahit dan daun babadotan. Penelitian ini bertujuan untuk mengetahui pengaruh konsentrasi ekstrak daun kipahit (Tithonia diversifolia) dan babadotan (Ageratum conyzoides) terhadap keterjadian penyakit moler dan pertumbuhan pada bawang merah (Allium ascalonicum L.). Penelitian ini dilaksanakan di Laboratorium Ilmu Penyakit Tumbuhan, Laboratorium Ilmu Hama Tumbuhan serta di Laboratorium Lapang Terpadu Fakultas Pertanian, Universitas Lampung pada bulan April hingga Juni 2019.  Penelitian ini menggunakan metode Rancangan Acak Kelompok (RAK) 8 perlakuan dengan 3 ulangan. Faktor perlakuan yang diterapkan yaitu kontrol sakit, tanpa pestisida nabati (diinokulasi Fusarium oxysporum), tanaman sehat, ekstrak daun kipahit konsentrasi 5%, ekstrak daun kipahit konsentrasi 10%, ekstrak daun kipahit konsentrasi 15%, ekstrak daun babadotan konsentrasi 5%, ekstrak daun babadotan konsentrasi 10%, ekstrak daun babadotan konsentrasi 15%.  Homogenitas ragam diuji dengan uji bartlett, jika asumsi terpenuhi maka data dianalisis dengan anara dilanjutkan dengan uji BNT taraf 5%. Hasil penelitian menunjukkan bahwa, perlakuan ekstrak daun kipahit konsentrasi 15% dan perlakuan esktrak daun babadotan konsentrasi 5% dapat menekan keterjadian penyakit moler serta meningkatkan tinggi tanaman pada bawang merah.",
+      "subjects": [
+        "S1"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JA\/article\/view\/6467"
+        }
+      ],
+      "status_changed": "2023-03-27 00:55:23",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 10,
+      "title": "PENGARUH KONSENTRASI EKSTRAK DAUN KIPAHIT (ITHONIA\r\nDIVERSIFOLIA) DAN BABADOTAN (AGERATUM CONYZOIDES)\r\nTERHADAP KETERJADIAN PENYAKIT MOLER (FUSARIUM\r\nOXYSPORUM) DANPERTUMBUHAN PADA BAWANG MERAH\r\n(ALLIUM ASCALONICUM L.)",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JA\/article\/view\/6467",
+      "eprintid": 49259,
+      "pagerange": "527-533",
+      "datestamp": "2023-03-27 00:55:23",
+      "lastmod": "2023-03-27 00:55:23",
+      "userid": 1063,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49259",
+      "full_text_status": "public",
+      "publisher": "Jurnal Agrotek Tropika",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49259,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 188805,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535042",
+                  "mime_type": "application\/pdf",
+                  "fileid": 535042,
+                  "hash": "752e9bb58a734947996d691493faa508",
+                  "filename": "JAT 10(4) November 2022, 527-533.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-26 07:46:08",
+                  "datasetid": "document",
+                  "filesize": 773696
+                }
+            ],
+            "main": "JAT 10(4) November 2022, 527-533.pdf",
+            "docid": 188805,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188805",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "number": 4,
+      "ispublished": "pub",
+      "divisions": [
+        "FP24"
+      ],
+      "type": "article",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jat.v10i4.6467",
+      "date": "2022-11-01",
+      "dir": "disk0_bak\/00\/04\/92\/59",
+      "issn": "2337-4993",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Wardhani",
+            "honourific": null,
+            "given": "Ristya I"
+          }
+        },
+        {
+          "id": "suskandini.ratih@fp.unila.ac.id",
+          "name": {
+            "family": "Dirmawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suskandini R."
+          }
+        },
+        {
+          "name": {
+            "given": "Agus M.",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hariri"
+          },
+          "id": "agus.muhammad@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": ".",
+            "lineage": null,
+            "family": "Purnomo",
+            "honourific": null
+          },
+          "id": "purnomo.1964@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Agrotek Tropika"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-06-12 11:47:59",
+      "abstract": "This research aimed to study the effect of Purpureocillium lilacinum bionematicides and root knot nematodes RKN from different host and their interaction on nematodes popul ations and plant roots damages.  The research was conducted in the experimental  field of Hajimena Village,  Natar District,  South Lampung Regency.  The Split Plot Experimental Design consisting of 2 main plots and 4 subplots with 5 replications was applied.  The main plot consi sted of two RKN groups from different hosts, while the sub plot consisted of four treatments of nematicide.   The two mai n plot treatments were RKN from the guava Kristal host and RKN from the host tomato, while the nematicide treatments were control , P. lilacinum bionematicide, P.\r\nlilacinum bionematicide + compost and chemical nematicide (Carbofuran).  The variables observed were nematode populations in roots and soil and root damage.  The data were analyzed by analyze of variance and mean separate then tested using the Least Significant Difference (LSD) test at the 5% significantly level.  The results showed that RKN from guava Kristal host was more damaging than RKN from tomato host. The application of P. lilacinum bionematicide was effective to control the NPA population, and addition of\r\ncompost increases its effectiveness.  The effect of interaction between the host origin of NPA and nematicide\r\nwere not signifi cant.",
+      "subjects": [
+        "S1"
+      ],
+      "title": "EFIKASI BIONEMATISIDA Purpureocillium lilacinum TERHADAP\r\nNEMATODA PURU AKAR (Meloidogyne spp.) DARI DUA INANG BERBEDA",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 10,
+      "eprintid": 42360,
+      "lastmod": "2022-06-12 11:47:59",
+      "userid": 738,
+      "pagerange": "187-193",
+      "datestamp": "2022-06-12 11:47:59",
+      "documents": [
+          {
+            "docid": 164072,
+            "main": "2022 Mei, Agrotek Tropika-Artikel Riri Wialndari 5874-16956-1-PB.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/465902",
+                  "objectid": 164072,
+                  "filesize": 848935,
+                  "datasetid": "document",
+                  "hash": "41e15b6ab0d5991c0d0821ae35d02b3f",
+                  "filename": "2022 Mei, Agrotek Tropika-Artikel Riri Wialndari 5874-16956-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-12 08:22:26",
+                  "mime_type": "application\/pdf",
+                  "fileid": 465902
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164072",
+            "eprintid": 42360,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42360",
+      "type": "article",
+      "divisions": [
+        "FP24"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Wilandari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Riri"
+          },
+          "id": "ririwilandari23@gmail.com"
+        },
+        {
+          "id": "igede.swibawa@fp.unila.ac.id",
+          "name": {
+            "given": "I Gede",
+            "lineage": null,
+            "honourific": null,
+            "family": "Swibawa"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aeny",
+            "lineage": null,
+            "given": "Titik Nur"
+          },
+          "id": "titik.nuraeny@fp.unila.ac.id"
+        },
+        {
+          "id": "purjomo@yahoo.com",
+          "name": {
+            "given": ".",
+            "family": "Purnomo",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2337-4993",
+      "publication": "Jurnal Agrotek Tropika",
+      "date": "2022-05",
+      "dir": "disk0\/00\/04\/23\/60"
+    }
+]
+

@@ -1,0 +1,635 @@
+[
+    {
+      "ispublished": "unpub",
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Analisis Ketelitian Koreksi Geometrik Data Quickbird Pesisir Teluk Lampung Menggunakan GPS Receiver Tipe Navigasi",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32791",
+            "main": "2012 Laporan Penelitian Koreksi Geometrik QC Menggunakan GPS Navigasi.pdf",
+            "docid": 32791,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 163324,
+                  "filename": "2012 Laporan Penelitian Koreksi Geometrik QC Menggunakan GPS Navigasi.pdf",
+                  "hash": "07a3839bc8f9b6cce128dff63a70e262",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-09 16:18:26",
+                  "datasetid": "document",
+                  "filesize": 5552172,
+                  "objectid": 32791,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163324"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "eprintid": 19549,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19549",
+      "full_text_status": "public",
+      "lastmod": "2020-05-11 03:01:17",
+      "userid": 102,
+      "datestamp": "2020-05-11 03:01:17",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null
+          }
+        },
+        {
+          "id": "yohannessp@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Yohannes",
+            "lineage": null,
+            "given": "Yohannes"
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2012-11-12",
+      "dir": "disk0\/00\/01\/95\/49",
+      "type": "other",
+      "funders": [
+        "Hibah Berbasis DIPA Fakultas Teknik Universitas Lampung"
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Koreksi Geometrik, Quickbird, GCP, RMS, GPS Navigasi",
+      "title": "Analisis Ketelitian Koreksi Geometrik Data Quickbird Pesisir Teluk Lampung Menggunakan GPS Receiver Tipe Navigasi",
+      "referencetext": "Bernstein, R., 1983. Image  Geometry   and  Rectification.   Chapter  21   in  The   Manual of  Remote Sensing,  R.  N  Colwell,  ed .. Bethesda.   MD. American  Society of Photogrametry,  I:875-881.\r\n\r\nLillesand M .T  Jan  R. W. Kieffer.  ( 1997). Penginderaan  Jauh  dan lnterpretasi  Citra.  Gadjah Mada University  Press, Yogyakarta. \r\n\r\nMunir.R, (2004).  Pengoluhan  Cara Digital dengan Pendekatan Algoritma.  lnformatika  Bandung.\r\n\r\nThurston.J,   Thomas     K.P  dan  J.Patrick   Moore,  (2003),  Intergrated   Geospasial   Technologies.  A Guide to   GPS, GIS  and Data logging, John  Willey  &  Sons,  Inc,  Hoboken,   New  Jersey Canada.",
+      "rev_number": 15,
+      "metadata_visibility": "show",
+      "status_changed": "2020-05-11 03:01:17",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "subjects": [
+        "GA",
+        "T1"
+      ],
+      "abstract": "Tahapan yang paling penting dalam pengolahan awal citra satelit adalah melakukan koreksi geometrik, sehingga citra tersebut sesuai dengan proyeksi peta dasar yang diinginkan. Koreksi geometrik bertujuan untuk mengoreksi kesalahan yang diakibatkan pergerakan satelit ketika diorbit dan sensor pada saat merekam object. Untuk menentukan ketelitian (accuracy) dari citra yang telah dikoreksi dapat diperoleh dengan cara membandingkan titik dari citra hasil proses dengan titik-titik kontrol (GCP) kemudian dihitung simpangan setiap titik pada arah X dan Y untuk menentukan Root Mean Square-nya (RMS). Citra Quickbird beresolusi spasial paling tinggi dibanding citra satelit komersial lainnya saat ini. Citra ini mudah sekali diinterpretasi secara visual. Meski demikian, para pakar inderaja saat ini masih bergulat dengan pengembangan metode ekstraksi informasi digital berbasis citra resolusi tinggi Quickbird. Resolusi spasial yang sangat tinggi telah melahirkan masalah baru dalam pengolahan data inderaja, di mana respons spektral obyek tidak berhubungan langsung dengan karakter obyek secara utuh, tetapi melalui bagian-bagian keseluruhan secara kompleks. Penelitian ini dilakukan untuk mengetahui akurasi geometrik citra Quickbird melalui Ketelitian hasil koreksi goometrik citra dikoreksi dengan beragam jumlah GCP yang ditempatkan secara merata sampai dengan 150 GCP menggunakan alat ukur sederhana GPS Type navigasi yang sangat mudah ditemukan dimana saja. Pengolahan data mengunakan kombinasi jumlah GCP yang berbeda-beda namun menghasilkan perbedaan yang tidak signifikan karena pergeseran terhadap jarak rata-rata terdapat hasil olah citra menghasilkan kesalahan yang bersifat acak (random). Semakin banyak GCP belum tentu menghasilkan ketelitian citra yang lebih baik, karena semakin hanyak data memungkinkan sebaran kesalahan akan semakin banyak. Proses koreksi menghasilkan pergeseran jarak lebihkecit atau sama dengan 2,11 meter. Hal ini masih dalam batas toleransi dari ketelitiaan ukuran GPS receiver tipe navigasi yang mencapai 3 meter.",
+      "projects": [
+        "armijon@eng.unila.ac.id"
+      ],
+      "eprintid": 19549,
+      "date_type": "completed"
+    },
+    {
+      "official_url": "https:\/\/armijon.com\/",
+      "title": "BANTUAN TEKNIS ANALISIS DAN PEMBUATAN  PETA CITRA SATELIT KEC. BLAMBANGAN UMPU DAN KEC. WAY TUBA",
+      "referencetext": "Lillesand, T. M. and Ralph W. Kiefer (1990) Penginderaan Jauh dan Interpretasi Citra. Edited by Sutanto. Gadjah Mada University Press.\r\n\r\nSutanto (1986), Penginderaan Jauh Jilid 1, Yogyakarta: Gadjah Dada University Press.\r\n\r\nSutanto (1987), Penginderaan Jauh Jilid 2, Yogyakarta: Gadjah Dada University Press.",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "status_changed": "2019-08-12 09:08:33",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Pelaksanaan kegiatan Bantuan Teknis Analisis dan Pembuatan Peta Citra Satelit Kec. Belambangan Umpu dan Kec. Way Tuba dilaksanakan sebagai bentuk dukungan Universitas Lampung dalam hal ini Fakultas  Teknik, Jurusan  Teknik  Sipil,  Program Studi Diploma Ill Teknik  Survei dan Pemetaan terhadap perencanaan pengembangan kawasan kota terpadu mandiri (KTM) di kecamatan Way Tuba dan rencana pengembangan kawasan perkotaan di kecamatan Blambangan Umpu. Kegiatan  inl dilaksanakan dari tanggal  11  sampai dengan 13 November  2011.  Tim pelaksana terdiri dari Armijon,  S.T.,  M.T.  sebagai Ketua, dan 4 anggota yaitu  : Ir.  Yohannes,  M.T.,  Ir.  Fauzan Murdapa,  M.T.,  Citra  Dewi, S.T.,M.Eng., Romi Fadly, S.T. .\r\nKegiatan teknis ini meliputi beberapa hal, yaitu Penajaman citra (dilakukan oleh Armijon,  S.T.,  M.T),  Koreksi geometrik (dilakukan  oleh Ir. Yohannes, M.T.), lnterpretasi  citra  (dilakukan  oleh  Ir.  Fauzan Murdapa,  M.T.), Klasifikasi citra (dilakukan oleh  Citra Dewi,  S.T.,M.Eng.) dan Kartografi (dilakukan oleh Romi Fadly, S.T.).\r\nHasil koreksi geometrik dari pengolahan citra ALOS yang akan dibuat peta citra satelit diperoleh  nilai  RMSE  sebesar 0, 797 piksel.  Hal  tersebut memenuhi  syarat ketelitian untuk pembuatan peta citra satelit yaitu nilai RMSE > 0.5 piksel.",
+      "eprintid": 13801,
+      "date_type": "completed",
+      "ispublished": "unpub",
+      "publisher": "Lembaga Pengabdian Kepada Masyarakat Unila",
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 13801,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26823",
+            "formatdesc": "Laporan Pengabdian Peta Citra Blambangan Umpu dan Way Tuba",
+            "docid": 26823,
+            "main": "Laporan Peta Citra Blambangan Umpu Way Tuba for REPO.pdf",
+            "files": [
+                {
+                  "objectid": 26823,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120353",
+                  "datasetid": "document",
+                  "filesize": 5263153,
+                  "fileid": 120353,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-12 06:58:58",
+                  "filename": "Laporan Peta Citra Blambangan Umpu Way Tuba for REPO.pdf",
+                  "hash": "43276d227edd9414e0793bc25c6b0299"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13801",
+      "lastmod": "2019-08-12 09:08:33",
+      "userid": 102,
+      "datestamp": "2019-08-12 09:08:33",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Armijon"
+          }
+        },
+        {
+          "id": "yohannessp@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Yohannes",
+            "honourific": null,
+            "given": "Yohannes"
+          }
+        },
+        {
+          "name": {
+            "given": "Fauzan",
+            "honourific": null,
+            "family": "Murdapa",
+            "lineage": null
+          },
+          "id": "fauzan.murdapa@eng.unila.ac.id"
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null,
+            "given": "Citra"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadly",
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/01\/38\/01",
+      "date": "2012-02-27",
+      "contact_email": "armijon@eng.unila.ac.id",
+      "type": "other",
+      "funders": [
+        "LPPM Unila"
+      ],
+      "keywords": "Peta Citra Satelit, Belambangan Umpu dan Way Tuba, Citra ALOS",
+      "divisions": [
+        "FT13"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "referencetext": "Lillesand, T. M. and Ralph W. Kiefer (1990) Penginderaan Jauh dan Interpretasi Citra. Gadjah Mada University Press.\r\n\r\nSutanto (1986), Penginderaan Jauh Jilid 1, Yogyakarta: Gadjah Dada University Press.\r\n\r\nAnonim. (n.d.). Spatial Data Models And Spatial Data Structures.\r\n\r\nMunir, R. (2007). Algoritma dan pemrograman dalam bahasa Pascal dan C - Buku 1 (3rd ed.). Informatika Bandung.\r\n\r\nSamet, H. (1995). Spatial Data Structures, 361–385.",
+      "official_url": "https:\/\/armijon.com\/",
+      "title": "PELATIHAN GEOGRAPHIC INFORMATION  SYSTEM DAN EDITING CITRA SATELIT DINAS PEKERJAAN UMUM KAB.WAY KANAN",
+      "abstract": "Pelaksanaan  kegiatan Pelatihan Geographic  Information  System dan Editing  Citra Satelit Dinas Pekerjaan  Umum Kab. Way Kanan dilaksanakan  sebagai  bentuk  dukungan Universitas Lampung dalam  hal ini Fakultas  Teknik,  Jurusan  Teknik  Sipil,  Program  Studi  Diploma III Teknik Survei  dan  Pemetaan terhadap  peningkatan sumber  daya  manusia pada dinas  pekerjaan Lin .um  kabupaten  Way  Kanan. Kegiatan ini dilaksanakan dari  tanggal  31  Januari  2012  sampai  dengan  03 Februari  2012.  Tim pelaksana  terdiri  dari Armijon,  S.T.,  M.T.  sebagai  Ketua, dan 4 anggota yaitu :  Ir.  Yohannes, M.T.,  Ir.  Fauzan  Murdapa,  M.T.,  Suyadi, S.T.,  M.T., Citra Dewi,  S.T.,M.Eng. Materi yang diberikan  pada kegiatan  pelatihan  ini meliputi  :  Dasar-dasar Pemetaan  (disampaikan  oleh  Suyadi. S.T.,  M.T.), Konsep dasar SIG  dan Penginderaan  jauh serta pengenalan  software  SIG  (disampaikan  oleh  Ir. Yohannes,  M.T.),  Aplikasi  SIG  menggunakan  ArcView (disampaikan  oleh Ir.  Fauzan  Murdapa, M.T.), Analisis dengan SIG  dan  Kartografi (disampaikan  oleh  Citra  Dewi, S.T .. M.Eng.)  dan Dasar Pemograman  SIG (disampaikan  oleh Armijon,  S.T.,  M.T). Setelah diberikan  materi tersebut,  team pelatih melakukan  evaluasi terhadap  hasii  praktik oleh  peserta.  Evaluasi yang  dilakukan  meliputi pengambilan  data,  pengolahan  data dan penyajian  data  menggunakan GIS.",
+      "subjects": [
+        "T1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/eng.unila.ac.id\/"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-08-19 03:33:54",
+      "date_type": "completed",
+      "eprintid": 13811,
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13811",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26835",
+            "formatdesc": "PELATIHAN GIS DAN EDITING CITRA SATELIT DINAS PU KAB.WAY KANAN",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2019-08-12 16:34:08",
+                  "hash_type": "MD5",
+                  "hash": "c567594e7af830506793e02b366a2463",
+                  "filename": "Laporan Pengabdian Pelatihan SIG PU Waykanan.pdf",
+                  "fileid": 120470,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3062206,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120470",
+                  "objectid": 26835
+                }
+            ],
+            "main": "Laporan Pengabdian Pelatihan SIG PU Waykanan.pdf",
+            "docid": 26835,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "validuser",
+            "eprintid": 13811
+          }
+      ],
+      "ispublished": "unpub",
+      "datestamp": "2019-08-19 03:33:54",
+      "userid": 102,
+      "lastmod": "2019-08-19 03:33:54",
+      "date": "2012-06-29",
+      "dir": "disk0\/00\/01\/38\/11",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Armijon"
+          }
+        },
+        {
+          "id": "yohannessp@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Yohannes",
+            "lineage": null,
+            "given": "Yohannes"
+          }
+        },
+        {
+          "name": {
+            "given": "Fauzan",
+            "lineage": null,
+            "family": "Murdapa",
+            "honourific": null
+          },
+          "id": "fauzan.murdapa@eng.unila.ac.id"
+        },
+        {
+          "id": "suyadi.1974@eng.unila.ac.id",
+          "name": {
+            "given": "Suyadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suyadi"
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Pelatihan GIS dan Editing  Citra Satelit, Dinas PU Kabupaten Way Kanan, Akusisi pengolahan dan penyajian  data  Citra dan Peta.",
+      "type": "other",
+      "contact_email": "armijon@eng.unila.ac.id"
+    },
+    {
+      "contact_email": "fajri_yanto@yahoo.com",
+      "keywords": "Tectonic, Seismic, GPS, Strain, Sunda Strait",
+      "publication": "Rekayasa, Jurnal Teknik Sipil dan Perencanaan",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Fajriyanto",
+            "honourific": null
+          },
+          "id": "fajri_yanto@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "family": "Rahmadi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "0852-7733",
+      "dir": "disk0\/00\/01\/37\/96",
+      "userid": 102,
+      "pagerange": "141-150",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26812",
+            "rev_number": 2,
+            "formatdesc": "Jurnal Potensi Bahaya Gempa dan Renggangan Selat Sunda",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120242",
+                  "objectid": 26812,
+                  "mtime": "2019-08-10 14:36:31",
+                  "hash_type": "MD5",
+                  "filename": "Journal Rekayasa-Potensi Bahaya Gempa dan Analisis Renggangan Selat Sunda.pdf",
+                  "hash": "1d9f339892fd2c5e8f0521c7c191b9f9",
+                  "fileid": 120242,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3860884,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 26812,
+            "main": "Journal Rekayasa-Potensi Bahaya Gempa dan Analisis Renggangan Selat Sunda.pdf",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13796
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13796",
+      "refereed": "TRUE",
+      "status_changed": "2019-08-12 09:08:19",
+      "title": "POTENSI BAHAYA GEMPA DAN ANALISIS REGANGAN DI SELAT SUNDA BERBASIS GPS (GLOBAL POSITIONING SYSTEM)",
+      "referencetext": "Kumoro,  Y.  dkk,  2009,   Potensi  kebencanaan   Geologi   don  Kerentanan   Sosial  sebagai Dasar Penyusunan   Tata  Ruang   di  Kabupaten    Tanggamus   Provinsi   Lampung, Prosiding  Pemaparan  Hasil Penelitian  Puslit Ceoteknologi   LIPI, Bandung.\r\n\r\nLatif,  Indra  T.  dkk,  2007,  Karakteristik   Daerah  Potensi  Bencana  Alam  Wilayah  Selat Sunda, Jurnal Departemen  Geografi,  FMIPA,  Universitas  Indonesia, Jakarta.\r\n\r\nNatawidjaja,   D.  dkk, 2007,  The Sumatran  Fault  Zone  :  From Source  to Hazard,  Journal of  Earthquake   and  Tsunami   Volume   1, Number   1, World  Scientific   Publishing Company, Research Grant UPI-Tectonic Observatory  Caltech-National  Scientific Foundation.\r\n\r\nPrarnurnijoyo,   S.  2008, Geometri  dan Kinematika  Sesar  Semangko  dari Citro Radar  dan Pengamatan  Mikrotektonik  di Lapangan,  Jurnal  Media Teknik,  Yogyakarta,  Tahun XXX, No.  3, hal. 284 -  289.\r\n\r\nSarsito,  D.A.   dkk,  2001, Studi Deformasi  Secara  Geometrik  :  Pengukuran,   Pengolahan Data   dan Analisis,   Laboratorium   Geodesi,   Departemen   Teknik  Geodesi,   FTSP, ITB, Bandung.\r\n\r\nSegall, P. dkk,  1997, GPS Applications   for Geodynamics  and Earthquake  Studies,  Annu. Rev. EarthPlanet  Science, No. 25, hal. 301-336.\r\n\r\nSubarya,  C.  2004,  The  Maintenance   of Indonesia   Geodetic   Control  Network  :  I.n  The Earth Deforming  Zones,  3rd FIG Regional  Conference,  Jakarta.\r\n\r\nSubasyah, dkk., 2008, Penentuan Arah Pipa Gas Bawah Laut Perairan Selat Sunda Menggunakan   Metode  lnversi  Magnet,  Jurnal  M&E,  Geologi  Kelautan,  Bandung, Vol. 6, No.  3.\r\n\r\nWessel,  P.  dkk,  2006,  The  Generic  Mapping   Tools  (GMT)   Version  4.1.3   :   A  Map­ Mapping  Tutorial,  School of Ocean and Earth  Science  and Technology,  University of Hawaii  at Manoa, USA.\r\n\r\nWirasantosa,   S.   1997,  Studi   Geodinamika    Tepian  Aktif   Busur  Sunda   Bagian   Barat, Prosiding  Tridasawarsa  Puslitbang  Geoteknologi - LIPI, Bandung,  No. 2, hal.  9-16.\r\n\r\nYudhicara,  dkk, 2008, Tsunamigenik  di Selat Sunda  :  Kajian  Terhadap  Katalog  Tsunami Soloviev,  Jurnal  Geologi Indonesia,  Vol. 3, No.  4, hal.  241-251.\r\n\r\nZakaria,  A.  2009, Sosialisasi  Renstra  Mitigasi  Bencana  Kota  Bandar  Lampung,  Laporan Pengabdian pada Masyarakat, Universitas  Lampung, Lampung.",
+      "rev_number": 16,
+      "volume": 16,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT13"
+      ],
+      "date": "2012-12",
+      "lastmod": "2019-08-12 09:08:19",
+      "datestamp": "2019-08-12 09:08:19",
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "eprintid": 13796,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "subjects": [
+        "Q1",
+        "T1"
+      ],
+      "abstract": "The Sunda Strait is the meeting of two tectonic plates, the Eurasian plate and Indo-Australian plate. Sunda Strait has a fairly high seismic activity. This is shown by several earthquakes that have occurred in the Sunda Strait. The high seismic activity was caused by the presence of active faults and subduction zones in the Sunda Strait. Based oil the fairly high seismic activity in the Sunda Strait is necessary to do research on the strain rate that occurred in the Sunda Strait. In this study GPS observations contained in the Sunda Strait and parts of Java Barat. Based on the results of GPS data processing, the observation point in the western part of the Sunda Strait has velocity in the direction of the North West with a value ranging from 2.21 to 3.16 shift in cm \/ year and the eastern part of the Sunda Strait between 2.09 to 3.24 shift cm\/year to the Northeast. Based on the pattern of strain, the West tends to have an extension of the Sunda Strait, as well as for the eastern Sunda Strait. While the northern part of the Sunda Strait compressed. This shows the activity and the Sumatran Subduction Fault in the area.",
+      "official_url": "http:\/\/ft-sipil.unila.ac.id\/ejournals\/index.php\/jrekayasa"
+    },
+    {
+      "type": "other",
+      "contact_email": "yohannessp@gmail.com",
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Ketelitian google earth, GCP, RMSE, Penyimpangan geometrik google earth",
+      "funders": [
+        "Hibah Berbasis DIPA Fakultas Teknik Universitas Lampung"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yohannes",
+            "honourific": null,
+            "given": "Yohannes"
+          },
+          "id": "yohannessp@gmail.com"
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Armijon"
+          },
+          "id": "armijon@eng.unila.ac.id"
+        }
+      ],
+      "date": "2012-09-21",
+      "dir": "disk0\/00\/01\/95\/53",
+      "lastmod": "2020-05-11 03:02:24",
+      "userid": 102,
+      "datestamp": "2020-05-11 03:02:24",
+      "documents": [
+          {
+            "eprintid": 19553,
+            "placement": 1,
+            "security": "public",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "docid": 32795,
+            "main": "2012 Laporan Penelitian Ketelitian Google earth terhadap Peta Lampung.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163357",
+                  "objectid": 32795,
+                  "hash": "d79c850bc7c70a7cd7896c204f028217",
+                  "filename": "2012 Laporan Penelitian Ketelitian Google earth terhadap Peta Lampung.pdf",
+                  "mtime": "2020-05-10 03:46:18",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 163357,
+                  "filesize": 2251571,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32795",
+            "rev_number": 2,
+            "formatdesc": "Analisis Tingkat Penyimpangan Geometrik Citra Google Earth Terhadap Peta Bandar Lampung"
+          }
+      ],
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "ispublished": "unpub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19553",
+      "full_text_status": "public",
+      "eprintid": 19553,
+      "date_type": "completed",
+      "related_url": [
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-05-11 03:02:24",
+      "abstract": "Ketepatan data dan atau informasi georeferensi menunjukkan keberadaan posisi atau lokasi suatu obyek pada peta terhadap kedudukan sebenarnya dipermukaan bumi dengan mengacu pada suatu sistem referensi di bumi. Pengertian georeferensi memiliki persyaratan-persyaratan geometrik dan posisi yang benar. Geometrik dimaksudkan sebagai hal-hal yang berhubungan dengan besaran­ besaran dan bentuk-bentuk yang dapat diukur, seperti jarak, sudut, tinggi, luas, segitiga, lingkaran, dan lain sebagainya. Perolehan informasi geospasial saat ini dimudahkan dengan adanya teknologi internet. Salah satu cara untuk mendapatkan informasi geospasial adalah dengan memanfaatkan Google Earth. Google Earth adalah sebuah software untuk melihat permukaan bumi, melalui pencitraan gambar satelit. Google Earth memberikan kemudahan dalam melihat lebih dalam dari suatu daerah dengan keunggulan penggunaan diantaranya adalah murah, cakupan data seluruh dunia dan infomasi\/citra mudah didapat. aplikasi ini mampu menyajikan kondisi suatu lokasi secara visual (foto) dari berbagai tingkat ketinggian. Namun keterbatasan citra Google earth diantaranya adalah tidak adanya informasi Metadata mengenai perolehan citra dan seberapa besar tingkat akurasi geometrik citra yang diberikan. Berdasarkan hal tersebut dilakukan penelitian ini untuk mengetahui akurasi geometrik citra yang diperoleh dari situs Google Earth terhadap koordinat peta Bandar Lampung. Sumber data citra diperoleh Google Earth yang belum memiliki georeference. Pengolahan data dilakukan dengan metode pengolahan citra digital. Sebagai pembanding dan kontrol ketelitian citra digunakan peta Bandar Lampung skala 1: 1000 yang dianggap teliti dan benar secara geometrik. Ketelitian citra akan di dilihat berdasarkan RMS hasil pengolahan citra. RMS merupakan ukuran ketelitian dari penentuan titik kontrol tanah pada citra dalam ukuran piksel. Tingkat akurasi dari citra hasil koreksi geometrik diketahui dengan menghitung nilai rata-rata RMS keseluruhan, kemudian dilakukan penghitungan RMSE untuk: posisi, jarak, dan luas pada citra Goole Earth yang telah terektifikasi. ICP untuk Check Point menggunakan Peta dasar bandar Lampung. Akhirnya kajian dilakukan dengan membandingkan standar ketelitian (RMSE) posisi GCP dengan posisi check point. Berdasarkan hasil pengolahan data meliputi objek titik, garis dan luasan,terdapat penyimpangan geometrik citra google earth terhadap peta bandar lampung yaitu sebesar : titik. (0.2m), garis (0.3m), luasan (0.3m), penyimpangan tersebut Berdasarkan basil koreksi geometrik data citra google earth dengan menggunakan 8 Ground Control Point (GCP). Pergeseran yang dihasilkan antara citra google earth terhadap jarak di peta bandar lampung, antara lain Titik 0,50m; jarak 0,52m; Luasan 0,57m. Rata rata penyimpangan geometrik sebesar 0,53m.",
+      "subjects": [
+        "GA",
+        "T1"
+      ],
+      "referencetext": "Google Earth, (2007), Explore, Search and Discover, Http:\/\/ www.earth google.com. http:\/\/obengware.com\/news\/index.php?id=3569, 2009\r\n\r\nIsnandar, N dan Agoes S.S (2007), Peluang Pemanfaatan Google Earth untuk Pemetaan Bidang Tanah, Prosiding Percepatan Pendataan Potensi Laban di Indonesia Melalui Peran Teknologi dan Informasi, FIT-ISI, Jakarta 24 Oktober 2007\r\n\r\nKhafid, 2007, Peta Global Wujud Globalisasi Dunia Pemetaan Http:\/\/www.bakosurtanal.go.id.\r\n\r\nLillesand.M.T clan R. W. Kieffer, (1997), Pengindraan Jauh dan Interpretasi Citra, Gadjah Mada University Press, Y ogyakarta.\r\n\r\nMunir.R, (2004). Pengo\/ahan Citro Digital dengan Pendekatan Algoritma, Infonnatika Bandung.\r\n\r\nPP RI No.10 Tahun 2000, Tingkat Ketelitian Peta Penataan Ruang Wilayah.\r\n\r\nThnrston.J, Thomas K.P dan J.Patrick Moore, (2003), Intergrated Geospasial Technologies, A Guide to GPS, GIS and Data Logging, John Willey & Sons, Inc, Hoboken, New Jersey Canada.\r\n\r\nWikipedia Indonesia, (2007), Ensiklopedia Bebas Berbahasa Indonesia, http:\/\/www.wikipedia.or.id",
+      "title": "Analisis Tingkat Penyimpangan Geometrik Citra Google Earth Terhadap Peta Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 11
+    },
+    {
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Pelaksanaan kegiatan Bantuan Teknis Pembuatan Peta Garis Kelurahan Talang Kecamatan Teluk Betung Selatan dilaksanakan sebagai bentuk dukungan Universitas Lampung dalam hal ini Fakultas Teknik, Jurusan Teknik Sipil, Program Studi Diploma III Teknik Survei dan Pemetaan terhadap kebutuhan akan tersedianya Peta Garis tepatnya di Kelurahan Talang Kecamatan Teluk Betung Selatan. Kegiatan ini dilaksanakan dari tanggal 07 Juli 2012 sampai dengan 07 Agustus 2012. Tim pelaksana terdiri dari Ir. Yohannes, M.T. sebagai Ketua, dan 4 anggota yaitu : Ir. Fauzan Murdapa, M.T., Suyadi, S.T., M.T., Armijon, S.T., M.T., Citra Dewi, S.T.,M.Eng. Kegiatan teknis ini meliputi beberapa hal, yaitu Pemotongan citra dan koreksi geometrik (pada tahapan ini dilaksanakan oleh Suyadi, S.T.,M.T. dan Armijon, S.T., M.T.), Tahapan digitasi dilaksanakan oleh Citra Dewi, S.T.,M.Eng., tahapana kartografi dilaksanakan oleh Ir. Fauzan Murdapa, M.T., dan pengecekan terhadap hasil dan pencetakan (dilakukanoleh Ir. Yohannes, M. T.). Hasil dari kegiatan ini berupa Peta Garis Kelurahan Talang Kec. Teluk Betung Selatan skala 1:2000.",
+      "status_changed": "2019-08-19 03:33:37",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/eng.unila.ac.id\/"
+        },
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/yohannes-unila.blogspot.com\/",
+      "title": "BANTUAN TEKNIS PEMBUATAN PETA GARIS KELURAHAN TALANG KEC. TELUK BETUNG SELATAN",
+      "referencetext": "Irvine, Wiliam (1974). Surveying for C onstruction, Edisi kedua. London: McGraw-Hill Book Company.\r\n\r\nLillesand, T. M. and Ralph W. Kiefer (1990) Penginderaan Jauh dan Interpretasi Citra. Gadjah Mada University Press.\r\n\r\nSutanto (1986), Penginderaan Jauh Jilid 1, Yogyakarta: Gadjah Dada University Press",
+      "date_type": "completed",
+      "eprintid": 13810,
+      "datestamp": "2019-08-19 03:33:37",
+      "lastmod": "2019-08-19 03:33:37",
+      "userid": 102,
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13810",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "eprintid": 13810,
+            "security": "validuser",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "Laporan Pengabdian Peta Garis Kel Talang",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26833",
+            "docid": 26833,
+            "main": "Laporan Pengabdian Peta Garis Kel Talang.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120452",
+                  "objectid": 26833,
+                  "filesize": 2529270,
+                  "datasetid": "document",
+                  "mtime": "2019-08-12 16:24:09",
+                  "hash_type": "MD5",
+                  "hash": "1a0b3426b6ab478a775c6e2c12d6ab17",
+                  "filename": "Laporan Pengabdian Peta Garis Kel Talang.pdf",
+                  "fileid": 120452,
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "funders": [
+        "DIPA Fakultas Teknik Universitas Lampung"
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Peta Garis, Kelurahan Talang, Pemetaan",
+      "contact_email": "yohannessp@gmail.com",
+      "type": "other",
+      "dir": "disk0\/00\/01\/38\/10",
+      "date": "2012-09-20",
+      "creators": [
+        {
+          "id": "yohannessp@gmail.com",
+          "name": {
+            "family": "Yohannes",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yohannes"
+          }
+        },
+        {
+          "id": "fauzan.murdapa@eng.unila.ac.id",
+          "name": {
+            "given": "Fauzan",
+            "lineage": null,
+            "family": "Murdapa",
+            "honourific": null
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Armijon",
+            "given": "Armijon"
+          }
+        },
+        {
+          "id": "suyadi.1974@eng.unila.ac.id",
+          "name": {
+            "given": "Suyadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suyadi"
+          }
+        },
+        {
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dewi"
+          },
+          "id": "citradewirohana@yahoo.com"
+        }
+      ]
+    }
+]
+

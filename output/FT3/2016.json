@@ -1,0 +1,813 @@
+[
+    {
+      "date_type": "published",
+      "event_title": "Seminar Nasional Tahunan Teknik Mesin XV",
+      "eprintid": 3298,
+      "event_location": "ITB Bandung",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Secara umum penelitian ini menjelaskan tentang perancangan, pembuatan dan pengujian compact heat exchanger sebagai alat pemanas udara pada mesin pengering kopi mekanik. Sumber panas yang digunakan adalah air panas dari boiler. Perancangan dilakukan untuk mengetahui dimensi dari heat exchanger agar diperoleh temperatur udara panas sesuai dengan temperatur ideal pengeringan biji kopi sekitar (50 – 60) C. Dengan menggunakan spesifikasi surface tipe 7.75 – 5 \/ 8T dari Kays and London diperoleh dimensi heat exchanger dengan panjang pipa 30 cm dan panjang serta lebar sirip masing-masing 30 cm. Pengujian dilakukan dengan laju aliran massa air 0,067 kg\/s, temperatur air masuk 940C, laju aliran massa udara 0,22 kg\/s dan temperatur udara masuk 32 C, maka heat exchanger mampu menghasilkan temperatur udara keluar sebesar 760C. Selanjutnya udara tersebut masuk ke ruang pengering dengan kisaran temperatur sekitar 500C. Pengujian juga dilakukan terhadap empat variasi laju aliran massa udara masuk masing-masing 0.22 kg\/s, 0.38 kg\/s, 0.45 kg\/s, dan 0.49 kg\/s. Dari hasil pengujian diperoleh pengaruh laju aliran udara terhadap temperatur udara keluar dan efektifitas dari heat exchanger. Semakin tinggi laju aliran udara masuk maka temperatur udara yang keluar dan efektifitas heat exchanger akan semakin menurun, efektifitas maksimal yang diperoleh yaitu sebesar 73% dengan temperatur udara keluar maksimal yaitu 76 C.\r\n\r\nKata kunci : compact heat exchanger, fin and tube, pengering kopi",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 02:48:13",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "PERANCANGAN, PEMBUATAN DAN PENGUJIAN\r\nCOMPACT HEAT EXCHANGER PADA ALAT PENGERING KOPI",
+      "event_dates": "5-7 Oktober 2016",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "conference_item",
+      "date": "2016-10-05",
+      "dir": "disk0\/00\/00\/32\/98",
+      "creators": [
+        {
+          "name": {
+            "family": "Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yonanda"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yulian",
+            "honourific": null,
+            "given": "Nugraha"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Amrizal",
+            "given": "Amrizal"
+          }
+        }
+      ],
+      "datestamp": "2017-06-12 02:48:13",
+      "corp_creators": [
+        "Magister Teknik Mesin",
+        "Teknik Mesin",
+        "Magister Teknik Mesin"
+      ],
+      "userid": 716,
+      "lastmod": "2017-06-12 02:48:13",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3298",
+      "refereed": "TRUE",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 3298,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3198",
+            "docid": 3198,
+            "main": "Paper SNTTM 2016 Amrizal dkk.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1076972,
+                  "fileid": 22959,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-06-04 01:38:59",
+                  "hash_type": "MD5",
+                  "hash": "69bfca2978606ced64b8acb97799cfc1",
+                  "filename": "Paper SNTTM 2016 Amrizal dkk.pdf",
+                  "objectid": 3198,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22959"
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper"
+    },
+    {
+      "datestamp": "2017-06-12 02:46:54",
+      "corp_creators": [
+        "Magister Teknik Mesin",
+        "Teknik Mesin",
+        "Magister Teknik Mesin"
+      ],
+      "lastmod": "2017-06-12 02:46:54",
+      "userid": 716,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3294",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3203",
+            "main": "Paper SNTTM 2016 Amrizal dkk.pdf",
+            "docid": 3203,
+            "files": [
+                {
+                  "objectid": 3203,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22989",
+                  "datasetid": "document",
+                  "filesize": 1076972,
+                  "mime_type": "application\/pdf",
+                  "fileid": 22989,
+                  "filename": "Paper SNTTM 2016 Amrizal dkk.pdf",
+                  "hash": "69bfca2978606ced64b8acb97799cfc1",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-04 02:52:19"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 3294,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FT3"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/32\/94",
+      "date": "2016-10-05",
+      "creators": [
+        {
+          "name": {
+            "given": "Yonanda",
+            "family": "Ahmad",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Yulian",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nugraha"
+          }
+        },
+        {
+          "name": {
+            "family": "Amrizal",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amrizal"
+          }
+        }
+      ],
+      "abstract": "Secara umum penelitian ini menjelaskan tentang perancangan, pembuatan dan pengujian compact heat exchanger sebagai alat pemanas udara pada mesin pengering kopi mekanik. Sumber panas yang digunakan adalah air panas dari boiler. Perancangan dilakukan untuk mengetahui dimensi dari heat exchanger agar diperoleh temperatur udara panas sesuai dengan temperatur ideal pengeringan biji kopi sekitar (50 – 60) C. Dengan menggunakan spesifikasi surface tipe 7.75 – 5 \/ 8T dari Kays and London diperoleh dimensi heat exchanger dengan panjang pipa 30 cm dan panjang serta lebar sirip masing-masing 30 cm. Pengujian dilakukan dengan laju aliran massa air 0,067 kg\/s, temperatur air masuk 940C, laju aliran massa udara 0,22 kg\/s dan temperatur udara masuk 32 C, maka heat exchanger mampu menghasilkan temperatur udara keluar sebesar 760C. Selanjutnya udara tersebut masuk ke ruang pengering dengan kisaran temperatur sekitar 50C. Pengujian juga dilakukan terhadap empat variasi laju aliran massa udara masuk masing-masing 0.22 kg\/s, 0.38 kg\/s, 0.45 kg\/s, dan 0.49 kg\/s. Dari hasil pengujian diperoleh pengaruh laju aliran udara terhadap temperatur udara keluar dan efektifitas dari heat exchanger. Semakin tinggi laju aliran udara masuk maka temperatur udara yang keluar dan efektifitas heat exchanger akan semakin menurun, efektifitas maksimal yang diperoleh yaitu sebesar 73% dengan temperatur udara keluar maksimal yaitu 76C.",
+      "subjects": [
+        "TJ"
+      ],
+      "status_changed": "2017-06-12 02:46:54",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 15,
+      "event_type": "conference",
+      "title": "PERANCANGAN, PEMBUATAN DAN PENGUJIAN\r\nCOMPACT HEAT EXCHANGER PADA ALAT PENGERING KOPI",
+      "event_dates": "5-7 Oktober 2016",
+      "date_type": "published",
+      "eprintid": 3294,
+      "event_title": "Seminar Nasional Tahunan Teknik Mesin XV",
+      "event_location": "ITB Bandung"
+    },
+    {
+      "datestamp": "2023-03-27 00:54:54",
+      "pagerange": "1-7",
+      "lastmod": "2023-03-27 00:54:54",
+      "userid": 528,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49247",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "contributors": [
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "name": {
+            "given": "Gusri",
+            "lineage": null,
+            "family": "ibrahim",
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "eprintid": 49247,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "328-890-1-PB.pdf",
+            "docid": 188793,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 178460,
+                  "mime_type": "application\/pdf",
+                  "fileid": 534972,
+                  "hash": "b2307fafbf97824e0ef385c945923fdd",
+                  "filename": "328-890-1-PB.pdf",
+                  "mtime": "2023-03-26 01:50:39",
+                  "hash_type": "MD5",
+                  "objectid": 188793,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534972"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188793",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Untag 45",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/04\/92\/47",
+      "date": "2016-08-12",
+      "publication": "Jurnal kajian teknik mesin",
+      "creators": [
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Ibrahim",
+            "honourific": null,
+            "given": "Gusri"
+          }
+        }
+      ],
+      "issn": "2406-9671",
+      "subjects": [
+        "TS"
+      ],
+      "abstract": "The use of magnesium material, as alternative to iron and steel, is becoming more popular. Besides the fact that it is lighter, magnesium is popular because it is available in a quite large quantity in this world. To make magnesium to be a machine component, there is a process needed to be done, which is known as machining process. The machining process done in several conditions doe to the pharamater or factor in machining process.. The examples of cutting pharameter  are feed rate, cutting speed, and deep of cutting. This research used magnesium as the material of research. The purpose of this research is to investigate the influence of cutting pharameter to the surface roughness of magnesium machined with milling process ang supplied with cooling air from vortex tube cooler. Cutting pharameter used in this research are feed rate and cutting speed. Feed rate used was three levels, those are 0,15 mm\/rev, 0,20 mm\/rev, and 0,25 mm\/rev. Cutting speed used also three levels, those are 23,18 m\/min, 32,15 m\/min and 42,7 m\/min. Cooling air is released from vortex tube cooler with 15 oC of temperature. The result of this research is found that feed rate affect the number of magnesium  surface roughness very significan. It can makes the number of surface roughness higher. Another pharameter, cutting speed also affect the number of magnesium surface roughness. It can make the number of surface roughness decreased. The number of magnesium surface roughness is also affected by nose radius, vibration, and cutting force. Keywords",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-27 00:54:54",
+      "volume": 1,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "ANALISA NILAI KEKASARAN PERMUKAAN MAGNESIUM  YANG DIFREIS DALAM KONDISI TERSUPLAI UDARA DINGIN",
+      "official_url": "http:\/\/journal.uta45jakarta.ac.id\/index.php\/jktm\/article\/view\/328",
+      "date_type": "published",
+      "eprintid": 49247
+    },
+    {
+      "eprintid": 2611,
+      "event_title": "ESTIC",
+      "date_type": "published",
+      "title": "Application of Taguchi Method L9 for Tool Life and Surface Roughness in Turning of Inconel 718 under Dry Cutting",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "event_type": "conference",
+      "eprint_status": "archive",
+      "status_changed": "2018-06-28 02:01:58",
+      "abstract": "Taguchi method offers a simple and systematic approach to optimize performance, quality and cost in manufacturing process. Taguchi optimization methodology with orthogonal array of L9 was applied to optimize cutting parameters in turning of inconel 718 with PVD coated cemented carbide tools. The turning parameters evaluated were cutting speed of (50, 70 and 80) m\/min, of (0.20, 0.25 and 0.30) mm\/rev  and depth of (0.30, 0.40, and 0.50) mm. The results show that the most significant factor which effects on the tool life was the cutting speed with the significant value of 0.019%.  The depth of cut also gave significantly on the tool life of machining of inconel 718 in dry cutting condition. And other hand, the most significant factor which influences the surface roughness was the . The percentage of significant value of the was 0.032% or the  gave contribution of 93.61%. The optimal machining condition for the tool life was at the lowest cutting parameters. Then the optimal condition for the surface roughness was at cutting speed of 70 m\/min,  of 0.20 mm\/rev, and depth of cut of 0.40 mm.\r\n\r\nKeywords: Taguchi Method, inconel 718, tool life, surface roughness, turning",
+      "subjects": [
+        "TJ"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ibrahim",
+            "lineage": null,
+            "given": "Gusri Akhyar"
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hamni",
+            "lineage": null,
+            "given": "Arinal"
+          },
+          "id": "arinal.hamni@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null,
+            "given": "Jamiatul"
+          },
+          "id": "jamiatulakmal@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/00\/26\/11",
+      "date": "2016-08-30",
+      "type": "conference_item",
+      "contact_email": "gusri.akhyar@eng.unila.ac.id",
+      "divisions": [
+        "FT3"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 2494,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18050",
+                  "datasetid": "document",
+                  "filesize": 1305173,
+                  "fileid": 18050,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 10:06:30",
+                  "hash": "a1dd6b1fde8c7cb4bd4fe00b33a91746",
+                  "filename": "Prosiding.pdf"
+                }
+            ],
+            "main": "Prosiding.pdf",
+            "docid": 2494,
+            "rev_number": 5,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2494",
+            "formatdesc": "-",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2611,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "family": "Ibrahim",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gusri Akhyar"
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hamni",
+            "given": "Arinal"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "arinal.hamni@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Jamiatul",
+            "lineage": null,
+            "honourific": null,
+            "family": "Akmal"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "jamiatulakmal@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2611",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Mechanical Engineering Department",
+        "Mechanical Engineering Department",
+        "Mechanical Engineering Department"
+      ],
+      "lastmod": "2018-06-28 02:01:58",
+      "userid": 528,
+      "pagerange": "139-143",
+      "datestamp": "2018-06-28 02:01:58"
+    },
+    {
+      "official_url": "https:\/\/www.springer.com\/gp\/book\/9784431556800",
+      "title": "Groundwater in Peatland (Tropical Peatland Ecosystem Book)",
+      "place_of_pub": "Tokyo Japan",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "eprint_status": "archive",
+      "status_changed": "2020-02-25 04:08:09",
+      "abstract": "In a tropical peat-forest in Central Kalimantan, Indonesia, massive drainage canal excavation led to a significant groundwater table decrease and to peatland degradation due to wildfires. To assess how to maintain a high groundwater table in tropical peatlands, groundwater levels and canal water levels were monitored by drilling 32 shallow wells, 6 deep wells and 13 canal sites in the Block-C North area of the Ex-Mega Rice Project area. A static GPS survey was done to determine the altitudes of all observation sites, and contour maps of the ground surface and of the shallow groundwater table were made at three different times. From these results, the regional characteristics of the shallow and deep groundwater movements were clarified. Furthermore, to examine the present and the past groundwater condition in this area and also to predict a future one, we established a numerical simulation model based on the MODFLOW. According to the calibrated model, the groundwater level in the peat layer dropped to more than 2 m below the surface near Kalampangan Canal during the 2009 drought period when a severe wildfire occurred. Before the Mega Rice Project (MRP), the groundwater potentials were higher than they are at present. If several proposed dams are constructed along the Kalampangan Canal, the dam efficiency needed to maintain a high water level in the peat layer is estimated to be more than 10 cm within 400 m of the canal in the 2009 drought period.",
+      "subjects": [
+        "GE",
+        "TA",
+        "TD"
+      ],
+      "eprintid": 18199,
+      "date_type": "published",
+      "isbn": "ISBN 978-4-431-55681-7",
+      "publisher": "Springer Tokyo",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18199,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31338",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 309060,
+                  "mime_type": "application\/pdf",
+                  "fileid": 153212,
+                  "filename": "BOOK CHAPTER.pdf",
+                  "hash": "4ecc3e0c9e679f221b2d735e0b89ce2f",
+                  "mtime": "2020-02-24 18:34:30",
+                  "hash_type": "MD5",
+                  "objectid": 31338,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153212"
+                }
+            ],
+            "docid": 31338,
+            "main": "BOOK CHAPTER.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18199",
+      "full_text_status": "public",
+      "lastmod": "2020-02-25 04:08:09",
+      "userid": 874,
+      "datestamp": "2020-02-25 04:08:09",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Yoshiyuki",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ishii"
+          }
+        },
+        {
+          "name": {
+            "given": "Ken",
+            "family": "Koizumi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hiroshi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fukami"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Koichi",
+            "honourific": null,
+            "family": "Yamamoto",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hidenori",
+            "lineage": null,
+            "honourific": null,
+            "family": "Takahashi"
+          }
+        },
+        {
+          "name": {
+            "given": "Suwido H.",
+            "honourific": null,
+            "family": "Limin",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Kusin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kitso"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Aswin",
+            "lineage": null,
+            "family": "Usup",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Susilo",
+            "lineage": null,
+            "given": "Gatot E"
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "pages": 651,
+      "dir": "disk0\/00\/01\/81\/99",
+      "date": 2016,
+      "type": "book_section",
+      "divisions": [
+        "FT3"
+      ],
+      "book_title": "Tropical Peatland Ecosystem Book"
+    },
+    {
+      "documents": [
+          {
+            "main": "Artikel_Irza_SNTTM_XV.pdf",
+            "docid": 2682,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 19337,
+                  "hash": "49dad5da475bad12c3b79fac4fb18632",
+                  "filename": "Artikel_Irza_SNTTM_XV.pdf",
+                  "mtime": "2017-06-01 08:58:24",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 3225552,
+                  "objectid": 2682,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19337"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2682",
+            "eprintid": 2823,
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2823",
+      "userid": 464,
+      "pagerange": "727-732",
+      "creators": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana"
+          }
+        }
+      ],
+      "publication": "Prosiding Seminar Nasional TahunanTeknik Mesin Ke-15 Bandung 5-6 Oktober 2016",
+      "dir": "disk0\/00\/00\/28\/23",
+      "contact_email": "irza.sukmana@gmail.com",
+      "keywords": "Baut tulang, logam magnesium, mampu luruh",
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "title": "Aplikasi Logam Magnesium dan Paduannya Sebagai Material Baut Tulang Mampu Luruh",
+      "note": "Prosiding Seminar Nasional",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "volume": "XV",
+      "status_changed": "2017-06-02 12:17:32",
+      "publisher": "BKSTM Indonesia dan ITB",
+      "ispublished": "pub",
+      "number": "MT-034",
+      "contributors": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "family": "Hermanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Asep"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Burhanuddin",
+            "honourific": null,
+            "given": "Yanuar"
+          }
+        }
+      ],
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2017-06-02 12:17:32",
+      "datestamp": "2017-06-02 12:17:32",
+      "date": "2016-10-05",
+      "type": "article",
+      "divisions": [
+        "FT3"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Paper ini mereview peluang dan tantangan aplikasi logam magnesium dan paduannya sebagai material baut tulang mampu luruh. Dalam bidang ilmu kedokteran, baut tulang tidak luruh (non-degradable) merupakan material yang paling banyak dipakai untuk memperbaiki kerusakan pada patah tulang. Dengan inovasi baru dan perkembangan material maju, saat ini telah dimungkinkan penggunaan baut tulang mampu luruh (biodegradable bone screw) yang berbahan polimer maupun logam magnesium. Pakar teknologi kedokteran dan rekayasa biomedis meyakini potensi aplikasi magnesium dan paduannya sebagai salah satu kandidat utama biomaterial baut tulang mampu luruh di masa datang. Paduan magnesium serta beberapa temuan terbaru untuk material baut tulang mampu luruh juga akan dibahas dalam paper ini.",
+      "subjects": [
+        "TJ"
+      ],
+      "projects": [
+        "Hibah Kompetensi, Ristekdikti Indonesia grant contract No.: 78\/UN26\/LPPM\/2016"
+      ],
+      "eprintid": 2823,
+      "date_type": "published"
+    },
+    {
+      "dir": "disk0\/00\/00\/32\/84",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sukmana",
+            "lineage": null,
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Shirley",
+            "lineage": null,
+            "family": "Savetlana",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Asep",
+            "family": "Hermanto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Burhanuddin",
+            "honourific": null,
+            "given": "Yanuar"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Jasmawati",
+            "given": "Noor"
+          },
+          "id": null
+        }
+      ],
+      "funders": [
+        "Kemernristekdikti"
+      ],
+      "contact_email": "irza.sukmana@gmail.com",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3284",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3284,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3185",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22871",
+                  "objectid": 3185,
+                  "filename": "FULL-PROGRAM-BOOK_5 CMMS UTM 2016.pdf",
+                  "hash": "5fc16fdc2e2166bea4902dada6f7d3c7",
+                  "mtime": "2017-06-03 10:37:10",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 22871,
+                  "filesize": 2249050,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 3185,
+            "main": "FULL-PROGRAM-BOOK_5 CMMS UTM 2016.pdf"
+          }
+      ],
+      "pagerange": "33-33",
+      "userid": 464,
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "A Review on Magnesium-based Materials for Bone \r\nApplications",
+      "related_url": [
+        {
+          "type": "org",
+          "url": "http:\/\/www.utm.my\/cfc\/"
+        }
+      ],
+      "status_changed": "2017-06-12 03:51:35",
+      "date": "2016-11-13",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "conference_item",
+      "contributors": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "family": "Sukmana",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2017-06-12 03:51:35",
+      "corp_creators": [
+        "Unila",
+        "Universiti Teknologi Malaysia"
+      ],
+      "lastmod": "2017-06-12 03:51:35",
+      "event_location": "Kuala Lumpur, Malaysia",
+      "projects": [
+        "Hibah Kompetensi 2016"
+      ],
+      "eprintid": 3284,
+      "event_title": "The 2nd Composite Materials and Manufacturing Symposium (CMMS 2016)",
+      "event_type": "conference",
+      "event_dates": "November 13-14, 2016",
+      "abstract": "The use of biodegradable metallic-based material for \r\nbone applications as an implant as well for scaffolding\r\npurposes have been increasing significantly. The interest on biodegradable bone implant materials are driven from the increasing knowledge on biomedical materials and tissue engineering field to some positive clinical findings. Various biodegradable polymeric- and metallic-based materials have been used for bone screw, for instant. Biodegradable materials also desirable feature for bone scaffold application since the goal is that it uses as a temporary structure holding a growing bone tissues until the bone defect healed. Magnesium has a potential chance to serve as biodegradable bone implant material, as it has mechanical properties similar to natural bone, lightweight, and biocompatible approved. This article aims to report current development and future potential use of magnesium-based metal for bone implant application. Techniques on manufacturing process, mechanical performance, and biocompatibility assessment of magnesium and its alloys will also highlight.",
+      "subjects": [
+        "TJ"
+      ],
+      "eprint_status": "archive"
+    }
+]
+

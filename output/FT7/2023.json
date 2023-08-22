@@ -1,0 +1,164 @@
+[
+    {
+      "eprintid": 48899,
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Lampiran bukti kinerja kegiatan tambahan untuk usulan Guru Besar a.n. Irza Sukmana",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-10 09:43:05",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Kegiatan Tambahan GB",
+      "divisions": [
+        "FT7"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/04\/88\/99",
+      "date": 2023,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Irza",
+            "given": "Sukmana"
+          },
+          "id": "irza.sukmana@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2023-03-10 09:43:05",
+      "lastmod": "2023-03-10 09:43:05",
+      "userid": 464,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48899",
+      "full_text_status": "public",
+      "ispublished": "submitted",
+      "publisher": "Unila",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48899,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/532263",
+                  "objectid": 188337,
+                  "mtime": "2023-03-10 09:36:37",
+                  "hash_type": "MD5",
+                  "hash": "50ab118572c04a5f88f2b539691f80db",
+                  "filename": "Ketiatan Tambahan Usul GB Irza Sukmana.pdf",
+                  "fileid": 532263,
+                  "mime_type": "application\/pdf",
+                  "filesize": 12486907,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Ketiatan Tambahan Usul GB Irza Sukmana.pdf",
+            "docid": 188337,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188337",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "title": "Pola Konsentrasi PM2.5 di Negara-negara ASEAN Berdasarkan Kepadatan Penduduk",
+      "rev_number": 9,
+      "volume": 4,
+      "metadata_visibility": "show",
+      "status_changed": "2023-07-10 01:55:38",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/pels.umsida.ac.id\/index.php\/PELS\/article\/view\/1385"
+        }
+      ],
+      "subjects": [
+        "Q1",
+        "QA",
+        "T1",
+        "TD"
+      ],
+      "abstract": "Konsentrasi PM2.5 di udara ambien merupakan salah satu tolak ukur kualitas udara yang berpengaruh pada kesehatan masyarakat pada suatu wilayah. Polutan ini dianggap berbahaya karena ukurannya sangat kecil, sehingga dapat memasuki paru-paru dan mengambang di udara dalam waktu yang cukup lama. Identifikasi pola sebaran konsentrasi PM2.5 penting untuk dilakukan sebagai upaya mengenali aspek-aspek yang berpengaruh dalam peningkatan konsentrasi PM2.5, sehingga perumusan solusi dapat dilakukan lebih baik. Penelitian ini menganalisis pola konsentrasi PM2.5 di tiga negara ASEAN yaitu Indonesia, Vietnam dan Thailand. Di setiap negara dipilih empat lokasi pengukuran secara acak, di mana dua lokasi berada pada wilayah dengan kepadatan penduduk tinggi, dan dua lainnya memiliki kepadatan rendah. Data konsentrasi PM2.5 sampel dianalisis menggunakan metode analisis varians dengan faktor bersarang, sehingga dapat diketahui hubungan antara parameter yang diambil yaitu negara, lokasi dan klasifikasi kepadatan penduduk. Dari hasil pengolahan ini didapatkan bahwa semua parameter memiliki pengaruh yang signifikan terhadap konsentrasi PM2.5.",
+      "eprintid": 52214,
+      "date_type": "published",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 52214,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252781",
+            "rev_number": 1,
+            "main": "Procedia Senasains.pdf",
+            "docid": 252781,
+            "files": [
+                {
+                  "objectid": 252781,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618744",
+                  "datasetid": "document",
+                  "filesize": 706782,
+                  "fileid": 618744,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-07-07 10:49:01",
+                  "hash_type": "MD5",
+                  "filename": "Procedia Senasains.pdf",
+                  "hash": "ee883bc09433bc988889516ac16a543b"
+                }
+            ]
+          }
+      ],
+      "publisher": "Universitas Muhammadiyah Sidoarjo",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52214",
+      "refereed": "TRUE",
+      "userid": 59,
+      "lastmod": "2023-07-10 01:55:38",
+      "datestamp": "2023-07-10 01:55:38",
+      "publication": "Procedia of Engineering and Life Science",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Panuju",
+            "lineage": null,
+            "given": "Yahya"
+          },
+          "id": "achmad.yahya@eng.unila.ac.id"
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2807-2243",
+      "date": "2023-06",
+      "dir": "disk0_bak\/00\/05\/22\/14",
+      "type": "article",
+      "divisions": [
+        "FT7"
+      ]
+    }
+]
+

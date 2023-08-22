@@ -1,0 +1,1891 @@
+[
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Despa",
+            "honourific": null,
+            "given": "Dikpride"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          }
+        },
+        {
+          "name": {
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/11\/21",
+      "date": "2016-11",
+      "corp_creators": [
+        "Michael Zontche Bernard"
+      ],
+      "lastmod": "2022-11-14 13:15:24",
+      "userid": 517,
+      "datestamp": "2022-04-06 06:09:04",
+      "pagerange": "147-150",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "docid": 162557,
+            "main": "Multi-Area Smart Monitoring of Electrical Quantities Based on Mini.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 456518,
+                  "hash": "718718f6f050aa7040a6d1442e804826",
+                  "filename": "Multi-Area Smart Monitoring of Electrical Quantities Based on Mini.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 04:56:52",
+                  "datasetid": "document",
+                  "filesize": 1291810,
+                  "objectid": 162557,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456518"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162557",
+            "eprintid": 41121,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 7,
+            "security": "public",
+            "eprintid": 41121,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185547",
+            "rev_number": 1,
+            "pos": 7,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26860981-2022-11-14-20_14_50.pdf",
+                  "hash": "5b99d4ea061787995c70917b08f9cad0",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 13:15:24",
+                  "mime_type": "application\/pdf",
+                  "fileid": 514008,
+                  "filesize": 8011605,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514008",
+                  "objectid": 185547
+                }
+            ],
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26860981-2022-11-14-20_14_50.pdf",
+            "docid": 185547
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41121",
+      "refereed": "TRUE",
+      "event_title": "The 3rd International Conference on Nano Electronics Research and Education; The 8th Electrical, Electronics, Control, Communication, and Informatics Seminar",
+      "eprintid": 41121,
+      "status_changed": "2022-04-06 06:09:04",
+      "eprint_status": "archive",
+      "succeeds": 2579,
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Multi-Area Smart Monitoring Systems are application and devices that can monitor the amount of electricity at various locations in the distribution panel with two or more different locations. The Single Board Computer\r\nBCM2835 SoC, ARM11767JZF-S 700 MHz processor (Raspberry Pi model B) is utilized to serve as interfaces for obtaining data of electrical quantities and save the data into the database system. \r\nAll data utilized in this study are obtained from two different locations namely LAB-JTE building and ICTUNILA building, and these data have been recorded and sent through the Local Area Network connection to a computer server and monitored in real time. until  June 1 from the results of monitoring conducted from May 30 st 2016 shown that the voltage, current and load connected to the monitored phase relatively has an asimetric trends. The monitoring results also demonstrate that at noon, the electrical energy consumption trends in UNILA is in accordance with the working hours in UNILA. Finally, by comparing the results of monitoring the electrical quantities trend at LAB-JTE and ICTUNILA building shown that the conditions of electrical quantities in ICT-UNILA building has a better measurement result.\r\n\r\n\r\nKeywords— Multi-area panel distribution, real time monitoring, Electrical Quantities, BCM2835, UNILA.",
+      "official_url": "http:\/\/eeccis.ub.ac.id\/2016\/proceeding\/icnere_eeccis_2016.pdf",
+      "title": "Multi-Area Smart Monitoring of Electrical Quantities\r\nBased on Mini Single Board Computer BCM 2835 - Full Cover",
+      "event_type": "conference",
+      "rev_number": 11,
+      "metadata_visibility": "show"
+    },
+    {
+      "lastmod": "2022-04-06 06:09:34",
+      "userid": 517,
+      "pagerange": "121-128",
+      "datestamp": "2022-04-06 06:09:34",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 41124,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456538",
+                  "objectid": 162565,
+                  "filesize": 1964154,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 05:04:12",
+                  "hash": "c40e217d4b44df49be6b2a40ea7765ab",
+                  "filename": "Smart Monitoring Data Centre Base On Mini.pdf",
+                  "fileid": 456538,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Smart Monitoring Data Centre Base On Mini.pdf",
+            "docid": 162565,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162565",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41124",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Dikpride",
+            "honourific": null,
+            "family": "Despa",
+            "lineage": null
+          },
+          "id": "despa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "date": 2016,
+      "dir": "disk0\/00\/04\/11\/24",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:09:34",
+      "abstract": "Abstract. Folded plate structures should be redefined as form-resistant structures in which the folded-plate action is a combination of transverse and longitudinal beam action[1] p.296. The early generation of folded plate structure is marked with true folded plate structures. As the number and the variety of building form increases, classification based on form took place and being developed. This leads to confusion. The confusion is shown from building examples. Roofing with either steel or pre-stressed concrete trusses were classified as folded structures. Origami could lead to another confusion, because it could be applied as either a building structure or as a non-structural member, such as ceilings. Based on the case of Sydney Opera House, and on other misleading folded structure building examples, a conclusion to stop the usage of the term “folded structures” has been recommended. Another recommendation is to separate building form categories from building structure classification. Keywords: Architecture, Building Structure, Construction, Folded Plate Structure, Form-resistant Structures.",
+      "subjects": [
+        "T1"
+      ],
+      "official_url": "https:\/\/ic-star.unila.ac.id\/ic-star-2016\/",
+      "title": "Smart Monitoring Data Centre base on Mini Single Board Computer BCM 2835. In: Smart Monitoring Data Centre base on Mini Single Board Computer BCM 2835 - Full Cover",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "eprintid": 41124,
+      "event_title": "ICSTAR",
+      "date_type": "published"
+    },
+    {
+      "date": 2016,
+      "dir": "disk0\/00\/03\/42\/24",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "given": "Dewi Agustina",
+            "lineage": null,
+            "family": "Iryani",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dikpride",
+            "lineage": null,
+            "family": "Despa",
+            "honourific": null
+          },
+          "id": "despa@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34224",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154727",
+            "rev_number": 1,
+            "docid": 154727,
+            "main": "IbM  MARGA PUNDUH  PESAWARAN LAMPUNG UNTUK MENINGKATKAN KUALITAS PRODUK PASCA PANEN RUMPUT LAUT MENGGUNAKAN ALAT PENGERING BERBASIS TENAGA SURYA.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 403564,
+                  "filename": "IbM  MARGA PUNDUH  PESAWARAN LAMPUNG UNTUK MENINGKATKAN KUALITAS PRODUK PASCA PANEN RUMPUT LAUT MENGGUNAKAN ALAT PENGERING BERBASIS TENAGA SURYA.pdf",
+                  "hash": "0c6423d04d97d53e6838e941b9526fcc",
+                  "mtime": "2021-09-30 09:04:48",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 17172301,
+                  "objectid": 154727,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/403564"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 34224,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2021-10-04 01:21:10",
+      "pagerange": "37-45",
+      "lastmod": "2021-10-04 01:21:10",
+      "userid": 517,
+      "event_location": "Bandar lampung",
+      "date_type": "published",
+      "event_title": "SEMINAR NASIONAL HASIL-HASIL PENGABDIAN KEPADA MASYARAKAT UNIVERSITAS LAMPUNG 2016",
+      "eprintid": 34224,
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "IbM Marga Punduh Pesawaran Untuk Meningkatkan Kualitas Produk Pasca Panen Rumput Laut \r\nMenggunakan Alat Pengering Berbasis Tenaga Surya",
+      "event_dates": "1 Desember 2016",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Desa Pulau Pahawang, Kecamatan Marga Punduh Pesawaran, Lampung merupakan salah satu daerah yang difungsikan untuk kegiatan budidaya rumput laut jenis euchema cottoni. Walaupun produksi rumput laut yang dihasilkan cukup baik namun petani rumput laut belum mendapatkan penghasilan yang layak dikarenakan harga jual rumput laut yang rendah. Permasalahan rendahnya harga jual rumput laut disebabkan karena teknologi pengeringan yang tidak tepat.\r\nProses pengeringan yang biasa dilakukan oleh petani masih berupa pengeringan tradisional selama ± 3 hari. Hujan menyebabkan proses pengeringan menjadi terhambat sehingga sering berdampak kerusakan pada  rumput laut. Pengeringan yang tidak sempurna mengakibatkan tumbuhnya jamur yang membuat rumput laut berbau tidak sedap. Selain itu pengeringan secara tradisional memerlukan tempat yang luas dan dilakukan ditempat terbuka yang memungkinkan kontak dengan debu dan lalat. Untuk membantu permasalahan petani mka Tim Pengabdian Masyarakat Unila  melakukan Kegiatan Ipteks bagi masyarakat(IbM) berupa kegiatan pelatihan penggunaan alat pengeringan rumput. Alat pengering yang digunakan bertenaga surya jadi tidak membutuhkan genset yang berbahan bakar minyak, sehingga tetap menghemat biaya operasional dan sesuai untuk daerah kepulauan yang tidak mempunyai jaringan listrik PLN. Teknologi ini dapat diterapkan pada berbagai kondisi lingkungan dan dapat menghemat waktu pengeringan serta dapat mengurangi kadar air produk, sehingga sesuai dengan standar yang telah ditetapkan oleh industri. Selain teknologi pengeringan, tim juga memberikan pelatihan teknologi pasca panen yang lain seperti teknik penyortiran, pencucian dan pengepakan. Sehingga dapat meningkatkan mutu rumput laut serta meningkatkan daya jual rumput laut sehingga kesejahteraan petani menjadi lebih baik.\r\nKata Kunci : IbM, alat pengering, rumput laut, tenaga surya, teknologi pasca panen",
+      "status_changed": "2021-10-04 01:21:10",
+      "eprint_status": "archive"
+    },
+    {
+      "userid": 159,
+      "lastmod": "2017-06-05 01:44:35",
+      "datestamp": "2017-06-05 01:44:35",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "docid": 2892,
+            "main": "Full paper SNIEX 2016 M.Komarudin Unila.docx",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20847",
+                  "objectid": 2892,
+                  "filename": "Full paper SNIEX 2016 M.Komarudin Unila.docx",
+                  "hash": "7eb62a2781de59ad96f8daf7207593e2",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 04:03:16",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 20847,
+                  "filesize": 692674,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2892",
+            "rev_number": 1,
+            "eprintid": 3019,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3019",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "funders": [
+        "Dipa BLU Unila"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "komar@eng.unila.ac.id",
+          "name": {
+            "family": "Komarudin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhamad"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        }
+      ],
+      "date": "2016-09-09",
+      "dir": "disk0\/00\/00\/30\/19",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-05 01:44:35",
+      "subjects": [
+        "AS"
+      ],
+      "abstract": ". Bahasa dan aksara daerah merupakan warisan budaya bangsa Indonesia yang harus dilestarikan. Salah satu langkah pelestarian bahasa dan aksara daerah yaitu dengan menjadikannya sebagai mata pelajaran muatan lokal di sekolah. Dalam melestarikan aksara daerah diperlukan suatu media yang biasa digunakan dalam kehidupan sehari-hari. Salah satu media tersebut yaitu komputer. Hal ini menjadi ide dasar program pelatihan penulisan aksara daerah dengan font digital. Studi kasus pelaksanaan program pelatihan ini dimulai di Provinsi Lampung. Pengabdian dilakukan dengan memberikan pelatihan penggunaan aplikasi aksara lampung dengan font digital kepada guru mata pelajaran muatan lokal dan para siswa. Dari pelatihan yang dilakukan diketahui bahwa peserta memberikan respon yang positif terhadap penggunaan aplikasi penulisan font digital aksara lampung ini. Hal ini dapat dilihat dari hasil kuisioner yang diisi oleh peserta sebelum dan sesudah diberikannya pelatihan. Minat belajar bahasa dan aksara lampung mengalami peningkatan sebesar 37% (dari 42% menjadi 79%)  dan pengetahuan siswa tentang bahasa dan aksara lampung meningkat sebesar 30% (dari 30% menjadi 60%).\r\nKata kunci : font digital, aksara lampung, bahasa dan aksara daerah.",
+      "event_dates": "9-10 September 2016",
+      "title": "Pelatihan Penulisan Aksara Daerah Dengan Font Digital untuk Guru Muatan Lokal dan Siswa",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_title": "SEMINAR NASIONAL & EXPO  Hasil Pengabdian Kepada Masyarakat",
+      "eprintid": 3019,
+      "date_type": "published",
+      "event_location": "Medan"
+    },
+    {
+      "eprintid": 2898,
+      "date_type": "published",
+      "status_changed": "2017-06-02 12:23:08",
+      "eprint_status": "archive",
+      "abstract": "The Library automation system help reduce much work need to be done by doing monotonous routine jobs with the help of technologies such as Barcode and RFID. Unila Library as the pioneer of RFID technology implementation in Lampung province face challenge in migration. Unila Library used SLiMS Library Automation System to manage collections, which use mainly barcode to identify collection. RFID uses allow collections to be scanned in gate and warn librarian. Unfortunately, SLiMS doesn't support SIP2 protocol which is needed by RFID devices (gate, kiosk) to function properly. Therefore, a solution must be made to address the migration of data and support SIP2 protocol. ELIB is a library automation software which support SIP2 protocol. So, library automation systems integration which synchronize both database in ELIB and SLiMS to keep up to date data and allow support for SIP2 protocol must be made in the form of middleware. Some of difficulties arise in integration was the development of both library automation systems which require fine tuning everytime update occurs and both systems in active use. Benchmarking is done to find anomaly and disreparancies of data. And, because the integration system is build as middleware, it remain flexible and open to future development. It can be concluded, Library automation systems integration require vigilance and keen observations into minuscule level especially because both systems are so different.",
+      "subjects": [
+        "T1",
+        "Z665"
+      ],
+      "title": "Library Automation Systems Integration (Case: ELIB and SLiMS)",
+      "official_url": "http:\/\/doi.org\/10.23960\/ins.v1i1.21",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 10,
+      "type": "article",
+      "contact_email": "meizano@eng.unila.ac.id",
+      "divisions": [
+        "FT8"
+      ],
+      "issn": "2502-8588",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          }
+        }
+      ],
+      "publication": "INSIST",
+      "id_number": "doi:10.23960\/ins.v1i1.21",
+      "date": "2016-10",
+      "dir": "disk0\/00\/00\/28\/98",
+      "userid": 1199,
+      "lastmod": "2017-06-02 12:23:08",
+      "datestamp": "2017-06-02 12:23:08",
+      "pagerange": "60-64",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 158206,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 23:55:13",
+                  "hash": "04846c4ec01b2a18c456c6f8eb8ef863",
+                  "filename": "21-49-1-SM.pdf",
+                  "fileid": 19940,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19940",
+                  "objectid": 2779
+                }
+            ],
+            "docid": 2779,
+            "main": "21-49-1-SM.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2779",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2898,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2898"
+    },
+    {
+      "official_url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/article\/view\/21",
+      "title": "Library Automation Systems Integration (Case: ELIB and SLiMS)",
+      "rev_number": 7,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-05-28 03:45:09",
+      "subjects": [
+        "T1",
+        "Z665"
+      ],
+      "abstract": "The Library automation system help reduce much work need to be done by doing monotonous routine jobs with the help of technologies such as Barcode and RFID. Unila Library as the pioneer of RFID technology implementation in Lampung province face challenge in migration. Unila Library used SLiMS Library Automation System to manage collections, which use mainly barcode to identify collection. RFID uses allow collections to be scanned in gate and warn librarian. Unfortunately, SLiMS doesn't support SIP2 protocol which is needed by RFID devices (gate, kiosk) to function properly. Therefore, a solution must be made to address the migration of data and support SIP2 protocol. ELIB is a library automation software which support SIP2 protocol. So, library automation systems integration which synchronize both database in ELIB and SLiMS to keep up to date data and allow support for SIP2 protocol must be made in the form of middleware. Some of difficulties arise in integration was the development of both library automation systems which require fine tuning everytime update occurs and both systems in active use. Benchmarking is done to find anomaly and disreparancies of data. And, because the integration system is build as middleware, it remain flexible and open to future development. It can be concluded, Library automation systems integration require vigilance and keen observations into minuscule level especially because both systems are so different.",
+      "eprintid": 6947,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "University of Lampung",
+      "documents": [
+          {
+            "eprintid": 6947,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 19920,
+            "main": "INSIST-21-49-1-SM.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63629",
+                  "objectid": 19920,
+                  "filesize": 158206,
+                  "datasetid": "document",
+                  "mtime": "2018-05-27 13:10:11",
+                  "hash_type": "MD5",
+                  "filename": "INSIST-21-49-1-SM.pdf",
+                  "hash": "04846c4ec01b2a18c456c6f8eb8ef863",
+                  "fileid": 63629,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19920",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6947",
+      "refereed": "TRUE",
+      "userid": 1199,
+      "lastmod": "2018-05-28 03:45:09",
+      "datestamp": "2018-05-28 03:45:09",
+      "pagerange": "60-64",
+      "publication": "INSIST",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2502-8588",
+      "date": "2016-10",
+      "dir": "disk0\/00\/00\/69\/47",
+      "id_number": "DOI: 10.23960\/ins.v1i1.21",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "id_number": "EC00201826133",
+      "dir": "disk0\/00\/04\/10\/86",
+      "date": 2016,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          }
+        }
+      ],
+      "patent_applicant": "LPPM Unila",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41086",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 41086,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162509",
+            "rev_number": 1,
+            "main": "Font Aksara sert-desk.pdf",
+            "docid": 162509,
+            "files": [
+                {
+                  "objectid": 162509,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456230",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456230,
+                  "filename": "Font Aksara sert-desk.pdf",
+                  "hash": "fbbb4da5b35a62d884df6991f6101f3a",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-05 10:12:16",
+                  "datasetid": "document",
+                  "filesize": 1790549
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-04-06 01:21:37",
+      "userid": 517,
+      "lastmod": "2022-04-06 01:21:37",
+      "date_type": "published",
+      "eprintid": 41086,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Hak Cipta Program Komputer Font Aksara Lampung-sertifikat dan deskripsi",
+      "abstract": "Font Komputer yang dapat digunakan untuk mengetik aksara Lampung menggunakan huruf alfabet yang dipetakan ke setiap aksara.",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2022-04-06 01:21:37",
+      "eprint_status": "archive"
+    },
+    {
+      "lastmod": "2020-09-21 03:27:34",
+      "userid": 1199,
+      "datestamp": "2020-09-21 03:27:34",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 24097,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37800",
+            "rev_number": 1,
+            "main": "EC00201702736-meizano.pdf",
+            "docid": 37800,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219406",
+                  "objectid": 37800,
+                  "filesize": 191451,
+                  "datasetid": "document",
+                  "hash": "adbc6d54ee3d159ce169343d7f260261",
+                  "filename": "EC00201702736-meizano.pdf",
+                  "mtime": "2020-09-20 04:56:31",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 219406
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24097",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Martinus"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          }
+        }
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "id_number": "EC00201702736",
+      "date": "2016-12-16",
+      "dir": "disk0\/00\/02\/40\/97",
+      "eprint_status": "archive",
+      "status_changed": "2020-09-21 03:27:34",
+      "abstract": "Program komputer yang langsung menterjemahkan pada saat pengguna memberikan masukan dari bahasa Indonesia menjadi aksara Lampung dengan transliterasinya dan sebaliknya.",
+      "subjects": [
+        "PI"
+      ],
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/T2crdjBCWEFpdmNYc2VTdWF5ZEpSQT09",
+      "title": "Hak Cipta Program Komputer Kamus Aksara Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 24097,
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Program komputer yang langsung menterjemahkan pada saat pengguna memberikan masukan dari bahasa Indonesia menjadi aksara Lampung dengan transliterasinya dan sebaliknya.",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 01:21:32",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Program Komputer Kamus Aksara Lampung-sertifikat dan deskripsi",
+      "date_type": "published",
+      "eprintid": 41085,
+      "datestamp": "2022-04-06 01:21:32",
+      "lastmod": "2022-04-06 01:21:32",
+      "userid": 517,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41085",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162508",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 162508,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456223",
+                  "fileid": 456223,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-05 10:04:29",
+                  "filename": "Kamus Aksara sertifikat-deskripsi.pdf",
+                  "hash": "1c3163d2084d827b09f44bfde65ee23a",
+                  "datasetid": "document",
+                  "filesize": 752899
+                }
+            ],
+            "docid": 162508,
+            "main": "Kamus Aksara sertifikat-deskripsi.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41085
+          }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "dir": "disk0\/00\/04\/10\/85",
+      "date": 2016,
+      "id_number": "EC00201702736",
+      "patent_applicant": "LPPM Unila",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 24101,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "sertifikat_EC00201826133.pdf",
+            "docid": 37804,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219440",
+                  "objectid": 37804,
+                  "mtime": "2020-09-20 05:11:29",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00201826133.pdf",
+                  "hash": "e91fff70e5822212cd8082c3b2c9bbe6",
+                  "fileid": 219440,
+                  "mime_type": "application\/pdf",
+                  "filesize": 771743,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37804"
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24101",
+      "full_text_status": "public",
+      "lastmod": "2020-09-21 03:28:40",
+      "userid": 1199,
+      "datestamp": "2020-09-21 03:28:40",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Martinus"
+          }
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "given": "Hery Dian",
+            "lineage": null,
+            "honourific": null,
+            "family": "Septama"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Djausal",
+            "lineage": null,
+            "given": "Gita Paramita"
+          }
+        },
+        {
+          "id": "rasp@eng.unila.ac.id",
+          "name": {
+            "given": "Raden",
+            "honourific": null,
+            "family": "Arum Setia Priadi",
+            "lineage": null
+          }
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "family": "Mulyani",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yessi"
+          }
+        },
+        {
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null,
+            "given": "Titin"
+          },
+          "id": "titin.yulianti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muda",
+            "lineage": null,
+            "given": "Mona Arif"
+          },
+          "id": "mona.batubara@eng.unila.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null,
+            "given": "Wahyu Eko"
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Restuningrat",
+            "honourific": null,
+            "lineage": null,
+            "given": "Anang"
+          },
+          "id": null
+        }
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "id_number": "EC00201826133",
+      "date": "2016-10-28",
+      "dir": "disk0\/00\/02\/41\/01",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/dm1FZjN6bDRoL0R0YS83RDBVV3FZZz09",
+      "title": "Hak Cipta Program Komputer Font Aksara Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 13,
+      "status_changed": "2020-09-21 03:28:40",
+      "eprint_status": "archive",
+      "abstract": "Font Komputer yang dapat digunakan untuk mengetik aksara Lampung menggunakan huruf alfabet yang dipetakan ke setiap aksara.",
+      "subjects": [
+        "PI",
+        "T1",
+        "T201"
+      ],
+      "eprintid": 24101,
+      "date_type": "published"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 13:30:18",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Real-time Monitoring System of Electrical Quantities on ICT Centre Building University of Lampung Based on Embedded Single Board Computer BCM2835 - similarity and corresponding email",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "eprintid": 46646,
+      "date_type": "published",
+      "lastmod": "2022-11-14 13:30:18",
+      "userid": 1,
+      "datestamp": "2022-11-14 13:30:18",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46646,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185550",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 185550,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514021",
+                  "datasetid": "document",
+                  "filesize": 173650,
+                  "fileid": 514021,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-14 13:28:14",
+                  "hash_type": "MD5",
+                  "hash": "82e8a537ca89b949487cefbb93732aec",
+                  "filename": "unila.ac.id Mail - [ICIC2016] Your paper #1570303406 ('Real-time Monitoring System of Electrical Quantities on ICT Centre Building University of Lampung Based on Embedded Single Board Computer BCM2835').pdf"
+                }
+            ],
+            "main": "unila.ac.id Mail - [ICIC2016] Your paper #1570303406 ('Real-time Monitoring System of Electrical Quantities on ICT Centre Building University of Lampung Based on Embedded Single Board Computer BCM2835').pdf",
+            "docid": 185550
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514025",
+                  "objectid": 185551,
+                  "filesize": 12622828,
+                  "datasetid": "document",
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26861682-2022-11-14-20_29_24.pdf",
+                  "hash": "2e0b1c5810b843a1a6c60a015a30540c",
+                  "mtime": "2022-11-14 13:30:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 514025
+                }
+            ],
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26861682-2022-11-14-20_29_24.pdf",
+            "docid": 185551,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185551",
+            "format": "text",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 46646,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46646",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/66\/46",
+      "date": 2016
+    },
+    {
+      "title": "The University of Lampung Internet Traffic\r\nMeasurement: Trends and Impact in Campus \r\nNetwork",
+      "rev_number": 9,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-29 03:40:09",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Abstract— University of Lampung (Unila) is an Institution of\r\nHigher Education located in Bandar Lampung. Since 2016, Unila\r\nhas deployed Internet Access Management (IAM) to guarantee the\r\nhealthiness of the campus network, as well as to enhance the \r\neffectiveness of the bandwidth usage. \r\nThis study focused on internet traffic measurement, conducted\r\nin Unila’s campus network during February 1 until February 29,\r\n2016. Overall, this study shows user behavior on their application.\r\nThe trend data of monthly most popular URL Categories accessed\r\nby users was; 1\r\nst\r\n Computers & Technology with 30032328 hits or\r\n39.1%, the 2\r\nnd\r\n was Search Engines & Portals with 14214611 hits\r\nor\r\n18.5%. There were around 30-40 % of internet traffic was use\r\nfor Streaming Media activity, it proves that the existence of\r\nStreaming Media Activity in Campus Network which contribute\r\nto network congestion. During a month doing internet\r\nmeasurement, we identify the most active device\/user that are the\r\n1\r\nst\r\n was Aruba Wireless Controller with total traffic flow 40.45%,\r\nthe 2\r\nnd\r\n was CCR-1 with 26.2%, the 3\r\nrd\r\n was CCR-2 with 16.9%,\r\nand the 4\r\nth\r\n was Digital Library Server with total flow was 0.6%.\r\nMonthly uplink traffic total flow was 5889.92 GB while downlink\r\ntraffic total flow was 61041.35 GB.  \r\nWe made a recommendation to Unila management for\r\nimplementing traffic provisioning especially on streaming media\r\nactivity specific on access to Google Global Cache (GGC), to\r\novercome network congestion during peak time period on working\r\nhours.",
+      "event_title": "icstar",
+      "eprintid": 432,
+      "date_type": "published",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 432,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/381",
+            "rev_number": 3,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 747916,
+                  "fileid": 2380,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-29 03:31:49",
+                  "filename": "IC-STAR PSTI.pdf",
+                  "hash": "3b364c32941bb52e6b3b89a3c58d3355",
+                  "objectid": 381,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2380"
+                }
+            ],
+            "main": "IC-STAR PSTI.pdf",
+            "docid": 381
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/432",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2016-08-29 04:07:01",
+      "userid": 3,
+      "datestamp": "2016-08-29 03:40:09",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "date": 2016,
+      "dir": "disk0\/00\/00\/04\/32",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "event_location": "Lombok, Indonesia",
+      "event_title": "The International Conference on Informatics and Computing (ICIC) 2016",
+      "eprintid": 1599,
+      "date_type": "published",
+      "official_url": "htpp:\/\/icic-aptikom.org",
+      "title": "Real-time Monitoring System of Electrical Quantities on ICT Centre Building University of Lampung Based on Embedded Single Board Computer BCM2835",
+      "event_dates": "Oktober, 2016",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-05 03:18:26",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Abstract— University of Lampung (Unila) as an academic institution should provide the internet service for thousands of users, monitoring the condition of electricity (Voltage, Current, Power factor, Power, and Energy consumption measurement) at ICT center building has an important role, as a part of maintenance lifecycle to make sure the internet services running well, system monitoring implemented in order to know the quality of electricity supply in the system, identifying disruption events, and to calculate the amount of electrical energy usage periodically. In this research we made an application to monitor the electrical quantities in real time, and shown the statistic reports through web interface. This research was conducted on the 3-Phase electricity network at ICT center building Unila. Monitoring of voltage was done by using a step-down transformator as voltage sensor, and Current Transformer SCT-013 100A as current sensor. Energy, Power, and Power Factor value was obtained by some of scientific calculation.  Python programming language was used to develop the application, mainly for data acquisition and calculation that run on BCM2835 Embedded Single Board Computer. The result of this research shown that energy consumption for each Phase was not in balance, 1st and 2nd Phase mostly high load during working hours only, while 3rd Phase energy consumption relatively stable at all time, this happen because 3rd  Phase connected to Data Center which consist of several server and network equipment that always online for 24 hours.\r\n\r\nKeywords— 3-Phase electrical networks, embedded system, voltage sensors, current transformer SCT-013 100A, energy consumption, BCM2835 embedded single board computer.",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dikpride",
+            "honourific": null,
+            "family": "Despa",
+            "lineage": null
+          },
+          "id": "despa@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Mardiana",
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/15\/99",
+      "date": "2016-10",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 1599,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1467",
+            "rev_number": 1,
+            "docid": 1467,
+            "main": "PID4485001.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1806043,
+                  "mime_type": "application\/pdf",
+                  "fileid": 11071,
+                  "hash": "596eecfe08b1075c55651c867c8e4778",
+                  "filename": "PID4485001.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-05 03:06:48",
+                  "objectid": 1467,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/11071"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1599",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 3,
+      "lastmod": "2017-05-05 03:18:26",
+      "datestamp": "2017-05-05 03:18:26"
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2978",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 771664,
+                  "datasetid": "document",
+                  "hash": "5a3828839d724fac2507fb20c2c17b9a",
+                  "filename": "18-43-1-SM.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 03:20:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 20584,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20584",
+                  "objectid": 2858
+                }
+            ],
+            "docid": 2858,
+            "main": "18-43-1-SM.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2858",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2978,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "University of Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "pagerange": "43-48",
+      "datestamp": "2017-06-05 03:02:17",
+      "userid": 1199,
+      "lastmod": "2017-06-05 03:02:17",
+      "id_number": "10.23960\/ins.v1i1.18",
+      "date": "2016-10",
+      "dir": "disk0\/00\/00\/29\/78",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arum Setia Priadi",
+            "honourific": null,
+            "given": "Raden"
+          },
+          "id": "rasp@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Titin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yulianti"
+          }
+        }
+      ],
+      "issn": "2502-8588",
+      "publication": "INSIST",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 1,
+      "title": "Internet Traffic Measurement: Trends and Impact to Campus Network",
+      "official_url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/index",
+      "abstract": "University of Lampung (Unila) is an Institution of Higher Education located in Bandar Lampung. Since 2016, Unila has deployed Internet Access Management (IAM) to guarantee the healthiness of the campus network, as well as to enhance the effectiveness of the bandwidth usage. This study focused on internet traffic measurement, conducted in Unila’s campus network during February 1 until February 29, 2016. Overall, this study shows user behavior on their application. The trend data of monthly most popular URL Categories accessed by users was; 1st Computers & Technology with 30032328 hits or 39.1%, the 2nd was Search Engines & Portals with 14214611 hits or 18.5%. There were around 30-40 % of internet traffic was use for Streaming Media activity, it proves that the existence of Streaming Media Activity in Campus Network which contribute to network congestion. During a month doing internet measurement, we identify the most active device\/user that are the 1st was Aruba Wireless Controller with total traffic flow 40.45%, the 2nd was CCR-1 with 26.2%, the 3rd was CCR-2 with 16.9%, and the 4th was Digital Library Server with total flow was 0.6%. Monthly uplink traffic total flow was 5889.92 GB while downlink traffic total flow was 61041.35 GB. We made a recommendation to Unila management for implementing traffic provisioning especially on streaming media activity specific on access to Google Global Cache (GGC), to overcome network congestion during peak time period on working hours.",
+      "subjects": [
+        "T1"
+      ],
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/index"
+        }
+      ],
+      "status_changed": "2017-06-05 03:02:17",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 2978
+    },
+    {
+      "pagerange": "1-7",
+      "datestamp": "2022-04-06 04:20:12",
+      "lastmod": "2022-04-06 04:20:12",
+      "userid": 517,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41106",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "University of Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 41106,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 162527,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456371",
+                  "fileid": 456371,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 04:00:12",
+                  "hash": "0a2520153669acff4cb16b756b12bafd",
+                  "filename": "Internet Traffic Measurement Trends and Impact to Campus.pdf",
+                  "datasetid": "document",
+                  "filesize": 847327
+                }
+            ],
+            "docid": 162527,
+            "main": "Internet Traffic Measurement Trends and Impact to Campus.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162527",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/04\/11\/06",
+      "date": 2016,
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/ins.v1i1.18",
+      "publication": "INSIST",
+      "issn": "2502-8588",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null,
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Arum Setia Priadi",
+            "lineage": null,
+            "given": "Raden"
+          },
+          "id": "rasp@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hery Dian",
+            "honourific": null,
+            "family": "Septama",
+            "lineage": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null,
+            "given": "Titin"
+          },
+          "id": "titin.yulianti@eng.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "University of Lampung (Unila) is an Institution of Higher Education located in Bandar Lampung. Since 2016, Unila has deployed Internet Access Management (IAM) to guarantee the healthiness of the campus network, as well as to enhance the effectiveness of the bandwidth usage. This study focused on internet traffic measurement, conducted in Unila’s campus network during February 1 until February 29, 2016. Overall, this study shows user behavior on their application. The trend data of monthly most popular URL Categories accessed by users was; 1st Computers & Technology with 30032328 hits or 39.1%, the 2nd was Search Engines & Portals with 14214611 hits or 18.5%. There were around 30-40 % of internet traffic was use for Streaming Media activity, it proves that the existence of Streaming Media Activity in Campus Network which contribute to network congestion. During a month doing internet measurement, we identify the most active device\/user that are the 1st was Aruba Wireless Controller with total traffic flow 40.45%, the 2nd was CCR-1 with 26.2%, the 3rd was CCR-2 with 16.9%, and the 4th was Digital Library Server with total flow was 0.6%. Monthly uplink traffic total flow was 5889.92 GB while downlink traffic total flow was 61041.35 GB. We made a recommendation to Unila management for implementing traffic provisioning especially on streaming media activity specific on access to Google Global Cache (GGC), to overcome network congestion during peak time period on working hours.",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 04:20:12",
+      "rev_number": 13,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/article\/view\/18\/28",
+      "title": "Internet Traffic Measurement: Trends and Impact to Campus Network - Full Cover",
+      "date_type": "published",
+      "eprintid": 41106
+    },
+    {
+      "eprintid": 3040,
+      "date_type": "published",
+      "status_changed": "2017-06-05 01:49:13",
+      "eprint_status": "archive",
+      "abstract": "University of Lampung (Unila) is an Institution of\r\nHigher Education located in Bandar Lampung. Since 2016, Unila has deployed Internet Access Management (IAM) to guarantee the healthiness of the campus network, as well as to enhance the effectiveness of the bandwidth usage. This study focused on internet traffic measurement, conducted in Unila’s campus network during February 1 until February 29, 2016. Overall, this study shows user\r\nbehavior on their application. The trend data of monthly most popular URL Categories accessed by users was; 1st Computers & Technology with 30032328 hits or 39.1%, the 2nd was Search Engines & Portals with 14214611 hits or 18.5%. There were around 30-40 % of internet traffic was use for Streaming Media activity, it proves that the\r\nexistence of Streaming Media Activity in Campus Network which contribute to network congestion. During a month doing internet measurement, we identify the most active device\/user that are the 1st was Aruba Wireless Controller with total traffic flow 40.45%, the 2nd was CCR-1 with 26.2%, the 3rd was CCR-2 with 16.9%, and the 4th\r\nwas Digital Library Server with total flow was 0.6%. Monthly uplink traffic total flow was 5889.92 GB while downlink traffic total flow was 61041.35 GB. We made a recommendation to Unila management\r\nfor implementing traffic provisioning especially on streaming media activity specific on access to Google Global Cache (GGC), to overcome network congestion during peak time period on working hours. \r\nKeywords—internet access management, internet traffic\r\nmeasurement; traffic trend",
+      "subjects": [
+        "TK"
+      ],
+      "title": "Internet Traffic Measurement: Trends and Impact to Campus Network",
+      "official_url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/index",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 7,
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "name": {
+            "given": "Hery Dian",
+            "lineage": null,
+            "honourific": null,
+            "family": "Septama"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": "komar@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Komarudin",
+            "given": "Muhamad"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Mardiana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhamad"
+          }
+        },
+        {
+          "name": {
+            "given": "Raden Arum",
+            "honourific": null,
+            "family": "Setia Pribadi",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Titin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yulianti"
+          }
+        }
+      ],
+      "issn": "978-602-70050-3-7",
+      "publication": "Internasional Series on Interdisciplinary Research",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/ins.v1i1.18",
+      "dir": "disk0\/00\/00\/30\/40",
+      "date": "2016-10-01",
+      "userid": 159,
+      "lastmod": "2017-06-05 01:49:13",
+      "datestamp": "2017-06-05 01:49:13",
+      "pagerange": "43-48",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3040,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2915",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "5a3828839d724fac2507fb20c2c17b9a",
+                  "filename": "18-43-1-SM.pdf",
+                  "mtime": "2017-06-02 04:34:34",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 20981,
+                  "filesize": 771664,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20981",
+                  "objectid": 2915
+                }
+            ],
+            "main": "18-43-1-SM.pdf",
+            "docid": 2915
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3040",
+      "full_text_status": "public"
+    },
+    {
+      "date": "2016-11-29",
+      "dir": "disk0\/00\/00\/30\/23",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Ratna"
+          }
+        }
+      ],
+      "funders": [
+        "Dipa FT Unila"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3023",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 3023,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Meat Quality Classification Based on Color Intensity Measurement Method(1).pdf",
+            "docid": 2896,
+            "files": [
+                {
+                  "mtime": "2017-06-02 04:10:43",
+                  "hash_type": "MD5",
+                  "hash": "51711da823dd43c970f5bc204a61d7ad",
+                  "filename": "Meat Quality Classification Based on Color Intensity Measurement Method(1).pdf",
+                  "fileid": 20874,
+                  "mime_type": "application\/pdf",
+                  "filesize": 300122,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20874",
+                  "objectid": 2896
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2896"
+          }
+      ],
+      "pres_type": "paper",
+      "datestamp": "2017-06-05 01:45:12",
+      "pagerange": "248-252",
+      "lastmod": "2017-06-05 01:45:12",
+      "userid": 159,
+      "event_location": "Bandung",
+      "date_type": "published",
+      "event_title": "International Symposium on Electronics and Smart Devices (ISESD)",
+      "eprintid": 3023,
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/ieeexplore.ieee.org\/document\/7886727\/?reload=true",
+      "event_dates": "November 29-30, 2016",
+      "title": "Meat Quality Classification Based on Color Intensity\r\nMeasurement Method",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "The fresh and defective beef identification by\r\nconsumers is subjectively through visual observation. However, identifying beef quality manually has disadvantage, there is human visual limitations, differences in human perception in assessing the quality of an object, and ability of each individual\r\nknowledge are different. Therefore, we need a technological device that can be applied to identify the quality of beef that can be used by people. The aim of this research is measuring the percentage of color intensity average from R, G, and B channel.\r\nThe fresh and defective beef is identified using feature of the beef image. That feature is percentages of intensity average value from R (red), G (green), and B (blue) channel. The optimal feature is gotten based on the percentage values. The feature is gotten by using image processing method. The percentage of R channel intensity average value is defined, which can be used to classify the fresh and defective beef. The percentage of R channel intensity is consecutively decrease on every 4 hours. It is shown on each beef sample. The R channel of the fresh image has higher percentage of intensity average value than the defective beef. The fresh beef has 56.38% to 66.33% of the R channel intensity average. whereas the defective beef has 37.76% to 51.71% of the R channel intensity. Keywords—percentage of intensity average, beef quality classification, image pocessing",
+      "status_changed": "2017-06-05 01:45:12",
+      "eprint_status": "archive"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 3089,
+      "event_title": "International Conference on Science, Technology and Interdisciplinary Research 2016",
+      "event_location": "Bandar Lampung",
+      "abstract": "The mobile technology is improved by adopt the Internet Protocol (IP) based technology. The IP\r\nMultimedia Subsystem or IP Multimedia Core Network Subsystem (IMS) is a technology designed by 3rd\r\nGeneration Partnership Project (3GPP). This technology used IP to deliver the communication packet and\r\nrecognized as Next Generation Network (NGN). The emerging IP based technology took a lot of advantages by\r\nusing IP to deliver a packet. However, some issues i.e availability, security and realibility still need\r\nconsideration to meet the telecommunication standard. The cloud based computing become buzzword as a technology for cost reduction and hardware efficiencies. This paper conducted the feasibility to setup mobile core network in cloud based enviroment. The QoS is presented as the results to conluded the feasibilities. The results show that cloud based mobile core network is feasible since the QoS still fullfill the telecommunication standard.\r\nKeywords: mobile core network, IMS, cloud computing, jitter.",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 07:28:53",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "official_url": "http:\/\/ic-star.unila.ac.id",
+      "title": "PERFORMANCE OF CLOUD BASED IMS CORE NETWORK",
+      "event_dates": "22-25 Austus 2016",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/30\/89",
+      "date": "2016-08-22",
+      "creators": [
+        {
+          "name": {
+            "family": "Septama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null,
+            "given": "Ardian"
+          },
+          "id": "ardian.ulvan@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Melvi",
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null
+          },
+          "id": "melvi@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2017-06-12 07:28:53",
+      "pagerange": "29-29",
+      "userid": 159,
+      "lastmod": "2017-06-12 07:28:53",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3089",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 3089,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Abstract Proceeding ICSTAR 2016.pdf",
+            "docid": 2967,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 21346,
+                  "hash": "822ecfe5bd9a7c8e7b3b9a0abc3b0b9d",
+                  "filename": "Abstract Proceeding ICSTAR 2016.pdf",
+                  "mtime": "2017-06-02 06:16:25",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 2655075,
+                  "objectid": 2967,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21346"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2967"
+          }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2017-06-05 01:52:06",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Kebutuhan akan layanan kesehatan saat ini sangat diperlukan untuk mempermudah\r\nmasyarakat mencari informasi mengenai layanan kesehatan yang ada disekitar tempat tinggal\r\nmulai dari rumah sakit (RS), Apotek, Dokter praktik, Klinik, Rumah Bersalin\/Bidan, dan\r\nPengobatan Alternatif. Untuk itu perlu dirancang suatu sistem informasi geografis yang nantinya\r\ndapat memudahkan masyarakat mencari informasi layanan Kesehatan. Sistem Informasi\r\nGeografis (SIG) adalah sistem informasi khusus yang mengelola data yang memiliki informasi\r\nspasial (bereferensi keruangan). Metode perancangan sistem yang digunakan adalah Metode\r\nWaterfall, dimana ada 5 tahapan yang terdapat pada Metode Waterfall yaitu, Analisa Kebutuhan,\r\nPerancangan, Implementasi, Pengujian, dan Pemeliharaan. Data yang digunakan kedalam sistem\r\nsebanyak 107 pusat layanan kesehatan yang meliputi 11 Rumah Sakit (RS), 22 Apotek, 20\r\nBidan\/RSB (Rumah Sakit Bersalin), 14 Puskesmas, 4 Pengobatan Alternatif, 15 Klinik, dan 20\r\nDokter Praktik. Hasil Perancangan Dilihat dari hasil UAT (User Acceptance Test) aspek\r\nkemudahan didapat penilaian tertinggi 75% dengan skala ukur baik, aspek pencapaian tujuan\r\ndidapat penilaian tertinggi 80% dengan skala ukur baik, dan aspek apresiasi didapat penilaian\r\ntertinggi 60% dengan skala ukur baik.\r\nKata kunci--- SIG, Web, Kesehatan, Layanan, Bandar Lampung",
+      "official_url": "http:\/\/electrician.unila.ac.id\/index.php\/ojs\/",
+      "title": "Sistem Informasi Geografis Layanan Kesehatan\r\ndi Kota Bandar Lampung",
+      "rev_number": 6,
+      "volume": 10,
+      "metadata_visibility": "show",
+      "eprintid": 3044,
+      "date_type": "published",
+      "lastmod": "2017-06-05 01:52:06",
+      "userid": 159,
+      "datestamp": "2017-06-05 01:52:06",
+      "pagerange": "183-191",
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Elektro Unila",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2918",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 797975,
+                  "datasetid": "document",
+                  "mtime": "2017-06-02 04:42:58",
+                  "hash_type": "MD5",
+                  "filename": "2007-279-1-PB.pdf",
+                  "hash": "81115d07a75bf8ffe03b8a44b1c9f578",
+                  "fileid": 21006,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21006",
+                  "objectid": 2918
+                }
+            ],
+            "docid": 2918,
+            "main": "2007-279-1-PB.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3044
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3044",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "Jurnal Rekayasa dan Teknologi  Elektro",
+      "issn": "2549-3442",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Tanjung",
+            "honourific": null,
+            "given": "Geri Romadhoni"
+          },
+          "id": null
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "name": {
+            "family": "Septama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        }
+      ],
+      "date": "2016-09-03",
+      "dir": "disk0\/00\/00\/30\/44"
+    }
+]
+

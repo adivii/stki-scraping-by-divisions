@@ -1,0 +1,749 @@
+[
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8854,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 149022,
+                  "fileid": 85940,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-10-01 14:17:59",
+                  "hash_type": "MD5",
+                  "hash": "e1360496c0f89eaba6a73b58225b0152",
+                  "filename": "Penelitian-Pascasarjana.pdf",
+                  "objectid": 21932,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85940"
+                }
+            ],
+            "docid": 21932,
+            "main": "Penelitian-Pascasarjana.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21932",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8854",
+      "full_text_status": "public",
+      "lastmod": "2018-10-29 04:14:21",
+      "userid": 392,
+      "datestamp": "2018-10-29 04:14:21",
+      "pagerange": "90-99",
+      "creators": [
+        {
+          "id": "muhammad.nadi@si.itera.ac.id",
+          "name": {
+            "given": "M. Abi",
+            "honourific": null,
+            "family": "Berkah Nadi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null,
+            "given": "Aleksander"
+          },
+          "id": "aleksander.purba@eng.unila.ac.id"
+        },
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Zakaria",
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "date": "2018-05-07",
+      "dir": "disk0\/00\/00\/88\/54",
+      "type": "conference_item",
+      "divisions": [
+        "FT2"
+      ],
+      "official_url": "http:\/\/www.civil.ui.ac.id\/id_ID\/prosiding-seminar-nasional-pascasarjana-mei-2018\/",
+      "event_dates": "1 May 2018",
+      "title": "ANALISIS PEMILIHAN MODA TRANSPORTASI RUTE\r\nTANJUNG KARANG – BANDARA RADIN INTEN II\r\nDENGAN STATED PREFERENCE, UJI CRAME’S V\r\nDAN UJI CHI-SQUARE",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "status_changed": "2018-10-29 04:14:21",
+      "eprint_status": "archive",
+      "abstract": "Radin Inten II Airport is a national flight in Lampung Province. In this study using the technical analysis\r\nstated preference which is the approach by conveying the choice statement in the form of hypotheses to be\r\nassessed by the respondent. By using these techniques the researcher can fully control the hypothesized\r\nfactors. To determine utility function for model forecasting in fulfilling request of traveler is used regression\r\nanalysis with SPSS program. The analysis results obtained that the passengers of the dominant airport in the\r\nselection of modes of cost attributes than on other attributes. From the result of regression analysis, the\r\ninfluence of independent variable to the highest dependent variable is when the five attributes are used\r\ntogether with the R square value of 8.8%. The relationship between cost, time, headway, time acces and\r\nservice with the selection of modes, the provision that states whether or not there is a decision. The\r\nsignificance of α = 0.05 with chi-square test. And the result of Crame's V test average of 0.298 is around the\r\nmiddle, then the relationship is moderate enough.",
+      "subjects": [
+        "TA"
+      ],
+      "event_location": "University of Indonesia, Depok",
+      "eprintid": 8854,
+      "event_title": "“Inovasi Teknologi Rekayasa Dalam Mendukung Percepatan Infrastruktur Nasional”",
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FT2"
+      ],
+      "type": "conference_item",
+      "date": "2018-05-07",
+      "dir": "disk0\/00\/00\/89\/54",
+      "creators": [
+        {
+          "id": "muhammad.nadi@si.itera.ac.id",
+          "name": {
+            "given": "M. Abi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Berkah Nadi"
+          }
+        },
+        {
+          "name": {
+            "given": "Aleksander",
+            "family": "Purba",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "aleksander.purba@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "family": "Zakaria",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2018-10-29 04:22:21",
+      "pagerange": "90-99",
+      "lastmod": "2018-10-29 04:22:21",
+      "userid": 392,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8954",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8954,
+            "content": "published",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 149022,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-24 02:39:11",
+                  "filename": "Penelitian-Abi-Berkah-Nadi-Aleksander-Purba.pdf",
+                  "hash": "ebe3ec10f1bdb06227e5c4e848639cf0",
+                  "fileid": 86619,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86619",
+                  "objectid": 22034
+                }
+            ],
+            "main": "Penelitian-Abi-Berkah-Nadi-Aleksander-Purba.pdf",
+            "docid": 22034,
+            "rev_number": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22034",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "date_type": "published",
+      "event_title": "Seminar Nasional Pascasarjana Program Studi Teknik Sipil dan Lingkungan Universitas Indonesia",
+      "eprintid": 8954,
+      "event_location": "University of Indonesia, Depok",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Radin Inten II Airport is a national flight in Lampung Province. In this study using the technical analysis\r\nstated preference which is the approach by conveying the choice statement in the form of hypotheses to be\r\nassessed by the respondent. By using these techniques the researcher can fully control the hypothesized\r\nfactors. To determine utility function for model forecasting in fulfilling request of traveler is used regression\r\nanalysis with SPSS program. The analysis results obtained that the passengers of the dominant airport in the\r\nselection of modes of cost attributes than on other attributes. From the result of regression analysis, the\r\ninfluence of independent variable to the highest dependent variable is when the five attributes are used\r\ntogether with the R square value of 8.8%. The relationship between cost, time, headway, time acces and\r\nservice with the selection of modes, the provision that states whether or not there is a decision. The\r\nsignificance of α = 0.05 with chi-square test. And the result of Crame's V test average of 0.298 is around the\r\nmiddle, then the relationship is moderate enough.",
+      "eprint_status": "archive",
+      "status_changed": "2018-10-29 04:22:21",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "event_dates": "1 May 2018",
+      "official_url": "http:\/\/www.civil.ui.ac.id\/id_ID\/prosiding-seminar-nasional-pascasarjana-mei-2018\/",
+      "title": "ANALISIS PEMILIHAN MODA TRANSPORTASI RUTE\r\nTANJUNG KARANG – BANDARA RADIN INTEN II\r\nDENGAN STATED PREFERENCE, UJI CRAME’S V\r\nDAN UJI CHI-SQUARE."
+    },
+    {
+      "official_url": "http:\/\/eng.unila.ac.id\/prosiding-sinta-2018\/",
+      "title": "Komparasi Pembangunan Kereta Cepat di Indonesia Dengan Kereta Cepat di Negara Lain dari Sudut Pandang Ekonomi",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2019-04-09 06:53:34",
+      "abstract": "Di Eropa hampir semua kereta cepatnya diinisiasi oleh pemerintah. Keuntungan yang didapat dari adanya kereta\r\ncepat adalah dari manfaat sosial misalnya penghematan waktu perjalanan. Di Indonesia kereta cepat diinisiasi oleh swasta\r\nsehingga keuntungannya didapat dari tiket kereta. Keunikan ini dapat menjadi salah satu topik penting yang dapat dibahas dalam proyek pembangunan kereta cepat Indonesia. Tujuan dari penelitian ini adalah membandingkan dari sudut\r\npandang ekonomi proyek pembangunan kereta cepat Indonesia menggunakan pengalaman pembangunan kereta cepat di negara lain serta mengetahui pada kondisi mana kereta cepat Indonesia dapat dibenarkan. Dengan biaya investasi yang\r\ntelah dihitung yaitu Rp371.000.000.000 per Km dengan tingkat diskonto 5%, pertumbuhan manfaat tahunan 3%, proporsi\r\npenumpang yang berpindah sebesar 20%, dan rata-rata manfaat waktu perjalanan per penumpang adalah Rp72.000 maka\r\ndidapat jumlah penumpang yang harus dipenuhi adalah 14.225.555 orang untuk masa proyek 40 tahun dan 12.835.679\r\norang untuk masa proyek 50 tahun. Perkiraan penumpang tahunan ditahun pertama operasi adalah 10.731.000. Sehingga\r\nvolume lalu lintas impas untuk NPV = 0 tidak dapat dipenuhi apabila dengan kondisi tersebut. Kondisi yang dapat\r\ndipenuhi dengan perkiraan permintaan awal penumpang 10.731.000 untuk mencapai volume lalu lintas penumpang impas\r\nyang mengarah pada NPV=0 adalah kondisi dimana biaya investasi yaitu Rp371.000.000.000 per Km dengan tingkat\r\ndiskonto 5%, pertumbuhan manfaat tahunan 3% dengan proporsi penumpang yang berpindah sebesar 30% dan rata- rata\r\nmanfaat waktu perjalanan per penumpang adalah Rp72.000. Keberhasilan operasi High Speed Rail bergantung pada\r\npermintaan dan biaya konstruksi dimana kepadatan penduduk yang tinggi dan biaya konstruksi yang minimal lebih\r\ndiinginkan.",
+      "subjects": [
+        "TA"
+      ],
+      "eprintid": 10964,
+      "date_type": "published",
+      "publisher": "FT-UNILA",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 100579,
+                  "hash": "9277ff4d93e0f6be065fa4c777bc2b3f",
+                  "filename": "Komparasi Pembangunan Kereta Cepat....pdf",
+                  "mtime": "2019-03-20 01:38:56",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 334480,
+                  "objectid": 23963,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100579"
+                }
+            ],
+            "main": "Komparasi Pembangunan Kereta Cepat....pdf",
+            "docid": 23963,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23963",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 10964,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10964",
+      "userid": 392,
+      "lastmod": "2019-04-09 06:53:34",
+      "datestamp": "2019-04-09 06:53:34",
+      "pagerange": "266-272",
+      "creators": [
+        {
+          "name": {
+            "given": "Fera",
+            "lineage": null,
+            "family": "Lestari",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Aleksander",
+            "family": "Purba",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "aleksander.purba@eng.unila.ac.id"
+        },
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "family": "Zakaria",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "issn": "2655-2914",
+      "publication": "Prosiding Semnas SINTA FT UNILA Vol. 1 Tahun 2018",
+      "date": "2018-10-19",
+      "dir": "disk0\/00\/01\/09\/64",
+      "type": "article",
+      "divisions": [
+        "FT2"
+      ]
+    },
+    {
+      "eprintid": 18456,
+      "eprint_status": "archive",
+      "status_changed": "2020-03-12 04:38:05",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "title": "REPOSITORY REVEIWER: Civil and Environmental Science Journal, Vol.1(2) Tahun 2018",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FT2"
+      ],
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "given": "Gatot Eko",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/84\/56",
+      "date": 2018,
+      "lastmod": "2020-03-12 04:38:05",
+      "userid": 874,
+      "datestamp": "2020-03-12 04:38:05",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "J5-CIVENSE1.pdf",
+            "docid": 31615,
+            "files": [
+                {
+                  "objectid": 31615,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155214",
+                  "datasetid": "document",
+                  "filesize": 1950568,
+                  "mime_type": "application\/pdf",
+                  "fileid": 155214,
+                  "hash": "13418a09af47f68c65468733d1a9255e",
+                  "filename": "J5-CIVENSE1.pdf",
+                  "mtime": "2020-03-08 14:21:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31615",
+            "eprintid": 18456,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Badan Penerbitan Jurnal Fakultas Teknik Universitas Brawijaya",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18456",
+      "full_text_status": "public"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "REPOSITORY REVIEWER: Rekayasa Sipil, Vol(12)1 tahun 2018",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-03-12 04:39:23",
+      "eprintid": 18461,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18461",
+      "publisher": "Jurusan Teknik Sipil Universitas Brawijaya Malang",
+      "documents": [
+          {
+            "main": "J9-REKAYASA UB 1.pdf",
+            "docid": 31620,
+            "files": [
+                {
+                  "objectid": 31620,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155250",
+                  "datasetid": "document",
+                  "filesize": 1951333,
+                  "mime_type": "application\/pdf",
+                  "fileid": 155250,
+                  "filename": "J9-REKAYASA UB 1.pdf",
+                  "hash": "c8102879b26859bc882678b0ac3b00d9",
+                  "mtime": "2020-03-08 14:58:02",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31620",
+            "rev_number": 1,
+            "eprintid": 18461,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2020-03-12 04:39:23",
+      "lastmod": "2020-03-12 04:39:23",
+      "userid": 874,
+      "dir": "disk0\/00\/01\/84\/61",
+      "date": 2018,
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "honourific": null,
+            "family": "Susilo",
+            "lineage": null,
+            "given": "Gatot Eko"
+          }
+        }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "type": "other"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2020-03-12 04:38:50",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "title": "REPOSITORY REVIEWER:Civil and Environmental Science Journal, Vol.1(2)Tahun 2018",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprintid": 18458,
+      "userid": 874,
+      "lastmod": "2020-03-12 04:38:50",
+      "datestamp": "2020-03-12 04:38:50",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 18458,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155226",
+                  "objectid": 31617,
+                  "mtime": "2020-03-08 14:34:03",
+                  "hash_type": "MD5",
+                  "hash": "624965046a02bb250cedd1c2a2a4c45a",
+                  "filename": "J6-CIVENSE2.pdf",
+                  "fileid": 155226,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1988335,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "J6-CIVENSE2.pdf",
+            "docid": 31617,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31617",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Badan Penerbitan Jurnal Fakultas Teknik Universitas Brawijaya",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18458",
+      "type": "other",
+      "divisions": [
+        "FT2"
+      ],
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Susilo",
+            "given": "Gatot Eko"
+          }
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/01\/84\/58"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 11663,
+      "official_url": "http:\/\/www.ijcm.org.in\/",
+      "subjects": [
+        "GE",
+        "GF",
+        "HT",
+        "RA"
+      ],
+      "abstract": "Context:\r\n The current evidence shows that people in low socioeconomic positions tend to be at high risk for TB transmission.\r\n Aims:\r\n To identify the significance of socioeconomic position and TB risk factors to TB transmission, particularly in Bandar Lampung, Indonesia.\r\n Settings and Design:\r\n This cross-sectional study, conducting in January – November 2017, included 166 samples of smear-positive TB patients collected from 30 primary health centres across the city that had implemented DOTS strategy.\r\n Methods and Material:\r\n The latent variables consisted of: socioeconomic position, housing, nutritional, healthcare access, and TB transmission, which was measured through corresponding indicators. The data was collected through in-depth interviews. \r\n Statistical analysis used:\r\n Data analyzed using Partial least square method.\r\n Results:\r\n Determinants of socioeconomic position through housing determinants significantly influence TB transmission with R2 of 42.3%. They also show that education, housing density index, and internal house transmission are the strongest indicators in explaining their associated latent variables.\r\n Conclusions:\r\n Tuberculosis control program should be integrated with education improvement, a reduction of housing density index, and strengthened examinations of internal house contacts. These programs should be supported by health institutions and other related institutions. The findings will improve TB control programs, especially in low and middle income countries with high socioeconomic disparity.",
+      "eprint_status": "archive",
+      "date": "2018-07",
+      "id_number": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30294089",
+      "divisions": [
+        "FT2"
+      ],
+      "type": "article",
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "Official Publication of Indian Association of Preventive and Social Medicne",
+      "datestamp": "2019-05-06 06:38:58",
+      "lastmod": "2019-05-06 06:38:58",
+      "rev_number": 9,
+      "volume": 43,
+      "metadata_visibility": "show",
+      "title": "Prediction Model of Tuberculosis Transmission Based on Its Risk Factors and Socioeconomic Position in Indonesia",
+      "status_changed": "2019-05-06 06:38:58",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC6166512\/"
+        }
+      ],
+      "dir": "disk0\/00\/01\/16\/63",
+      "publication": "Indian Journal of Community Medicine",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wardani",
+            "honourific": null,
+            "given": "Dyah Wulan"
+          },
+          "id": "dyah.wulan@fk.unila.ac.id"
+        },
+        {
+          "id": "epwahono@eng.unila.ac.id",
+          "name": {
+            "family": "Wahono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Endro Prasetyo"
+          }
+        }
+      ],
+      "issn": "0970-0218",
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11663",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "main": "Repository IJCM July 19(EPW Prediction Model).pdf",
+            "docid": 24656,
+            "files": [
+                {
+                  "objectid": 24656,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105451",
+                  "datasetid": "document",
+                  "filesize": 209530,
+                  "mime_type": "application\/pdf",
+                  "fileid": 105451,
+                  "filename": "Repository IJCM July 19(EPW Prediction Model).pdf",
+                  "hash": "95d413d734f2d0667d9931ed6078d78a",
+                  "mtime": "2019-05-05 03:26:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24656",
+            "eprintid": 11663,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pagerange": "204-208",
+      "userid": 1010
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Widodo",
+            "lineage": null,
+            "given": "Widodo"
+          },
+          "id": "widodo.pmn@gmail.com"
+        },
+        {
+          "id": "aleksander.purba@eng.unila.ac.id",
+          "name": {
+            "given": "Aleksander",
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null
+          }
+        },
+        {
+          "id": "dwwardani@yahoo.com",
+          "name": {
+            "family": "Wardani",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dyah Wulan S.R."
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/89\/68",
+      "date": "2018-10-05",
+      "type": "conference_item",
+      "divisions": [
+        "FT2"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 22047,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86718",
+                  "fileid": 86718,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-25 03:26:19",
+                  "hash": "eb84c4a7feadb2403bed392cb7c66f7c",
+                  "filename": "Penelitian-Widodo-Mahasiswa-MTS-Unila.pdf",
+                  "datasetid": "document",
+                  "filesize": 487105
+                }
+            ],
+            "docid": 22047,
+            "main": "Penelitian-Widodo-Mahasiswa-MTS-Unila.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22047",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8968,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "submitted",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8968",
+      "lastmod": "2018-10-29 04:23:09",
+      "userid": 392,
+      "pagerange": "1-7",
+      "datestamp": "2018-10-29 04:23:09",
+      "event_location": "Bandar Lampung",
+      "eprintid": 8968,
+      "event_title": "Seminar Nasional SINTA 2018",
+      "date_type": "submitted",
+      "title": "Kajian Kepuasan Pengguna BRT Bandar Lampung Terhadap Kualitas Layanan Menggunakan Structural Equation Modeling.",
+      "official_url": "http:\/\/eng.unila.ac.id",
+      "event_dates": "19 October 2018",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "status_changed": "2018-10-29 04:23:09",
+      "eprint_status": "archive",
+      "abstract": "Persaingan dalam bisnis transportasi yang sangat ketat maka PT. Trans Bandar Lampung sebagai operator dan Pemerintah Kota Bandar Lampung sebagai regulator harus memikirkan langkah - langkah yang tepat dalam mengelola BRT Bandar Lampung sehingga dapat bersaing dalam bisnis tersebut. Mempertahankan kepuasan pelanggan merupakan langkah yang tepat untuk tetap bersaing dan menguasai pangsa pasar. Data yang digunakan dalam penelitian ini adalah data primer yang diperoleh dari hasil surve dan kuisioner, serta data skunder yang diperoleh dari dokumen perusahaan, literatur dan internet. Teknik pengambilan sampel dalam penelitian ini adalah dengan menggunakan Probability Sampling dengan cara Sistematik Sampling. Analisis data yang digunakan dalam penelitian ini adalah dengan metode Structural Equation Modelling (SEM) dengan bantuan software statistik Smart PLS. Dalam penelitian ini menggunakan 7 variabel independen yaitu keamanan, keselamatan, kenyamanan, keterjangkauan, kesetaraan, keteraturan dan ramah lingkungan serta 1 variabel dependen yaitu kepuasan pelanggan. Hasil penelitian menunjukkan bahwa terdapat 5 variabel yang berpengaruh secara signifikan terhadap kepuasan pelanggan BRT. Ke-5 variabel tersebut adalah keamanan, keterjangkauan, kesetaraan, keteraturan dan ramah lingkungan. Pengaruh ke-5 variabel terhadap kepuasan pelanggan memberi nilai R-Square sebesar 0.409, Q-square sebesar 0.409 dan nilai GoF sebesar 0.489.",
+      "subjects": [
+        "TA"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2019-04-09 06:53:55",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Persainagan dalam bisnis transportasi yang sangat ketat maka PT. Trans Bandar Lampung sebagai operator dan Pemerintah Kota Bandar Lampung sebagai regulator harus memikirkan langkah - langkah yang tepat dalam mengelola BRT Bandar Lampung sehingga dapat bersaing dalam bisnis tersebut. Mempertahankan kepuasan pelanggan merupakan langkah yang tepat untuk tetap bersaing dan menguasai pangsa pasar. Data yang digunakan dalam penelitian ini adalah data primer yang diperoleh dari hasil surve dan kuisioner, serta data skunder yang diperoleh dari dokumen perusahaan,literatur dan internet. Teknik pengambilan sampel dalam penelitian ini adalah dengan menggunakan Probability Sampling dengan cara Sistematic Sampling. Analisis data yang digunakan dalam penelitian ini adalah dengan metode Structural Equation Modelling (SEM) dengan bantuan software statistik Smart PLS. Dalam penelitian ini menggunakan 1 variabel dependen yaitu kepuasan pelanggan dan 7 variabel independen yaitu keamanan, keselamatan, kenyamanan,keterjangkauan, kesetaraan, keteraturan serta ramah lingkungan. Hasil penelitian menunjukkan bahwa terdapat 5 variabel yang berpengaruh secara signifikan terhadap kepuasan pelanggan BRT. Ke-5 variabel tersebut adalah keamanan, dengan nilai koefisien sebesar 0.300, keterjangkauan dengan nilai koefisien sebesar 0.245, kesetaraan dengan nilai koefisien sebesar -0.211, keteraturan dengan nilai koefisien sebesar 0.206 dan ramah lingkungan dengan nilai koefisien sebesar 0.197.",
+      "official_url": "http:\/\/eng.unila.ac.id\/prosiding-sinta-2018\/",
+      "title": "Kajian Kepuasan Pengguna Bus Rapid Transit (BRT) Bandar Lampung Terhadap Kualitas Layanan Menggunakan Metode Structural Equatioan Modeling (SEM)",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 10965,
+      "date_type": "published",
+      "lastmod": "2019-04-09 06:53:55",
+      "userid": 392,
+      "pagerange": "235-240",
+      "datestamp": "2019-04-09 06:53:55",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "FT-UNILA",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23964",
+            "rev_number": 1,
+            "docid": 23964,
+            "main": "Kajian Kepuasan Pengguna BRT....pdf",
+            "files": [
+                {
+                  "objectid": 23964,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100585",
+                  "mime_type": "application\/pdf",
+                  "fileid": 100585,
+                  "filename": "Kajian Kepuasan Pengguna BRT....pdf",
+                  "hash": "107c983e72a4f8a31439c9d608614bb9",
+                  "mtime": "2019-03-20 01:45:29",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 492743
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 10965,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10965",
+      "refereed": "FALSE",
+      "type": "article",
+      "divisions": [
+        "FT2"
+      ],
+      "publication": "Prosiding Semnas SINTA FT UNILA Vol. 1 Tahun 2018",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Widodo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Widodo"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null,
+            "given": "Aleksander"
+          },
+          "id": "aleksander.purba@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dyah Wulan S.R.",
+            "family": "Wardani",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dwwardani@yahoo.com"
+        }
+      ],
+      "issn": "2655-2914",
+      "date": "2018-10-19",
+      "dir": "disk0\/00\/01\/09\/65"
+    }
+]
+

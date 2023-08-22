@@ -1,0 +1,2028 @@
+[
+    {
+      "official_url": "http:\/\/sniper.library.unila.ac.id",
+      "title": "MODEL 3 DIMENSI GEDUNG SEBAGAI BASIS UNTUK MEMBANTU \r\nNAVIGASI PENGUNJUNG PERPUSTAKAAN",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "eprint_status": "archive",
+      "status_changed": "2019-05-09 03:11:15",
+      "abstract": "Penelitian ini merupakan bagian dari penelitian yang bertujuan untuk mengembangkan sistem navigasi pengunjung UPT Perpustakaan Unila. Paparan pada makalah ini mengenai aplikasi pemodelan 3 dimensi (3D) sebagai pathfinding yang menemukan rute lokasi yang dituju pengunjung. Dengan bantuan tampilan model 3D tersebut, pegunjung mendapatkan informasi yang mengarahkan secara langsung kelokasi atau ruangan yang ingin dituju. Model 3D digambarkan dalam bentuk desain layout ruang pada tiga lantai gedung UPT Perpustakaan Unila dan karakter pengunjung. Ketika menggunakan aplikasi, pengunjung hanya memberikan inputan berupa posisi atau lokasi yang ingin dituju, kemudian karakter pada model akan tampil menelusuri desain layout dan menunjukkan  jalur alternatif mana yang dapat di tempuh oleh pengunjung. Penggambaran desain layout ruang dan karakter pengunjung menggunakan game engine Unity 3D. Desain karakter menggunakan NPC (non Player Control) yang akan mencari titik tujuannya secara acak dan akan mengulangi proses ini setelah sampai dititik tujuan, hingga selesai seluruh rute tempuh. Metode yang digunakan dalam penelitian adalah metode User Experience (UX). Hasil penelitian berupa aplikasi pemodelan 3D yang berhasil dibangun dan dapat dijalankan menggunakan perangkat laptop maupun smartphone. Dari hasil pengujian, aplikasi dapat menunjukkan arah ruangan dengan beberapa alternatif rute, dan berfungsi sesuai dengan kebutuhan pengguna yaitu desain layout 3D ruang yang sesuai aslinya dengan posisi karakter pengunjung yang tepat. \r\n\r\nKata kunci :  Model 3D , Perpustakaan , Unity, User Experience (UX)",
+      "subjects": [
+        "T1"
+      ],
+      "eprintid": 12055,
+      "event_title": "Prosiding Seminar Nasional Inovasi Perpustakaan 2018",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 12055,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25040",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/107880",
+                  "objectid": 25040,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-08 07:21:12",
+                  "hash": "8ee6c7ad132ed22dc29080e085545d01",
+                  "filename": "p-Prosiding SNIPer 2018 Model 3D.pdf",
+                  "fileid": 107880,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1296791,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "p-Prosiding SNIPer 2018 Model 3D.pdf",
+            "docid": 25040
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12055",
+      "full_text_status": "public",
+      "lastmod": "2022-12-05 04:23:31",
+      "userid": 517,
+      "datestamp": "2019-05-09 03:11:15",
+      "pagerange": "93-99",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ginanjar"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyu Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistiono"
+          },
+          "id": "eko@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/01\/20\/55",
+      "date": "2018-12",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "lastmod": "2022-12-05 04:21:49",
+      "userid": 517,
+      "datestamp": "2019-05-09 01:53:28",
+      "pagerange": "23-32",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25032",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 25032,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/107802",
+                  "fileid": 107802,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-08 06:57:07",
+                  "filename": "Tawit Pustaka No 3.pdf",
+                  "hash": "6690dedb29bc30240c4d2c13676f4797",
+                  "datasetid": "document",
+                  "filesize": 1186799
+                }
+            ],
+            "docid": 25032,
+            "main": "Tawit Pustaka No 3.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12047
+          }
+      ],
+      "publisher": "Dinas Perpustakaan dan Kearsipan Provinsi Lampung",
+      "ispublished": "pub",
+      "number": 3,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12047",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "issn": 25989464,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Ginanjar"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "family": "Sulistiono",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Tawit Pustaka Jurnal Perpustakaan dan Informasi Ilmiah",
+      "dir": "disk0\/00\/01\/20\/47",
+      "date": "2018-12",
+      "status_changed": "2019-05-09 01:53:28",
+      "eprint_status": "archive",
+      "abstract": "Penelitian ini mengenai aplikasi sistem navigasi koleksi perpustakaan dengan Web Augmented Reality (AR) yang digunakan untuk menemukan rute lokasi yang dituju pengunjung Perpustakaan Universitas Lampung. Paparan yang disampaikan pada tulisan ini berupa pengujian dan evaluasi sistem navigasi tersebut. Metode yang digunakan dalam pengembangan sistem adalah metode prototyping. Pengujian dan evaluasi sistem menghasilkan pathfinding navmesh yang ada pada game angine unity dapat mempermudah pengunjung untuk menemukan lokasi yang dituju, penggambaran pengunjung pada pathfinding berjalan sesuai masukan pengguna menuju lokasi yang dituju. Pengujian menggunakan kuesioner atau UAT (user acceptance test) untuk sistem navigasi secara keseluruhan dapat diterima dengan baik, dengan perolehan nilai baik sebesar 48%, kemudian nilai cukup sebesar 13%, nilai sangat baik sebesar 36% dan nilai kurang adalah 3%.\r\n\r\nKata kunci : Sistem Navigasi, Augmented Reality, Perpustakaan , User acceptance test",
+      "subjects": [
+        "T1"
+      ],
+      "title": "PENGUJIAN DAN EVALUASI SISTEM NAVIGASI KOLEKSI PERPUSTAKAAN",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 2,
+      "eprintid": 12047
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24102,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 219450,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-20 05:17:15",
+                  "filename": "sertifikat_EC00201857012.pdf",
+                  "hash": "fc5cb841aefaf20ad4024dab2266f2a8",
+                  "datasetid": "document",
+                  "filesize": 770427,
+                  "objectid": 37805,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219450"
+                }
+            ],
+            "docid": 37805,
+            "main": "sertifikat_EC00201857012.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37805",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24102",
+      "full_text_status": "public",
+      "lastmod": "2020-09-21 03:28:46",
+      "userid": 1199,
+      "datestamp": "2020-09-21 03:28:46",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null,
+            "given": "Wahyu Eko"
+          }
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Djausal",
+            "given": "Gita Paramita"
+          }
+        }
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "id_number": "EC00201857012",
+      "date": "2018-11-16",
+      "dir": "disk0\/00\/02\/41\/02",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/YkUyMUJZV0VEeEhYWXlrZERSRnhYUT09",
+      "title": "Hak Cipta Program Komputer APLIKASI AUGMENTED REALITY NAVIGASI KOLEKSI PERPUSTAKAAN",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "eprint_status": "archive",
+      "status_changed": "2020-09-21 03:28:46",
+      "abstract": "Aplikasi Augmented Reality Navigasi Koleksi Perpustakaan adalah aplikasi yang membantu pemustaka (pengunjung perpustakaan) dalam melakukan navigasi menuju pustaka yang dicari berdasarkan lokasi fisik dari tempat perpustakaan. Pemustaka melakukan pencarian pada sistem otomasi perpustakaan menggunakan perangkat bergerak (ponsel, tablet) untuk mendapatkan nomor katalog pustaka. Pemustaka kemudian menggunakan nomor katalog pustaka untuk mendapatkan informasi berbasis Augmented Reality yang menunjukkan arah navigasi kepada pustaka yang dicari. Pemustaka memasukkan informasi lokasi dirinya berada, kemudian sistem melakukan navigasi gedung dalam 3D untuk menunjukkan jalur yang harus dilalui oleh pemustaka. Setelah itu, aplikasi mengakses kamera untuk menggunakan Augmented Reality yang memakai kamera pada perangkat bergerak pemustaka ke marker yang diletakkan di berbagai tempat dalam gedung perpustakaan. Pemustaka kemudian dapat melakukan navigasi menggunakan perangkat bergerak yang memindai marker untuk mengetahui arah yang harus dilalui.",
+      "subjects": [
+        "T1",
+        "T201",
+        "Z719"
+      ],
+      "eprintid": 24102,
+      "date_type": "published"
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 41091,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162514",
+            "rev_number": 1,
+            "docid": 162514,
+            "main": "APLIKASI AUGMENTED REALITY- sertifikat-deskripsi.pdf",
+            "files": [
+                {
+                  "filename": "APLIKASI AUGMENTED REALITY- sertifikat-deskripsi.pdf",
+                  "hash": "5160dca3a9b0c4a144ecc42caab8d50c",
+                  "mtime": "2022-04-05 15:18:42",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456261,
+                  "filesize": 1821694,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456261",
+                  "objectid": 162514
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41091",
+      "full_text_status": "public",
+      "lastmod": "2022-12-05 04:26:27",
+      "userid": 517,
+      "datestamp": "2022-04-06 01:21:54",
+      "patent_applicant": "LPPM Unila",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "family": "Sulistiono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wahyu Eko"
+          }
+        },
+        {
+          "name": {
+            "given": "Gita Paramita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Djausal"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/10\/91",
+      "date": 2018,
+      "id_number": "EC00201857012",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "Hak Cipta Program Komputer APLIKASI AUGMENTED REALITY NAVIGASI KOLEKSI PERPUSTAKAAN -Sertifikat dan Deskripsi",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2022-04-06 01:21:54",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Aplikasi Augmented Reality Navigasi Koleksi Perpustakaan adalah aplikasi yang membantu pemustaka (pengunjung perpustakaan) dalam melakukan navigasi menuju pustaka yang dicari berdasarkan lokasi fisik dari tempat perpustakaan. Pemustaka melakukan pencarian pada sistem otomasi perpustakaan menggunakan perangkat bergerak (ponsel, tablet) untuk mendapatkan nomor katalog pustaka. Pemustaka kemudian menggunakan nomor katalog pustaka untuk mendapatkan informasi berbasis Augmented Reality yang menunjukkan arah navigasi kepada pustaka yang dicari. Pemustaka memasukkan informasi lokasi dirinya berada, kemudian sistem melakukan navigasi gedung dalam 3D untuk menunjukkan jalur yang harus dilalui oleh pemustaka. Setelah itu, aplikasi mengakses kamera untuk menggunakan Augmented Reality yang memakai kamera pada perangkat bergerak pemustaka ke marker yang diletakkan di berbagai tempat dalam gedung perpustakaan. Pemustaka kemudian dapat melakukan navigasi menggunakan perangkat bergerak yang memindai marker untuk mengetahui arah yang harus dilalui.",
+      "eprintid": 41091,
+      "date_type": "published"
+    },
+    {
+      "pagerange": "11-18",
+      "userid": 1199,
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7812",
+      "full_text_status": "public",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7812,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 20852,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69941",
+                  "mime_type": "application\/pdf",
+                  "fileid": 69941,
+                  "filename": "e-Prosiding-SNIPer-2017-Full.pdf",
+                  "hash": "533f90e9918e5e7d4068af24ab3c9443",
+                  "mtime": "2018-06-26 03:47:55",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 5088932
+                }
+            ],
+            "docid": 20852,
+            "main": "e-Prosiding-SNIPer-2017-Full.pdf",
+            "formatdesc": "e-Prosiding",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20852",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "contact_email": "library@kpa.unila.ac.id",
+      "dir": "disk0\/00\/00\/78\/12",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        },
+        {
+          "id": "robysyahp@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Putra",
+            "lineage": null,
+            "given": "Roby Syah"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2614-4689",
+      "publication": "Prosiding Seminar Nasional Inovasi Perpustakaan 2017",
+      "related_url": [
+        {
+          "url": "http:\/\/library.unila.ac.id\/",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2018-06-26 08:03:00",
+      "metadata_visibility": "show",
+      "rev_number": 15,
+      "title": "ANALISIS UNJUK KERJA SINGLE PAGE WEB APPLICATION : CYBER MEDIAWALL PERPUSTAKAAN UNILA",
+      "datestamp": "2018-06-26 08:03:00",
+      "lastmod": "2018-06-26 08:03:00",
+      "publisher": "UPT Perpustakaan Universitas Lampung",
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "date": "2018-01-23",
+      "abstract": "Cyber mediawall sangat dibutuhkan untuk mendukung penyampaian suatu informasi menjadi lebih cepat, tepat dan akurat, terutama untuk penyampaian informasi yang realtime dan bersifat terus menerus. Demikian juga dengan Perpustakaan, user membutuhkan informasi mengenai content dan event yang ada di Perpustakaan baik dalam bentuk teks, animasi, video dan suara yang dapat diperoleh dengan cepat, mudah dan menarik. Cyber mediawall ini dikembangkan dengan menerapkan teknologi Single Page Web Application dan menggunakan WebSocket terutama untuk pengambilan data secara real time dan penjadwalan content. Manajemen informasi pun dilakukan dengan mengatur seluruh data yang akan ditampilkan mulai dari proses pemasukkan content, sinkronisasi seluruh content dari server pusat dengan lokal, dan penjadwalan sehingga content dapat ditampilkan secara real time atau sesuai dengan waktu tayang yang diinginkan. Untuk analisa unjuk kerja, aplikasi dibangun dengan dalam dua versi, yaitu dengan menggunakan WebSocket dan dengan Ajax JSON. Hasil pengujian pada Cyber mediawall ini membuktikan bahwa seluruh fitur sudah berjalan sesuai yang diharapkan, WebSocket memiliki kecepatan page load lebih cepat daripada AJAX. Proses yang membutuhkan waktu paling lama pada AJAX adalah proses scripting sedangkan pada Websocket adalah proses rendering.",
+      "subjects": [
+        "T1",
+        "Z665"
+      ],
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "official_url": "http:\/\/sniper.library.unila.ac.id\/",
+      "event_dates": "16-18 November 2017",
+      "date_type": "published",
+      "eprintid": 7812,
+      "event_title": "SNIPer 2017: Seminar Nasional Inovasi Perpustakaan 2017",
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "userid": 1199,
+      "lastmod": "2020-09-21 03:28:52",
+      "datestamp": "2020-09-21 03:28:52",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 770623,
+                  "datasetid": "document",
+                  "mtime": "2020-09-20 05:21:49",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00201857013.pdf",
+                  "hash": "b17c29e59411aeed23e45a5c83932242",
+                  "fileid": 219462,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219462",
+                  "objectid": 37806
+                }
+            ],
+            "docid": 37806,
+            "main": "sertifikat_EC00201857013.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37806",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 24103,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24103",
+      "type": "patent",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Martinus",
+            "family": ".",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null,
+            "given": "Gita Paramita"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Warsono",
+            "family": ".",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "chacho81@yahoo.com"
+        },
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "given": "Hartoyo",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/41\/03",
+      "date": "2018-11-16",
+      "id_number": "EC00201857013",
+      "eprint_status": "archive",
+      "status_changed": "2020-09-21 03:28:52",
+      "subjects": [
+        "PI",
+        "T1",
+        "T201"
+      ],
+      "abstract": "Aksara Lampung adalah warisan budaya Indonesia yang harus dilestarikan. Demi mendorong penggunaan aksara Lampung di masyarakat modern, dibuat aplikasi Transliterasi Aksara Lampung. Transliterasi Aksara Lampung adalah aplikasi yang berfungsi untuk melakukan transliterasi kata lampung yang ditulis dalam huruf alfabet menjadi aksara Lampung. Fungsi lainnya adalah melakukan pengetikan aksara Lampung menggunakan keyboard, baik virtual atau pun fisik. Dengan mengetahui bentuk aksara Lampung dari kata Lampung yang digunakan, diharapkan aksara Lampung dapat dipakai dalam komunikasi di masyarakat.",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/TmRRQjZxNlpmWVcyaTNKaitod01jUT09",
+      "title": "Hak Cipta Program Komputer Transliterasi Aksara Lampung",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "eprintid": 24103,
+      "date_type": "published"
+    },
+    {
+      "datestamp": "2022-11-14 12:15:41",
+      "lastmod": "2022-11-14 12:15:41",
+      "userid": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46637",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Journal of Physics: Conference Series",
+      "documents": [
+          {
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26857478-2022-11-14-19_13_04.pdf",
+            "docid": 185535,
+            "files": [
+                {
+                  "filesize": 10753965,
+                  "datasetid": "document",
+                  "hash": "7321ebdcbf536e05f74efa36a6c18879",
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26857478-2022-11-14-19_13_04.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 12:14:05",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513938,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513938",
+                  "objectid": 185535
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185535",
+            "eprintid": 46637,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "date": 2018,
+      "dir": "disk0\/00\/04\/66\/37",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 12:15:41",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Artificial Neural Network Applications Use Measurements of\r\nElectrical Quantities to Estimate Electric Power - similarity check",
+      "date_type": "published",
+      "eprintid": 46637
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46609,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185499",
+            "main": "unila.ac.id Mail - Re_ ___SPAM___ Fwd_ Re_[ICECREAM 2018] Your paper #1570503058 ('A Real-time Schoolchild Shuttle Vehicle Tracking System Base on Android Mobile-apps').pdf",
+            "docid": 185499,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2302997,
+                  "mime_type": "application\/pdf",
+                  "fileid": 513714,
+                  "hash": "20d8466f74cb5cb68f39fe4a760b068f",
+                  "filename": "unila.ac.id Mail - Re_ ___SPAM___ Fwd_ Re_[ICECREAM 2018] Your paper #1570503058 ('A Real-time Schoolchild Shuttle Vehicle Tracking System Base on Android Mobile-apps').pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 07:35:42",
+                  "objectid": 185499,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513714"
+                }
+            ]
+          }
+      ],
+      "publisher": "SPC",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46609",
+      "lastmod": "2022-11-14 07:36:45",
+      "userid": 1,
+      "datestamp": "2022-11-14 07:36:45",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/04\/66\/09",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "An Enhanced K-Means Clustering Algorithm for Pattern Discovery in Big Data Analysis of 3-Phase Electrical Quantities - Corresponding Email",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 07:36:45",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 46609,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 46608,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "An Enhanced K-Means Clustering Algorithm for Pattern Discovery in Big Data Analysis of 3-Phase Electrical Quantities - Similarity Check",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 07:28:04",
+      "eprint_status": "archive",
+      "date": 2018,
+      "dir": "disk0\/00\/04\/66\/08",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46608",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "SPC",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46608,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185498",
+            "docid": 185498,
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26840221-2022-11-14-14_18_29.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 513706,
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26840221-2022-11-14-14_18_29.pdf",
+                  "hash": "61178e162818aa8c0ed76cdb468643e3",
+                  "mtime": "2022-11-14 07:24:42",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 17091567,
+                  "objectid": 185498,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513706"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2022-11-14 07:28:04",
+      "lastmod": "2022-11-14 07:28:04",
+      "userid": 1
+    },
+    {
+      "eprintid": 47145,
+      "date_type": "published",
+      "status_changed": "2022-12-06 22:28:20",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "title": "HKI Permainan Video Koper Apung",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        }
+      ],
+      "patent_applicant": "Gigih Forda Nama",
+      "id_number": "EC00201857697",
+      "date": 2018,
+      "dir": "disk0\/00\/04\/71\/45",
+      "lastmod": "2022-12-06 22:28:20",
+      "userid": 1,
+      "datestamp": "2022-12-06 22:28:20",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47145,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186106",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 770056,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-06 22:19:24",
+                  "filename": "sertifikat_EC00201857697.pdf",
+                  "hash": "6dc23213306611768c90122bd9fc5ff7",
+                  "fileid": 517830,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517830",
+                  "objectid": 186106
+                }
+            ],
+            "main": "sertifikat_EC00201857697.pdf",
+            "docid": 186106
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47145"
+    },
+    {
+      "eprintid": 47150,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-12-06 22:28:01",
+      "subjects": [
+        "AC"
+      ],
+      "title": "HKI Program Komputer COMon: Carbon Monitoring System For University Of Lampung Environment",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "patent_applicant": "Gigih Forda Nama",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/71\/50",
+      "date": 2018,
+      "id_number": "EC00201857698",
+      "lastmod": "2022-12-06 22:28:01",
+      "userid": 1,
+      "datestamp": "2022-12-06 22:28:01",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 770276,
+                  "mime_type": "application\/pdf",
+                  "fileid": 517865,
+                  "hash": "c201dd0201d0563f4a948e1ffd7443a0",
+                  "filename": "sertifikat_EC00201857698.pdf",
+                  "mtime": "2022-12-06 22:26:56",
+                  "hash_type": "MD5",
+                  "objectid": 186111,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517865"
+                }
+            ],
+            "docid": 186111,
+            "main": "sertifikat_EC00201857698.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186111",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47150,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47150",
+      "full_text_status": "public"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-12-06 22:28:06",
+      "subjects": [
+        "AC"
+      ],
+      "title": "HKI Program Komputer ELECTRICITY REAL- TIME ESTIMATION SYSTEM",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 47148,
+      "date_type": "published",
+      "lastmod": "2022-12-06 22:28:06",
+      "userid": 1,
+      "datestamp": "2022-12-06 22:28:06",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186109",
+            "main": "sertifikat_EC00201816447.pdf",
+            "docid": 186109,
+            "files": [
+                {
+                  "objectid": 186109,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517851",
+                  "datasetid": "document",
+                  "filesize": 770571,
+                  "fileid": 517851,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-06 22:24:03",
+                  "filename": "sertifikat_EC00201816447.pdf",
+                  "hash": "52eee5fbd73163bea84a6c2bc12e07a0"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 47148,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47148",
+      "full_text_status": "public",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "patent_applicant": "Gigih Forda Nama",
+      "id_number": "EC00201816447",
+      "dir": "disk0\/00\/04\/71\/48",
+      "date": 2018
+    },
+    {
+      "eprintid": 47146,
+      "date_type": "published",
+      "title": "HKI Program Komputer Font Aksara Lampung",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2022-12-06 22:28:13",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "patent_applicant": "HKI Program Komputer",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/04\/71\/46",
+      "id_number": "EC00201826133",
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186107",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517837",
+                  "objectid": 186107,
+                  "filesize": 771743,
+                  "datasetid": "document",
+                  "hash": "e91fff70e5822212cd8082c3b2c9bbe6",
+                  "filename": "sertifikat_EC00201826133.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-06 22:21:21",
+                  "mime_type": "application\/pdf",
+                  "fileid": 517837
+                }
+            ],
+            "main": "sertifikat_EC00201826133.pdf",
+            "docid": 186107,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47146
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47146",
+      "lastmod": "2022-12-06 22:28:13",
+      "userid": 1,
+      "datestamp": "2022-12-06 22:28:13"
+    },
+    {
+      "type": "patent",
+      "divisions": [
+        "FT8"
+      ],
+      "patent_applicant": "Gigih Forda Nama",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/71\/47",
+      "date": 2018,
+      "id_number": "EC00201816446",
+      "lastmod": "2022-12-06 22:28:09",
+      "userid": 1,
+      "datestamp": "2022-12-06 22:28:09",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47147,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 770318,
+                  "mime_type": "application\/pdf",
+                  "fileid": 517844,
+                  "filename": "sertifikat_EC00201816446.pdf",
+                  "hash": "37106c97a428aa0875c88dcc77fc98dd",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-06 22:22:34",
+                  "objectid": 186108,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517844"
+                }
+            ],
+            "docid": 186108,
+            "main": "sertifikat_EC00201816446.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186108",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47147",
+      "eprintid": 47147,
+      "date_type": "published",
+      "status_changed": "2022-12-06 22:28:09",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "title": "HKI Program Komputer REAL-TIME ENERGY MONITORING SYSTEM",
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "lastmod": "2023-01-09 08:23:28",
+      "userid": 1,
+      "datestamp": "2022-11-14 12:10:30",
+      "ispublished": "pub",
+      "publisher": "IOP Conference Series: Materials Science and Engineering",
+      "documents": [
+          {
+            "placement": 2,
+            "security": "public",
+            "eprintid": 46636,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522103",
+                  "objectid": 186737,
+                  "filesize": 860036,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-09 08:23:19",
+                  "hash": "62a4b2b219774e6f5e02738fd35cf232",
+                  "filename": "2018_IOP_Conf._Ser.__Mater._Sci._Eng._335_012063 (2).pdf.pdf",
+                  "fileid": 522103,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 186737,
+            "main": "2018_IOP_Conf._Ser.__Mater._Sci._Eng._335_012063 (2).pdf.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186737",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46636",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/66\/36",
+      "date": 2018,
+      "status_changed": "2022-11-14 12:10:30",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "title": "The Implementation Internet of Things(IoT) Technology in Real Time Monitoring of Electrical Quantities - similarity check",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "eprintid": 46636,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 46610,
+      "date_type": "published",
+      "status_changed": "2022-11-14 07:48:16",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Implementation of K-Means Technique in Data Mining to Cluster Researchers Google Scholar Profile - Corresponding email",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/66\/10",
+      "date": 2018,
+      "lastmod": "2022-11-23 09:07:39",
+      "userid": 1,
+      "datestamp": "2022-11-14 07:48:16",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46610,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185500",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 513722,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-14 07:46:59",
+                  "hash_type": "MD5",
+                  "hash": "43fcc73524777ec6c042223eb825aae5",
+                  "filename": "2 unila.ac.id Mail - Submit Full _Paper Implementation of K-Means Technique in Data Mining to Cluster Researchers Google Scholar Profile_.pdf",
+                  "datasetid": "document",
+                  "filesize": 571970,
+                  "objectid": 185500,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513722"
+                }
+            ],
+            "docid": 185500,
+            "main": "2 unila.ac.id Mail - Submit Full _Paper Implementation of K-Means Technique in Data Mining to Cluster Researchers Google Scholar Profile_.pdf"
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46610,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185740",
+            "docid": 185740,
+            "main": "A2708109119.pdf",
+            "files": [
+                {
+                  "filename": "A2708109119.pdf",
+                  "hash": "46ec7eb2ae23a1266cf4f08bc700737f",
+                  "mtime": "2022-11-23 09:07:39",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 515304,
+                  "filesize": 936691,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515304",
+                  "objectid": 185740
+                }
+            ]
+          }
+      ],
+      "publisher": "SPC",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46610",
+      "full_text_status": "public"
+    },
+    {
+      "eprintid": 46615,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 08:15:13",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Implementation of Two-Factor Authentication (2FA) to Enhance the Security of Academic Information System - Corresponding Email",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/66\/15",
+      "date": 2018,
+      "lastmod": "2022-11-14 08:15:13",
+      "userid": 1,
+      "datestamp": "2022-11-14 08:15:13",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185505",
+            "rev_number": 1,
+            "docid": 185505,
+            "main": "3 unila.ac.id Mail - Request for revised version of article 32597-JEAS.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513759",
+                  "objectid": 185505,
+                  "filesize": 419817,
+                  "datasetid": "document",
+                  "filename": "3 unila.ac.id Mail - Request for revised version of article 32597-JEAS.pdf",
+                  "hash": "8cbb0ad50dafbbe5a326b10978d6f178",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 08:13:58",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513759
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46615,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Medwell Journal",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46615",
+      "full_text_status": "public"
+    },
+    {
+      "datestamp": "2022-11-14 12:29:36",
+      "userid": 1,
+      "lastmod": "2022-11-14 12:29:36",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46640",
+      "publisher": "IEEE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46640,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185537",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 11615646,
+                  "mime_type": "application\/pdf",
+                  "fileid": 513955,
+                  "hash": "f247a72e8e5106b3bdb53b82d99d00bf",
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26858018-2022-11-14-19_27_23.pdf",
+                  "mtime": "2022-11-14 12:28:24",
+                  "hash_type": "MD5",
+                  "objectid": 185537,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513955"
+                }
+            ],
+            "docid": 185537,
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26858018-2022-11-14-19_27_23.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/66\/40",
+      "date": 2018,
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 12:29:36",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Web-based real time monitoring of electrical quantities measurement - similarity check",
+      "eprintid": 46640
+    },
+    {
+      "date_type": "published",
+      "eprintid": 27084,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "KOPER APUNG, EC00201857697",
+      "abstract": "SURAT PENCATATAN CIPTAAN\r\nDalam rangka pelindungan ciptaan di bidang ilmu pengetahuan, seni dan sastra berdasarkan Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, dengan ini menerangkan:\r\nNomor dan tanggal permohonan : EC00201857697, 7 Desember 2018. \r\nPencipta Nama : Gigih Forda Nama, Mardiana.\r\nJenis Ciptaan : Permainan Video\r\nJudul Ciptaan : KOPER APUNG",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2020-12-14 00:58:23",
+      "eprint_status": "archive",
+      "id_number": "EC00201857697",
+      "dir": "disk0\/00\/02\/70\/84",
+      "date": "2018-12",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null,
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        }
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27084",
+      "documents": [
+          {
+            "docid": 41098,
+            "main": "sertifikat_EC00201857697-KOPER APUNG.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/242795",
+                  "objectid": 41098,
+                  "filesize": 770056,
+                  "datasetid": "document",
+                  "hash": "6dc23213306611768c90122bd9fc5ff7",
+                  "filename": "sertifikat_EC00201857697-KOPER APUNG.pdf",
+                  "mtime": "2020-12-11 13:10:51",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 242795
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41098",
+            "rev_number": 1,
+            "eprintid": 27084,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2020-12-14 00:58:23",
+      "lastmod": "2020-12-14 00:58:23",
+      "userid": 517
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41083",
+      "documents": [
+          {
+            "eprintid": 41083,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Koper Apung sertifikat -deskripsi.pdf",
+            "docid": 162506,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456212",
+                  "objectid": 162506,
+                  "filesize": 2426845,
+                  "datasetid": "document",
+                  "filename": "Koper Apung sertifikat -deskripsi.pdf",
+                  "hash": "5495c25d634a50161d02678a194c39db",
+                  "mtime": "2022-04-05 09:53:33",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456212
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162506",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-04-06 01:21:28",
+      "lastmod": "2022-04-06 01:21:28",
+      "userid": 517,
+      "id_number": "EC00201857697",
+      "date": 2018,
+      "dir": "disk0\/00\/04\/10\/83",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        }
+      ],
+      "patent_applicant": "LPPM Unila",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Program Komputer KOPER APUNG - Sertifikat dan Deskripsi",
+      "abstract": "SURAT PENCATATAN CIPTAAN Dalam rangka pelindungan ciptaan di bidang ilmu pengetahuan, seni dan sastra berdasarkan Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, dengan ini menerangkan: Nomor dan tanggal permohonan : EC00201857697, 7 Desember 2018. Pencipta Nama : Gigih Forda Nama, Mardiana. Jenis Ciptaan : Permainan Video Judul Ciptaan : KOPER APUNG",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 01:21:28",
+      "date_type": "published",
+      "eprintid": 41083
+    },
+    {
+      "eprintid": 7815,
+      "status_changed": "2018-06-26 03:52:30",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Abstract: Academic information system play an important role to serve the information technology needs of the academic programs at University of Lampung these system are usually implemented on higher education in order to provide a validity and reliability of academic data. University of Lampung (Unila) has a long history in development of Academic Information System (Siakad), starting with manual system, semi-online and full online. To enhance the security level of Siakad application, further more in this study, described the design and implementation process of two-Factor Authentication (2FA) that was already deployed on Siakad application and running well, since, 2013 it used the account knowledge (username\/password) and also account possession (security token on users mobile phone) factors. Both of these factors are implemented for user authentication, it proven that the security become better and made it more difficult to bypass and minimize the possibility of unauthorized access. Data retrieval of system usage statistic conducted, since, April 2014 until April 2016 from the system report shown there were total 29483 time One Time Password (OTP) code sent to user’s mobile phone. Usually on January or August each year there will be an increased number of OTP code sent to user because on January was the end of even semester and August was the end of odd semester. The most popular cellular provider used by user was TELKOMSEL with total 77% registered number, INDOSAT with 18% number used, XL with 3% number registered and TRI with total 2% number registered with this various number of cellular number usage, we analyzed that mean time the OTP code delivery was 22.87 sec, this mean time value was still within the threshold of tolerance time accepted by user, indicated the system research as well.",
+      "official_url": "https:\/\/www.medwelljournals.com\/abstract\/?doi=jeasci.2018.2209.2220",
+      "title": "Implementation of Two-Factor Authentication (2FA) to Enhance the Security of Academic Information System",
+      "rev_number": 7,
+      "volume": 13,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "Journal of Engineering and Applied Sciences",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1818-7803 (Online)",
+      "date": "2018-06",
+      "dir": "disk0\/00\/00\/78\/15",
+      "lastmod": "2018-06-26 03:53:44",
+      "userid": 3,
+      "datestamp": "2018-06-26 03:52:30",
+      "pagerange": "2209-2220",
+      "ispublished": "pub",
+      "number": 8,
+      "publisher": "Medwell Journal",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 69952,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-26 03:50:14",
+                  "hash": "897865234b7c48b59241b1eaf2f51b74",
+                  "filename": "2209-2220.pdf",
+                  "datasetid": "document",
+                  "filesize": 741412,
+                  "objectid": 20853,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69952"
+                }
+            ],
+            "main": "2209-2220.pdf",
+            "docid": 20853,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20853",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 7815,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7815",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "eprintid": 12394,
+      "rev_number": 6,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.sciencepubco.com\/index.php\/ijet\/article\/view\/29075",
+      "title": "A Real-time Schoolchild Shuttle Vehicle Tracking System Base on Android Mobile-apps",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Indonesians parent widely use private school shuttle services for their schoolchild due to their lack of time and effectiveness, unfortunately mostly of those shuttle vehicles (car or motor cycle) services currently cannot be tracked. From a security point of view, the parent’s need a system that can identified the location of the vehicle in real-time. With rapid technological development today, parents' skepticism can be overcome by tracking the shuttle vehicles through a mobile applications that connected to Global Positioning System (GPS). This research presents the design of a prototype, called “AS-OJEK”, an android-based mobile apps and web technology for schoolchild shuttle applications that used several technology such as Web-services, JSON, PHP, MySQL and bootstrap framework as application builders. The application could be installed on any android smartphone version, it will be able to send the location and displaying the vehicle shuttle location on the smartphone screen and display historical location of the tracked vehicle. Rapid Application Development (RAD) framework was used as a software development method, with its 4 phases; phase 1: requirements planning and specifications, phase 2: user design, phase 3: construction, phase 4: cutover. The application was already appropriate with user’s needs, proven by performing functional testing and User Acceptance Test (UAT). Based on the results of the UAT, this application has been running well and succeed sending vehicle location to the server, and can tracked through mobile-apps or web applications.",
+      "status_changed": "2019-05-10 01:14:35",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/23\/94",
+      "date": "2018-11",
+      "publication": "International Journal of Engineering &Technology (IJET)",
+      "issn": "ISSN 2227-524X",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Fadillah Halim",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rasyidy"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Arum S P",
+            "honourific": null,
+            "given": "Raden"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12394",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 3.36,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12394,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25372",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 536715,
+                  "fileid": 110313,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-10 01:09:00",
+                  "filename": "IJET-29075.pdf",
+                  "hash": "eceec800e31409c48f71875109a75199",
+                  "objectid": 25372,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/110313"
+                }
+            ],
+            "docid": 25372,
+            "main": "IJET-29075.pdf"
+          }
+      ],
+      "publisher": "Science Publishing",
+      "pagerange": "40-44",
+      "datestamp": "2019-05-10 01:14:35",
+      "lastmod": "2019-05-10 01:14:35",
+      "userid": 3
+    },
+    {
+      "number": 3.36,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filename": "A Real-time Schoolchild Shuttle Vehicle.pdf",
+                  "hash": "1cfa733a5981f428a9e897e79f454a3c",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 03:17:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456335,
+                  "filesize": 1468272,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456335",
+                  "objectid": 162522
+                }
+            ],
+            "main": "A Real-time Schoolchild Shuttle Vehicle.pdf",
+            "docid": 162522,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162522",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41101,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Science Publishing",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41101",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-04-06 04:19:59",
+      "userid": 517,
+      "datestamp": "2022-04-06 04:19:59",
+      "pagerange": "40-44",
+      "publication": "International Journal of Engineering &Technology (IJET)",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fadillah Halim",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rasyidy"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Raden Arum",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setia Pribadi"
+          }
+        },
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        }
+      ],
+      "issn": "ISSN 2227-524X",
+      "dir": "disk0\/00\/04\/11\/01",
+      "date": 2018,
+      "id_number": "DOI: 10.14419\/ijet.v7i3.36.29075",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "A Real-time Schoolchild Shuttle Vehicle Tracking System Base on Android Mobile-apps- Full Cover",
+      "official_url": "https:\/\/www.sciencepubco.com\/index.php\/ijet\/article\/view\/29075\/15440",
+      "rev_number": 10,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 04:19:59",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Indonesians parent widely use private school shuttle services for their schoolchild due to their lack of time and effectiveness, unfortunately mostly of those shuttle vehicles (car or motor cycle) services currently cannot be tracked. From a security point of view, the parent’s need a system that can identified the location of the vehicle in real-time. With rapid technological development today, parents' skepticism can be overcome by tracking the shuttle vehicles through a mobile applications that connected to Global Positioning System (GPS). This research presents the design of a prototype, called “AS-OJEK”, an android-based mobile apps and web technology for schoolchild shuttle applications that used several technology such as Web-services, JSON, PHP, MySQL and bootstrap framework as application builders. The application could be installed on any android smartphone version, it will be able to send the location and displaying the vehicle shuttle location on the smartphone screen and display historical location of the tracked vehicle. Rapid Application Development (RAD) framework was used as a software development method, with its 4 phases; phase 1: requirements planning and specifications, phase 2: user design, phase 3: construction, phase 4: cutover. The application was already appropriate with user’s needs, proven by performing functional testing and User Acceptance Test (UAT). Based on the results of the UAT, this application has been running well and succeed sending vehicle location to the server, and can tracked through mobile-apps or web applications.",
+      "eprintid": 41101,
+      "date_type": "published"
+    },
+    {
+      "pagerange": "215-221",
+      "datestamp": "2019-05-09 03:11:16",
+      "userid": 517,
+      "lastmod": "2019-05-09 03:11:16",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12059",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 12059,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25044",
+            "rev_number": 1,
+            "docid": 25044,
+            "main": "p-Prosiding SNIPer 2018 UX.pdf",
+            "files": [
+                {
+                  "objectid": 25044,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/107952",
+                  "fileid": 107952,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-05-08 07:26:47",
+                  "hash_type": "MD5",
+                  "filename": "p-Prosiding SNIPer 2018 UX.pdf",
+                  "hash": "17adcf33bb7f8b3c12d947e0b49cc5c0",
+                  "datasetid": "document",
+                  "filesize": 1132089
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/01\/20\/59",
+      "date": "2018-12",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Pratiwi",
+            "honourific": null,
+            "given": "Restu"
+          }
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          }
+        }
+      ],
+      "abstract": "Perpustakaan merupakan pusat pembangunan peradaban dunia yang di dalamnya pengunjung dapat membaca buku serta mencari referensi bagi para penggiat akademisi. Kepuasan pengunjung terhadap pelayanan perpustakaan menjadi hal yang utama untuk pengembangan dan perbaikan perpustakaan. Perpustakaan menggunakan kioska unutk memberi layanan yang berinterksi dengan system otomasi perpustakaan. Interaksi manusia komputer perlu memberikan kenyamanan dalam mencapai tujun layanan. survei sangat dibutuhkan sebagai landasan untuk terus memperbaiki dan mengembangkan fasilitas kenyamanan yang ada di perpustakaan. Survei dilakukan di UPT Perpustakaan Universitas Lampung dengan 100 responden pengunjung perpustakaan yang merupakan mahasiswa Universitas Lampung dari berbagai fakultas. Pengumpulan data dilaksanakan selama dua hari dan didapatkan saran untuk menambahkan beberapa fasilitas seperti buku kuliah sebagai bahan bacaan yang paling banyak diminati. UX Requirement Gathering adalah metode yang dipakai pada penelitian ini, dari hasil survei didapat 92% pengunjung mengoperasikan kioska dengan tangan sebelah kanan, 82% mengatakan tidak sulit menggunakan kioska, serta sebagian besar persentase  menyukai warna biru, putih, dan hitam, 79% lebih menyukai sesuatu yang bergambar dibandingkan dengan tulisan. Hasil survei dapat digunakan sebagai landasan untuk membangun aplikasi survei dengan media kioska  menggunakan Metode User Experience. Penelitian membuka peluang untuk membangun aplikasi layanan kioska yang tepat bagi perpustakaan.\r\n\r\nKata kunci :  perpustakaan , survei kepuasan pengunjung , kioska",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2019-05-09 03:11:16",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "title": "UX REQUIREMENT GATHERING UNTUK APLIKASI KIOSKA \r\nSURVEI KEPUASAN PENGUNJUNG PERPUSTAKAAN",
+      "official_url": "http:\/\/sniper.library.unila.ac.id",
+      "eprintid": 12059,
+      "event_title": "Prosiding Seminar Nasional Inovasi Perpustakaan"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "title": "Smart Warehouse: Sistem Pemantauan dan Kontrol\r\nOtomatis Suhu serta Kelembaban Gudang",
+      "event_dates": "27 September 2018",
+      "abstract": "—Penyimpanan beras di dalam gudang perlu\r\nmendapat perhatian yang khusus. Kondisi suhu dan\r\nkelembaban mempengaruhi kualitas dan ketahanan beras\r\nterhadap jamur ataupun kutu. Untuk itu kondisi gudang\r\npenyimpanan beras senantiasa perlu diawasi dan dikondisikan\r\nsesuai dengan standar. Penelitian ini membuat rancang\r\nbangun sistem monitoring dan kontrol suhu dan kelembaban\r\ngudang beras. Perancangan dilakukan dengan membangun\r\nprototipe gudang yang akan diawasi oleh sistem. Teknologi ini\r\nterhubung melalui website yang telah disematkan seluruh\r\ninformasi yang diperoleh oleh rancangan sensor. Keunggulan\r\npemantauan suhu dan kelembaban berbasis Internet of Things\r\n(IoT) yaitu suhu dan kelembaban gudang dapat dipantau\r\nsecara real-time melalui website. Hasil pengujian menunjukkan sistem mampu melakukan pemantauan kondisi suhu dan\r\nkelembaban gudang dan mengirimkan datanya kepada\r\npengguna. Sistem juga mampu mengkondisikan suhu dan\r\nkelembaban gudang dengan menyalakan kipas dan pemanas\r\njika suhu dan kelembaban telah mencapai ambang batas.\r\nDengan adanya rancangan sistem pemantauan suhu dan\r\nkelembaban berbasis IoT, mampu membantu menjaga kualitas\r\nhasil pertanian yaitu beras selama penyimpanan",
+      "subjects": [
+        "TK"
+      ],
+      "status_changed": "2019-01-02 08:00:26",
+      "eprint_status": "archive",
+      "event_location": "Bengkulu",
+      "date_type": "published",
+      "eprintid": 10317,
+      "event_title": "Seminar Nasional Inovasi, Teknologi dan Aplikasi (SeNITiA) 2018",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10317",
+      "documents": [
+          {
+            "eprintid": 10317,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 23303,
+            "main": "2018f-1-31 Hery Dian Septama.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/96153",
+                  "objectid": 23303,
+                  "filesize": 763759,
+                  "datasetid": "document",
+                  "mtime": "2018-11-19 04:51:47",
+                  "hash_type": "MD5",
+                  "filename": "2018f-1-31 Hery Dian Septama.pdf",
+                  "hash": "9699ec4952ea19e13c15daf4bfb2ab1c",
+                  "fileid": 96153,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23303",
+            "rev_number": 1
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2019-01-02 08:00:26",
+      "pagerange": "189-192",
+      "lastmod": "2022-12-05 04:24:03",
+      "userid": 159,
+      "date": "2018-09-27",
+      "dir": "disk0\/00\/01\/03\/17",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yulianti",
+            "given": "Titin"
+          },
+          "id": "titinyulianti@gmail.com"
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "honourific": null,
+            "family": "Sulistiono",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "Dipa FT Unila"
+      ],
+      "type": "conference_item"
+    }
+]
+

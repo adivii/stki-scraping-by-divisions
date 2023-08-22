@@ -1,0 +1,847 @@
+[
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/582",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "jamiatulakmal@gmail.com",
+          "name": {
+            "family": "Akmal",
+            "honourific": null,
+            "lineage": null,
+            "given": "Jamiatul"
+          }
+        }
+      ],
+      "publisher": "Jurusan Teknik Mesin Universitas Tarumanagara",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/486",
+            "main": "An Assesment of_SNMI UNTAR 2005.pdf",
+            "docid": 486,
+            "files": [
+                {
+                  "objectid": 486,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3152",
+                  "datasetid": "document",
+                  "filesize": 8157820,
+                  "mime_type": "application\/pdf",
+                  "fileid": 3152,
+                  "hash": "40ceee34ba0d7cc77fc538ebfaeafe0f",
+                  "filename": "An Assesment of_SNMI UNTAR 2005.pdf",
+                  "mtime": "2016-09-15 03:26:36",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 582,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2016-09-19 06:10:59",
+      "pagerange": "305-310",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 24,
+      "lastmod": "2016-09-19 06:10:59",
+      "date": "2005-09-28",
+      "dir": "disk0\/00\/00\/05\/82",
+      "publication": "Prosiding Seminar Nasional Mesin dan Industri (SNMI) 2005",
+      "issn": "979-95752-5-7",
+      "creators": [
+        {
+          "name": {
+            "given": "Jamiatul",
+            "lineage": null,
+            "honourific": null,
+            "family": "Akmal"
+          },
+          "id": "jamiatulakmal@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FT7"
+      ],
+      "type": "article",
+      "rev_number": 25,
+      "metadata_visibility": "show",
+      "title": "An Assesment of The Maximum Stresses in The Intersecting Cylinders Subjected to Internal Pressure_SNMI UNTAR 2005",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Cylinder-cylinder intersection problems are commonly encountered as nozzles in pressure\r\nvessels or branches in piping. This paper reports initial results of a finite element analysis on\r\nthe maximum stresses in the intersecting shell\/nozzle loaded by internal pressure. The results\r\npresented in this paper are based on un-reinforced cylinder intersections with the nozzle flush\r\nnormal to the vessel. Results show that the maximum bending stress is significantly bigger than\r\nthe maximum membrane stress. The effect of the maximum bending stress (at the intersection) \r\nis diminished at a distance of approximately 2.35\r\nRT\r\n along the shell and 2.5\r\nrt\r\n along the \r\nnozzle. This result confirms that the length of thickness reinforcement suggested by the PD5500 \r\nPressure Vessel Code is adequate for the nozzle but slightly conservative for the shell.",
+      "status_changed": "2016-09-19 06:10:59",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 582
+    },
+    {
+      "date_type": "published",
+      "eprintid": 3663,
+      "abstract": "The aim  of this study  is to investigate  the effect of shot peening  on stress corrosion cracking  of a low carbon steel in ocean  water environment.   The dimension  of specimens    were prepared  in accordance with the ASTM   G39.  The hardness  testing was carried out using microvickers with  0,25  kgf load in the longitudinal direction.   The corrosion cracking test was   immersed  into artificial sea water for about  7 months.  The test shows  that  the pitting  corrosion is dominantly   nucleated  at  the metal  film   interface.  The  biggest pitting corrosion  was occurred under  the static loading  of 70 for the specimens  unpeened.   The presence of pitting corrosion promotes  stress corrosion  cracking.  The cracking has a intergranular  branched  morphology  which is typical for the chloride cracking of low carbon steel",
+      "subjects": [
+        "TJ"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/puslit.petra.ac.id\/journals\/",
+      "divisions": [
+        "FT7"
+      ],
+      "type": "article",
+      "date": "2005-04",
+      "datestamp": "2017-07-20 09:06:35",
+      "corp_creators": [
+        "Prodi Teknik Mesin, Fak. Teknik, Unila",
+        "Prodi Teknik Mesin, Fak. Teknik, Unila"
+      ],
+      "lastmod": "2017-07-20 09:06:35",
+      "publisher": "Institute of Research and Community Outreach Petra Christian University",
+      "number": 1,
+      "ispublished": "pub",
+      "status_changed": "2017-07-20 09:06:35",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 7,
+      "title": "Efek Shot Peening Terhadap Korosi Retak Tegang (SCC) Baja Karbon Rendah dalam Lingkungan Air Laut",
+      "keywords": "shot peening, pitting corrosion, stress corrosion cracking",
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "dir": "disk0\/00\/00\/36\/63",
+      "issn": "1410-9867",
+      "creators": [
+        {
+          "name": {
+            "given": "Mohammad",
+            "honourific": null,
+            "family": "Badaruddin",
+            "lineage": null
+          },
+          "id": "mbruddin@eng.unila.ac.id"
+        },
+        {
+          "id": "sugiyanto.1957@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sugiyanto",
+            "lineage": null,
+            "given": "Sugiyanto"
+          }
+        }
+      ],
+      "publication": "Jurnal Teknik Mesin",
+      "pagerange": "11-14",
+      "userid": 1133,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3663",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 1387268,
+                  "datasetid": "document",
+                  "mtime": "2017-07-17 14:32:12",
+                  "hash_type": "MD5",
+                  "filename": "@1. Jurnal T. Mesin-Univ Petra.pdf",
+                  "hash": "0c351e537025b64414e0d4b56aec5653",
+                  "fileid": 25604,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25604",
+                  "objectid": 3529
+                }
+            ],
+            "docid": 3529,
+            "main": "@1. Jurnal T. Mesin-Univ Petra.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3529",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3663,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Mesin – Fakultas Teknologi Industri, Universitas Kristen Petra, Surabaya",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3580",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26113",
+                  "objectid": 3580,
+                  "filesize": 1387268,
+                  "datasetid": "document",
+                  "filename": "@1. Jurnal T. Mesin-Univ Petra.pdf",
+                  "hash": "0c351e537025b64414e0d4b56aec5653",
+                  "mtime": "2017-07-21 18:58:36",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26113
+                }
+            ],
+            "docid": 3580,
+            "main": "@1. Jurnal T. Mesin-Univ Petra.pdf",
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3717
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3717",
+      "refereed": "TRUE",
+      "lastmod": "2017-07-31 03:44:51",
+      "userid": 1133,
+      "datestamp": "2017-07-31 03:44:51",
+      "pagerange": "11-14",
+      "publication": "Jurnal Teknik Mesin, Jurnal Keilmuaan dan Terapan Teknik Mesin",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Badaruddin",
+            "given": "Mohammad"
+          },
+          "id": "mbruddin@eng.unila.ac.id"
+        },
+        {
+          "id": "sugiyanto.1957@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sugiyanto",
+            "lineage": null,
+            "given": "Sugiyanto"
+          }
+        }
+      ],
+      "issn": "1410-9867",
+      "dir": "disk0\/00\/00\/37\/17",
+      "date": "2005-04",
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "type": "article",
+      "keywords": "shot peening, pitting corrosion, stress corrosion cracking",
+      "divisions": [
+        "FT7"
+      ],
+      "official_url": "http:\/\/puslit.petra.ac.id\/juornals\/",
+      "title": "Efek Shot Peening Terhadap Korosi Retak Tegang (SCC) Baja Karbon Rendah dalam Lingkungan Air Laut",
+      "rev_number": 7,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2017-07-31 03:44:51",
+      "eprint_status": "archive",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "The aim  of this study  is to investigate the effect of shot peening  on stress corrosion.  cracking  of a low carbon steel in ocean water environment.  The dimension  of specimens   were prepared  in accordance with the AS1M   G39. The hardness  testing was carried out using microvickers with  0,25 kg( load in the longitudinal direction. The corrosion. cracking  test  was   immersed  into artificial  sea water for about  7 months.  The test shouis that  the pitting  corrosion is dominantly   nucleated  at  the metal  film  interface.  The  biggest pitting corrosion was occurred under  the static loading  of 70 for the specimens  unpeened. The presence of pitting corrosion promotes stress corrosion cracking. The cracking has a intergranular  branched  morphology  which is typical for the chloride cracking of low carbon steel",
+      "eprintid": 3717,
+      "date_type": "published"
+    },
+    {
+      "publisher": "Jurusan Teknik Mesin – Fakultas Teknologi Industri, Universitas Kristen Petra, Surabaya",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 3498,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25435",
+                  "mime_type": "application\/pdf",
+                  "fileid": 25435,
+                  "hash": "0c351e537025b64414e0d4b56aec5653",
+                  "filename": "@1. Jurnal T. Mesin-Univ Petra.pdf",
+                  "mtime": "2017-07-08 17:40:29",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1387268
+                }
+            ],
+            "docid": 3498,
+            "main": "@1. Jurnal T. Mesin-Univ Petra.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3498",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3640,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3640",
+      "corp_creators": [
+        "Jurusan Teknik Mesin, Fak. Teknik, Unila",
+        "Jurusan Teknik Mesin, Fak. Teknik, Unila"
+      ],
+      "lastmod": "2017-07-20 09:04:00",
+      "userid": 1133,
+      "datestamp": "2017-07-20 09:04:00",
+      "pagerange": "11-14",
+      "creators": [
+        {
+          "name": {
+            "family": "Badaruddin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mohammmad"
+          },
+          "id": "mohabad@unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sugiyanto",
+            "honourific": null,
+            "given": "Sugiyanto"
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "issn": "1410-9867",
+      "publication": "Jurnal Teknik Mesin, Jurnal Keilmuaan dan Terapan Teknik Mesin",
+      "date": "2005-04",
+      "dir": "disk0\/00\/00\/36\/40",
+      "type": "article",
+      "divisions": [
+        "FT7"
+      ],
+      "title": "Efek Shot Peening Terhadap Korosi Retak Tegang (SCC) Baja Karbon Rendah dalam Lingkungan Air Laut",
+      "official_url": "http:\/\/puslit.petra.ac.id\/joumals\/",
+      "metadata_visibility": "show",
+      "volume": 7,
+      "rev_number": 6,
+      "status_changed": "2017-07-20 09:04:00",
+      "eprint_status": "archive",
+      "abstract": "Abstract\r\n\r\nThe aim  of this study  is to investigate  the effect of shot peening  on stress corrosion cracking  of a low carbon steel in ocean  water environment. The dimension of specimens were prepared in accordance with the ASTM G39. The hardness testing was carried out using microvickers with 0,25 kgf load in the longitudinal direction. The corrosion cracking test was immersed into artificial sea water for about 7 months. The test shows that the pitting corrosion is dominantly nucleated at the metal film interface. The biggest pitting corrosion was occurred under the static loading of 70 for the specimens unpeened. The presence of pitting corrosion promotes stress corrosion cracking. The cracking has a intergranular branched morphology which is typical for the chloride cracking of low carbon steel.",
+      "subjects": [
+        "TJ"
+      ],
+      "eprintid": 3640,
+      "date_type": "published"
+    },
+    {
+      "event_location": "Putrajaya, Malaysia",
+      "event_title": "Conference on Computer Integrated Systems 2005 (ConCIS 2005)",
+      "eprintid": 12756,
+      "date_type": "published",
+      "event_dates": "6 - 8 December, 2005",
+      "title": "Expert System Using For Group Technology Based on NC Programming Capability",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2019-05-14 08:32:15",
+      "eprint_status": "archive",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "The trend of recent manufacturing is that more requests on the product types with the small-lot quantity. This matter can reduce the possibility of realization of the efficient and low cost production. The problem can be  overcome with the application of Group Technology (GT) and the use of CNC machine tool in production system. Group Technology (GT) is a concept to increase production efficiency by grouping various parts and products with similar design and\/or manufacturing process. While CNC machine tool is able to make wide-ranging of product flexibly even though the amount of the product become less. To be able to make product close to mass-product production system, CNC machining should be supported with the application of GT. The combination of GT and CNC machine tool is possible if the flexible condition of the NC programming is fulfilled. The program should be used repeatedly for the same or look alike product. The \r\nflexible condition is possible, although restricted, with existence of the packet cycle, subprogram, and macro program. Based on the existing part programs, the method of \r\nproduct classification is obtained then continued with product codification. Product classification and codification was proceeding by use of Expert Systems. Result of this codification can be entered into computer to facilitate data and processing information of the product.",
+      "creators": [
+        {
+          "id": "yanuar.burhanuddin@eng.unila.ac.id",
+          "name": {
+            "given": "Yanuar",
+            "honourific": null,
+            "family": "Burhanuddin",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Muhammad Ridwan. A.",
+            "honourific": null,
+            "family": "Purnomo",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Che Haron",
+            "given": "Che Hassan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Rochim",
+            "lineage": null,
+            "given": "Taufiq"
+          }
+        }
+      ],
+      "date": "2005-12-06",
+      "dir": "disk0\/00\/01\/27\/56",
+      "type": "conference_item",
+      "divisions": [
+        "FT7"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 25735,
+            "main": "ConCIS051255.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/112700",
+                  "objectid": 25735,
+                  "mtime": "2019-05-12 09:40:55",
+                  "hash_type": "MD5",
+                  "filename": "ConCIS051255.pdf",
+                  "hash": "39bb576b427c8562b30addad02425b48",
+                  "fileid": 112700,
+                  "mime_type": "application\/pdf",
+                  "filesize": 169549,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25735",
+            "eprintid": 12756,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12756",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Department of Mechanical and Materials, Universiti Kebangsaan Malaysia"
+      ],
+      "lastmod": "2019-05-14 08:32:15",
+      "userid": 68,
+      "datestamp": "2019-05-14 08:32:15"
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/19\/23",
+      "date": "2005-09-13",
+      "creators": [
+        {
+          "name": {
+            "given": "Harmen",
+            "lineage": null,
+            "family": "Harmen",
+            "honourific": null
+          },
+          "id": "harmen.1969@eng.unila.ac.id"
+        },
+        {
+          "id": "amrizal@eng.unila.ac.id",
+          "name": {
+            "family": "Amrizal",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amrizal"
+          }
+        }
+      ],
+      "divisions": [
+        "FT7"
+      ],
+      "type": "conference_item",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51923",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 51923,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 251159,
+            "main": "Analisis Kolektor Pemanas Udara Pelat Datar.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615215",
+                  "objectid": 251159,
+                  "filesize": 796286,
+                  "datasetid": "document",
+                  "mtime": "2023-05-21 07:26:53",
+                  "hash_type": "MD5",
+                  "filename": "Analisis Kolektor Pemanas Udara Pelat Datar.pdf",
+                  "hash": "efeac81c2842905dad2277ba230f352f",
+                  "fileid": 615215,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251159",
+            "rev_number": 1
+          }
+      ],
+      "pagerange": "127-133",
+      "datestamp": "2023-05-22 01:06:43",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "lastmod": "2023-05-22 01:06:43",
+      "userid": 569,
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "event_title": "Seminar Nasional on ASET '05 Universitas Lampung",
+      "eprintid": 51923,
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_dates": "12 September 2005",
+      "title": "Analisis Kolektor Pemanas Udara Pelat Datar Aliran Alamiah untuk Pengering Hasil-Hasil Pertanian",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Kolektor surya adalah salah satu jenis alat penukar kalor yang digunakan untuk mengubah energi radiasi matahari menjadi energi panas. Dengan prinsip kerja memanfaatkan energi matahari untuk memanaskan fluida yang umumnya berupa air maupun udara. Kolektor pelat datar dipilih sebagai pemanas udara untuk keperluan pengeringan yaitu antara lain karena desain kolektor surya pelat datar sederhana dan temperatur udara keluar kolektor dapat mencapai sekitar 100\r\noC diatas temperatur lingkungan. Tujuan penelitian adalah untuk merancang dimensi kolektor surya pemanas udara jenis pelat datar dan membuat kolektor surya pemanas udara pelat datar sesuai dengan dimensi hasil perhitungan perancangan. \r\nKolektor hasil rancangan menggunakan satu lapis kaca penutup kolektor dan mempunyai dimensi pelat penyerap lebar 60 cm dan panjang 180 cm dengan dimensi tinggi saluran udara 2 cm dan lebar 60 cm, mampu menyerap energi matahari sebesar 200 Watt, dan memanaskan udara dari temperatur masuk 35oC menjadi 86,62oC pada saat intensitas matahari sebesar 979,21 W\/m.oC pada keluar kolektor dengan temperatur pelat penyerap sebesar 92oC. \r\nHasil pengujian menunjukkan kolektor pemanas udara pelat datar aliran alamiah mampu menyerap energi matahari sebesar 128 Watt saat intensitas matahari sebesar 741,35 Watt\/m2. Dengan laju alir udara maksimum sebesar 0,003626 Kg\/s. Efisiensi maksimum yang dapat dicapai oleh kolektor sebesar 17,49%.",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-22 01:06:43"
+    },
+    {
+      "issn": "0852-773",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sugiyanto",
+            "given": "Sugiyanto"
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "publication": "Rekayasa Jurnal Sipil dan Perencanaan",
+      "dir": "disk0\/00\/01\/37\/71",
+      "date": 2005,
+      "type": "article",
+      "divisions": [
+        "FT7"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13771,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 26781,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120049",
+                  "fileid": 120049,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-08-08 12:07:11",
+                  "hash_type": "MD5",
+                  "hash": "1f394279d0a99071c6e13c7fd796d4cb",
+                  "filename": "11. Scan Review Analisis .......................  41-44.pdf",
+                  "datasetid": "document",
+                  "filesize": 996298
+                }
+            ],
+            "main": "11. Scan Review Analisis .......................  41-44.pdf",
+            "docid": 26781,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26781",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13771",
+      "lastmod": "2019-08-12 02:44:38",
+      "userid": 1133,
+      "datestamp": "2019-08-12 02:44:38",
+      "eprintid": 13771,
+      "date_type": "published",
+      "title": "Analisis perilaku creep Batang Struktur kayu Kamper",
+      "official_url": "http:\/\/repository.unila.ac.id:8180\/dspace\/handle\/12345679\/6644\/browse-title",
+      "metadata_visibility": "show",
+      "volume": 9,
+      "rev_number": 7,
+      "status_changed": "2019-08-12 02:44:38",
+      "eprint_status": "archive",
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "datestamp": "2019-08-12 02:44:13",
+      "lastmod": "2019-08-12 02:44:13",
+      "userid": 1133,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13767",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Fakultas Teknik Universitas Kristen Petra",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13767,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1032293,
+                  "fileid": 120015,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-08 10:28:17",
+                  "hash": "d6b6ab37b0c024348ed142794f2154a0",
+                  "filename": "7. Scan Review Efek Shot Peening .......  25-28.pdf",
+                  "objectid": 26775,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120015"
+                }
+            ],
+            "docid": 26775,
+            "main": "7. Scan Review Efek Shot Peening .......  25-28.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26775",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "divisions": [
+        "FT7"
+      ],
+      "type": "article",
+      "date": 2005,
+      "dir": "disk0\/00\/01\/37\/67",
+      "publication": "Jurnal Teknik Mesin",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sugiyanto",
+            "honourific": null,
+            "given": "Sugiyanto"
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "issn": "1410-9867",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "status_changed": "2019-08-12 02:44:13",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/puslit.petra.ac.id\/joumals\/",
+      "title": "Efek Shot Peening Terhadap Korosi Retak Tegang (SCC) Baja Karbon Rendah Dalam Lingkungan Air Laut",
+      "date_type": "published",
+      "eprintid": 13767
+    },
+    {
+      "datestamp": "2023-05-22 01:06:45",
+      "pagerange": "99-108",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "userid": 569,
+      "lastmod": "2023-05-22 01:06:45",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51924",
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 51924,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filename": "Studi Komparasi Kinerja Motor Bensin 4-Langkah.pdf",
+                  "hash": "bf559faeed8d75c2df78a41a4059fce9",
+                  "mtime": "2023-05-21 07:46:56",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 615227,
+                  "filesize": 598971,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615227",
+                  "objectid": 251165
+                }
+            ],
+            "docid": 251165,
+            "main": "Studi Komparasi Kinerja Motor Bensin 4-Langkah.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251165",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FT7"
+      ],
+      "type": "conference_item",
+      "date": "2005-09-13",
+      "dir": "disk0_bak\/00\/05\/19\/24",
+      "creators": [
+        {
+          "id": "herryw22@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wardono",
+            "given": "Herry"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Harmen",
+            "lineage": null,
+            "given": "Harmen"
+          },
+          "id": "harmen.1969@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Romadhoni",
+            "family": "N.K.",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "abstract": "Semakin tingginya permintaan manusia akan kendaraan bermotor (motor bensin 4-langkah) sebagai alat transportasi, menuntut manusia untuk terus meningkatkan kinerja motor ini  agar diperoleh motor bensin yang hemat energi dan ramah lingkungan. Pertamina telah memproduksi bahan bakar dengan nilai oktan yang lebih tinggi dari premium dan diberi nama pertamax  untuk menjawab tuntunan hemat energi dan ramah lingkungan. Untuk melihat pengaruh penggunaan bahan bakar premium dan pertamax ini, serangkaian pengujian telah dilakukan menggunakan motor bensin 4-langkah yang ada di laboratorium Motor Bakar Jurusan Teknik Mesin Unila. Dari hasil yang diperoleh, ditunjukkan bahwa kinerja motor bensin ini menggunakan bahan bakar pertamax lebih tinggi dibanding menggunakan premium. Peningkatan kinerja mesin agak lambat pada operasi putaran rendah, sedangkan  pada operasi putaran tinggi terlihat cukup signifikan. Peningkatan kinerja mesin\r\ntertinggi terjadi pada putaran mesin 3000 rpm yaitu peningkatan daya engkol sebesar 0,0902 kW (5,68%) dan penurunan nilai pemakaian bahan bakar spesifik sebesar 0,1331 kg\/kWh (24,35%).",
+      "subjects": [
+        "TJ"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-05-22 01:06:45",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "event_dates": "12 - 13 September 2005",
+      "title": "Studi Komparasi Kinerja Motor Bensin 4-Langkah Berbahan Bakar Premium dan Pertamax",
+      "date_type": "published",
+      "eprintid": 51924,
+      "event_title": "Seminar Nasional on ASET '05 Universitas Lampung",
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "event_title": "Seminar Hasil-hasil Penelitian dan Pengabdian Kepada Masyarakat 2005",
+      "eprintid": 51919,
+      "date_type": "published",
+      "title": "Pengaruh Penambahan Zat Aditif Berbahan Dasar Methanol pada Bahan Bakar terhadap Prestasi Motor Bensin 4-Langkah Satu Silinder",
+      "event_dates": "September 2005",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-22 01:06:35",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Penggunaan zat aditif bahan bakar sudah digunakan sejak tahun 1921, yaitu zat aditif timbal (C2H5)4Pb atau \r\nTEL (Tetra Ethil Lead) yang bertujuan meningkatkan angka oktan bahan bakar sehingga kinerja mesin akan meningkat. Tetapi diketahui bahwa penggunaan TEL dapat meningkatkan polusi, sehingga pada tahun 1999 Menteri Pertambangan dan Energi mengeluarkan SK bahwa bensin di Indonesia tidak boleh lagi mengandung timbal.\r\nPenelitian ini  bertujuan untuk mengetahui besar pengaruh zat aditif bahan bakar yang berbahan dasar methanol terhadap prestasi motor bensin empat langkah satu silinder. Parameter-parameter yang diketahui dari penelitian ini adalah daya engkol (bp), pemakaian bahan bakar spesifik (bsfc), dan akselerasi. Pada penelitian ini digunakan dua buah merk zat aditif yaitu tipe A dan tipe B dengan lima perbandingan konsentrasi yaitu 0,075%, 0,1%, 0,125%, 0,15% dan 0,175%. Mesin yang digunakan untuk pengambilan data adalah mesin merk Tecumseh TD110 yang terdapat di Laboratorium Motor Bakar Teknik Mesin Universitas Lampung.\r\nHasil penelitian ini menunjukkan untuk zat aditif tipe A dapat meningkatkan daya engkol lebih baik dibandingkan zat aditif tipe B sebesar 36,14% tetapi zat aditif tipe B dapat menurunkan nilai bsfc sebesar 59,54% dibandingkan dengan zat aditif tipe A. Dan zat aditif tipe A dapat meningkatkan akselerasi sebesar 14,85% dibandingkan dengan tanpa zat aditif.",
+      "creators": [
+        {
+          "name": {
+            "given": "harmen",
+            "lineage": null,
+            "honourific": null,
+            "family": "harmen"
+          },
+          "id": "harmen.1969@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/19\/19",
+      "date": "2005-09-21",
+      "type": "conference_item",
+      "divisions": [
+        "FT7"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51919,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251135",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615163",
+                  "objectid": 251135,
+                  "filesize": 846426,
+                  "datasetid": "document",
+                  "filename": "Pengaruh Penambahan Zat Aditif Berbahan Dasar Methanol.pdf",
+                  "hash": "d42bbfef4315334560c8a8614c84fd1a",
+                  "mtime": "2023-05-21 04:51:50",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 615163
+                }
+            ],
+            "main": "Pengaruh Penambahan Zat Aditif Berbahan Dasar Methanol.pdf",
+            "docid": 251135
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51919",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "lastmod": "2023-05-22 01:06:35",
+      "userid": 569,
+      "datestamp": "2023-05-22 01:06:35",
+      "pagerange": "125-130"
+    }
+]
+

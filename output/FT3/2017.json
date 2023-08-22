@@ -1,0 +1,458 @@
+[
+    {
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Malahayati"
+      ],
+      "lastmod": "2018-06-28 02:02:45",
+      "userid": 528,
+      "datestamp": "2018-06-28 02:02:45",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8035,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21068",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 21068,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/71401",
+                  "fileid": 71401,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-05 15:04:29",
+                  "hash_type": "MD5",
+                  "hash": "9cff32cd7e9cfb2674ce1eb0ee316dbc",
+                  "filename": "Conference  ICSTAR 2017.pdf",
+                  "datasetid": "document",
+                  "filesize": 1297615
+                }
+            ],
+            "docid": 21068,
+            "main": "Conference  ICSTAR 2017.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Gusri Akhyar",
+            "honourific": null,
+            "family": "Ibrahim",
+            "lineage": null
+          }
+        },
+        {
+          "id": "arinal.hamni@yahoo.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Arinal",
+            "family": "Hamni",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Puji",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Maria"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "srimatia@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8035",
+      "type": "conference_item",
+      "contact_email": "gusri.akhyar@eng.unila.ac.id",
+      "divisions": [
+        "FT3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Gusri",
+            "family": "Ibrahim",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arinal",
+            "family": "Hamni",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arinal.hamni@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Sri Maria",
+            "family": "Puji",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "srimaria@gmail.com"
+        }
+      ],
+      "publication": "Analysis of surface roughness value when drilling  magnesium AZ31 using Taghuci Method",
+      "date": "2017-10",
+      "dir": "disk0\/00\/00\/80\/35",
+      "succeeds": 4664,
+      "status_changed": "2018-06-28 02:02:45",
+      "eprint_status": "archive",
+      "abstract": "Magnesium alloy is one of super alloys material which wide used in manufacturing of automotive, biomedic, sport and electronic components. It was due to very light and resistent to corrosion. Surface roughness value has an important role to estabilish the quality of components. To produce a good surface roughness of machined surface, one of the important thing depends on the friction between the cutting tool and workpiece material when cutting process occurred. The aim of this paper is to analyse the surface roughness values  of machined surface when drilling of magnesium alloy AZ31 using design of experiment of Taguchi Method. The experimental trials took place  at cutting rotation of  635, 970 and 1420 rpm, feed rate of 0.10, 0.18 and 0.24 mm\/rev, diameter tool of 10, 12 and 14 mm. The cutting of magnesium alloy was done by using a convensional drilling machine with TCA - 35 Erlo. Analysis of variance on the data of surface roughness value was done to get which factor is the most significant. The result shows that the feed rate is the most significant factor that contributed on the surface rougness value of machined surface. The minimum surface roughness value was attained at cutting rotation of 970 rpm, feed rate of 0.10 mm\/rev and diameter of tool of 14 mm. Therefore, it can be stated that selecting the low feed rate factor produced low surface roughness value. Another hand, using high cutting rotation resulted low surface roughness value.",
+      "subjects": [
+        "TJ"
+      ],
+      "title": "Analysis of surface roughness value when drilling \r\nmagnesium AZ31 using Taghuci Method",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "eprintid": 8035,
+      "event_title": "icstar",
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "eprintid": 3450,
+      "date_type": "published",
+      "official_url": "http:\/\/aip.scitation.org\/toc\/apc\/1788\/1",
+      "eprint_status": "archive",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Hot-corrosion behavior and morphological development of AISI 1020 steel with 2 mg cm−2 mixtures of\r\nvarious NaCl\/Na2SO4 ratios at 700°C were investigated by means of weight gain measurements, Optical Microscope\r\n(OM), X-ray diffraction (XRD), scanning electron microscopy (SEM), and energy dispersive X-ray spectroscopy (EDS).\r\nThe weight gain kinetics of the steel with mixtures of salt deposits display a rapid growth rates, compared with the weight\r\ngain kinetics of AISI 1020 steel without salt deposit in dry air oxidation, and follow a steady-state parabolic law for 49h. Chloridation and sulfidation produced by a molten NaCl\/Na2SO4 on the steel induced hot-corrosion mechanism\r\nattack, and are responsible for the formation of thicker scale. The most severe corrosion takes place with the 70 wt.% NaCl mixtures in Na2SO4. The typical Fe2O3 whisker growth in outer part scale was attributed to the FeCl3\r\nvolatilization. The formation of FeS in the innermost scale is more pronounced as the content of Na2SO4 in the mixture\r\nis increased.",
+      "date": "2017-01",
+      "id_number": "http:\/\/dx.doi.org\/10.1063\/1.4968319",
+      "type": "article",
+      "divisions": [
+        "FT3"
+      ],
+      "number": 30066,
+      "ispublished": "pub",
+      "publisher": "American Institute of Physics",
+      "lastmod": "2017-06-12 02:08:37",
+      "datestamp": "2017-06-12 02:08:37",
+      "title": "Hot-corrosion of AISI 1020 steel in a molten NaCl\/Na2SO4 eutectic at 700°C",
+      "referencetext": "1. G. Liu, Y. Zhang, Z. Ni and R. Huang, Const. Build. Materials 115, 1–5 (2016)\r\n2. D. Lindberg, J. Niemi, M. Engblom, P. Yrjas, T. Lauren and M. Hupa, Fuel Process. Technology 141, 285−298\r\n(2016)\r\n3. L. Zheng, Z. Maicang and D. Jianxin, Maters. Design 32, 1981−1989 (2011)\r\n4. N. Arivazhagan, S. Narayanan, S. Singh, S. Prakash and G. M. Reddy, Maters. Design 34, 459–468 (2012)\r\n5. C. C. Tsaur, J. C. Rock, C. J. Wang, Y. H. Su, Maters. Chem. Physics 89, 445–453 (2005)\r\n6. Y. Niu, F. Gesmundo, F. Viani, W. Wu, Oxid. Metals 42, 265–284 (1994)\r\n7. M.A. Clevinger, K.M. Kessel and C.G. Messina, in: H.M. Ondik (Ed.), Phase Diagrams for Ceramists, (The\r\nAmerican Ceramic Society Inc., Columbus, Ohio, 1989), p.109\r\n8. C. J. Wang and J. Y. Pan, Maters. Chem. Physics 82, 965−973 (2003)\r\n9. N. Birks, G. H. Meier and F. S. Pettit, Introduction to the high-temperature oxidation of metals 2nd Ed.,\r\n(Cambridge University Press, Cambridge, 2006), pp. 83−86\r\n10. C. J. Wang and Y. C. Chang, Maters. Chem. Physics 76,151–161 (2002)\r\n11. J. G. Speight, Lange’s Handbook of Chemistry 16th Ed., (Mc. Graw-Hill, New York, 2005), pp. 38−142\r\n12. V. Buscaglia, P. Nanni and C. Bottino, Corros. Science 30, 327−349 (1990)\r\n13. S. Mrowec and K. Przybylski, Oxid. Metals 23, 107−139 (1985)",
+      "volume": 1788,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "status_changed": "2017-06-12 02:08:37",
+      "related_url": [
+        {
+          "url": "http:\/\/aip.scitation.org\/toc\/apc\/1788\/1",
+          "type": "pub"
+        }
+      ],
+      "publication": "AIP Conf. Proc",
+      "issn": "978-0-7354-1452-5",
+      "creators": [
+        {
+          "name": {
+            "given": "Badaruddin",
+            "honourific": null,
+            "family": "Mohammad",
+            "lineage": null
+          },
+          "id": "mbruddin@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yudi Eka Risano",
+            "lineage": null,
+            "family": "Ahmad",
+            "honourific": null
+          },
+          "id": "yudi_95@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Wardono",
+            "lineage": null,
+            "family": "Herry",
+            "honourific": null
+          },
+          "id": "herryw22@gmail.com"
+        },
+        {
+          "id": "asmid@yahoo.com",
+          "name": {
+            "family": "Dwi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Asmi"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/34\/50",
+      "keywords": "AISI 1020 steel, NaCl\/Na2SO4, Chloridation, sulfidation",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 3450,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3321",
+            "main": "1.4968319.pdf",
+            "docid": 3321,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2216213,
+                  "mime_type": "application\/pdf",
+                  "fileid": 23896,
+                  "hash": "04e653e3b229d928d1d4989860524f0b",
+                  "filename": "1.4968319.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-06 02:09:30",
+                  "objectid": 3321,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23896"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3450",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 943,
+      "pagerange": "030066-1-030066-9"
+    },
+    {
+      "subjects": [
+        "Q1",
+        "T1",
+        "TJ"
+      ],
+      "abstract": "Abstract. The damage of bone tissue can cause malfunction of human body system, such as demineralization of calcium\r\nand phosphate. New method of the use of biomaterial as bone implant can eliminate re-operation on the patient. The\r\nbiomaterial was hydroxiapatite made of bio ceramics. The bio ceramic was limestone. The hidroxiapatite characteristic\r\nwas investigated as a function of sintering time, 3, 4 and 5 hours and different sintering temperatures of 600, 700 and 800\r\nC. The preparation of composite was including crushing, meshing, grinding using ball mill and sintering at different\r\nsintering times and temperatures. The characterisation of the hydroxipatite was carried out using XRD, SEM and EDS.\r\nThe hydroxiapatite was made of limestone shows the similarity of x-rays diffarction between commercial hydroxiapatite\r\nand hydroxiapatite made of limestone. This indicates that the local hydroxiapatite can replace the expensive imported\r\nhydroxiapatite. The SEM micrograph shows the agglomeration of particle increase with sintering temperature. The EDS\r\nresult show that the highest ratio of calcium and phosphor was 2.33. The calcium percentage in local hydroxiapatite was\r\ndecreased as the sintering time increased.",
+      "status_changed": "2017-11-17 04:20:25",
+      "eprint_status": "archive",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/iopscience.iop.org\/journal\/1742-6596",
+      "title": "The Effect of Sintering Time and Temperature on the\r\nCharacteristic of Hidroxiapatite (HA) made of Limestone\r\nfor Application in Bone",
+      "date_type": "submitted",
+      "eprintid": 5806,
+      "datestamp": "2017-11-17 04:20:25",
+      "userid": 326,
+      "lastmod": "2017-11-17 04:20:25",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5806",
+      "full_text_status": "restricted",
+      "refereed": "FALSE",
+      "ispublished": "submitted",
+      "publisher": "IOP Publishing",
+      "documents": [
+          {
+            "content": "submitted",
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "security": "staffonly",
+            "placement": 1,
+            "eprintid": 5806,
+            "date_embargo": "2017-12-30",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18742",
+            "rev_number": 3,
+            "format": "spreadsheet",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 54334,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-17 01:20:30",
+                  "hash": "79def8ff4793f229479b27cb0585a741",
+                  "filename": "Abstract_icetia.docx",
+                  "datasetid": "document",
+                  "filesize": 11800,
+                  "objectid": 18742,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54334"
+                }
+            ],
+            "main": "Abstract_icetia.docx",
+            "docid": 18742
+          }
+      ],
+      "divisions": [
+        "FT3"
+      ],
+      "contact_email": "shirley.savetlana@eng.unila.ac.id",
+      "type": "article",
+      "dir": "disk0\/00\/00\/58\/06",
+      "date": "2017-11-11",
+      "publication": "Journal of Physics: Conference Series",
+      "issn": "1742-6588 (Print) 1742-6596 (Online)",
+      "creators": [
+        {
+          "id": "shirley.savetlana@eng.unila.ac.id",
+          "name": {
+            "given": "Shirley",
+            "lineage": null,
+            "family": "Savetlana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "family": "Sukmana",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hendriyanto",
+            "given": "Agus"
+          },
+          "id": "agushendriyanto@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Tri Cahyo",
+            "lineage": null,
+            "family": "Wahyudi",
+            "honourific": null
+          },
+          "id": "windutrijaya83@gmail.com"
+        }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "publisher": "IOP Publishing ltd",
+      "lastmod": "2023-02-27 07:32:41",
+      "datestamp": "2023-02-27 07:32:41",
+      "date": "2017-08-05",
+      "id_number": "https:\/\/doi.org\/10.1088\/1757-899X\/223\/1\/012009",
+      "type": "other",
+      "divisions": [
+        "FT3"
+      ],
+      "official_url": "http:\/\/iopscience.iop.org\/article\/10.1088\/1757-899X\/223\/1\/012009",
+      "eprint_status": "archive",
+      "succeeds": 4029,
+      "subjects": [
+        "Q1",
+        "TA",
+        "TJ",
+        "TP",
+        "TS"
+      ],
+      "abstract": "Natural rubber composite has been continuously developed due to its advantages such as a good combination of strength and damping property. Most of carbon black (CB)\/ Natural Rubber(NR) composite were used as material in tyre industry. The addition of CB in natural rubber is very important to enhance the strength of natural rubber. The particle loading\r\nand different structure of CB can affect the composite strength. The effects of CB particle loading of 20, 25 and 30 wt% and the effects of CB structures of N220, N330, N550 and N660 series on tensile property of composite were investigated. The result shows that the tensile strength and elastic modulus of natural rubber\/CB composite was higher than pure natural rubber. From SEM observation the agglomeration of CB aggregate increases with particle\r\nloading. It leads to decrease of tensile strength of composite as more particle was added. High structure of CB particle i.e. N220 resulted in highest tensile stress. In fact, composite reinforced by N660 CB particle shown a comparable tensile strength and elastic modulus with N220 CB particle. SEM observation shows that agglomeration of CB aggregates of N330 and N550 results in lower stress of associate NR\/CB composite.",
+      "projects": [
+        "PUPT research grant of University of Lampung."
+      ],
+      "eprintid": 48590,
+      "date_type": "published",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48590,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187927",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529873",
+                  "objectid": 187927,
+                  "filesize": 1643155,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-27 03:00:43",
+                  "hash": "f2de786f036053efd477911a97799f09",
+                  "filename": "2017_Savetlana_2017_rubber_CB_Shirley_Similarity.pdf",
+                  "fileid": 529873,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 187927,
+            "main": "2017_Savetlana_2017_rubber_CB_Shirley_Similarity.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48590",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "userid": 326,
+      "pagerange": "1-9",
+      "publication": "IOP Conference Series: Materials Science and Engineering",
+      "creators": [
+        {
+          "name": {
+            "given": "Shirley",
+            "family": "Savetlana",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "shirley.savetlana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Zulhendri",
+            "given": "Zulhendri"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Irza",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sukmana"
+          },
+          "id": "irza.sukmana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fajar Andi",
+            "family": "Saputra",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/85\/90",
+      "funders": [
+        "Ministry of Research, Technology and Higher Education of Indonesia"
+      ],
+      "title": "The effect of carbon black loading and structure on tensile property of natural rubber composite",
+      "rev_number": 5,
+      "volume": 223,
+      "metadata_visibility": "show",
+      "status_changed": "2023-02-27 07:32:41",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/scholar.google.com\/citations?hl=en&user=_EvuwtsAAAAJ&view_op=list_works"
+        }
+      ]
+    }
+]
+

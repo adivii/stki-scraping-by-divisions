@@ -1,0 +1,493 @@
+[
+    {
+      "eprintid": 648,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2016-09-23 07:31:02",
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang rancang bangun Ultracapacitor Charger dengan teknik pengontrolan arus berbasis Digital Signal processing. \r\nPembahasan dimulai dengan desain Ultracapacitor Charger, mode Charger pengaturan arus tetap dan mode Charger pengaturan daya tetap. Kemudian dilanjutkan dengan model rangkaian yang diusulkan berupa Ultracapacitor Charger dengan mode pengaturan arus tetap berbasis DSP. Rancangan Ultracapacitor Charger yang diusulkan dimodelkan dan disimulasikan menggunakan perangkat lunak Simulink. Kemudian dilakukan pembangunan Hardware untuk memvalidasi unjuk kerja rangkaian.",
+      "subjects": [
+        "TK"
+      ],
+      "title": "Development of a current Control Ultracapacitor Charger Based on Digital Signal processing",
+      "official_url": "http:\/\/journal.uad.ac.id\/index.php\/TELKOMNIKA\/article\/view\/587\/396",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 7,
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "issn": "1693-6930",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad Saudi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Samosir"
+          }
+        }
+      ],
+      "publication": "TELKOMNIKA",
+      "dir": "disk0\/00\/00\/06\/48",
+      "date": "2009-12",
+      "lastmod": "2016-09-23 07:31:02",
+      "userid": 504,
+      "pagerange": "145-150",
+      "datestamp": "2016-09-23 07:31:02",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 648,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/553",
+            "docid": 553,
+            "main": "14_Jurnal Nasional Telkomnika 2009.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3590",
+                  "objectid": 553,
+                  "filename": "14_Jurnal Nasional Telkomnika 2009.pdf",
+                  "hash": "648492cc5fac4ce215f11f76befbf0b5",
+                  "mtime": "2016-09-23 06:01:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 3590,
+                  "filesize": 178837,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "publisher": "Universitas Ahmad Dahlan",
+      "number": 3,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/648"
+    },
+    {
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/06\/33",
+      "date": "2009-02",
+      "publication": "International Review of Electrical Engineering (IREE)",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null,
+            "given": "Ahmad Saudi"
+          }
+        },
+        {
+          "name": {
+            "given": "Abdul Halim",
+            "family": "Mohd Yatim",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "1827-6660",
+      "pagerange": "1-6",
+      "datestamp": "2016-09-23 07:23:57",
+      "lastmod": "2016-09-23 07:23:57",
+      "userid": 504,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/633",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 633,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/537",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 3500,
+                  "filename": "03_Jurnal Internasional IREE 2009.pdf",
+                  "hash": "098c95e97ff9017f340449aee8df2b13",
+                  "mtime": "2016-09-22 00:25:47",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 5813277,
+                  "objectid": 537,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3500"
+                }
+            ],
+            "main": "03_Jurnal Internasional IREE 2009.pdf",
+            "docid": 537
+          }
+      ],
+      "publisher": "Praise Worty Prize",
+      "date_type": "published",
+      "eprintid": 633,
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Tulisan ini mepresentasikan tentang implementasi teknik kontrol baru berbasis Dynamic Evolution Control untuk mengendalikan sebuah Konverter Elektronika Daya jenis DC-DC Converter.\r\nTulisan ini memperkenalkan Teknik Dynamic Evolution Control, pendekatan perhitungan, penurunan formula kontroler Dynamic Evolution Control, pemodelan dan simulasi komputer , serta pembuatan Hardware untuk memvalidasi unjuk kerja kontroler DEC.",
+      "eprint_status": "archive",
+      "status_changed": "2016-09-23 07:23:57",
+      "volume": 4,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Implementation of New Control Method Based on Dynamic Evolution Control for DC-DC Power Converter",
+      "official_url": "http:\/\/www.praiseworthyprize.org\/latest_issues\/IREE-latest\/IREE_vol_4_n_1.html"
+    },
+    {
+      "event_location": "CAPE TOWN, SOUTH AFRICA",
+      "eprintid": 50142,
+      "event_title": "16TH INTERNATIONAL SYMPOSIUM ON HIGH VOLTAGE ENGINEERING",
+      "date_type": "published",
+      "title": "DESIGN OF ULTRA HIGH FREQUENCY SENSORS FOR DETECTION OF PARTIAL DISCHARGES",
+      "event_dates": "24 Agustus 2009",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2023-04-11 00:50:33",
+      "abstract": "Partial discharge (PD) measurement is an effective method to detect insulation deterioration. There are different ways that could be used to detect PDs, such as conventional PD measurements of the IEC60270, acoustic method and ultra high frequency (UHF) method. The UHF detection method has a number of advantages; the most dominant among these is a relatively lower level of noise and thus a better signal-to-noise ratio. This paper discusses the design of UHF sensors to detect PDs. Several types of sensor are investigated: monopole and conical sensors suitable for installation at transformer oil drain valves; bowtie, spiral and log spiral sensors for use at GIS dielectric windows. The sensors have ultra wideband (UWB) characteristic within frequency range of 300 MHz to 3 GHz. Experimental results show the conical sensor has higher gain response compared to the monopole, but the latter has a simpler construction. The disk sensor type with log spiral has a higher and smoother gain than the spiral and the bowtie, and its impedance characteristic is relatively more stable. Overall, results show the conical and log spiral antennas have the best response to PD signals.",
+      "subjects": [
+        "TK"
+      ],
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "given": "Herman Halomoan",
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/01\/42",
+      "date": "2009-08-24",
+      "type": "conference_item",
+      "divisions": [
+        "FT5"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 189842,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542145",
+                  "datasetid": "document",
+                  "filesize": 2146484,
+                  "mime_type": "application\/pdf",
+                  "fileid": 542145,
+                  "hash": "c380757169c0649450fc57a7dab0e86c",
+                  "filename": "ISH 2009 Herman.pdf",
+                  "mtime": "2023-04-10 13:30:01",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 189842,
+            "main": "ISH 2009 Herman.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189842",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50142,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50142",
+      "lastmod": "2023-04-11 00:50:33",
+      "userid": 689,
+      "pagerange": "892-896",
+      "datestamp": "2023-04-11 00:50:33"
+    },
+    {
+      "date": 2009,
+      "divisions": [
+        "FT5"
+      ],
+      "type": "article",
+      "number": 4,
+      "ispublished": "pub",
+      "publisher": "Research India Publications",
+      "datestamp": "2019-05-14 01:59:27",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Gadjah Mada"
+      ],
+      "lastmod": "2019-05-14 01:59:27",
+      "projects": [
+        "EKSPERIMEN  DENGAN TERMOGRAF BUATAN SENDIRI, Hibah Bersaing"
+      ],
+      "date_type": "published",
+      "eprintid": 12533,
+      "official_url": "http:\/\/www.ripublication.com\/ijeer.htm",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "The histogram of image data, which exhibit their respective pixel’s value distributions, represents the specific characteristics to acquire the expected associated information. The infrared beams range the wavelengths from 0.78 µm to 1000 µm which substantially longer that the visible light, which can be detected by an ordinary digital camera with an addition of a visual light blocking filter. The colors of the obtained image basically associated with those received by the camera’s R, G, B sensors, which in turn are expected to contain the relevant infrared radiation energy from the caught objects. The results of our experiment show that different visible light filter\r\nmodifies the histogram patterns significantly, but with similar basic pattern.",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/25\/33",
+      "publication": "International Journal of Electronic Engineering Research",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "given": "FX. Arinto",
+            "honourific": null,
+            "family": "Setyawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "adhisusanto@jmn.net",
+          "name": {
+            "given": "Adhi",
+            "family": "Susanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "0975-6450",
+      "funders": [
+        "DP2M, Ditjen Dikti"
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12533",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "eprintid": 12533,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "ijeerv1n4-4.pdf",
+            "docid": 25512,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-10 05:51:10",
+                  "filename": "ijeerv1n4-4.pdf",
+                  "hash": "e7a23083ddcbffc9098950171f28afc4",
+                  "fileid": 111252,
+                  "mime_type": "application\/pdf",
+                  "filesize": 199753,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/111252",
+                  "objectid": 25512
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25512",
+            "rev_number": 1
+          }
+      ],
+      "pagerange": "329-336",
+      "userid": 586,
+      "rev_number": 6,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "title": "Histogram Characterizations of Infrared Images Captured By a Modified Digital Camera",
+      "status_changed": "2019-05-14 01:59:27",
+      "related_url": [
+        {
+          "url": "http:\/\/www.ripublication.com\/ijeer.htm"
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "The histogram of image data, which exhibit their respective pixel’s value distributions, represents the specific characteristics to acquire the expected associated information. The infrared beams range the wavelengths from 0.78µm to 1000µm which substantially longer that the visible light, which can be detected by an ordinary digital camera with an addition of a visual light blocking filter.\r\nThe colors of the obtained image basically associated with those received by the camera’s R, G, B sensors, which in turn are expected to contain the relevant infrared radiation energy from the caught objects.\r\nThe results of our experiment show that different visible light filter modifies the histogram patterns significantly, but with similar basic pattern.",
+      "eprint_status": "archive",
+      "status_changed": "2020-03-04 01:15:22",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "India",
+      "official_url": "https:\/\/www.ripublication.com\/ijeer.htm",
+      "title": "Histogram Characterizations of Infrared Images Captured By a Modified Digital Camera",
+      "eprintid": 18333,
+      "datestamp": "2020-03-04 01:15:22",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2020-03-04 01:15:22",
+      "userid": 586,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18333",
+      "ispublished": "pub",
+      "publisher": "Research India Publications",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154229",
+                  "objectid": 31481,
+                  "filesize": 1752644,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-02 08:12:27",
+                  "hash": "db249916407bd230e05e1e81489fbc9a",
+                  "filename": "Histogram_Characterizations_of_Infrared_Images_Cap (2).pdf",
+                  "fileid": 154229,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Histogram_Characterizations_of_Infrared_Images_Cap (2).pdf",
+            "docid": 31481,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31481",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 18333,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "type": "other",
+      "date": 2009,
+      "dir": "disk0\/00\/01\/83\/33",
+      "creators": [
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Setyawan",
+            "given": "FX. Arinto"
+          }
+        },
+        {
+          "name": {
+            "given": "Adhi",
+            "honourific": null,
+            "family": "Susanto",
+            "lineage": null
+          },
+          "id": "adhisusanto@jmn.net"
+        }
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-11-28 02:13:36",
+      "subjects": [
+        "TK"
+      ],
+      "title": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 308 2009",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprintid": 46909,
+      "lastmod": "2022-11-28 02:13:36",
+      "userid": 668,
+      "datestamp": "2022-11-28 02:13:36",
+      "publisher": "SPRINGER",
+      "documents": [
+          {
+            "content": "supplemental",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46909,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185847",
+            "formatdesc": "BUKTI KORESPONDENSI SPINGER IFIP-AICT 308 2009",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 185847,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515972",
+                  "fileid": 515972,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-26 05:09:21",
+                  "hash_type": "MD5",
+                  "hash": "efaef2c6c1333622d84e2ab6e0b5a33b",
+                  "filename": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 308 2009.pdf",
+                  "datasetid": "document",
+                  "filesize": 161660
+                }
+            ],
+            "docid": 185847,
+            "main": "BUKTI KORESPONDENSI SPRINGER IFIP-AICT 308 2009.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46909",
+      "type": "other",
+      "divisions": [
+        "FT5"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Ardian",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ulvan"
+          },
+          "id": "ardian.ulvan@eng.unila.ac.id"
+        }
+      ],
+      "date": 2009,
+      "dir": "disk0\/00\/04\/69\/09"
+    }
+]
+

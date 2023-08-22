@@ -1,0 +1,440 @@
+[
+    {
+      "date_type": "published",
+      "event_title": "Seminar Nasional Tahunan Teknik Mesin (SNTTM) XVIII",
+      "eprintid": 20654,
+      "event_location": "Kampus Univ. Trisakti, Jakarta",
+      "subjects": [
+        "TJ",
+        "TS"
+      ],
+      "abstract": "The Taguchi method is widely used to determine the optimal quality of a process with a single response. While for multiresponse cases, Grey Relational Analysis (GRA) and Principal Component Analysis (PCA) are widely used. With GRA , multiresponse can be simplified into one single response. Tool wear and surface roughness of the workpiece in the milling machining process are affected by the diameter of the tool, depth of feed, spindle speed and feeding speed. This study examines the response of tool wear and work surface roughness with three levels and four factors. For tool diameters , used 6, 8 and 10 mm. The depth of feed used 1, 1.5 and 2 mm. Spindle speeds at 910, 1280 and 1700 rpm. While the feeding speed is 75, 145 and 220 mm \/ minute. Optimal results obtained in conditions of 6 mm diameter, 1.5 mm depth of feeding, spindle speed of 1280 rpmm and feeding speed of 75 mm \/ minute. The optimal response obtained is 0.059 mm for tool wear and 0.364 μm for work surface surface roughness. The significant factor influencing is the feeding speed which influences 74,31 %.",
+      "eprint_status": "archive",
+      "status_changed": "2020-05-27 04:12:18",
+      "succeeds": 20425,
+      "event_type": "conference",
+      "rev_number": 5,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/prosiding.bkstm.org\/prosiding\/2019\/TM14.pdf",
+      "title": "Optimal Conditions of Tool Wear and Surface Roughness of Magnesium Workpiece in Milling Machine with Combination of Taguchi Methods, Grey Relational Analysis and Principal Component Analysis",
+      "event_dates": "9-10 Oktober 2019",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "conference_item",
+      "date": "2019-11",
+      "dir": "disk0\/00\/02\/06\/54",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Lucius Patria Giri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dwi Atmanto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wahyudyatama",
+            "given": "Wahyudyatama"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Kevin Fernando",
+            "family": "Panjaitan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Gusri Akhyar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ibrahim"
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id"
+        },
+        {
+          "id": "yanuar.burhanuddin@eng.unila.ac.id",
+          "name": {
+            "given": "Yanuar",
+            "lineage": null,
+            "family": "Burhanuddin",
+            "honourific": null
+          }
+        }
+      ],
+      "pagerange": "1-7",
+      "datestamp": "2020-05-27 04:12:18",
+      "userid": 68,
+      "lastmod": "2020-05-27 04:12:18",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20654",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 33998,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/193680",
+                  "datasetid": "document",
+                  "filesize": 459048,
+                  "fileid": 193680,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-23 17:55:07",
+                  "filename": "TM14.pdf",
+                  "hash": "371b7be6d9fa05876315e61edbb0647f"
+                }
+            ],
+            "docid": 33998,
+            "main": "TM14.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33998",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 20654,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/01\/72\/64",
+      "date": "2019-12",
+      "id_number": "DOI: http:\/\/dx.doi.org\/10.36974\/jbi.v10i2.4765",
+      "publication": "Biopreopal Industri",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nurdjanah",
+            "lineage": null,
+            "given": "Siti"
+          },
+          "id": "siti.nurdjanah@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yuliana",
+            "honourific": null,
+            "given": "Neti"
+          },
+          "id": "neti.yuliana@fp.unila.ac.id"
+        },
+        {
+          "id": "azhari.rangga@fp.unila.ac.id",
+          "name": {
+            "given": "azhari",
+            "honourific": null,
+            "family": "rangga",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Danita",
+            "lineage": null,
+            "family": "Aprisia",
+            "honourific": null
+          },
+          "id": "danitaaprisia.009@gmail.com"
+        }
+      ],
+      "issn": "E-ISSN 2502-2962; P-ISSN 2089-0877",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17264",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Institute for Industrial Research and Standardization (Baristand Industri)  Pontianak",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 17264,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30367",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2054125,
+                  "mime_type": "application\/pdf",
+                  "fileid": 146217,
+                  "filename": "2019 Ppenghambatan enzym .pdf",
+                  "hash": "922df31f7a47ce66a5d9631a7ffe01f4",
+                  "mtime": "2019-12-04 23:42:11",
+                  "hash_type": "MD5",
+                  "objectid": 30367,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146217"
+                }
+            ],
+            "main": "2019 Ppenghambatan enzym .pdf",
+            "docid": 30367
+          }
+      ],
+      "pagerange": "83-94",
+      "datestamp": "2019-12-06 02:03:00",
+      "lastmod": "2019-12-06 02:03:00",
+      "userid": 565,
+      "date_type": "published",
+      "eprintid": 17264,
+      "volume": 10,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Inhibition Activity of α-Glucosidase by Anthocyanin Crude Extract from Purple Sweet Potato and Its Products",
+      "official_url": "http:\/\/ejournal.kemenperin.go.id\/biopropal\/article\/view\/4765\/4269",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Purple sweet potato is one of the anthocyanin sources that potential to normalize blood sugar levels in diabetics because it can inhibit α-glucosidase. Since it easily damaged, processing into flour or chips is an alternative to extend the shelf life. This study aimed to determine the content of total phenol, total anthocyanin and inhibition of the α-glucosidase enzyme by crude anthocyanin extract from fresh purple sweet potato, conventional and modified flour and chips. Testing of total phenol, anthocyanin and inhibition of α-glucosidase enzyme activity were carried out using the spectrophotometric method. The results showed that total phenol, anthocyanin and inhibition of α-glucosidase enzyme activity from crude anthocyanin extracts using acid solutions in fresh purple sweet potato were respectively 291.7 mg GAEs\/100g, 122.1 mg\/100 g; 41.73%; sweet potato flour at 212.1 mg GAEs\/100 g, 171.3 mg\/100 g; 37.61%; purple sweet potato flour rich in resistant starch  of 182.5 mg GAEs\/100 g, 141.1 mg\/100 g; 65.59%; purple sweet potato flour partially gelatinized of 193.5 mg GAEs\/100 g, 139.4 mg\/100 g; 39.91%; and purple sweet potato chips of 299.5 mg GAEs\/100 g, 203.6 mg\/100 g, 44.73%. The ability of anthocyanin to inhibit the activity of the α-glucosidase enzyme could be increased through the retrogradation of starch and frying into chips",
+      "eprint_status": "archive",
+      "status_changed": "2019-12-06 02:03:00"
+    },
+    {
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Abstract. This research studied the use of carbon fiber reinforced geopolymer composites as\r\ncorrosion resistant pipe material. Geopolymer material is a general term for material\r\nsynthesized from fly ash. Fly ash is an industrial by-product (coal combustion residue) with\r\nhigh silica content (SiO2) and Alumina content (Al2O3). In addition there are also other\r\nelements in a relatively small percentage. This material will compound like cement if activated\r\nwith Sodium Silicate. This study aims to obtain the optimum composition for high quality\r\nmechanical properties. The method used is to synthesize material with various elemental\r\ncompositions. Furthermore, a mechanical test (bending test) is performed to see the effect of\r\neach element to be optimized. Besides that, a physical test in the form of SEM-EDX was also\r\nconducted to see the microstructure. Materials with optimum composition have been fabricated\r\nas pipes with centrifugal casting process. Mechanical testing of pipe samples is done by hoop\r\ntensile strength test. The test results show that the strength of geopolymer composites can\r\nachieve 58 MPa.",
+      "eprint_status": "archive",
+      "status_changed": "2020-06-02 06:16:10",
+      "rev_number": 11,
+      "volume": 694,
+      "metadata_visibility": "show",
+      "title": "Using Geopolymer Composites for Heat and Corrosion Resistant Pipes",
+      "official_url": "http:\/\/snttm2019.trisakti.ac.id\/prosiding-snttm-xviii\/",
+      "date_type": "published",
+      "eprintid": 21467,
+      "pagerange": "1-8",
+      "datestamp": "2020-06-02 06:16:10",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Universitas Lampung"
+      ],
+      "lastmod": "2020-06-02 06:16:10",
+      "userid": 24,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21467",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "IOP Publishing",
+      "documents": [
+          {
+            "main": "Su’udi_2019_IOP_Conf._Ser.__Mater._Sci._Eng._694_012039.pdf",
+            "docid": 34871,
+            "files": [
+                {
+                  "objectid": 34871,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/199289",
+                  "datasetid": "document",
+                  "filesize": 917498,
+                  "fileid": 199289,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-02 05:28:42",
+                  "hash_type": "MD5",
+                  "filename": "Su’udi_2019_IOP_Conf._Ser.__Mater._Sci._Eng._694_012039.pdf",
+                  "hash": "e2e701834ca01a2846aaf47bc0cfa997"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34871",
+            "eprintid": 21467,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "main": "Su%E2%80%99udi_2019_IOP_Conf._Ser.%3A_Mater._Sci._Eng._694_012039.pdf",
+            "docid": 34872,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/199292",
+                  "objectid": 34872,
+                  "mtime": "2020-06-02 05:29:10",
+                  "hash_type": "MD5",
+                  "filename": "Su%E2%80%99udi_2019_IOP_Conf._Ser.%3A_Mater._Sci._Eng._694_012039.pdf",
+                  "hash": "689a5868eb18e006f9654f73cf9730d8",
+                  "fileid": 199292,
+                  "mime_type": "application\/pdf",
+                  "filesize": 917497,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34872",
+            "eprintid": 21467,
+            "security": "public",
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published"
+          }
+      ],
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "date": "2019-10-10",
+      "dir": "disk0\/00\/02\/14\/67",
+      "publication": "IOP Conf. Series: Materials Science and Engineering",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Su'udi",
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        },
+        {
+          "id": "jamiatulakmal@gmail.com",
+          "name": {
+            "given": "Jamiatul",
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rianti_dc@yahoo.com",
+          "name": {
+            "given": "Novri",
+            "honourific": null,
+            "family": "Tanti",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Arizon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Arizon"
+          }
+        }
+      ],
+      "issn": "1757-899X"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Tri Cahyo",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wahyudi"
+          }
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana",
+            "given": "Irza"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Savetlana",
+            "given": "Shirley"
+          },
+          "id": "shirley.savetlana@eng.unila.ac.id"
+        }
+      ],
+      "date": 2019,
+      "dir": "disk0\/00\/01\/32\/80",
+      "pages": 120,
+      "type": "book_section",
+      "series": 2019,
+      "book_title": "Prosiding Kolokium Teknik",
+      "divisions": [
+        "FT3"
+      ],
+      "ispublished": "inpress",
+      "number": 1,
+      "documents": [
+          {
+            "eprintid": 13280,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Makalah Kolokium Irza.pdf",
+            "docid": 26277,
+            "files": [
+                {
+                  "filesize": 745005,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-24 08:54:32",
+                  "hash": "28c73b492c92317815c4667264bb27b3",
+                  "filename": "Makalah Kolokium Irza.pdf",
+                  "fileid": 116443,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116443",
+                  "objectid": 26277
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26277",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Fakultas Teknik Unila",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13280",
+      "refereed": "TRUE",
+      "lastmod": "2019-08-01 07:29:33",
+      "corp_creators": [
+        "Fakultas Teknik Unila"
+      ],
+      "userid": 464,
+      "datestamp": "2019-08-01 07:29:33",
+      "pagerange": "1-5",
+      "eprintid": 13280,
+      "title": "Potensi Pengembangan Material Implan Tulang Hidroksiapatit Berbasis Bahan Alam Lokal",
+      "volume": 62019,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "status_changed": "2019-08-01 07:29:33",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Tulang merupakan salah satu organ yang sangat penting karena fungsinya sebagai struktur penopang berat (loas bearing) di dalam sistem tubuh manusia. Meskipun demikan, fungsi tulang dapat mengalami penurunan dan bahkan kegagalan, yang diantaranya disebabkan oleh: faktor usia dan penuaan tulang atau osteo-porosis, infeksi dan tumor tulang, cacat bawaan, dan kecelakaan yang menyebabkan patah (trauma) tulang. Adanya berbagai kasus kegagalan tulang telah memotivasi para peneliti material maju untuk mengembangkan biomaterial yang memiliki sifat kimia, fisika, dan mekanis seperti tulang. Salah satu biomaterial untuk pengganti tulang tersebut adalah Hidroksiapatit (HA) yang memiliki rumus kimia Ca10(PO4)6(OH)2. Hidroksiapatit dapat disintesis dari bahan alam, diantaranya adalah berbasis cangkang telur, tulang ikan, cangkang kerang, terumbu karang, dan batu kapur. Artikel ini bertujuan untuk memberikan ulasan khusus mengenai potensi dan tantangan dalam menghasilkan bahan dasar implant tulang dari HA berbasis bahan alam di Indonesia. Proses produksi dan karakterisasi HA, model aplikasi bahan implan tulang berbasis HA, dan sifat-sifat dasar HA akan diuraikan secara mendalam di artikel ini."
+    }
+]
+

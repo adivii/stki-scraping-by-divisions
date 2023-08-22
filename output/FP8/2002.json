@@ -1,0 +1,110 @@
+[
+    {
+      "eprintid": 1402,
+      "date_type": "published",
+      "status_changed": "2017-01-16 14:56:57",
+      "eprint_status": "archive",
+      "abstract": "The mist culture system was conducted to study secreted polysaccharides from soybean (Glycine max) roots grown for 15 days. Roots were rinsed with distilled water (DW) for 15 min, then with 30 mM oxalic acid (OXA) for 15 min to remove ionically bound sugar. Released sugars were further fractionated into low (L) and high (H) molecular weight fractions with Sephadex G-10. DW rinsing released 190 μg neutral sugar (NS) and 62 μg uronic acid (UA) per plant, while 374 μg NS and 70 μg UA per plant were released by OXA rinsing. Acetylation analysis revealed that the L fraction by DW and OXA mainly consisted of glucose (Glc), pinitol, and UA, whereas the H fraction mainly consisted of arabinose (Ara), galactose (Gal), Glc, and UA. The presence of rhamnose (2%–6%) in both fractions suggests secretion of rhamnogalacturonans. Methylation analysis revealed that the H fraction by DW and OXA contained T-Ara, 3-, 6-, and 3,6-Gal, suggesting the presence of type II arabinogalactan and arabinogalactan proteins. HPLC analysis detected mono-, di-, and tri-GalA in the L fraction by DW and OXA. Substances corresponding to sucrose, kojibiose, cello- and laminari-oligosaccharides were also found in root exudates.\r\nKey words ArabinogalactanPectinPinitolRhamnogalacturonanRoot exudatesSoybean (Glycine max)",
+      "subjects": [
+        "S1"
+      ],
+      "title": "Identification of mono-, oligo-, and polysaccharides secreted from soybean roots",
+      "metadata_visibility": "show",
+      "volume": "Volume",
+      "rev_number": 6,
+      "type": "article",
+      "divisions": [
+        "FP8"
+      ],
+      "issn": "ISSN: 0918-9440",
+      "creators": [
+        {
+          "id": "paul.timotiwu@gmail.com",
+          "name": {
+            "given": "P.B.",
+            "honourific": null,
+            "family": "Timotiwu",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "N",
+            "honourific": null,
+            "family": "Sakurai",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Journal of Plant Research",
+      "id_number": "DOI: 10.1007\/s102650200012",
+      "date": "2002-04",
+      "dir": "disk0\/00\/00\/14\/02",
+      "lastmod": "2017-01-16 14:56:57",
+      "corp_creators": [
+        "lppm.unila.ac.id"
+      ],
+      "userid": 1003,
+      "datestamp": "2017-01-16 14:56:57",
+      "pagerange": "0077-0085",
+      "documents": [
+          {
+            "main": "identification.pdf",
+            "docid": 1277,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 9494,
+                  "filename": "identification.pdf",
+                  "hash": "3886884b32c9a6794284b17df3aaa536",
+                  "mtime": "2017-01-16 08:32:58",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 158622,
+                  "objectid": 1277,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9494"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1277",
+            "rev_number": 1,
+            "eprintid": 1402,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Springer Japan",
+      "ispublished": "pub",
+      "number": "Issue",
+      "contributors": [
+        {
+          "id": "paul.timotiwu@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Paul Benyamin",
+            "honourific": null,
+            "family": "Timotiwu",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Sakurai",
+            "honourific": null,
+            "lineage": null,
+            "given": "N"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1402"
+    }
+]
+

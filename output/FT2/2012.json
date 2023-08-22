@@ -1,0 +1,225 @@
+[
+    {
+      "subjects": [
+        "TA",
+        "TC",
+        "TD"
+      ],
+      "abstract": "This  research  aims  to  investigate  the  role  of  wetland  parameters  in  controlling  the  response  of  groundwater  level  (GWL) towards hydrologic condition and climate condition in Sphagnum mire of Sarobetsu Mire, northern Hokkaido, Japan.  Hourly  data  of  GWL,  rainfall,  and  climate  of  summer  for  year  1993,  1994,  1997,  2003,  2008,  and  2009  are  used for modeling GWL fluctuation at point E on the observed area. The GWL modeling in this research adopts the philosophy of Sugawara’s tank model, which involved c1 as a function of soil porosity, c2 as a function of rainfall rate, and c3 as a function of soil hydraulic conductivity and slope. Parameter optimization of the model is undertaken by adjusting c1, c2, and c3. The model is quite successful in imitating the behavior of GWL on observed area indicated by average NS value of about 70%. The best-fit model of each year of simulation shows that the value of c1 and c3 is 1.3 and  0.0,  respectively.  The  value  of  0.0  for  c3  indicates  that  there  is  no  discharge  coming  out  from  the  system.  The  value of c2 varied and depended on the rate of rainfall and evapotranspiration. The research also found that basically c2  is  the  ratio  between  rainfall  and  evapotranspiration.  The  model  also  indicates  very  small  or  almost  no  effect  of  lateral water balance such as lateral inflow from or to other sources on surrounding the observed area.",
+      "status_changed": "2020-06-20 19:22:18",
+      "eprint_status": "archive",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "place_of_pub": "Beijing China",
+      "title": "Modeling the groundwater\r\nfluctuation in Sphagnum mire in northern Hokkaido",
+      "date_type": "published",
+      "eprintid": 22686,
+      "datestamp": "2020-06-20 19:22:18",
+      "userid": 874,
+      "lastmod": "2020-06-20 19:22:18",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22686",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "docid": 36167,
+            "main": "PROCEDIA 1 SIMILARITY.pdf",
+            "files": [
+                {
+                  "objectid": 36167,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208100",
+                  "datasetid": "document",
+                  "filesize": 654291,
+                  "fileid": 208100,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-20 16:07:50",
+                  "filename": "PROCEDIA 1 SIMILARITY.pdf",
+                  "hash": "b933622c7aacf84f111c8eed93fdf524"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36167",
+            "eprintid": 22686,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "type": "other",
+      "date": 2012,
+      "dir": "disk0\/00\/02\/26\/86",
+      "id_number": "ISSN 18780296",
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "honourific": null,
+            "family": "Susilo",
+            "lineage": null,
+            "given": "Gatot Eko"
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2020-03-12 04:47:35",
+      "lastmod": "2020-03-12 04:47:35",
+      "userid": 874,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18463",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31622",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 155266,
+                  "filename": "P1-PROCEDIA 13.pdf",
+                  "hash": "7bb8c5af71c2811649ad9f2bc5ee2d19",
+                  "mtime": "2020-03-08 17:16:40",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1660741,
+                  "objectid": 31622,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155266"
+                }
+            ],
+            "main": "P1-PROCEDIA 13.pdf",
+            "docid": 31622,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18463
+          }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "type": "other",
+      "date": 2012,
+      "dir": "disk0\/00\/01\/84\/63",
+      "creators": [
+        {
+          "name": {
+            "family": "Susilo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gatot Eko"
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "status_changed": "2020-03-12 04:47:35",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "REPOSITORY REVIEWER: Procedia Environmental Sciences Vol. 13(2012)",
+      "eprintid": 18463
+    },
+    {
+      "date_type": "published",
+      "eprintid": 49220,
+      "event_title": "Membangun Ifrastruktur dan Pengembangan Wilayah",
+      "event_location": "Hotel Novotel Bandar Lampung",
+      "abstract": "Model numerik perambatan gelombang panjang digunakan untuk memodelkan perambatan gelombang\r\ntsunami, baik yang disebabkan oleh gempa tektonik maupun gempa vulkanik atau akibat meletusnya gunung\r\nberada di laut. Pada penelitian ini dipresentasikan simulasi perambatan gelombang tsunami akibat\r\nmeletusnya gunung anak krakatau dengan  kekuatan yang sama dengan kekuatan krakatau tahun 1883.\r\nDiasumsikan sumber tsunami sama dengan lokasi gunung anak krakatau sekarang. Dari lokasi tersebut\r\ngelombang tsunami merambat menuju pantai Provinsi Lampung. Persamaan gelombang panjang non linier\r\ndua dimensi (2-D) dengan solusi pendekatan beda hingga metode eksplisit (explicit finite-difference method)\r\ndapat dipergunakan untuk mensimulasikan perambatan gelombang tsunami. Gelombang tsunami setinggi\r\nlebih dari 12 meter dapat mencapai lokasi rencana pembangunan Jembatan Selat Sunda dalam waktu 35\r\nmenit.  \r\n \r\nKata kunci : gelombang panjang, pendekatan beda hingga, anak krakatau",
+      "subjects": [
+        "TC"
+      ],
+      "succeeds": 48001,
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "event_dates": "03 Mei 2012",
+      "divisions": [
+        "FT2"
+      ],
+      "type": "conference_item",
+      "date": "2012-05-03",
+      "datestamp": "2023-03-27 00:53:34",
+      "lastmod": "2023-03-27 00:53:34",
+      "publisher": "Magister Teknik Sipil Universitas Lampung",
+      "ispublished": "pub",
+      "status_changed": "2023-03-27 00:53:34",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "referencetext": "Goto, C. dan Shuto, 1983, Numerical simulation of tsunami propagations and run-up, In\r\nTsunami-Their Science and Engineering, edited by K. Iida and T. Iwasaki, pp. 439-\r\n451. Terra Scientific Publ. Comp.; Tokyo.\r\nGoto, C. dan Ogawa, Y., 1992, Numerical method of tsunami simulation with leap-frog\r\nscheme, Disaster Control Research Center, Tohoku University.\r\nHorrillo J. J., Kowalik, Z. and Kornkven, E., 2004, The third international workshop on\r\nlong-wave runup models, report.\r\nHorrillo, J., Kowalik, Z. Shigihara, Y., 2006, Wave dipsersion study in the indian oceantsunami\r\nof december 26, 2004, Marine Geodesy, Vol. 29, pp.149-166.\r\nHantoro, W. S., Latief, H., Susilohadi, and Airlangga, A.Y., 2007, Volcanic tsunami of\r\nkrakatau: chronology model and its mitigation in sunda strait, Proceedings of\r\nInternational Symposium on Geotechnical Hazards: Prevetion, Mitigation and\r\nEngineering Response. pp.331-354.\r\nKreyszig, E., 1993, Advanced Engineering Mathematics, John Wiley & Sons, Inc.\r\nSingapore.\r\nKowalik, Z., Proshutinsky T. dan Proshutinsky, A., 2006, Tide-tsunami interactions,\r\nScience of Tsunami Hazards, Vol. 24, No. 4, pp.242-256.\r\nKowalik, Z. and Murty, T. S., 1993, Numerical simulation of two-dimensional tsunami\r\nrunup, Marine Geodesy, Vol.16, pp.87-100.\r\nMahi, A. K., Zakaria., A., 2008, Rencana strategis dan rencana aksi mitigasi bencana Kota\r\nBandar Lampung, Laporan Proyek, DKP Profinsi Lampung,156 hal.\r\nMarchuk, Andrei J. dan Anisimov, A., 2001, A method for numerical modeling run-up on\r\nthe coast of an arbitrary profile, ITS 2001 Proceedings, Session 7, Number 7-27.\r\nReynold, A. C., 1978, Boundary conditions for the numerical solution of wave propagation\r\nproblems, Geophysics 43(6), pp 1099-1110.\r\nShigihara, Y., K. Fujima, M. Homma and K. Saito, 2005, Numerical methods of linier\r\ndispersive wave equation for the practical problems, Asian and Pacific Coasts,\r\nSept.4-8, Jeju, South Korea, pp.14.\r\nWatts, P Grill, S.T., Kirby, J. T., Fryer G. J., and Tappin, D. R., 2003, Landslide., tsunami\r\ncase studies using a boussinesq model and a fully nonlinier tsunami generation\r\nmodel, Natural Hazards and Earth System Sciences, Vol. 3, pp.391-402.\r\nWatts, P., Ioualalen, M., Grill, S., Shi, F. dan Kirby, J. T., 2005, Numerical simulation of\r\nDecember 26, 2004 Indian ocean tsunami using higher order boussinesq model,\r\nOcean waves measurement and analysis, Fifth International Symposium\r\nWAVES 2005, 3rd July, 2005, Madrid, Spain, No. 221.\r\nZakaria, A. 2009, Simulasi perambatan gelombang tsunami akibat meletusnya gunung\r\nanak krakatau, Seminar Sains MIPA Aplikasinya, FMIPA UNILA, 16 - 17\r\nNovember 2009, pp. 235-246.\r\nZakaria, A., 2003, Numerical modelling of wave propagation using higher order finitedifference\r\nformulas, Thesis (Ph.D), Curtin University of Technology, Perth,\r\nW.A.",
+      "title": "SIMULASI WAKTU PERAMBATAN DAN TINGGI GELOMBANG TSUNAMI\r\nAKIBAT MELETUSNYA GUNUNG ANAK KRAKATAU",
+      "keywords": "gelombang panjang, pendekatan beda hingga, anak krakatau",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "dir": "disk0_bak\/00\/04\/92\/20",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "family": "Zakaria",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "susilowati",
+            "lineage": null,
+            "given": "kartini"
+          }
+        }
+      ],
+      "issn": "978-602-19441-1-0",
+      "publication": "Prosiding Seminar Nasional",
+      "userid": 491,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49220",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 188755,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534768",
+                  "mime_type": "application\/pdf",
+                  "fileid": 534768,
+                  "hash": "3870a41f6289aba4570189114bd07049",
+                  "filename": "repo 48001 - mts - simulasi waktu perambatan - 2012.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-24 02:46:03",
+                  "datasetid": "document",
+                  "filesize": 1480023
+                }
+            ],
+            "docid": 188755,
+            "main": "repo 48001 - mts - simulasi waktu perambatan - 2012.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188755",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 49220,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper"
+    }
+]
+

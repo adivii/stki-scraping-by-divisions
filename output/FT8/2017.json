@@ -1,0 +1,1253 @@
+[
+    {
+      "title": "IKiS Self Service Kiosk for Library Service - Full Cover",
+      "official_url": "https:\/\/jurnal.darmajaya.ac.id\/index.php\/icitb\/article\/view\/1004",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:45:04",
+      "succeeds": 34225,
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Institutional Repository (IR) Digital Collections in Unila Library is a restricted access collection, it is not directly accessible for users. Transactions such as whole collection information retrieval, printing and payment can be made only through librarians. Sometimes it leads to slow services due to the number of transaction requests queues from users. There were no system or device such as Kiosk that can be used independently for such purposes to minimize or even eliminate queue for librarians. Purpose of this research is to develop a KiosK self-contained system called Interactive Kiosk System (IKiS). IKiS serves for searching, accessing information as well as for self-printing transactions in Unila Library. IKiS hardware development uses hardware interface for input (barcode reader) and output (printer). IKiS casing made in accordance with the size and layout of the device as well as considering user ergonomics. Prototype method used for software development which focuses on functionality and user ergonomic. Data source retrieved from existing system data library which are IR collection on Eprints, ebook collection and ejournal collection on SLiMS. API (Application Programming Interface) is developed for transaction between data source to IKiS software. Testing is done on hardware, software, and both as a whole unit. Based on the test results, IKiS Print Mandiri can work well and meet the functionality required by Unila library. The research succeeded in realizing KiosK's self-service printing system tested on IR Library collection users of Unila Library. Use of the Web Service API and common computer tools make IKiS Independent Print agnostic against the IR Digital Collection system. This provides an opportunity for adoption on a wider scale as an improvement of services in the Library in general. \r\n \r\nKeyword: Index Terms—e-Kiosk, Institutional Repository, Library Services, Self-service Printing.",
+      "event_title": "PROCEEDING INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY AND BUSINESS",
+      "eprintid": 41135,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41135,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 06:23:10",
+                  "filename": "IKiS Self Service Kiosk for Library Service.pdf",
+                  "hash": "3e743b6d19f215b4b2814e566f877610",
+                  "fileid": 456652,
+                  "mime_type": "application\/pdf",
+                  "filesize": 864528,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456652",
+                  "objectid": 162593
+                }
+            ],
+            "main": "IKiS Self Service Kiosk for Library Service.pdf",
+            "docid": 162593,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162593",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41135",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-04-06 06:45:04",
+      "userid": 517,
+      "datestamp": "2022-04-06 06:45:04",
+      "pagerange": "137-142",
+      "publication": "International Conferences on Information Technology and Business (ICITB)",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        }
+      ],
+      "issn": "2460-7223",
+      "date": 2017,
+      "dir": "disk0\/00\/04\/11\/35",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "title": "SINKRONISASI DAN INTEGRASI DATABASE HETEROGEN\r\nSISTEM PERPUSTAKAAN UNILA",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 7,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/perpustakaan.lampungprov.go.id"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-06-28 01:57:53",
+      "abstract": "Penggunaan platform database dan aplikasi yang berbeda dalam sebuah sistem, dapat mengakibatkan redudansi data, ketidak konsistenan data ataupun hilangnya integritas data. Kasus ini juga terjadi pada UPT Perpustakaan Unila yang memiliki  sistem otomasi perpustakaan dengan multi database dan  berbeda-beda. Untuk menjamin konsistensi data antara database server yang berbeda platform tersebut, dibutuhkan mekanisme sinkronisasi data yang tidak mudah karena sangat dimungkinkan terjadi konflik data antara database server tersebut. Penelitian ini bertujuan untuk mengembangkan model proses sinkronisasi dan integrasi antara database heterogen pada UPT Perpustakaan serta mendeteksi adanya konflik yang terjadi antar multi database. Pengembangan model sinkronisasi dan integrasi menggunakan Pentaho Data Integration sebagai alat bantu yang memiliki engine sinkronisasi yang bertindak sebagai agen untuk sinkronisasi data antar database yang sama ataupun heterogen. Hasil penelitian berupa model skenario sinkronisasi database perpustakaan Unila. Pengujian sinkronisasi dengan menggunakan contoh kasus pada modul Bibliografi aplikasi ELIBS dan SLiMS yang digunakan di UPT Perpustakaan Unila menunjukkan kesamaan isi tabel pada kedua aplikasi tersebut. \r\n\r\nKata Kunci : Sinkronisasi , Integrasi, Database, Perpustakaan",
+      "subjects": [
+        "T1"
+      ],
+      "eprintid": 8046,
+      "date_type": "published",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8046,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 80454,
+                  "hash": "f77a229fc989b4fad1d1db213e12f063",
+                  "filename": "Tawit Vol 1 No 3.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-27 14:11:14",
+                  "datasetid": "document",
+                  "filesize": 1030692,
+                  "objectid": 21076,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/80454"
+                }
+            ],
+            "main": "Tawit Vol 1 No 3.pdf",
+            "docid": 21076,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21076",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Dinas Perpustakaan dan Kearsipan Provinsi Lampung",
+      "number": 3,
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8046",
+      "lastmod": "2018-06-28 01:57:53",
+      "userid": 517,
+      "pagerange": "15-25",
+      "datestamp": "2018-06-28 01:57:53",
+      "issn": 25989464,
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Mulyani",
+            "honourific": null,
+            "given": "Yessi"
+          }
+        },
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Despa",
+            "given": "Dikpride"
+          }
+        }
+      ],
+      "publication": "Tawit Pustaka Jurnal Perpustakaan dan Informasi Ilmiah",
+      "dir": "disk0\/00\/00\/80\/46",
+      "date": "2017-11",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "pagerange": "96-103",
+      "datestamp": "2018-06-26 08:03:03",
+      "lastmod": "2018-06-26 08:03:03",
+      "userid": 517,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7822",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat",
+      "documents": [
+          {
+            "mime_type": "text\/html",
+            "language": "en",
+            "content": "published",
+            "eprintid": 7822,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20859",
+            "docid": 20859,
+            "main": 24,
+            "files": [
+                {
+                  "objectid": 20859,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/70003",
+                  "fileid": 70003,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-26 04:35:17",
+                  "filename": 24,
+                  "hash": "c0d93038dbd056400077bc546dad3ed9",
+                  "datasetid": "document",
+                  "filesize": 3585
+                }
+            ]
+          }
+      ],
+      "number": 3,
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/78\/22",
+      "date": "2017-11",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "suratoni@gmail.com",
+          "name": {
+            "family": "Wijaya",
+            "honourific": null,
+            "lineage": null,
+            "given": "Toni"
+          }
+        }
+      ],
+      "issn": "e-ISSN 2550-1089",
+      "publication": "SAKAI SAMBAYAN",
+      "abstract": "Kelompok  Sadar   Wisata  (Pokdarwis)  adalah  kelembagaan  informal  yang  dibentuk  oleh  anggota masyarakat  dan  merupakan  salah  satu  unsur  pemangku  kepentingan  yang  memiliki  peran  dalam mengembangkan  dan  mewujudkan  Sadar  Wisata  dan  Sapta  Pesona  di  daerahnya. PokdarwisCinta Bahari dibentuk oleh aparat Desa Pulau Pahawang Lampung pada tahun 2013. Akan tetapi rendahnya tingkat  pendidikan  anggota Pokdarwismembuat  mereka  sangat  sulit  untuk  dapat  mengembangkan potensi  wisata  pulau  Pahawang  secara  optimal  hingga  saat  ini.  Solusi  yang  ditawarkan  oleh  Tim Pengabdian  Masyarakat  Unila,  Program  Kemitraan  Masyarakat  (PKM)  adalah  Penerapan  Teknologi Informasi dan Komunikasi (TIK) dalam bentuk aplikasi mobile (mobile application) memberikan ruang baru  dalam  menjangkau  calon  wisatawan.  Perangkat  aplikasi  ini  dikembangkan  dan  dimanfaatkan untuk  menampilkan  informasi  secara  interaktif  sehingga  memungkinkan  masyarakat  calon  wisatawan dapat  mengakses  informasi  secara  langsung  dengan  lebih  mudah,  tepat  guna,  dan  sesuai  kebutuhan. Selain  itu  Tim  PKM  juga  memberikan  pelatihan  dan  praktek  tentang  penggunaan  aplikasi  mobile tersebut,   bagaimana   cara   membuat konten\/ mengelola   konten   aplikasi   agar   selalu   update dan terpelihara.  Pelatihan  lain  yang  diberikan  adalah  berupa  ketrampilan  berkomunikasi dan melakukan pemasaran yang effektif  kepada  wisatawan  dengan  menggunakan  alat  bantu  promosi.  Hasil  yang diperoleh  dari  kegiatan  PKM  adalah  berupa  adanya  aplikasi  mobile CintaBahari,  adanya  alat  bantu promosi seperti video profile, brosur, iklan yang dapat digunakan untuk promosi pariwisata. Selain itu bagi PokdarwisPulau  Pahawang,  adanya  peningkatan  pengetahuan  pengelolaan  konten  aplikasi, pengetahuan  cara membuat  alat  bantu  promosidan  pengetahuan  teknik  berkomunikasi.  Dari  data kunjungan wisatawan yang diperoleh selama satu bulan setelah adanya aplikasi dan alat bantu promosi lainnya, terdapat peningkatan kunjungan wisatawan walaupun belum cukup tinggi (hanya 5%). Namundemikian terdapat potensi peningkatan kunjungan wisatawan yang lebih tinggi lagi dengan ketersediaan alat bantu promosi ini yang diharapkan berdampak langsung pada peningkatan omzet bagi Pokdarwis. \r\nKata kunci:Aplikasi mobile, CintaBahari, Pokdarwis, Pahawang, Wisata Bahari",
+      "subjects": [
+        "T1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/28\/24",
+          "type": "pub"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-06-26 08:03:03",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": "Vol 1",
+      "title": "MOBILE APPLICATION CINTABAHARI SEBAGAI SARANA PROMOSI POKDARWISPULAU PAHAWANG LAMPUNG",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id",
+      "date_type": "published",
+      "eprintid": 7822
+    },
+    {
+      "dir": "disk0\/00\/04\/11\/30",
+      "date": "2017-10",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          }
+        },
+        {
+          "id": "robysyahp@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Putra",
+            "honourific": null,
+            "given": "Roby Syah"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41130",
+      "documents": [
+          {
+            "docid": 162587,
+            "main": "Analisis Unjuk Kerja Single Web Page.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1094196,
+                  "fileid": 456617,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 06:09:47",
+                  "hash": "c13e42436c16bdb94f206f0ad5fe404f",
+                  "filename": "Analisis Unjuk Kerja Single Web Page.pdf",
+                  "objectid": 162587,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456617"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162587",
+            "eprintid": 41130,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2022-04-06 06:44:27",
+      "pagerange": "11-18",
+      "lastmod": "2022-04-06 06:44:27",
+      "userid": 517,
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "eprintid": 41130,
+      "event_title": "Semiloka Nasional Inovasi Perpustakaan",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "event_type": "conference",
+      "official_url": "http:\/\/sniper.library.unila.ac.id",
+      "title": "ANALISIS UNJUK KERJA SINGLE PAGE WEB APPLICATION : CYBER MEDIAWALL PERPUSTAKAAN - Full Cover",
+      "abstract": "Cyber mediawall sangat dibutuhkan untuk mendukung penyampaian suatu informasi menjadi lebih cepat, tepat dan akurat, terutama untuk penyampaian informasi yang realtime dan bersifat terus menerus. Demikian juga dengan perpustakaan, user membutuhkan informasi mengenai content dan event yang ada di Perpustakaan baik dalam bentuk teks, animasi, video dan suara yang dapat diperoleh dengan cepat, mudah dan menarik. Cyber mediawall ini dikembangkan dengan menerapkan teknologi Single Page Web Application dan menggunakan WebSocket terutama untuk pengambilan data secara real time dan penjadwalan content. Manajemen informasi pun dilakukan dengan mengatur seluruh data yang akan ditampilkan mulai dari proses pemasukkan content, sinkronisasi seluruh content dari server pusat dengan lokal, dan penjadwalan sehingga content dapat ditampilkan secara real time atau sesuai dengan waktu tayang yang diinginkan. Untuk analisa unjuk kerja, aplikasi dibangun dengan dalam dua versi, yaitu dengan menggunakan WebSocket dan dengan Ajax JSON. Hasil pengujian pada Cyber mediawall ini membuktikan bahwa seluruh fitur sudah berjalan sesuai yang diharapkan, WebSocket memiliki kecepatan page load lebih cepat daripada AJAX. Proses yang membutuhkan waktu paling lama pada AJAX adalah proses scripting sedangkan pada Websocket adalah proses rendering.",
+      "subjects": [
+        "T1"
+      ],
+      "succeeds": 40582,
+      "status_changed": "2022-04-06 06:44:27",
+      "eprint_status": "archive"
+    },
+    {
+      "creators": [
+        {
+          "id": "mona.batubara@eng.unila.id",
+          "name": {
+            "given": "Mona Arif",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muda"
+          }
+        },
+        {
+          "id": "rizki.alandani@students.unila.ac.id",
+          "name": {
+            "given": "Rizki",
+            "lineage": null,
+            "honourific": null,
+            "family": "Alandani"
+          }
+        },
+        {
+          "name": {
+            "given": "Gusti Made",
+            "lineage": null,
+            "honourific": null,
+            "family": "Arya"
+          },
+          "id": "gusti.made1058@students.unila.ac.id"
+        }
+      ],
+      "date": "2017-07-06",
+      "dir": "disk0\/00\/00\/59\/59",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 18876,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55267",
+                  "fileid": 55267,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-18 05:45:58",
+                  "hash_type": "MD5",
+                  "hash": "e1a61351e8cd2c22615a54743e6ba01d",
+                  "filename": "ISRSC2017_paper_57.pdf",
+                  "datasetid": "document",
+                  "filesize": 986418
+                }
+            ],
+            "main": "ISRSC2017_paper_57.pdf",
+            "docid": 18876,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18876",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 5959,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5959",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 471,
+      "lastmod": "2018-04-25 03:42:49",
+      "datestamp": "2018-04-25 03:42:49",
+      "event_location": "Bandung",
+      "event_title": "The 5th Indonesian Symposium On Robotic Systems and Control 2017",
+      "eprintid": 5959,
+      "official_url": "https:\/\/easychair.org\/cfp\/ISRSC2017",
+      "title": "Thermal Vision pada Manusia dengan Pengaruh Terhadap Warna Pakaian",
+      "event_dates": "6 July 2017",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "status_changed": "2018-04-25 03:42:49",
+      "eprint_status": "archive",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Machine vision dapat diaplikasikan pada banyak bidang, salah satunya adalah pencitraan manusia. Pencitraan manusia dapat dilakukan dengan menggunakan kamera thermal dengan pendeteksian radiasi panas yang dipancarkan oleh tubuh manusia. Panas tubuh manusia diserap oleh pakaian yang dikenakan sehingga mempengaruhi hasil pencitraan kamera inframerah. Pada penelitian ini akan dilihat bagaimana pengaruh perbedaan warna pakaian terhadap penyerapan panas dari tubuh dan deteksi panas oleh kamera thermal. Dengan menggunakan variasi warna pakaian yang berbeda maka akan dihasilkan citra dengan pola panas tubuh berbeda bergantung pada kecerahan warna pakaian."
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41088",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162511",
+            "rev_number": 1,
+            "docid": 162511,
+            "main": "Aplikasi Pahawang Sertifikat-deskripsi.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456243",
+                  "objectid": 162511,
+                  "hash": "40b48519df60eb0648f3ec54db2b7329",
+                  "filename": "Aplikasi Pahawang Sertifikat-deskripsi.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-05 12:41:05",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456243,
+                  "filesize": 3097251,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 41088,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2022-04-06 01:21:44",
+      "lastmod": "2022-04-06 01:21:44",
+      "userid": 517,
+      "date": 2017,
+      "dir": "disk0\/00\/04\/10\/88",
+      "id_number": "EC00201705342",
+      "patent_applicant": "LPPM Unila",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Hak Cipta Program Komputer Aplikasi Android Pahawang Travel- Sertifikat dan Deskripsi",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Aplikasi Android PahawangTravel adalah aplikasi yang menampilkan informasi mengenai pariwisata Pulau Pahawang mengenai rekreasi yang ada, berita tentang pariwisata pulau Pahawang, informasi paket wisata, dan kontak ke pengelola pariwisata Pulau Pahawang.",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 01:21:44",
+      "date_type": "published",
+      "eprintid": 41088
+    },
+    {
+      "date": "2017-09-17",
+      "dir": "disk0\/00\/02\/40\/98",
+      "id_number": "EC00201705342",
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        }
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "patent",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24098",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24098,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219413",
+                  "objectid": 37801,
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-20 05:02:52",
+                  "filename": "EC00201705342-meizano.pdf",
+                  "hash": "a7ec1bc34c454cc6856d69ff70830001",
+                  "fileid": 219413,
+                  "mime_type": "application\/pdf",
+                  "filesize": 190985,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "EC00201705342-meizano.pdf",
+            "docid": 37801,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37801",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2020-09-21 03:27:39",
+      "lastmod": "2020-09-21 03:27:39",
+      "userid": 1199,
+      "date_type": "published",
+      "eprintid": 24098,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/MkVSMHVFYzMxb1NWQmwzWWhVU1Nydz09",
+      "title": "Hak Cipta Program Komputer Aplikasi Android PahawangTravel",
+      "subjects": [
+        "GV",
+        "T1",
+        "T201"
+      ],
+      "abstract": "Aplikasi Android PahawangTravel adalah aplikasi yang menampilkan informasi mengenai pariwisata Pulau Pahawang mengenai rekreasi yang ada, berita tentang pariwisata pulau Pahawang, informasi paket wisata, dan kontak ke pengelola pariwisata Pulau Pahawang.",
+      "eprint_status": "archive",
+      "status_changed": "2020-09-21 03:27:39"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "event_title": "Semiloka Nasional Inovasi Perpustakaan",
+      "eprintid": 41128,
+      "date_type": "submitted",
+      "title": "WEB SERVICE PENCARIAN KOLEKSI REPOSITORY PERPUSTAKAAN PADA APLIKASI - Full Cover",
+      "official_url": "http:\/\/sniper.library.unila.ac.id",
+      "event_type": "conference",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:09:40",
+      "succeeds": 40586,
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Institutional Repository (IR) adalah sarana penting bagi universitas untuk menyimpan bahan-bahan digital, dan termasuk upaya untuk pengorganisasian, akses dan pendistribusian yang baik untuk karya-karya akademik yang dimilikinya. Tantangan dari penggunaan IR adalah bagaimana menjamin koleksi yang dimiliki oleh universitas, khususnya perpustakaan, dapat didistribusikan dengan baik terhadap civitas akademika yang berhak mengaksesnya. API (Application Programming Interface) Web Service adalah salah satu cara yang dapat digunakan sebagai cara akses data oleh perangkat lunak tanpa terikat dengan perangkat lunak itu sendiri. Sehingga, penggunaan API Web Service dapat mengurangi waktu yang diperlukan untuk pengembangan perangkat lunak karena cara akses data seragam. Tujuan penelitian ini adalah untuk mengembangkan API web service IR yang berfungsi untuk mengoptimalkan layanan koleksi IR, khususnya untuk pencarian dokumen pada aplikasi Eprints yang tidak mendukung API Web Service. API Web Service IR dikembangkan menggunakan metode Rapid Application Development (RAD) yang memungkinkan dilakukannya iterasi revisi dengan cepat. Pembuatan API Web Service menggunakan bahasa PHP dengan dua skenario yaitu generasi data secara real-time dan generasi data periodik. Berdasarkan hasil uji skenario, diketahui bahwa skenario generasi data secara real-time membutuhkan waktu yang lebih lama dalam memperoleh data. Sedangkan, generasi data periodik memiliki performansi yang cepat walau pun jika ada data baru yang masuk, sebelum periode generasi data, menjadi tidak tersedia. Karena penggunaan di setiap universitas berbeda, kedua skenario ini harus dipertimbangkan dalam memilih model generasi data yang diperlukan. Dengan penerapan API Web Service untuk pencarian koleksi repository pada aplikasi EPrints, layanan perpustakaan Unila telah dihadirkan dalam bentuk KiosK untuk layanan bersifat mandiri.",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mulyani",
+            "given": "Yessi"
+          }
+        },
+        {
+          "name": {
+            "given": "Dikpride",
+            "lineage": null,
+            "family": "Despa",
+            "honourific": null
+          },
+          "id": "despa@eng.unila.ac.id"
+        }
+      ],
+      "date": "2017-10",
+      "dir": "disk0\/00\/04\/11\/28",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 162584,
+            "main": "Web Service Pencarian Koleksi Repository.pdf",
+            "files": [
+                {
+                  "objectid": 162584,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456587",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456587,
+                  "hash": "210aa428628c2945c5b5184485801bf9",
+                  "filename": "Web Service Pencarian Koleksi Repository.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 06:02:06",
+                  "datasetid": "document",
+                  "filesize": 1274027
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162584",
+            "rev_number": 1,
+            "eprintid": 41128,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41128",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "userid": 517,
+      "lastmod": "2022-04-06 06:09:40",
+      "pagerange": "227-235",
+      "datestamp": "2022-04-06 06:09:40"
+    },
+    {
+      "abstract": "Lampung have a language, tailored to the region tradition, used daily as a means of communication and interaction among community members of tribes or ethnic groups in Lampung province. scripts used in the Lampung local language script is Khaganga, orthographic system derive from regional community literacy and literacy system to write the local language. Lampung scripts have different ways of writing than the western alphabet. Lampung script writing is similar to the writing of Arabic language, which is in the vocal punctuation above or below or next to the script. Based on research that has been done before, the computer font of Lampung script created following the rules of computer font standard. Thus, information systems need to be made to utilize the fonts that have been created to store word written using Lampung script. The study was conducted over five months in the Laboratory of Computer Engineering Department of Electrical Engineering and Regional Library of Lampung Province. RAD (Rapid Application Development) is used as the development method, which iterate improvements in each phase of software development. The technology used is HTML, CSS, and JavaScript. CASE Tools, such as Brackets IDE, GIT, and Google Chrome, is used in the development. There are two result achieve in this study, which are, first, word written using Lampung script database and, second, Lampung script mobile dictionary as the interface. Mobile dictionary can translate Indonesian words into Lampung script together with its Indonesian transliteration and conversely. Development of Lampung script mobile dictionary using SPA technology also allows the application to be opened in the web browser and function even after Internet connection goes offline. Lampung script Mobile Dictionary, with the support of SPA technology, is successfully developed and all functional needs implemented.",
+      "subjects": [
+        "HN",
+        "T1"
+      ],
+      "status_changed": "2017-06-02 05:24:34",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "volume": 11,
+      "official_url": "http:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2025\/",
+      "title": "Mobile Dictionary Aksara Lampung Berbasis Teknologi SPA (Single Webpage Application)",
+      "date_type": "published",
+      "eprintid": 2521,
+      "datestamp": "2017-06-02 05:24:34",
+      "pagerange": "66-71",
+      "userid": 1199,
+      "lastmod": "2017-06-02 05:24:34",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2521",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 2521,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2407",
+            "docid": 2407,
+            "main": "2025-300-1-PB.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 328395,
+                  "mime_type": "application\/pdf",
+                  "fileid": 17437,
+                  "hash": "c3a2c424bff6f7708352c42a8c713625",
+                  "filename": "2025-300-1-PB.pdf",
+                  "mtime": "2017-05-31 07:03:38",
+                  "hash_type": "MD5",
+                  "objectid": 2407,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17437"
+                }
+            ]
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/25\/21",
+      "date": "2017-05",
+      "issn": "1978-6042",
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        }
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro"
+    },
+    {
+      "eprintid": 46643,
+      "date_type": "published",
+      "status_changed": "2022-11-14 12:45:01",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Smart System Monitoring of Gradient Soil Temperature at the Anak Krakatoa - similarity check and corresponding email",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2017,
+      "dir": "disk0\/00\/04\/66\/43",
+      "userid": 1,
+      "lastmod": "2022-11-14 12:45:01",
+      "datestamp": "2022-11-14 12:45:01",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46643,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185543",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 7013583,
+                  "mime_type": "application\/pdf",
+                  "fileid": 513986,
+                  "hash": "3b9ec68dd44e7d2b1fabf537bbd031de",
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26859303-2022-11-14-19_42_17.pdf",
+                  "mtime": "2022-11-14 12:43:20",
+                  "hash_type": "MD5",
+                  "objectid": 185543,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513986"
+                }
+            ],
+            "docid": 185543,
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26859303-2022-11-14-19_42_17.pdf"
+          },
+          {
+            "docid": 185544,
+            "main": "unila.ac.id Mail - Status has been changed for your article No. 31960-AJIT.pdf",
+            "files": [
+                {
+                  "filename": "unila.ac.id Mail - Status has been changed for your article No. 31960-AJIT.pdf",
+                  "hash": "f60e4095558557fef6cf6303127706af",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 12:43:24",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513988,
+                  "filesize": 495688,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513988",
+                  "objectid": 185544
+                }
+            ],
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185544",
+            "rev_number": 1,
+            "eprintid": 46643,
+            "placement": 2,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Medwell Journal",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46643",
+      "full_text_status": "public"
+    },
+    {
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "date": 2017,
+      "dir": "disk0\/00\/04\/66\/44",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "IEEE",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185545",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 185545,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513999",
+                  "datasetid": "document",
+                  "filesize": 9248066,
+                  "mime_type": "application\/pdf",
+                  "fileid": 513999,
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26859697-2022-11-14-20_05_55.pdf",
+                  "hash": "3d8bf45e0973d155adf30a37f3845d7e",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 13:07:09"
+                }
+            ],
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26859697-2022-11-14-20_05_55.pdf",
+            "docid": 185545,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46644
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46644",
+      "full_text_status": "public",
+      "lastmod": "2022-11-14 13:09:14",
+      "userid": 1,
+      "datestamp": "2022-11-14 13:08:51",
+      "eprintid": 46644,
+      "date_type": "published",
+      "title": "Telemetry and tele-control of electronic appliances for smart-home-system - similarity check",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "status_changed": "2022-11-14 13:08:51",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "eprintid": 46641,
+      "date_type": "published",
+      "status_changed": "2022-11-14 12:36:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "title": "An enterprise architecture planning for higher education using the open group architecture framework (togaf): Case study University of Lampung - similarity check",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2017,
+      "dir": "disk0\/00\/04\/66\/41",
+      "userid": 1,
+      "lastmod": "2022-11-14 12:36:12",
+      "datestamp": "2022-11-14 12:36:12",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185539",
+            "rev_number": 1,
+            "main": "An_Enterprise_Architecture_Planning_for_Higher_Edu.pdf",
+            "docid": 185539,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513967",
+                  "objectid": 185539,
+                  "hash": "5785a6287fd16ada14b8e210a11cf4e2",
+                  "filename": "An_Enterprise_Architecture_Planning_for_Higher_Edu.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 12:32:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513967,
+                  "filesize": 1891001,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46641,
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 46641,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185540",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513971",
+                  "objectid": 185540,
+                  "filesize": 99528,
+                  "datasetid": "document",
+                  "filename": "unila.ac.id Mail - [ICSITech 2017] Your paper #1570360899 ('An Enterprise Architecture Planning for Higher Education Using The Open Group Architecture Framework (TOGAF)_ Case Study University of Lampung').pdf",
+                  "hash": "7ade3981f28e7bc018f1ebdbbea8ce72",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 12:36:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 513971
+                }
+            ],
+            "docid": 185540,
+            "main": "unila.ac.id Mail - [ICSITech 2017] Your paper #1570360899 ('An Enterprise Architecture Planning for Higher Education Using The Open Group Architecture Framework (TOGAF)_ Case Study University of Lampung').pdf"
+          }
+      ],
+      "publisher": "IEEE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46641"
+    },
+    {
+      "title": "Dashboard Monitoring System Berbasis Web \r\nSebagai Pemantau Layanan liteBIG Instant Messenger",
+      "rev_number": 7,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-05 03:00:32",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Abstrak -- Saat ini hampir semua pengguna ponsel pintar menggunakan layanan perpesanan instan sebagai\r\nmedia komunikasi dikarenakan layanan perpesanan instan lebih hemat biaya dengan hanya menggunakan\r\njaringan internet dibandingkan layanan pesan singkat (SMS). Layanan yang diberikan harus dapat melayani\r\npengguna dengan baik agar pesan yang dikirim oleh pengirim dapat diterima oleh penerima dengan cepat dan\r\nakurat. Layanan ini juga harus dijaga keandalannya untuk menjamin kualitas pelayanan dan untuk\r\nmenghindari ketidaknyamanan pengguna. Sehingga, diperlukan adanya sistem pemantauan berupa perangkat\r\nlunak untuk pengawasan status layanan setiap saat dapat diakses dari manapun dan kapanpun. PT.Sandika\r\nCahaya Mandiri memiliki produk layanan perpesanan instan dengan brand name liteBIG Messenger.\r\nPerusahaan ini memerlukan perangkat lunak untuk pemantauan layanan liteBIG Messenger. Dengan adanya\r\nperangkat lunak pemantauan layanan, petugas pemantauan dapat melihat secara realtime status layanan utama\r\npada setiap komputer server, pemakaian sumber daya (cpu, memory, dan harddisk), dan statistik pengguna baru\r\nliteBIG Messenger  melalui antarmuka web. Petugas pemantauan juga akan mendapat pemberitahuan ketika\r\nterjadi masalah pada layanan sehingga masalah dapat lebih dini diketahui dan downtime dapat dikurangi.\r\n\r\nKata Kunci: Monitoring, Service Monitoring, Instant Messaging, SSH Monitoring.",
+      "eprintid": 1578,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1455",
+            "main": "Dashboard Monitoring System Berbasis Web.pdf",
+            "docid": 1455,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 226761,
+                  "fileid": 10984,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-05-05 02:31:17",
+                  "hash_type": "MD5",
+                  "filename": "Dashboard Monitoring System Berbasis Web.pdf",
+                  "hash": "6830721643a10026496a724f9f347b18",
+                  "objectid": 1455,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10984"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 1578,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Universitas Andalas",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1578",
+      "refereed": "FALSE",
+      "lastmod": "2017-05-05 03:00:32",
+      "userid": 3,
+      "datestamp": "2017-05-05 03:00:32",
+      "pagerange": "19-26",
+      "publication": "Jurnal Teknologi dan Sistem Informasi (TEKNOSI)",
+      "issn": "2460-3465",
+      "creators": [
+        {
+          "name": {
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Abdul Munif",
+            "family": "Hanafi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Muhammad Bagus",
+            "family": "Nurfaif",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M. Tesar",
+            "lineage": null,
+            "family": "Sandikapura",
+            "honourific": null
+          }
+        }
+      ],
+      "date": "2017-04-28",
+      "dir": "disk0\/00\/00\/15\/78",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-06-26 03:52:34",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Abstract: Krakatoa volcano was erupted at 1883 which lead to tsunami and 36417 people died during this disaster. Now a days, it’s volume growth rapidly and named the Anak Krakatoa volcano. This volcano is one of 129 active volcanoes in Indonesia. It is very important to monitor the volcanic activity such as identified of soil temperature gradient as one of the important parameters for predicting volcano eruptions. In this research, furthermore, we had develop system monitoring of soil gradient temperature used mini single board computer BCM2835. Sensor DS18B20 was used to measure the temperature. Data temperature was sent by SMS technology and recorded into data base server. The system has a report activity and can be accessed through web application, early warning system was also implemented, system will sent SMS notification if there any critical event founded during measurement. Modified waterfall model was used for software development life cycle. The result of gradient temperature monitoring shown that at depths of 30, 60 and 90 cm, temperature ranged was between 25-32°C, the deepest sensor position has highest temperature and at nearest surface has lowest temperature.",
+      "title": "Smart System Monitoring of Gradient Soil Temperature at the Anak Krakatoa Volcano",
+      "official_url": "https:\/\/www.medwelljournals.com\/journalhome.php?jid=1682-3915",
+      "rev_number": 7,
+      "volume": 16,
+      "metadata_visibility": "show",
+      "eprintid": 7813,
+      "userid": 3,
+      "lastmod": "2018-06-26 03:53:34",
+      "datestamp": "2018-06-26 03:52:34",
+      "pagerange": "337-347",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20851",
+            "docid": 20851,
+            "main": "337-347.pdf",
+            "files": [
+                {
+                  "filename": "337-347.pdf",
+                  "hash": "14ff7ecb91a593b0ea63a1b3ada87ad1",
+                  "mtime": "2018-06-26 03:46:58",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 69939,
+                  "filesize": 889537,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69939",
+                  "objectid": 20851
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 7813,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Medwell Journal",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7813",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "Asian Journal of Information Technology",
+      "issn": "1993-5994 (Online)",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ghumelar Ihab",
+            "family": "Suhada",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Zaenudin",
+            "honourific": null,
+            "family": "Ahmad",
+            "lineage": null
+          },
+          "id": "zaenudin7209@gmail.com"
+        }
+      ],
+      "date": "2017-11",
+      "dir": "disk0\/00\/00\/78\/13",
+      "id_number": "10.3923\/ajit.2017.337.347"
+    }
+]
+

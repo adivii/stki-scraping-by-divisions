@@ -1,0 +1,1577 @@
+[
+    {
+      "contact_email": "armijon@eng.unila.ac.id",
+      "funders": [
+        "Hibah Penelitian Dana DIPA 2019 Fakultas Teknik Universitas Lampung"
+      ],
+      "keywords": "Critical Land Criteria, Conservation area, GIS, Remote Sensing.",
+      "publication": "Jurnal Geofisika Eksplorasi",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null,
+            "given": "Armijon"
+          }
+        }
+      ],
+      "issn": "2685-6182",
+      "dir": "disk0\/00\/02\/67\/85",
+      "userid": 102,
+      "pagerange": "228-242",
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 26785,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Identification of Degraded Land for Determination of Conservation Areas Based on GIS in Region-1 Lampung Selatan District",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40773",
+            "docid": 40773,
+            "main": "Armijon-Identification of Degraded Land for.....-Jurnal JGE Vol6_No3.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2015809,
+                  "fileid": 240594,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-11-24 03:42:55",
+                  "hash_type": "MD5",
+                  "hash": "19b8249f93395c28122f699fd3e4bbc5",
+                  "filename": "Armijon-Identification of Degraded Land for.....-Jurnal JGE Vol6_No3.pdf",
+                  "objectid": 40773,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/240594"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26785",
+      "refereed": "TRUE",
+      "status_changed": "2020-11-24 04:39:01",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/armijon.com"
+        },
+        {
+          "type": "pub",
+          "url": "https:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/index"
+        },
+        {
+          "type": "org",
+          "url": "https:\/\/www.unila.ac.id\/"
+        },
+        {
+          "type": "org",
+          "url": "http:\/\/eng.unila.ac.id\/"
+        }
+      ],
+      "note": "Abstrak. Berdasarkan survey lapangan di awal tahun 2019 memperlihatkan pertumbuhan dan perkembangan penggunaan lahan di kawasan Kabupaten Lampung Selatan mengarah pada kondisi yang tidak terkendali sehingga menimbulkan gangguan fungsi lahan baik di kawasan itu sendiri maupun kawasan di bawahnya. Kondisi tersebut dapat diatasi dengan melakukan upaya penentuan kawasan konservasi lahan. Salah satu dokumen kajian untuk menentukan kawasan konservasi di suatu wilayah adalah sebaran lahan kritis, sehingga kajian terhadap lahan kritis mutlak diperlukan. Teknologi SIG dapat dimanfaatkan menjawab tantangan dalam menentukan lahan kritis melalui metode superimpose menggunakan beberapa layer peta. Kajian secara superimpose memerlukan data peta-peta tematik dan sebaran tutupan lahan eksisting. Teknologi penginderaan jauh dimanfaatkan untuk menghasilkan peta tutupan lahan eksisting melalui teknik klasifikasi dan interpretasi citra. Data-data peta tematik pendukung analisis lainnya memanfaatkan data spasial dari RTRW wilayah penelitian. Sebaran lahan kritis terbanyak berada pada Kecamatan Merbau Mataram dan Kecamatan Katibung yang memerlukan tindakan segera dilaksanakan program Konservasi. Kawasan Konservasi yang sudah ditetapkan dalam RTRW harus dipertahankan, perlu ditetapkan kawasan lindung tambahan pada kawasan sempadan Sutet. Sebagai upaya mitigasi bencana maka seluruh kawasan bencana perlu ditetapkan sebagai kawasan konservasi.\r\n\r\nKeyword; Kriteria Lahan Kritis, Kawasan Konservasi, SIG, Penginderaan Jauh",
+      "title": "Identification of Degraded Land for Determination of Conservation Areas Based on GIS in Region-1 Lampung Selatan District",
+      "referencetext": "Adhiatma, R., Widiatmaka, & Lubis, I. (2019). Perubahan dan prediksi penggunaan\/penutupan lahan di Kabupaten Lampung Selatan Change and prediction of land cover\/use change in South Lampung Regency. Journal of Natural Resources and Environmental Management, 10(2), 234–246. https:\/\/doi.org\/10.29244\/jpsl.10.2.234-246\r\n\r\nArmijon. (2019). Pemetaan Digital Praktis. In Armijon (Ed.), Aura Publishing (First). Aura Publishing. http:\/\/repository.lppm.unila.ac.id\/13749\/\r\n\r\nArmijon, A. (2016). Analisis dan Identifikasi Ketersediaan Ruang Terbuka Hijau (RTH) Non Alami di Perkotaan Kabupaten\/Kota Provinsi Lampung. Jurnal Rekayasa Teknik Sipil Dan Perencanaan, 23(1), 17–33. http:\/\/repository.lppm.unila.ac.id\/14525\/\r\n\r\nAronoff, S. (1989). Geographical Information System: A Management Perspective. WDL publications.\r\n\r\nBurrough, P. (1988). Principles of geographical Information Systems for land Resources and Assessment. Oxford University Press.\r\n\r\nDeMers, M. N. (2010). Fundamentals of Geographic Information System. John Wiley & Sons, Inc.\r\n\r\nDewi, C., et all. (2013). Analysis of Green Open Space in the City of Bandar Lampung. Seminar Nasional Sains & Teknologi V Satek & Indonesia Hijau Lembaga Penelitian Universitas Lampung, 709–717. https:\/\/doi.org\/ISBN : 9789798510717\r\n\r\nKeputusan Presiden Republik Indonesia Nomor 32 Tahun 1990 Tentang Pengelolaan Kawasan Lindung, Pemerintah Republik Indonesia.\r\n\r\nLillesand, T. M., & Kiefer, R. W. (1990). Remote Sensing and Image Interpretation (Fourth). John Wiley & Sons, Inc.\r\n\r\nNugroho, S. P. (2015). Penerapan SIG Untuk Penyusunan dan Analisis Lahan Kritis Pada Satuan Wilayah Pengelolaan Das Agam Kuantan, Provinsi Sumatera Barat.Pdf. Teknologi Lingkungan, 9(2). https:\/\/doi.org\/https:\/\/doi.org\/10.29122\/jtl.v9i2.453\r\n\r\nPeraturan Daerah Provinsi Lampung Nomor 1 Tahun 2010 Tentang Rencana Tata Ruang Wilayah (RTRW) Provinsi Lampung Tahun 2009-2029.\r\n\r\nPeraturan Daerah Kabupaten Lampung Selatan Nomor 15 Tahun 2012 Tentang Rencana Tata Ruang Wilayah Kabupaten Lampung Selatan Tahun 2011 - 2031.\r\n\r\nPeraturan Menteri Kehutanan Republik Indonesia Nomor P.50\/ Menhut-II\/2009 Tentang Penegasan Status dan Fungsi Kawasan Hutan, Pemerintah Republik Indonesia.\r\n\r\nPeraturan Menteri Energi dan Sumber Daya Mineral Republik Indonesia Nomor 18 Tahun 2015 Tentang Ruang Bebas dan Jarak Bebas Minimum Pada SUTET.\r\n\r\nPeraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Republik Indonesia Nomor 28\/PRT\/M\/2015 Tentang Penetapan Garis Sempadan Sungai dan Garis Sempadan Danau.\r\n\r\nPeraturan Pemerintah Republik Indonesia Nomor 68 Tahun 1998 Tentang Kawasan Suaka Alam dan Kawasan Pelestarian Alam, Peraturan Pemerintah Republik Indonesia Nomor 26 Tahun 1985 Tentang Jalan. https:\/\/doi.org\/10.1016\/j.aquaculture.2007.03.021\r\n\r\nPeraturan Pemerintah Republik Indonesia Nomor 34 Tahun 2002 Tentang Tata Hutan dan Penyusunan \r\nRencana Pengelolaan Hutan, Pemanfaatan Hutan dan Penggunaan Kawasan Hutan, Peraturan Pemerintah Republik Indonesia Nomor 26 Tahun 1985 Tentang Jalan. https:\/\/doi.org\/10.1016\/j.aquaculture.2007.03.021\r\n\r\nPeraturan Pemerintah Republik Indonesia Nomor 26 Tahun 2007 Tentang Rencana Tata Ruang Wilayah Nasional, Pub. L. No. 26–2008, BPN. http:\/\/www.perumnas.co.id\/download\/prodhukum\/pp\/PP-26-2008 RENCANA TATA RUANG WILAYAH NASIONAL.pdf\r\n\r\nPeraturan Pemerintah Republik Indonesia Nomor 13 Tahun 2017 Tentang Perubahan Atas Peraturan Pemerintah Nomor 26 Tahun 2008 Tentang Rencana Tata Ruang Wilayah Nasional (RTRWN).\r\n\r\nSabin, F. F. (1987). Remote Sensing: Principles and Interpretation (Second). W.H. Freeman and Company. New York.\r\n\r\nShibayama, T. (1991). Coastal Processes: Concepts in Coastal Engineering and Their Applications to Coastal Processes. Asian Institute of Teknology, Bangkok, Thailand.\r\n\r\nSusanti, I., & Armijon, A. (2013). Pengaruh Perkembangan Infrastruktur Jalan Terhadap Pertumbuhan Pemanfaatan Lahan Kota. Jurnal Rekayasa Universitas Lampung, 17(1), 49–57.\r\n\r\nSutopo, O. :, & Nugroho, P. (2000). Minimalisasi Lahan Kritis Melalui Pengelolaan Sumber daya Lahan Dan Konservasi Tanah Dan Air Secara Terpadu. In Jurnal Teknologi Lingkungan (Vol. 1, Issue 1). https:\/\/doi.org\/10.29122\/JTL.V1I1.165\r\n\r\nTridawati, A., Darmawan, S., & Armijon. (2018). Estimation the oil palm age based on optical remote sensing image in Landak Regency, West Kalimantan Indonesia. IOP Conference Series: Earth and Environmental Science, 169(1). https:\/\/doi.org\/10.1088\/1755-1315\/169\/1\/012063\r\n\r\nUndang Undang Republik Indonesia Nomor 05 Tahun 1990 Tentang Konservasi Sumber Daya Alam Hayati Dan Ekosistemnya, Pub. L. No. UU RI NO 05 TAHUN 1990 (1990). https:\/\/pih.kemlu.go.id\/files\/UU RI NO 05 TAHUN 1990.pdf\r\n\r\nUndang Undang Republik Indonesia Nomor 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil. https:\/\/doi.org\/10.1017\/CBO9781107415324.004\r\n\r\nUndang Undang Republik Indonesia Nomor 41 Tahun 2009 Tentang Lahan Pangan Pertanian Berkelanjutan, Pub. L. No. 41–2009.\r\n\r\nUndang Undang Republik Indonesia Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah. https:\/\/doi.org\/10.1016\/j.bbapap.2013.06.007",
+      "rev_number": 11,
+      "volume": 6,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "date": "2020-11-24",
+      "id_number": "https:\/\/doi.org\/10.23960\/jge.v6i3.100",
+      "lastmod": "2020-11-24 04:39:01",
+      "datestamp": "2020-11-24 04:39:01",
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "University of Lampung",
+      "eprintid": 26785,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "subjects": [
+        "GB",
+        "T1",
+        "TA"
+      ],
+      "abstract": "Based on a field survey at the beginning of 2019, it shows that the growth and development of land use in the South Lampung Regency area leads to uncontrolled conditions, causing disruption of land function both in the area itself and the area below. This condition can be overcome by making efforts to determine land conservation areas. One of the study documents to determine conservation areas in an area is the distribution of degraded land, so a study of degraded land is absolutely necessary. GIS technology can be used to answer the challenge of determining critical land through the superimpose method using several map layers with weighting techniques. The superimpose study requires data on thematic maps and the distribution of existing land cover. Remote sensing technology is utilized to produce existing land cover maps through classification and image interpretation techniques. Thematic map data supporting other analyzes utilize spatial data from the RTRW of the research area. The largest distribution of degraded land is in Merbau Mataram and Katibung districts which require immediate action to be implemented by the Conservation program. Conservation areas that have been defined in RTRW must be maintained, it is necessary to establish additional protected areas on the Sutet border area. As a disaster mitigation effort, all disaster areas need to be designated as conservation areas.",
+      "official_url": "https:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/issue\/view\/9"
+    },
+    {
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "eprintid": 27040,
+            "security": "validuser",
+            "placement": 1,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "content": "draft",
+            "docid": 41057,
+            "main": "Laporan DIPA FT -TSUNAMI WAY MULI 23-09-20_rev_opt.pdf",
+            "files": [
+                {
+                  "objectid": 41057,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/242449",
+                  "fileid": 242449,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-12-04 09:35:03",
+                  "hash_type": "MD5",
+                  "hash": "763ce37192c744be2e5dcbb81fc7021a",
+                  "filename": "Laporan DIPA FT -TSUNAMI WAY MULI 23-09-20_rev_opt.pdf",
+                  "datasetid": "document",
+                  "filesize": 6738244
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Kajian Kerentanan Terhadap Risiko Tsunami Pesisir Way Muli Pasca Bencana Gunung Anak Krakatau 2018",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41057"
+          }
+      ],
+      "publisher": "LPPM Unila",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27040",
+      "full_text_status": "restricted",
+      "userid": 102,
+      "lastmod": "2020-12-07 06:26:00",
+      "datestamp": "2020-12-07 06:26:00",
+      "creators": [
+        {
+          "name": {
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Armijon"
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Adha",
+            "honourific": null,
+            "lineage": null,
+            "given": "Idharmahadi"
+          },
+          "id": "idharmahadi.adha@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Ghazali",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mochamad Firman"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Susanti S",
+            "given": "Ida"
+          },
+          "id": "idasusantis@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/02\/70\/40",
+      "date": "2020-09-17",
+      "contact_email": "armijon@eng.unila.ac.id",
+      "type": "other",
+      "funders": [
+        "Hibah Penelitian DIPA FT UNILA Tahun 2020"
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "keywords": "Way Muli, Way Muli Timur, Kunjir, Tsunami Selat Sunda, Kerentanan dan Resiko",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/",
+      "note": "Kegiatan ini melanjutkan penelitian di tahun 2019 dengan judul \"Kajian Pembaharuan Model Rendaman Tsunami Pesisir Teluk Lampung Akibat Pengaruh Perubahan Morfologi Gunung Anak Krakatau\" yang di diayai oleh DIPA BLU UNILA. Pada penelitian ini (di biayai oleh DIPA FT Unila) dilakukan kajian rendaman tsunami disekitar Way Muli akibat Erupsi GAK Desember 2018 yang mengakibatkan gelombang tsunami dimana daerah terparah yang terdampak di Provinsi lampung adalah Way Muli dan sekitarnya.",
+      "title": "Kajian Kerentanan Terhadap Risiko Tsunami Pesisir Way Muli Pasca Bencana Gunung Anak Krakatau 2018",
+      "referencetext": "Abidin, H.Z. 2007. Penentuan Posisi dengan GPS & Aplikasinya. Pradnya Paramita, Jakarta. Edisi III. 398 h.\r\n\r\nAhmad Zakaria dan Kartini Susilowati, “Simulasi Waktu Perambatan Dan Tinggi Gelombang Tsunami Akibat Meletusnya Gunung Anak Krakatau” Journal, Laboratorium Hidrolika dan Mekanika Fluida, Jurusan Teknik Sipil, Fakultas Teknik, Universitas Lampung,\r\n\r\nAmin,T. C., Sidarto, S., Santosa, Gunawan, W. 1994. Geologi Lembar Krakatau dan Bandar Lampung, Sumatera. Pusat penelitian dan pengembangan geologi, Bandung.\r\n\r\nArmijon, dan Tim, 2015,”Implementasi Pemetaan Risiko Tsunami Kota Bandar Lampung” Workshop and Mainstreaming Tsunami Risk Assesment to Policy, ITB Bandung\r\n\r\nArmijon, 2018, Pemetaan Digital Praktis, AURA Publish\r\n\r\nArmijon, 2019, Pemodelan Analisis Spasial Aliran Lahar Dingin Untuk Mitigasi Bencana Gunung Merapi, SIMTEK 2019 Fakultas Teknik Unila.\r\n\r\nArmijon, F Murdapa, E Rahmadi, 2019, Kajian Pembaharuan Model Rendaman Tsunami Pesisir Teluk Lampung Akibat Pengaruh Perubahan Morfologi Gunung Anak Krakatau, Prosiding FIT ISI 2019\r\n\r\nBadan Pusat Statistik (BPS), 2017, Lampung Selatan Dalam Angka Tahun 2018\r\n\r\nBustamam,2014,”Kembangan Model Kota Siaga Bencana Tsunami”. Disaster Risk Reduction and Tsunami Information Unit UNESCO Office, Jakarta. \r\n\r\nDewi C, Armijon, Fadly R, 2015, Analisis Pembuatan Peta Zona Rawan Bencana Tsunami Pada Daerah Pesisir (Studi Kasus: Pesisir Kota BDL), Jurnal Proseding SemNas dan Bisnis ISSN 2407- 6171 Hal. 740 – 753\r\n\r\nFajrianto dan Armijon, E Rahmadi, 2012, Potensi Bahaya Gempa dan Analisis Regangan di Selat Sunda Berbasis GPS ( Global Positioning System), Jurnal Rekayasa T.Sipil Unila. Vol.16, Des 2012 ISSN 0852-7733, Hal 141-150.\r\n\r\nHamilton, W. 1989.Convergent-plate Tectonics Viewed from the Indonesian Region. Journal of the Indonesian Association of Geologists, Vol.12, No.1.\r\n\r\nHertanto, H. B. 2012. “Lempeng Tektonik di Indonesia”. http:\/\/geoenviron.blogspot.co.id\/2012\/09\/lempeng-tektonikindonesia.html. Diakses pada tanggal 11 Januri 2019.\r\n\r\nLatief, Hamzah. 2013. Pedoman Teknik Pembuatan Peta Bahaya Rendaman Tsunami. Bandung: Pusat Penelitian Mitigasi Bencana Institut Teknologi Bandung.\r\n\r\nLatief, Hamzah. 2015, “Evaluasi Hasil Monitoring dan Advokasi Team ITB dan UNESCO untuk 5 kota” Workshop and Mainstreaming Tsunami Risk Assesment to Policy, ITB Bandung\r\n\r\nLatief, Hamzah. dan Oki Ismoyo, Dominic., 2014 “Kajian Bahaya Dan Peta Tsunami”, Pelatihan Pembuatan Peta Risiko Tsunami sebagai Upaya Peningkatan Kapasitas Daera. Tsunami Research Group Pusat Pengembangan Kawasan Pesisir dan Laut ITB\r\n\r\nLatief, Hamzah. dan Oki Ismoyo, Dominic., 2014, “Pengetahuan Dasar Tsunami Dan Pembuatan Peta Bahaya Rendaman Tsunami”, Pelatihan Pembuatan Peta Risiko Tsunami sebagai Upaya Peningkatan Kapasitas Daerah Bandung, Pusat Penelitian Mitigasi Bencana, ITB\r\n\r\nLatief, Hamzah., P Rahayu, Harkunti., Oki Ismoyo, Dominic., Muhammad Fadli, 2014, “Potensi Tsunamidi Sekitar Selat Sunda (Bandar Lampung)”, Tsunami Research Groupbandung Institute Of Technology, Bandung.\r\n\r\nMassonnet, D., Briole, P., Arnaud, A. 1995.Deflation of Mount Etna monitored by spaceborne radar interferometry. Nature, 375, 567–570.\r\n\r\nP Rahayu, Harkunti., 2014, “Membangun Model Desa Siaga Bencana Tsunami”, Memperkuat Mata Rantai Peringatan Dini Tsunami dan Kesiapsiagaan Tsunami. Pelatihan Analisa Risiko Tsunami, ITB, Bandung \r\n\r\nP Rahayu ,Harkunti., 2015, “Upaya Mitigasi bencana Tsunami”, Workshop Pendampingan Teknis Pembuatan Peta risiko bencana tsunami Kota Bandar Lampung” ITB Bandung\r\n\r\nP Rahayu, Harkunti., Bisri, Mizan., Rizka, Soraya., 2014, “Risiko Tsunami Dan Perencanaan Evakuasi Tsunami Risk And Evacuation Planning” Pusat Penelitian Mitigasi Bencana ITB \r\n\r\nP Rahayu, Harkunti, Bisri, Mizan., 2014, “Kajian Kerentanan Terhadap Risiko Tsunami Vulnerability Assessment To Tsunami Risk” Pusat Penelitian Mitigasi Bencana ITB\r\n\r\nPeraturan Daerah No 1 Tahun 2010 Tentang Rencana Tata Ruang Wilayah Provinsi Lampung 2009-2029;\r\n\r\nPeraturan Menteri Lingkungan Hidup Nomer No 17\/2009 tentang Pedoman Penentuan Daya Dukung Lingkungan Hidup Dalam Penataan Ruang Wilayah\r\n\r\nPeraturan Menteri Lingkungan Hidup dan Kehutanan Nomor P.50\/Menlhk\/Setjen\/Kum.1\/6\/2016 Tentang Pedoman Pinjam Pakai Kawasan Hutan;\r\n\r\nPeraturan Pemerintah Nomor 8 Tahun 2013 tentang Ketelitian Peta untuk Rencana Tata Ruang;\r\n\r\nPrahasta, E. 2001. Sistem Informasi Geografis :Tutorial Arc View. Bandung : CV. Informatika;\r\n\r\nPurba, H.H. (2008, September 25). Diagram fishbone dari Ishikawa. Retrieved from http:\/\/hardipurba.com\/2008\/09\/25\/diagram-fishbone-dari-ishikawa.html\r\n\r\nRiyadi, Moch., 2015, “Perkenalan InaSAFE”, Pusat Penelitian Mitigasi Bencana (PPMB) Institut Teknologi Bandung (ITB), Australia-Indonesia Facility For Disaster Reduction.\r\n\r\nRiyadi, Moch., 2015,“Sistem Peringatan Dini Tsunami di Indonesia”Workshop and Mainstreaming Tsunami Risk Assesment to Policy” Pusat Penelitian Mitigasi Bencana ITB\r\n\r\nRTRW Kabupaten Lampung Selatan Tahun 2011-2031.\r\n\r\nUndang-Undang No. 26\/2007 tentang Penataan Ruang.\r\n\r\nUndang-Undang No. 27\/2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-pulau Kecil \r\n\r\nUndang-Undang No. 32\/2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup;\r\n\r\nUndang-Undang No. 24\/2007 tentang Penanggulangan Bencana\r\n\r\nWohletz, K., dan Heiken, G. 1992. Volcanology & Geothermal Energy, University of California Press, California.\r\n\r\nZaenudin, A., Darmawan, I.G.B., Armijon, Minardi, S., 2017. Land Subsidence Analysis in Bandar Lampung City based on InSAR, Proceeding The 3rd Padjadjaran International Physics Symposium (PIPS 2017), Bandung, 14-15 November 2017",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "status_changed": "2020-12-07 06:26:00",
+      "eprint_status": "archive",
+      "succeeds": 26844,
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/armijon.com\/"
+        },
+        {
+          "type": "pub",
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        },
+        {
+          "type": "org",
+          "url": "http:\/\/eng.unila.ac.id\/"
+        }
+      ],
+      "subjects": [
+        "GB",
+        "T1",
+        "TC"
+      ],
+      "abstract": "Tsunami Selat Sunda akibat longsoran Gunung Anak Krakatau 22 Desember 2018 menyisakan luka mendalam bagi seluruh rakyat indonesia. Pada Pesisir Way Muli di kabupaten Lampung Selatan yang terdapat desa Way Muli, desa Way Muli Timur dan desa Kunjir, tercatat menjadi korban dengan 118 meninggal dunia, 8 orang hilang, 389 luka berat, dan 3.621 luka ringan. Secara nasional usaha mitigasi bencana telah dilakukan sejak bencana tsunami aceh, beberapa dokumen mitigasi telah tersususun dengan baik namun tidak demikian dengan wilayah pesisir Way Muli belum dilakukannya kajian mitigasi bencana dengan baik ini terbukti dengan banyaknya korban yang jatuh. Untuk itu perlu dilakukan kajian kerentanan terhadap risiko tsunami di Pesisir Way Muli Sebagai Upaya mitigasi bencana dalam menekan korban jiwa jika terjadi perulangan bencana tsunami di Selat Sunda.\r\nPenelitian diawali dengan melakukan kajian sumber tsunami, tinggi gelombang, dan waktu datang berdasarkan histori dan paleo tsunami kemudian dilanjutkan dengan pembuatan peta tutupan lahan, kekasaran permukaan, kemiringan lereng untuk menghasilkan peta rendman tsunami. Wilayah rendaman ini akan dianalisis dengan bentuan teknologi GIS dengan memanfaatkan data UAV, RBI 2017, Demnas, Batnas, serta Peta-peta tematik yang bersumber dari RTRW Lampung Selatan. Dalam menentukan Risk (Risiko) Bencana Tsunami di kaji berdasarkan Hazard (bahaya) yang berbanding lurus dengan Vulenerability (Kerentanan) tetapi berbanding terbalik dengan Capacity (Kapasitas). Data bahaya, kerentanan dan kapasitas dikaji dengan melakukan survey langsung kelapangan dan dilengkapi dengan analisis photogrametry dan GIS.\r\nRisiko Pesisir Way Muli masuk dalam klasifikasi tingkat risiko tinggi yang disajikan dalam Peta Resiko Bencana Tsunami. Melalui simulasi tinggi gelombang 2 meter menghasilkan tingkat kerentanan terhadap Risiko Bencana Tsunami sebesar 44,4% tingkat ancaman dengan kerentanan fisik 29,3%. Sebaran tingkat kerentanan 19% tinggi, 65% sedang dan 16% rendah. Struktur bangunan terlihat dominan permanen walaupun ada 37% semi permanen dan non permanen namun sebagian besar masih berada pada zona aman dari jangkauan rendaman. Belum ada bangunan yang layak\/aman dapat direkomendasikan menjadi TES. Titik evakuasi cukup banyak tersedia di dataran tinggi dengan akses (jalur evakuasi) sangat memadai. Semoga hasil penelitian ini dapat berkontribusi membantu masyarakat dan pemerintah dalam memperbaharui data pendukung mitigasi bencana tsunami khususnya di Pesisir Way Muli.",
+      "eprintid": 27040
+    },
+    {
+      "eprintid": 26843,
+      "title": "Bantuan Teknis Pemetaan Skala Besar Dusun Lima, \r\nDesa Purwotani, Kec. Jati Agung, Kab. Lampung Selatan",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/",
+      "note": "Kegiatan ini dilakukan sekaligus melakukan pemetaan Lahan Unila hibah Pemerintah Provinsi Lampung di Kota Baru Lampung selatan. Pemasangan dua buah BM dan dan dua buah CP di letakkan di tengah-tengah lahan Unila. Diharapkan nantinya dapat dijadikan sebagai titik Ikat untuk pemetaan detail lainnya. BM dan CP di ukur dengan GNSS Type Geodetik selama 6 jam untuk masing-masing titik. untuk keperluan Peta lahan unila serta koordinat BM dan CP dapat menghubungi Jurusan Teknik Geodesi Unila.",
+      "referencetext": "Abidin, H.Z. 2007. Penentuan Posisi dengan GPS & Aplikasinya. Pradnya Paramita, Jakarta.Edisi III.398h.\r\n\r\nArmijon, 2018, Pemetaan Digital Praktis, AURA Publish\r\n\r\nArmijon, A. (2020). Identification of Degraded Land for Determination of Conservation Areas Based on GIS in Region-1 Lampung Selatan District. Jurnal Geofisika Eksplorasi, 6(3), 228-242.\r\n\r\nArmijon, A. (2016). Analisis dan Identifikasi Ketersediaan Ruang Terbuka Hijau (RTH) Non Alami di Perkotaan Kabupaten\/Kota Provinsi Lampung. Jurnal Rekayasa Teknik Sipil Dan Perencanaan, 23(1), 17–33. http:\/\/repository.lppm.unila.ac.id\/14525\/\r\n\r\nArmijon, A and Dewi, Citra and Fadly, Romi (2017) Bantuan Teknis Pemetaan Situasi Areal Perumahan Griya Tanpan Sejahtera (GTS) Kel. Hajimena Kec. Natar Kab. Lampung Selatan. Seminar Nasional Pengabdian Kepada Masyarakat \"Berkarya dan Berinovasi Untuk Bangsa\" Hotel Emersia 4 November 2017 Bandar Lampung. http:\/\/repository.lppm.unila.ac.id\/14031\/\r\n\r\nArmijon, dkk. (2017) Pemetaan Situasi Skala Besar Dusun Sindangsari Desa Natar Kec. Natar Kab. Lampung Selatan. Laporan Pengabdian. LPPM - Universitas Lampung. http:\/\/repository.lppm.unila.ac.id\/\r\n\r\nBadan Pusat Statistik (BPS), 2019, Kecamatan Jati Agung Dalam Angka 2019\r\n\r\nBadan Pusat Statistik (BPS), 2020, Lampung Selatan Dalam Angka Tahun 2020\r\n\r\nDewi, C., et all. (2013). Analysis of Green Open Space in the City of Bandar Lampung. Seminar Nasional Sains & Teknologi V Satek & Indonesia Hijau Lembaga Penelitian Universitas Lampung, 709–717. https:\/\/doi.org\/ISBN : 9789798510717\r\n\r\nFajrianto, dkk. 2012. Potensi Bahaya Gempa Dan Analisis Regangan Di Selat Sunda Berbasis GPS (Global Positioning System). Rekayasa, Jurnal Teknik Sipil dan Perencanaan, 16 (3). pp. 141-150. ISSN 0852-7733 \r\n\r\nMassonnet, D., Briole, P., Arnaud, A. 1995.Deflation of Mount Etna monitored by spaceborne radar interferometry. Nature, 375, 567–570.\r\nMurdapa, dkk. (2018). Pendampingan Pembuatan Peta Dusun Sukamaju Desa Natar Kecamatan Natar Kabupaten Lampung Selatan. Laporan Pengabdian. LPPM - Universitas Lampung . http:\/\/repository.lppm.unila.ac.id\/13805\/\r\n\r\nPeraturan Badan Informasi Geospasial Republik Indonesia Nomor 1 Tahun 2020 Tentang Standar Pengumpulan Data Geospasial Dasar Untuk Pembuatan Peta Dasar Skala Besar. https:\/\/jdih.big.go.id\/hukumjdih\/38183768\r\n\r\nPeraturan Daerah No 1 Tahun 2010 Tentang Rencana Tata Ruang Wilayah Provinsi Lampung 2009-2029;\r\n\r\nPeraturan Ketua BIG No.15 Tahun 2014 Tentang Pedoman Teknis Ketelitian Peta Dasar\r\n\r\nPeraturan Ketua BIG No.6 Tahun 2018 Tentang Perubahan Atas Peraturan Kepala BIG Nomor 15 Tahun 2014 Tentang Pedoman Teknis Ketelitian Peta Dasar\r\n\r\nPeraturan Menteri Lingkungan Hidup Nomer No 17\/2009 tentang Pedoman Penentuan Daya Dukung Lingkungan Hidup Dalam Penataan Ruang Wilayah\r\n\r\nPeraturan Pemerintah Nomor 8 Tahun 2013 tentang Ketelitian Peta untuk Rencana Tata Ruang;\r\n\r\nPeraturan Pemerintah Republik Indonesia Nomor 26 Tahun 2007 Tentang Rencana Tata Ruang Wilayah Nasional, Pub. L. No. 26–2008, BPN. \r\nhttp:\/\/www.perumnas.co.id\/download\/prodhukum\/pp\/PP-26-2008 Rencana Tata Ruang Wilayah Nasional.pdf\r\n\r\nPrahasta, E. 2001. Sistem Informasi Geografis :Tutorial Arc View. Bandung : CV. Informatika; Peraturan Daerah Kabupaten Lampung Selatan Nomor 15 Tahun 2012 Tentang Rencana Tata Ruang Wilayah Kabupaten Lampung Selatan Tahun 2011 - 2031.\r\n\r\nSusanti, I., & Armijon, A. (2013). Pengaruh Perkembangan Infrastruktur Jalan Terhadap Pertumbuhan Pemanfaatan Lahan Kota. Jurnal Rekayasa Universitas Lampung, 17(1), 49–57.\r\n\r\nTridawati, A., Darmawan, S., & Armijon. (2018). Estimation the oil palm age based on optical remote sensing image in Landak Regency, West Kalimantan Indonesia. IOP Conference Series: Earth and Environmental Science, 169(1). https:\/\/doi.org\/10.1088\/1755-1315\/169\/1\/012063",
+      "rev_number": 33,
+      "place_of_pub": "http:\/\/lppm.unila.ac.id\/",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-12-07 01:24:55",
+      "related_url": [
+        {
+          "url": "https:\/\/armijon.com\/",
+          "type": "author"
+        },
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/",
+          "type": "pub"
+        },
+        {
+          "type": null,
+          "url": "https:\/\/www.unila.ac.id\/"
+        }
+      ],
+      "subjects": [
+        "GB",
+        "T1"
+      ],
+      "abstract": "Kegiatan pengabdian ini terinspirasi dari warga desa Purwotani yang mengajukan usulan ke jurusan Teknik Geodesi dan Geomatika agar desa Purwotani dapat dipetakan dengan peta skala besar. Usulan tersebut terkait dengan rencana desa Purwotani yang akan merancang Produk Unggulan Kawasan Perdesaan serta Rancangan usulan perbaikan jalan desa melalui usulan Bantuan Dana Desa, sehingga keperluan akan data peta teknis dirasakan sangat mendesak sehingga usulan tersebut melahirkan kegiatan ini. Luas desa Purwotani yang cukup besar menjadi kendala kegiatan dalam hal efisiensi anggaran kegitan pemetaan sehingga disusun rencana pembagian blok pemetaan dimana prioritas pertama pada dusun Lima yang berbatasan langsung dengan lahan Universitas Lampung dilokasi rencana Pusat Pemerintahan Provinsi lampung di Kota Baru.\r\nDalam kegiatan pengabdian kepada masyarakat ini dilakukan proses pengukuran dan akuisis data foto udara, pengolahan data dari hasil pengukuran dilapangan, sampai dihasilkannya Peta Foto maupun Peta Garis dalam bentuk digital melalui tahap pekerjaan; pengambilan data, pengolahan data, dan penyajian data dalam bentuk peta. Data Peta diperoleh dari data ukur dilapangan yang meliputi pengukuran Ground Control Point (GCP), Independent Control Point (ICP) menggunakan GNSS Geodetik, Akuisis Data Foto Udara Tanpa Awak menggunakan Drone Quadcopter, Pengolahan Data Foto Udara, Pendigitasian data Situasi (detail), Survey Data Atribut, serta Kartografi dan Penyajian Hasil. Hasil akhir peta diuji ketelitian skalanya berdasarkan ketelitian Horizontal dan vertikal, selain itu dilakukan juga uji ketelitian atribur menggunakan matrik confusi.\r\nKegiatan ini menghasilkan dua Bench Mark (BM) dengan ketelitian yang cukup tinggi yang diletakkan diatas lahan milik Unila yang berbatasan dengan Dusun Lima sehingga dapat dipergunakan untuk melakukan kegiatan lain yang memerlukan koordinat sebagai titik ikat. Selain itu dihasilkan juga: DSM, DEM, Peta Foto, Peta Garis dusun Lima dengan skala 1:2000. Hasil evaluasi ketelian skala peta memperlihatkan bahwa untuk peta Peta yang dihasilkan telah memenuhi syarat ketelitian jika digunakan sebagai peta dasar skala 1:2000 dengan indikasi CE90 = 0,3289 dan LE90 = 0,5986. Ketelitian atribut menghasilkan nilai Overall Accuracy sebesar 88% mengindikasikan bahwa ketelitian atribut untuk peta telah memenuhi syarat ketelitain. Hasil evaluasi menyeluruh egiatan ini telah menghasilkan nilai proyek sebesar Rp Rp.40.000.000,00 atas kerjasama tim pengabdian yang didukung dana DIPA FT unila 2020 serta Masyarakat Dusun Lima.",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Armijon",
+            "lineage": null,
+            "given": "Armijon"
+          }
+        },
+        {
+          "name": {
+            "family": "Murdapa",
+            "honourific": null,
+            "lineage": null,
+            "given": "Fauzan"
+          },
+          "id": "fauzan.murdapa@eng.unila.ac.id"
+        },
+        {
+          "id": "idharmahadi.adha@eng.unila.ac.id",
+          "name": {
+            "given": "Idharmahadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Adha"
+          }
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "family": "Rahmadi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        },
+        {
+          "id": "idasusantis@gmail.com",
+          "name": {
+            "given": "Ida",
+            "lineage": null,
+            "honourific": null,
+            "family": "Susanti S"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/68\/43",
+      "date": "2020-11-27",
+      "contact_email": "armijon@eng.unila.ac.id",
+      "type": "other",
+      "funders": [
+        "Program Hibah PkM DIPA FT UNILA Tahun 2020"
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "keywords": "Peta Desa Skala Besar, Purwotani, Dusun Lima, Peta Foto, Peta Garis",
+      "ispublished": "pub",
+      "publisher": "http:\/\/repository.lppm.unila.ac.id\/",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 26843,
+            "content": "draft",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "files": [
+                {
+                  "objectid": 41013,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/242137",
+                  "fileid": 242137,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-12-04 09:33:12",
+                  "hash": "4918a51e5b54c57e9265cea1f5b0a4fc",
+                  "filename": "Laporan Akhir Pengabdian Dusun LIma - DIPA FT 2020_for_REPO.pdf",
+                  "datasetid": "document",
+                  "filesize": 7583106
+                }
+            ],
+            "main": "Laporan Akhir Pengabdian Dusun LIma - DIPA FT 2020_for_REPO.pdf",
+            "docid": 41013,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41013",
+            "rev_number": 2,
+            "formatdesc": "Laporan PkM: Bantuan Teknis Pemetaan Skala Besar Dusun Lima,  Desa Purwotani, Kec. Jati Agung, Kab. Lampung Selatan",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26843",
+      "lastmod": "2020-12-07 01:24:55",
+      "userid": 102,
+      "datestamp": "2020-12-07 01:24:55"
+    },
+    {
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "dir": "disk0\/00\/03\/14\/99",
+      "date": "2020-06-20",
+      "issn": "2549-7529",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ditami",
+            "given": "Ane Arifa"
+          }
+        },
+        {
+          "id": "firman.ghazali@eng.unila.ac.id",
+          "name": {
+            "given": "Mochamad Firman",
+            "honourific": null,
+            "family": "Ghazali",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Geografi",
+      "datestamp": "2021-05-31 09:50:01",
+      "userid": 3260,
+      "lastmod": "2021-05-31 09:50:01",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31499",
+      "documents": [
+          {
+            "eprintid": 31499,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "25918-56118-1-SM.pdf",
+            "docid": 142418,
+            "files": [
+                {
+                  "objectid": 142418,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/373175",
+                  "mime_type": "application\/pdf",
+                  "fileid": 373175,
+                  "filename": "25918-56118-1-SM.pdf",
+                  "hash": "4c99686ecbfdf76c0626c26fc023b7a7",
+                  "mtime": "2021-05-31 08:05:08",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 687528
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/142418"
+          }
+      ],
+      "publisher": "Pendidikan Geografi UPI",
+      "ispublished": "submitted",
+      "date_type": "submitted",
+      "eprintid": 31499,
+      "abstract": "Vegetasi bisa tumbuh dan berkembang dipengaruhi oleh beberapa faktor yang mempengaruhi komposisi  dan  struktur vegetasi iklim, jenis tanah, kandungan air dan lain-lain. Maka, keterkaitan penggunaan lahan dan suhu permukaan diperlukan uji korelasi dengan analisis statistik bivariate dengan teknik pearson untuk mengetahui hubungan dari kedua variabel dan diperlukan uji prediksi dan uji akurasi. Peneliti memilih penggunaan lahan sawah berdasarkan usia tanam dari penanaman padi sampai panen dan suhu permukaan di Margodadi, Metro Selatan, Kota Metro dengan area sekitar berdiameter 10 km yang diambil dari google earth serta citra Landsat 8 dengan path\/row 123\/64, dengan waktu perekaman 12 September 2019(tanam), 21 November 2019(tumbuh dan berbunga) dan 23 November 2019 (panen). Dari hasil penelitian didapatkan hubungan korelasi per bulannya antara NDVI dan LST. Pada bulan September hubungan kedua variabel sedang, signifikan 90%, arah hubungan negatif, serta tingkat keakuratan pada uji akurasi kedua variabel 92%. Pada november hubungan variabel rendah, signifikan 70%, arah hubungan positif, dan pada uji akurasi tingkat keakuratan kedua variabel yaitu 98,51%. Pada bulan desember hubungan kedua variabel kuat, signifikasn 99%, arah hubungan negatif, dan presentasae keakuratan pada uji akurasi yaitu 98,98%. Sehingga, pada saat usia tanam sampai panen tingkat keakuratan semakin tinggi, dapat diartikan penggunaan lahan vegetasi dipengaruhi suhu permukaan dikarenakan pada masa tanam suhu permukaan berkisar 24 - 25ᵒC  namun tanaman padi belum terlalu tampak pada citra sehingga presentase keakuratan hanya 92%. Begitupun, pada bulan november dan desember tanaman padi nampak pada citra sehingga presentase keakuratan tinggi.",
+      "subjects": [
+        "G1",
+        "GE"
+      ],
+      "status_changed": "2021-05-31 09:50:01",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "referencetext": "Al Mukmin, S. A., Wijaya, A., & Sukmono, A. (2016). Analisis Pengaruh Perubahan Tutupan Lahan Terhadap Distribusi Suhu Permukaan Dan Keterkaitannya Dengan Fenomena Urban Heat Island. Jurnal Geodesi Undip, 5(1), 224–233.\r\nBadan Penelitian dan Pengembangan Pertanian. (2011). Pedoman Umum Adaptasi Perubahan Iklim Sektor Pertanian. In Badan Penelitian dan Pengembangan Pertanian, Kementerian Pertanian\r\nCahyaningtyas, A., Azizah, N., & Herlina, N. (2018). Evaluasi Dampak Perubahan Iklim Terhadap Produtivitas Padi ( Oryza sativa L .) Di Kabupaten Gresik. Jurnal Produksi Tanaman, 6(9), 2030–2037.\r\nHu, W., Zhou, W., & He, H. (2015). The effect of land-use intensity on surface temperature in the dongting lake area, China. Advances in Meteorology, 2015. https:\/\/doi.org\/10.1155\/2015\/632151\r\nHuda, N. D. (2018). Analisis Kerapatan Vegetasi Untuk Area Pemukiman Menggunakan Citra Satelit LANDSAT di Kota Tasikmalaya. February, 1–7.\r\nMoment, P., Analysis, C., Pearson, T., & Statistics, S. (2010). SPSS Tutorial (Vol. 00).\r\nSukristiyanti, S., & Marganingrum, D. (2008). Pendeteksian Kerapatan Vegetasi dan Suhu Permukaan Menggunakan Citra Landsat Studi Kasus : Jawa Barat Bagian Selatan dan Sekitarnya. Jurnal RISET Geologi Dan Pertambangan, 19(1), 15.\r\nSarinda, A., Sudarti, & Subiki. (2017). Analisis Perubahan Suhu Ruangan Terhadap Kenyamanan Termal di Gedung 3 Fkip Universitas Jember. Jurnal Pembelajaran Fisikia, 6(3), 305–311.\r\nSusanti, Indah dan Harjana, Teguh. 2006. Aspek Iklim dalam Perencanaan Tata Ruang. Edisi IPTEK Vol.8\/XVIII\/November 2006, ISSN : 0917-8376.\r\nRockinson-szapkiw, J. A. 2013. Tutorial SPSS: Bivariate Zero-order Corellation Anaysis.\r\nTursllowati, L. (2005). PULAU PANAS PERKOTAAN AKIBAT PERUBAHAN TATA GUNA DAN PENUTUP LAHAN Dl BANDUNG DAN BOGOR. Jurnal Sains Dirgantara.\r\nUSGS, 2013. Using the USG Landsat 8 Product.http:\/\/landsat.usgs.gov.",
+      "official_url": "https:\/\/ejournal.upi.edu\/index.php\/gea\/index",
+      "title": "ANALISIS STATISTIK BIVARIATE PENGGUNAAN LAHAN SAWAH DENGAN SUHU PERMUKAAN MENGGUNAKAN CITRA LANDSAT 8 (Studi Kasus : Margodadi, Metro Selatan, Kota Metro)"
+    },
+    {
+      "date": "2020-03-20",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "publisher": "University of Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "datestamp": "2020-05-12 02:42:51",
+      "lastmod": "2020-05-12 02:42:51",
+      "date_type": "published",
+      "eprintid": 19566,
+      "official_url": "http:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/",
+      "abstract": "Akibat erupsi Gunung Anak Krakatau (GAK) pada bulan Desember 2018 menyebabkan sebagian tubuh GAK longsor ke dalam laut dan mengakibatkan tsunami. Longsoran ini juga menyebabkan perubahan topografi  GAK.  Jika  terjadi  pengulangan  bencana  dengan  kondisi  topografi  GAK  saat  ini,  tentunya  akan menyebabkan  perubahan  tinggi  gelombang  tsunami  di  bibir  pantai  yang  akan  mempengaruhi  perubahan daerah  rendaman  tsunami.  Karena  letak  wilayah  pesisir  Teluk  Lampung  yang  cukup  dekat  dengan  GAK menyebabkan wilayah pesisir Teluk Lampung rentan terkena bencana tsunami. Sehingga perlu dikaji daerah rendaman tsunami akibat perubahan topografi GAK saat ini di wilayah pesisir Teluk Lampung. Kajian ini dilakukan dengan menggunakan metode non numerik untuk mendapatkan tinggi gelombang di bibir pantai dan  metode  Berryman  untuk  mendapatkan  daerah  rendaman  tsunami  di  wilayah  pesisir  Teluk  Lampung dengan membuat tiga skenario. Berdasarkan hasil kajian, diketahui tinggi gelombang tsunami, yaitu 13 meter, 26 meter, dan 39 meter dengan rata-rata waktu tiba gelombang tsunami di bibir pantai mencapai 57 menit. Di mana  terdapat  tujuh  kecamatan  yang  terendam  tsunami  dengan  jarak  rendaman  berkisar  160  meter-1,6 kilometer",
+      "subjects": [
+        "GC",
+        "GE",
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/95\/66",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Elida N S",
+            "lineage": null,
+            "given": "Resti"
+          },
+          "id": "restielidans@gmail.com"
+        },
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Zakaria"
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Armijon"
+          }
+        }
+      ],
+      "issn": "2685-6182",
+      "publication": "Jurnal Geofisika Eksplorasi",
+      "keywords": "Gunung Anak Krakatau, Ketinggian Gelombang Tsunami, Daerah Genangan Tsunami, Tsunami Teluk Lampung",
+      "contact_email": "restielidans@gmail.com",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19566",
+      "documents": [
+          {
+            "eprintid": 19566,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "main": "2020 Jurnal JGE Rendaman Tsunami Akibat Aktifitas GAK - Resti Elida.pdf",
+            "docid": 32805,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163448",
+                  "objectid": 32805,
+                  "filesize": 696208,
+                  "datasetid": "document",
+                  "hash": "d84f4d3056bcfe063a1e0268eb1c7c66",
+                  "filename": "2020 Jurnal JGE Rendaman Tsunami Akibat Aktifitas GAK - Resti Elida.pdf",
+                  "mtime": "2020-05-11 04:53:25",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 163448
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32805",
+            "formatdesc": "Kajian Daerah Rendaman Tsunami di Pesisir Teluk Lampung Akibat Perubahan Topografi Gunung Anak Krakatau di Tahun 2018"
+          }
+      ],
+      "pagerange": "31-41",
+      "userid": 102,
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "volume": 6,
+      "referencetext": "Ahmad,  Zaenudin,  dkk,  2018,  Land Subsidence  Analysis  in  Bandar Lampung City based on InSAR IOP, Journal  of  Physics:  Conf.  Series 1080  (2018)  012043  (1080).  pp  1-7. ISSN  doi:  10.1088\/1742- 6596\/1080\/1\/012043.\r\n\r\nArmijon,  2019,  Modeling  of  Cold  Lava Flow Spatial Analysis for Mitigation of  Volcano  Disaster  Merapi, Simposium  Nasional  Ilmu  Teknik 2019,  Bandar  Lampung,  12 November 2019.\r\n\r\nArmijon,  dkk,  2019, Kajian Pembaharuan  Model  Rendaman Tsunami  Pesisir  Teluk  Lampung Akibat  Pengaruh  Perubahan Morfologi  Gunung  Anak  Krakatau. Lampung : Universitas Lampung.\r\n\r\nDewi,  Citra,  dkk,  2014,  Analysis  of Making Tsunami  disaster Zone Map in  Coastal  Area  (Location  Study: Bandar  Lampung  City  Coastal). Proseding  Seminar  Bisnis  & Teknologi. ISSN 2407-6171.\r\n\r\nFajriyanto,  Ahmad,  dkk,  2012,  Potensi Bahaya  Gempa  dan  Analisis Regangan  di  Selat  Sunda  Berbasis GPS  (Global  Positioning  System). Rekayasa,  Jurnal  Teknik  Sipil  dan Perencanaan,  16  (3).  pp.  141-150. ISSN 0852-7733.\r\n\r\nIslam, Faiz, 2014, Penentuan Resiko dan Kerentanan  Tsunami  di  Kebumen Dengan  Citra  Alos, Jurnal  Geodesi Undip Januari 2014.\r\n\r\nLatief,  H,  2013, Pedoman  Teknik Pembuatan  Peta  Bahaya  Rendaman Tsunami.  Bandung:  Pusat  Penelitian Mitigasi  Bencana  Institut  Teknologi Bandung.\r\n\r\nPersada  Tarigan,  Togi,  2015,  Analisa Spasial  Kerawanan  Bencana Tsunami  di  Wilayah  Pesisir Kabupaten  Kulon  Progo  Daerah Istimewa  Yogyakarta, Jurnal Oseanografi  Undip,  Volume  4, Nomor 4, Tahun 2015.\r\n\r\nPrahasta,  E,  2001, Sistem  Informasi Geografis:  Tutorial  Arc  View. Bandung: CV. Informatika.\r\n\r\nSusanti  S,  Ida  dan  Armijon,  2013, Pengaruh  Perkembangan Infrastruktur  Jalan  Terhadap Pertumbuhan  Pemanfaatan  Lahan Kota. Jurnal  Rekayasa  Sipil  dan Desain (JRSDD), 17 (1). ISSN 2303- 0011.\r\n\r\nSutrisno. 2006. Penentuan Waktu Datang Gelombang  Tsunami  Di  beberapa Kota  Pantai  Selatan  Jawa  Barat Sebagai  Informasi  Penting  Dalam Usaha  Penyelamatan  Secara Preventif  Menghadapi  Bencana Tsunami. Jakarta : Universitas Islam Negeri Syarif Hidayatullah.\r\n\r\nWiryawan,  B.,  dkk.  2000. Atlas  Sumber Daya  Wilayah  Pesisir  Teluk Lampung.  Bandar  Lampung.  Pemda Tk 1 Lampung-CRMP Lampung.\r\n\r\nZakaria,  A.,  2003,  Numerical  modelling of  wave  propagation  using  higher order  finite  difference  formulas, Thesis  (Ph.D.),  Curtin  University  of Technology,  Perth,  Western Ausstralia",
+      "title": "Kajian Daerah Rendaman Tsunami di Pesisir Teluk Lampung Akibat Perubahan Topografi Gunung Anak Krakatau di Tahun 2018",
+      "status_changed": "2020-05-12 02:42:51"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49821",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Department of Civil Engineering  Engineering Faculty  University of Lampung",
+      "documents": [
+          {
+            "docid": 189460,
+            "main": "SEJAWAT SEBIDANG atau PEER REVIEW (2).pdf",
+            "files": [
+                {
+                  "filesize": 996473,
+                  "datasetid": "document",
+                  "hash": "e8724904c6b04f234a25e7308653f001",
+                  "filename": "SEJAWAT SEBIDANG atau PEER REVIEW (2).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-06 21:25:57",
+                  "mime_type": "application\/pdf",
+                  "fileid": 539581,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539581",
+                  "objectid": 189460
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189460",
+            "rev_number": 1,
+            "eprintid": 49821,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2023-04-08 13:24:28",
+      "lastmod": "2023-04-08 13:24:28",
+      "userid": 240,
+      "dir": "disk0_bak\/00\/04\/98\/21",
+      "date": "2020-03-01",
+      "creators": [
+        {
+          "name": {
+            "given": "Romi",
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "rev_number": 8,
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/article\/view\/1261",
+      "metadata_visibility": "show",
+      "title": "Review jurnal: Studi Akurasi Sensor Ultrasonik Tipe US-015 Untuk Pengukuran Pasang Surut Air Laut Daerah Bergelombang",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/article\/view\/1261",
+      "subjects": [
+        "Q1",
+        "TC"
+      ],
+      "abstract": "Teknologi dalam melakukan pengamatan pasang surut sudah berkembang, dengan ditemukan nya sensor yang dapat melakukan pengamatan pasut secara otomatis. Salah satu sensor yang dapat digunakan untuk kegiatan pengamatan pasut adalah sensor ultrasonik yang bekerja berdasarkan prinsip gelombang ultrasonik. Fenomena alam yang terjadi seperti gelombang permukaan air laut dapat mempengaruhi ketelitian data hasil bacaan pasut menggunakan sensor ultrasonik. Penelitian ini bertujuan merancang alat pasut berbasis sensor ultrasonik yang dapat mereduksi gangguan gelombang air laut dan menghitung ketelitian hasil bacaan alat tersebut. Pengambilan data diamati per 1 detik, lalu data dibagi dalam beberapa interval yaitu 1 detik, 5 menit, 15 menit dan 30 menit. Ketelitian alat dihitung berdasarkan data manual yang diamati per interval 30 menit, setelah itu data akan diuji korelasi dan signifikansi antara variabel alat otomatis tertutup, alat otomatis terbuka dan bacaan manual. Penelitian ini menghasilkan peralatan untuk pengukuran pasang surut air laut otomatis yang dapat mereduksi gelombang air laut berbasis sensor ultrasonik. Hasil pengujian data dari 3 kali pengamatan didapatkan alat pasut tertutup memiliki ketelitian yang lebih baik dengan akurasi 99.1981%, 99.3007%, 99.3156%. Kata kunci : Pasang surut, Sensor ultrasonik, Mikrokontroller, Arduino uno.",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-08 13:24:28",
+      "date_type": "published",
+      "eprintid": 49821
+    },
+    {
+      "keywords": "UAV, RGB, water content, land succession",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "dir": "disk0\/00\/01\/87\/99",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ghazali",
+            "given": "Mochamad Firman"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        }
+      ],
+      "pagerange": "410-421",
+      "userid": 3260,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18799",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18799,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31995",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 639961,
+                  "fileid": 157814,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-18 05:11:05",
+                  "hash": "9f393be2eef906cb1cc855530a78b64c",
+                  "filename": "revisi-prosiding-semnas-pbi-xxv-1_0.pdf",
+                  "objectid": 31995,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/157814"
+                }
+            ],
+            "main": "revisi-prosiding-semnas-pbi-xxv-1_0.pdf",
+            "docid": 31995
+          }
+      ],
+      "status_changed": "2020-03-19 00:58:27",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "referencetext": "[1]\tM.R. Blatt, F. Chaumont, G. Farquhar, Focus on water, Plant Physiol. 164 (2014) 1553–1555. doi:10.1104\/pp.114.900484.\r\n[2]\tN. Bouchard, K. Harmon, H. Markham, S. Vandefifer, E. Lab, S. Thomas, E. Morrison, Effect of Various Types of Water on The Growth of Radishes (Raphanus sativus), 2007.\r\n[3]\tR.H. Sofyan, E.D. Wahjunie, Y. Hidayat, Karakterisasi fisik dan kelembaban tanah pada berbagai umur reklamasi lahan bekas tambang, J Bul Tanah Dan Lahan. 1 (2017) 72–78.\r\n[4]\tH.L. Penman, Natural evaporation from open water, bare soil and grass, Proc R Soc a Math Phys Eng Sci. 193 (2004) 2–4. doi:https:\/\/doi.org\/10.1098\/rspa.1948.0037.\r\n[5]\tF. Muchsin, Estimasi kelembaban tanah skala regional (Studi kasus wilayah kabupaten Subang), Universitas Indonesia, 2010.\r\n[6]\tW. Luo, X. Xu, W. Liu, M. Liu, Z. Li, T. Peng, C. Xu, Y. Zhang, R. Zhang, UAV based soil moisture remote sensing in a karst mountainous catchment, Catena. 174 (2019) 478–489. doi:10.1016\/j.catena.2018.11.017.\r\n[7]\tM.B. Kirkham, Static Water in Soil, 1st ed., Elsevier, Kansas, 2005. doi:10.1016\/b978-012409751-3\/50006-2.\r\n[8]\tN.O. Gholami Bidkhani, M.R. Mobasheri, Influence of soil texture on the estimation of bare soil moisture content using MODIS images, Eur J Remote Sens. 51 (2018) 911–920. doi:10.1080\/22797254.2018.1514986.\r\n[9]\tB.C. Gao, NDWI-A Normalized Difference Water Index for Remote Sensing of Vegetation Liquid Water from Space., Remote Sens Environ. 58 (1996) 257–266.\r\n[10]\tS.K. McFeeters, The Use of The Normalized Difference Water Index (NDWI) in The Delineation of Water Feature., Int J Remote Sens. 17 (1996) 425–1432.\r\n[11]\tR. Engstrom, A. Hope, H. Kwon, D. Stow, The relationship between soil moisture and NDVI near barrow, Phys Geogr. 29 (2008) 38–58. doi:10.2747\/0272-3646.29.1.38.\r\n[12]\tL. Rossato, R.C. do. S. Alvalá, J.A. Marengo, M. Zeri, A.P.M. d. A. Cunha, L.B.M. Pires, H.A. Barbosa, Impact of soil moisture on crop yields over Brazilian semiarid, Front Environ Sci. 5 (2017) 16. doi:10.3389\/fenvs.2017.00073.\r\n[13]\tG.T. Kassie, A. Langyintuo, O. Erenstein, D. Maleni, S. Gwara, T. Abate, Drought risk and maize production in southern Africa, J Asian Sci Res. 3 (2013) 956–973. http:\/\/aessweb.com\/journal-detail.php?id=5003.\r\n[14]\tC. Uhl, K. Clark, H. Clark, P. Murphy, Early plant succession after cutting and burning in the upper Rio negro region of the Amazon basin, J Ecol. 69 (1981) 631. doi:10.2307\/2259689.\r\n[15]\tE. Martinez-Duro, P. Ferrandis, A. Escudero, A.L. Luzuriaga, J.M. Herranz, Secondary old-field succession in an ecosystem with restrictive soils: Does time from abandonment matter?, Appl Veg Sci. 13 (2010) 234–248. doi:10.1111\/j.1654-109X.2009.01064.x.\r\n[16]\tS.S. Markhamah, BMKG: Puncak Kemarau di Lampung Agustus Hingga September, (2019) 1. https:\/\/lampung.tribunnews.com\/2019\/08\/06\/bmkg-puncak-kemarau-di-lampung-berlangsung-sepanjang-agustus-hingga-september (accessed August 20, 2019).\r\n[17]\tA.R. Huete, Remote sensing for environmental monitoring, in: J.F. Artiola, I.L. Pepper, M.L. Brusseau (Eds.), Environ Monit Charact, 1st ed., Elsevier, Inc., San Diego, 2004: pp. 183–206. doi:10.1016\/B978-0-12-064477-3.50013-8.\r\n[18]\tC.J. Tucker, Red and photographic infrared linear combinations for monitoring vegetation, Remote Sens Environ. 8 (1979) 127–150. doi:10.1016\/0034-4257(79)90013-0.\r\n[19]\tH. Schmidt, A. Karnieli, Sensitivity of vegetation indices to substrate brightness in hyper-arid, Int J Remote Sens. 22 (2001) 3503–3520.\r\n[20]\tD. Kim, Y. Son, J. Park, T. Kim, J. Jeon, Evaluation of calibration method for field application of UAV-based soil water content prediction equation, Adv Civ Eng. 2019 (2019) 10. doi:https:\/\/doi.org\/10.1155\/2019\/2486216.\r\n[21]\tR. Escadafal, S. Bacha, Strategy for the dynamic study of desertification, in: Proc ISSS Int Symp Ouagadougou, Burkino Faso, 1995: pp. 19–34.\r\n[22]\tT. Motohka, K.N. Nasahara, H. Oguma, S. Tsuchida, Applicability of green-red vegetation index for remote sensing of vegetation phenology, Remote Sens. 2 (2010) 2369–2387. doi:10.3390\/rs2102369.",
+      "title": "Pengamatan singkat hilangnya kelembaban tanah menggunakan\r\nUAV pada proses suksesi lahan di tanah terbuka",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "conference_item",
+      "date": "2020-03-11",
+      "datestamp": "2020-03-19 00:58:27",
+      "lastmod": "2020-03-19 00:58:27",
+      "contributors": [
+        {
+          "name": {
+            "given": "Indra Saputra",
+            "lineage": null,
+            "honourific": null,
+            "family": "I Wayan"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ahmad",
+            "honourific": null,
+            "given": "Zainudin"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Wikantika",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ketut"
+          }
+        },
+        {
+          "name": {
+            "given": "Selvia Dewi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Evi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Romi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Fadli"
+          }
+        }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 18799,
+      "event_title": "Seminar Nasional Biologi XXV Perhimpunan Biologi Indonesia (SNB XXV PBI) Tahun 2019",
+      "event_location": "Bandar Lampung",
+      "abstract": "Studying the process of land succession that occurs in open land by observing water losses in the soil is\r\nvery important to know how long it takes for plants to grow naturally. Water content in the soil is\r\nunderstood as soil moisture. It was estimated using brightness index (BI) and a linear model of soil\r\nmoisture ( ) from RGB bands of aerial photo data taken in four different times during four days. This\r\nstudy aims to understand changes in vegetation cover and distribution on the surface of the earth\r\nthrough changes in water moisture that changes all the time. The BI and was applied to a small area\r\nof bare land area around the University of Lampung. Besides that, the quality of vegetation growth also\r\nevaluated using Green-Red Vegetation Index (GRVI). The results obtained indicate a moderate and\r\nweak correlation between the changes in soil moisture from both and BI and GRVI respectively.\r\nAlthough it failed to detect the vegetation cover change since during that times the change in soil\r\nmoisture did not follow by the succession process. Two vegetation named Imperata cylindrical and\r\nCyperatus rotundus become the most usable plant for detecting the drought's effect while another plant is\r\nstill in health condition.",
+      "subjects": [
+        "G1",
+        "GE"
+      ],
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "official_url": "http:\/\/www.biologi.or.id\/",
+      "event_dates": "25-27 Agustus 2019"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24362",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38090",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "772d25dcb052420a13307e1168bd5320",
+                  "filename": "Mochamad Firman Ghazali_April 2020_SEMNASKON.pdf",
+                  "mtime": "2020-10-23 12:37:36",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 221631,
+                  "filesize": 1528916,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221631",
+                  "objectid": 38090
+                }
+            ],
+            "main": "Mochamad Firman Ghazali_April 2020_SEMNASKON.pdf",
+            "docid": 38090,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24362
+          }
+      ],
+      "pres_type": "speech",
+      "ispublished": "pub",
+      "datestamp": "2020-10-25 06:31:52",
+      "pagerange": "500-510",
+      "lastmod": "2020-10-25 06:31:52",
+      "userid": 3260,
+      "date": "2020-10-23",
+      "dir": "disk0\/00\/02\/43\/62",
+      "creators": [
+        {
+          "id": "firman.ghazali@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Ghazali",
+            "honourific": null,
+            "given": "Mochamad Firman"
+          }
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "keywords": "Klasifikasi K-Means, Pohon keputusan, Aster, Sentinel 2, Biodiversitas Vegetasi Mangrove; Labuhan Maringgai; EVI; SAVI; NDVI",
+      "type": "conference_item",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "referencetext": "[1] C. Giri et al., “Status and distribution of mangrove forests of the world using earth,” Glob Ecol Biogeogr, vol. 20, pp.154–159, 2011. \r\n[2] A. Nontji, “Ekosistem Mangrove,” in Laut Nusantara, 5th ed., Jakarta:Djambatan, 2007, pp. 106–114. \r\n[3] Y. R. Noor, M. Khazali, and I. N. N. Suryadiputra, Panduan Pengenalan Mangrove di Indonesia, 2nd ed. Bogor: Wetlands International-Indonesia Programme, 2006.\r\n[4] D. W. K. Baderan, M. S. Hamidun, C. Lamangandjo, and Y. Retnowati, “Diversifikasi produk olahan buah mangrove sebagai sumber pangan alternatif masyarakat pesisir Toroseaje ,\r\nKabupaten Pohuwato , Provinsi Gorontalo,” Preseding Semin Nas Masyarakat Biodiversitas Indones, vol. 1, no. 2, pp. 347–351, 2015. \r\n[5] FAO, “Trophic relationships in mangrove ecosystems,” Mangrove management, 1994. [Online]. Available: http:\/\/www.fao.org\/forestry\/mangrove\/36 48\/en\/. [Accessed: 11-Apr-2020]. \r\n[6] N. Maryantika and C. Lin, “Exploring changes of land use and mangrove distribution in the economic area of Sidoarjo District , East Java using multitemporal Landsat images,” Inf Process Agric, vol. 4, no. 4, pp. 321–332, 2017.  \r\n[7] E. T. Choong, R. S. Wirakusumah, and S. S. Achmadi, “Mangrove forest resources in Indonesia,” For Ecol Manage, vol. 33\/34, pp. 45–57, 1990. \r\n[8] C. M. Kihia, “Impact of Human Physical Disturbance on Mangrove Forest Structure at the Gazi Bay , Kenya,” Egert J Sci Technol, vol. 14, pp. 31–47, 2014. \r\n[9] Sodikin, S. R. P. Sitorus, L. B. Prasetyo, and C. Kusmana, “Spatial analysis of mangrove deforestation and mangrove rehabilitation directive in Indramayu Regency , West Java , Indonesia,” Aquac Aquarium, Conserv Legis - Bioflux, vol. 10, no. 6, pp. 1654–1662, 2017. \r\n[10] Pemerintah Republik Indonesia, Undang-Undang Nomor 26 Tentang Penataan Ruang Tahun 2007. Jakarta: Sekretariat Negara, 2007. \r\n[11] Pemerintah Republik Indonesia, “Peraturan Menteri Kelautan dan Perikanan Nomor 26 Tahun 2013,” p. 11, 2013. \r\n[12] J. Gao, “A comparative studi on spatial and spektral resolutions of satellite data in mapping mangrove forests,” Int J Remote Sens ISSN, vol. 20, no. 14, pp. 2823–2833, 2010. \r\n[13] E. P. Green, C. D. Clark, P. J. Mumby, A. J. Edwards, and A. C. Ellis, “Remote  sensing techniques for mangrove mapping,” Int J Remote Sens, vol. 19, no. 5, pp. 935–956, 1998. \r\n[14] L. Wang, W. P. Sousa, and P. Gong, “Integration of object-based and pixel based classification for mapping mangroves with IKONOS imagery,” Int J Remote Sens, vol. 25, no. 24, pp. 5655–5668, 2004. \r\n[15] J. H. Everitt, C. Yang, S. Sriharan, and F. W. Judd, “Using High Resolution Satellite Imagery to Map Black Mangrove on the Texas Gulf Coast,” J Coast Res, vol. 24, no. 6, pp. 1582–1586, 2008. \r\n[16] C. Lin, C.-C. Wu, K. Tsogt, Y.-C. Ouyang, and C.-I. Chang, “Effects of atmospheric correction and pansharpening on LULC classification accuracy using WorldView-2 imagery,” Inf Process Agric, vol. 2, no. 1, pp. 25–36, 2015. \r\n[17] J. W. Rouse, R. H. Haas, J. A. Scheel, and D. W. Deering, “Monitoring vegetation systems in the great plains with ERTS,” in 3rd Earth Resource Technology Satellite Symposium, 1974, vol. 1, pp. 309–317. \r\n[18] R. Hernawati, A. B. Harto, and D. K. Sari, “Pemetaan Pola Tanam dan Kalender Tanam Padi Sawah menggunakan Teknik Penginderaan Jauh,” Reka Geomatika, vol. 2017, no. 2, 2018. \r\n[19] S. M. C. Nogueira, M. A. Moreira, and M. M. L. Volpato, “Relationship between coffee crop productivity and vegetation indexes derived from oli \/ landsat-8 sensor data with and without topographic correction,” Eng Agric, vol. 38, no. 3, pp. 387–394, 2018. \r\n[20] I. F. Ihsan and T. G. Pin, “The effect of abrasion on geomorphology changed and coast line conservation effort in Karawang Regency,” IOP Conf Ser Earth Environ Sci, vol. 311, no. 1, p. 8, 2019. \r\n[21] E. Northoff, “Loss of mangroves alarming,” FAO Newsroom, 2008. [Online]. Available: http:\/\/www.fao.org\/newsroom\/en\/news\/2008\/1000776\/index.html. [Accessed:20-Apr-2020].\r\n[22] E. C. Ashton, “The impact of shrimp farming on mangrove ecosystems,” Perspect Agric Vet Sci Nutr Nat Resour, vol. 3, no. January 2010, p. 13, 2008. \r\n[23] A. B. Sofawi, M. N. Nazri, and M. Z. Rozainah, “Nutrient variability in mangrove soil: Anthropogenic, seasonal and depth variation factors,” Appl Ecol Environ Res, vol. 15, no. 4, pp. 1983–1998, 2017. \r\n[24] A. L. Ramanathan, R. K. Ranjan, M. B. K. Prasad, R. Chauhan, and G. Singh, “Sediment-nutrient dynamics in selected Indian mangrove ecosystems - land use and climate change implications,” IAHS-AISH Publ,vol. 337, no. June, pp. 84–92, 2010. \r\n[25] M. M. Saberioon and A. Gholizadeh, “Novel Approach for Estimating Nitrogen Content in Paddy Fields Using Low Altitude Remote Sensing System,” ISPRS - Int Arch Photogramm Remote Sens Spat Inf Sci, vol. XLI-B1, no. July, pp. 1011–1015, 2016. \r\n[26] L. Liang et al., “Estimation of Leaf Nitrogen Content in Wheat Using New Hyperspektral Indices and a Random Forest Regression Algorithm,” Remote Sens, vol. 10, no. 1940, p. 16, 2018. \r\n[27] Supriyanto, Indriyanto, and A. Bintoro, “Inventarisasi Jenis Tumbuhan Obat di Hutan Mangrove Desa Margasari Kecamatan Labuhan Maringgai Lampung Timur,” J Sylva Lestari, vol. 2, no. 1, pp. 67–76, 2014. \r\n[28] Mukhlisi, I. B. Hendrarto, and H. Purnaweni, “Keanekaragaman Jenis dan Struktur Vegetasi Mangrove di Desa Sidodadi Kecamatan Padang Cermin Kabupaten Pesawaran, Provinsi Lampung,” in Prosiding Seminar Nasional Pengelolaan Sumberdaya Alam dan Lingkungan 2013, 2013, no. April, pp. 218–225.",
+      "title": "Spektral Analisis Untuk Pengamatan Keragaman Vegetasi Mangrove di Labuhan Maringgai, Lampung Timur. (Studi Pendahuluan)",
+      "event_dates": "21 April 2020",
+      "abstract": "Eksistensi hutan mangrove berperan penting didalam menjaga kelestarian ekosistem pesisir. Luas areal hutan mangrove di Labuhan Maringgai, Lampung timur pernah berkurang sangat luas. Kejadian  tersebut tidak hanya berdampak pada berubahnya garis pantai, juga berkontribusi pada hilangnya biodiversitas mangrove di area tersebut. Perubahan luas areal hutan mangrove diamati dengan menggunakan dua citra satelit, yaitu Aster dan Sentinel 2 yang diakuisisi pada 2012 dan 2019. Kedua data tersebut kemudian diolah untuk mendapatkan informasi normalized difference vegetation index (NDVI), enhanced vegetation index (EVI), dan soil adjusted vegetation index (SAVI). Integrasi ketiganya juga digunakan untuk estimasi keragaman vegetasi mangrove yang diolah menggunakan algoritma K-Means dan pohon keputusan (Decision Trees). Pendekatan ini diharapkan mampu memberikan informasi yang akurat perubahan luas area hutan dan keragaman vegetasi mangrove. Hasilnya diperoleh adanya perubahan areal hutan mangrove dari yang semula 240.30 Ha menjadi 553.074 Ha. Deteksi keragaman vegetasi mangrove berdasarkan integrasi NDVI, SAVI dan EVI diperoleh sembilan keragaman vegetasi mangrove, dengan Avicennia menjadi jenis terbanyak dan terluas penyebarannya.",
+      "subjects": [
+        "G1",
+        "GE",
+        "SD"
+      ],
+      "status_changed": "2020-10-25 06:31:52",
+      "eprint_status": "archive",
+      "event_location": "Universitas Lampung",
+      "date_type": "published",
+      "eprintid": 24362,
+      "event_title": "Prosiding Seminar Nasional Konservasi 2020 \"Konservasi Sumberdaya Alam Untuk Pembangunan Berkelanjutan\""
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18218",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "main": "MOCH. FIRMAN GHAZALI_PROSIDING FIT ISI 2019.pdf",
+            "docid": 31362,
+            "files": [
+                {
+                  "hash": "06206f21b03c4ad807797d59ad34592b",
+                  "filename": "MOCH. FIRMAN GHAZALI_PROSIDING FIT ISI 2019.pdf",
+                  "mtime": "2020-02-26 07:02:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 153402,
+                  "filesize": 801447,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153402",
+                  "objectid": 31362
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31362",
+            "eprintid": 18218,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "46-52",
+      "userid": 3260,
+      "dir": "disk0\/00\/01\/82\/18",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ghazali",
+            "given": "Mochamad Firman"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Arnesta",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aqilla Fitdhea"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mamad",
+            "lineage": null,
+            "family": "Sugandi",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Angga Febry",
+            "lineage": null,
+            "family": "Fatman",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Sihombing",
+            "lineage": null,
+            "given": "Defferson"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wikantika",
+            "given": "Ketut"
+          },
+          "id": null
+        }
+      ],
+      "keywords": "Paddy rice, NDVI, NDWI, LST, Regression",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "title": "Relasi Faktor Air, Tanah dan Udara Pada Satu Masa Tanam\r\nPadi di Desa Gadingrejo, Pringsewu-Lampung",
+      "referencetext": "BPS, & BPPT. (2018). Ringkasan Eksekutif: Luas\r\npanen dan produksi beras di Indonesia 2018.\r\nJakarta: Badan Pusat Statistik.\r\nDe Datta, S. K. (1981). Modern Rice Technology,\r\nConstraints, and World Food Supply. In\r\nPrinciples and practices of rice production (pp.\r\n546–589). Singapore: John Willey & Sons.\r\nGao, B. C. (1996). NDWI-A Normalized Difference\r\nWater Index for Remote Sensing of Vegetation\r\nLiquid Water from Space. Remote Sensing\r\nEnvironment, 58, 257–266.\r\nHargrove, T. R., & Cabanilla., V. L. (1979). The\r\nimpact of semidwarf varieties on Asian rice\r\nbreeding programs. BioScience, 29, 731–735.\r\nHuang, M., Shan, S., Cao, F., & Zou, Y. (2016). The\r\nsolar radiation-related determinants of rice\r\nyield variation across a wide range of regions.\r\nNJAS - Wageningen Journal of Life Sciences,\r\n78, 123–128.\r\nhttps:\/\/doi.org\/https:\/\/doi.org\/10.1016\/j.njas.201\r\n6.05.004\r\nFIT ISI 2019 dan ASEANFLAG 72nd COUNCIL MEETING\r\n52\r\nHuzulak, J., & Matejka, F. (1983). Relationship\r\nbetween soil moisture and leaf water potential\r\nof three forest tree species. Biologia Plantarum,\r\n25(6), 462–467.\r\nLy, P., Jensen, L. S., Bruun, T. B., & De Neergaard,\r\nA. (2016). Factors explaining variability in rice\r\nyields in a rain-fed lowland rice ecosystem in\r\nSouthern Cambodia. NJAS - Wageningen\r\nJournal of Life Sciences, 78, 129–137.\r\nhttps:\/\/doi.org\/https:\/\/doi.org\/10.1016\/j.njas.201\r\n6.05.003\r\nMcFeeters, S. K. (1996). The Use of The Normalized\r\nDifference Water Index (NDWI) in The\r\nDelineation of Water Feature. International\r\nJournal of Remote Sensing, 17(7), 425–1432.\r\nMcFeeters, S. K. (2013). Using the normalized\r\ndifference water index (ndwi) within a\r\ngeographic information system to detect\r\nswimming pools for mosquito abatement: A\r\npractical approach. Remote Sensing, 5(7),\r\n3544–3561. https:\/\/doi.org\/10.3390\/rs5073544\r\nMillari, A. A., Duysen, M. E., & Norum, E. B.\r\n(1970). Relationships between the leaf water\r\nstatus of barley and soil water. Canadian\r\nJournal of Plant Science, 50(4), 363–371.\r\nMutiibwa, D., Strachan, S., & Albright, T. (2015).\r\nLand Surface Temperature and Surface Air\r\nTemperature in Complex Terrain. Journal of\r\nSelected Topics in Applied Earth Observations\r\nand Remote Sensing, 8(August 2016), 4762–\r\n4774.\r\nhttps:\/\/doi.org\/10.1109\/JSTARS.2015.2468594\r\nNatali, S., Xiloyannis, C., & Pezarossa, B. (1985).\r\nRelationship between soil water content, leaf\r\nwater potential, and fruit growth during\r\ndifferent fruit growing phases of peach trees.\r\nActa Horticulture, 171, 167–180.\r\nPablos, M., Martínez-fernández, J., Piles, M., &\r\nSánchez, N. (2016). Multi-temporal evaluation\r\nof soil moisture and land surface temperature\r\ndynamics using in situ and satellite\r\nobservations. Remote Sensing, 587(8), 20.\r\nhttps:\/\/doi.org\/10.3390\/rs8070587\r\nRouse, J. W., Haas, R. H., Scheel, J. A., & Deering,\r\nD. W. (1974). Monitoring vegetation systems in\r\nthe great plains with ERTS. In 3rd Earth\r\nResource Technology Satellite Symposium (Vol.\r\n1, pp. 309–317). https:\/\/doi.org\/19740022614\r\nU. S. Geological Survey. (2016). Conversion of DNs\r\nto physical units. In K. Zanter (Ed.), Landsat 8\r\n(L8) data users handbook (2nd ed., pp. 60–61).\r\nSioux Falls, South Dakota: Department of the\r\nInterior U.S. Geological Survey.\r\nhttps:\/\/doi.org\/LSDS-1574\r\nYoshida, S. (1981). Mineral nutrition of rice. In\r\nFundamentals of rice crop science (pp. 135–\r\n146). Los Banos: The International Rice\r\nResearch Institute.\r\nYoshida, S., Forno, D. A., Cock, J. H., & Gomez, K.\r\nA. (1976). Laboratory Manual for\r\nPhysiological Studies of Rice (Third). Los\r\nBanos: The International Rice Research\r\nInstitute.\r\nZheng, H., Cheng, T., Yao, X., Deng, X., Tian, Y., &\r\nCao, W. (2016). Detection of rice phenology\r\nthrough time series analysis of ground-based\r\nspectral index data Field Crops Research\r\nDetection of rice phenology through time series\r\nanalysis of ground-based spectral index data.\r\nField Crops Research, 198(2018), 131–139.\r\nhttps:\/\/doi.org\/10.1016\/j.fcr.2016.08.02",
+      "status_changed": "2020-03-04 01:16:44",
+      "related_url": [
+        {
+          "url": "https:\/\/drive.google.com\/file\/d\/1ApkerSwFaeALmcY6QbRil2w38hGog7hV\/view"
+        }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2020-03-04 01:16:44",
+      "lastmod": "2020-03-04 01:16:44",
+      "date": "2020-02-27",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "conference_item",
+      "event_type": "conference",
+      "official_url": "http:\/\/www.isi.or.id\/papermakalah\/",
+      "event_dates": "28 November 2019",
+      "subjects": [
+        "G1",
+        "GE",
+        "S1"
+      ],
+      "abstract": "Gadingrejo in Pringsewu residence has a large paddy field. It was awarded as a self-supporting village in\r\npaddy rice production. It capabilities have to maintain for supporting food security initiative. A\r\nmonitoring using remote sensing requires a multi-temporal of satellite images from Landsat 8 for\r\nextracting the biophysical information related to paddy rice growth, includes water, air and soil factors in\r\na planting period. The multispectral (VisNIR) and thermal bands have processed to gain the values of\r\nNormalized Difference Vegetation Index (NDVI), Normalized Difference Water Index (NDWI), and Land\r\nSurface Temperature (LST) as the representation of paddy rice, water content both in soil and paddy leaves\r\nand air temperature respectively. The relationships are drawn using a multi-temporal chart and simple\r\nregression models. This study result in a phonological pattern of paddy rice that required 150 days to\r\ngrowth based on the change of NDVI values that started from 0.1 to 0.9 before it slowly decreased to 0.7\r\nand 0.1 at the end of the harvest period. It follows by a similar shape of LST and an irregular shape of NDWI\r\nwith the values ranges from 1 to 1.5 oC and from 0.8 to 0.5 respectively. While all the biophysical factors\r\nhave positive correlation from moderate to strong relationship with R2 0.7, 0.79 and 0.8 for NDVI and\r\nleaf NDWI, NDVI and soil NDWI, and NDVI and LST respectively, the water content both in leaf and\r\nsoil is more influenced by LST according to the value of R2 0.61 and 0.72 respectively.",
+      "eprint_status": "archive",
+      "event_location": "Jakarta",
+      "date_type": "published",
+      "event_title": "Forum Ilmiah Tahunan-Ikatan Surveyor Indonesia 2019",
+      "eprintid": 18218
+    },
+    {
+      "date_type": "published",
+      "eprintid": 20146,
+      "subjects": [
+        "GE",
+        "GV"
+      ],
+      "abstract": "Perlunya kegiatan pemetaan potensi ekowisata di Kecamatan Panca Jaya berkaitan dengan upaya pemberdayaan masyarakat desa. Kecamatan ini merupakan wilayah berupa dataran rendah dengan mayoritas penduduknya bekerja di bidang pertanian dan perkebunan. Penurunan harga komoditas perkebunan menyebabkan banyak petani mengalihfungsikan lahan perkebunan menjadi tanaman singkong. Namun secara geologi, wilayah ini didominasi oleh batuan endapan rawa yang memiliki potensi kandungan batubara muda. Kurangnya data potensi lokasi wisata di daerah ini menyebabkan sedikitnya perhatian masyarakat terhadap potensi ekowisata di wilayah mereka. Pengabdian ini bertujuan untuk mengatasi permasalahan tersebut dengan memetakan potensi ekowisata baru yang dapat dikembangkan dan dikelola oleh masyarakat, mengedukasi masyarakat dalam peningkatan kualitas dan keunggulan\/ kearifan lokal yang berimbas pada peningkatan nilai ekonomi kawasan ekowisata dengan pemanfaatan teknologi informasi seperti drone. Manfaat dari pengabdian ini adalah terpetakannya potensi ekowisata yang dapat dikembangkan dan dikelola oleh masyarakat serta terbentuknya media promosi video profil kawasan wisata yang dapat disebarkan melalui media internet sehingga wisatawan dapat dengan mudah mengenal dan tertarik untuk berkunjung ke Panca Jaya.",
+      "eprint_status": "archive",
+      "status_changed": "2020-05-19 13:59:22",
+      "rev_number": 8,
+      "volume": 4,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/200",
+      "title": "Pemanfaatan Drone Untuk Pemetaan Potensi Ekowisata di Kecamatan Panca Jaya, Mesuji",
+      "divisions": [
+        "FT11",
+        "FT1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/01\/46",
+      "date": "2020-03-27",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jss.v4i1.200",
+      "publication": "SAKAI SAMBAYAN",
+      "creators": [
+        {
+          "name": {
+            "given": "Mochamad Firman",
+            "honourific": null,
+            "family": "Ghazali",
+            "lineage": null
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "id": "hesti.9201@eng.unila.ac.id",
+          "name": {
+            "given": "Hesti",
+            "lineage": null,
+            "family": "Hesti",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "I Gede Boy",
+            "lineage": null,
+            "honourific": null,
+            "family": "Darmawan"
+          },
+          "id": "igedeboy@staff.unila.ac.id"
+        }
+      ],
+      "issn": "e-ISSN 2550-1089",
+      "datestamp": "2020-05-19 13:59:22",
+      "pagerange": "1-5",
+      "lastmod": "2020-05-19 13:59:22",
+      "userid": 2546,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20146",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33488",
+            "rev_number": 3,
+            "docid": 33488,
+            "main": 124,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190124",
+                  "objectid": 33488,
+                  "filename": 124,
+                  "hash": "5cb4e776f0e2d34a31d638c26deec916",
+                  "mtime": "2020-05-19 08:47:43",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "fileid": 190124,
+                  "filesize": 3587,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "text\/html",
+            "language": "id",
+            "content": "published",
+            "eprintid": 20146,
+            "placement": 1,
+            "security": "public"
+          }
+      ]
+    },
+    {
+      "rev_number": 8,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "title": "Generating soil salinity, soil moisture, soil pH from satellite imagery and its analysis",
+      "referencetext": "[1] Shekhar R, Chandrasekar K, Sesha Sai MVR, Diwakar PG,\r\nDadhwal VK. Automated system for generation of soil\r\nmoisture products for agricultural drought assessment. Int Arch Photogramm Remote Sens Spat Inf Sci 2014;40:111–7.\r\n[2] Parajuli PB, Duffy SE. Evaluation of soil organic carbon and soil moisture content from agricultural fields in Mississippi.Open J Soil Sci 2013;3:81–90.\r\n[3] Narendra BH. Drought monitoring using rainfall data and spatial soil moisture modeling Master thesis. International Institute for Geo-Information Science and Earth ObservationUniversitas Gadjah Mada; 2008.\r\n[4] Arif C, Setiawan B, Mizoguchi M, Doi R. Estimation of soil moisture in paddy field using Artificial Neural Networks. Int J Adv Res Artif Intell 2012;1:17–21.\r\n[5] De Datta SK. Germination, growth, and development of the rice plant. In: Principles and practices of rice\r\nproduction. Singapore: John Willey & Sons; 1981. p. 146–72.\r\n[6] Mosleh MK, Hassan QK, Chowdhury EH. Application of\r\nremote sensors in mapping rice area and forecasting its\r\nproduction: a review. Sensors 2015;15:769–91.\r\n[7] Delgado A, Gomez JA. The soil. Physical, chemical and\r\nbiological properties. In: Villalobos FJ, Fereres E, editors. Principles of agronomy for sustainable agriculture. Springer International Publishing AG; 2016. p. 15–27.\r\n[8] Jones JB. Soil pH, liming, and liming materials. In: Agronomic handbook management of crops, soils and their\r\nfertility. Washington DC: CRC Press; 2002. p. 237–51.\r\n[9] Smyth JT. Soil acidity and liming. In: Handbook of soil sciences resource management and environmental\r\nimpacts. Boca Raton: CRS Press; 2012. p. 373–9.\r\n[10] The Potash Development Association. Soil analysis: key to nutrient management planning. Link: https:\/\/www.pda.org.uk\/pda_leaflets\/24-soil-analysis-key-to-nutrientmanagement-planning\/pda-if24.pdf. 2011:12. [accessed\r\nSeptember 23, 2018].\r\n[11] Goto K. Relationships between soil pH, available calcium and prevalence of potato scab. Soil Sci Plant Nutr 1985;31:411–8.\r\n[12] Al Khaeir F. Soil salinity detection using satellite remote sensing. Master thesis. International Institute for GeoInformation Science and Earth Observation-University of Twente; 2003.\r\n[13] Lennard EB. The interaction between waterlogging and\r\nsalinity in higher plants: causes, consequences and\r\nimplications. Plant Soil 2003;253:35–54.\r\n[14] Hingston F, Gailitis. The geographic variation of salt precipitated over Western Australia. Aust J Soil Res\r\n1976;14:319–35.\r\n[15] Kawaguchi K, Kvuma K. Description of fertility\r\ncharacteristics paddy soils in tropical Asia. Southeast Asian Stud 1974;12:3–24.\r\n[16] Tan KH. The genesis and characteristics of paddy soils in Indonesia. Soil Sci Plant Nutr 1968;14:117–21.\r\n[17] Bołzan BD. Effect of pH and soil environment. World News Nat Sci 2017;8:50–60.\r\n[18] Page-dumroese D, Ferguson D, Mcdaniel P, Johnson-maynard J. Chemical changes induced by pH manipulations of volcanic ash-influenced soils. In: Page-dumroese D, Miller R, Mital J, McDaniel P, editors. Volcanic-ash-derived for soils in northwest prop implic manag restor. Coeur d’Alene: U. S. Department of Agriculture; 2007. p. 185–202.\r\n[19] Moore SH. Optimum soil applied nitrogen levels for cotton on a high pH alluvial soil. J Plant Nutr 1998;21:1139–44. \r\n[20] Guo Z, Chai M, Wang J, Chen Z, Zhen-Shou Z, Wu-Ping Z,et al. Spatiotemporal variation of soil PH in the past 30 years of Guangdong Province, China. J Appl Ecol 2011;22:302–5.",
+      "status_changed": "2020-10-28 01:56:58",
+      "related_url": [
+        {
+          "url": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S221431731830221X?via%3Dihub"
+        }
+      ],
+      "dir": "disk0\/00\/02\/43\/95",
+      "publication": "Information Processing in Agriculture",
+      "issn": "2214-3173",
+      "creators": [
+        {
+          "id": "firman.ghazali@eng.unila.ac.id",
+          "name": {
+            "given": "Mochamad Firman",
+            "family": "Ghazali",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wikantika",
+            "lineage": null,
+            "given": "Ketut"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Harto",
+            "given": "Agung Budi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Kondoh",
+            "honourific": null,
+            "given": "Akihiko"
+          }
+        }
+      ],
+      "funders": [
+        "LPDP"
+      ],
+      "keywords": "Landsat 8; Soil moisture index; Soil salinity index\r\nSoil pH; Paddy leaf model; Bare soil model",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24395",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24395,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 221892,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-10-27 07:28:28",
+                  "hash_type": "MD5",
+                  "filename": "1-s2.0-S221431731830221X-main.pdf",
+                  "hash": "93482318eb71e38f46d8a0c226bc9178",
+                  "datasetid": "document",
+                  "filesize": 4320272,
+                  "objectid": 38122,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221892"
+                }
+            ],
+            "main": "1-s2.0-S221431731830221X-main.pdf",
+            "docid": 38122,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38122",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "pagerange": "294-306",
+      "userid": 3260,
+      "date_type": "published",
+      "eprintid": 24395,
+      "official_url": "https:\/\/www.sciencedirect.com\/journal\/information-processing-in-agriculture",
+      "subjects": [
+        "G1",
+        "GE",
+        "S1"
+      ],
+      "abstract": "In an agricultural field, the water content and salt content are defined as soil moisture and soil salinity and have to be estimated precisely. The changing of these two factors can be assessed using remote sensing technology. This study was conducted by analysing the Landsat 8 satellite images, soil data of field surveys, laboratory analyses and statistical computations. Soil properties such as soil moisture and soil salinity were estimated using soil moisture index (SMI) and soil salinity index (SSI), respectively. The research combined\r\nand integrated the soil data from survey and laboratory with Landsat 8 satellite images to build two multiple regression equations model named the soil pH Index (SpHI). They are based on bare soil and paddy leaf models as the explanatory factors of soil moisture and soil salinity changes. All the computation processes were replicated three times using three different dates of Landsat 8 satellite images to produce the multi-temporal analysis. Soil moisture increased after 30 days, while the salt content was only trace amounts. Both proposed models detected 4.49–7.59 of soil pH, 4.66 in bare soil model and 6.62 in paddy leaf model. During the planting period, the soil pH in bare soil model decreased to 2.12–6.47 while the paddy leaf model increased to 4.49–7.59 with RMSE 1.40 and PRMSE 24% of accuracy. The spatial relationship between soil pH, soil salinity and soil moisture are linear but varied in correlation level from weak, moderate to strong. Based on the bare soil model, the relationship between soil pH and soil moisture shows a weak negative relationship with R2 8.37% and a strong positive relationship with R2 81.94% in paddy area and bare soil area respectively, as like as in paddy area based on the paddy leaf model with R2 100%. The relationship between soil temperature and soil pH shows a weak negative relationship for all models and a moderate negative relationship of soil salinity and soil pH in bare soil area based on the bare soil model with R2 34.89%.",
+      "eprint_status": "archive",
+      "date": "2020-06-06",
+      "id_number": "https:\/\/doi.org\/10.1016\/j.inpa.2019.08.003",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Elsevier B.V.",
+      "datestamp": "2020-10-28 01:56:58",
+      "lastmod": "2020-10-28 01:56:58"
+    },
+    {
+      "status_changed": "2021-05-31 01:43:35",
+      "eprint_status": "archive",
+      "abstract": "This is important to know plant health that affects fruits production. Especially in a coffee plantation, even though it will be dried before harvesting, the farmers depend on their fruits and only the mature will be taken. The biochemical parameters in leaves and coffee fruits will be defined as the major factors in determining plant health. Both leaf and fruit coffee’s reflectance used to determine biochemical content during its development stages. Some of modification vegetation indices that used to evaluate the greenness level, chlorophyll and water content, and colorization named MNDVI, MCARIs, MNDWI and MYI and the associated indices with all parameters name REPD was used to understand the leaves development. The result shows that all leaves biochemical factors are decreased during its development. All factors also shown a moderate to the strong relationship each other. The highest correlation is given by the water content based on the estimated values of MYI. It has R2 -0.96 to the values of REPD. Since the REPD capable to control the values of MNDVI, MCARIs, and MNDWI with R2 -0.91, -0.66 and -0.71 respectively.",
+      "subjects": [
+        "G1",
+        "GB",
+        "S1"
+      ],
+      "referencetext": "[1] H. Tsukaya, Leaf Development, in: Arab B, American Society of Plant Biology, 2013: pp. 2–21.\r\ndoi:10.1199\/tab.0163.\r\n[2] C.M. Bacon, W.A. Sundstrom, I.T. Stewart, D. Beezer, Vulnerability to Cumulative Hazards :\r\nCoping with the Coffee Leaf Rust Outbreak , Drought , and Food Insecurity in Nicaragua,\r\nWorld Dev. 93 (2017) 136–152. doi:10.1016\/j.worlddev.2016.12.025.\r\n[3] E. Winston, J. Op de Laak, T. Marsh, H. Lempke, K. Chapman, Pests and diseases, in: Arab\r\nCoffee Man Lao-PDR, FAO Regional Office for Asia and the Pacific, Bangkok Food and\r\nAgriculture Organization of the United Nations, Bangkok, 2005.\r\nhttp:\/\/www.fao.org\/3\/ae939e\/ae939e0b.htm (accessed August 1, 2019).\r\n[4] A. Chemura, O. Mutanga, J. Odindi, Empirical Modeling of Leaf Chlorophyll Content in\r\nCoffee (Coffea Arabica) Plantations With Sentinel-2 MSI Data: Effects of Spectral Settings,\r\nSpatial Resolution, and Crop Canopy Cover, IEEE J Sel Top Appl Earth Obs Remote Sens. 10\r\n(2017) 5541–5550. doi:10.1109\/JSTARS.2017.2750325.\r\n[5] F. Chianucci, L. Disperati, D. Guzzi, D. Bianchini, V. Nardino, C. Lastri, A. Rindinella, P.\r\nCorona, Estimation of canopy attributes in beech forests using true colour digital images from a\r\nsmall fixed-wing UAV, Int J Appl Earth Obs Geoinf. 47 (2016) 60–68.\r\ndoi:10.1016\/j.jag.2015.12.005.\r\n[6] A. Chemura, C. Mahoya, P. Chidoko, D. Kutywayo, Effect of soil moisture deficit stress on\r\nbiomass accumulation of four coffee ( coffea arabica ) varieties in Zimbabwe, ISRN Agron.\r\n2014 (2014) 9–13. doi:10.1155\/2014\/767312.\r\n[7] L.C. Kelley, L. Pitcher, C. Bacon, Using google earth engine to map complex shade-grown\r\ncoffee landscapes in northern Nicaragua, Remote Sens. 10 (2018) 19. doi:10.3390\/rs10060952.\r\n[8] J. Gaertner, N.C. Manoukis, J. Gaertner, V.B. Genovese, C. Potter, K. Sewake, N.C. Manoukis,\r\nVegetation classification of coffea on hawaii island using Worldview-2 satellite imagery, J\r\nAppl Remote Sens. 11 (2019) 11. doi:10.1117\/1.JRS.11.046005.\r\n[9] T. Bernardes, M. Adami, Monitoring biennial bearing effect on coffee yield using modis\r\nremote sensing imagery, Remote Sens. 4 (2015) 2492–2509. doi:10.3390\/rs4092492.\r\n[10] S.M.C. Nogueira, M.A. Moreira, M.M.L. Volpato, Relationship between coffee crop\r\nproductivity and vegetation indexes derived from oli \/ landsat-8 sensor data with and without\r\ntopographic correction, Eng Agric. 38 (2018) 387–394. doi:10.1590\/1809-4430-\r\nEng.Agric.v38n3p387-394\/2018.\r\n[11] D.A. Roberts, S. Barbara, K. Roth, R.L. Perroy, Hyperspectral vegetation indices, in: P.S.\r\nThenkabail, J.G. Lyon, A. Huete (Eds.), Hyperspectral Remote Sens Veg, 1st ed., CRC Press, Boca Raton, 2011: pp. 309–327. doi:10.1201\/b11222-20.\r\n[12] J.W. Rouse, R.H. Haas, J.A. Scheel, D.W. Deering, Monitoring vegetation systems in the great\r\nplains with ERTS, in: 3rd Earth Resour Technol Satell Symp, 1974: pp. 309–317.\r\ndoi:19740022614.\r\n[13] A. Gholizadeh, M. Saberioon, L. Boruvkaa, A. Wayayok, M.A.M. Soom, Leaf chlorophyll and\r\nnitrogen dynamics and their relationship to lowland rice yield for site-specific paddy\r\nmanagement, Inf Process Agric. 4 (2017) 259–268. doi:10.1016\/j.inpa.2017.08.002.\r\n[14] M.L. Adams, W.D. Philpot, W.A. Norvell, Yellowness index : An application of spectral\r\nsecond derivatives to estimate chlorosis of leaves in stressed vegetation, Int J Re. 20 (2010)\r\n37–41. doi:10.1080\/014311699211264.\r\n[15] B.C. Gao, NDWI-A Normalized Difference Water Index for Remote Sensing of Vegetation\r\nLiquid Water from Space., Remote Sens Environ. 58 (1996) 257–266.\r\n[16] J.G. Clevers, Imaging spectrometry in agriculture: Plant vitality and yield indicators., in:\r\nImaging Spectrom A Tool Environ Obs, Kluwer Academic, Alphen aan den Rijn, The\r\nNetherlands, 1994: pp. 193–219.\r\n[17] K. Sheffield, Multi-spectral remote sensing of native vegetation condition , PhD (2009) 249.\r\n10.1111\/j.1442-\r\n8903.2006.298_1.x%5Cnhttp:\/\/ezproxy.usq.edu.au\/login?url=http:\/\/search.ebscohost.com\/login\r\n.aspx?direct=true&db=aph&AN=20791486&site=ehost-live.\r\n[18] L. Liang, Z. Qin, S. Zhao, L. Di, C. Zhang, M. Deng, H. Lin, L. Zang, L. Wang, Z. Liu,\r\nEstimating crop chlorophyll content with hyperspectral vegetation indices and the hybrid\r\ninversion model, Int J Remote Sens. 37 (2016) 2923–2949.\r\n[19] A. Hoehn, L. Stodieck, W. Emery, The assessment of leaf water content using leaf reflectance\r\nratios in the visible , near ‐ , and short ‐ wave ‐ infrared, Int J Remote Sens. 29 (2008) 3701–\r\n3713. doi:10.1080\/01431160701772500.\r\n[20] F.. B. Wann, Chlorosis Yellowing of Plants : Cause and Control, Logan, 1930.\r\nhttp:\/\/digitalcommons.usu.edu\/uaes_circulars\/77.\r\n[21] J.B.D. Robinson, A Note on Green-Vein Chlorosis of Coffee, East African Agric J. 20 (1955)\r\n195–197. doi:10.1080\/03670074.1955.11664966.\r\n[22] B. Chakraborty, P.N. Singh, Physiological and biochemical adjustment of iron chlorosis\r\naffected low-chill peach cultivars supplied with different iron sources, Physiol Mol Biol Plants.\r\n18 (2012) 141–148. doi:10.1007\/s12298-012-0107-9.\r\n[23] G.V.G. Baranoski, J.G. Rokne, A practical approach for estimating the red edge position of\r\nplant leaf reflectance, Int Journla Remote Sens. 26 (2005) 37–41.\r\ndoi:10.1080\/01431160512331314029.\r\n[24] M. Abbasi, A.A. Darvishsefat, M.E. Schaepman, Spectral reflectance of rice canopy and red\r\nedge position (REP) as indicator of high-yielding variety, in: W. Wagner, B. Székely (Eds.), Int\r\nSymp Photogrametri Remote Sens, Vienna, 2010: pp. 1–5.\r\n[25] Y. Kanke, Red edge as a potential index for detecting differences in plant nitrogen status in\r\nwinter wheat, Oklahoma State University, 2009.",
+      "title": "Spectral analysis for phenological studies of leaves and fruits\r\ndevelopment in a coffee plantation in Gunung Puntang: a preliminary\r\nresult",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/500\/1\/012024\/pdf",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 500,
+      "eprintid": 31402,
+      "date_type": "published",
+      "lastmod": "2021-05-31 01:43:35",
+      "userid": 3260,
+      "pagerange": "1-9",
+      "datestamp": "2021-05-31 01:43:35",
+      "publisher": "IOP Publishing",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141932",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/372124",
+                  "objectid": 141932,
+                  "filesize": 1583661,
+                  "datasetid": "document",
+                  "mtime": "2021-05-30 16:47:12",
+                  "hash_type": "MD5",
+                  "hash": "2799f5ca6683b0bfcfca8cba0647e39d",
+                  "filename": "Ghazali_2020_IOP_Conf._Ser.__Earth_Environ._Sci._500_012024.pdf",
+                  "fileid": 372124,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 141932,
+            "main": "Ghazali_2020_IOP_Conf._Ser.__Earth_Environ._Sci._500_012024.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31402
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31402",
+      "full_text_status": "public",
+      "type": "article",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "divisions": [
+        "FT11"
+      ],
+      "issn": "1755-1315",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ghazali",
+            "honourific": null,
+            "given": "Mochamad Firman"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ketut",
+            "honourific": null,
+            "family": "Wikantika",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Tridawati",
+            "honourific": null,
+            "given": "Anggun"
+          }
+        },
+        {
+          "name": {
+            "given": "Agung Budi",
+            "honourific": null,
+            "family": "Harto",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "IOP Conference Series: Earth and Environmental Science",
+      "id_number": "10.1088\/1755-1315\/500\/1\/012024",
+      "date": "2020-01-06",
+      "dir": "disk0\/00\/03\/14\/02"
+    },
+    {
+      "lastmod": "2022-03-11 14:18:53",
+      "userid": 240,
+      "pagerange": "33-52",
+      "datestamp": "2022-03-11 14:18:53",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "eprintid": 40122,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 161421,
+            "main": "1261-4664-1-PB_jurnal Rekayasa.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/448532",
+                  "objectid": 161421,
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-11 06:23:30",
+                  "filename": "1261-4664-1-PB_jurnal Rekayasa.pdf",
+                  "hash": "489cd4160f1debf11ebaef78faf2dbee",
+                  "fileid": 448532,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1023883,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161421"
+          }
+      ],
+      "publisher": "Department of Civil Engineering,Engineering Faculty- University of Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40122",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FT11",
+        "FT4"
+      ],
+      "publication": "JOURNAL REKAYASA SIPIL DAN DESAIN(JRSDD)",
+      "issn": "2715-0690",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hartoto",
+            "honourific": null,
+            "given": "Dwi Nanda Putra"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Fadly",
+            "honourific": null,
+            "lineage": null,
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Zakaria",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/01\/22",
+      "date": "2020-03-01",
+      "status_changed": "2022-03-11 14:18:53",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/article\/view\/1261"
+        }
+      ],
+      "subjects": [
+        "Q1",
+        "TC"
+      ],
+      "abstract": "Teknologi dalam melakukan pengamatan pasang surut sudah berkembang, dengan ditemukan nya sensor yang dapat melakukan pengamatan pasut secara otomatis. Salah satu sensor yang dapat digunakan untuk kegiatan pengamatan pasut adalah sensor ultrasonik yang bekerja berdasarkan prinsip gelombang ultrasonik. Fenomena alam yang terjadi seperti gelombang permukaan air laut dapat mempengaruhi ketelitian data hasil bacaan pasut menggunakan sensor ultrasonik. Penelitian\r\nini bertujuan merancang alat pasut berbasis sensor ultrasonik yang dapat mereduksi gangguan gelombang air laut dan menghitung ketelitian hasil bacaan alat tersebut.\r\nPengambilan data diamati per 1 detik, lalu data dibagi dalam beberapa interval yaitu 1 detik, 5 menit, 15 menit dan 30 menit. Ketelitian alat dihitung berdasarkan data manual yang diamati per interval 30 menit, setelah itu data akan diuji korelasi dan signifikansi antara variabel alat otomatis\r\ntertutup, alat otomatis terbuka dan bacaan manual. Penelitian ini menghasilkan peralatan untuk pengukuran pasang surut air laut otomatis yang dapat mereduksi gelombang air laut berbasis sensor ultrasonik. Hasil pengujian data dari 3 kali pengamatan didapatkan alat pasut tertutup memiliki ketelitian yang lebih baik dengan akurasi 99.1981%, 99.3007%, 99.3156%. \r\n\r\nKata kunci : Pasang surut, Sensor ultrasonik, Mikrokontroller, Arduino uno.",
+      "title": "Studi Akurasi Sensor Ultrasonik Tipe US-015 Untuk Pengukuran Pasang Surut Air Laut Daerah Bergelombang",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/article\/view\/1261",
+      "volume": 8,
+      "rev_number": 11,
+      "metadata_visibility": "show",
+      "eprintid": 40122,
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "id_number": "10.29303\/ipr.v3i2.56",
+      "date": "2020-05",
+      "datestamp": "2022-08-29 01:39:17",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-08-29 01:39:17",
+      "publisher": "Jurusan Fisika, FMIPA, Universitas Mataram",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 44268,
+      "abstract": "Shear Wave Splitting is an application of seismic wave to analyse the\r\nanisotropy level of a certain medium. Generally, shear wave\r\npropagation through a rock formation will be polarized (φ) into two\r\nparts especially when the medium structures are different, such as a\r\nfracture. The polarized shear wave which is perpendicular to fracture\r\nwill propagate slower than the wave that propagates parallel to the\r\nfracture. The delay time (δt) of both waves is proportional with the\r\nfracture intensity along with the wave propagation from the source to\r\nthe station. The description regarding fracture orientation can be\r\nobtained by analyzing both Shear Wave Splitting parameters (φ and\r\nδt), and this information is adequately important in geothermal\r\nexploration or exploitation phase at Mt. Amiata. Based on the result\r\nof this research, secondary data of the microearthquake is focused on\r\nthe east to the south area and spread along 3 earthquake stations. The\r\nexistence of microearthquake source is mainly focused at the depth of\r\n1 to 4 km. Besides, the polarization direction of each earthquake\r\nstation at the geological map shows a dominant fracture orientation\r\nconsistently at NW-SE. All of the three stations also show that the\r\npolarization direction is integrated into the local fault existence in the\r\nsubsurface. Furthermore, the research shows that the high-intensity\r\nfracture distribution occurred at MCIV station area in the southern\r\npart of research location. Meanwhile, the low-intensity fracture\r\ndistribution occurred at ARCI and SACS station area in the western\r\nand the eastern part of research location. The high value of fracture\r\nintensity accompanied by the high amount of structure intensity,\r\nstrengthen the prediction of the high anisotropy existence which\r\npotentially tends to the high permeability presence at the area",
+      "subjects": [
+        "QE"
+      ],
+      "eprint_status": "archive",
+      "official_url": "https:\/\/ipr.unram.ac.id\/index.php\/ipr\/issue\/view\/11",
+      "dir": "disk0\/00\/04\/42\/68",
+      "creators": [
+        {
+          "id": "rahmat.caturwibowo@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Irfan",
+            "honourific": null,
+            "given": "Hanif"
+          }
+        },
+        {
+          "name": {
+            "given": "ahmad",
+            "honourific": null,
+            "family": "zaenudin",
+            "lineage": null
+          },
+          "id": "ahmad.zaenudin@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rustadi",
+            "given": "Rustadi"
+          },
+          "id": "rustadi_2007@yahoo.com"
+        },
+        {
+          "id": "nandi.haerudin@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nandi Haerudin",
+            "honourific": null,
+            "given": "NH"
+          }
+        },
+        {
+          "name": {
+            "given": "rahmat",
+            "honourific": null,
+            "family": "catur wibowo",
+            "lineage": null
+          },
+          "id": "catur3712@gmail.com"
+        }
+      ],
+      "issn": "2615-1278",
+      "publication": "Jurnal Indonesian Physical Review",
+      "pagerange": "72-83",
+      "userid": 760,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44268",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44268,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-26 12:19:15",
+                  "hash": "769efdfdab81cce59ea0018a0b4934e0",
+                  "filename": "Plagiarism Checker  Identifikasi Orientasi Rekahan Mikro Area Panas Bumi (IPR).pdf",
+                  "fileid": 481069,
+                  "mime_type": "application\/pdf",
+                  "filesize": 346616,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481069",
+                  "objectid": 166355
+                }
+            ],
+            "main": "Plagiarism Checker  Identifikasi Orientasi Rekahan Mikro Area Panas Bumi (IPR).pdf",
+            "docid": 166355,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166355",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/ipr.unram.ac.id\/index.php\/ipr\/article\/view\/56",
+          "type": "author"
+        }
+      ],
+      "status_changed": "2022-08-29 01:39:17",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "volume": 3,
+      "title": "Identifikasi Orientasi Rekahan Mikro Area Panas Bumi Monte Amiata\r\nBerdasarkan Analisis Studi Shear Wave Splitting"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "event_title": "SEMINAR NASIONAL KONSERVASI 2020 “Konservasi Sumber Daya Alam untuk Pembangunan Berkelanjutan”",
+      "eprintid": 24363,
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Implementasi Tasseled Cap Transformation Pada MODIS Untuk Identifikasi Wilayah Kekeringan Di Provinsi Lampung",
+      "event_dates": "21 April 2020",
+      "referencetext": "[1] Afid Nurkholis, dkk. 2016 . Kekeringan Meteorologis dengan Metode Thornthwaite Mather di DAS Sembung, Kabupaten Sleman, DIY. Yogyakarta. \r\n[2] Badan Pusat Statistik Provinsi Lampung. 2019. Provinsi Lampung dalam Angka. Lampung: Badan Pusat Statistik Provinsi Lampung. \r\n[3] Dionysia G. Panagoulia, Definitions And Effects Of Droughts, National Technical University of Athens, 1998 \r\n[5] Erna Sri Adiningsih. 2014. Tinjauan Metode Deteksi Parameter Kekeringan Berbasis Data\r\nPenginderaan Jauh. Seminar Nasional Enginderaan Jauh \r\n[6] I. Vorovencii, Use of the “Tasseled Cap” Transformation for the Interpretation of Satellite Images, Brasov, 2007. \r\n[7] Indarto, S. Wahyuningsih, M. Pudjojono, H. Ahmad, A. Yusron, Studi Pendahuluan Tentang Penerapan Metode Ambang Bertingkat Untuk Analisis Kekeringan Hidrologi Pada 15 Das Di Wilayah Jawa Timur, 2014, jurnal agroteknologi, vol 8, no 2. \r\n[8] P. D. Raharjo, Teknik Penginderaan Jauh Dan Sistem Informasi GeografisUntuk Identifikasi Potensi Kekeringan Jawa Tengah, makara: teknologi, 2010, vol 14: no 2. \r\n[9] Republik Indonesia. 2007. Undang-Undang No. 24 Tahun 2007 Tentang Penanggulangan Bencana. Lembaran Negara RI Tahun 2007, No. 115. Sekretarian Negara. Jakarta. \r\n[10] S. E. Lobser, W. B Cohen, MODIS Tasselledcap: Land Characteristics Expressed Through Transformer MODIS Data, international journal of remote sensing,2007, vol. 28: no 22. \r\n[11] Titi Aprilliyanti , Muhammad Zainuddin. 2017. Pemetaan Potensi Kekeringan Lahan se- pulau Batam menggunakan Teknik Sistem Informasi Geografis (SIG) dan Penginderaan Jauh. Batam. Majalah Geografi Indonesia \r\n[12] U. Samarawickrama, D. Piyaratne, M. Ranagalage, Relationship between NDVI with Tasseled cap Indices: A Remote Sensing based Analysis, IJRT, 2017, vol 3: no 12. \r\n[13] UN-ISDR, Drought Risk Reduction Framework and Practices, United Nations International Strategy for Disaster Reduction. 2009. \r\n[14] Wilhite D. A, Quantification of agricultural drought for effective drought mitigation, in agricultural drought indices, Proceedings of an Expert Meeting 2-4 June, Murcia, Spain, WMO, Geneva, 2010. \r\n[15] Wilhite, D. A., Glantz, M. H. Understanding: the drought phenomenon: the role of  definitions, Water international, 1985, 10(3), 111-120. \r\n[16] WMO. 1986. Report on Drought and Countries Affected by Drought During 1974–1985, WMO, Geneva, p. 118. \r\n[17] WMO. 2006. Drought monitoring and early warning: Concepts, progress and future\r\nchallenges. WMO no. 1006. World Meteorological Organization, Geneva, Switzerland. \r\n[18] Yevjevich, V. 1967. An Objective Approach to Definitions and Investigations of Continental Hydrologic Drought. Hydrology Paper No. 23, Colorado State Univ.Fort Collins, Colo.",
+      "subjects": [
+        "G1",
+        "GE"
+      ],
+      "abstract": "Pada tahun 2019, Provinsi Lampung mengalami kekeringan akibat kemarau. Hal ini mengakibatkan pasokan air berkurang. Berkurang pasokan air berdampak pada air bersih dan kekeringan tanah sehingga saat musim hujan, tanah akan mudah tererosi, dan potensi banjir pun bertambah. Penelitian ni bertujuan untuk mengidentifikasi dan memetakan area yang terdampak kekeringan berdasarkan jenis penggunaan lahan, dengan memanfaatkan teknologi penginderaan jauh. Data yang digunakan adalah citra satelit MODIS Terra dengan resolusi 500 meter. Informasi kekeringan diperoleh berdasarkan hasil Tasseled Cap Transformation (TCT) yang terdiri dari indeks kebahasan (wetness index), indeks kecerahan (brightness index) dan indeks kehijauan (greenness index). Data lainnya seperti peta isohiet juga yang digunakan sebagai data acuan untuk memvalidasi hasil dari TCT. Hasil yang diperoleh dari kajian ini adalah terdapat daerah yang mengalami kekeringan terbesar di Provinsi Lampung yang berada di Kota Bandar Lampung, Kota Metro dan Kabuaten Lampung Selatan, dimana area yang terdampak kekeringan didominasi oleh jenis penggunaan lahan berupa pemukiman, sawah, ladang. Sementara, hasil validasinya menunjukkan bahwa estimasi wilayah terdampak kekeringan dari TCT adalah 50%",
+      "eprint_status": "archive",
+      "status_changed": "2020-10-25 06:31:56",
+      "date": "2020-10-24",
+      "dir": "disk0\/00\/02\/43\/63",
+      "creators": [
+        {
+          "id": "laudittazahra@gmail.com",
+          "name": {
+            "given": "Lauditta",
+            "lineage": null,
+            "family": "Zahra",
+            "honourific": null
+          }
+        },
+        {
+          "id": "milaaulia194@gmail.com",
+          "name": {
+            "given": "Mila",
+            "lineage": null,
+            "family": "Aulia",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ghazali",
+            "lineage": null,
+            "given": "Mochamad Firman"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        }
+      ],
+      "keywords": "Penginderaan Jauh; Modis Terra; Tasseled Cap Transformation; Isohiet; Kekeringan; Lampung",
+      "divisions": [
+        "FT11"
+      ],
+      "contact_email": "laudittazahra@gmail.com",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24363",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38091",
+            "rev_number": 1,
+            "main": "Lauditta Zahra_April 2020_SEMNASKON.pdf",
+            "docid": 38091,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-23 12:58:28",
+                  "hash": "a1cbef865131b46161442a49aca55e3c",
+                  "filename": "Lauditta Zahra_April 2020_SEMNASKON.pdf",
+                  "fileid": 221640,
+                  "mime_type": "application\/pdf",
+                  "filesize": 691352,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221640",
+                  "objectid": 38091
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 24363,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2020-10-25 06:31:56",
+      "pagerange": "107-114",
+      "lastmod": "2020-10-25 06:31:56",
+      "userid": 3260
+    }
+]
+

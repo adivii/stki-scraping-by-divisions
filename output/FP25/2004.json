@@ -1,0 +1,1071 @@
+[
+    {
+      "date": "2004-12",
+      "dir": "disk0\/00\/00\/09\/20",
+      "publication": "Jurnal Ilmu Pertanian",
+      "issn": "0126-4214",
+      "creators": [
+        {
+          "id": "setyo.dwiutomo@fp.unila.ac.id",
+          "name": {
+            "given": "Setyo Dwi",
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FP25"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/920",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "archive",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/811",
+            "rev_number": 3,
+            "docid": 811,
+            "main": "vol11_2.htm",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 10407,
+                  "fileid": 5688,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash": "565e263c68bb9c15805201c92ea48524",
+                  "filename": "vol10_2.htm",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5688"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5689",
+                  "datasetid": "document",
+                  "filesize": 10798,
+                  "mime_type": "text\/html",
+                  "fileid": 5689,
+                  "filename": "vol11_1.htm",
+                  "hash": "f749663cfd1eafa0afcfcb8cc50fce99",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01"
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 7661,
+                  "fileid": 5690,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash": "d0ef4956230dd1fe4da85a1468a28168",
+                  "filename": "index.htm",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5690"
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 11960,
+                  "fileid": 5691,
+                  "mime_type": "text\/html",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "filename": "naskah.htm",
+                  "hash": "67704d2ef26936683049381239501712",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5691"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5692",
+                  "objectid": 811,
+                  "filesize": 11752,
+                  "datasetid": "document",
+                  "hash": "83151ee4a3ec85db1cf6ff755b0a8beb",
+                  "filename": "vol12_2.htm",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "fileid": 5692
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5693",
+                  "objectid": 811,
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "filename": "redaksi.htm",
+                  "hash": "47d0ffaa86b6f89ff70b414da5fcc9bb",
+                  "fileid": 5693,
+                  "mime_type": "text\/html",
+                  "filesize": 9378,
+                  "datasetid": "document"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5694",
+                  "fileid": 5694,
+                  "mime_type": "text\/html",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "filename": "vol12_1.htm",
+                  "hash": "630bcba89e39fb2d4b5d442eb3691507",
+                  "datasetid": "document",
+                  "filesize": 11594
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 10496,
+                  "mime_type": "text\/html",
+                  "fileid": 5695,
+                  "filename": "vol11_2.htm",
+                  "hash": "b5df13b782bad829f251b368a26a2ceb",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5695"
+                },
+                {
+                  "mime_type": "image\/gif",
+                  "fileid": 5696,
+                  "hash": "4dfa1d6aa5b87647bc4090fdff57a5f2",
+                  "filename": "image\/bgcolor.gif",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 233,
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5696"
+                },
+                {
+                  "filesize": 6340,
+                  "datasetid": "document",
+                  "hash": "9eda0ebe3c1de740907f59ace42e75f4",
+                  "filename": "image\/logo_3d.gif",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "mime_type": "image\/gif",
+                  "fileid": 5697,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5697",
+                  "objectid": 811
+                },
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "filename": "image\/cover.JPG",
+                  "hash": "e87d93e6afadb87529e715f1506c6499",
+                  "fileid": 5698,
+                  "mime_type": "image\/jpeg",
+                  "filesize": 44539,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5698",
+                  "objectid": 811
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5699",
+                  "mime_type": "image\/gif",
+                  "fileid": 5699,
+                  "hash": "5f4a60770a008bbda967070ef524aca8",
+                  "filename": "image\/turleft.gif",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 663
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5700",
+                  "datasetid": "document",
+                  "filesize": 667,
+                  "mime_type": "image\/gif",
+                  "fileid": 5700,
+                  "hash": "0934bd3ae50fedcf8b2105634d7bd27b",
+                  "filename": "image\/turright.gif",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5"
+                },
+                {
+                  "mime_type": "image\/gif",
+                  "fileid": 5701,
+                  "filename": "image\/pdf_file.gif",
+                  "hash": "e1f6995f9c4fc08dcf23674040a6267a",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 264,
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5701"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5702",
+                  "mime_type": "image\/gif",
+                  "fileid": 5702,
+                  "hash": "fd81e5c0dc2c854a1756cb05f5273549",
+                  "filename": "image\/ilper.gif",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 7403
+                },
+                {
+                  "hash": "30bcec8332b9603170b59850651fa352",
+                  "filename": "vol10_2\/6_harsono_kcngtnh.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5703,
+                  "filesize": 99898,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5703",
+                  "objectid": 811
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5704",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5704,
+                  "filename": "vol10_2\/8_sutaryo_padi.pdf",
+                  "hash": "967264d5e6a6349e49adae6ed9253014",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 108275
+                },
+                {
+                  "filesize": 155244,
+                  "datasetid": "document",
+                  "hash": "500dff74075ccc8ba948568620bab07a",
+                  "filename": "vol10_2\/4_yono_tebulhnkrng.pdf",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5705,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5705",
+                  "objectid": 811
+                },
+                {
+                  "filesize": 65533,
+                  "datasetid": "document",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "filename": "vol10_2\/2_yadi_abaca.pdf",
+                  "hash": "5c56ff0ac0a2f286d44b2fd4b914d149",
+                  "fileid": 5706,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5706",
+                  "objectid": 811
+                },
+                {
+                  "filesize": 146553,
+                  "datasetid": "document",
+                  "filename": "vol10_2\/5_ispand_ubikayu.pdf",
+                  "hash": "f6f9cf32fca78487ccebf583ca994fd4",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5707,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5707",
+                  "objectid": 811
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5708",
+                  "objectid": 811,
+                  "filesize": 71954,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash": "e9ead29f6443dbe4265ab5f958206baa",
+                  "filename": "vol10_2\/7_yani_entisol.pdf",
+                  "fileid": 5708,
+                  "mime_type": "application\/pdf"
+                },
+                {
+                  "filesize": 66651,
+                  "datasetid": "document",
+                  "hash": "9f468a84317c9fca4330399e0829bb88",
+                  "filename": "vol10_2\/3_djukri_talas.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5709,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5709",
+                  "objectid": 811
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5710",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5710,
+                  "hash": "c3186ade2c01ad00d0e932bafaf414ee",
+                  "filename": "vol10_2\/1_erlin_bwmrh.pdf",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 83057
+                },
+                {
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "filename": "vol12_1\/4.padi_yamin.pdf",
+                  "hash": "1c380cc9dd702be280181d9ded20b6c9",
+                  "fileid": 5711,
+                  "mime_type": "application\/pdf",
+                  "filesize": 70436,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5711",
+                  "objectid": 811
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5712",
+                  "objectid": 811,
+                  "filename": "vol12_1\/8.caisin_endang.pdf",
+                  "hash": "00d02438a06412aa1afa909914290f70",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5712,
+                  "filesize": 108014,
+                  "datasetid": "document"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5713",
+                  "objectid": 811,
+                  "filesize": 150560,
+                  "datasetid": "document",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "filename": "vol12_1\/1.anggrek_erlin.pdf",
+                  "hash": "b1dbd76409c895b5c626b3351f674cf1",
+                  "fileid": 5713,
+                  "mime_type": "application\/pdf"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5714",
+                  "objectid": 811,
+                  "hash": "e8f925fd096a96129b4ec21667c4a24c",
+                  "filename": "vol12_1\/5.kacang_srilestari.pdf",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5714,
+                  "filesize": 60377,
+                  "datasetid": "document"
+                },
+                {
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "filename": "vol12_1\/6.krisan_yekti.pdf",
+                  "hash": "95b2ea01d71659a779050ed643ef8833",
+                  "fileid": 5715,
+                  "mime_type": "application\/pdf",
+                  "filesize": 37583,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5715",
+                  "objectid": 811
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5716",
+                  "objectid": 811,
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash": "e8cb73fb509b367664aabcbb04bbff82",
+                  "filename": "vol12_1\/3.seleksi_bambang.pdf",
+                  "fileid": 5716,
+                  "mime_type": "application\/pdf",
+                  "filesize": 134742,
+                  "datasetid": "document"
+                },
+                {
+                  "filesize": 65689,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:01",
+                  "filename": "vol12_1\/9.tomat_ari.pdf",
+                  "hash": "ab8f2918842259e34bcb0a7747416d2a",
+                  "fileid": 5717,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5717",
+                  "objectid": 811
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 134380,
+                  "mime_type": "application\/pdf",
+                  "fileid": 5718,
+                  "hash": "b8a95a488d268249c67aca51ee5b8194",
+                  "filename": "vol12_1\/7.kumiskucing_dody.pdf",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5718"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5719",
+                  "objectid": 811,
+                  "filesize": 95523,
+                  "datasetid": "document",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5",
+                  "hash": "828bbc400d7d573d5c8e867dde699c3a",
+                  "filename": "vol12_1\/2.keragaan_titik.pdf",
+                  "fileid": 5719,
+                  "mime_type": "application\/pdf"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5720",
+                  "datasetid": "document",
+                  "filesize": 80047,
+                  "mime_type": "application\/pdf",
+                  "fileid": 5720,
+                  "filename": "vol11_2\/no7_gnangnkdlai.pdf",
+                  "hash": "f49401f81247166a62d17d5971b716f9",
+                  "mtime": "2016-10-25 10:03:01",
+                  "hash_type": "MD5"
+                },
+                {
+                  "filename": "vol11_2\/no8_detkdlai.pdf",
+                  "hash": "7aae98b2f761764ba8129659049c79cd",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5721,
+                  "filesize": 150167,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5721",
+                  "objectid": 811
+                },
+                {
+                  "filesize": 304307,
+                  "datasetid": "document",
+                  "filename": "vol11_2\/no1_agrobakterium.pdf",
+                  "hash": "815e5b87ce0c548d4be9114e2d0d1c31",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5722,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5722",
+                  "objectid": 811
+                },
+                {
+                  "fileid": 5723,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash": "50792e4a7dc2c6cc6fc9521e1f2f2fde",
+                  "filename": "vol11_2\/no6_fosfatbwngptih.pdf",
+                  "datasetid": "document",
+                  "filesize": 203025,
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5723"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5724",
+                  "objectid": 811,
+                  "hash": "8104efa99aed819bf8e378c4f5d340fd",
+                  "filename": "vol11_2\/no3_propabaca.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5724,
+                  "filesize": 103474,
+                  "datasetid": "document"
+                },
+                {
+                  "hash": "b2f5d26c69f33a195baf28eb8aecd512",
+                  "filename": "vol11_2\/no5_amorpho.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5725,
+                  "filesize": 158454,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5725",
+                  "objectid": 811
+                },
+                {
+                  "hash": "30ae76cfc7ec33b183bee123829dea68",
+                  "filename": "vol11_2\/no2_ppkpk.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5726,
+                  "filesize": 138195,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5726",
+                  "objectid": 811
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 112917,
+                  "mime_type": "application\/pdf",
+                  "fileid": 5727,
+                  "hash": "dc4f50e982d31e2418e775a3cd5854dd",
+                  "filename": "vol11_2\/no4_krisan.pdf",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5727"
+                },
+                {
+                  "filesize": 166490,
+                  "datasetid": "document",
+                  "filename": "vol11_1\/no5_tebu.pdf",
+                  "hash": "d7e88b136bc8cd44c53d7c415ccf93a7",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5728,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5728",
+                  "objectid": 811
+                },
+                {
+                  "fileid": 5729,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "filename": "vol11_1\/no8_mahoni.pdf",
+                  "hash": "3b7b5db247279121bcab84973f077da3",
+                  "datasetid": "document",
+                  "filesize": 218490,
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5729"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5730",
+                  "datasetid": "document",
+                  "filesize": 171296,
+                  "fileid": 5730,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "hash": "de7b0f92cd606e420d5331ea3fcfafea",
+                  "filename": "vol11_1\/no7_kentang.pdf"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5731",
+                  "datasetid": "document",
+                  "filesize": 216296,
+                  "mime_type": "application\/pdf",
+                  "fileid": 5731,
+                  "hash": "9faef4ffe8714003a8cbc1e84068acbc",
+                  "filename": "vol11_1\/no4_kdlaihtm&knng.pdf",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5732",
+                  "objectid": 811,
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "hash": "5a1366087108bb9e995e691192122adc",
+                  "filename": "vol11_1\/no2_kcngtnggk.pdf",
+                  "fileid": 5732,
+                  "mime_type": "application\/pdf",
+                  "filesize": 190899,
+                  "datasetid": "document"
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 214366,
+                  "mime_type": "application\/pdf",
+                  "fileid": 5733,
+                  "filename": "vol11_1\/no6_mangga.pdf",
+                  "hash": "086995eef051d4d012555b5973baa67e",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5733"
+                },
+                {
+                  "filesize": 164062,
+                  "datasetid": "document",
+                  "filename": "vol11_1\/no3_dendrobium.pdf",
+                  "hash": "a5a19858b2a024609967a80079e46308",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5734,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5734",
+                  "objectid": 811
+                },
+                {
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "hash": "b4fab10ea5a0be4d3cbf500691eec692",
+                  "filename": "vol12_2\/2.94-102.Seleksi varietas.M.Yamini Balitpa.pdf",
+                  "fileid": 5735,
+                  "mime_type": "application\/pdf",
+                  "filesize": 71644,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5735",
+                  "objectid": 811
+                },
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash": "ae18d779c7d59f064edfdba40961465a",
+                  "filename": "vol12_2\/4.117-124.JIP.Didik & Dody-Jagung.pdf",
+                  "fileid": 5736,
+                  "mime_type": "application\/pdf",
+                  "filesize": 79983,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5736",
+                  "objectid": 811
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 189188,
+                  "fileid": 5737,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash": "b1d0a4143afd328e9d9a6e547e959008",
+                  "filename": "vol12_2\/6.140-151.Indeks Kualitas Tanah Samas-Partoyo UPN.pdf",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5737"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5738",
+                  "datasetid": "document",
+                  "filesize": 137060,
+                  "fileid": 5738,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "filename": "vol12_2\/5.125-139.UK_BALITKABI_2005.pdf",
+                  "hash": "10726edd33f5bc2a0bb91d1e8d589543"
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 110946,
+                  "mime_type": "application\/pdf",
+                  "fileid": 5739,
+                  "hash": "a24aaf1e4b8414f7b446882d60a27fa4",
+                  "filename": "vol12_2\/3.103-116.Gulma Siam-pa dodik.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5739"
+                },
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5740",
+                  "objectid": 811,
+                  "filesize": 112724,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-25 10:03:02",
+                  "filename": "vol12_2\/8.166-179.Priyono Suryanto-agroforest.pdf",
+                  "hash": "6268a90b206e4d961656c61933b6aeb8",
+                  "fileid": 5740,
+                  "mime_type": "application\/pdf"
+                },
+                {
+                  "objectid": 811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5741",
+                  "datasetid": "document",
+                  "filesize": 177879,
+                  "fileid": 5741,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "hash": "3723b332724b91dba0dfee26deff10df",
+                  "filename": "vol12_2\/1.84-93.setyoDwiUtomo-ssp hypogaea.pdf"
+                },
+                {
+                  "mtime": "2016-10-25 10:03:02",
+                  "hash_type": "MD5",
+                  "hash": "792131f40e2b97c861678a5f10e22ef9",
+                  "filename": "vol12_2\/7.152-165.Ketahanan Pangan n Produksi-Dwijono.pdf",
+                  "fileid": 5742,
+                  "mime_type": "application\/pdf",
+                  "filesize": 109173,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5742",
+                  "objectid": 811
+                }
+            ],
+            "language": "en",
+            "mime_type": "text\/html",
+            "eprintid": 920,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Fakultas Pertanian Universitas Gadjah Mada",
+      "pagerange": "1-10",
+      "datestamp": "2016-10-26 03:34:16",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "userid": 1078,
+      "lastmod": "2016-10-26 03:34:16",
+      "date_type": "published",
+      "eprintid": 920,
+      "rev_number": 11,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/agrisci.ugm.ac.id\/vol11_2.htm",
+      "title": "PENGARUH STRAIN AGROBACTERIUM TERHADAP EFISIENSI TRANSFORMASI GENETIK JAGUNG GENOTIPE HIBRIDA HiII THE EFFECT OF STRAINS OF AGROBACTERUM ON THE EFFICIENCY OF GENETIC TRANSFORMATION OF HiII MAIZE HYBRID",
+      "subjects": [
+        "SB"
+      ],
+      "abstract": "Genetic variation in development of maize cultivar can be enhanced using genetic transformation.An efficient procedure of genetic transformation ultimately can accelerate the process of cultivar development.Transgenic maize plants have been produced from Agrobacterium-mediated transformation using explants of immature embryos of A188 and HiII. HiII is a hybrid derived from A188 x B73. The objectives of this study were to evaluate the efficiency of maize transformation using strain of Agrobacterium C58C1; and compare the efficiency of transformation using three strain of Agrobacterium, i.e., C58C1, NTL4-Cry5, dan LBA4404.The evaluation was based on GUS transient expression and the proportion of transgenic plantlets.Explants of immature embryos were isolated from immature ears harvested 11-13 days after pollination.Then explants were inoculated with Agrobacterium, cultured in co-cultivation medium for 1-2 days, then in delay medium for 7-14 days, in selection medium for 4 x 14 days, in regeneration medium, and finally in germination medium. Based on assay at 2 days after inoculation, GUS transient expression at scutelar side of explants inoculated with strain NTL4-Cry5 was higher than that of inoculated with C58C1 or LBA4404.However, the results of four experiments indicated that transgenic plantlets were only produced from explants inoculated with strain C58C1, with efficiency 1,3-5,8 %.",
+      "status_changed": "2016-10-26 03:34:16",
+      "eprint_status": "archive"
+    },
+    {
+      "status_changed": "2016-10-19 01:57:37",
+      "eprint_status": "archive",
+      "subjects": [
+        "SB"
+      ],
+      "abstract": "AGROBACTERIUM-MEDIATED TRANSFORMATION OF FIVE SOYBEAN CULTIVARS.  The objective of this study was to evaluate the efficiency of Agrobacterium-mediated tranformation using explants of five cultivars of soybeans.  The study was conducted in the Plant Transformation Core Research Facility, Center of Biotechnology, University of Nebraska, Lincoln, Nebraska, USA from July – December 2003.  Experiments were arranged in randomized block designs with 5-10 replications, 4 explants within each experimental unit.  Three strains of Agrobacterium tumefaciens were used, i.e., C58C1, EHA101, and NTL4-Cry5.  Explants were cotyledonary nodes of cultivars Jaya Wijaya, Krakatau, Slamet, Tampomas, and Wilis.  Cotyledonary-node explants, prepared from germinated seeds, were inoculated with Agrobacterium, incubated in co-cultivation media for 3 days, washed, cultured in media of shoot-initiation, shoot-elongation, and rooting  for 4, 4-6, and 2 weeks respectively.  The media of shoot initiation and elongation contained herbicide glufosinate as the selecting agent.  At 31 days after inoculation, shoots were produced from explants of all five cultivars evaluated.  The proportion of explants producing shoots ranged from 31% (cultivar Jaya Wijaya) to 76% (cultivar Slamet).    Transgenic soybeans were produced from all five cultivars evaluated with efficiency ranged from 2,6% to 6,5%.  Transgenic soybeans were only produced from explants inoculated with EHA101 and NTL4-Cry5, not with C58C1.\r\nKey words\t:\tAgrobacterium, Glycine max, genetic engineering\t\tmo",
+      "title": "TRANSFORMASI GENETIK LIMA VARIETAS KEDELAI MENGGUNAKAN AGROBACTERIUM",
+      "volume": 9,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 830,
+      "date_type": "published",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-10-19 01:57:37",
+      "userid": 1078,
+      "pagerange": "95-101",
+      "datestamp": "2016-10-19 01:57:37",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 830,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/727",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5008",
+                  "objectid": 727,
+                  "mtime": "2016-10-18 19:48:24",
+                  "hash_type": "MD5",
+                  "hash": "899803b3718c2afbc85245ceef9f3a78",
+                  "filename": "jurnal agrotropika S D UTOMO.pdf",
+                  "fileid": 5008,
+                  "mime_type": "application\/pdf",
+                  "filesize": 7069287,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "jurnal agrotropika S D UTOMO.pdf",
+            "docid": 727
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/830",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "type": "article",
+      "divisions": [
+        "FP25"
+      ],
+      "publication": "Agrotropika",
+      "creators": [
+        {
+          "name": {
+            "given": "Setyo Dwi",
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null
+          },
+          "id": "setyo.dwiutomo@fp.unila.ac.id"
+        }
+      ],
+      "date": 2004,
+      "dir": "disk0\/00\/00\/08\/30"
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 829,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "language": "en",
+            "main": "265835809_Volume_IX_No2_TRANSTORMASI_GTINETIK_LIMA_VARIETAS_KEDELAT",
+            "docid": 726,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4997",
+                  "objectid": 726,
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "filename": "265835809_Volume_IX_No2_TRANSTORMASI_GTINETIK_LIMA_VARIETAS_KEDELAT",
+                  "hash": "38b33588316224e5a3e5ba730bc7c5d5",
+                  "fileid": 4997,
+                  "mime_type": "text\/html",
+                  "filesize": 132655,
+                  "datasetid": "document"
+                },
+                {
+                  "fileid": 4998,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "hash": "62f1b367148b60755e4369422b1558c2",
+                  "filename": "4712586_Preliminary_results_of_in_vitro_propagation_of_Guayule",
+                  "datasetid": "document",
+                  "filesize": 145475,
+                  "objectid": 726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4998"
+                },
+                {
+                  "objectid": 726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4999",
+                  "datasetid": "document",
+                  "filesize": 170388,
+                  "mime_type": "text\/html",
+                  "fileid": 4999,
+                  "hash": "ed46d639b2310e6c5330aac45e34241b",
+                  "filename": "265644909_Highly_efficient_callus-mediated_genetic_transformation_of_Parthenium_argentatum_Gray_an_alternate_source_of_latex_and_rubber",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40"
+                },
+                {
+                  "filesize": 155735,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "filename": "225154976_A_simplified_protocol_for_micropropagation_of_guayule_Parthenium_argentatum_gray",
+                  "hash": "c04b1d5d0a3aa04fc8f886ef2b4c1064",
+                  "fileid": 5000,
+                  "mime_type": "text\/html",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5000",
+                  "objectid": 726
+                },
+                {
+                  "mime_type": "text\/html",
+                  "fileid": 5001,
+                  "hash": "b3c7b6b44e6092b53aee80a3b78d2bd0",
+                  "filename": "7872210_Breakthrough_in_chloroplast_genetic_engineering_of_agronomically_important_crops",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "datasetid": "document",
+                  "filesize": 2439479,
+                  "objectid": 726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5001"
+                },
+                {
+                  "datasetid": "document",
+                  "filesize": 150865,
+                  "fileid": 5002,
+                  "mime_type": "text\/html",
+                  "mtime": "2016-10-18 19:42:40",
+                  "hash_type": "MD5",
+                  "filename": "307919573_Optimization_of_in_vitro_regeneration_protocol_for_a_popular_Indica_rice_Oryza_sativa_L_cv_Swarna",
+                  "hash": "d9406e19cff6ebc8d1e9b400d02be0f8",
+                  "objectid": 726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5002"
+                },
+                {
+                  "objectid": 726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5003",
+                  "datasetid": "document",
+                  "filesize": 376541,
+                  "fileid": 5003,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "hash": "f1075ba043a5af6d9d6b172c8a9d5e8b",
+                  "filename": "280207894_Investigation_of_a_possible_horizontal_gene_transfer_from_agrobacteria_to_some_representatives_of_the_Solanaceae_family"
+                },
+                {
+                  "fileid": 5004,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "filename": "index.html",
+                  "hash": "bdc9cc51ab62bdd27963dc009d1b5d90",
+                  "datasetid": "document",
+                  "filesize": 59999,
+                  "objectid": 726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5004"
+                },
+                {
+                  "mtime": "2016-10-18 19:42:40",
+                  "hash_type": "MD5",
+                  "filename": "297650459_A_simple_and_efficient_Agrobacterium_tumefaciens-mediated_plant_transformation_of_Brassica_rapa_ssp_pekinensis",
+                  "hash": "dbf44ab57197ba040a11fe761779c3f4",
+                  "fileid": 5005,
+                  "mime_type": "text\/html",
+                  "filesize": 371883,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5005",
+                  "objectid": 726
+                },
+                {
+                  "filesize": 168873,
+                  "datasetid": "document",
+                  "filename": "271331702_Agrobacterium_Nature's_Genetic_Engineer",
+                  "hash": "6531d6abb4c0ff4e87bd3e5072c489c1",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-18 19:42:40",
+                  "mime_type": "text\/html",
+                  "fileid": 5006,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5006",
+                  "objectid": 726
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/726",
+            "rev_number": 2
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/829",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-10-19 01:57:38",
+      "userid": 1078,
+      "pagerange": "95-101",
+      "datestamp": "2016-10-19 01:57:38",
+      "creators": [
+        {
+          "name": {
+            "given": "Setyo Dwi",
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "setyo.dwiutomo@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Agrotropika",
+      "date": 2004,
+      "dir": "disk0\/00\/00\/08\/29",
+      "type": "article",
+      "divisions": [
+        "FP25"
+      ],
+      "title": "TRANSTORMASI GTINETIK LIMA VARIETAS KEDELAi",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 9,
+      "status_changed": "2016-10-19 01:57:38",
+      "eprint_status": "archive",
+      "abstract": "AGROBACTERIUM-MEDIATED TRANSFORMATION OF FIVE SOYBEAN CULTIVARS.  The objective of this study was to evaluate the efficiency of Agrobacterium-mediated tranformation using explants of five cultivars of soybeans.  The study was conducted in the Plant Transformation Core Research Facility, Center of Biotechnology, University of Nebraska, Lincoln, Nebraska, USA from July – December 2003.  Experiments were arranged in randomized block designs with 5-10 replications, 4 explants within each experimental unit.  Three strains of Agrobacterium tumefaciens were used, i.e., C58C1, EHA101, and NTL4-Cry5.  Explants were cotyledonary nodes of cultivars Jaya Wijaya, Krakatau, Slamet, Tampomas, and Wilis.  Cotyledonary-node explants, prepared from germinated seeds, were inoculated with Agrobacterium, incubated in co-cultivation media for 3 days, washed, cultured in media of shoot-initiation, shoot-elongation, and rooting  for 4, 4-6, and 2 weeks respectively.  The media of shoot initiation and elongation contained herbicide glufosinate as the selecting agent.  At 31 days after inoculation, shoots were produced from explants of all five cultivars evaluated.  The proportion of explants producing shoots ranged from 31% (cultivar Jaya Wijaya) to 76% (cultivar Slamet).    Transgenic soybeans were produced from all five cultivars evaluated with efficiency ranged from 2,6% to 6,5%.  Transgenic soybeans were only produced from explants inoculated with EHA101 and NTL4-Cry5, not with C58C1.\r\nKey words\t:\tAgrobacterium, Glycine max, genetic engineering",
+      "subjects": [
+        "SB"
+      ],
+      "eprintid": 829
+    },
+    {
+      "publication": "Jurnal Agrotropika",
+      "creators": [
+        {
+          "name": {
+            "given": "Setyo Dwi",
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null
+          },
+          "id": "setyo.dwiutomo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Ragiliyani",
+            "honourific": null,
+            "given": "Ani"
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Karyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "agus.karyanto@fp.unila.ac.id"
+        }
+      ],
+      "issn": "0216-7662",
+      "date": 2004,
+      "dir": "disk0_bak\/00\/05\/08\/54",
+      "type": "article",
+      "divisions": [
+        "FP25"
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Jurnal Agrotropika",
+      "documents": [
+          {
+            "docid": 190565,
+            "main": "Agrotropika_Juni 2004.pdf",
+            "files": [
+                {
+                  "objectid": 190565,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547573",
+                  "fileid": 547573,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-30 06:14:30",
+                  "hash_type": "MD5",
+                  "filename": "Agrotropika_Juni 2004.pdf",
+                  "hash": "83cbfcd17189f0938e57ad7df1b01dd3",
+                  "datasetid": "document",
+                  "filesize": 2512317
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190565",
+            "rev_number": 1,
+            "eprintid": 50854,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50854",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-05-02 01:40:41",
+      "userid": 671,
+      "pagerange": "19-24",
+      "datestamp": "2023-05-02 01:40:41",
+      "eprintid": 50854,
+      "date_type": "published",
+      "title": "THE EFFECT OF LONGITUDINAL, SLICING OF THE EMBRYONIC AXIS AND GROWTH MEDIA ON SHOOT REGENERATION OF PEANUT IN VITRO",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JAT",
+      "volume": "IX",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "status_changed": "2023-05-02 01:40:41",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Regeneration in vitro is an essential part of gene transfer system using recombinant DNA technology.  The procedure of regeneration in vitro must be efficient. The wounding of explant can enhance the efficiency of plant genetic transformation mediated by Agrobacerium.  The objective of this study was to evaluate the effect of slicing of the tip of zygotic embryo axes and culture medium on shoot regeneration of peanut cv. Gajah and Kelinci.  A factorial experiment was conducted consisting three factors i.e. slicing the top 1\/3 of embryo axes (intact, slicing resulting 2 equal sections, and slicing the tip of axes resulting 4 sectors); culture medium (MS without and with amendment of 6 mg\/l benzyl amniopurine (BAP) and 2 mg\/l naphtalene acetic acid (NAA); and peanut cultivar (Gajah and Kelinci).  One cotyledon was remove from intact seed, then axis with one cotyledon was surface-sterilized.   Explants were the top 1\/3 of axis without leaflets. The tip of axis was sliced according to the treatments.  BAP and NAA increased the number of shoots from intact explants.  The slicing of the tip of axis and culturing on medium with BAP and NAA increased the average number of shoots of cv. Gajah but not Kelinci.  Slicing resulting 2 equal sections of explants cv. Gajah produced 6.3 shoots per embryo axis, which was higher than slicing 4 equal sectors.\r\n\r\nKey words: Arachis hypogaea, slicing, tip of embryo axis, BAP, NAA."
+    }
+]
+

@@ -1,0 +1,87 @@
+[
+    {
+      "rev_number": 9,
+      "volume": 17,
+      "metadata_visibility": "show",
+      "title": "Pengembangan Sistem ERP HRD PT. Queen Network Nusantara Menggunakan Framework React",
+      "status_changed": "2023-04-06 07:24:49",
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2439",
+          "type": "pub"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/97\/64",
+      "publication": "Pengembangan Sistem ERP HRD PT. Queen Network Nusantara Menggunakan Framework React",
+      "issn": "2549-3442",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Resty",
+            "lineage": null,
+            "given": "Annisa"
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        }
+      ],
+      "contact_email": "resty.annisa@eng.unila.ac.id",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49764",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189404",
+            "main": "Jurnal 1_Electrician-1-23.pdf",
+            "docid": 189404,
+            "files": [
+                {
+                  "fileid": 539127,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-06 05:33:31",
+                  "filename": "Jurnal 1_Electrician-1-23.pdf",
+                  "hash": "abe1d2f0a26728647d493903bd21fef1",
+                  "datasetid": "document",
+                  "filesize": 477397,
+                  "objectid": 189404,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539127"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49764,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pagerange": "120-127",
+      "userid": 2822,
+      "date_type": "published",
+      "eprintid": 49764,
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2439",
+      "subjects": [
+        "T1",
+        "TK",
+        "ZA4050",
+        "ZA4450"
+      ],
+      "abstract": "Di era industri 4.0 saat ini tentu sudah tidak asing lagi dengan hal yang berhubungan dengan \r\nteknologi informasi. Teknologi web saat ini banyak sekali digunakan, terutama untuk memudahkan pekerjaan\r\nsuatu instansi atau perusahaan. PT. Queen Network Nusantara membutuhkan suatu sistem yang dapat\r\nmengintegrasikan dan melakukan pemantauan terhadap seluruh sumber daya perusahaan. Sistem yang dapat\r\nmemenuhi kebutuhan perusahaan ini adalah sistem ERP (Enterprise Resource Planning). PT. Queen Network\r\nNusantara membutuhkan sistem ERP yang dapat mengelola data pegawai. Membangun Website sistem ERP\r\nHRD yang digunakan untuk mengelola data pegawai. Pengembangan sistem menggunakan metode Extreme\r\nProgramming dengan gambaran sistem ERP HRD QNN dan Absensi ERP HRD QNN berbasis website dengan\r\nsalah satu fiturnya adalah mengawasi kehadiran pegawai dan absensi online pegawai. Pengujian sistem ERP\r\nHRD QNN dilakukan menggunakan metode Sistem Usability Scale (SUS) dengan skor 76 dan dapat\r\ndikategorikan Acceptable dan pengujian fungsional menggunakan metode Black Box Testing dengan\r\nmenghasilkan bahwa sistemberjalan dengan baik. Sistem yang dikembangkan ini diharapkan mampu\r\nmengotomatisasi banyak proses SDM dan membuat pengelolaan karyawan menjadi lebih efisien dan\r\nmembantu organisasi melacak kinerja karyawan. \r\nKata kunci — Teknologi Informasi, Enterprise Resource Planning, React",
+      "eprint_status": "archive",
+      "date": "2023-01-31",
+      "id_number": "https:\/\/doi.org\/10.23960\/elc.v17n1.2439",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "article",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Jurusan Teknik Elektro Fakultas Teknik Universitas Lampung",
+      "datestamp": "2023-04-06 07:24:49",
+      "lastmod": "2023-04-06 07:24:49"
+    }
+]
+

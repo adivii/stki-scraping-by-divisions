@@ -1,0 +1,849 @@
+[
+    {
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "date": "2023-04",
+      "dir": "disk0_bak\/00\/05\/00\/49",
+      "creators": [
+        {
+          "id": "rahma.anisa@eng.unila.ac.id",
+          "name": {
+            "given": "Rahma",
+            "honourific": null,
+            "family": "Anisa",
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2023-04-10 07:10:52",
+      "userid": 18876,
+      "lastmod": "2023-04-10 07:10:52",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50049",
+      "ispublished": "pub",
+      "publisher": "Department Geofisika, Universitas Hasanuddin",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50049,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filename": "LEMBAR HASIL PENILAIAN GABUNGAN.pdf",
+                  "hash": "a8eed8a4d04cb3ff10e7ca1707bf4c20",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-10 05:18:12",
+                  "mime_type": "application\/pdf",
+                  "fileid": 541427,
+                  "filesize": 932058,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541427",
+                  "objectid": 189745
+                }
+            ],
+            "main": "LEMBAR HASIL PENILAIAN GABUNGAN.pdf",
+            "docid": 189745,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189745",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 50049,
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Pasaran Island is a small island connected to the mainland island of Sumatra and located in Bandar Lampung. Pasaran Island is one of the supports for the economy in Bandar Lampung. This is in line with the 2011-2030 RTRW of Bandar Lampung as a strategic minapolitan area (Pasaran and Lempasing) in driving the regional economy and utilizing appropriate technology. Pasaran Island is dominated by fishing villages and seafood processing centers in Lampung. With a population of ± 1,233 people in an area of ± 12 Ha, Pasaran Island has the potential for continued development. A study of the density of Built-up Land on Pasaran Island needs to be carried out so that it can become important information and data in managing the development of Pasaran Island in the future. Remote sensing technology using UAV was carried out to retrieve accurate and precise large-scale mapping information that allows the level of detail of Built-up Land to be mapped according to the original conditions in the field. In this study, the data used to extract Built-up Land was orthophoto which was produced through visual interpretation methods, and to determine the level of density and efficiency of Built-up Land conditions the digitization method and spatial analysis was by calculating the area of Built-up Land and calculating the percentage of Built-up Land density in Pasaran Island. The results of this study consisted of two maps, namely a map of the classification of Built-up and Non-Built-up Land and a map of Built-up Land types. The percentage of Built-up Land density was obtained from the calculation of the area of Built-up Land classes divided by the area of Pasaran Island, which resulted in a built-up density of 87.15% consisting of building classes, open land, public facilities and road networks. As for the results of the non-built density was 12.84%, which consisted of a vegetation class where the vegetation is in the tree-shaped form, the population density and building density of Pasaran Island are low density.\r\n \r\nKeywords: Pasaran Island; Built-up Land; UAV; Orthophoto.",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-10 07:10:52",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Review A STUDY OF THE DENSITY OF BUILT-UP LAND BASED ON AERIAL PHOTOGRAPHS IN PASARAN ISLAND, BANDAR LAMPUNG"
+    },
+    {
+      "rev_number": 5,
+      "metadata_visibility": "show",
+      "title": "Review KAJIAN AKURASI GEOMETRI ORTHOPHOTO DARI AKUISISI DATA\r\nPESAWAT TANPA AWAK",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Jalan merupakan infrastruktur yang penting dalam menunjang kemajuan suatu wilayah. Survey kondisi jalan merupakan salah satu aspek kegiatan dalam pemeliharaan jalan tujuannya agar jalan dapat terpelihara dan terawasi. Kegiatan\r\nsurvey kondisi jalan dapat memanfaatkan teknologi fotogrametri menggunakan wahana tanpa awak dengan kamera non metrik karena dapat menyediakan data detail\/situasi jalan dan cukup efektif dalam menunjang pekerjaan survey kondisi\r\njalan. Detail\/situasi jalan dapat diidentifikasi berdasarkan orthophoto yang dihasilkan melalui pengolahan data foto dari kegiatan pemotretan udara. Penelitian\r\nini bertujuan untuk mengetahui ketelitian geometri orthophoto. Data yang digunakan dalam pengujian menggunakan hasil pengolahan foto udara berupa orthophoto. Metode yang digunakan dalam menguji akurasi geometrik orthophoto\r\nmerujuk pada Peraturan Kepala Badan Informasi Geospasial No 8 tahun 2018. Hasil uji akurasi geometri horizontal (CE90) sebesar 0,018 (RMSE 0,012) dan vertikal (LE90) sebesar 0,026m (RMSE 0,016). Sehingga dinyatakan orthophoto ini memiliki ketelitian horizontal sebesar 0,018meter dan ketelitian vertikal sebesar 0,026m. Kelas ketelitian horizontal orthophoto adalah kelas 1 dan kelas ketelitian\r\nvertikal orthophoto ini adalah kelas 1.\r\n\r\nKata Kunci: uji ketelitian; horizontal; vertikal; orthophoto",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-10 07:11:15",
+      "succeeds": 50064,
+      "date_type": "published",
+      "eprintid": 50065,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50065",
+      "ispublished": "pub",
+      "publisher": "syntax literate",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189762",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 772552,
+                  "fileid": 541531,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-10 06:08:50",
+                  "hash_type": "MD5",
+                  "hash": "e0bb21aee3cabed2ae783f58c4e33570",
+                  "filename": "LEMBAR HASIL PENILAIAN GABUNGAN (1).pdf",
+                  "objectid": 189762,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541531"
+                }
+            ],
+            "main": "LEMBAR HASIL PENILAIAN GABUNGAN (1).pdf",
+            "docid": 189762,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 50065
+          }
+      ],
+      "datestamp": "2023-04-10 07:11:15",
+      "userid": 18876,
+      "lastmod": "2023-04-10 07:11:15",
+      "dir": "disk0_bak\/00\/05\/00\/65",
+      "date": "2023-04",
+      "creators": [
+        {
+          "id": "rahma.anisa@eng.unila.ac.id",
+          "name": {
+            "given": "Rahma",
+            "lineage": null,
+            "family": "Anisa",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Rahma",
+            "lineage": null,
+            "family": "Anisa",
+            "honourific": null
+          },
+          "id": "rahma.anisa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Citra",
+            "family": "Dewi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "id": "suyadi.1974@eng.unila.ac.id",
+          "name": {
+            "family": "Suyadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suyadi"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/96\/78",
+      "date": "2023-04",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "ispublished": "pub",
+      "publisher": "Jurnal Geocelebes",
+      "documents": [
+          {
+            "main": "Korespondensi rahma anisa.pdf",
+            "docid": 189318,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538465",
+                  "objectid": 189318,
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-05 06:25:33",
+                  "hash": "f1a4204fc6cad9be7aa978e6fecda57c",
+                  "filename": "Korespondensi rahma anisa.pdf",
+                  "fileid": 538465,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1389065,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189318",
+            "eprintid": 49678,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49678",
+      "full_text_status": "public",
+      "lastmod": "2023-04-05 07:16:27",
+      "userid": 18876,
+      "datestamp": "2023-04-05 07:16:27",
+      "eprintid": 49678,
+      "date_type": "published",
+      "title": "A STUDY OF THE DENSITY OF BUILT-UP LAND BASED ON \r\nAERIAL PHOTOGRAPHS IN PASARAN ISLAND, BANDAR\r\nLAMPUNG",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2023-04-05 07:16:27",
+      "eprint_status": "archive",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Abstract \r\nPasaran Island is a small island connected to the mainland island of Sumatra and located in Bandar\r\nLampung. Pasaran Island is one of the supports for the economy in Bandar Lampung. This is in line\r\nwith the 2011-2030 RTRW of Bandar Lampung as a strategic minapolitan area (Pasaran and\r\nLempasing) in driving the regional economy and utilizing appropriate technology. Pasaran Island is\r\ndominated by fishing villages and seafood processing centers in Lampung. With a population of ± 1,233\r\npeople in an area of ± 12 Ha, Pasaran Island has the potential for continued development. A study of\r\nthe density of Built-up Land on Pasaran Island needs to be carried out so that it can become important\r\ninformation and data in managing the development of Pasaran Island in the future. Remote sensing\r\ntechnology using UAV was carried out to retrieve accurate and precise large-scale mapping information\r\nthat allows the level of detail of Built-up Land to be mapped according to the original conditions in the\r\nfield. In this study, the data used to extract Built-up Land was orthophoto which was produced through\r\nvisual interpretation methods, and to determine the level of density and efficiency of Built-up Land\r\nconditions the digitization method and spatial analysis was by calculating the area of Built-up Land and\r\ncalculating the percentage of Built-up Land density in Pasaran Island. The results of this study consisted\r\nof two maps, namely a map of the classification of Built-up and Non-Built-up Land and a map of Builtup\r\nLand\r\ntypes.\r\nThe\r\npercentage\r\nof\r\nBuilt-up\r\nLand\r\ndensity\r\nwas\r\nobtained\r\nfrom\r\nthe\r\ncalculation\r\nof\r\nthe\r\narea\r\n\r\nof\r\nBuilt-up\r\nLand\r\nclasses\r\ndivided\r\nby\r\nthe\r\narea\r\nof\r\n\r\nPasaran Island, which resulted in a built-up density of\r\n87.15% consisting of building classes, open land, public facilities and road networks. As for the results\r\nof the non-built density was 12.84%, which consisted of a vegetation class where the vegetation is in\r\nthe tree-shaped form, the population density and building density of Pasaran Island are low density.\r\n \r\nKeywords: Pasaran Island; Built-up Land; UAV; Orthophoto."
+    },
+    {
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/05\/09\/42",
+      "date": "2023-04",
+      "creators": [
+        {
+          "id": "rahma.anisa@eng.unila.ac.id",
+          "name": {
+            "given": "Rahma",
+            "lineage": null,
+            "family": "Anisa",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suyadi",
+            "honourific": null,
+            "given": "Suyadi"
+          },
+          "id": "suyadi.1974@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2579–5546",
+      "publication": "JURNAL GEOCELEBES",
+      "pagerange": "53-63",
+      "datestamp": "2023-05-02 07:35:48",
+      "userid": 18876,
+      "lastmod": "2023-05-02 07:35:48",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50942",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50942,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190656",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 1188667,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-02 06:54:33",
+                  "filename": "23196-Article Text-85676-1-10-20230428.pdf",
+                  "hash": "bae701365e0f2ff6c4f2f44a880b3514",
+                  "fileid": 548220,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548220",
+                  "objectid": 190656
+                }
+            ],
+            "docid": 190656,
+            "main": "23196-Article Text-85676-1-10-20230428.pdf"
+          }
+      ],
+      "publisher": "Department Geofisika, Universitas Hasanuddin",
+      "ispublished": "pub",
+      "number": 1,
+      "date_type": "published",
+      "eprintid": 50942,
+      "abstract": "Pasaran Island is a small island connected to the mainland island of Sumatra and located in Bandar Lampung. Pasaran Island is one of the supports for the economy in Bandar Lampung. This is in line with the 2011-2030 RTRW of Bandar Lampung as a strategic minapolitan area (Pasaran and Lempasing) in driving the regional economy and utilizing appropriate technology. Pasaran Island is dominated by fishing villages and seafood processing centers in Lampung. With a population of ± 1,233 people in an area of ± 12 Ha, Pasaran Island has the potential for continued development. A study of the density of Built-up Land on Pasaran Island needs to be carried out so that it can become important information and data in managing the development of Pasaran Island in the future. Remote sensing technology using UAV was carried out to retrieve accurate and precise large-scale mapping information that allows the level of detail of Built-up Land to be mapped according to the original conditions in the field. In this study, the data used to extract Built-up Land was orthophoto which was produced through visual interpretation methods, and to determine the level of density and efficiency of Built-up Land conditions the digitization method and spatial analysis was by calculating the area of Built-up Land and calculating the percentage of Built-up Land density in Pasaran Island. The results of this study consisted of two maps, namely a map of the classification of Built-up and Non-Built-up Land and a map of Built-up Land types. The percentage of Built-up Land density was obtained from the calculation of the area of Built-up Land classes divided by the area of Pasaran Island, which resulted in a built-up density of 87.15% consisting of building classes, open land, public facilities and road networks. As for the results of the non-built density was 12.84%, which consisted of a vegetation class where the vegetation is in the tree-shaped form, the population density and building density of Pasaran Island are low density.\r\n \r\nKeywords: Pasaran Island; Built-up Land; UAV; Orthophoto.",
+      "subjects": [
+        "TA",
+        "TR"
+      ],
+      "succeeds": 49667,
+      "status_changed": "2023-05-02 07:35:48",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 7,
+      "title": "A STUDY OF THE DENSITY OF BUILT-UP LAND BASED ON AERIAL PHOTOGRAPHS IN PASARAN ISLAND, BANDAR LAMPUNG"
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 49815,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 189454,
+            "main": "SEJAWAT SEBIDANG atau PEER REVIEW (7).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 981814,
+                  "fileid": 539527,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-06 21:05:10",
+                  "hash_type": "MD5",
+                  "hash": "bd667e072ceced11c81e42aa4871f182",
+                  "filename": "SEJAWAT SEBIDANG atau PEER REVIEW (7).pdf",
+                  "objectid": 189454,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539527"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189454",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Departement of Geophysics, Faculty of Mathematics and Natural Sciences, Hasanuddin University",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49815",
+      "lastmod": "2023-04-08 13:24:00",
+      "userid": 240,
+      "datestamp": "2023-04-08 13:24:00",
+      "creators": [
+        {
+          "name": {
+            "given": "Romi",
+            "family": "Fadly",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "date": "2023-04-01",
+      "dir": "disk0_bak\/00\/04\/98\/15",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/49665\/1\/Study%20Of%20Coastline%20Shifts.pdf",
+      "title": "Review jurnal: Study of Coastline Shifts on the West Coast of Lampung Using Remote Sensing Data. Jurnal Geocelebes",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "place_of_pub": "http:\/\/repository.lppm.unila.ac.id\/49665\/1\/Study%20Of%20Coastline%20Shifts.pdf",
+      "eprint_status": "archive",
+      "status_changed": "2023-04-08 13:24:00",
+      "subjects": [
+        "GE",
+        "Q1",
+        "TC"
+      ],
+      "abstract": "Abstract This study specifically aims to identify coastal abrasion as seen from the coastline shift, from 1989 to 2020 in Pesisir Utara Sub-district and Lemong Sub-district, Pesisir Barat Regency, Lampung Province, by interpreting remote sensing data. The data used are Landsat satellite imagery for 1989, 2000, 2006, and 2020. Landsat satellite imagery are corrected by radiometric and geometric correction. The geometric correction is registered to Landsat imagery in 1989. The corrected satellite imagery is digitized for the coastline. The results of the digitized coastline were then overlaid, then the coastline shift was calculated from 1989 to 2020. The coastline shift calculation was carried out at 16 locations in Pesisir Utara Sub-district and Lemong Sub-district. The results of calculations at 16 sample locations show that there has been a shift in the coastline due to coastal abrasion from 1989 to 2020 of 2.0 m\/yr. For areas where the coastal conditions are rocky and there are shallow rocks in front of it, the coastline shift is only small, such as in the cape area before Walur Village. This coastline shift was also evidenced by direct checking of the area and asking local residents, the results showed that the overall shift of the coastline was caused by coastal abrasion. Keywords: coastal; landsat; geometric correction; abrasion.",
+      "eprintid": 49815,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 49673,
+      "subjects": [
+        "TC"
+      ],
+      "abstract": "Abstract \r\nThis study specifically aims to identify coastal abrasion as seen from the coastline shift, from 1989 to\r\n2020 in Pesisir Utara Sub-district and Lemong Sub-district, Pesisir Barat Regency, Lampung\r\nProvince, by interpreting remote sensing data. The data used are Landsat satellite imagery for 1989,\r\n2000, 2006, and 2020. Landsat satellite imagery are corrected by radiometric and geometric\r\ncorrection. The geometric correction is registered to Landsat imagery in 1989. The corrected satellite\r\nimagery is digitized for the coastline. The results of the digitized coastline were then overlaid, then\r\nthe coastline shift was calculated from 1989 to 2020. The coastline shift calculation was carried out at\r\n16 locations in Pesisir Utara Sub-district and Lemong Sub-district. The results of calculations at 16\r\nsample locations show that there has been a shift in the coastline due to coastal abrasion from 1989 to\r\n2020 of 2.0 m\/yr. For areas where the coastal conditions are rocky and there are shallow rocks in front\r\nof it, the coastline shift is only small, such as in the cape area before Walur Village. This coastline\r\nshift was also evidenced by direct checking of the area and asking local residents, the results showed\r\nthat the overall shift of the coastline was caused by coastal abrasion. \r\nKeywords: coastal; landsat; geometric correction; abrasion.",
+      "status_changed": "2023-04-05 07:16:07",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Study of Coastline Shifts on the West Coast of Lampung \r\nUsing Remote Sensing Data",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/04\/96\/73",
+      "date": "2023-04",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null,
+            "given": "Romi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Dewi",
+            "given": "Citra"
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "id": "fajriyanto.fajroyanto@eng.unila.ac.id",
+          "name": {
+            "given": "Fajriyanto",
+            "honourific": null,
+            "family": "Fajriyanto",
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2023-04-05 07:16:07",
+      "userid": 240,
+      "lastmod": "2023-04-05 07:16:07",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49673",
+      "ispublished": "pub",
+      "publisher": "Jurnal Geocelebes",
+      "documents": [
+          {
+            "docid": 189313,
+            "main": "Korespondensi_Jurnal Geocelebes.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 933252,
+                  "mime_type": "application\/pdf",
+                  "fileid": 538427,
+                  "hash": "639afb04508ee5777f1396386b90952a",
+                  "filename": "Korespondensi_Jurnal Geocelebes.pdf",
+                  "mtime": "2023-04-05 06:05:26",
+                  "hash_type": "MD5",
+                  "objectid": 189313,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538427"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189313",
+            "rev_number": 1,
+            "eprintid": 49673,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "status_changed": "2023-04-27 06:15:30",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.unhas.ac.id\/index.php\/geocelebes\/article\/view\/23183",
+          "type": "pub"
+        }
+      ],
+      "rev_number": 14,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "title": "Study of Coastline Shifts on the West Coast of Lampung \r\nUsing Remote Sensing Data",
+      "pagerange": "44-52",
+      "userid": 240,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50781",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "main": "23183-Article Text-85645-1-10-20230427_g.pdf",
+            "docid": 190490,
+            "files": [
+                {
+                  "filesize": 881524,
+                  "datasetid": "document",
+                  "hash": "4b0216c58ca8209a98213db8f310eccd",
+                  "filename": "23183-Article Text-85645-1-10-20230427_g.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-27 03:56:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 547054,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547054",
+                  "objectid": 190490
+                }
+            ],
+            "pos": 3,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190490",
+            "eprintid": 50781,
+            "placement": 3,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published"
+          }
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/81",
+      "publication": "Jurnal Geocelebes",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null,
+            "given": "Romi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null,
+            "given": "Citra"
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Fajriyanto",
+            "lineage": null,
+            "family": "Fajriyanto",
+            "honourific": null
+          },
+          "id": "fajriyanto.fajroyanto@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2579-5546",
+      "subjects": [
+        "GE",
+        "Q1",
+        "TC"
+      ],
+      "abstract": "Abstract \r\nThis study specifically aims to identify coastal abrasion as seen from the coastline shift, from 1989 to\r\n2020 in Pesisir Utara Sub-district and Lemong Sub-district, Pesisir Barat Regency, Lampung\r\nProvince, by interpreting remote sensing data. The data used are Landsat satellite imagery for 1989,\r\n2000, 2006, and 2020. Landsat satellite imagery are corrected by radiometric and geometric\r\ncorrection. The geometric correction is registered to Landsat imagery in 1989. The corrected satellite\r\nimagery is digitized for the coastline. The results of the digitized coastline were then overlaid, then\r\nthe coastline shift was calculated from 1989 to 2020. The coastline shift calculation was carried out at\r\n16 locations in Pesisir Utara Sub-district and Lemong Sub-district. The results of calculations at 16\r\nsample locations show that there has been a shift in the coastline due to coastal abrasion from 1989 to\r\n2020 of 2.0 m\/yr. For areas where the coastal conditions are rocky and there are shallow rocks in front\r\nof it, the coastline shift is only small, such as in the cape area before Walur Village. This coastline\r\nshift was also evidenced by direct checking of the area and asking local residents, the results showed\r\nthat the overall shift of the coastline was caused by coastal abrasion. \r\nKeywords: coastal; landsat; geometric correction; abrasion.",
+      "eprint_status": "archive",
+      "succeeds": 49665,
+      "official_url": "https:\/\/journal.unhas.ac.id\/index.php\/geocelebes\/article\/view\/23183",
+      "date_type": "published",
+      "eprintid": 50781,
+      "datestamp": "2023-04-27 06:15:30",
+      "lastmod": "2023-04-27 06:15:30",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Departement of Geophysics, Faculty of Mathematics and Natural Sciences, Hasanuddin University, Makassar, Indonesia",
+      "divisions": [
+        "FT11"
+      ],
+      "type": "article",
+      "date": "2023-04-27",
+      "id_number": "https:\/\/doi.org\/10.20956\/geocelebes.v7i1.23183"
+    },
+    {
+      "eprintid": 48681,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-01 07:45:45",
+      "subjects": [
+        "G1"
+      ],
+      "abstract": "Abstrak: Perkembangan perekonomian di Kota Metro yang didominasi bidang industri, jasa dan pertanian berbanding\r\nlurus dengan peningkatan kebutuhan akan lahan. Pemenuhan kebutuhan akan lahan yang berimplikasi dengan kondisi\r\nekonomi pada tingkat kabupaten\/kota membutuhkan penggunaan lahan yang selaras dengan acuan yang ada agar\r\nmencapai tujuan pembangunan. Penelitian ini dilakukan dengan mengolah data citra landsat 8 menggunakan metode\r\nklasifikasi terbimbing dan pengujian hasil klasifikasi dengan menggunakan matriks konfusi. Proses analisis kesesuaian penggunaan lahan terhadap pola ruang dilakukan dengan menggunakan teknik overlay. Hasil penelitian menunjukkan kelas penggunaan lahan terdapat 4 kelas yaitu pemukiman, pertanian, tanah terbuka dan tubuh air. Luas penggunaan lahan yang sesuai dengan pola ruang sebesar 5416,75 Ha, sedangkan luas penggunaan lahan yang tidak sesuai sebesar 1457,25 Ha.",
+      "official_url": "https:\/\/iptek.its.ac.id\/index.php\/geoid\/article\/view\/15568",
+      "title": "Kesesuaian Penggunaan Lahan di Kota Metro Terhadap Pola Ruang",
+      "rev_number": 6,
+      "volume": 18,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FT11"
+      ],
+      "publication": "Geoid Journal of Geodesy and Geomatics",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null,
+            "given": "Eko"
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null,
+            "given": "Citra"
+          },
+          "id": "citra.dewi@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Anisa",
+            "honourific": null,
+            "given": "Rahma"
+          },
+          "id": "rahma.anisa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fajriyanto",
+            "family": "Fajriyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fajriyanto.fajriyanto@eng.unila.ac.id"
+        }
+      ],
+      "issn": "1858-2281",
+      "dir": "disk0_bak\/00\/04\/86\/81",
+      "date": "2023-02",
+      "lastmod": "2023-03-01 07:45:45",
+      "userid": 100,
+      "pagerange": "237-242",
+      "datestamp": "2023-03-01 07:45:45",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Department of Geomatics Engineering - ITS",
+      "documents": [
+          {
+            "eprintid": 48681,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "15568-38529-1-PB (1).pdf",
+            "docid": 188039,
+            "files": [
+                {
+                  "fileid": 530564,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-01 04:49:05",
+                  "hash": "63a57d6b4e14c18c94a0ac562e3c9f89",
+                  "filename": "15568-38529-1-PB (1).pdf",
+                  "datasetid": "document",
+                  "filesize": 609610,
+                  "objectid": 188039,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530564"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188039"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48681",
+      "refereed": "TRUE"
+    },
+    {
+      "eprintid": 48835,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-07 07:08:26",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Perkembangan perekonomian di Kota Metro yang didominasi bidang industri, jasa dan pertanian berbanding\r\nlurus dengan peningkatan kebutuhan akan lahan. Pemenuhan kebutuhan akan lahan yang berimplikasi dengan kondisi\r\nekonomi pada tingkat kabupaten\/kota membutuhkan penggunaan lahan yang selaras dengan acuan yang ada agar\r\nmencapai tujuan pembangunan. Penelitian ini dilakukan dengan mengolah data citra landsat 8 menggunakan metode\r\nklasifikasi terbimbing dan pengujian hasil klasifikasi dengan menggunakan matriks konfusi. Proses analisis kesesuaian\r\npenggunaan lahan terhadap pola ruang dilakukan dengan menggunakan teknik overlay. Hasil penelitian menunjukkan\r\nkelas penggunaan lahan terdapat 4 kelas yaitu pemukiman, pertanian, tanah terbuka dan tubuh air. Luas penggunaan\r\nlahan yang sesuai dengan pola ruang sebesar 5416,75 Ha, sedangkan luas penggunaan lahan yang tidak sesuai sebesar\r\n1457,25 Ha",
+      "title": "Kesesuaian Penggunaan Lahan di Kota Metro Terhadap Pola Ruang",
+      "official_url": "https:\/\/iptek.its.ac.id\/index.php\/geoid\/article\/view\/15568\/7337",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "Geoid Journal of Geodesy and Geomatics",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmadi"
+          }
+        },
+        {
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dewi"
+          },
+          "id": "citra.dewi@eng.unila.ac.id"
+        },
+        {
+          "id": "rahma.anisa@eng.unila.ac.id",
+          "name": {
+            "given": "Rahma",
+            "lineage": null,
+            "honourific": null,
+            "family": "Anisa"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fajriyanto",
+            "honourific": null,
+            "given": "Fajriyanto"
+          },
+          "id": "fajriyanto.fajroyanto@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/35",
+      "date": "2023-02",
+      "lastmod": "2023-03-07 07:08:26",
+      "userid": 100,
+      "datestamp": "2023-03-07 07:08:26",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 48835,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 188276,
+            "main": "Kesesuaian Penggunaan Lahan.pdf",
+            "files": [
+                {
+                  "mtime": "2023-03-07 05:18:26",
+                  "hash_type": "MD5",
+                  "hash": "ab5fe9165842e157b4355060b4023beb",
+                  "filename": "Kesesuaian Penggunaan Lahan.pdf",
+                  "fileid": 531795,
+                  "mime_type": "application\/pdf",
+                  "filesize": 820045,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531795",
+                  "objectid": 188276
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188276"
+          }
+      ],
+      "publisher": "Department of Geomatics Engineering - ITS",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48835",
+      "full_text_status": "public"
+    },
+    {
+      "lastmod": "2023-03-01 07:46:02",
+      "userid": 100,
+      "datestamp": "2023-03-01 07:46:02",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 48688,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "korespondensi.pdf",
+            "docid": 188059,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530660",
+                  "objectid": 188059,
+                  "filename": "korespondensi.pdf",
+                  "hash": "f36b36c160a4809ed01b1ba3b0be380a",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-01 05:18:01",
+                  "mime_type": "application\/pdf",
+                  "fileid": 530660,
+                  "filesize": 324217,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188059"
+          }
+      ],
+      "publisher": "Department of Geomatics Engineering - ITS",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48688",
+      "type": "other",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        },
+        {
+          "id": "citra.dewi@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "dewi",
+            "honourific": null,
+            "given": "citra"
+          }
+        },
+        {
+          "name": {
+            "given": "Rahma",
+            "family": "Anisa",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rahma.anisa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fajriyanto",
+            "honourific": null,
+            "family": "Fajriyanto",
+            "lineage": null
+          },
+          "id": "fajriyanto.fajroyanto@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/86\/88",
+      "date": "2023-02",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-01 07:46:02",
+      "subjects": [
+        "G1"
+      ],
+      "abstract": "Abstrak: Perkembangan perekonomian di Kota Metro yang didominasi bidang industri, jasa dan pertanian berbanding\r\nlurus dengan peningkatan kebutuhan akan lahan. Pemenuhan kebutuhan akan lahan yang berimplikasi dengan kondisi\r\nekonomi pada tingkat kabupaten\/kota membutuhkan penggunaan lahan yang selaras dengan acuan yang ada agar\r\nmencapai tujuan pembangunan. Penelitian ini dilakukan dengan mengolah data citra landsat 8 menggunakan metode\r\nklasifikasi terbimbing dan pengujian hasil klasifikasi dengan menggunakan matriks konfusi. Proses analisis kesesuaian\r\npenggunaan lahan terhadap pola ruang dilakukan dengan menggunakan teknik overlay. Hasil penelitian menunjukkan\r\nkelas penggunaan lahan terdapat 4 kelas yaitu pemukiman, pertanian, tanah terbuka dan tubuh air. Luas penggunaan\r\nlahan yang sesuai dengan pola ruang sebesar 5416,75 Ha, sedangkan luas penggunaan lahan yang tidak sesuai sebesar\r\n1457,25 Ha.",
+      "title": "Kesesuaian Penggunaan Lahan di Kota Metro Terhadap Pola Ruang",
+      "official_url": "https:\/\/iptek.its.ac.id\/index.php\/geoid\/article\/view\/15568",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "Geoid Journal of Geodesy and Geomatics",
+      "eprintid": 48688,
+      "date_type": "published"
+    }
+]
+

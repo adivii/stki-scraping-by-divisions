@@ -1,0 +1,1270 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null,
+            "given": "Agus"
+          },
+          "id": "agus.haryanto@fp.unila.ac.id"
+        },
+        {
+          "id": "sugeng.triyono@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Triyono",
+            "lineage": null,
+            "given": "Sugeng"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Telaumbanua",
+            "honourific": null,
+            "given": "Mareli"
+          },
+          "id": "mareli.telaumbanua@fp.unila.ac.id"
+        }
+      ],
+      "date": "2020-10",
+      "dir": "disk0_bak\/00\/04\/94\/60",
+      "type": "conference_item",
+      "divisions": [
+        "FT3"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "artikel",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189023",
+            "main": "martinus+prosiding-2020-DEVELOPMENT OF TEAK LEAF PLATE MOLDING MACHINE.pdf",
+            "docid": 189023,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536598",
+                  "objectid": 189023,
+                  "filesize": 202430,
+                  "datasetid": "document",
+                  "filename": "martinus+prosiding-2020-DEVELOPMENT OF TEAK LEAF PLATE MOLDING MACHINE.pdf",
+                  "hash": "09b5084304fbcfd7c97720382355d5ec",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 16:42:45",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536598
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 49460,
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "other",
+            "eprintid": 49460,
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "korespondensi M1",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189024",
+            "docid": 189024,
+            "main": "martinus-korespondensi-DEVELOPMENT OF TEAK LEAF PLATE MOLDING MACHINE.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536600",
+                  "objectid": 189024,
+                  "filesize": 108447,
+                  "datasetid": "document",
+                  "filename": "martinus-korespondensi-DEVELOPMENT OF TEAK LEAF PLATE MOLDING MACHINE.pdf",
+                  "hash": "59885fe3d98deed4f8ad0f7c28849b5a",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 16:42:52",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536600
+                }
+            ]
+          },
+          {
+            "placement": 3,
+            "security": "public",
+            "eprintid": 49460,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "fe62c1c0d6925b282818c9709421a051",
+                  "filename": "martinus+prosiding-2020-DEVELOPMENT OF TEAK LEAF PLATE MOLDING MACHINE.pdf.pdf",
+                  "mtime": "2023-03-30 16:43:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536602,
+                  "filesize": 238952,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536602",
+                  "objectid": 189025
+                }
+            ],
+            "main": "martinus+prosiding-2020-DEVELOPMENT OF TEAK LEAF PLATE MOLDING MACHINE.pdf.pdf",
+            "docid": 189025,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189025",
+            "rev_number": 2,
+            "formatdesc": "similiarity",
+            "pos": 3,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49460",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-03-31 00:49:00",
+      "userid": 217,
+      "datestamp": "2023-03-31 00:49:00",
+      "event_location": "Ukrine",
+      "event_title": "Environmental Innovations: Advances in Engineering, Technology and Management, EIAETM, 21st-27th September, 2020",
+      "eprintid": 49460,
+      "date_type": "published",
+      "event_dates": "21-27 September 2020",
+      "official_url": "http:\/\/www.procedia-esem.eu\/2021_vol8_no1.htm",
+      "title": "Development of Teak Leaf Plate Molding Machine for Producing Plastic Alternative Products",
+      "event_type": "conference",
+      "rev_number": 19,
+      "metadata_visibility": "show",
+      "status_changed": "2023-03-31 00:49:00",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1",
+        "TD",
+        "TJ"
+      ],
+      "abstract": "Single use plastic is one of the biggest problems in the world right now. It is the main source of non�degradable material in the world. The usage of plastic and plastic derivatives in Indonesia most times cannot be avoided as long as no alternatives products are available. Only a small portion of the plastic is recycled, the rest end up in the land and in the ocean. Plastic need hundreds of year to decompose and some even can’t decompose like expanded polystyrene. A new machine is in need for in producing an alternative product for plastic. This machine is designed, developed and fabricated in Indonesia. PID control system is used to control both upper and lower die. Set points for both die can be set individually. The temperature of upper and lower die varies by different leaves and how many layer of leaves. The leaf plates made by the machine then tested along with plastic plates, expanded polystyrene plates and plastic laminated paper plates. The result of this test will conclude how good the leaf plates as an alternative for other disposable plates. Teak leaf plate molding machine is built and performing quite well. The temperature from upper and lower die can be controlled precisely. The plates that produce by the machine in tensile strength test also perform quite well. Teak leaf plates tensile break average at 29.3 N, slightly lower than plastic one and higher than expanded polystyrene one."
+    },
+    {
+      "issn": "1979-889X",
+      "creators": [
+        {
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suudi"
+          },
+          "id": "ahmad.suudi@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rahmat Dendi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Putra"
+          }
+        },
+        {
+          "name": {
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "publication": "BAROMETER",
+      "date": 2020,
+      "dir": "disk0_bak\/00\/04\/94\/65",
+      "type": "article",
+      "divisions": [
+        "FT3"
+      ],
+      "publisher": "Universitas Singaperbangsa Karawang",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 417174,
+                  "fileid": 536696,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-11-19 19:18:02",
+                  "hash_type": "MD5",
+                  "hash": "3eee1d0637b6ede5d738b801115215e4",
+                  "filename": "3817-Article Text-9590-1-10-20200913.pdf",
+                  "objectid": 189052,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536696"
+                }
+            ],
+            "main": "3817-Article Text-9590-1-10-20200913.pdf",
+            "docid": 189052,
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189052",
+            "rev_number": 3,
+            "format": "text",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 49465,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "files": [
+                {
+                  "fileid": 536703,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-03-30 18:05:11",
+                  "hash_type": "MD5",
+                  "hash": "bda3f01a07127a36ca54a6e9054b2cee",
+                  "filename": "martinus-korespondensi-PENGEMBANGAN WAHANA UKUR KECEPATAN ARUS ALIRAN.pdf",
+                  "datasetid": "document",
+                  "filesize": 101001,
+                  "objectid": 189058,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536703"
+                }
+            ],
+            "docid": 189058,
+            "main": "martinus-korespondensi-PENGEMBANGAN WAHANA UKUR KECEPATAN ARUS ALIRAN.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189058",
+            "formatdesc": "korespondensi",
+            "pos": 8,
+            "format": "text",
+            "placement": 8,
+            "security": "public",
+            "eprintid": 49465,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "docid": 189059,
+            "main": "Martinus-jurnal-2020-Pengembangan_Wahana_Ukur.pdf.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536705",
+                  "objectid": 189059,
+                  "filesize": 444577,
+                  "datasetid": "document",
+                  "hash": "a55be4e08ba527193f45e1f9ff8bc6b2",
+                  "filename": "Martinus-jurnal-2020-Pengembangan_Wahana_Ukur.pdf.pdf",
+                  "mtime": "2023-03-30 18:05:23",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536705
+                }
+            ],
+            "pos": 9,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189059",
+            "rev_number": 2,
+            "formatdesc": "similiarity",
+            "eprintid": 49465,
+            "placement": 9,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49465",
+      "full_text_status": "public",
+      "userid": 217,
+      "lastmod": "2023-03-31 00:49:24",
+      "pagerange": "220-223",
+      "datestamp": "2023-03-31 00:49:24",
+      "eprintid": 49465,
+      "date_type": "published",
+      "official_url": "https:\/\/journal.unsika.ac.id\/index.php\/barometer\/article\/view\/3817",
+      "title": "PENGEMBANGAN WAHANA UKUR KECEPATAN ARUS ALIRAN SUNGAI",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 5,
+      "succeeds": 26361,
+      "eprint_status": "archive",
+      "status_changed": "2023-03-31 00:49:24",
+      "abstract": "Sungai memiliki potensi sebagai pembangkit listrik dengan indikator berupa arus aliran sungai. Alat ukur flowmeter adalah alat ukur yang digunakan untuk mengetahui arus aliran tersebut. Flowmeter konvensional memiliki keterbatasan penggunaan pada cakupan wilayah yang luas dan dalam. Sehingga dirancang wahana ukur baru untuk pergerakan cepat di perairan yang sulit untuk dijangkau. Sebuah GPS digunakan untuk membantu ketepatan lokasi pengukuran agar data realtime. Penelitian ini dilakukan dengan cara mengembangkan sebuah wahana ukur yang berbentuk kapal. Wahana ukur ini memiliki 84 x 25,5 x 11 cm. Wahana ukur ini memiliki flowmeter dan GPS yang dikontrol menggunakan Arduino. Wahana ukur memiliki 3 tahapan pembuatan berupa perancangan fisik, perancangan kontrol, dan assembly. Pengujian lapangan dilakukan dengan melintasi 5 titik acuan yang telah. Pengujian dilakukan 3 kali pengambilan data pada 3 sisi sungai. Hasilnya wahana ukur tersebut dapat melakukan pengukuran kecepatan arus dengan mobilitas yang cukup tinggi dengan data realtime. Salah satu hasil pengukuran kecepatan arus air yang terbaca pada flowmeter sebesar 430,98 cm\/s dengan tingkat error sebesar 12,6%.",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 11,
+      "title": "Merancang penelitian",
+      "abstract": "Coefficient reduction chip atau pengurangan tatap dianalisa menggunakan Metode Anova untuk menentukan pengaruh dari parameter input untuk setiap variasi eksperimen pada proses permesinan, sekaligus juga menentukan persentase pengaruh parameter individual. Metode Taguchi dipilih untuk mengurangi jumlah total dari percobaan yang dilakukan dan menghilangkan aspek yang tidak perlu dipertahankan, mengurangi biaya percobaan, sederhana dan mendapatkan hasil yang presisi. Penelitian ini bertujuan untuk menganalisa koefisien pengurangan tatal yang terjadi pada saat pemesinan menggunakan material paduan magnesium AZ3. Pada penelitian ini, proses pemesinan dilakukan menggunakan mesin bubut dengan jenis pahat berputar, yang mana pahat yang digunakan adalah pahat karbida jenis round insert. Sementara itu metode pengujian yang diterapkan adalah menggunakan Metode Taguchi dan ANOVA. Sementara itu, diameter benda kerja digunakan sebesar 35 mm dan Panjang 100 mm, kedalaman potong 1 mm dan kecepatan potong 80, 120, 160 mm\/min, kadar pemakanan 0,10 0,15 0,20 mm\/rev, kecepatan putaran pahat 50, 80, 120 rpm. Hasil dari penelitian ini menunjukan bahwan nilai koefisian pengurangan tatal terendah sebesar adalah 1,44, yang mana diperoleh pada parameter kecepatan potong 80 mm\/min, kedalaman potong 1 mm, kadar pemakanan 0,10 mm\/rev dan kecepatan putaran pahat 50 rpm. Dari semua faktor yang dianalisa, didapati bahwa faktor yang berpengaruh signifikan yaitu kecepatan potong da kadar pemakanan.",
+      "subjects": [
+        "TS"
+      ],
+      "status_changed": "2021-10-28 06:50:34",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 34693,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34693",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 34693,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155340",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 407376,
+                  "hash": "915339d2e5cad3df3449e5384e23bd2d",
+                  "filename": "5338-22842-1-PB_Publikasi.pdf",
+                  "mtime": "2021-10-28 01:51:21",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 425245,
+                  "objectid": 155340,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/407376"
+                }
+            ],
+            "docid": 155340,
+            "main": "5338-22842-1-PB_Publikasi.pdf"
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2021-10-28 06:50:34",
+      "lastmod": "2021-10-28 06:50:34",
+      "userid": 528,
+      "date": "2020-11-02",
+      "dir": "disk0\/00\/03\/46\/93",
+      "issn": "P-ISSN: 2252-4983, E-ISSN: 2549-3108",
+      "creators": [
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Gusri",
+            "given": "Akhyar"
+          }
+        },
+        {
+          "name": {
+            "given": "Hamni",
+            "family": "Arinal",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arinal.hamni@yahoo.com"
+        }
+      ],
+      "publication": "Jurnal SIMETRIS, Vol 11 No 2 November 2020",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article"
+    },
+    {
+      "subjects": [
+        "TS"
+      ],
+      "abstract": "Magnesium alloy is one of the most popular light material which was used in biomedical. Magnesium alloy is very light, resistant to corrosion and good biocompatible. However, magnesium alloy is flammable, so it is effortless to burn. This research investigated the wear mechanism at the edge rotary cutting tool. The cutting tool used in this experiment is carbide insert with a diameter of 16 mm. Pressured cooling air was used to reduce wear progression. The cutting parameters selected were workpiece speed at 80, 120 and 180 m\/min, feed rate at 0.10, 0.15 and 0.20 mm\/rev., tool speed at 25, 50 and 75 mm\/min, and constant depth of cut at 0.3 mm. Tool wear and wear mechanism of the cutting tool were measured by using a microscope with particular magnification. Maximum wear on the carbide cutting tool was 0.449 mm, which was achieved at the end of tool life. Dominant wear mechanism occurred at the cutting tool was abrasive wear. Some scratches were observed at the edge of the tool as a result of hard particles. Another wear type that occurred was crater wear at the top area of the insert. The wear on the cutting tool was due to the excessive heat generated during the machining process, which was due to friction between the cutting tool and workpiece material.",
+      "eprint_status": "archive",
+      "status_changed": "2020-08-27 02:17:25",
+      "rev_number": 6,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "title": "MEKANISME AUS PAHAT PUTAR PADA PEMESINAN MAGNESIUM AZ31",
+      "official_url": "https:\/\/rekayasamesin.ub.ac.id\/index.php\/rm\/issue\/view\/47",
+      "date_type": "published",
+      "eprintid": 23728,
+      "pagerange": "143-149",
+      "datestamp": "2020-08-27 02:17:25",
+      "lastmod": "2020-08-27 02:17:25",
+      "userid": 528,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23728",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Universitas Brawijaya",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37354",
+            "docid": 37354,
+            "main": "593-2515-3-PB-1.pdf",
+            "files": [
+                {
+                  "objectid": 37354,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216570",
+                  "datasetid": "document",
+                  "filesize": 328400,
+                  "fileid": 216570,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-08-27 02:09:31",
+                  "hash_type": "MD5",
+                  "hash": "e28884b74d6b892982803fa5de7e2da6",
+                  "filename": "593-2515-3-PB-1.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 23728,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/37\/28",
+      "date": "2020-08-20",
+      "publication": "Jurnal Rekayasa Mesin",
+      "issn": "eISSN 2477-6041",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Gusri",
+            "honourific": null,
+            "given": "Akhyar"
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id"
+        },
+        {
+          "id": "Suryadiwansa.harun@eng.unila.ac.id",
+          "name": {
+            "given": "Harun",
+            "lineage": null,
+            "family": "Suryadiwansa",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/02\/51\/57",
+      "date": "2020-02",
+      "creators": [
+        {
+          "name": {
+            "family": "Gusri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Akhyar"
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id"
+        },
+        {
+          "id": "Suryadiwansa.harun@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suryadiwansa",
+            "given": "Harun"
+          }
+        }
+      ],
+      "issn": "eISSN 2477-6041",
+      "publication": "Rekayasa Mesin",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25157",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "main": "593-2515-3-PB-1.pdf",
+            "docid": 38938,
+            "files": [
+                {
+                  "filesize": 328400,
+                  "datasetid": "document",
+                  "filename": "593-2515-3-PB-1.pdf",
+                  "hash": "e28884b74d6b892982803fa5de7e2da6",
+                  "mtime": "2020-11-13 11:42:32",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 227588,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/227588",
+                  "objectid": 38938
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38938",
+            "rev_number": 1,
+            "eprintid": 25157,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Universitas Brawijaya",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "pagerange": "143-149",
+      "datestamp": "2020-11-16 01:18:59",
+      "userid": 528,
+      "lastmod": "2020-11-16 01:18:59",
+      "date_type": "published",
+      "eprintid": 25157,
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 11,
+      "official_url": "https:\/\/rekayasamesin.ub.ac.id\/index.php\/rm",
+      "title": "MEKANISME AUS PAHAT PUTAR PADA PEMESINAN MAGNESIUM AZ31",
+      "abstract": "Magnesium alloy is one of the most popular light material which was used in biomedical. Magnesium alloy is very light, resistant to corrosion and good biocompatible. However, magnesium alloy is flammable, so it is effortless to burn. This research investigated the wear mechanism at the edge rotary cutting tool. The cutting tool used in this experiment is carbide insert with a diameter of 16 mm. Pressured cooling air was used to reduce wear progression. The cutting parameters selected were workpiece speed at 80, 120 and 180 m\/min, feed rate at 0.10, 0.15 and 0.20 mm\/rev., tool speed at 25, 50 and 75 mm\/min, and constant depth of cut at 0.3 mm. Tool wear and wear mechanism of the cutting tool were measured by using a microscope with particular magnification. Maximum wear on the carbide cutting tool was 0.449 mm, which was achieved at the end of tool life. Dominant wear mechanism occurred at the cutting tool was abrasive wear. Some scratches were observed at the edge of the tool as a result of hard particles. Another wear type that occurred was crater wear at the top area of the insert. The wear on the cutting tool was due to the excessive heat generated during the machining process, which was due to friction between the cutting tool and workpiece material.",
+      "subjects": [
+        "TS"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-11-16 01:18:59"
+    },
+    {
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/17\/91",
+      "date": "2020-12",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jesr.v1i2.18",
+      "publication": "Journal of Engineering and Scientific Research (JESR)",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Irza",
+            "given": "Sukmana"
+          },
+          "id": "irza.sukmana@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "shirley",
+            "honourific": null,
+            "given": "savetlana"
+          }
+        },
+        {
+          "id": "yanuarb64@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yanuar",
+            "given": "Burhanuddin"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "MA",
+            "lineage": null,
+            "given": "Wicaksono"
+          }
+        },
+        {
+          "name": {
+            "given": "Nur",
+            "lineage": null,
+            "honourific": null,
+            "family": "H"
+          },
+          "id": null
+        }
+      ],
+      "issn": "pISSN268-0338 ; eISSN 268-1695",
+      "pagerange": "78-83",
+      "datestamp": "2020-06-04 07:35:27",
+      "lastmod": "2020-06-04 07:35:27",
+      "userid": 326,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21791",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 21791,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35183",
+            "rev_number": 1,
+            "main": "Paper_JESR Irza December 2019.pdf",
+            "docid": 35183,
+            "files": [
+                {
+                  "filename": "Paper_JESR Irza December 2019.pdf",
+                  "hash": "639f33ac2fe2c06884fb194106e3a39e",
+                  "mtime": "2020-06-04 06:22:28",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 201533,
+                  "filesize": 612279,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/201533",
+                  "objectid": 35183
+                }
+            ]
+          }
+      ],
+      "publisher": "Faculty of Enginerring University of Lampung",
+      "date_type": "published",
+      "eprintid": 21791,
+      "subjects": [
+        "T1",
+        "T201",
+        "TA",
+        "TJ",
+        "TP"
+      ],
+      "abstract": "Magnesium (Mg) and its alloys seem to be a potential biodegradable bone scaffold materials as their biocompatibility and mechanical properties fit to natural bone. Magnesium alloys as biomaterials have higher mechanical properties that may close to cancellous bone once composed and produced in a specific production route. Fabricating porous magnesium for bone scaffold material aims to reduce the rigidity and strength of the material by which the porous density can be adjusted to the original nature of the bone. It forms interconnected porosity, has physical and mechanical properties similar to cancellous bone. This paper describes the production and characterization of porous magnesium material for the potential application as bone scaffold through powder metallurgy technique with pieces of Titanium Wire Space Holder. Mg containing titanium pieces were then compacted and sintered before immersed in hydro fluoride acid solution to form a porous magnesium structure. Density and porosity, micro Vickers hardness, micro structure test and SEM-EDX were performed to prove the existing porous structure inside Mg metal. The result finds out that a good cooperation and a potential application for the fabrication of an inter-connected porous magnesium samples for cancellous bone implant.",
+      "status_changed": "2020-06-04 07:35:27",
+      "eprint_status": "archive",
+      "rev_number": 11,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "title": "Fabricating and Testing of Porous Magnesium Through Powder Metallurgy Technique using TWSH (Titanium Wire Space Holder) for Biodegradable Bone Scaffold Material"
+    },
+    {
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48621,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187969",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 187969,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530094",
+                  "fileid": 530094,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-27 13:33:43",
+                  "hash": "5d6d83f7f4f70f84ef01638b1b3a6173",
+                  "filename": "Fabricating and Testing of Porous Magnesium Through  TWSH (Titanium (1)_SIMILARITY.pdf",
+                  "datasetid": "document",
+                  "filesize": 637737
+                }
+            ],
+            "docid": 187969,
+            "main": "Fabricating and Testing of Porous Magnesium Through  TWSH (Titanium (1)_SIMILARITY.pdf"
+          }
+      ],
+      "publisher": "Faculty of Enginerring University of Lampung",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48621",
+      "lastmod": "2023-02-28 01:22:16",
+      "userid": 326,
+      "datestamp": "2023-02-28 01:22:16",
+      "pagerange": "78-83",
+      "creators": [
+        {
+          "name": {
+            "family": "Irza",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sukmana"
+          },
+          "id": "irza.sukmana@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "shirley",
+            "given": "savetlana"
+          }
+        },
+        {
+          "name": {
+            "given": "Burhanuddin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yanuar"
+          },
+          "id": "yanuarb64@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "MA",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wicaksono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Nur",
+            "lineage": null,
+            "honourific": null,
+            "family": "H"
+          }
+        }
+      ],
+      "issn": "pISSN268-0338 ; eISSN 268-1695",
+      "publication": "Journal of Engineering and Scientific Research (JESR)",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jesr.v1i2.18",
+      "dir": "disk0_bak\/00\/04\/86\/21",
+      "date": "2020-12",
+      "type": "other",
+      "divisions": [
+        "FT3"
+      ],
+      "title": "Fabricating and Testing of Porous Magnesium Through Powder Metallurgy Technique using TWSH (Titanium Wire Space Holder) for Biodegradable Bone Scaffold Material",
+      "metadata_visibility": "show",
+      "rev_number": 5,
+      "volume": 1,
+      "status_changed": "2023-02-28 01:22:16",
+      "eprint_status": "archive",
+      "abstract": "Magnesium (Mg) and its alloys seem to be a potential biodegradable bone scaffold materials as their biocompatibility and mechanical properties fit to natural bone. Magnesium alloys as biomaterials have higher mechanical properties that may close to cancellous bone once composed and produced in a specific production route. Fabricating porous magnesium for bone scaffold material aims to reduce the rigidity and strength of the material by which the porous density can be adjusted to the original nature of the bone. It forms interconnected porosity, has physical and mechanical properties similar to cancellous bone. This paper describes the production and characterization of porous magnesium material for the potential application as bone scaffold through powder metallurgy technique with pieces of Titanium Wire Space Holder. Mg containing titanium pieces were then compacted and sintered before immersed in hydro fluoride acid solution to form a porous magnesium structure. Density and porosity, micro Vickers hardness, micro structure test and SEM-EDX were performed to prove the existing porous structure inside Mg metal. The result finds out that a good cooperation and a potential application for the fabrication of an inter-connected porous magnesium samples for cancellous bone implant.",
+      "subjects": [
+        "T1",
+        "T201",
+        "TA",
+        "TJ",
+        "TP"
+      ],
+      "eprintid": 48621,
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "A pressure vessel is a closed container designed to store liquids or gases at a temperature different from \r\nthe ambient temperature and is used for a variety of applications in various industries. One type of pressure \r\nvessel that is widely used is the vertical cylindrical pressure vessel with lug supports. The support lug of a \r\ncylindrical pressure vessel is usually attached to the outer wall of the cylinder with a pad using a fillet weld. For \r\nsuch a junction, the vessel and pad are not perfectly integrated, but there are initial cracks inherent in the vessel \r\nand pad interfaces. For repeated loads, these cracks may propagate to the weld, eventually causing the joint \r\nstructure to fail. This research was conducted using finite element simulations to assess stress on vessels and \r\npads. The limit load for welding on the vertical (axial) side is compared with the limit load for welding on the \r\nvertical and horizontal sides. The change in stress distribution and maximum stress with welding on the vertical \r\nand horizontal sides is compared with the results of welding on the vertical side only. In this simulation it is \r\nassumed that the load is only the weight of the vessel itself, no other loads are involved. This simulation uses the \r\nANSYS 2019 R3 finite element software with solid elements (SOLID187). The material used for the support lug is \r\nSA 516 Gr 70 and it is assumed to behave as elastic perfectly plastic. The results show that for welding only on \r\nthe vertical side, the resulting limit load is 54889 kN. The shear strain that occurs on the radial-axial (SXY) \r\nfaces is greater than that of the other faces. The highest von Mises stress is 1.325 times the yield stress of the \r\nwelding material. The addition of welds on the horizontal side causes the load limit to increase to 55191 kN. \r\nThere was an increase in the limit load by 301.6 kN. However, the shear strain was greater on the radial-axial \r\n(XZ) and hoop-axial (YZ) faces. The stress that occurs in the weld pad and vessel actually increases to 1,660 \r\ntimes the yield stress of the weld material. The stress that occurs in the circumferential direction (SY) is greater \r\nthan the stress that occurs in the longitudinal direction (SZ). Application of the weld on the horizontal side \r\nreduces the stress on the top end of the weld compared to only applying the weld to the vertical side.\r\nKeywords: Support lug, limit load, shear stresses, welding",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/mech\/article\/view\/1396\/pdf",
+      "date_type": "published",
+      "eprintid": 28334,
+      "datestamp": "2021-03-11 04:50:46",
+      "lastmod": "2021-03-11 04:50:46",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Jurusan Teknik Mesin FT– Universitas Lampung.",
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "date": "2020-09",
+      "status_changed": "2021-03-11 04:50:46",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/mech\/article\/view\/1396\/pdf"
+        }
+      ],
+      "rev_number": 18,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "title": "Kekuatan Geser dan Integritas Struktur Sambungan Fillet Weld pada Support Lug Bejana Tekan Silinder Vertikal",
+      "pagerange": "62-68",
+      "userid": 457,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28334",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42377",
+            "rev_number": 1,
+            "main": "1396-3410-1-Mahardika.pdf",
+            "docid": 42377,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251911",
+                  "objectid": 42377,
+                  "filesize": 673208,
+                  "datasetid": "document",
+                  "hash": "88444b63587d6e25f4957747b79bf57b",
+                  "filename": "1396-3410-1-Mahardika.pdf",
+                  "mtime": "2021-03-10 13:19:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 251911
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 28334,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "keywords": "Support lug, limit load, shear stresses, welding",
+      "contact_email": "asnawi.lubis@eng.unila.ac.id",
+      "dir": "disk0\/00\/02\/83\/34",
+      "publication": "Jurnal Mechanical",
+      "issn": "2087-1880",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Mahardhika",
+            "honourific": null,
+            "given": "Destarius"
+          }
+        },
+        {
+          "name": {
+            "given": "Asnawi",
+            "lineage": null,
+            "family": "Lubis",
+            "honourific": null
+          },
+          "id": "asnawi.lubis@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "status_changed": "2020-12-16 06:46:03",
+      "eprint_status": "archive",
+      "abstract": "Machines with high speed rotation, high power, and lighter weight are the challenge in design of modern  rotation  machinery. In analysis of coaxial dual rotor system, the problem leads  to  a  multi-degree  of  freedom  system  (1multi-DOF).  The  resulting  equation  of  motion cannot be solved analytically. For multi-DOF system, numerical method has to be implemented. In this study, the equations of motion of co-axial dual rotor system was solved numerically using MATLAB  programming  language.  This  study  compares  the  result  of  two  methods  used:  the pseudo-modal method and the direct method, with the aim of getting the most effective method in  predicting  critical  rotational  speed  by  plotting  Campbell  diagram.  It  was  found  that  the difference in the value of critical speeds between Pseudo Modal and the Direct Method is 0%-9,56% for the first 6 lowest frequencies and 0.09%-3.58% for the first 8 lowest frequencies.",
+      "subjects": [
+        "TJ"
+      ],
+      "title": "Numerical Study for Comparison of Pseudo Modal and Direct Method inPredicting Critical Speed of Coaxial Dual Rotor System",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1757-899X\/990\/1\/012028\/pdf",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 27114,
+      "date_type": "published",
+      "lastmod": "2020-12-16 06:46:03",
+      "userid": 457,
+      "pagerange": "1-9",
+      "datestamp": "2020-12-16 06:46:03",
+      "publisher": "IOP Publishing",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 27114,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41128",
+            "main": "Sembiring_2020_IOP_Conf._Ser.%3A_Mater._Sci._Eng._990_012028.pdf",
+            "docid": 41128,
+            "files": [
+                {
+                  "hash": "e5c110748e402d7454d5a41f98b7ef02",
+                  "filename": "Sembiring_2020_IOP_Conf._Ser.%3A_Mater._Sci._Eng._990_012028.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-12-16 06:06:54",
+                  "mime_type": "application\/pdf",
+                  "fileid": 243090,
+                  "filesize": 1209516,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/243090",
+                  "objectid": 41128
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27114",
+      "type": "article",
+      "contact_email": "asnawi.lubis@eng.unila.ac.id",
+      "divisions": [
+        "FT3"
+      ],
+      "keywords": "Pseudo modal, critical speed, coaxial dual rotor",
+      "issn": "doi:10.1088\/1757-899X\/990\/1\/012028",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Sembiring",
+            "honourific": null,
+            "lineage": null,
+            "given": "Alexander"
+          }
+        },
+        {
+          "name": {
+            "given": "Asnawi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Lubis"
+          },
+          "id": "asnawi.lubis@eng.unila.ac.id"
+        }
+      ],
+      "publication": "IOP Conference Series: Materials Science and Engineering",
+      "date": "2020-12",
+      "dir": "disk0\/00\/02\/71\/14"
+    },
+    {
+      "date_type": "submitted",
+      "event_title": "Engineering Science and Technology International Conference (Estic2020)",
+      "eprintid": 25517,
+      "event_location": "Padang, Sumatera Barat",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "- Machines with high speed rotation, high power, and lighter weight are the challenge in design of modern rotation machinery. In analysis of coaxial dual rotor system, the problem leads to a multi-degree of freedom system (multi-DOF). The resulting equation of motion cannot be solved analytically. For multi-DOF system, numerical method has to be implemented. In this study, the equations of motion of co-axial dual rotor system was solved numerically using MATLAB programming language. This study compares the result of two methods used: the pseudo-modal method and the direct method, with the aim of getting the most effective method in predicting critical rotational speed by plotting Campbell diagram. It was found that the difference in the value of critical speeds between Pseudo Modal and the Direct Method is 0%-9,56% for the first 6 lowest frequencies and 0.09%-3.58% for the first 8 lowest frequencies.",
+      "status_changed": "2020-11-16 15:06:57",
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_dates": "9 September 2020",
+      "title": "Numerical Study for Comparison of Pseudo Modal and Direct Method in Predicting Critical Speed of Coaxial Dual Rotor System",
+      "referencetext": "[1]\tJei, Y. K. (1993). Modal Testing Theory of Rotor Bearing Systems. Transactions of the ASME, Journal of Vibration and Acoustics, vol. 115, no. 2, pp. 165-176. \r\n[2]\tBudiwantoro, B. (2001). Studi Perbandingan Metode Modal Testing Klasik dan Modal Testing Kompleks Dengan Metode Analitik Dalam Identifikasi Arah Whirling Orbit Sistem Rotor Jurnal Teknik Mesin Vol. XVI, No. 2, p. 32-42. Bandung. Institut Teknologi Bandung.\r\n[3]\tHuang, Y. C.-M. (2001). Combined Methodology Analysis Rotary System. Journal of Vibration and Acoustic. October 2001, 123(4): 428-434.\r\n[4]\tYanto, A., dan Hidayat, R. (2014). Analisis Perilaku Dinamik Sistem Poros Rotor 3D. Jurnal Teknik Mesin, Volume 4, No. 2, Oktober 2014:75-83.\r\n[5]\tHutahean, R. (2014). Penerapan Metode Substruktur Dalam Analisis Dinamika Rotor. Jurnal Ilmiah Teknik Mesin Cylinder Vol 1, No 1: 39-56.\r\n[6]\tJahromi, A. F.-F. (2015). Forward and Backward Whirling of a Rotor with Gyroscopic Effect. Vibration Engineering and Technology of Machinery, , Mechanisms and Machine Science 23: 879-887. Springer International Publishing. Switzerland.\r\n[7]\tZulhendri, H., Sembiring, A., Lubis, A. (2018). Analytical and Numerical Studies of Dynamic Finite Element Analysis of Coaxial Dual Rotor System with Pseudo Modal Method Using Matlab. Prosiding SNTTM XVII, hal. 029-038. Kupang. Universitas Nusa Cendana.\r\n[8]\tMahartana, IB. (2017). Pemodelan dan Analisis Pengaruh Kenaikan Putaran Kerja Terhadap Respon Dinamis, Kasus Unbalance Rotor Steam Turbine Unit 1 PLTU Amurang 2x25 MW. Jurnal Teknik ITS Vol 6, No. 1, F120-F125. Surabaya.\r\n[9]\tLalanne, M., and Ferraris, G., (1990), Rotordynamics Prediction in Engineering. John Wiley and Sons Inc., New York.",
+      "divisions": [
+        "FT3"
+      ],
+      "keywords": "Coaxial dual rotor, Campbell diagram, Direct Method, Pseudo Modal",
+      "contact_email": "asnawi.lubis@eng.unila.ac.id",
+      "type": "conference_item",
+      "dir": "disk0\/00\/02\/55\/17",
+      "date": "2020-09-09",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Alexander",
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Lubis",
+            "honourific": null,
+            "given": "Asnawi"
+          },
+          "id": "asnawi.lubis@eng.unila.ac.id"
+        },
+        {
+          "id": "jamiatulakmal@gmail.com",
+          "name": {
+            "given": "Jamiatul",
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2020-11-16 15:06:57",
+      "pagerange": "1-10",
+      "userid": 457,
+      "lastmod": "2020-11-16 15:06:57",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25517",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "inpress",
+      "documents": [
+          {
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 25517,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39316",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 39316,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/230172",
+                  "datasetid": "document",
+                  "filesize": 3514863,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 230172,
+                  "hash": "6e075265122c46c6848367ee85a55824",
+                  "filename": "ESTIC 2020-Alexander Sembiring-UNILA.docx",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-16 07:43:27"
+                }
+            ],
+            "docid": 39316,
+            "main": "ESTIC 2020-Alexander Sembiring-UNILA.docx"
+          }
+      ],
+      "pres_type": "paper"
+    },
+    {
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Petroleum  reserves  are  running  low,  this  is  due  to  increased  economic  and population  growth  in  line  with  rising  energy  consumption.  It  was  also  caused  by  an increasing  number  of  transportation  vehicles.  The  dependence  of  electricity  with  fossil fuels,  especially  coal  in  Lampung  province,  is  still  considered  quite  large.  Coal  itself  is expected  to  last  for  the  next  70  years,  while  global  coal  reserves  are  estimated  to  be depleted in the next 109 years and thus be pursued more intensively towards diversifying energy to reduce dependence on fossil fuels, and the most potential biomass in Indonesia is palm  oil.In  this  study,  the  experimental  activity  tested  the  oil  palm  empty  fruit  bunch waste products produced by a continuous tubular reactor type tubular reactor using an oil jacket heating system as a torefaction media. Proximate testing shows that the higher the fixed  carbon  content  will  increase  the  calorific  value  of  the  solid  product  from  the torefaction  product,  the  increasing  temperature  in  the  torefaction  process,  the  oil  palm empty  fruit  bunch  products  will  have  more  emissions  and  have  good  hydrophobic properties, the heating value of the solid product from the coconut empty fruit bunch oil palm ranges from 16357.23 -21083.98 kJ, equivalent to subbituminous C coal which has a calorific value of 19300 -2100 kJ.",
+      "status_changed": "2020-11-19 11:28:02",
+      "eprint_status": "archive",
+      "volume": 20,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/invotek.ppj.unp.ac.id\/index.php\/invotek",
+      "title": "Karakteristik Bahan Bakar Padat Produk Torefaksi Limbah Tandan Kosong Kelapa Sawit Menggunakan Reaktor Torefaksi Kontinu Tipe Tubula",
+      "date_type": "published",
+      "eprintid": 26092,
+      "projects": [
+        "http:\/\/invotek.ppj.unp.ac.id\/index.php\/invotek\/article\/view\/706\/138"
+      ],
+      "datestamp": "2020-11-19 11:28:02",
+      "pagerange": "1-8",
+      "lastmod": "2020-11-19 11:28:02",
+      "corp_creators": [
+        "Jurusan Teknik Mesin, Universitas Lampung"
+      ],
+      "userid": 866,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26092",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Fakultas Teknik UNP",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 26092,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39937",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 39937,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/235381",
+                  "mime_type": "application\/pdf",
+                  "fileid": 235381,
+                  "filename": "artikel invotek.pdf",
+                  "hash": "dcc3e8c94e5f0b743919422dd3a62328",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-18 13:24:40",
+                  "datasetid": "document",
+                  "filesize": 409852
+                }
+            ],
+            "docid": 39937,
+            "main": "artikel invotek.pdf"
+          }
+      ],
+      "divisions": [
+        "FT3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/60\/92",
+      "date": "2020-06-01",
+      "publication": "INVOTEK",
+      "issn": "2549 –9815",
+      "creators": [
+        {
+          "name": {
+            "given": "retno",
+            "family": "Wahyudi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "retnowahyudi92@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Amrul",
+            "lineage": null,
+            "honourific": null,
+            "family": "Amrul"
+          },
+          "id": "amrul@eng.unila.ac.id"
+        },
+        {
+          "id": "muhammad.irsyad@eng.unila.ac.id",
+          "name": {
+            "family": "irsyad",
+            "honourific": null,
+            "lineage": null,
+            "given": "muhammad"
+          }
+        }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 44857,
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2022-09-12 01:13:22",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Profile of Sweet Potato Fermentation using Leuconostoc Mesenteroides as a Starter",
+      "divisions": [
+        "FP19",
+        "FP22",
+        "FT9",
+        "FT13",
+        "FT14",
+        "FT12",
+        "FT3",
+        "FT2"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/48\/57",
+      "date": 2020,
+      "creators": [
+        {
+          "name": {
+            "given": "Neti",
+            "family": "Yuliana",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "neti.yuliana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sartika",
+            "lineage": null,
+            "given": "Dewi"
+          },
+          "id": "dewikincai@yahoo.com"
+        },
+        {
+          "id": "sutiknolampung@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Sutikno",
+            "lineage": null,
+            "given": "Sutikno"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Jatmiko",
+            "honourific": null,
+            "given": "Edo"
+          }
+        }
+      ],
+      "datestamp": "2022-09-12 01:13:22",
+      "lastmod": "2022-09-12 01:13:22",
+      "userid": 306,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44857",
+      "publisher": "Proceedings of the 6th Food Ingredient Asia Conference",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166764",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 484142,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-09 04:00:00",
+                  "filename": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+                  "hash": "a84c843ec947789037ec25e3d50f0a35",
+                  "datasetid": "document",
+                  "filesize": 377791,
+                  "objectid": 166764,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484142"
+                }
+            ],
+            "docid": 166764,
+            "main": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44857
+          }
+      ],
+      "ispublished": "pub"
+    }
+]
+

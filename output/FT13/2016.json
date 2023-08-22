@@ -1,0 +1,603 @@
+[
+    {
+      "documents": [
+          {
+            "docid": 26828,
+            "main": "Laporan Pengabdian Pemetaan Topografi GTS Hajimena for REPO.pdf",
+            "files": [
+                {
+                  "filesize": 2382123,
+                  "datasetid": "document",
+                  "mtime": "2019-08-12 14:42:42",
+                  "hash_type": "MD5",
+                  "filename": "Laporan Pengabdian Pemetaan Topografi GTS Hajimena for REPO.pdf",
+                  "hash": "6405e57aa8b56b7dcc31b9fc997464e8",
+                  "fileid": 120407,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120407",
+                  "objectid": 26828
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Laporan Pengabdian Pemetaan Topografi GTS Hajimena 2016",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26828",
+            "rev_number": 3,
+            "eprintid": 13806,
+            "security": "validuser",
+            "placement": 1,
+            "language": "id",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "ispublished": "unpub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13806",
+      "full_text_status": "restricted",
+      "lastmod": "2019-08-19 03:33:31",
+      "userid": 102,
+      "datestamp": "2019-08-19 03:33:31",
+      "creators": [
+        {
+          "id": "idharmahadi.adha@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Adha",
+            "honourific": null,
+            "given": "Idharmahadi"
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yohannes",
+            "lineage": null,
+            "family": "Yohannes",
+            "honourific": null
+          },
+          "id": "yohannessp@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Geleng",
+            "lineage": null,
+            "honourific": null,
+            "family": "Perangin Angin"
+          },
+          "id": "geleng.peranginangin@eng.unila.ac.id"
+        }
+      ],
+      "date": "2016-11-21",
+      "dir": "disk0\/00\/01\/38\/06",
+      "type": "other",
+      "contact_email": "armijon@eng.unila.ac.id",
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Perumahan Griya Tanpan Sejahtera (GTS), Pemetaan Topografi, Pengabdian D3 Teknik Survei dan Pemetaan.",
+      "funders": [
+        "DIPA Fakultas Teknik Unila"
+      ],
+      "referencetext": "C. D. Ghilani and P. R. Wolf, Elementary Surveying - An Introduction to Geomatics, Fourteenth. New Jersey: Pearson Education, Inc., Upper Saddle River, 2015.\r\n\r\nE. M. Mikhail and G. Gracia, Analysis and Adjustmen of Survey Measurements. New York: Van Nostrand Reinhold Company, Inc, 1981.\r\n\r\nIrvine, Wiliam (1974). Surveying for C onstruction, Edisi kedua. London: McGraw-Hill Book Company\r\n\r\nSaptono, Didi Joko. 1998. Ilmu Ukur Tanah. Teknik Geodesi Universitas Gajah Mada, Yogyakarta.\r\n\r\nSosrodarsono, Suyono. Takasaki, Marayosi.1983. Pengukuran Topografi dan Teknik Pemetaan. Pradaya Pranata, Jakarta.",
+      "official_url": "https:\/\/armijon.com\/",
+      "title": "BANTUAN TEKNIS PEMETAAN SITUASI AREAL PERUMAHAN GRIYA TANPAN SEJAHTERA (GTS) KEL. HAJIMENA KEC. NATAR KAB. LAMPUNG SELATAN",
+      "metadata_visibility": "show",
+      "rev_number": 13,
+      "related_url": [
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/",
+          "type": "org"
+        },
+        {
+          "url": "http:\/\/eng.unila.ac.id\/",
+          "type": "org"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-08-19 03:33:31",
+      "abstract": "Kegitan pengabdian ini terinspirasi dari warga komplek Perumahan Griya Tanpan Sejahtera yang mengajukan usulan ke prodi D3 Survei dan pemetaan agar daerah mereka dapat dipetakan terkait dengan rencana warga yang akan merenovasi secara besar besaran masjid serta perbaikan jalan dikompleks tersebut sehingga keperluan akan data peta teknis dirasakan sangat mendesak. Berdasarkan usulan tersebut maka terlahirlah kegiatan pengabdian kepada masyarakat dengan judul Bantuan teknis Pemetaan Situasi Areal Perumahan Griya Tanpan Sejahtera di kelurahan Hajimena Kecamatan Natar Lampung Selatan. Dalam pengabdian ini dilakukan proses pengambilan data, pengolahan data, dan penyajian data dalam bentuk peta. Peta hasil tersebut diperoleh dari data ukur dilapangan yang meliputi pengukuran Kerangka Kontrol Horizontal dan Kerangka Kontrol Vertikal diantaranya adalah Polygon utama, polygon cabang, situasi (detail). Dalam pengukuran situasi (detail) banyak hal yang menjadi patokan dalam pengukuran diantaranya as rumah, sudut-sudut lapangan, jalan raya, saluran irigasi, dan lain sebagainya. Dalam pengukuran ini beberapa unsur penting akan disajikan dintaranya, persil bangunan saluran pembuangan air, jalan, Titik BM, Kontur, dan sebagainya dimana unsur yang disajikan  tersebut ditentu dengan mempertimbangkan skala peta yang akan dihasilkan. Selain hal-hal diatas tersebut hal utama yang dilakukan adalah survey lokasi dan pemasangan patok serta BM (Bench Mark). Hasil kegiatan pengabdian masyarakat dalam bentuk bantuan teknis ini berupa Pemetaan Situasi Areal Perumahan Griya Tanpan Sejahtera kelurahan Hajimena Kecamatan Natar Lampung Selatan yang diharapkan dapat memenuhi kebutuhan informasi spasial pihak kelurahan maupun masyarakat setempat serta dapat digunakan sebagai referensi untuk keperluan perencanaan pembangunan dimasa yang akan datang.",
+      "subjects": [
+        "T1"
+      ],
+      "eprintid": 13806,
+      "date_type": "completed"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14002",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "docid": 27035,
+            "main": "Ketersediaan RTH Provinsi Lampung.pdf",
+            "files": [
+                {
+                  "hash": "c0141f415765173bae94ea5590b5846b",
+                  "filename": "Ketersediaan RTH Provinsi Lampung.pdf",
+                  "mtime": "2019-08-09 09:17:15",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 122023,
+                  "filesize": 18998992,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122023",
+                  "objectid": 27035
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Laporan Penelitian Ketersediaan RTH Prov Lampung",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27035",
+            "rev_number": 3,
+            "eprintid": 14002,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "id"
+          }
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "datestamp": "2019-10-17 01:04:20",
+      "userid": 102,
+      "lastmod": "2019-10-17 01:04:20",
+      "dir": "disk0\/00\/01\/40\/02",
+      "date": "2016-11-30",
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null,
+            "given": "Armijon"
+          }
+        },
+        {
+          "id": "setyanto@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Setyanto",
+            "given": "Setyanto"
+          }
+        },
+        {
+          "name": {
+            "given": "Margaretta",
+            "lineage": null,
+            "family": "Welly",
+            "honourific": null
+          },
+          "id": "margaretta.welly@eng.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "DIPA Fakultas Teknik Unila"
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Ruang Terbuka Hijau (RTH) di Provinsi Lampung, RTH Non Alami di Perkotaan, Analisis GIS dan Remote Sensing untuk identifikasi RTH",
+      "type": "other",
+      "rev_number": 6,
+      "place_of_pub": "Rekayasa Jurnal Sipil dan Perencanaan - Fakultas Teknik - Unila",
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/armijon.com\/",
+      "title": "ANALISIS DAN IDENTIFIKASI KETERSEDIAAN RUANG TERBUKA HIJAU (RTH) NON ALAMI DI PERKOTAAN KABUPATEN\/KOTA PROVINSI LAMPUNG",
+      "referencetext": "Arronof,  S.,  1989,   Geographic  Information  System  :  A  Management  Pers-  pective.  WDL  Publication   Ottawa,    Canada.\r\nLillesand,   Thomas  M. and  Ralph  W. Kiefer.   1994.    Remote   Sensing   and  Image  Interpretation.  Second   Edition.  John  Wiley &  Sons,  Inc. New York.  \r\nPeraturan Daerah Provinsi Lampung Nomor 1 Tahun 2010 Tentang Rencana Tata Ruang Wilayah\r\nPeraturan Menteri Pekerjaan Umum Nomor 5\/PRT\/M\/2008 Tentang Pedoman Penyediaan dan Pemanfaatan Ruang Terbuka Hijau di Kawasan Perkotaan\r\nPeraturan Pemerintah Nomor 36 Tahun 2005 tentang Pelaksanaan UUBG\r\nRTRW Kota Bandar Lampung. \r\nRTRW Kabupaten Lampung Barat\r\nRTRW Kabupaten Lampung Selatan\r\nRTRW Kabupaten Lampung Tengah\r\nRTRW Kabupaten Lampung Timur\r\nRTRW Kabupaten Lampung Utara\r\nRTRW Kota Metro\r\nRTRW Kabupaten Mesuji\r\nRTRW Kabupaten Pesawaran\r\nRTRW Kabupaten Pesisir Barat\r\nRTRW Kabupaten Pringsewu\r\nRTRW Kabupaten Tanggamus\r\nRTRW Kabupaten Tulang Bawang\r\nRTRW Kabupaten Tulang Bawang Barat\r\nRTRW Kabupaten Way Kanan\r\nRTRW Provinsi Lampung.\r\nShort, Nicholas M., 1982. The Landsat Tutorial Workbook, NASA, New York.\r\nSutanto.  1987. Metode Penelitian Penginderaan Jauh  Untuk   Geografi. Makalah Ceramah Untuk Staf Pengajar UMS Surakarta.\r\nUndang-undang Nomor 28 Tahun 2002 tentang Bangunan Gedung \r\nUndang-undang Nomor 26 Tahun 2007 tentang Penataan Ruang",
+      "subjects": [
+        "G1",
+        "T1"
+      ],
+      "abstract": "Perencanaan, pembangunan, dan pengelolaan Ruang Terbuka Hijau (RTH) merupakan bagian penting dalam perencanaan, pembangunan dan pengelolaan kawasan binaan (budidaya) maupun kawasan alami di perkotaan. Pengelolaan RTH dapat ditingkatkan bila komunikasi antar pemangku kepentingan lebih intensif dan para pemangku kepentingan mendapat informasi yang holistik dan dapat diperbarui secara berkesinambungan. Berdasarkan hal – hal tersebut, maka diperlukan adanya suatu identifikasi ketersediaan ruang terbuka hijau RTH Publik di perkotaan yang diharapkan nantinya dapat terwujud ruang kota yang aman, nyaman, produktif dan berkelanjutan. Pada penelitian ini dilakukan analisis dan identifikasi terhadap ketersediaan RTH non alami di perkotaan, khususnya pada ibukota Kabupaten\/Kota se Provinsi Lampung untuk mewujudkan ruang-ruang kota yang lebih berkualitas, indah, nyaman, sehat dan berkelanjutan melalui peningkatan kualitas dan kuantitas Ruang Terbuka Hijau di provinsi Lampung. Penelitian meliputi kajian metodologi dan pendekatan pelaksanaan, metode pengumpulan, pengolahan dan analisis data, termasuk kajian kepustakaan dan kajian teoritis serta studi kasus sejenis, analisis pemecahan masalah, penyiapan konsep pengembangan. Selanjutnya dengan bantuan teknoogi Remote Sensing dan Analisis GIS dihasilkan Analisis Ketersediaan, Identifikasi Kawasan, serta arahan lokasi prioritas RTH di Provinsi Lampung. Kegiatan penelitian pada kawasan perkotaan Kabupaten\/Kota se-Provinsi Lampung menghasilkan Identifikasinya ruang-ruang terbuka hijau di pusat-pusat ibukota Kabupaten\/Kota di wilayah Provinsi Lampung serta Tersusunnya arahan lokasi prioritas pengembangan Ruang Terbuka Hijau (RTH) di Provinsi Lampung.",
+      "eprint_status": "archive",
+      "status_changed": "2019-10-17 01:04:20",
+      "succeeds": 13789,
+      "related_url": [
+        {
+          "url": "http:\/\/eng.unila.ac.id\/"
+        }
+      ],
+      "date_type": "completed",
+      "eprintid": 14002
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Peta Citra Way Laga, Peta Garis Way Laga, Kelurahan Way Laga",
+      "funders": [
+        "DIPA Fakultas Teknik Unila"
+      ],
+      "creators": [
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Suyadi",
+            "lineage": null,
+            "family": "Suyadi",
+            "honourific": null
+          },
+          "id": "suyadi.1974@eng.unila.ac.id"
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rahmadi",
+            "lineage": null,
+            "given": "Eko"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "welly",
+            "lineage": null,
+            "given": "Margaretta"
+          },
+          "id": "margaretta.welly@eng.unila.ac.id"
+        }
+      ],
+      "date": "2016-11-28",
+      "dir": "disk0\/00\/01\/40\/00",
+      "lastmod": "2019-10-17 01:04:55",
+      "userid": 102,
+      "datestamp": "2019-10-17 01:04:55",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "documents": [
+          {
+            "main": "Pengabdian Pemetaan Kelurahan Way Laga 2016.pdf",
+            "docid": 27033,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122017",
+                  "objectid": 27033,
+                  "hash": "fb52eb39f862de360d44c1faf3c28d4b",
+                  "filename": "Pengabdian Pemetaan Kelurahan Way Laga 2016.pdf",
+                  "mtime": "2019-08-10 07:49:57",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 122017,
+                  "filesize": 3030961,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Pengabdian Pemetaan Kelurahan Way Laga",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27033",
+            "rev_number": 3,
+            "eprintid": 14000,
+            "security": "public",
+            "placement": 1,
+            "language": "id",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "unpub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14000",
+      "full_text_status": "public",
+      "eprintid": 14000,
+      "date_type": "completed",
+      "related_url": [
+        {
+          "url": "http:\/\/eng.unila.ac.id\/"
+        }
+      ],
+      "succeeds": 13773,
+      "eprint_status": "archive",
+      "status_changed": "2019-10-17 01:04:55",
+      "abstract": "Dalam rangka percepatan pembangunan daerah serta menyambut implementasi dana desa maka setiap desa\/keluran sangat perlu memiliki ketersediaan peta skala besar sebagai dasar perencanaan pembangunan namun kendala yang dihadapi oleh kelurahan\/desa beberapa di antaranya yaitu jika tiap kelurahan melakukan pemetaan yang sesuai dengan kaidah pemetaan yang benar tentunya membutuhkan biaya yang sangat besar dan waktu yang lama sehingga sulit sekali dipenuhi oleh kelurahan\/desa tersebut. Setelah melakukan peninjauan ke lapangan (sebagai sampel kelurahan yang ada di Kecamatan Sukabumi Kota Bandar Lampung) ternyata hampir sebagian besar kelurahan belum memiliki peta keluran yang memenuhi kaidah pembuatan peta yang benar yaitu kaidah dalam penetapan dan penegasan batas wilayah yang mengikuti tahapan penetapan yang meliputi penelitian dokumen, pemilihan peta dasar, dan pembuatan garis batas di atas peta dan tahapan penegasan yang meliputi penelitian dokumen, pelacakan, penentuan posisi dan letak objeck objek penting, penentuan batas administrasi serta informasi-informasi \r\npenjelasanya dalam bentuk data atribut. Berdasarkan permasalahan tersebut maka dipandang perlu untuk melakukan kegiatan pengabdian kepada masyarakat melalui Dipa Fakultas Teknik Universitas Lampung dalam memberikan bantuan teknis untuk pembuatan peta desa\/kelurahan skala besar dalam hal ini terpilih kelurahan Wira Laga kecamatan Sukabumi kota Bandar Lampung sebagai salah satu bentuk upaya dalam mendukung percepatan program pemerintah. \r\n\r\nDalam pelaksanaan kegiatan ini pada tahap awal akan dibentuk sebuah peta citra satelit yang akan digunakan sebagai dasar pembuatan peta garis keluraha Way Laga. Data citra yang akan digunakan adalah Citra Quickbird tahun 2013. Bentuk kegiatan dalam pengolahan citra pada kegiatan ini meliputi: Penajaman citra, Survei Titik Kontrol (GCP), Koreksi geometrik, Interpretasi. Metode yang digunakan pada kegiatan pembuatan peta kelurahan adalah : Digitasi peta citra, survei atribut, Penyusunan atribut data spasial, dan kartografi.\r\n\r\nHasil akhir pelaksanaan kegiatan ini adalah dihasilkannya Peta citra dan Peta Garis Kelurahan Way Laga kecamatan Sukabumi Kota Bandar Lampung skala 1:5000 dalam format Peta Digital serta format Hardcopy yang dicetak dalam media kertas berukuran A0.",
+      "subjects": [
+        "T1"
+      ],
+      "referencetext": "Badan Pusat Statistik (BPS), 2013, Lampung Dalam Angka Tahun 2013 \r\n\r\nPeraturan Menteri Dalam Negeri No. 67 Tahun 2007 tentang Pendataan Program PembangunanDesa\/Kelurahanhttp:\/\/permendagri_no67_Th_2007_tentang_pendataan_program_pembangunan_desa_kelurahan_2.pdf \r\n\r\nPeraturan Pemerintahan Nomor 8 Tahun 2008 tentang Tahapan, Tata Cara Penyusunan, Pengendalian dan elevasi Pelaksanaan Rencana Pembangunan Daerah http:\/\/www.bpn.go.id\/publikasi\/peraturan-perundangan\/peraturanpemerintah\/peraturan-pemerintah-nomor-8-tahun2008-2099\r\n\r\nPeraturan Pemerintah Republik Indonesia Nomor 43 Tahun 2014 Tentang “Peraturan Pelaksanaan Undang - Undang Nomor 6 Tahun 2014”.\r\n\r\nUndang-Undang Nomor 4 Tahun 2011 Tentang Informasi Geospasial. \r\n\r\nUndang-Undang Nomor 6 Tahun 2014 Tentang Desa.",
+      "official_url": "https:\/\/armijon.com\/",
+      "title": "Bantuan Teknis Pembuatan Peta Kelurahan Way Laga Kecamatan Sukabumi Kota Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 4
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "referencetext": "Arifin, Zainal, Agus., dan Murni, Aniarti., Mei 2002, Disain dan lmplementasi Perangkat Lunuk Klasifikasi Citra Inderaja Multispektral, Jurnal Ilmu Komputer dan teknologi Informasi vol.2, No.1, Universitas Indonesia.\r\n\r\nBab I Pasal 1 2012, tentang Peraturan Desa Rencana Pembangunan Jangka Menengah Desa (RPJMDes). Diambil dari Buku Profil Desa Braja Harjosari Kecamatan Braja Selebah Kabupaten Lampung Timur dengan Persetujuan Bersama Badan Permusyawaratan Desa dan Kepala Desa.\r\n\r\nHasyim, Wahid Abdul dan M, Taufik. 2009. Menentukan Titik Kontrol Tanah (GCP) dengan Menggunakan Teknik GIS dan Citra Satelit Untuk Perencanaan Perkotaan. Surabaya: lnstitut Teknologi Surabaya.\r\n\r\nJensen, 1996, lntroductory Digital Image Processing, Prentice Hall, Singapore.\r\n\r\nLillesand and Kiefer, 1979, penginderaan Jauh. Gadjah Mada University Press, Yogyakarta.\r\n\r\nLo, 1976. Sutanto, 1992. dan Vink Interpretasi Citra. http:\/\/jurnal-geologi.blogspot.co.id\/2010\/01\/interpretasi-data-hasil-pengindraan.html\r\n\r\nMather, 1987. pengertian koreksi geometrik. Jurnal UNDIP 2015.\r\n\r\nMengenal SIG dan data spasial http:\/\/osgeo.ft.ugm.ac.id\/mengenal-sig-dan-data-spasial (akses 20 Feb 2014) \r\n\r\nPemerintah Kabupaten Lampung Timur Kecamatan Braja Selebah Desa Braja Harjosari. 2012. Materi tentang sejarah, profil, kondisi, posisi geografis, desa Braja Harjosari. Diambil dari Buku Profil Desa Braja Harjosari Kecamatan Braja Selebah Kabupaten Lampung Timur dengan Persetujuan Bersama Badan Permusyawaratan Desa dan Kepala Desa.\r\n\r\nPrahasta, Eddy. Tutorial ArcGIS. Informatika, Bandung\r\n\r\nPrahasta, Eddy. 2001. Sistem Informasi Geografis: Konsep-Konsep Dasar Informasi Geografis. Bandung: Informatika Bandung.\r\n\r\nPrihandito, Aryono, 1988. Proyeksi Peta. Yogyakarta: Kansius\r\n\r\nSutanto, 1992, Penginderaan Jauh. Jilid I, Gadjah Mada University Press, Yogyakarta.\r\n\r\nUniversitas Gadjah Mada. Menngenal SlG dan Data spasial. http:\/\/osgeo.ft.ugm.ac.id\/mengenal-sig-dan-data-spasial\/ (Akses 27 Mei 2016).\r\n\r\nWinardi. 2016. Global Positioning System. Yogyakarta: Andi.",
+      "title": "Bantuan Teknis Pembuatan Peta Citra dan Garis, Desa Braja Harjosari, Kec. Braja Selepah, Kab. Lampung Timur",
+      "abstract": "Dalam melaksanakan Peraturan Daerah Kabupaten Lampung Timur No17 Tahun 2007 tentang Reneana Pembangunan Jangka Menengah Desa (RPJMDes), dan untuk memenuhi data dasar penunjang pembangunan desa Braja Hnrjosari maka dibutuhkannya pembuatan peta citra dan peta garis desa Braja harjosari Kccarnatan Braja Selebah Kab lamtim yang telah merujuk kepada standar pemetaan (saat ini belum ketersedian peta desa yang tersedia hanya sketsa desa). Pembuatan peta citra dan peta garis desa Braja Harjosari ini memanfaatkan teknologi remote sensing dengan memanfaatkan citra satelit dari situs google earth, kemudian untuk pengoreksian citra menggunakan GCP hasil pengamatan dengan GPS Navigasi. Kegiatan georeferensi melalui proses koreksi geemetrik dengan menggunakan beberapa Ground Control Point (GCP) dan dilanjutkan pendigitasian menggunakan aplikasi CAD dimana untuk hasil akhir di layout dengan software pengolah GIS. Hasil akhir kegiatan ini adalah Peta Citra dan Peta Garis desa Braja Harjosari kccamaran Braja Selebah Kobupaten Lampung Timur dengan skata 1:5000.",
+      "subjects": [
+        "G1",
+        "T1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "status_changed": "2020-05-12 02:45:39",
+      "eprint_status": "archive",
+      "date_type": "completed",
+      "eprintid": 19558,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19558",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 19558,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 163376,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-05-10 13:06:26",
+                  "hash_type": "MD5",
+                  "filename": "2016 Laporan Pengabdian - Bantek Braja Harjosari Lamtim.pdf",
+                  "hash": "4ff4b432c67cbb04a741708ae15f2904",
+                  "datasetid": "document",
+                  "filesize": 4681104,
+                  "objectid": 32798,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163376"
+                }
+            ],
+            "docid": 32798,
+            "main": "2016 Laporan Pengabdian - Bantek Braja Harjosari Lamtim.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32798",
+            "rev_number": 2,
+            "formatdesc": "Bantuan Teknis Pembuatan Peta Citra dan Garis, Desa Braja Harjosari, Kec. Braja Selepah, Kab. Lampung Timur",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "ispublished": "unpub",
+      "datestamp": "2020-05-12 02:45:39",
+      "lastmod": "2020-05-12 02:45:39",
+      "userid": 102,
+      "date": "2016-11-08",
+      "dir": "disk0\/00\/01\/95\/58",
+      "creators": [
+        {
+          "name": {
+            "given": "Citra",
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "honourific": null,
+            "family": "Fadly",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Armijon",
+            "given": "Armijon"
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Suyadi",
+            "family": "Suyadi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "suyadi.1974@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT13"
+      ],
+      "keywords": "Peta Citra, Peta Garis, Braja Harjosari, Peta Desa",
+      "funders": [
+        "Hibah Berbasis DIPA Fakultas Teknik Universitas Lampung"
+      ],
+      "type": "other",
+      "contact_email": "citradewirohana@yahoo.com"
+    },
+    {
+      "keywords": "Bantuan Teknis, Kelurahan Kedaung, Kecamatan Gedung Pakuon, Peta Citra, Peta Garis, Pengabdian D3 Teknik Survey dan Pemetaan",
+      "divisions": [
+        "FT13"
+      ],
+      "funders": [
+        "DIPA FT Unila"
+      ],
+      "type": "other",
+      "contact_email": "romi.fadly@eng.unila.ac.id",
+      "dir": "disk0\/00\/01\/39\/89",
+      "date": "2016-11-10",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null,
+            "given": "Citra"
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null
+          }
+        }
+      ],
+      "datestamp": "2019-08-30 08:13:32",
+      "userid": 102,
+      "lastmod": "2019-08-30 08:13:32",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13989",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Laporan Pengabdian: Bantuan Teknis Pembuatan Peta Batas Administrasi Kelurahan Kedaung Kecamatan Kemiling Kota Bandar Lampung",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27022",
+            "rev_number": 2,
+            "main": "Laporan Pengabdian- Kelurahan Kedaung 2016.pdf",
+            "docid": 27022,
+            "files": [
+                {
+                  "hash": "735c3363b319f5ca89c49c420cbb6fbd",
+                  "filename": "Laporan Pengabdian- Kelurahan Kedaung 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-28 06:08:00",
+                  "mime_type": "application\/pdf",
+                  "fileid": 121899,
+                  "filesize": 3230305,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121899",
+                  "objectid": 27022
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "eprintid": 13989,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "ispublished": "unpub",
+      "date_type": "completed",
+      "eprintid": 13989,
+      "abstract": "Pelaksanaan kegiatan Bantuan teknis pembuatan peta batas administrasi Kelurahan Kedaung Kecamatan Kemiling Kota Bandar Lampung dilaksanakan sebagai bentuk kegiatan pengabdian Program Studi Teknik Geodesi, Jurusan Teknik Sipil, Fakultas Teknik, Universitas Lampung terhadap kebutuhan akan ketersediaan Peta Citra dan Peta Garis tepatnya di Kelurahan Gedung Pakuon, Kecamatan Teluk Betung Selatan. Kegiatan ini dilaksanakan dari tanggal 01 Agustus 2016 sampai dengan 01 Oktober 2016. Tim pelaksana terdiri dari Romi Fadly, S.T.,M.Eng. sebagai Ketua, dan 2 anggota yaitu: Citra Dewi, S.T.,M.Eng., Armijon, S.T., M.T.\r\n\r\nKegiatan teknis ini meliputi beberapa tahapan antara lain Pengadaan Image, Pemotongan Citra, Koreksi Geometrik, Digitasi, Kartografi, Pecetakan dan Pembuatan Laporan.\r\n\r\nHasil dari kegiatan ini berupa Peta Batas adrninistrasi dalam bentuk Peta Citra dan Peta Garis Kelurahan Kedaung Kecamatan Kemiling, Kota Bandar Lampung Skala 1: 5000.",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2019-08-30 08:13:32",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "referencetext": "Badan  Pertanahan   Nasional,  2004, standar  struktur  data spasial  dxf.\r\n\r\nBadan Pusat  Statistik  (BPS), 2013,   Lampung  Dalam  Angka  Tahun 2013.\r\n\r\nDewi,   C.,   dkk.   2013.     Analisis  Ruang  Terbuka  Hijau  di  Kota  Bandar  Lampung. Penelitian,   universitas lampung,  Lampung\r\n\r\nJensen,    J.R,    1996,     Introductory  Digital  Image   Processing,   Prentice    Hall, Singapore.\r\n\r\nLillesand.M.T     dan R. W.  Kieffer.   1997.  Pengindraan Jauh dan Interpretast Citra. Gadjah  Mada University   Press,  Yogyakarta.\r\n\r\nMartain.  2006.  Pemanfaatan  Citra  Quickbird  sebagai  komponen  untuk  pembuatan peta  zona  nilai   tanah  di  wilayah  perbatasan   antar  dua  Kantor  Pelayanan Pajak Bumi  dan  Bangunan  - Studi  kasus  Perbatasan   Kecamatan  Tegalrejo (KP.   PBB Yogyakarta)   dan  Kecamatan   Mlati  (KP.   PBB Sleman).    Thesis S-2.     Program     Studi    Teknik    Geomatika     Universitas     Gadjah    Mada, Yogyakarta.\r\n\r\nUndang-Undang Republik   Indonesia   Nomor   26  Tahun  2007  Tentang   Penataan Ruang\r\n\r\nWahyooo,  E.B. 2007.   Kajian  pemanfaatan   citra  satelit  Ikonos  unruk  pembuatan peta  dasar pendaftaran    tanah:   Kasus   pada   sebagian    daerah   Kabupaten Trenggalek    Provinsi    Jawa Timur.   Thesis    S-2.   Program    Studi   Teknik Geomatika   Universitas  Gadjah  Mada, Yogyakarta.\r\n\r\n_______ , 2014,   Penjelasan    Atas Peraruran  Pemerintah   Republik  Indonesia   Nomor 43 Tahun 2014 Tentang  Peraturan  Pelaksanaan   Undang-   Undang  Nomor  6 Tahun 2014 TentangDesa.\r\n\r\n ________, 2014,   Undang-Undang     Republik    Indonesia    Nomor   6  Tahun   2014 Tentang  Desa.\r\n\r\n________, 2011,    UU No.  4 tahun 2011  tentang  Informasi  Geospasial.",
+      "official_url": "http:\/\/lppm.unila.ac.id\/",
+      "title": "Bantuan Teknis Pembuatan Peta Batas Administrasi Kelurahan Kedaung Kecamatan Kemiling Kota Bandar Lampung"
+    },
+    {
+      "date_type": "completed",
+      "eprintid": 14003,
+      "rev_number": 4,
+      "metadata_visibility": "show",
+      "title": "DETAILING PETA PEAK GROUND CCELERATION (PGA) WILAYAH KOTA BANDAR LAMPUNG DENGAN METODE PSHA",
+      "official_url": "http:\/\/lppm.unila.ac.id\/",
+      "referencetext": "Anonim, Standar Nasional Indonesia (2002). Tata Cara Perencanaan Ketahanan Gempa untuk Bangunan Gedung (SNI 03-1726-2002). Badan Standardisasi Nasional.\r\n\r\nAnonim, Standar Nasional Indonesia (2012). Tata Cara Perencanaan Ketahanan Gempa untuk Struktur Bangunan Gedung dan Non Gedung (SNI 1726:2012). Badan Standardisasi Nasional\r\n\r\nBudiono, Bambang. (2009). Rekayasa Kegempaan, Catatan Kuliah, Penerbit ITB, Bandung-Indonesia.\r\n\r\n\r\nKuntoro. Kerangka Struktur Kawasan Selat Sunda berdasarkan  Penafsiran Seismik : Implikasi terhadap Bencana Alam Geologi. Alami, Vol. 2 Nomor 3 Tahun 1997.\r\n\r\nSengara,I.W., Irsyam,M., Hendriyawan, Asrurifak.M., Prakoso.W.A., Juniansyah,U., Sumiartha.P., Jayasaputra.U. (2010). Laporan Akhir Pendayagunaan  Peta  Mikrozonasi Gempa di DKI Jakarta.  Pusat Mitigasi Bencana dan KK Geoteknik ITB, Bandung.\r\n\r\nUSGS. 2013. Earthquakes Search. http:\/\/earthquake.usgs.gov\/earthquakes\/search\/ diakses 4 Juni 2016.\r\n\r\n------------. Sesar Tarahan Dan Anomali Gunung Langgar Bandar Lampung, https:\/\/harunjaya33.wordpress.com\/. diakses tanggal 09 Nopember 2016 pukul 05.11 WIB.",
+      "subjects": [
+        "TA",
+        "TH"
+      ],
+      "abstract": "Saat melakukan analisis struktur tahan gempa diperlukan verifikasi beberapa metode untuk meyakinkan bahwa hasil analisis tersebut benar. Berdasarkan peta Gempa 2010, Kota Bandar Lampung terbagi atas beberapa wilayah parameter percepatan tanah untuk periode 1 detik (S1) dan periode 0,2 detik (Ss), yang pada akhirnya akan dapat ditentukan nilai parameter untuk respon spectra desain. Penelitian ini akan melakukan perhitungan Percepatan Gempa Maksimum (PGA) dengan metode PSHA (Probabilistic Seismic Hazard Analysis) pada beberapa lokasi di Kota Bandar Lampung dan dengan kerapatan data sistem grid 2 km x 2 km.\r\nAnalisis perhitungan PGA penelitian ini menggunakan persamaan atenuasi Donovan (1970). Hasil analisis menunjukkan bahwa terjadi peningkatan rata-rata 7,83%; maksimum 7,97% dan minimum 5,51% pada PGA dengan periode ulang gempa 500 tahun, jika rentang waktu kejadian gempa diubah dari 100 tahun menjadi 50 tahun terakhir. Nilai PGA wilayah kota Bandarlampung untuk periode ulang 500 tahun dengan data gempa 100 terakhir mendekati nilai PGA yang tertera pada SNI 03-1726-2002. Sesuai SNI 1726:2012, beban gempa rencana direvisi menjadi kemungkinan terlewati selama umur rencana bangunan 50 tahun adalah 2% dari semula 10% (SNI 03-1726-2002). Khusus untuk wilayah kota Bandar Lampung terjadi kenaikan nilai PGA hampir 30% untuk periode ulang gempa 500 tahun menjadi 2500 tahun.\r\nHasil akhir penelitian ini berupa peta kontur PGA dengan skala 1 : 80.000. Nilai PGA yang didapatkan dapat digunakan untuk perhitungan respon spectra rencana. Nilai PGA hasil analisis menunjukkan bahwa nilai terbesar terjadi di daerah kecamatan Rajabasa sebesar 0,2697 g (kala ulang gempa 500 tahun) dan 0,3477 g (kala ulang gempa 2.500 tahun). Hal ini dapat dimungkinkan karena adanya Sesar Tarahan yang melintas tepat di kota Bandar Lampung dan sedang mengalami penumpukan energy. Hasil analisis diharapkan adanya penelitian lanjutan dengan fungsi atenuasi NGA (Next Generation Attenuation) untuk wilayah lainnya di provinsi Lampung perlu dilakukan untuk mengetahui efek dari pergerakan sesar yang ada di provinsi Lampung.",
+      "eprint_status": "archive",
+      "status_changed": "2019-10-17 01:04:45",
+      "succeeds": 13797,
+      "dir": "disk0\/00\/01\/40\/03",
+      "date": "2016-11-10",
+      "creators": [
+        {
+          "id": "suyadi.1974@eng.unila.ac.id",
+          "name": {
+            "family": "Suyadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suyadi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Armijon",
+            "given": "Armijon"
+          },
+          "id": "armijon@eng.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "Dipa BLU Universitas Lampung"
+      ],
+      "keywords": "Detailing Peta Peak Ground Cceleration, Probabilistic Seismic Hazard Analysis, Peta Kontur PGA Kota Bandar Lampung",
+      "divisions": [
+        "FT13"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14003",
+      "full_text_status": "restricted",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "eprintid": 14003,
+            "placement": 1,
+            "security": "validuser",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "content": "draft",
+            "docid": 27036,
+            "main": "Laporan Peneltian DETAILING PETA PEAK GROUND CCELERATION METODA PSHA.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2572874,
+                  "fileid": 122028,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-10 17:00:42",
+                  "hash": "8b43ff4df18ae3e1e53f598657306792",
+                  "filename": "Laporan Peneltian DETAILING PETA PEAK GROUND CCELERATION METODA PSHA.pdf",
+                  "objectid": 27036,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122028"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27036",
+            "rev_number": 4,
+            "formatdesc": "Laporan Penelitian"
+          }
+      ],
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "datestamp": "2019-10-17 01:04:45",
+      "lastmod": "2019-10-17 01:04:45",
+      "userid": 102
+    }
+]
+

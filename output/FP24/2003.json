@@ -1,0 +1,355 @@
+[
+    {
+      "abstract": "The primary objective of the current research was to detect genetic variations within the Indonesian isolates of Cochliobolus heterostrophus collected from ecologically different places of the country at molecular level using PCR-RFLP analyses. The primer pair of NS3 and NS6 produced amplification fragment in all of the isolates tested. A single fragment of estimated 907 bp was observed in the PCR product pattern. RFLP analysis of the PCR product employing three restriction enzymes, HaeIII, HhaI, and RsaI, respectively, did not reveal intraspecific variations within the fungus. Similarly, nucleotide sequences of portion of small subunit of the ribosomal DNA gene of two of the isolates collected showed no appreciable differences, indicating the absence of genetic diversities among the isolates tested. A phylogenetic tree was constructed and the Indonesian C. heterostrophus, represented by SM-1 isolate, was found to be phylogenetically located near C.sativus, a closely related species.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-10-21 03:55:22",
+      "metadata_visibility": "show",
+      "volume": 31,
+      "rev_number": 7,
+      "title": "Molecular Analysis of Intraspecific Variations of the Indonesian Cochliobolus heterostrophus",
+      "eprintid": 822,
+      "pagerange": "19-22",
+      "datestamp": "2016-10-21 03:55:22",
+      "lastmod": "2016-10-21 03:55:22",
+      "userid": 380,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/822",
+      "publisher": "The Korean Society of Mycology",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 225414,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-16 07:57:58",
+                  "hash": "849824492c609775558e023ce1d1a26e",
+                  "filename": "Gafur Titik mb-31-19.pdf",
+                  "fileid": 4931,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4931",
+                  "objectid": 718
+                }
+            ],
+            "main": "Gafur Titik mb-31-19.pdf",
+            "docid": 718,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/718",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 822,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FP24"
+      ],
+      "type": "article",
+      "contact_email": "gafur@uwalumni.com",
+      "date": 2003,
+      "dir": "disk0\/00\/00\/08\/22",
+      "creators": [
+        {
+          "id": "gafur@uwalumni.com",
+          "name": {
+            "lineage": null,
+            "family": "Gafur",
+            "honourific": null,
+            "given": "Abdul"
+          }
+        },
+        {
+          "name": {
+            "given": "Titik Nur",
+            "honourific": null,
+            "family": "Aeny",
+            "lineage": null
+          },
+          "id": "titik.nuraeny@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mujim",
+            "given": "Subli"
+          }
+        },
+        {
+          "name": {
+            "given": "Budi",
+            "lineage": null,
+            "family": "Tjahjono",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suwanto",
+            "honourific": null,
+            "given": "Antonius"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Mycobiology"
+    },
+    {
+      "eprintid": 871,
+      "date_type": "published",
+      "isbn": 9797322335,
+      "title": "Kiat Belajar di Perguruan Tinggi",
+      "metadata_visibility": "show",
+      "place_of_pub": "Jakarta",
+      "rev_number": 8,
+      "status_changed": "2016-10-24 01:34:30",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "creators": [
+        {
+          "id": "cipta.ginting@fp.unila.ac.id",
+          "name": {
+            "family": "Ginting",
+            "honourific": null,
+            "lineage": null,
+            "given": "Cipta"
+          }
+        }
+      ],
+      "pages": 142,
+      "dir": "disk0\/00\/00\/08\/71",
+      "date": 2003,
+      "type": "book",
+      "divisions": [
+        "FP24"
+      ],
+      "publisher": "Grasindo",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/757",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5266",
+                  "objectid": 757,
+                  "hash": "abfb28d83b7da4ee5e131ea37ededd76",
+                  "filename": "Scan Kiat Belajar edisi ke dua.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-23 06:19:37",
+                  "mime_type": "application\/pdf",
+                  "fileid": 5266,
+                  "filesize": 290043,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Scan Kiat Belajar edisi ke dua.pdf",
+            "docid": 757,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 871
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/871",
+      "full_text_status": "public",
+      "lastmod": "2016-10-25 02:03:25",
+      "userid": 1039,
+      "datestamp": "2016-10-24 01:34:30"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FP24"
+      ],
+      "issn": "1411-7525",
+      "creators": [
+        {
+          "id": "agus.muhammad@fp.unila.ac.id",
+          "name": {
+            "given": "Agus M.",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hariri"
+          }
+        },
+        {
+          "name": {
+            "given": "FX.",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          },
+          "id": "fx.susilo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hamim",
+            "honourific": null,
+            "family": "Sudarsono",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Hama dan Penyakit Tumbuhan Tropika",
+      "date": 2003,
+      "dir": "disk0\/00\/00\/09\/54",
+      "lastmod": "2016-10-27 02:33:35",
+      "userid": 907,
+      "pagerange": "29-35",
+      "datestamp": "2016-10-27 02:33:35",
+      "publisher": "Jurusan Proteksi Tanaman, PEI Bandar Lampung, PFI Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 246080,
+                  "datasetid": "document",
+                  "mtime": "2016-10-26 12:53:01",
+                  "hash_type": "MD5",
+                  "filename": "Populasi-rayap-pada-lada-agusmhariri-susilo-hamim-jhptt-2003.pdf",
+                  "hash": "3818fbf641c6a1b4cf1f3ba99af7ff02",
+                  "fileid": 6054,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6054",
+                  "objectid": 848
+                }
+            ],
+            "docid": 848,
+            "main": "Populasi-rayap-pada-lada-agusmhariri-susilo-hamim-jhptt-2003.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/848",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 954,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/954",
+      "full_text_status": "public",
+      "eprintid": 954,
+      "eprint_status": "archive",
+      "status_changed": "2016-10-27 02:33:35",
+      "abstract": "Termite population on black pepper plantation in Way Kanan, Lampung.  This survey conducted from July to August 2002 was aimed to document the abundance and the diversity of termites at two locations of black pepper plantation with different soil covers at Way Kanan District, Lampung. The first location (Tiuhbalak) was practically bare (less weeds and more litter) while the second location (Sukarame) was more covered (more weeds and less litter). Two termite transects were set at each location. Each transect, comprised of 20 sections of 5 m x 2 m, was laid down in an oblique direction relative to the black pepper plant row. Termites were collected by soil scrapping, wood dismantling, and\/or circum – digging of the soil around the plants by two collectors in 30 minutes\/section. Termite specimens (mainly soldier caste) were conserved into vial containing 70% of ethanol for identification. Variables being observed included termite’s (1) relative abundance, (2) distribution, (3) number, and (4) biomass. The relative abundance and distribution between locations were compared using F-test at 5% level of significance. Results showed that the termites recovered from 7.5 finds (Tiuhbalak) and 10 finds (Sukarame) were Macrotermes gilvus, Microtermes obesi, Nasutitermes havilandi, Havilanditermes sp., Schedorhinotermes medioobscurus, and Cryptotermes sp.. Termites that were found in association with the black pepper plants were M. gilvus (in part) and Cryptotermes sp. , while the other M. gilvus, M. obesi, N. havilandi, Havilanditermes sp., and S. medioobscurus were found from their subterranean nests close to the plants. Higher termite number and biomass (dominated by M. gilvus) were recovered from Tiuhbalak, while higher termite diversity was observed from Sukarame.\r\nKey words: termite, abundance, diversity, habitat, black pepper",
+      "subjects": [
+        "S1"
+      ],
+      "title": "POPULASI RAYAP PADA PERTANAMAN LADA DI WAY KANAN, LAMPUNG",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 3
+    },
+    {
+      "volume": 1,
+      "rev_number": 11,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung, Lampung",
+      "title": "PENGENDALIAN HAMA TERPADU\r\n(BUKU AJAR)",
+      "official_url": "http:\/\/silemlit.unila.ac.id\/",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Timbulnya kesadaran masyarakat ilmiah maupun umum akan lingkungan dan cara hidup yang sehat telah mendorong terjadinya perubahan mendasar pada konsep pengendalian hama dari pengendalian tunggal  yaitu aplikasi pestisida  ke pengendalian yang lebih komprehensif dan bersistem yang lebih menekankan pada fungsi pengendali alam yaitu  Pengendalian Hama Terpadu (PHT). Dalam perkembangannya, PHT tidak semata-mata teknik pengendalian, namun lebih merupakan cara pandang dan falsafah dalam pengelolaan hama.  \r\n\r\nBuku Pengendalian Hama Terpadu disusun sebagai pegangan bagi mahasiswa di Jurusan Proteksi Tanaman, Ilmu Tanah, Agronomi, dan Sosial Ekonomi, Fakultas Pertanian Universitas Lampung, yang mengambil mata kuliah Pengendalian Hama Terpadu dan juga sebagai rujukan bagi pembaca.  Materi dan isi buku ajar ini berasal dari berbagai sumber dan dibagi menjadi beberapa topik yang disusun dalam beberapa Bab.  Secara garis besar isi buku ajar ini mencakup: (1) Konsep hama dan pengendaliananya; (2) Perkembangan sistem PHT; (3) Sistem pemantauan (monitoring); (4) Aspek ekologi PHT: Pengelolaan agoekosistem; (5) Aspek ekonomi PHT; (6) Sistem pengambilan keputusan; dan (6) teknik pengendalian  hama.",
+      "status_changed": "2017-07-20 08:45:27",
+      "eprint_status": "archive",
+      "isbn": "979-9377-08-0",
+      "date_type": "published",
+      "eprintid": 3616,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3616",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "publisher": "University of Lampung",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3474",
+            "docid": 3474,
+            "main": "PENGENDALIAN HAMA TERPADU-ROSMA.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 25278,
+                  "filename": "PENGENDALIAN HAMA TERPADU-ROSMA.pdf",
+                  "hash": "f853daed75f5e7d52aea62e824b63d7c",
+                  "mtime": "2017-06-22 01:58:07",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 514917,
+                  "objectid": 3474,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25278"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 3616,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2017-07-20 08:45:27",
+      "lastmod": "2017-07-20 08:45:27",
+      "userid": 1089,
+      "dir": "disk0\/00\/00\/36\/16",
+      "date": "2003-11",
+      "pages": 103,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hasibuan",
+            "lineage": null,
+            "given": "Rosma"
+          },
+          "id": "rosma.hasibuan@fp.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "University of Lampung"
+      ],
+      "divisions": [
+        "FP24"
+      ],
+      "book_title": "Pengendalian Hama Terpadu",
+      "type": "book",
+      "editors": [
+        {
+          "name": {
+            "given": "Cipta",
+            "honourific": null,
+            "family": "Ginting",
+            "lineage": null
+          },
+          "id": "cipta.ginting@fp.unila.ac.id"
+        }
+      ]
+    }
+]
+

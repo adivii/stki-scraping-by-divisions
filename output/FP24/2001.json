@@ -1,0 +1,81 @@
+[
+    {
+      "lastmod": "2020-07-29 09:19:13",
+      "userid": 840,
+      "datestamp": "2020-07-29 09:19:13",
+      "pagerange": "29-32",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37081",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214542",
+                  "objectid": 37081,
+                  "filesize": 130077,
+                  "datasetid": "document",
+                  "mtime": "2020-07-29 03:29:42",
+                  "hash_type": "MD5",
+                  "hash": "2e38d91b0ce081478a292bb76b23d195",
+                  "filename": "Vol. 1 No. 1.pdf",
+                  "fileid": 214542,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 37081,
+            "main": "Vol. 1 No. 1.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23459
+          }
+      ],
+      "publisher": "Jurusan HPT Unila",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23459",
+      "refereed": "FALSE",
+      "type": "article",
+      "divisions": [
+        "FP24"
+      ],
+      "publication": "KARAKTERISASI RIZOBAKTERI YANG BERPOTENSI MENGENDALIKAN BAKTERI XANTHOMONAS ORYZAE PV. ORYZAE DAN MENINGKATKAN PERTUMBUHAN TANAMAN PADI",
+      "issn": "1411-7525",
+      "creators": [
+        {
+          "name": {
+            "given": "Sudi",
+            "lineage": null,
+            "family": "Pramono",
+            "honourific": null
+          },
+          "id": "sudi.pramono@fp.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/34\/59",
+      "date": "2001-03-01",
+      "status_changed": "2020-07-29 09:19:13",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/jhpttropika.fp.unila.ac.id\/index.php\/jhpttropika"
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "One of the problem increased soybean production was Spodoptera litura (army worm), because army worm has been\r\nknown to be resistant to many insecticides. Alternatif control techniques should be explored to reduce population of the\r\npest. Nuclear Polyhedrosis Virus (NPV) could storage one or more year, but must used technique cold storage so that not\r\nvirulence decreased. This experiment was conducted to study (1) NPV pathogenicity to army worm in the field, and (2) the\r\neffect of storage on the pathogenicity of NPV to S. litura. The research consisted of two experiments i.e. laboratory and\r\nfield experiments. Each experiment had seven treatments arranged in a randomized completely block design. Each\r\ntreatment was replicated four times. The results show the highest mortality of S. litura occurred in plot treated with 1,0 x\r\n107\r\nPIBs \/ml, the mortality was 48 to 49,33 spec\/plot after ten days aplicated . If comparative patogenicity the new and the\r\nold NPV was not significant. Population of army worm decreased significantly by NPV and control. So that patogenecity\r\nNPV storage one year as well as new NPV against army worm.",
+      "title": "EFEK PENYIMPANAN TERHADAP VIRULENSI NUCLEAR\r\nPOLYHEDROSIS VIRUS YANG DIAPLIKASIKAN PADA TANAMAN\r\nKEDELAI TERSERANG ULAT GRAYAK (Spodoptera litura Fabr. )",
+      "official_url": "http:\/\/jhpttropika.fp.unila.ac.id\/index.php\/jhpttropika",
+      "rev_number": 8,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "eprintid": 23459,
+      "date_type": "published"
+    }
+]
+

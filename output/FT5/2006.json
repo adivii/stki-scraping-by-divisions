@@ -1,0 +1,141 @@
+[
+    {
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/559",
+            "docid": 559,
+            "main": "20_Proceeding Nasional HEDS-SST 2006.pdf",
+            "files": [
+                {
+                  "objectid": 559,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3628",
+                  "datasetid": "document",
+                  "filesize": 5185452,
+                  "mime_type": "application\/pdf",
+                  "fileid": 3628,
+                  "hash": "730fdaa82f97bdd4ce77555b41b42b27",
+                  "filename": "20_Proceeding Nasional HEDS-SST 2006.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-23 06:25:56"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 654,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/654",
+      "full_text_status": "public",
+      "lastmod": "2016-09-26 01:09:34",
+      "userid": 504,
+      "datestamp": "2016-09-26 01:09:34",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null,
+            "given": "Ahmad Saudi"
+          }
+        }
+      ],
+      "publication": "Proceeding Makalah Peserta HEDS Seminar on Science & Technology (HEDS-SST) 2006",
+      "date": "2006-09",
+      "dir": "disk0\/00\/00\/06\/54",
+      "type": "article",
+      "divisions": [
+        "FT5"
+      ],
+      "title": "Design and Implementation of Uninterruptible Power Supply (UPS) Uses Digital Control System Base on Microcontroller",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2016-09-26 01:09:34",
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang desain dan Implementasi sebuah Uninterruptible Power Supply (UPS) menggunakan pengendali Digital berbasis Mikrokontroler. \r\nPembahasan dimulai dengan prinsip kerja dan konfigurasi system UPS, elemen system UPS, dilanjutkan dengan perancangan system UPS menggunakan pengendali Digital berbasis Mikrokontroler. Rancangan system UPS yang diusulkan dimodelkan dan disimulasikan menggunakan perangkat lunak Simulink. Kemudian dilakukan pembangunan Hardware untuk memverifikasi unjuk kerja rangkaian.",
+      "subjects": [
+        "TK"
+      ],
+      "eprintid": 654,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "event_title": "HEDS Seminar on Science & Technology (HEDS-SST) 2006",
+      "eprintid": 274,
+      "event_location": "Bandar Lampung",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "UPS merupakan bagian yang sangat penting pada penggunaan peralatan peralatan kritis. Peralatan kritis didefinisikan sebagai beban berupa peralatan elektrik atau elektronik yang tidak mengijinkan ganggunan daya listrik dan peka terhadap simpangan jala jala pencatu daya. Beberapa contoh dari peralatan kritis adalah seperti peralatan komputer pengolah data, peralatan medik di ruang gawat darurat, peralatan kendali proses kontiniu, dan peralatan sistem telekomunikasi. Penelitian ini bertujuan untuk merancang model rangkaian UPS dengan sistem pengendali digital dan mengimplementasikan rancangan rangkaian menjadi sebuah UPS dengan sistem pengendali digital berbasis mikrokontroller.",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-02 04:19:04",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Design and Implementation of Uniterruptible Power Supply (UPS) Uses Digital Control System Base on Microcontroller",
+      "event_dates": "13-14 September 2006",
+      "divisions": [
+        "FT5"
+      ],
+      "type": "conference_item",
+      "date": "2006-09",
+      "dir": "disk0\/00\/00\/02\/74",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad Saudi",
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2016-08-02 04:19:04",
+      "lastmod": "2016-08-02 04:19:04",
+      "userid": 504,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/274",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/269",
+            "docid": 269,
+            "main": "Paper_Seminar_HEDS-SST.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1533",
+                  "objectid": 269,
+                  "filesize": 13028390,
+                  "datasetid": "document",
+                  "filename": "Paper_Seminar_HEDS-SST.pdf",
+                  "hash": "bb502c8971932b68d03a25057d39a49d",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-02 03:48:03",
+                  "mime_type": "application\/pdf",
+                  "fileid": 1533
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 274,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pres_type": "paper"
+    }
+]
+

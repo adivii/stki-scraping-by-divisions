@@ -1,0 +1,1143 @@
+[
+    {
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "official_url": "http:\/\/www.eii-forum.or.id\/",
+      "event_dates": "15-16 Oktober 2015",
+      "title": "Pengembangan e-Catalog Kupu-Kupu Sumatera versi 2.0 dengan AngularJS",
+      "abstract": "Konservasi Kupu-Kupu Sumatera merupakan kegiatan yang terus menerus dilakukan oleh Taman Kupu-Kupu Gita Persada, mengingat beberapa spesies kupu-kupu Sumatera terancam punah. Penelitian sebelumnya yang telah dilakukan oleh DR. Herawati Soekardi dalam mengembangkan e-Catalog Kupu-Kupu Sumatera yang bermanfaat sebagai perangkat teknologi informasi interaktif dalam menyebarkan pengetahuan mengenai kupu-kupu dan konservasinya mendapat respon positif dari pengunjung Taman Kupu-Kupu Gita Persada. Berdasarkan masukan dari pengunjung dan perubahan kebutuhan pengguna dari e-Catalog Kupu-Kupu Sumatera, perlu dilakukan pengembangan lebih lanjut baik dari sisi User eXperience (UX) mau pun optimalisasi teknologi informasi. Knowledge Base e-Catalog diperkaya melalui tanya jawab dan diskusi dengan staf Taman Kupu-Kupu Gita Persada untuk mendapatkan kebutuhan pengguna yang tepat. Framework pengembangan e-Catalog Kupu-Kupu Sumatera menggunakan AngularJS. AngularJS menggunakan MVC (Model View Controller) design pattern sepenuhnya. Hal tersebut memudahkan proses pengembangan karena pemisahan yang jelas antara Model, View, dan Controller. Dengan konsep layanan (service), AngularJS memudahkan pengembangan service yang dapat digunakan berulang kali dalam aplikasi. Aplikasi e-Catalog yang dikembangkan memberikan informasi mengenai konservasi, spesies kupu-kupu, tanaman pakan larva, dan tanaman pakan inang dengan target perangkat telepon pintar dan tablet. Evaluasi UX melibatkan staf Taman Kupu-Kupu Gita Persada dan 30 orang pengunjung Taman Kupu-Kupu Gita Persada melalui UAT (User Acceptance Test) yang dibandingkan dengan hasil penelitian sebelumnya. Hasil pengujian dan evaluasi menunjukkan e-Catalog Kupu-Kupu Sumatera berjalan dengan baik dan mengalami peningkatan User eXperience.",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-05-02 04:17:17",
+      "event_location": "Bandung",
+      "date_type": "published",
+      "eprintid": 10895,
+      "event_title": "e-Indonesia Initiative Forum 2015",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10895",
+      "documents": [
+          {
+            "docid": 23904,
+            "main": "eii2015_18.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100172",
+                  "objectid": 23904,
+                  "filesize": 690829,
+                  "datasetid": "document",
+                  "mtime": "2019-03-10 11:39:31",
+                  "hash_type": "MD5",
+                  "hash": "3a0560714c075678c7efe51e00c95f38",
+                  "filename": "eii2015_18.pdf",
+                  "fileid": 100172,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23904",
+            "rev_number": 1,
+            "eprintid": 10895,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2019-05-02 04:17:17",
+      "userid": 1199,
+      "lastmod": "2019-05-02 04:17:17",
+      "dir": "disk0\/00\/01\/08\/95",
+      "date": "2015-10",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Herawati",
+            "honourific": null,
+            "family": "Soekardi",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "pagerange": "492-505",
+      "datestamp": "2022-04-06 06:09:53",
+      "lastmod": "2022-04-06 06:09:53",
+      "userid": 517,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41125",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162573",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 456558,
+                  "filename": "PURWARUPA RUNNING TEXT TAMPILAN INFORMASI LED MATRIX BERBASIS ARDUINO DAN ANDROID DI PERPUSTAKAAN UNILA.pdf",
+                  "hash": "5d19365b6151268947a7ca432749a2d8",
+                  "mtime": "2022-04-06 05:49:44",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 973484,
+                  "objectid": 162573,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456558"
+                }
+            ],
+            "docid": 162573,
+            "main": "PURWARUPA RUNNING TEXT TAMPILAN INFORMASI LED MATRIX BERBASIS ARDUINO DAN ANDROID DI PERPUSTAKAAN UNILA.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 41125
+          }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/04\/11\/25",
+      "date": 2015,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Azrofata",
+            "honourific": null,
+            "given": "Endi"
+          },
+          "id": null
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        }
+      ],
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "Unila mempunyai media penyampai informasi, salah satunya berupa papan\r\npengumuman perpustakaan Unila. Running Text dapat menggantikan fungsi papan\r\npengumuman di perpustakaan Unila. Metodologi penelitian yang digunakan adalah\r\n“Design Science Research Methodology for Information Systems Research”. Sistem Running Text dapat dibagun dengan Arduino dan Android menggunakan jalur komunikasi WiFi. Arduino yang berfungsi sebagai kendali utama pada sistem dan Android sebagai media pengubah tampilan informasi, sedangkan Rangkaian modul WiFi berfungsi sebagai jalur komunikasi antara Android dengan mikrokontroler Arduino. Tampilan modul running text, LED Matrix P10 menggunakan dua buah software, yaitu software Arduino SDK dan Basic4Android yang digunakan untuk membuat aplikasi pada Android berupa LED Matrix Control. Purwarupa Running Text tampilan informasi LED Matrix berbasis Arduino dan Android di perpustakaan Unila\r\nmenunjukkan hasil pengujian yang baik dan dapat berfungsi sesuai tujuannya. \r\n\r\nKata kunci: Arduino, ATMega328, DMD, LED Matrix P10, WiFi 232-A11.",
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:09:53",
+      "succeeds": 27115,
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "PURWARUPA RUNNING TEXT TAMPILAN INFORMASI\r\nLED MATRIX BERBASIS ARDUINO DAN ANDROID\r\nDI PERPUSTAKAAN UNILA - Full Cover",
+      "event_dates": "3 November 2015",
+      "date_type": "published",
+      "event_title": "Seminar Nasional Sains & Teknologi VI",
+      "eprintid": 41125,
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "event_location": "Semarang",
+      "eprintid": 41123,
+      "event_title": "2 nd Int. Conference on Information Technology, Computer and Electrical Engineering (ICITACEE)",
+      "date_type": "published",
+      "title": "Smart Monitoring of Electrical Quantities Based on\r\nSingle Board Computer BCM2835 - Full Cover",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7437821",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "succeeds": 2585,
+      "status_changed": "2022-04-06 06:09:20",
+      "eprint_status": "archive",
+      "abstract": "Electricity network needs to be monitored, especially for Voltage (V) measurement, current (A), power factor (cos θ), power (W), and energy consumption (kWh).\r\nMonitoring is important, in order to know the quality of electricity supply in the system, identifying  disruption events, and to calculate the amount of electrical energy consumption periodically. To achieve the objectives mentioned above, we have made device that can be monitor the electrical quantities in real time, recorded data was stored in to database system, and web application processed this data and shown the statistic reports through a web interface. This research was conducted on the 3 phase electricity at The Integrated Laboratory of the Electrical Engineering Department University of Lampung. Monitoring of voltage, current and energy consumption was done by using a step-down transformator as a voltage sensor, ACS712-30A as\r\ncurrent sensors for capture the flow measurement, and TEM015D4250 kWh meter for measuring energy consumption.\r\nPower and Power Factor value was obtained by some of scientific calculation.\r\nWe used Python programming language for data processing measurement And calculation, running on BCM2835 Single Board Computer.\r\nThe results of measurements include voltage, current, power factor, power, and The amount of energy consumption was stored in to data base, and data report Can be accessed online using web browser.\r\n \r\nKeywords— 3-phase electrical networks, voltage sensors,current sensors, kWh meters, energy consumption, BCM2835 single board computer.",
+      "subjects": [
+        "TK"
+      ],
+      "creators": [
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "given": "Dikpride",
+            "honourific": null,
+            "family": "Despa",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Komarudin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhamad"
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          }
+        },
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/11\/23",
+      "date": 2015,
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41123,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456531",
+                  "objectid": 162564,
+                  "filename": "Smart Monitoring of Electrical Quantities Based on Single Board.pdf",
+                  "hash": "f74e997825cce423da1c9a0e304b0256",
+                  "mtime": "2022-04-06 05:00:38",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 456531,
+                  "filesize": 683175,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Smart Monitoring of Electrical Quantities Based on Single Board.pdf",
+            "docid": 162564,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162564",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41123",
+      "lastmod": "2022-04-06 06:09:20",
+      "userid": 517,
+      "datestamp": "2022-04-06 06:09:20"
+    },
+    {
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        }
+      ],
+      "date": "2015-10-15",
+      "dir": "disk0\/00\/00\/69\/46",
+      "type": "conference_item",
+      "contact_email": "meizano@eng.unila.ac.id",
+      "divisions": [
+        "FT8"
+      ],
+      "documents": [
+          {
+            "main": "eii2015_13.pdf",
+            "docid": 19919,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1157267,
+                  "fileid": 63623,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-27 12:40:33",
+                  "hash": "990da374f89a72f45ba665deeab83cb5",
+                  "filename": "eii2015_13.pdf",
+                  "objectid": 19919,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63623"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19919",
+            "eprintid": 6946,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6946",
+      "lastmod": "2018-05-28 03:59:07",
+      "userid": 1199,
+      "datestamp": "2018-05-28 03:59:07",
+      "event_location": "Bandung",
+      "eprintid": 6946,
+      "event_title": "Konferensi dan Temu Nasional Teknologi Informasi & Komunikasi (TIK) untuk Indonesia 2014 (eII 2014)",
+      "date_type": "published",
+      "title": "Font Aksara Lampung berstandar Unicode",
+      "event_dates": "15-16 Oktober 2015",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "eprint_status": "archive",
+      "status_changed": "2018-05-28 03:59:07",
+      "abstract": "Aksara Lampung merupakan kebudayaan Lampung yang menjadi alat komunikasi melalui media tulis. Sebagai salah satu identitas budaya, aksara Lampung mengalami dampak dari jaman digital, yaitu penurunan penggunaan karena tidak tersedianya di sistem digital. Hal tersebut memerlukan solusi untuk menghindari aksara Lampung hanya menjadi bagian dari sejarah. Dengan melakukan digitalisasi dari aksara lampung menjadi font komputer, sistem digital dapat didorong untuk menggunakannya dan dapat dijadikan salah satu perangkat untuk pelestarian budaya Lampung. Dengan tujuan membuat font aksara Lampung yang dapat diterima oleh sistem dan bahkan dapat diusulkan untuk dimasukkan ke dalam sistem font Unicode, font aksara Lampung yang dibuat harus mengikuti aturan kaidah font Unicode. Metode penelitian yang dilakukan adalah dengan melakukan studi literatur dan survey lapangan, kemudian melakukan perancangan font dengan metode prototyping sehingga hasilnya memenuhi standar Unicode dan dapat diterima oleh masyarakat Lampung. Beberapa kondisi yang diperhatikan dalam pembuatan font aksara Lampung adalah penulisan hurufnya yang memiliki tanda baca atas dan bawah, sehingga lebih menyerupai huruf arab. Walaupun, aksara lampung masih dibaca seperti huruf latin pada umumnya, yaitu dari kiri ke kanan. Font aksara Lampung yang dibuat memenuhi standar Unicode. Berdasarkan hasil tersebut, font aksara Lampung dapat diusulkan untuk disertakan di font Unicode.",
+      "subjects": [
+        "T1"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46648,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185554",
+            "docid": 185554,
+            "main": "unila.ac.id Mail - [ICSITech 2015] Your paper #1570183259 ('Design and Implementation of Web-Based Geographic Information System for Public Services in Bandar Lampung City - Indonesia').pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514041",
+                  "objectid": 185554,
+                  "filesize": 433039,
+                  "datasetid": "document",
+                  "hash": "b984d3caac6d16d492f03c57c538c238",
+                  "filename": "unila.ac.id Mail - [ICSITech 2015] Your paper #1570183259 ('Design and Implementation of Web-Based Geographic Information System for Public Services in Bandar Lampung City - Indonesia').pdf",
+                  "mtime": "2022-11-14 13:46:15",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 514041
+                }
+            ]
+          },
+          {
+            "eprintid": 46648,
+            "placement": 3,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "nama2015 (4).pdf.pdf",
+            "docid": 186739,
+            "files": [
+                {
+                  "objectid": 186739,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522109",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522109,
+                  "filename": "nama2015 (4).pdf.pdf",
+                  "hash": "5ab47251ab4b3feb1b93b07896e25608",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-09 08:30:27",
+                  "datasetid": "document",
+                  "filesize": 625388
+                }
+            ],
+            "pos": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186739",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46648",
+      "lastmod": "2023-01-09 08:30:31",
+      "userid": 1,
+      "datestamp": "2022-11-14 13:50:15",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "date": 2015,
+      "dir": "disk0\/00\/04\/66\/48",
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "title": "Design and implementation web based geographic information system for public services in Bandar Lampung City — Indonesia - similarity and corresponding email",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 13:50:15",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 46648,
+      "date_type": "published"
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "date": 2015,
+      "dir": "disk0\/00\/04\/66\/49",
+      "userid": 1,
+      "lastmod": "2022-11-14 13:53:28",
+      "datestamp": "2022-11-14 13:53:28",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46649,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 185556,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514051",
+                  "datasetid": "document",
+                  "filesize": 1028112,
+                  "fileid": 514051,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-14 13:52:12",
+                  "hash_type": "MD5",
+                  "hash": "f249af529801121dc611743342dc9767",
+                  "filename": "Dynamic_Tunnel_Switching_using_Network_Functions_V.pdf"
+                }
+            ],
+            "docid": 185556,
+            "main": "Dynamic_Tunnel_Switching_using_Network_Functions_V.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185556",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46649",
+      "eprintid": 46649,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 13:53:28",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Dynamic tunnel switching using network functions visualization for HA system failover - similarity check",
+      "metadata_visibility": "show",
+      "rev_number": 8
+    },
+    {
+      "date_type": "published",
+      "eprintid": 46647,
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-14 13:39:51",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Performance analysis of Aruba™ wireless local area network Lampung University",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "date": 2015,
+      "dir": "disk0\/00\/04\/66\/47",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "datestamp": "2022-11-14 13:39:51",
+      "lastmod": "2022-11-14 13:39:51",
+      "userid": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46647",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46647,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 185552,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514031",
+                  "fileid": 514031,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 13:37:20",
+                  "filename": "Performance_Analysis_of_ArubaTM_Wireless_Local_Are.pdf",
+                  "hash": "af9a79d38ecae36234f0475f33b81fa9",
+                  "datasetid": "document",
+                  "filesize": 2691946
+                }
+            ],
+            "main": "Performance_Analysis_of_ArubaTM_Wireless_Local_Are.pdf",
+            "docid": 185552,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185552",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          },
+          {
+            "docid": 185553,
+            "main": "unila.ac.id Mail - Request to revise your ICSITech 2015 paper.pdf",
+            "files": [
+                {
+                  "fileid": 514033,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-14 13:39:02",
+                  "hash_type": "MD5",
+                  "hash": "e7d74497f89a1892f0baa1359e80258d",
+                  "filename": "unila.ac.id Mail - Request to revise your ICSITech 2015 paper.pdf",
+                  "datasetid": "document",
+                  "filesize": 305015,
+                  "objectid": 185553,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514033"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185553",
+            "rev_number": 1,
+            "eprintid": 46647,
+            "security": "public",
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "IEEE"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46651",
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185559",
+            "docid": 185559,
+            "main": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26865045-2022-11-14-21_05_47.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514070",
+                  "objectid": 185559,
+                  "filesize": 11702332,
+                  "datasetid": "document",
+                  "hash": "16fbc192322270ec07cff73d226e666c",
+                  "filename": "screencapture-unila-turnitin-viewer-submissions-oid-7867-26865045-2022-11-14-21_05_47.pdf",
+                  "mtime": "2022-11-14 14:06:52",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 514070
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46651,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2022-11-14 14:07:55",
+      "lastmod": "2022-11-14 14:07:55",
+      "userid": 1,
+      "date": 2015,
+      "dir": "disk0\/00\/04\/66\/51",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Smart Monitoring Data Centre base on Mini Single Board Computer BCM 2835. In: Smart Monitoring Data Centre base on Mini Single Board Computer BCM 2835 - similarity check",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 14:07:55",
+      "eprint_status": "archive",
+      "eprintid": 46651
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2022-11-14 14:02:50",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Smart monitoring of electrical quantities based on single board computer BCM2835 - similarity check and corresponding email",
+      "date_type": "published",
+      "eprintid": 46650,
+      "datestamp": "2022-11-14 14:02:50",
+      "userid": 1,
+      "lastmod": "2023-01-09 08:34:24",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46650",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2454043,
+                  "fileid": 514060,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 13:59:37",
+                  "filename": "unila.ac.id Mail - [ICITACEE 2015] Information about paper #1570211437 (Smart Monitoring of Electrical Quantities Based on Single Board Computer BCM2835) has been changed.pdf",
+                  "hash": "de043f36894cce5bec689f8ecf8c9059",
+                  "objectid": 185557,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514060"
+                }
+            ],
+            "docid": 185557,
+            "main": "unila.ac.id Mail - [ICITACEE 2015] Information about paper #1570211437 (Smart Monitoring of Electrical Quantities Based on Single Board Computer BCM2835) has been changed.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185557",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46650,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "security": "public",
+            "placement": 3,
+            "eprintid": 46650,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 522112,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-01-09 08:33:49",
+                  "hash_type": "MD5",
+                  "hash": "06c033264dc55ee46d15b620b41e5bb0",
+                  "filename": "IEEE2015 (1).pdf.pdf",
+                  "datasetid": "document",
+                  "filesize": 1034813,
+                  "objectid": 186740,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522112"
+                }
+            ],
+            "docid": 186740,
+            "main": "IEEE2015 (1).pdf.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186740",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 3
+          }
+      ],
+      "publisher": "IEEE",
+      "ispublished": "pub",
+      "divisions": [
+        "FT8"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/66\/50",
+      "date": 2015,
+      "creators": [
+        {
+          "name": {
+            "family": "Nama",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gigih Forda"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "title": "Performance Analysis of Aruba\r\nTM\r\n Wireless Local\r\nArea Network Lampung University",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "status_changed": "2016-06-21 07:32:02",
+      "eprint_status": "archive",
+      "abstract": "bstract— Information Technology has become the catalyst\r\nfor growth at Lampung University, there were over 25,000\r\nstudents, 1,300 lecturer, and 645 academic staff should be\r\nprovided with adequate network capacity in order for enhancing\r\nlearning, research activity, and other academic use. IT units\r\nalready developed wireless infrastructure using Aruba\r\nTechnology since March 2014 to served them. 100 units Aruba\r\nseries AP-135 and 30 AP-175 already installed on 95 buildings.\r\nWireless Network Controller, Airwave, and Clear Pass as a part\r\nof Aruba Mobility-Defined Networks Architecture technology\r\nalso developed. This  paper introduce a wireless performance\r\nanalysis based on airwave reporting application, with 1 year of\r\ndata report we  investigated network activity on each Aruba AP\r\nsuch; usage average, clients average, top applications and\r\ndestinations, client device inventory. The result of this study\r\nshown 3 busiest and high load AP; 1). FT Kimia Lt1 with 55\r\naverage clients and 6.694 Mbps average usage, 2). FKIP G\r\nOutdoor with 41 average clients and 4.4 Mbps average usage, 3).\r\nGSG A 969 with 37 average clients and 2.439 Mbps average\r\nusage.  Maximum concurrent client connected to Aruba AP was\r\n2,647 was held on November 2014. Top application and its data\r\nconsumed during 2 weeks investigation was; 1). Sys-svc-http with\r\n2.31 TB, 2). Svc-smb-udp with 1,59 TB, 3). Svc-https with 390\r\nGB, 4). Facebook with: 172 GB. Top 5 Operating System used by\r\nusers device was; Android, Win 7, Iphone, Blackberry, Win 8.  \r\nKeywords— wireless LAN performance analysis; aruba\r\nmobility-defined networks architecture; wireless monitoring; aruba\r\nwireless",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 9,
+      "event_title": "2015 International Conference on Science in Information Technology (ICSITech)",
+      "date_type": "published",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 9,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1323014,
+                  "fileid": 53,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-06-21 07:25:58",
+                  "hash_type": "MD5",
+                  "filename": "GIGIH ICSITECH-Rev 20151123-IEEE-Submit.pdf",
+                  "hash": "2ae64b72e30749f4a657688c8d74c408",
+                  "objectid": 20,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/53"
+                }
+            ],
+            "main": "GIGIH ICSITECH-Rev 20151123-IEEE-Submit.pdf",
+            "docid": 20,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9",
+      "full_text_status": "public",
+      "lastmod": "2016-06-30 02:20:43",
+      "userid": 3,
+      "datestamp": "2016-06-21 07:32:02",
+      "pagerange": "41-46",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nama"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null,
+            "given": "Muhamad"
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Septama",
+            "lineage": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/00\/00\/09",
+      "date": "2015-09-01",
+      "type": "conference_item",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Septama",
+            "given": "Hery Dian"
+          }
+        },
+        {
+          "id": "ardian.ulvan@eng.unila.ac.id",
+          "name": {
+            "given": "Ardian",
+            "lineage": null,
+            "family": "Ulvan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "melvi@eng.unila.ac.id",
+          "name": {
+            "given": "Melvi",
+            "lineage": null,
+            "family": "Ulvan",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "1693-6930",
+      "publication": "TELKOMNIKA",
+      "id_number": "10.12928\/TELKOMNIKA.v13i2.1741",
+      "date": "2015-06-02",
+      "dir": "disk0\/00\/00\/22\/82",
+      "lastmod": "2017-05-31 08:26:58",
+      "userid": 159,
+      "datestamp": "2017-05-31 08:26:58",
+      "pagerange": "739-744",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2162",
+            "rev_number": 1,
+            "main": "1741-4179-1-PB.pdf",
+            "docid": 2162,
+            "files": [
+                {
+                  "fileid": 15769,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 00:12:55",
+                  "hash": "d3a7bc48fbc7792dc8cad5dc4510d57c",
+                  "filename": "1741-4179-1-PB.pdf",
+                  "datasetid": "document",
+                  "filesize": 263937,
+                  "objectid": 2162,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15769"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 2282,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "IAES",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2282",
+      "eprintid": 2282,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-31 08:26:58",
+      "abstract": "Voice over Internet Protocol (VoIP) is Internet Protocol (IP) based technology for the next\r\ngeneration network. VoIP has been develoved to overcome future telephony demand. However, some\r\nissues i.e. how to provide the services availability and reliability equally to circuit based telephony, need to\r\novercome before VoIP replaced the circuit based telephony. Live migration in virtualization environment is\r\nused to provide high availability service, but the failover mechanism over Wide Area Network (WAN) need\r\nto be improved. In this paper, the ability of virtualization failover mechanism over WAN and voice quality of\r\nVoIP service in High Availability system is studied and examined. Both objective analysis by using quality\r\nof services (QoS) attributes is conducted as well as the subjective analysis using Mean Opinion Score\r\n(MOS). The work utilizes Xen® Hypervisor with modified Remus extensions to provide the High Availability\r\nenvironment with GRE tunnelling and newtwork virtualization. Remus approach using checkpoint based is\r\ndeployed to copy the primary server to the backup server. A range of 40ms – 900ms has been applied as\r\ntime interval of checkpoint. The results show that the the failover downtime is 1.4 s and mean jitter is 9,98\r\nms, packet loss 3,12% and MOS 3.61 for Remus 400ms checkpoint. MOS with different checkpoint time\r\ninterval is also presented",
+      "subjects": [
+        "TK"
+      ],
+      "title": "High Available VoIP Server Failover Mechanism in\r\nWide Area Network",
+      "official_url": "http:\/\/journal.uad.ac.id\/index.php\/TELKOMNIKA",
+      "metadata_visibility": "show",
+      "volume": 13,
+      "rev_number": 6
+    },
+    {
+      "type": "conference_item",
+      "contact_email": "hery@eng.unila.ac.id",
+      "divisions": [
+        "FT8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Hery Dian",
+            "honourific": null,
+            "family": "Septama",
+            "lineage": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ulvan",
+            "given": "Ardian"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ulvan",
+            "given": "Melvi"
+          }
+        },
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/00\/13\/57",
+      "date": "2015-10-27",
+      "lastmod": "2017-01-04 01:48:32",
+      "userid": 159,
+      "datestamp": "2017-01-04 01:48:32",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1234",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 9147,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-01-03 05:35:09",
+                  "hash": "c04f00e1d94e9307ea2650e54b450030",
+                  "filename": "icsitech_revision_final.pdf",
+                  "datasetid": "document",
+                  "filesize": 216651,
+                  "objectid": 1234,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9147"
+                }
+            ],
+            "docid": 1234,
+            "main": "icsitech_revision_final.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1357
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1357",
+      "full_text_status": "public",
+      "eprintid": 1357,
+      "event_title": "2015 International Conference on Science in Information Technology (ICSITech),",
+      "date_type": "completed",
+      "event_location": "Yogyakarta",
+      "eprint_status": "archive",
+      "status_changed": "2017-01-04 01:48:32",
+      "abstract": "High Availability (HA) is an ability of the system\r\nto operate continuously in desired amount of time. Telephony system, for example, should operate 99.999%, that means the system should have only 5.26 maximum downtime for a year. Provide high available IP based service such as Voice over IP for telephony is difficult since IP is not designed for reliable connection. A lot of research has been conducted to overcome these drawbacks. This paper works by enhancing the failover mechanism of Remus as a high availability solution using server virtualization. This paper proposed network function virtualization in order to create a dynamic tunnel switching between primary and secondary server to the clients gateway.\r\nThe result shows the jitter level and downtime of modified\r\nfailover using dynamic tunnel switching did not make the jitter or amount of downtime higher. The server downtime using dynamic tunnel switching were varied between 1.3 - 1.5 second that is still comparable with basic Remus downtime with gratuitous ARP means the proposed idea using network function virtualization works well. This paper extends the ability of failover to adapt the wide area condition.",
+      "subjects": [
+        "TK"
+      ],
+      "official_url": "http:\/\/ieeexplore.ieee.org\/document\/7407814\/",
+      "title": "Dynamic Tunnel Switching Using Network Functions Virtualization For HA System Failover",
+      "event_dates": "27 - 28 October 2014",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/04\/11\/27",
+      "date": 2015,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sholeh Maulana",
+            "lineage": null,
+            "given": "Imam"
+          },
+          "id": null
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        }
+      ],
+      "pagerange": "537-549",
+      "datestamp": "2022-04-06 06:09:27",
+      "lastmod": "2022-04-06 06:09:27",
+      "userid": 517,
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41127",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2022-04-06 05:55:41",
+                  "hash_type": "MD5",
+                  "hash": "13afc4c3f464343ba22cdc90a7349553",
+                  "filename": "LET’S QR AUGMENTED REALITY BERBASIS WEB DAN QR CODE (STUDI KASUS PERPUSTAKAAN).pdf",
+                  "fileid": 456580,
+                  "mime_type": "application\/pdf",
+                  "filesize": 943902,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456580",
+                  "objectid": 162582
+                }
+            ],
+            "docid": 162582,
+            "main": "LET’S QR AUGMENTED REALITY BERBASIS WEB DAN QR CODE (STUDI KASUS PERPUSTAKAAN).pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162582",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 41127,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 41127,
+      "event_title": "Seminar Nasional Sains & Teknologi VI",
+      "event_location": "Bandar Lampung",
+      "abstract": "Perangkat telekomunikasi saat ini sudah berkembang hingga menjadi sebuah perangkat pintar yang disebut dengan smartphone dimana ponsel tersebut cukup dapat mewakili\r\nsebuah perhitungan dengan cepat sehingga memenuhi kebutuhan manusia saat ini. Dengan memanfaatkan perkembangan teknologi tersebut sebuah perpustakaan dapat meningkatkan mutu pelayanan yang tentu saja memudahkan pustakawan memberi\r\ninformasi untuk pengguna perpustakaan dalam kegiatan membaca. UPT perpustakaan membutuhkan sebuah inovasi seperti penyampaian informasi yang banyak dikembangkan saat ini. Salah satu teknologi yang cukup berkembang saat ini adalah\r\npenggunaan QR code untuk memberikan address ataupun infomasi umum dalam sebuah alamat website ataupun code barang. QR code merupakan sebuah marker pola dari pengembangan barcode yang dulu hanya digunakan biasanya sebagai penanda nomor.\r\nDengan memanfaatkan kamera smartphone QR code akan diakses dan diberi informasi untuk memenuhi kebutuhan para pustakawan. Penelitian ini melakukan perancangan\r\ndan pembangunan Web AR (Augmented Reality) berbasis QR Code untuk pengunjung di UPT Perpustakaan. Metode pengembangan yang digunakan adalah metode pengembangan software prototyping karena metode ini memudahkan dalam proses\r\nperancangan dan pembuatan aplikasi sebab metode ini akan melakukan siklus memutar hingga mencapai titik kesepakatan untuk tahap penelitian selanjutnya. Hasil dari\r\npenelitian adalah terbangun aplikasi yang diberi nama Let’s QR dan dapat memudahkan pustakawan dalam memberikan informasi kepada pengunjung perpustakaan dengan\r\nmemanfaatkan teknologi QR code.\r\nKata kunci: Let’s QR, QR code, perpustakaan, pustakawan, smartphone",
+      "subjects": [
+        "T1"
+      ],
+      "succeeds": 27116,
+      "eprint_status": "archive",
+      "status_changed": "2022-04-06 06:09:27",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "event_dates": "3 November 2015",
+      "title": "LET’S QR AUGMENTED REALITY BERBASIS WEB DAN QR CODE\r\n(STUDI KASUS PERPUSTAKAAN)- Full Cover"
+    }
+]
+

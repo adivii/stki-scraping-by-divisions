@@ -1,0 +1,77 @@
+[
+    {
+      "lastmod": "2021-11-20 03:05:39",
+      "userid": 190,
+      "datestamp": "2021-11-20 03:05:39",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "video\/mp4",
+            "language": "en",
+            "eprintid": 37053,
+            "security": "public",
+            "placement": 1,
+            "format": "video",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157962",
+            "rev_number": 1,
+            "docid": 157962,
+            "main": "bandara raden inten 2.mp4",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/425088",
+                  "objectid": 157962,
+                  "filesize": 16992633,
+                  "datasetid": "document",
+                  "mtime": "2021-11-19 18:10:17",
+                  "hash_type": "MD5",
+                  "hash": "8c5ccf042ec86391e3eaa5f62cdf7dfa",
+                  "filename": "bandara raden inten 2.mp4",
+                  "fileid": 425088,
+                  "mime_type": "video\/mp4"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37053",
+      "full_text_status": "public",
+      "type": "video",
+      "divisions": [
+        "FT9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Basuki",
+            "honourific": null,
+            "given": "Kelik Hendro"
+          },
+          "id": "jaya_setika@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "KURNIAWAN",
+            "honourific": null,
+            "lineage": null,
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/03\/70\/53",
+      "date": "2014-04-04",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-20 03:05:39",
+      "subjects": [
+        "NA"
+      ],
+      "abstract": "Hasil Desain pada Video Animasi Perencanaan Terminal 2 Bandara Raden Inten 2 Lampung.",
+      "official_url": "https:\/\/www.youtube.com\/watch?v=bDLekQxZouo",
+      "title": "Animasi Bandara Raden Inten 2",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 37053
+    }
+]
+
