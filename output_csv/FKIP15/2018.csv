@@ -1,0 +1,257 @@
+,type,divisions,date,id_number,lastmod,datestamp,number,ispublished,contributors,eprintid,date_type,eprint_status,subjects,abstract,official_url,contact_email,keywords,publication,issn,creators,dir,userid,pagerange,documents,uri,full_text_status,refereed,status_changed,title,referencetext,rev_number,volume,metadata_visibility,publisher,succeeds,related_url
+0,article,['FKIP15'],1970-01-01 00:00:00.000002018,doi:10.14421/biomedich.2018.71.27-31,2020-02-17 03:49:29,2020-02-17 03:49:29,1.0,pub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",17909,published,archive,['QH301'],"Inflammation is a tissue injury that occurs due to physical trauma or microbiological substances that involve the activities of many cell types. Inflammation can be prevented using the natural medicines from Allium cepa L. Quercetin is one of the bioactive compounds found
+in Allium cepa L and has been reported to have anti-inflammatory activity. The natural medicines have been used to minimize nonsteroidal anti-inflammatory drugs. This study aims to investigate the modeling structures and the protein receptor from quecertin in inflammation mechanism and their optimization of the effectiveness in the human body. The bioinformatics tools used in this study are the database of quercetin compounds, Pubchem and Swis Target Prediction protein prediction databases, PyRx 0.8 molecular docking software, ligand docking, and binding site analysis with PyMOL and LigPlus software. The results from in silico show that quercetin compounds can interact with Muscleblind-like protein 1 target protein with a Binding Affinity minus value which is not much different from the dexamethasone compound. Dexamethason is a standart because it is a corticosteroid drug that can be used as an antiinflammatory to reduce inflammation, allergic reactions, arthritis and other inflammatory diseases.",http://doi.org/10.14421/biomedich.2018.71.27-31,dina.maulina@fkip.unila.ac.id,"Allium cepa L.; anti inflamation; in silico, quercetin","Biology, Medicine, & Natural Product Chemistry",2089-6514,"[{'name': {'lineage': None, 'family': 'Amin', 'honourific': None, 'given': 'Mohamad'}}, {'name': {'given': 'Kurniawan Setia', 'lineage': None, 'honourific': None, 'family': 'Putra'}}, {'name': {'honourific': None, 'family': 'Amin', 'lineage': None, 'given': 'Ihya Fakhrurizal'}}, {'name': {'honourific': None, 'family': 'Earlia', 'lineage': None, 'given': 'Nanda'}}, {'name': {'honourific': None, 'family': 'Maulina', 'lineage': None, 'given': 'Dina'}}, {'name': {'lineage': None, 'honourific': None, 'family': 'Lukiati', 'given': 'Betty'}}, {'name': {'lineage': None, 'family': 'Lestari', 'honourific': None, 'given': 'Umie'}}]",disk0/00/01/79/09,48,27-31,"[{'files': [{'objectid': 31048, 'uri': 'http://repository.lppm.unila.ac.id/id/file/150880', 'fileid': 150880, 'mime_type': 'application/pdf', 'mtime': '2020-02-06 02:14:17', 'hash_type': 'MD5', 'hash': '47887310504de3b6809f0af58520b2d2', 'filename': '76-279-1-PB.pdf', 'datasetid': 'document', 'filesize': 476812}], 'main': '76-279-1-PB.pdf', 'docid': 31048, 'uri': 'http://repository.lppm.unila.ac.id/id/document/31048', 'rev_number': 1, 'pos': 1, 'format': 'text', 'placement': 1, 'security': 'public', 'eprintid': 17909, 'mime_type': 'application/pdf', 'language': 'en'}]",http://repository.lppm.unila.ac.id/id/eprint/17909,public,TRUE,2020-02-17 03:49:29,Quercetin: the bioactive compound from Allium cepa L. as anti-inflammation based on in silico screening,"Fredotovic, Ž., Šprung, M., Soldo, B., Ljubenkov, I., Budi´c-Leto,I., Bilušic´, T., Cˇ ikeš-ˇulic´, V., and Puizina, J. 2017.Chemical Composition and Biological Activity of Allium cepa L. and Allium _ cornutum(Clementi ex Visiani 1842) Methanolic Extracts. Molecules, 22, 448;
+doi:10.3390/molecules22030448.
+
+Kartasasmita, R.E., Herowati, R., Harmastuti, N., & Gusdinar, T. (2009). Quercetin Derivatives Docking Based On Study Of Flavonoids Interaction To Cyclooxygenase-2. Indo. J. Chem.9 (2):297-302.
+
+Maulina, D., Amin, M., Lestari, S.R., & Aziz, M. 2018. Alanine as natural biopesticide from Mirabilis jalapa and its interaction with glutamate as an inhibitor in insects immune system. Journal of BIOLOGICAL RESEARCHES, Vol. 23:
+2. Doi: 10.23869/bphjbr.23.2.20185.
+
+Pangastuti, A., Amin, I.F., Zhilalikbar, A., Amin, M. 2016. Natural Bioactive Compound From Moringa oleifera against Cancer Based On In Silico Screening. Jurnal Teknologi (Sciences & Engineering). 78(5): 315-318
+Pharmmapper database. http://59.78.96.61/pharmmapper/
+(accessed on March 2018) 
+Plessers, E.; Watteyn. A.; Wyns, H.; Pardon, B.; De Backer, P. and Croubels, S. 2015. Study of the immunomodulatory properties of gamithromycin and dexamethasone in a lipopolysaccharide inflammation model in calves. Res Vet Sci. 2015 Dec; 103:218-23. doi: 10.1016/j.rvsc.2015.10.014.Epub 2015 Oct 28
+Pubchem database. https://pubchem.ncbi.nlm.nih.gov/ (accessed on March 2018)
+
+Puspita sari, 2015.Studi in silico daun salam (Syzygium
+polyanthum) terhadap angio tensin converting enzyme. Jurnal kedokteranVol 3, No 1 Ringo Maeda, 2013. Isolasi senyawa flavonoid dari kulit bawang
+merah (Allium cepa L).Skripsi Fakultas Matematika dan Ilmu
+Pengetahuan Alam, Universitas Sumatra Utara Medan.
+Rodrigues A., Fogliano V., Graziani G., Mendes, S., Vale,
+A. and Goncalves, C., 2003. Nutrition Value of Onion
+Regional Varieties in Northwest Portugal, EJEAFChe 2(4):
+519-524.
+
+Ryfai, EA 2012, ‘Penapisan in silico anti malaria dari basis data tanaman obat Indonesia terhadap target plasmepsin’,(Skripsi) Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Indonesia.
+
+Smith, C., Lombard, K.A., Peffley, E.B.,Liu, W. 2003. Genetic Analysis of Quercetin in Onion (Allium cepa L.) ‘Lady Raider’. The Texas Journal of Agriculture and Natural Resource 16:24-28.
+
+Soemari Yulistia, 2016. Uji aktivitas anti inflamasi quercetin bawang merah (Allium cepa L).pada mencit putih jantan (Musmusculus)SuperPret server. http://prediction.charite.de/ (accessed on March 2018)
+Swiss Target Prediction. http://www.SwissTargetPrediction.ch/(accessed on March 2018)
+
+Teresita, G., Alejandra, E.R., Americo, O. J., &Lilian, E.P. 2001. Anti-inflammatory Properties of Plant Flavonoids. Effects of Rutin, Quercetin and Hesperidin on Adjuvant Arthritis in Rat. Elsevier IlFarmaco 56:683-687.",7,7.0,show,,,
+1,other,['FKIP15'],1970-01-01 00:00:00.000002018,,2023-04-25 11:22:40,2023-04-25 11:22:40,,unpub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AFT'}]",50706,,archive,['L1'],,,,,,,"[{'id': 'nenihasnunidah@gmail.com', 'name': {'given': 'Neni', 'honourific': None, 'family': 'Hasnunidah', 'lineage': None}}, {'name': {'family': 'Marpaung', 'honourific': None, 'lineage': None, 'given': 'Rini Rita'}, 'id': 'ritamarpaung15@yahoo.co.id'}]",disk0_bak/00/05/07/06,986,,"[{'eprintid': 50706, 'placement': 1, 'security': 'public', 'language': 'en', 'mime_type': 'application/pdf', 'docid': 190411, 'main': '14843-32880-1-PB_Zevi.pdf.pdf', 'files': [{'mime_type': 'application/pdf', 'fileid': 546400, 'hash': '7995508ec996823cfdb24f9291b28000', 'filename': '14843-32880-1-PB_Zevi.pdf.pdf', 'hash_type': 'MD5', 'mtime': '2023-04-23 16:10:54', 'datasetid': 'document', 'filesize': 178055, 'objectid': 190411, 'uri': 'http://repository.lppm.unila.ac.id/id/file/546400'}], 'pos': 1, 'format': 'text', 'uri': 'http://repository.lppm.unila.ac.id/id/document/190411', 'rev_number': 1}]",http://repository.lppm.unila.ac.id/id/eprint/50706,public,,2023-04-25 11:22:40,Pengembangan Buku Penuntun Praktikum Pencemaran Lingkungan dengan Model Argument-Driven Inquiry (ADI),,7,,show,"Department of Biology Education, Faculty of Education and Teacher Training University of Lampung",,
+2,other,['FKIP15'],2018-09-01 00:00:00.000000000,,2023-04-25 11:21:34,2023-04-25 11:21:34,,unpub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}]",50687,,archive,['L1'],,,,,,,"[{'name': {'given': 'Neni', 'lineage': None, 'family': 'Hasnunidah', 'honourific': None}, 'id': 'nenihasnunidah@gmail.com'}, {'name': {'given': 'Darlen', 'lineage': None, 'honourific': None, 'family': 'Sikumbang'}, 'id': None}]",disk0_bak/00/05/06/87,986,,"[{'eprintid': 50687, 'security': 'public', 'placement': 1, 'mime_type': 'application/pdf', 'language': 'en', 'main': 'Nurul Cahyani.pdf.pdf', 'docid': 190393, 'files': [{'mime_type': 'application/pdf', 'fileid': 546169, 'hash': 'ac854d3efdef33ba9edfb6624827553e', 'filename': 'Nurul Cahyani.pdf.pdf', 'mtime': '2023-04-23 08:45:54', 'hash_type': 'MD5', 'datasetid': 'document', 'filesize': 397366, 'objectid': 190393, 'uri': 'http://repository.lppm.unila.ac.id/id/file/546169'}], 'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/190393', 'rev_number': 1}]",http://repository.lppm.unila.ac.id/id/eprint/50687,public,,2023-04-25 11:21:34,Check Similarity: Pengaruh Argument-Driven Inquiry Terhadap Keterampilan Berpikir Kritis Siswa Berkemampuan Akademik Berbeda,,10,,show,"Department of Biology Education, Faculty of Education and Teacher Training University of Lampung",,
+3,other,['FKIP15'],1970-01-01 00:00:00.000002018,,2023-04-25 11:21:45,2023-04-25 11:21:45,,unpub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}]",50689,,archive,['L1'],,,,,,,"[{'name': {'lineage': None, 'family': 'Hasnunidah', 'honourific': None, 'given': 'Neni'}, 'id': 'nenihasnunidah@gmail.com'}, {'name': {'given': 'Darlen', 'lineage': None, 'honourific': None, 'family': 'Sikumbang'}, 'id': None}]",disk0_bak/00/05/06/89,986,,"[{'files': [{'objectid': 190395, 'uri': 'http://repository.lppm.unila.ac.id/id/file/546183', 'datasetid': 'document', 'filesize': 944404, 'fileid': 546183, 'mime_type': 'application/pdf', 'mtime': '2023-04-23 08:54:08', 'hash_type': 'MD5', 'filename': 'Cherry_Neni_UPI_2018.pdf.pdf', 'hash': '36cab807023ac8918bbed8d5b96dbedc'}], 'main': 'Cherry_Neni_UPI_2018.pdf.pdf', 'docid': 190395, 'uri': 'http://repository.lppm.unila.ac.id/id/document/190395', 'rev_number': 1, 'format': 'text', 'pos': 1, 'security': 'public', 'placement': 1, 'eprintid': 50689, 'mime_type': 'application/pdf', 'language': 'en'}]",http://repository.lppm.unila.ac.id/id/eprint/50689,public,,2023-04-25 11:21:45,Check Similarity: Pengaruh Model Pembelajaran Argument-Driven Inquiry (ADI) terhadap Keterampilan Argumentasi Siswa Berkemampuan Akademik Berbeda,,10,,show,"Department of Biology Education, Universitas Pendidikan Indonesia",,
+4,other,['FKIP15'],1970-01-01 00:00:00.000002018,,2023-05-08 02:06:45,2023-05-08 02:06:45,,unpub,,51166,,archive,['L1'],,,,,,,"[{'id': 'nenihasnunidah@gmail.com', 'name': {'given': 'Neni', 'lineage': None, 'honourific': None, 'family': 'Hasnunidah'}}, {'name': {'given': 'Darlen', 'honourific': None, 'family': 'Sikumbang', 'lineage': None}, 'id': None}]",disk0_bak/00/05/11/66,986,,"[{'mime_type': 'application/pdf', 'language': 'en', 'security': 'public', 'placement': 1, 'eprintid': 51166, 'uri': 'http://repository.lppm.unila.ac.id/id/document/190887', 'rev_number': 2, 'format': 'text', 'pos': 1, 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/549911', 'objectid': 190887, 'filesize': 224338, 'datasetid': 'document', 'hash_type': 'MD5', 'mtime': '2023-05-07 10:46:47', 'hash': '41acd51ae8329018b61e24971c23a0b8', 'filename': 'Ninda.pdf.pdf', 'fileid': 549911, 'mime_type': 'application/pdf'}], 'docid': 190887, 'main': 'Ninda.pdf.pdf'}]",http://repository.lppm.unila.ac.id/id/eprint/51166,public,,2023-05-08 02:06:45,Check Similarity: Pengaruh Model Pembelajaran Argument-Driven Inquiry Terhadap Keterampilan Argumentasi Siswa,,5,,show,"Faculty of Teacher Training and Education, University of Lampung",51165.0,
+5,other,['FKIP15'],2018-04-11 00:00:00.000000000,,2023-04-25 11:22:34,2023-04-25 11:22:34,,unpub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}]",50704,,archive,['L1'],,,,,,,"[{'id': 'nenihasnunidah@gmail.com', 'name': {'lineage': None, 'honourific': None, 'family': 'Hasnunidah', 'given': 'Neni'}}, {'name': {'given': 'Berti', 'lineage': None, 'honourific': None, 'family': 'Yolida'}, 'id': 'bertiyolida@yahoo.com'}]",disk0_bak/00/05/07/04,986,,"[{'language': 'en', 'mime_type': 'application/pdf', 'eprintid': 50704, 'security': 'public', 'placement': 1, 'format': 'text', 'pos': 1, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/190409', 'docid': 190409, 'main': 'turnitin_ok15195-33872-1-PBZahra.pdf.pdf', 'files': [{'hash': '6a41d16aabc06474663308c3f2cdf80c', 'filename': 'turnitin_ok15195-33872-1-PBZahra.pdf.pdf', 'mtime': '2023-04-23 16:04:42', 'hash_type': 'MD5', 'mime_type': 'application/pdf', 'fileid': 546386, 'filesize': 126904, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/546386', 'objectid': 190409}]}]",http://repository.lppm.unila.ac.id/id/eprint/50704,public,,2023-04-25 11:22:34,Check Similarity: Pengembangan Buku Penuntun Praktikum Struktur dan Fungsi Tumbuhan dengan Model Argument-Driven Inquiry (ADI),,8,,show,"Department of Biology Education, Faculty of Education and Teacher Training University of Lampung",,
+6,other,['FKIP15'],1970-01-01 00:00:00.000002018,,2023-04-25 11:22:14,2023-04-25 11:22:14,,unpub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}]",50697,,archive,['L1'],,,,,,,"[{'name': {'given': 'Neni', 'lineage': None, 'family': 'Hasnunidah', 'honourific': None}, 'id': 'nenihasnunidah@gmail.com'}, {'name': {'given': 'arwin', 'honourific': None, 'family': 'achmad', 'lineage': None}, 'id': None}]",disk0_bak/00/05/06/97,986,,"[{'mime_type': 'application/pdf', 'language': 'en', 'security': 'public', 'placement': 1, 'eprintid': 50697, 'uri': 'http://repository.lppm.unila.ac.id/id/document/190403', 'rev_number': 2, 'format': 'text', 'pos': 1, 'files': [{'mtime': '2023-04-23 13:46:21', 'hash_type': 'MD5', 'filename': '14839-32864-1-PB_Susi.pdf.pdf', 'hash': '84b52e39ba3e0ee40aaa61bbd18fb4b6', 'fileid': 546236, 'mime_type': 'application/pdf', 'filesize': 368230, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/546236', 'objectid': 190403}], 'main': '14839-32864-1-PB_Susi.pdf.pdf', 'docid': 190403}]",http://repository.lppm.unila.ac.id/id/eprint/50697,public,,2023-04-25 11:22:14,Check Similarity:Pengembangan Buku Penuntun Praktikum Perubahan Iklim dengan Model Argument-Driven Inquiry (ADI),,4,,show,"Department of Biology Education, Faculty of Education and Teacher Training University of Lampung",50696.0,
+7,article,['FKIP15'],2018-05-22 00:00:00.000000000,,2018-06-25 02:23:49,2018-06-25 02:23:49,3.0,pub,,7547,published,archive,['L1'],"Abstract. This research aims to explore the concept of mental model of students about genetic concepts through drawing-writing test. The participants were 85 students
+of Biology Education at University of Lampung, which has taken genetics course. Mental model of students was categorized into five levels (levels 1-5) based on coding
+framework which was adapted from Kose (2008) and Saka et al. (2006). The results showed that the most dominant mental
+models found in each concept through drawing-writing test (D/W) respectively were D3/W3 (drawings with misconceptions/
+partial understanding with alternative conceptions) on the concept of “genetic materials”, D2/W2 (non-representational
+drawings/alternative conceptions) on the concept of “heredity”, D2/W3 (non-representational drawings/partial understanding with alternative conceptions) on the concept of “gene expression”, D2/W3 (non-representational drawings/partial understanding with alternative conceptions)on the concept of “gene regulation in metabolic processes”, and D1/W2 (no understanding/alternative conception)on the concept of “gene regulation of the growth and development of an organisms”. The results indicated that drawing-writing test can be used in probing the learning difficulties and misconseption on genetics.",http://www.scientiasocialis.lt/jbse/?q=node/675,,,Journal of Baltic Science Education,ISSN 2538–7138,"[{'id': 'jalmotri@yahoo.com', 'name': {'family': 'Jalmo', 'honourific': None, 'lineage': None, 'given': 'Tri'}}, {'name': {'family': 'Suwandi', 'honourific': None, 'lineage': None, 'given': 'Tri'}, 'id': 'suwandi.3su@gmail.com'}]",disk0/00/00/75/47,812,474-485,"[{'language': 'en', 'mime_type': 'application/pdf', 'security': 'public', 'placement': 1, 'eprintid': 7547, 'uri': 'http://repository.lppm.unila.ac.id/id/document/20584', 'rev_number': 1, 'format': 'text', 'pos': 1, 'files': [{'hash': '250d1aede1b569c345e10f392537013e', 'filename': '474-485.Jalmo_JBSE_Vol.17_No.3 TJ dan Trisu.pdf', 'hash_type': 'MD5', 'mtime': '2018-06-22 08:02:48', 'mime_type': 'application/pdf', 'fileid': 68005, 'filesize': 526691, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/68005', 'objectid': 20584}], 'docid': 20584, 'main': '474-485.Jalmo_JBSE_Vol.17_No.3 TJ dan Trisu.pdf'}]",http://repository.lppm.unila.ac.id/id/eprint/7547,public,TRUE,2018-06-25 02:23:49,Biology Education Students’ Mental Models On Genetic Concepts,,6,17.0,show,Journal of Baltic Science Education,,[{'url': 'http://www.scientiasocialis.lt/jbse/?q=node/675'}]
+8,article,['FKIP15'],2018-04-01 00:00:00.000000000,,2018-06-22 03:51:13,2018-06-22 03:51:13,2.0,pub,,3260,published,archive,['L1'],"This study aims to produce an assessment instrument that meets the eligibility criteria as a higher order thinking
+skills (HOTS) assessment instrument. The research procedure adapted from the R & D model refers to Gall, et al. (2003). The design of the main field test study used e-experimental type one-shot case study. Subjects involving 174 students of grade nine at Junior High School in Bandar Lampung at Lampung Province, Indonesia with random sampling technique. The eligibility criteria for HOTS assessment instruments were collected using theoretical validation sheet and empirical validity. Data analysis is done by descriptive statistic and anates program. The result of data analysis show theoretical validity covering material aspect 84,00% (valid); construction 93,35% (very valid); language is 87,13% (very valid) whereas empirical validity includes the
+validity coefficient of 0,70 (high); reliability 0,82 (very high); difficulty level 7,50% (difficult): 77,50% (moderate): 15,00% (easy); power difference 10,00% (good) and 90,00% (sufficient); functionality of deception
+67,50% (very good) and 32,50% (good).",http://www.tojned.net,,,The Online Journal of New Horizons in Education,2146-7374,"[{'name': {'lineage': None, 'honourific': None, 'family': 'Khoiriah', 'given': 'Khoiriah'}, 'id': 'khoiriahspd74@gmail.com'}, {'name': {'honourific': None, 'family': 'Jalmo', 'lineage': None, 'given': 'Tri'}, 'id': 'jalmotri@yahoo.com'}, {'id': 'abeunila@gmail.com', 'name': {'honourific': None, 'family': 'Abdurrahman', 'lineage': None, 'given': 'Abdurrahman'}}]",disk0/00/00/32/60,812,19-29,"[{'files': [{'objectid': 3156, 'uri': 'http://repository.lppm.unila.ac.id/id/file/22697', 'mime_type': 'application/pdf', 'fileid': 22697, 'filename': '2. tri jalmo-rosita.pdf', 'hash': 'c2d46a0c0ae8e937ffc54ba6e176efa6', 'hash_type': 'MD5', 'mtime': '2017-06-03 05:49:42', 'datasetid': 'document', 'filesize': 527089}], 'main': '2. tri jalmo-rosita.pdf', 'docid': 3156, 'uri': 'http://repository.lppm.unila.ac.id/id/document/3156', 'rev_number': 1, 'format': 'text', 'pos': 1, 'security': 'public', 'placement': 1, 'eprintid': 3260, 'mime_type': 'application/pdf', 'language': 'en'}, {'files': [{'mtime': '2017-06-03 05:54:57', 'hash_type': 'MD5', 'hash': '240bcc1165218725149a55dfc30da8f4', 'filename': '3. tri jalmo-delima.pdf', 'fileid': 22703, 'mime_type': 'application/pdf', 'filesize': 103824, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/22703', 'objectid': 3157}], 'main': '3. tri jalmo-delima.pdf', 'docid': 3157, 'uri': 'http://repository.lppm.unila.ac.id/id/document/3157', 'rev_number': 1, 'format': 'text', 'pos': 2, 'security': 'public', 'placement': 2, 'eprintid': 3260, 'mime_type': 'application/pdf', 'language': 'en'}, {'format': 'text', 'pos': 3, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/3160', 'main': '3. tri jalmo-delima.pdf', 'docid': 3160, 'files': [{'mime_type': 'application/pdf', 'fileid': 22711, 'hash': '240bcc1165218725149a55dfc30da8f4', 'filename': '3. tri jalmo-delima.pdf', 'hash_type': 'MD5', 'mtime': '2017-06-03 05:58:15', 'datasetid': 'document', 'filesize': 103824, 'objectid': 3160, 'uri': 'http://repository.lppm.unila.ac.id/id/file/22711'}], 'language': 'en', 'mime_type': 'application/pdf', 'eprintid': 3260, 'security': 'public', 'placement': 3}, {'main': '3. tri jalmo-delima.pdf', 'docid': 3161, 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/22715', 'objectid': 3161, 'filesize': 103824, 'datasetid': 'document', 'hash_type': 'MD5', 'mtime': '2017-06-03 06:02:16', 'hash': '240bcc1165218725149a55dfc30da8f4', 'filename': '3. tri jalmo-delima.pdf', 'fileid': 22715, 'mime_type': 'application/pdf'}], 'format': 'text', 'pos': 4, 'uri': 'http://repository.lppm.unila.ac.id/id/document/3161', 'rev_number': 1, 'eprintid': 3260, 'security': 'public', 'placement': 4, 'language': 'en', 'mime_type': 'application/pdf'}, {'uri': 'http://repository.lppm.unila.ac.id/id/document/20542', 'rev_number': 1, 'pos': 25, 'format': 'text', 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/67700', 'objectid': 20542, 'filesize': 887968, 'datasetid': 'document', 'hash_type': 'MD5', 'mtime': '2018-06-22 03:30:09', 'filename': 'developement HOTS instruments.pdf', 'hash': '74c3afd0218a1f12dc0f423c517c304f', 'fileid': 67700, 'mime_type': 'application/pdf'}], 'docid': 20542, 'main': 'developement HOTS instruments.pdf', 'language': 'en', 'mime_type': 'application/pdf', 'placement': 25, 'security': 'public', 'eprintid': 3260}]",http://repository.lppm.unila.ac.id/id/eprint/3260,public,TRUE,2018-06-22 03:51:13,Development Of Assessment Instruments Higher Order Thinking Skills On Science Subjects For Student Grade Eight Junior High School,,16,8.0,show,tojned,,"[{'type': 'pub', 'url': 'http://www.tojned.net'}]"
+9,article,['FKIP15'],1970-01-01 00:00:00.000002018,doi:10.23869/bphjbr.23.2.20185,2020-02-17 03:49:31,2020-02-17 03:49:31,2.0,pub,,17915,published,archive,"['QH301', 'QP']","Alanine is a secondary metabolic secretion from Mirabilis jalapa. It is used as a modulation of natural pesticide compound. Alanine is predicted to act as an inhibitor compound in the defense mechanisms in the insect body. This study investigated the modeling structures and the protein receptor from alanine in the immune system mechanism and their optimization of the effectiveness as biopesticides to the insects. This research was conducted using an in silico modeling through the reverse docking stage, including the collection of 3D structures of natural compounds, prediction of target protein, receptor profiling, clarification of the potential of alanine compounds based on mode of action with PyRx 0.8 software, and interaction visualization between alanine compounds with the target protein using PyMOL and LigPlus+ software. The results showed that the alanine compounds from M. jalapa plants have targeted well the glutamate receptors in the insects. Both alanine and glutamate compounds have the same interactions with the glutamate proteins receptor shown by the Van der Waals interaction, e.g. the hydrogen bonding on certain amino acids has binding affinity of -15.889 kJ/mol. The interaction between alanine and glutamate affects the signal transduction cascade at the cellular level due to a neuromuscle and olfactory inhibitor. In addition, the continuous interruption of signal transduction affects the dysfunctional immune system of the insect body leading to their mortality.",http://doi.org/10.23869/bphjbr.23.2.20185,dina.maulina@fkip.unila.ac.id,"alanine, glutamate, insect immune system and Mirabilis jalapa",Journal of Biological Researches,8526834,"[{'name': {'lineage': None, 'honourific': None, 'family': 'Maulina', 'given': 'Dina'}}, {'name': {'given': 'Mohamad', 'honourific': None, 'family': 'Amin', 'lineage': None}}, {'name': {'given': 'Sri Rahayu', 'family': 'Lestari', 'honourific': None, 'lineage': None}}, {'name': {'given': 'Muhammad', 'lineage': None, 'honourific': None, 'family': 'Aziz'}}]",disk0/00/01/79/15,48,77-83,"[{'security': 'public', 'placement': 1, 'eprintid': 17915, 'language': 'en', 'mime_type': 'application/pdf', 'files': [{'datasetid': 'document', 'filesize': 506751, 'fileid': 150977, 'mime_type': 'application/pdf', 'mtime': '2020-02-06 15:02:23', 'hash_type': 'MD5', 'hash': '506cb78b7026abd419be9b18dcdf100a', 'filename': 'J. Biological Researches.pdf', 'objectid': 31052, 'uri': 'http://repository.lppm.unila.ac.id/id/file/150977'}], 'docid': 31052, 'main': 'J. Biological Researches.pdf', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/31052', 'format': 'text', 'pos': 1}]",http://repository.lppm.unila.ac.id/id/eprint/17915,public,TRUE,2020-02-17 03:49:31,Alanine as natural biopesticide from Mirabilis jalapa and its interaction with glutamate as an inhibitor in insects immune system,"Adamo SE. (2006). Comparative psychoneuroimmunology: Evidence from the insects. Behavioral and Cognitive Neuroscience Reviews 5: 128-140. doi: 10.1177/1534582306289580 
+
+Adeyemi MMH. (2010). The potential of secondary metabolites in plant material as deterrents against insect pest: a review. African Journal of Pure and Applied Chemistry 4: 243-246. Retrived from http://www.academicjournals.org/AJPAC. 
+
+Anis NA., Clark RB., Gration KA., and Userwood PN. (1981). Influence of agonits on desensitization of glutamate receptors on locus muscle. The Journal of Physiology, 312: 345-364. doi: 10.1113/jphysiol.1981.sp013632. 
+
+Baker JR., Woolfson DN., Muskett FW., Stoneman RG., Urbaniak  MD., and Caddick S. (2007). Protein–small molecule interactions in neocarzinostatin, the prototypical enediyne chromoprotein antibiotic. ChemBioChem, 8, 704-717. doi: 10.1002/cbic.200600534. 
+
+Clavillia Plant Database. (2004). Raintree Nutrition. www.rain-tree.com. (accessed on November 2017). 
+
+Daniel O., Meirer MS., Schlatter J., and Frischknecht P. (1999). Selectected phenolic compounds in cultivated plants: Ecologic functions, health implications, and modulations by pesticide. 
+Environmental Health Perspective 107: 109-114. Retrived from http://europepmc.org/articles/PMC1566369. 
+
+Delgoda R., and Murray JE. (2008). Evolunary prespective on  the role of plant secondary metabolites. In: Pharmacognosy. Nirali Prakashan, Pune, India (Eds). Kokae, C.K., Purohit, A.P., Gokhale, A.B. 93-100. doi: 10.1016/B978-0-12-8021040.00007-X. 
+
+Dunkel M., Gunther S., Ahmed J., Wittig B., and Preissner R. (2008). SuperPred: Drug Classification and Target Prediction. Nucleic Acids Research, 36: W55–W59. doi:10.1093/nar/gkn307 
+
+Faeder IR, and Salpeter MM. (1970). Glutamate uptake by a stimulated insect nerve muscle preparation. Journal Cell Biol. 46: 300307.Retrieved from http://europepmc.org/articles/PMC2108015 
+
+Gfeller D., Ggrosdidier A., Wirth M., Daina A., Michiellin O., and Zoete V. (2014). SwissTargetPrediction: A Web server for target prediction of bioactive small molecules. Nucleic Acids Research, 42: W32–W38. doi:10.1093/nar/gku293 
+
+Gogoi J., and Veer V. (2016). Isolation and characterization of bioactive components from Mirabilis jalapa L. radix. Journal of Traditional and Complemtary Medicine 6: 41-47. doi: 10.1016/j.jtcme.2014.11.028.  
+
+Heldl, HW. & Piechulla, B. (2015). Pflanzenbiochemie. Pub: Heidelberg: Springer-Spektrum Akademischer Verlag. Pp.1-95 ISBN: 9783662443972 366244397X 9783662443989 3662443988.  
+
+Ilmawati, R.R.; Amin, A.Z. and Amin, M. (2017). Alliin as a natural bioactive from single bulb garlic (Allium sativum) for Nitric Oxide (NO) increasing in atherosclerotic process based on Insilico Screening. Biology, Medicine, & Natural Product Chemistry, 6, 59-62. doi: 10.14421/biomedich.2017.62.59-62. 
+
+Kastritis PL., and Bonvin AM. (2012). On the binding affinity of macromolecular interactions: daring to ask why proteins interact. Journal of the Royal Society Interface, 10, 1-27. doi: 10.1098/rsif.2012.083 
+
+Klowden MJ. (2013). Physiological Systems in Insects. University of Idaho Moscow, Idaho. Academic Press. Pp: 76-254. ISBN: 9780124158191 
+
+Kolodziejczyk A., Sun X., Meinrzhagen IA., and Nassel DRR. (2008). Glutamate, GABA, and achetylcholine signaling components in the lamina of the Drosophila visual system. Plos One, 3, 2110. Doi: 10.1371/journal.pone.0002110. 
+
+Leboulle G. (2013). Glutamate neurotransmission and appentitive olfactory conditioning in the Honeybee. In: Handbook of Behavioural Neurosciense, Vol. 22 pp. 458-466. Elsevier, Amsterdam. doi: 10.1016/B978-0-12-415823-8.00034-4. 
+
+Liu X., Ouyang S., Yu B., Yabo L., Huang K., Gong J., and Jiang H. (2010). PharmMapper Server: A web server for potential drug target identification using pharmacophore mapping approach. Nucleic Acids Research, 38: W609–W614. doi:10.1093/nar/gkq300. 
+
+Maulina D. (2013).  The cellular immune response of Spodopter litura to Mirabilis jalapa biopesticide and their mortality when combination with Bacillus thurngiensis (In Indonesia). (Master Thesis). Institut Teknologi Bandung, Bandung. 
+
+Maulina D., and Anggraeni, T. (2014).  The effect of the combination of two biological control agents, Mirabilis jalapa and Bacillus thuringiensis, to Spodoptera exigua’s immune responds and their mortality. AIP Conference Proceeding 1589: 316. doi: 10.1063/1.4868809.  
+
+Mishbach C., Dweck H., Vogel H., Vilsincaskas., Stensmyr M., Hansson B., and Grosse-Wilde E. (2014). Evolution of insect olfactory reseptor. eLife, 3; e02115. doi: 10.755/eLife.02115. 
+
+Mohamed HI., and Alkadious SA. (2017). Changes in antioxidants potential, secondary metabolites and plant hormones induced by different fungicides treatment in cotton plants. Journal of Biochemistry and Physiology 142: 117-122. doi: 10.1016/jpestbp.2017.04.001. 
+
+Naveed U., and Rabia A. (2010). Antibacterial activities of genetic variants of Mirabilis jalapa. Pharmacognosy Journal 2: 181-184. doi: 10.1016/S0975-3575(10)80089-6. 
+
+Neugart S., Baldermann S., Ngwene., Wesonga J., and Scheiner M., (2017). Indigenous leafy vegetables of Eastern Africa – A source of extraordinary secondary plant metabolites. Journal of Food Research International, 100: 411-422. doi: 10.1016/j.foodres.2017. 02.02.014. 
+
+Pangastuti A., Amin IF., Amin AZ., and Amin M. (2016). Natural bioactive compound from Moringa oleiferaagainst cancer based on in silico screening. Jurnal Teknologi (Sciences & Engineering).78: 315–318. Doi: 10.11113/jt.v78.8328 
+
+Pangastuti, A, Indriwati, S.I. and Amin, M. (2018). Investigation of the anti-aging properties of allicin from Allium sativum L bulb extracts by a reverse docking approach. Tropical Journal of Pharmaceutical Research 17 (4): 635-639. Retrived from https://www.ajol.info/index.php/tjpr/article/view/170514 
+
+Pavarini DP., Pavarini SP., Nieheus M., Lopes NP. (2012). Exogenous influence on plant secondary metabolites levels. Journal of Animal Feed Science and Technology 176: 5-16. doi: 10.1016/j.anifeedsci.2012.07.002. PharmMapper. http://59.78.96.61/pharmmapper/ (accessed on November 2017) PubChem.DL-Alanine.https://pubchem.ncbi.nlm.nih.gov/compound/602 (accessed on November 2017) PubChem. https://pubchem.ncbi.nlm.nih.gov (accessed on November 2017) 
+
+Rattan RS. (2010). Mechanism of action of insectisidal secondary metabolites of plant origin. Crop Protect. 299: 913-920. RSCB Protein Data Bank. http://www.rscb.org/pdb/home/home.do (accessed on November 2017).  
+
+Seo MH., Park J., Kim E., Hohng S., and Kim HHS. (2014). Protein conformational dynamics dictate the binding affinity for a ligand. Nature Communications, 5:1-7. doi: 10.1038/ncomms4724.  
+
+Stengl M., Ziegelberger G., Boekhoeff  I., and Krieger J. (1999). Perireceptor events and transduction mechanism in insect olfaction. In: Insect Olfaction (ed. Hansson B.S.). Springer, Berlin. doi: 10.1007. 978-3-662-07911-9_13. 
+
+Superpred. http://prediction.charite.de/ (accessed on November 2017) 
+
+Suryani I., and Anggraeni T. (2014). The Effect of leaf biopesticide Mirabilis jalapa and fungi Metarhizium anisopliae to immune response and mortality of Spodoptera exigua Instar IV. AIP Conference Proceeding 1589: 312. doi: 10.1063/1.4868808. 
+
+Swiss Target Prediction. http://www.SwissTargetPrediction.ch/ (accessed on November 2017) 
+
+Tassa C., Duffner J., Lewis T., Weissleder R., Schreiber S., Koehler A., and Shaw S. (2010). Binding affinity and kinetic analysis of targeted small molecule-modified nanoparticles. Bioconjug Chem, 21: 14-19. doi: 10.1021/bc900438a 
+
+Taylor L. (2015). The healing power of rainforest herbs. Square one Publisher, Newyork. Retrived from http://www.raintree.com/book2.htm#.WxhscoozbIU. 
+
+UniProt. Glutamate receptor 1. http://www.uniprot.org/uniprot/Q03445 (accessed on November 2017).  UniProt. http://www.uniprot.org/ (accessed on November 2017). 
+
+Walker CIB., Trevisa G., Rossato MF., Silva CR., Pinheiro FV., and Franciscato C.(2013). Antinociceptive effect of Mirabilis jalapa on accute and chronic pain models in mice. Journal of Ethnophatmacology 149: 685-693. doi:  10.1016/j.jep.2013.07.027. 
+
+Wang Y., Xiao J., Suzek T., Zhang J., Wang J., Zhou Z., and Bryant S. (2012). PubChem’s BioAssay Database. Nucleic Acids Research, D400–D412. doi:10.1093/nar/gkr1132 
+
+Wink M. (2016). Secondary metabolites, the role in planta diversification of. In: Reference Module in Life Sciences: Enclopedia of Evolutionary Biology. pp. 1-9. Elsevier, Amsterdam. doi: 10.1016/B987-0-12-800049-6.00263-8. 
+
+Zachariah SM., and Phabakar V. (2011). In-Vitro antioxidant potential of methanolic extract of Mirabilis jalapa. Journal Of Free Radicals and Anrioxidants 1: 82-86. doi: 10.5530/ax.2011.4.13. 
+
+Zhang S., Shan L., Li Q., Wang X., Li S., Zhang Y., and Zhang W., (2014). Systematic analysis of the multiple bioactivities of green tea through a network pharmacology approach. Evidence-Based Complementary and Alternative Medicine, 2014, ID 512081, 111., doi: 10.1155/2014/512081. 
+
+Zheng R., Chen TS., and Lu T. (2011). A comparative reverse docking strategy to identify potential antineoplastic targets of tea functional components and binding mode. International Journal of Molecular Sciences, 12: 5200-5212. doi: 10.3390/ijms12085200. 
+
+Zhong JJ. (2011). Plant secondary metabolite. In: Reference Module in Life Science: Comprehensive Biotechnology (second ed.). pp. 299-308. Academic Press. 299-308.  doi: 10.1016/B978-0-08088504-9.00190-2.",7,23.0,show,PBI East Java,,
+10,article,['FKIP15'],1970-01-01 00:00:00.000002018,doi:10.1088/1742-6596/1093/1/012009,2019-11-04 07:35:10,2019-11-04 07:35:10,,pub,,14947,published,archive,"['Q1', 'QK']","Mirabilis Antiviral Protein (MAP) is a specific protein found in the Mirabilis jalapa.The MAP has many promising benefits, one of them is that it can be used as biopesticides. However, the structure and visualization of protein from MAP have not been identified.This study investigated the modelling structures of MAP compounds which potentially become bioinsecticide for insect and the interaction between bonding ligand-receptor in the surface cell. This research used In silico models that refers to the BIOPEP database with the bioinformatics tools methods. The screening of MAP compounds was conducted through hydrolysis steps by 30 enzymes to become new peptides. The new Antimicrobial Peptides (AMPs) were analyzed by a multidimensional statistical analysis using four predicted algorithms, Support Vector Machines (SVM), Random Forest (RF), a Neural Network
+Artificial (ANN) and Discriminant Analysis (DA) that were available in the Anti-Microbial Peptides Collection (CAMP Database). The results were identified six new types of AMPs from 449 AMPs during the in-silico proteolysis process toward M. jalapa. This peptide predicted the function become antimicrobials by inactivating the ribosomes. There were obtained three of the best peptide structures from M. jalapa that have the potential as toxin compounds (biopesticides). Through the visualization of the three AMPs, models of biopesticide structures are WIFKTVEEIKLVMGLLKSS, IKLVMGLLKSS, and ITNIRTKVA with the residual category 6-22, and the characterization of molecular weight was 561,7 to
+2971,4 g/mol. The AMPs fulfill the Boman Index which the measurement of protein-peptide affinity to build the biological interactions, ranging from -0,51 to 2,98. Further, these renewable peptides can be used to determine the pathways that occur in targeted insect pests as biopesticides.",http://doi.org/10.1088/1742-6596/1093/1/012009,dina.maulina@fkip.unila.ac.id,"Antimicrobial peptides (AMPs), biopesticide, mirabilis antiviral protein (MAP),Mirabilis jalapa.",Journal of Physics: Conference Series,1742-6588,"[{'name': {'given': 'Dina', 'lineage': None, 'family': 'Maulina', 'honourific': None}, 'id': 'dina.maulina@fkip.unila.ac.id'}, {'id': 'sutiman@ub.ac.id', 'name': {'honourific': None, 'family': 'Sumitro', 'lineage': None, 'given': 'Sutiman Bambang'}}, {'name': {'lineage': None, 'honourific': None, 'family': 'Amin', 'given': 'Mohamad'}, 'id': 'mohamad.amin.fmipa@um.ac.id'}, {'id': 'srirahayulestari@um.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'Lestari', 'given': 'Sri Rahayu'}}]",disk0/00/01/49/47,48,12009,"[{'placement': 1, 'security': 'public', 'eprintid': 14947, 'language': 'en', 'mime_type': 'application/pdf', 'files': [{'fileid': 128906, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2019-11-01 09:07:45', 'hash': 'fc652b55714d204b5ffac2dec1c8de9d', 'filename': 'J. IOP.pdf', 'datasetid': 'document', 'filesize': 668845, 'objectid': 28068, 'uri': 'http://repository.lppm.unila.ac.id/id/file/128906'}], 'docid': 28068, 'main': 'J. IOP.pdf', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/28068', 'pos': 1, 'format': 'text'}]",http://repository.lppm.unila.ac.id/id/eprint/14947,public,TRUE,2019-11-04 07:35:10,Identification of Peptides Compounds fromMirabilis jalapaL. (Caryophyllales: Nyctaginaceae) Potentially as a Biopesticide,"Wink M. 2016 Reference Module in Life Sciences: Encyclopedia of Evolutionary Biology (Amsterdam: Elsevier) Secondary metabolites, the role in planta diversification of 1-9
+CrossrefGoogle Scholar
+
+[2]
+Zhong JJ 2011 Reference Module in Life Science: Comprehensive Biotechnology (second ed.) (Academic Press) Plant secondary metabolite 299-308
+CrossrefGoogle Scholar
+
+[3]
+Rattan RS 2010 Mechanism of action of secondary insecticidal metabolites of plant origin Crop Protect. 299 913-920
+CrossrefGoogle Scholar
+
+[4]
+Delgoda R. and Murray JE 2008 Pharmacognosy ed C. K. Kokae, A. P. Purohit and A. B. Gokhale (Pune, India: Nirali Prakashan) An evolutionary perspective on the role of secondary plant metabolites 93-100
+CrossrefGoogle Scholar
+
+[5]
+Pavarini DP, Pavarini SP, Nieheus M. and Lopes NP 2012 Exogenous influence on plant secondary metabolites levels Journal of Animal Feed Science and Technology 176 5-16
+CrossrefGoogle Scholar
+
+[6]
+Leng P., Zhang Z., Pan G. and Zhao M. 2011 Applications and development trends in biopesticide Afr. J. Biotech. 10 19864-19873
+CrossrefGoogle Scholar
+
+[7]
+Kandagal A. S. and Khetagoudar M. C. 2011 Study on larvicidal activity on weed extract against Spodoptera litura J. Environ. Biol. 34 253-257
+CrossrefGoogle Scholar
+
+[8]
+Gogoi J. and Veer V. 2016 Isolation and characterization of bioactive components from Mirabilis jalapa L. radix Journal of Traditional and Complementary Medicine 6 41-47
+CrossrefGoogle Scholar
+
+[9]
+Kataoka J., Miyano M., Habuka N., Masuta C. and Koiwai A. 1993 A Genomic gene for the MAP, A ribosome-inactivating protein from Mirabilis jalapa, contains an intron Nucleic Acid Research 21 108-114
+CrossrefGoogle Scholar
+
+[10]
+Vivanco M. J. 1999 The antiviral and antiviroid activity of MAP-containing extracts from Mirabilis jalapa roots Plant Dis. 83 1116-1121
+CrossrefGoogle Scholar
+
+[11]
+Suryani I. and Anggraeni T. 2014 The effect of leaf biopesticide Mirabilis jalapa and fungi Metarhizium anisopliae to immune response and mortality of Spodoptera exigua Instar IV AIP Conference Proceedings 2014 1589 312
+CrossrefGoogle Scholar
+
+[12]
+Sirajuddin N. T. and Anggraeni T. 2014 The effect of leaf biopesticide Mirabilis jalapa and entomopathogenic fungi beauveria basiana combinations to some physiological characters and histology of Crocidolomia pavonana (Lepidoptera: Pyralidae) larva AIP Conference Proceedings 1589 308 2014 https://doi.org/10.1063/1.4868807
+CrossrefGoogle Scholar
+
+[13]
+Pramita M. and Anggraeni T. 2015 The effect of Mirabilis jalapa leaves biopesticide treatment on the mycelium growth of entomopathogenic fungi Beauveria basiiana inside the larva body Crocidolomia binotalis AIP Conference Proceedings 2015 1677 090010
+CrossrefGoogle Scholar
+
+[14]
+Maulina D. and Anggraeni T. 2014 The effect of the combination of two biological control agents, Mirabilis jalapa and Bacillus thuringiensis, to Spodoptera exigua’s immune responds and their mortality AIP Conference Proceeding 1589 316
+CrossrefGoogle Scholar
+
+[15]
+Pangastuti A., Amin IF, Amin AZ and Amin M. 2016 The natural bioactive compound from Moringa oleifera against cancer-based on in silico screening Jurnal Teknologi (Sciences & Engineering) 78 315-318
+CrossrefGoogle Scholar
+
+[16]
+Pangastuti A, Indriwati S. I. and Amin M. 2018 Investigation of the anti-aging properties of allicin from Allium sativum L bulb extracts by a reverse docking approach Tropical Journal of Pharmaceutical Research 17 635-639 Retrieved from https://www.ajol.info/index.php/tjpr/article/view/170514
+CrossrefGoogle Scholar
+
+[17]
+Ilmawati R. R., Amin A. Z. and Amin M. 2017 Alliin as a natural bioactive from single bulb garlic (Allium sativum) for Nitric Oxide (NO) is increasing in the atherosclerotic process based on Insilico Screening Biology, Medicine, & Natural Product Chemistry 6 59-62
+CrossrefGoogle Scholar
+
+[18]
+Clavillia Plant Database. (2004). Raintree Nutrition. www.rain-tree.com. (accessed on February 2017)
+Google Scholar
+
+[19]
+UniProt. http://www.uniprot.org/ (accessed on February 2017)
+Google Scholar
+
+[20]
+Innovagen. http://www.innovagen.com/ (accessed on February 2017)
+Google Scholar
+
+[21]
+Antimicrobial database (ADP2). http://aps.unmc.edu/AP/ (accessed on February 2017)
+Google Scholar
+
+[22]
+Dziuba B. and Dziuba M. 2014 New milk protein-derived peptides with potential antimicrobial activity: An approach based on bioinformatic studies International Journal of Molecular Science 15 14531-14545 https://doi.org/10.3390/ijms150814531
+CrossrefGoogle Scholar
+
+[23]
+Osorio D. 2015 Rondon-Villareal, P. & Torres, R. Peptides: A package of data mining of antimicrobial peptides The R Journal 7 4-14
+Google Scholar
+
+[24]
+Almaali A. 2014 Antimicrobial peptides potential of some microbial histones: in silico modeling International Journal of Recent Scientific Research 5 649-655
+Google Scholar
+
+[25]
+Nuria M. C., Faizatun A. and Sumantri 2009 Antibacterial test of ethanol extract of Jatropha curcas L. fibers against Staphylococcus aureus ATCC 25923 Bacteria, Escherichia coli ATCC 25922, and Salmonella typhi ATCC 1408 Journal of Agricultural Sciences 5 26-37 In Indonesia
+Google Scholar
+
+[26]
+Hadioetomo R. S. 2005 The basic of microbiology (Jakarta: UI Press) Indonesian version: Pelczar, M. Jr. dan E. C. S. Chan
+Google Scholar
+
+[27]
+Mahalingam R., Bharathidasan R., Ambikapathy V. and Panneerselvam A. 2012 GC-MS determination of bioactive compounds of Mirabilis jalapa Asian Journal of Plant Science and Research 2 224-227
+Google Scholar
+
+[28]
+Sutami I. 2007 Effectiveness of pare leaf extract (Momordica charantia) as larvacide against Aedes Aegypti In Indonesia (Bandung: Maranatha University) Thesis: Magister
+Google Scholar
+
+[29]
+Mishbach C., Dweck H., Vogel H., Vilsincaskas, Stensmyr M., Hansson B. and Grosse-Wilde E. 2014 Evolution of insect olfactory receptor eLife 3 e02115
+CrossrefGoogle Scholar
+
+[30]
+Kolodziejczyk A., Sun X., Meinrzhagen IA and Nassel DRR 2008 Glutamate, GABA, and acetylcholine signaling components in the lamina of the Drosophila visual system Plos One 3 2110
+CrossrefGoogle Scholar",7,1093.0,show,,,"[{'url': 'https://iopscience.iop.org/article/10.1088/1742-6596/1093/1/012009/meta', 'type': 'pub'}]"
+11,article,['FKIP15'],2018-09-30 00:00:00.000000000,,2018-11-15 08:07:27,2018-11-15 08:07:27,2.0,pub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}]",9977,published,archive,"['L1', 'LB', 'LB1501']","ABSTRACT This study aimed to find out the significant effect of Argument-Driven Inquiry (ADI) learning model, student's academic ability, and the interaction between learning models and academic ability of the students’ argumentation skills. The population was all students of class VIII MTs Negeri 1 Bandar Lampung. The Samples were students of class VIII A and VIII B selected from the population by random cluster sampling technique. This study was quasi-experimental with Pretest Post-test Non Equivalent Control Group Design. The instrument used was argumentation skills test on the material motion systems in humans. The data were statistically analyzed using Ankova test and test Significant Difference (LSD) respectively at 5% significance level. The results showed that the learning ADI model, academic ability, and the interaction between the ADI model and academic abilities significantly influenced argumentation skills with significant value of each were 0,000; 0.007; and 0.038.",homepage: http://ejournal.upi.edu/index.php/asimilasi,,,Indonesian Journal of Biology Education,2621-7260 (Online),"[{'name': {'lineage': None, 'family': 'Safira', 'honourific': None, 'given': 'Cherry Acerola'}, 'id': 'cherryas777@gmail.com'}, {'id': 'nenihasnunidah@gmail.com', 'name': {'given': 'Neni', 'honourific': None, 'family': 'Hasnunidah', 'lineage': None}}, {'id': None, 'name': {'lineage': None, 'family': 'Sikumbang', 'honourific': None, 'given': 'Darlen'}}]",disk0/00/00/99/77,986,45-61,"[{'files': [{'objectid': 22994, 'uri': 'http://repository.lppm.unila.ac.id/id/file/93831', 'mime_type': 'application/pdf', 'fileid': 93831, 'hash': 'c6ef5ebbde4d5f4d58b945a2f5029fbb', 'filename': 'Cherry_Neni_UPI_2018.pdf', 'mtime': '2018-11-15 04:03:50', 'hash_type': 'MD5', 'datasetid': 'document', 'filesize': 870655}], 'main': 'Cherry_Neni_UPI_2018.pdf', 'docid': 22994, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/22994', 'format': 'text', 'pos': 1, 'security': 'public', 'placement': 1, 'eprintid': 9977, 'language': 'en', 'mime_type': 'application/pdf'}]",http://repository.lppm.unila.ac.id/id/eprint/9977,public,TRUE,2018-11-15 08:07:27,Pengaruh Model Pembelajaran Argument-Driven Inquiry (ADI) terhadap Keterampilan Argumentasi Siswa Berkemampuan Akademik Berbeda (The Effects of Argument-Driven Inquiry (ADI) Learning Model on Students’ Argumentation Skills with Various Academic Levels),,10,1.0,show,"Department of Biology Education, Faculty of Mathematics and Natural Sciences, Indonesia University of Education collaborates with Perkumpulan Pendidik IPA Indonesia (PPII)/Indonesian Society for Science Educators",,[{'url': 'http://ejournal.upi.edu/index.php/asimilasi/article/view/13046'}]
+12,other,['FKIP15'],1970-01-01 00:00:00.000002018,,2023-04-25 11:22:47,2023-04-25 11:22:47,,unpub,"[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AQT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AFT'}]",50707,,archive,['L1'],,,,,,,"[{'id': 'suwandi.3su@gmail.com', 'name': {'lineage': None, 'family': 'Suwandi', 'honourific': None, 'given': 'Tri'}}, {'name': {'family': 'Hasnunidah', 'honourific': None, 'lineage': None, 'given': 'Neni'}, 'id': 'nenihasnunidah@gmail.com'}, {'id': 'ritamarpaung15@yahoo.co.id', 'name': {'family': 'Marpaung', 'honourific': None, 'lineage': None, 'given': 'Rini Rita'}}]",disk0_bak/00/05/07/07,986,,"[{'files': [{'filesize': 1346330, 'datasetid': 'document', 'mtime': '2023-04-23 16:14:54', 'hash_type': 'MD5', 'hash': 'ff0cd07ea9055f9c53f5ca28e06e28fe', 'filename': 'Tri suwandi dkk _2016.pdf.pdf', 'fileid': 546407, 'mime_type': 'application/pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/file/546407', 'objectid': 190412}], 'docid': 190412, 'main': 'Tri suwandi dkk _2016.pdf.pdf', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/190412', 'pos': 1, 'format': 'text', 'placement': 1, 'security': 'public', 'eprintid': 50707, 'language': 'en', 'mime_type': 'application/pdf'}]",http://repository.lppm.unila.ac.id/id/eprint/50707,public,,2023-04-25 11:22:47,PENGARUH PEMBELAJARAN BERBASIS MASALAH OPEN-ENDED TERHADAP PENINGKATAN KEMAMPUAN PEMECAHAN MASALAH OLEH SISWA,,7,,show,Faculty of Education and Teacher Training University of Lampung,,

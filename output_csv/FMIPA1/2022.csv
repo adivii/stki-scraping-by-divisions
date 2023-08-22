@@ -1,0 +1,600 @@
+,title,metadata_visibility,rev_number,eprint_status,status_changed,subjects,eprintid,documents,publisher,ispublished,full_text_status,uri,lastmod,userid,datestamp,creators,dir,date,type,divisions,abstract,official_url,date_type,corp_creators,contributors,number,related_url,volume,pagerange,refereed,publication,issn,referencetext,id_number
+0,Peer Review Aplikasi Teh Kompos dan Media Serbuk Kelapa Dalam Meningkatkan Pertumbuhan Tanaman Bayam Merah (Amaranthus tricolor L.),show,7,archive,2022-03-31 02:40:23,['QK'],40878,"[{'files': [{'objectid': 162271, 'uri': 'http://repository.lppm.unila.ac.id/id/file/454515', 'datasetid': 'document', 'filesize': 425502, 'fileid': 454515, 'mime_type': 'application/pdf', 'mtime': '2022-03-31 00:50:20', 'hash_type': 'MD5', 'filename': 'Aplikasi Teh Kompos dan Media Serbuk Kelapa Dalam Meningkatkan Pertumbuhan Tanaman Bayam Merah (Amaranthus tricolor L.).pdf', 'hash': 'bb54c1c7a34bca6141c456e06f526979'}], 'docid': 162271, 'main': 'Aplikasi Teh Kompos dan Media Serbuk Kelapa Dalam Meningkatkan Pertumbuhan Tanaman Bayam Merah (Amaranthus tricolor L.).pdf', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/162271', 'pos': 1, 'format': 'text', 'placement': 1, 'security': 'public', 'eprintid': 40878, 'language': 'en', 'mime_type': 'application/pdf'}]",Jurnal Penelitian Pertanian Terapan,pub,public,http://repository.lppm.unila.ac.id/id/eprint/40878,2022-03-31 02:40:23,737,2022-03-31 02:40:23,"[{'name': {'lineage': None, 'honourific': None, 'family': 'Agustrina', 'given': 'Rochmah'}, 'id': 'rochmah.agustrina@fmipa.unila.ac.id'}]",disk0/00/04/08/78,1970-01-01 00:00:00.000002022,other,['FMIPA1'],,,,,,,,,,,,,,
+1,"Design and Build Entry Access Restriction System
+Laboratory Using Radio Frequency Identification 
+(RFID) and Keypad Technology",show,8,archive,2022-06-12 11:44:17,['QC'],42340,"[{'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 42340, 'security': 'public', 'placement': 1, 'format': 'text', 'pos': 1, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164053', 'main': 'Jemit3-2-aziz-wahyu.pdf', 'docid': 164053, 'files': [{'filesize': 1181969, 'datasetid': 'document', 'hash_type': 'MD5', 'mtime': '2022-06-11 12:04:48', 'filename': 'Jemit3-2-aziz-wahyu.pdf', 'hash': '91f78c461ed354b6f74db18ad1c789a4', 'fileid': 465780, 'mime_type': 'application/pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/file/465780', 'objectid': 164053}]}]",Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42340,2022-06-12 11:44:17,672,2022-06-12 11:44:17,"[{'name': {'given': 'Ahmad Aziz Arrizal', 'family': 'Ahmad Aziz Arrizal', 'honourific': None, 'lineage': None}, 'id': 'ahmadazizarrizal@gmail.com'}, {'name': {'given': 'SW suciyati', 'honourific': None, 'family': 'SW Suciyati', 'lineage': None}, 'id': 'sri.wahyu@fmipa.unila.ac.id'}, {'name': {'lineage': None, 'family': 'Arif Surtono', 'honourific': None, 'given': 'arifs'}, 'id': 'arif.surtono@fmipa.unila.ac.id'}, {'name': {'family': 'Gurum Ahmad  Pauzi', 'honourific': None, 'lineage': None, 'given': 'gurum'}, 'id': 'gurum@fimpa.unila.ac.id'}]",disk0/00/04/23/40,2022-05-01 00:00:00.000000000,article,['FMIPA1'],"The laboratory access restriction system has been realized using RFID and
+keypad technology, based on an Arduino microcontroller as a processor. The
+system has recorded users who entered the room by identifying the RFID tag
+(transponder) used to open the door from the outside. As for access outside the
+room, the user only needs to enter the password as identification data on the
+keypad, and the system would reduce the number of room users and open the
+door. The output of this system was a solenoid lock which functions as an
+electronic lock and an LCD to display the status of the RFID reading. The test
+results showed that the system created can work well. RFID Reader was able to
+read tags with a maximum distance of 4 cm. The program counter functions well,
+so the number of users was limited to 15 (50% of the maximum capacity).",http://jemit.fmipa.unila.ac.id/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",2.0,[{'url': 'http://jemit.fmipa.unila.ac.id/'}],3.0,57-62,TRUE,"Journal of Energy, Material, and Instrumentation Technology",2747-2043,,
+2,SINTESIS DAN KARAKTERISASI NANOFIBER KOMPOSIT PVA/SiO2 DARI SILIKA SEKAM PADI MENGGUNAKAN METODE ELECTROSPINNING,show,6,archive,2022-04-28 01:09:01,['QC'],41490,"[{'mime_type': 'application/pdf', 'language': 'en', 'placement': 1, 'security': 'public', 'eprintid': 41490, 'uri': 'http://repository.lppm.unila.ac.id/id/document/163124', 'rev_number': 1, 'pos': 1, 'format': 'text', 'files': [{'mtime': '2022-04-27 07:25:59', 'hash_type': 'MD5', 'filename': '55730-166560-1-PB (1).pdf', 'hash': '108f0a4c2e0e30c79aedf72f0c1492c4', 'fileid': 459441, 'mime_type': 'application/pdf', 'filesize': 770152, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/459441', 'objectid': 163124}], 'docid': 163124, 'main': '55730-166560-1-PB (1).pdf'}]",Universitas Sebelas Maret,pub,public,http://repository.lppm.unila.ac.id/id/eprint/41490,2022-04-28 01:09:01,2743,2022-04-28 01:09:01,"[{'id': 'iqbal.firdaus@fmipa.unila.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'Firdaus', 'given': 'Iqbal'}}, {'id': 'simon.sembiring@fmipa.', 'name': {'given': 'Simon', 'honourific': None, 'family': 'Sembiring', 'lineage': None}}, {'id': 'junaidi.1982@fmipa.unila.ac.id', 'name': {'honourific': None, 'family': 'Junaidi', 'lineage': None, 'given': 'Junaidi'}}]",disk0/00/04/14/90,2022-04-18 00:00:00.000000000,article,['FMIPA1'],"Membrane separator has been successfully made which potential used for lithium batteries,
+membrane separators are used for the transfer process and prevent short circuits. In this study,
+the PVA/SiO2 separator membrane was synthesized using the electrospinning method with
+variations in weight of SiO2 (0, 0.6, 1.2, 2) wt%. SiO2 used is the result of silica extraction of
+rice husks. The effect of adding SiO2 to PVA to improve the characteristics of the membrane include porosity, and at high temperatures. The results of the membranes that have been successfully made PVA, and PVA/SiO2 form nanofibers with a smaller diameter of the fiber when added SiO2 which is ~ 220 nm, the smaller diameter increases the porosity of the membrane and improves the performance of the membrane stability at a temperature 165 oC.",https://jurnal.uns.ac.id/ijap/article/view/55730,published,,,1.0,,12.0,116-123,TRUE,INDONESIAN JOURNAL OF APPLIED PHYSICS,2089-0133,"1 Zhang, T., Cheng, X. B., Zhang, Q., Lu, Y., & Luo, G. 2016. Construction of a
+cathode using amorphous FePO4 nanoparticles for a high-power/energy-density
+lithium-ion battery with long-term stability. Journal of Power Sources, 324, 52-60.
+2 Wang, L., Wang, Q., Jia, W., Chen, S., Gao, P., & Li, J. 2017. Li metal coated with
+amorphous Li3PO4 via magnetron sputtering for stable and long-cycle life lithium
+metal batteries. Journal of Power Sources, 342, 175-182.
+3 Li, Y., Li, Q., & Tan, Z. 2019. A review of electrospun nanofiber-based separators for
+rechargeable lithium-ion batteries. Journal of Power Sources, 443, 227262.
+4 Costa, C. M., Silva, M. M., & Lanceros-Méndez, S. J. R. A. 2013. Battery separators
+based on vinylidene fluoride (VDF) polymers and copolymers for lithium ion battery
+applications. Rsc Advances, 3(29), 11404-11417.
+5 Yanilmaz, M., Lu, Y., Zhu, J., & Zhang, X. 2016. Silica/polyacrylonitrile hybrid
+nanofiber membran separators via sol-gel and electrospinning techniques for lithiumion batteries. Journal of Power Sources, 313, 205–212.
+6 Alias, N., & Mohamad, A. A. 2015. Advances of aqueous rechargeable lithium-ion
+battery: A review. Journal of Power Sources, 274, 237–251.
+7 Haslinawati, M. M., Matori, K. A., Wahab, Z. A., Sidek, H. A. A., & Zainal, A. T.
+2009. Effect of temperature on ceramic from rice husk ash. International Journal of
+Basic & Applied Sciences, 9(9), 22-25.
+8 Rafiee, E., Shahebrahimi, S., Feyzi, M., & Shaterzadeh, M. 2012. Optimization of
+synthesis and characterization of nanosilica produced from rice husk (a common
+waste material). International nano letters, 2(1), 1-8.
+9 Ugheoke, B. I., & Mamat, O. 2012. A novel method for high volume production of
+nano silica from rice husk: Process development and product
+characteristics. International Journal of Materials Engineering Innovation, 3(2), 139-
+155.
+10 Amutha, K., Ravibaskar, R., & Sivakumar, G. 2010. Extraction, synthesis and
+characterization of nanosilica from rice husk ash. International Journal of
+Nanotechnology and applications, 4(1), 61-66.
+11 Dung, L. T. K., Hien, N. Q., Van Phu, D., & Du, B. D. 2017. Preparation and
+characterization of nanosilica from rice husk ash by chemical treatment combined
+with calcination. Vietnam Journal of Chemistry, 55(4), 455.
+12 Liou, T. H., & Yang, C. C. 2011. Synthesis and surface characteristics of nanosilica
+produced from alkali-extracted rice husk ash. Materials science and engineering:
+B, 176(7), 521-529.
+13 Carmona, V. B., Oliveira, R. M., Silva, W. T. L., Mattoso, L. H. C., & Marconcini, J.
+M. 2013. Nanosilica from rice husk: extraction and characterization. Industrial Crops
+and Products, 43, 291-296.
+14 Mehta, A., & Ugwekar, R. P. 2015. Extraction of silica and other related products
+from rice husk. International Journal of Engineering Research and Applications, 5(8),
+43-48.
+15 Xu, H., Gao, B., Cao, H., Chen, X., Yu, L., Wu, K., & Fu, J. 2014. Nanoporous
+activated carbon derived from rice husk for high performance supercapacitor. Journal
+of Nanomaterials, 2014.
+16 Tadjarodi, A., Haghverdi, M., Mohammadi, V. 2012. Preparation and characterization
+of nano-poroussilica aerogel from rice husk ash by drying at atmospheric
+pressure.Materials Research Bulletin, 47, 584-2589.
+17 Sembiring, S., Riyanto, A., Situmeang, R., Sembiring, Z., Susanti, N., & Firdaus, I.
+2020. Effect of amorphous rice husk silica addition on the structure of asphalt
+composite. Journal of Metals, Materials and Minerals, 30(4), 113-118.
+18 Bhardwaj, N., & Kundu, S. C. 2010. Electrospinning: a fascinating fiber fabrication
+technique. Biotechnology advances, 28(3), 325-347
+19 Yanilmaz, M. 2019. Evaluation of electrospun PVA/SiO2 nanofiber separator
+membranes for lithium-ion batteries. The Journal of The Textile Institute, Volume
+111, Issue 3
+20 Ade Putra, O., Ilham, B. M., & Widiyandari, H. 2021. The Physicochemical
+Properties of PVDF/SiO2 Composite Nanofibers for Potential Application of LithiumIon Battery Separators. Materials Science Forum, 1044, 81–87.",https://doi.org/10.13057/ijap.v12i1.55730
+3,"Analisis Pengaruh Variasi pH Larutan Acid Zinc Pada Sel 
+Volta Dua Kompartemen Dengan Elektrode Cu(Ag)-Zn",show,7,archive,2022-06-09 05:42:41,['QC'],42251,"[{'files': [{'filesize': 1388297, 'datasetid': 'document', 'hash': '80cfb757cee57aea9c1978c6354e37eb', 'filename': 'JEmit3-1-22-1anggi.pdf', 'mtime': '2022-06-09 04:34:08', 'hash_type': 'MD5', 'mime_type': 'application/pdf', 'fileid': 465164, 'uri': 'http://repository.lppm.unila.ac.id/id/file/465164', 'objectid': 163955}], 'main': 'JEmit3-1-22-1anggi.pdf', 'docid': 163955, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/163955', 'pos': 1, 'format': 'text', 'placement': 1, 'security': 'public', 'eprintid': 42251, 'mime_type': 'application/pdf', 'language': 'en'}]",Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42251,2022-06-09 05:42:41,672,2022-06-09 05:42:41,"[{'name': {'family': 'Gurum Ahmad  Pauzi', 'honourific': None, 'lineage': None, 'given': 'gurum'}, 'id': 'gurum@fimpa.unila.ac.id'}, {'id': None, 'name': {'given': 'nila', 'family': 'Nila anggi', 'honourific': None, 'lineage': None}}, {'name': {'family': 'Arif Surtono', 'honourific': None, 'lineage': None, 'given': 'Arif Surtono'}, 'id': 'arifgandes@gmail.com'}, {'id': 'sri.wahyu@fmipa.unila.ac.id', 'name': {'family': 'SW Suciyati', 'honourific': None, 'lineage': None, 'given': 'SW suciyati'}}]",disk0/00/04/22/51,2022-02-01 00:00:00.000000000,article,['FMIPA1'],"The research was conducted to analyze the effect of variations in pH of acid zinc 
+solution in two compartment voltaic cells with Cu(Ag)-Zn electrodes on the value 
+of electrical characteristics and the resulting corrosion rate. The Cu(Ag)-Zn pair is 
+used to generate voltage and current in the cell with seawater electrolyte and zinc 
+acid solution. The two compartments are lined with salt bridge made from mixture 
+of Al2O3 (aluminum oxide), NaCl (seawater) 1 mole concentration dissolved in “tiga 
+roda” white cement. The voltaic cell consisted of 5 cells arranged in series circuit, 
+for each cell at the cathode (Cu(Ag)) containing ± 250 ml seawater and at the anode 
+(Zn) containing ± 200 ml cid zinc solution which was varied with a pH of 4.5 and 
+6. The voltaic cell was measured with multitester every 1 hour for 3 days. Based 
+on the research that has been done, it can be concluded that by using an acid zinc 
+electrolyte solution which has a lower pH value, it will increase the value of the 
+electrical characteristics and increase the corrosion rate produced by voltaic cell.",http://jemit.fmipa.unila.ac.id/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",1.0,,3.0,21-30,TRUE,"Journal of Energy, Material, and Instrumentation Technology",2747-2043,,
+4,"Design of Portable Nano-hydro Generator for Lighting
+in Mountain Areas",show,7,archive,2022-06-12 11:44:58,['QC'],42343,"[{'security': 'public', 'placement': 1, 'eprintid': 42343, 'language': 'en', 'mime_type': 'application/pdf', 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/465802', 'objectid': 164056, 'hash_type': 'MD5', 'mtime': '2022-06-11 12:56:27', 'filename': 'Jemit3-2-ridwan-wahyu.pdf', 'hash': '9cbd31778b5d61cc57f463b4734b344b', 'fileid': 465802, 'mime_type': 'application/pdf', 'filesize': 1340149, 'datasetid': 'document'}], 'docid': 164056, 'main': 'Jemit3-2-ridwan-wahyu.pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/document/164056', 'rev_number': 1, 'format': 'text', 'pos': 1}]",Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42343,2022-06-12 11:44:58,672,2022-06-12 11:44:58,"[{'name': {'lineage': None, 'family': 'Gurum Ahmad Pauzi', 'honourific': None, 'given': 'Gurum'}, 'id': 'gurum@fmipa.unila.ac.id'}, {'name': {'family': 'Muhammad Ridwan', 'honourific': None, 'lineage': None, 'given': 'Muhammad Ridwan'}, 'id': None}, {'name': {'honourific': None, 'family': 'AMIR SUPRIYANTO', 'lineage': None, 'given': 'AMIR SUPRIYANTO'}, 'id': None}, {'id': 'sri.wahyu@fmipa.unila.ac.id', 'name': {'family': 'SW Suciyati', 'honourific': None, 'lineage': None, 'given': 'sw suciyati'}}]",disk0/00/04/23/43,2022-05-01 00:00:00.000000000,article,['FMIPA1'],"Electricity needs in mountainous areas have not been optimal, so there need to
+be alternative power plants to meet the electricity supply in the mountainous area.
+For this reason, this study made an alternative power plant tool with the title
+Nano-hydro Generator Design Easy to Carry for Lighting In Mountainous Areas.
+The creation of this tool has several stages, including the first stage of making
+graphic design through SketchUp applications, then the second stage of the tool
+assembly in the form of mechanical design and civilian build, then the third stage
+of testing tools through water media, and the last stage of data retrieval to see if
+this tool works optimally. Based on the results of trials and data collection
+obtained, the average rotation speed of the turbine of 48.6 rpm, the rotation speed
+of the generator of 194.3 rpm, and a voltage of 6.3 volts.",http://jemit.fmipa.unila.ac.id/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",2.0,"[{'type': 'pub', 'url': 'http://jemit.fmipa.unila.ac.id/'}]",3.0,50-56,TRUE,"Journal of Energy, Material, and Instrumentation Technology",2747-2043,,
+5,KARAKTERISTIK STRUKTUR DAN TERMAL KOMPOSIT ASPAL KARBOSIL SILIKA SEKAM PADI,show,6,archive,2022-06-21 02:57:31,['QC'],42681,"[{'files': [{'mtime': '2022-06-21 01:34:35', 'hash_type': 'MD5', 'filename': '2022-Devi Yulianti_JTAF.pdf', 'hash': '80c36477bbf393f0a746eb29c1d5b382', 'fileid': 468195, 'mime_type': 'application/pdf', 'filesize': 574068, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/468195', 'objectid': 164402}], 'docid': 164402, 'main': '2022-Devi Yulianti_JTAF.pdf', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164402', 'pos': 1, 'format': 'text', 'placement': 1, 'security': 'public', 'eprintid': 42681, 'mime_type': 'application/pdf', 'language': 'en'}]",Jurusan Fisika FMIPA Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42681,2022-06-21 02:57:31,181,2022-06-21 02:57:31,"[{'id': 'junaidi.1982@fmipa.unila.ac.id', 'name': {'family': 'Junaidi', 'honourific': None, 'lineage': None, 'given': 'Junaidi'}}, {'id': 'simonsembiring2@gmail.com', 'name': {'honourific': None, 'family': 'Simon', 'lineage': None, 'given': 'Sembiring'}}]",disk0/00/04/26/81,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Telah dilakukan sintesis dan karakterisasi aspal yang dimodifikasi dengan karbosil dan silika. Penelitian ini dilakukan untuk mengetahui mikrosuktur dan struktur komposit aspal karbosil silika dengan perbandingan komposisi berat yaitu 50:50:0; 42,5:42,5:15; 40:40:20; 37,5:37,5:25; 35:35:30; 32,5:32,5:35. Silika diperoleh dengan menggunakan metode alkalis dan karbosil diperoleh dengan metode pirolisis. Hasil analisis XRD diperoleh fasa yang terbentuk dari setiap variasi komposisi adalah fasa amorf. Analisis DTA/TGA menunjukkan terjadinya perubahan energi akibat penambahan panas dengan ditandai adanya penyusutan massa pada sampel. Variasi komposisi pada sampel menunjukkan terjadinya penurunan nilai pada kuat tekan, porositas dan perubahan ketebalan.",https://jurnal.fmipa.unila.ac.id/jtaf/article/view/2898,published,,,1.0,,10.0,,TRUE,Jurnal Teori dan Aplikasi Fisika,2303-016X,,http://dx.doi.org/10.23960%2Fjtaf.v10i1.2898
+6,Studi Pendahuluan Pembentukan Gugus Fungsi dari Komposit Perak Silika (Ag/SiO2) Berbasis Sekam Padi,show,6,archive,2022-06-21 02:57:30,['QC'],42680,"[{'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 42680, 'placement': 1, 'security': 'public', 'pos': 1, 'format': 'text', 'uri': 'http://repository.lppm.unila.ac.id/id/document/164401', 'rev_number': 1, 'main': '2022-Rifa Dian_JTAF.pdf', 'docid': 164401, 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/468189', 'objectid': 164401, 'hash': 'da1c2ea0b3e6544c345b498cc519d600', 'filename': '2022-Rifa Dian_JTAF.pdf', 'mtime': '2022-06-21 01:31:53', 'hash_type': 'MD5', 'mime_type': 'application/pdf', 'fileid': 468189, 'filesize': 398307, 'datasetid': 'document'}]}]",Jurusan Fisika FMIPA Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42680,2022-06-21 02:57:30,181,2022-06-21 02:57:30,"[{'name': {'honourific': None, 'family': 'Junaidi', 'lineage': None, 'given': 'Junaidi'}, 'id': 'junaidi.1982@fmipa.unila.ac.id'}, {'name': {'lineage': None, 'honourific': None, 'family': 'Simon', 'given': 'Sembiring'}, 'id': 'simonsembiring2@gmail.com'}]",disk0/00/04/26/80,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Research has been carried out with the aim of studying the formation of functional groups of a composite of silver silica (Ag/SiO2) based on rice husk silica and silver nitrate (AgNO3) as a precursor using the sol-gel method. Variations in the concentration of AgNO3 used were 0,3M; 0,5M; and 0,7 M with a thermal temperature of 850 °C. The results of Fourier transform infrared spectroscopy (FTIR) showed the formation of Si-O-Si, Si-O, and O-N-O functional groups which were the result of AgNO3 residue indicating the presence of Ag.",https://jurnal.fmipa.unila.ac.id/jtaf/article/view/2891,published,,,1.0,,10.0,,TRUE,Jurnal Teori dan Aplikasi Fisika,2303-016X,,http://dx.doi.org/10.23960%2Fjtaf.v10i1.2891
+7,Ekstrak Daun Sawo (Manilkara Zapota L) Sebagai Inhibitor Terhadap Laju Korosi Baja Aisi 1018 Dalam Medium Korosif NaCI 3%,show,7,archive,2022-10-06 02:19:42,['AC'],45541,"[{'uri': 'http://repository.lppm.unila.ac.id/id/document/184320', 'rev_number': 1, 'pos': 1, 'format': 'text', 'files': [{'objectid': 184320, 'uri': 'http://repository.lppm.unila.ac.id/id/file/505651', 'datasetid': 'document', 'filesize': 398665, 'fileid': 505651, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2022-10-06 02:15:21', 'filename': '3. EKSTRA DAUN SAWO.pdf', 'hash': 'bc177de9353b17a2439e89f0e7cf108e'}], 'main': '3. EKSTRA DAUN SAWO.pdf', 'docid': 184320, 'mime_type': 'application/pdf', 'language': 'en', 'placement': 1, 'security': 'public', 'eprintid': 45541}]","Journal of Energy, Material, and Instrumentation Technology",pub,public,http://repository.lppm.unila.ac.id/id/eprint/45541,2022-10-06 02:19:42,949,2022-10-06 02:19:42,"[{'name': {'given': 'Pulung', 'honourific': None, 'family': 'Karo Karo', 'lineage': None}, 'id': 'pulung.karokaro@gmail.com'}]",disk0/00/04/55/41,1970-01-01 00:00:00.000002022,other,['FMIPA1'],Dokumen Abstrak,,,,,,,,,,,,,
+8,Preparation of Silver-Doped Rice Husk Silica Composites Using the Sol-Gel Method,show,7,archive,2022-10-06 02:19:38,['AC'],45539,"[{'security': 'public', 'placement': 1, 'eprintid': 45539, 'language': 'en', 'mime_type': 'application/pdf', 'files': [{'mime_type': 'application/pdf', 'fileid': 505635, 'hash': 'f6ef13c8b4cdcb141b709e84188799bb', 'filename': '1. PREPARATION OF SILVER-DOPED RICE HUSK.pdf', 'mtime': '2022-10-06 02:04:58', 'hash_type': 'MD5', 'datasetid': 'document', 'filesize': 1877560, 'objectid': 184317, 'uri': 'http://repository.lppm.unila.ac.id/id/file/505635'}], 'main': '1. PREPARATION OF SILVER-DOPED RICE HUSK.pdf', 'docid': 184317, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/184317', 'format': 'text', 'pos': 1}]",Ceramics-Silikaty,pub,public,http://repository.lppm.unila.ac.id/id/eprint/45539,2022-10-06 02:19:38,949,2022-10-06 02:19:38,"[{'id': 'pulung.karokaro@gmail.com', 'name': {'given': 'Pulung', 'honourific': None, 'family': 'Karo Karo', 'lineage': None}}]",disk0/00/04/55/39,1970-01-01 00:00:00.000002022,other,['FMIPA1'],Dokumen Abstrak,,published,,,,,,,,,,,
+9,Preparation of Silver-Doped Rice Husk Silica Composites Using the Sol-Gel Method,show,7,archive,2022-10-19 09:45:16,['AC'],45836,"[{'pos': 1, 'format': 'text', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/184648', 'main': 'BUKTI KORESPONDENSI.pdf', 'docid': 184648, 'files': [{'objectid': 184648, 'uri': 'http://repository.lppm.unila.ac.id/id/file/507904', 'datasetid': 'document', 'filesize': 195134, 'fileid': 507904, 'mime_type': 'application/pdf', 'mtime': '2022-10-19 08:33:43', 'hash_type': 'MD5', 'filename': 'BUKTI KORESPONDENSI.pdf', 'hash': 'aafdd23e5f69ed11d99382f2ac25d1fb'}], 'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 45836, 'placement': 1, 'security': 'public'}]",Ceramics-Silikaty,pub,public,http://repository.lppm.unila.ac.id/id/eprint/45836,2022-10-19 09:45:16,949,2022-10-19 09:45:16,"[{'name': {'given': 'Pulung', 'lineage': None, 'family': 'Karo Karo', 'honourific': None}, 'id': 'pulung.karokaro@gmail.com'}]",disk0/00/04/58/36,1970-01-01 00:00:00.000002022,other,['FMIPA1'],Bukti Korespondensi,,published,,,,,,,,,,,
+10,"Soil Moisture Monitoring System Applied to the
+Internet of Things (IoT) Based Automatic Watering 
+Equipment in Papaya Fields",show,7,archive,2022-06-12 11:45:18,['QC'],42341,"[{'language': 'en', 'mime_type': 'application/pdf', 'eprintid': 42341, 'security': 'public', 'placement': 1, 'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164054', 'rev_number': 1, 'main': 'Jemit3-2-lola-wahyu.pdf', 'docid': 164054, 'files': [{'mime_type': 'application/pdf', 'fileid': 465791, 'hash': '9093385c2e5294478df4f01cc946818c', 'filename': 'Jemit3-2-lola-wahyu.pdf', 'hash_type': 'MD5', 'mtime': '2022-06-11 12:17:31', 'datasetid': 'document', 'filesize': 1364873, 'objectid': 164054, 'uri': 'http://repository.lppm.unila.ac.id/id/file/465791'}]}]",Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42341,2022-06-12 11:45:18,672,2022-06-12 11:45:18,"[{'name': {'given': 'Lola Adetia', 'honourific': None, 'family': 'Lola Adetia', 'lineage': None}, 'id': 'lolaadetia2@gmail.com'}, {'name': {'lineage': None, 'family': 'Sri Wahyu Suciyati', 'honourific': None, 'given': 'sw suciyati'}, 'id': 'sri.wahyu@fmipa.unila.ac.id'}, {'name': {'given': 'AMIR SUPRIYANTO', 'honourific': None, 'family': 'AMIR SUPRIYANTO', 'lineage': None}, 'id': None}, {'name': {'family': 'Gurum ahmad Pauzi,', 'honourific': None, 'lineage': None, 'given': 'Gurum Ahmad'}, 'id': None}]",disk0/00/04/23/41,2022-05-01 00:00:00.000000000,article,['FMIPA1'],"In this research, the design of an automatic plant watering device and a real-time
+soil moisture monitoring system was realized in an internet of things (IoT) based
+papaya farm. The design of this automatic plant watering device aims to create
+an automatic plant watering system using the FC-28 sensor and a monitoring
+system using the Blynk application on papaya fields. In the system, the
+microcontroller used is an Arduino UNO with outputs, namely a dc pump, 16X2
+LCD, and Blynk application. Based on the android interface app, the Blynk app
+can monitor the soil moisture value in real-time every 1 second. Data collection
+was done by measuring the moisture value in 3 papaya farms with different crop
+ages, and the tool will water when the soil moisture value read by the sensor is>
+350 or <65%. Based on the study results, the device can run well, as shown by
+the pump can water when the soil moisture value is> 350 or <65 %, and the pump
+will stop when the soil moisture value is <350 or > 65%.",http://jemit.fmipa.unila.ac.id/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",2.0,"[{'url': 'http://jemit.fmipa.unila.ac.id/', 'type': 'pub'}]",3.0,63-73,TRUE,"Journal of Energy, Material, and Instrumentation Technology",2747-2043,,
+11,Synthesis and Characterisation of Nano-silica Based on Pumice Using NaOH,show,9,archive,2022-05-25 03:34:03,['QC'],41806,"[{'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 41806, 'security': 'public', 'placement': 1, 'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/163475', 'rev_number': 1, 'docid': 163475, 'main': 'Journla of Physical Science 33(1) 17-28 2022 an Posman Manurung.pdf', 'files': [{'datasetid': 'document', 'filesize': 731597, 'mime_type': 'application/pdf', 'fileid': 461758, 'filename': 'Journla of Physical Science 33(1) 17-28 2022 an Posman Manurung.pdf', 'hash': '0a451e03947d7fcb78fdeafe00490c1b', 'mtime': '2022-05-25 02:36:25', 'hash_type': 'MD5', 'objectid': 163475, 'uri': 'http://repository.lppm.unila.ac.id/id/file/461758'}]}, {'language': 'en', 'mime_type': 'application/pdf', 'placement': 2, 'security': 'public', 'eprintid': 41806, 'uri': 'http://repository.lppm.unila.ac.id/id/document/163476', 'rev_number': 2, 'pos': 2, 'format': 'text', 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/461761', 'objectid': 163476, 'hash': '0a451e03947d7fcb78fdeafe00490c1b', 'filename': 'JPS-331_Art-2-17-28.pdf', 'mtime': '2022-05-25 02:36:56', 'hash_type': 'MD5', 'mime_type': 'application/pdf', 'fileid': 461761, 'filesize': 731597, 'datasetid': 'document'}], 'main': 'JPS-331_Art-2-17-28.pdf', 'docid': 163476}, {'mime_type': 'application/pdf', 'language': 'en', 'security': 'public', 'placement': 3, 'eprintid': 41806, 'uri': 'http://repository.lppm.unila.ac.id/id/document/163477', 'rev_number': 1, 'format': 'text', 'pos': 3, 'files': [{'fileid': 461763, 'mime_type': 'application/pdf', 'mtime': '2022-05-25 02:37:20', 'hash_type': 'MD5', 'hash': '0a451e03947d7fcb78fdeafe00490c1b', 'filename': 'Journla of Physical Science 33(1) 17-28 2022 an Posman Manurung.pdf', 'datasetid': 'document', 'filesize': 731597, 'objectid': 163477, 'uri': 'http://repository.lppm.unila.ac.id/id/file/461763'}], 'main': 'Journla of Physical Science 33(1) 17-28 2022 an Posman Manurung.pdf', 'docid': 163477}]",Universiti Sains Malaysia (USM Press),pub,public,http://repository.lppm.unila.ac.id/id/eprint/41806,2022-05-25 03:34:03,781,2022-05-25 03:34:03,"[{'name': {'given': 'Posman', 'family': 'Manurung', 'honourific': None, 'lineage': None}, 'id': 'reip65@yahoo.com'}, {'name': {'honourific': None, 'family': 'Ginting', 'lineage': None, 'given': 'Erika'}, 'id': None}, {'id': 'ediman.gintingsuka@fmipa.unila.ac.id', 'name': {'lineage': None, 'family': 'Ginting Suka', 'honourific': None, 'given': 'Ediman'}}, {'id': 'suprihatin.1973@fmipa.unila.ac.id', 'name': {'given': 'Suprihatin', 'family': 'Suprihatin', 'honourific': None, 'lineage': None}}]",disk0/00/04/18/06,2022-04-01 00:00:00.000000000,article,['FMIPA1'],"Abstract: Nano-silica was synthesised from pumice by extraction method using
+sodium hydroxide (NaOH), sulphuric acid (H2SO4) and hydrochloric acid (HCl).
+The raw material of pumice was collected from local area, Tanggamus-Lampung
+Indonesia. After grinding, the pumice powder was activated at 450°C for 2 h before
+mixing with NaOH for extraction. After extraction, the powder was heated at 800°C
+for 4 h, to maintain the silica is in amorphous phase. Physical characteristics were
+analysed using transmission electron microscopy (TEM) for measuring particle size,
+Brunauer-Emmett-Teller (BET) technique for surface area measurement, x-ray diffraction
+(XRD) for structure and x-ray fluorescence (XRF) for determination of oxides. XRD
+analysis proved that besides amorphous nano-silica, there are peaks of sodium sulfate
+(Na2SO4) as representation of crystalline structure. The maximum silicon dioxide (SiO2)
+content was found on 3.0 molar (M) NaOH. The highest surface area of 165 m2
+/g was
+obtained in sample of 3.5 M NaOH. The truly amorphous nano-silica content was found
+in NaOH of 3.0 M. The formation temperature may occur between 1100°C–1200°C.
+The particle size is in the range of 9 nm–17 nm.
+Keywords: pumice, extraction, amorphous, particle size, formation temperature",,published,,,1.0,,33.0,17-28,TRUE,"Journal of Physical Science,",2180-4230,,
+12,"Pengaruh Waktu Penambahan Doping Fluor terhadap
+Luas Permukaan dan Struktur Nanotitania dengan
+Menggunakan Metode Sol-Gel",show,6,archive,2022-11-14 03:26:25,['QC'],46550,"[{'language': 'en', 'mime_type': 'application/pdf', 'security': 'public', 'placement': 1, 'eprintid': 46550, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/185428', 'format': 'text', 'pos': 1, 'files': [{'datasetid': 'document', 'filesize': 460031, 'fileid': 513272, 'mime_type': 'application/pdf', 'mtime': '2022-11-12 10:04:09', 'hash_type': 'MD5', 'hash': 'a98885c2c1fffca3985f0df24443e06d', 'filename': 'Pengaruh Waktu Penambahan Doping Fluor terhadap Posman 2022.pdf', 'objectid': 185428, 'uri': 'http://repository.lppm.unila.ac.id/id/file/513272'}], 'docid': 185428, 'main': 'Pengaruh Waktu Penambahan Doping Fluor terhadap Posman 2022.pdf'}]",Jurusan Fisika FMIPA Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/46550,2022-11-14 03:26:25,781,2022-11-14 03:26:25,"[{'name': {'given': 'Posman', 'family': 'Manurung', 'honourific': None, 'lineage': None}, 'id': 'reip65@yahoo.com'}, {'id': None, 'name': {'given': 'Puji', 'lineage': None, 'family': 'Lestari', 'honourific': None}}, {'name': {'lineage': None, 'honourific': None, 'family': 'Karo Karo', 'given': 'Pulung'}, 'id': None}]",disk0/00/04/65/50,2022-07-01 00:00:00.000000000,article,['FMIPA1'],"Abstract. F-doped TiO2 has been synthesized using the sol-gel method using NH4F as a source of fluorine.
+This study aims to determine the effect of adding variations in the rate of doping fluorine during 0, 30, 60, 90
+and 120 minutes using an injection pump to the formation and change of crystal structure and specific
+surface area of TiO2. Titanium isopropoxide (TTIP), tween-80, isopropyl alcohol and NH4F are used as the
+main ingredients in the synthesis of nanotitania. The F-TiO2 powder was then calcined at 450 °C for 5 hours.
+The powder was tested for characterization using x-ray diffraction (XRD) and surface area analyzer (SAA).
+The XRD characterization results showed that all samples had purely anatase phases. XRD analysis on
+sample F-01 with a drop rate of 0 minutes obtained the largest particle diameter of 14.21 nm. Whereas the
+sample F-04 with a dropping rate of 90 minutes obtained the smallest particle diameter of 11.60 nm. The
+results of the SAA characterization in sample F-01 with a drop rate of 0 minutes obtained the smallest
+surface area of 68.845 m2
+/g. Whereas in sample F-04 with a dropping rate of 90 minutes the largest surface
+area was 103,585 m2
+/g.
+Keywords: fluor-doped, SAA, TiO2, XRD.",,,,,2.0,,10.0,137-144,TRUE,Jurnal Teori dan Aplikasi Fisika,2303-016X,,
+13,"Pengaruh Isopropil Alkohol (IPA) pada Pembentukan
+Nanotitania Menggunakan Metode Hidrotermal
+pada Temperatur 250 oC",show,8,archive,2022-11-14 03:26:14,['QC'],46547,"[{'main': 'Pengaruh Isopropil Alkohol (IPA) pada Pembentukan Posman 2022.pdf', 'docid': 185424, 'files': [{'objectid': 185424, 'uri': 'http://repository.lppm.unila.ac.id/id/file/513251', 'fileid': 513251, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2022-11-12 09:36:23', 'filename': 'Pengaruh Isopropil Alkohol (IPA) pada Pembentukan Posman 2022.pdf', 'hash': 'c8d21b3c1f85f33b445131a69a51dc20', 'datasetid': 'document', 'filesize': 335495}], 'pos': 1, 'format': 'text', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/185424', 'eprintid': 46547, 'placement': 1, 'security': 'public', 'mime_type': 'application/pdf', 'language': 'en'}, {'rev_number': 3, 'uri': 'http://repository.lppm.unila.ac.id/id/document/185425', 'pos': 2, 'format': 'text', 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/513254', 'objectid': 185425, 'filesize': 44506, 'datasetid': 'document', 'filename': 2750, 'hash': 'd192ede9f9d830387eff88379f2cf137', 'hash_type': 'MD5', 'mtime': '2022-11-12 09:36:35', 'mime_type': 'text/html', 'fileid': 513254}], 'main': 2750, 'docid': 185425, 'content': 'published', 'mime_type': 'text/html', 'language': 'en', 'placement': 2, 'security': 'public', 'eprintid': 46547}]",Lampung University,pub,public,http://repository.lppm.unila.ac.id/id/eprint/46547,2022-11-14 03:26:14,781,2022-11-14 03:26:14,"[{'name': {'given': 'Posman', 'lineage': None, 'family': 'Manurung', 'honourific': None}, 'id': 'reip65@yahoo.com'}, {'name': {'given': 'MAHARANI', 'family': 'MAHARANI', 'honourific': None, 'lineage': None}, 'id': None}]",disk0/00/04/65/47,2022-07-01 00:00:00.000000000,article,['FMIPA1'],"Abstract. Research has been carried out on the effect of adding isopropyl alcohol (IPA) on the formation of
+nano titania. This study aims to determine the effect of adding IPA on the phase formation and particle size
+of TiO2. In this study, nano titania was synthesized by hydrothermal method at a temperature of 250oC with
+a variety of different IPA additions, namely 0.2 ml, 0.4 ml, 0.6 ml, and 0.8 ml. Samples were characterized
+using X-Ray Diffraction (XRD) and Scanning Electron Microscopy (SEM). The XRD characterization results
+showed that the diffraction peaks were following the standard database and showed anatase, rutile, and
+brookite phases. The particle size is calculated from the FWHM value using the Scherrer equation, which is
+in the 10-13 nm range for the anatase phase and the rutile phase in the 18-20 nm range. The results of SEM
+characterization in the 04IPA sample showed that the morphology was not perfectly round and the grain size
+was not uniform.
+Keywords: Nano titania, Isopropyl Alcohol (IPA), Hydrothermal",,,,,2.0,,10.0,179-186,TRUE,Jurnal Teori dan Aplikasi Fisika,ISSN 2303-016X,,
+14,"Sintesis dan Karakterisasi Serat Nanotitania
+dengan Metode Electrospinning",show,6,archive,2022-11-14 03:26:23,['QC'],46549,"[{'pos': 1, 'format': 'text', 'uri': 'http://repository.lppm.unila.ac.id/id/document/185427', 'rev_number': 1, 'main': 'Sintesis dan Karakterisasi Serat Nanotitania Posman 2022.pdf', 'docid': 185427, 'files': [{'objectid': 185427, 'uri': 'http://repository.lppm.unila.ac.id/id/file/513266', 'fileid': 513266, 'mime_type': 'application/pdf', 'mtime': '2022-11-12 09:54:24', 'hash_type': 'MD5', 'filename': 'Sintesis dan Karakterisasi Serat Nanotitania Posman 2022.pdf', 'hash': 'c9184fd659a6032b3638f16aae8299cc', 'datasetid': 'document', 'filesize': 486300}], 'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 46549, 'placement': 1, 'security': 'public'}]",Lampung University,pub,public,http://repository.lppm.unila.ac.id/id/eprint/46549,2022-11-14 03:26:23,781,2022-11-14 03:26:23,"[{'name': {'given': 'Posman', 'lineage': None, 'family': 'Manurung', 'honourific': None}, 'id': 'reip65@yahoo.com'}, {'name': {'given': 'Nurul', 'lineage': None, 'honourific': None, 'family': 'Octavia'}, 'id': None}, {'name': {'given': 'Junaidi', 'family': 'Junaidi', 'honourific': None, 'lineage': None}, 'id': 'junaidi.1982@fmipa.unila.ac.id'}, {'id': 'pulung.karokaro@gmail.com', 'name': {'given': 'Pulung', 'family': 'Karo Karo', 'honourific': None, 'lineage': None}}]",disk0/00/04/65/49,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Abstract. Titanium Dioxide (TiO2) nanofibers have been prepared using the electrospinning method. This study aims
+to determine the morphology and crystal structure of the TiO2 nanofibers and to determine the effect of viscosity on
+the morphology and crystal structure formed. This study used titanium tetraisopropoxide as a precursor, ethanol as a
+solvent, acetic acid as a solution stabilizer and controlled the hydrolysis reaction of the precursor, and PVP as a
+fiber-making material. The amount of variations of acetic acid is 2; 2.5; 3; 3.5; and 4 ml respectively. The results of
+the viscosity test showed that the greater the acetic acid used, the smaller the viscosity. The electrospinning process
+was carried out at a high voltage of 13 kV with a flow rate of 1.5 ml/hour. The fiber obtained was then calcined at
+450 oC for 3 hours. The calcined sample was then analyzed using X-Ray Diffraction (XRD), Scanning Electron
+Microscopy (SEM), and Transmission Electron Microscopy (TEM). SEM characterization results on samples B, C,
+and D showed that the sample diameters were 313 ± 28 nm, 275 ± 57 nm, and 242 ± 59 nm, respectively. The results
+of XRD characterization on sample D showed that the resulting sample had a tetragonal crystal structure with a mixed
+phase between anatase and rutile. The results of TEM characterization in sample D showed the fiber diameter with a
+size of 68.05 nm.
+Keywords: nanofibers, TiO2, electrospinning, viscosity.",,,,,2.0,,10.0,169-178,TRUE,Jurnal Teori dan Aplikasi Fisika,ISSN 2303-016X,,
+15,"Cek Similarity: A preliminary study of phases, elemental mapping, and electrical properties on Na2FeSiO4 derived from rice husk silica",show,8,archive,2022-09-06 06:20:46,['QC'],44715,"[{'mime_type': 'application/pdf', 'language': 'en', 'placement': 1, 'security': 'public', 'eprintid': 44715, 'rev_number': 2, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166590', 'formatdesc': 'Cek Similarity: A preliminary study of phases, elemental mapping, and electrical properties on Na2FeSiO4 derived from rice husk silica', 'pos': 1, 'format': 'other', 'files': [{'objectid': 166590, 'uri': 'http://repository.lppm.unila.ac.id/id/file/482914', 'mime_type': 'application/pdf', 'fileid': 482914, 'filename': 'Riyanto_2020_J._Phys.__Conf._Ser._1572_012003.pdf.pdf', 'hash': '33cec66913e34c1354b708268a971cd4', 'hash_type': 'MD5', 'mtime': '2022-09-03 09:52:46', 'datasetid': 'document', 'filesize': 1534169}], 'docid': 166590, 'main': 'Riyanto_2020_J._Phys.__Conf._Ser._1572_012003.pdf.pdf'}]",IOP Publishing,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44715,2022-09-06 06:20:46,1168,2022-09-06 06:20:46,"[{'name': {'given': 'Agus', 'family': 'Riyanto', 'honourific': None, 'lineage': None}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}]",disk0/00/04/47/15,2022-07-01 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+16,NIlai review artikel: Pengaruh Penambahan Tepung Umbi Porang danVariasi Konsentrasi Flavonoid Kulit Nanas dalam Pembuatan Biofoam,show,7,archive,2022-09-06 06:21:02,['QC'],44802,"[{'placement': 1, 'security': 'public', 'eprintid': 44802, 'mime_type': 'application/pdf', 'language': 'en', 'files': [{'objectid': 166692, 'uri': 'http://repository.lppm.unila.ac.id/id/file/483671', 'datasetid': 'document', 'filesize': 1370554, 'mime_type': 'application/pdf', 'fileid': 483671, 'filename': 'Nilai Pengaruh Penambahan Tepung.pdf', 'hash': '4657a78aebd0f381f3a46be15b112d2f', 'mtime': '2022-09-06 02:48:47', 'hash_type': 'MD5'}], 'docid': 166692, 'main': 'Nilai Pengaruh Penambahan Tepung.pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/document/166692', 'rev_number': 1, 'pos': 1, 'format': 'text'}]",Universitas Lambung Mangkurat,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44802,2022-09-06 06:21:02,1168,2022-09-06 06:21:02,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'honourific': None, 'family': 'Riyanto', 'lineage': None, 'given': 'Agus'}}]",disk0/00/04/48/02,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+17,"Nilai review artikel: A preliminary study of phases, elemental mapping, and electrical properties on Na2FeSiO4 derived from rice husk silica",show,8,archive,2022-09-06 06:20:43,['QC'],44712,"[{'content': 'other', 'mime_type': 'application/pdf', 'language': 'id', 'security': 'public', 'placement': 1, 'eprintid': 44712, 'formatdesc': 'Nilai review artikel: A preliminary study of phases, elemental mapping, and electrical properties on Na2FeSiO4 derived from rice husk silica', 'uri': 'http://repository.lppm.unila.ac.id/id/document/166588', 'rev_number': 2, 'format': 'other', 'pos': 1, 'files': [{'filesize': 1394919, 'datasetid': 'document', 'mtime': '2022-09-03 09:47:52', 'hash_type': 'MD5', 'filename': 'A Preliminary .pdf', 'hash': 'fe328ac8d41c79fa469295f4d4f57521', 'fileid': 482903, 'mime_type': 'application/pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/file/482903', 'objectid': 166588}], 'docid': 166588, 'main': 'A Preliminary .pdf'}]",IOP Publishing,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44712,2022-09-06 06:20:43,1168,2022-09-06 06:20:43,"[{'name': {'given': 'Agus', 'lineage': None, 'family': 'Riyanto', 'honourific': None}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}]",disk0/00/04/47/12,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+18,"Nilai review artikel: Pengaruh Variasi Ion Ag+ terhadap 
+Pembentukan Biofoam Antibakteri Berbasis Pati 
+Singkong dan Selulosa Batang Jagung",show,7,archive,2022-09-07 07:14:07,['QC'],44819,"[{'language': 'en', 'mime_type': 'application/pdf', 'security': 'public', 'placement': 1, 'eprintid': 44819, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166717', 'rev_number': 1, 'format': 'text', 'pos': 1, 'files': [{'objectid': 166717, 'uri': 'http://repository.lppm.unila.ac.id/id/file/483833', 'mime_type': 'application/pdf', 'fileid': 483833, 'filename': 'Nilai Pengaruh Variasi.pdf', 'hash': 'd75bc44fae9fc38429fb3ea925c1f838', 'hash_type': 'MD5', 'mtime': '2022-09-07 03:48:55', 'datasetid': 'document', 'filesize': 1297091}], 'main': 'Nilai Pengaruh Variasi.pdf', 'docid': 166717}]","Progam Studi Pendidikan Fisika FTK Universitas Islam Negeri Ar-Raniry Banda Aceh, UIN Ar-Raniry Banda Aceh, Aceh, Indonesia.",unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44819,2022-09-07 07:14:07,1168,2022-09-07 07:14:07,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'given': 'Agus', 'honourific': None, 'family': 'Riyanto', 'lineage': None}}]",disk0/00/04/48/19,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,,,,,,,,,,,
+19,Nilai review artikel: Silver Nanorods Layer Based on Polyvinyl Alcohol on Glass Substrates by Dip-Coating Method,show,7,archive,2022-09-06 06:21:16,['QC'],44811,"[{'eprintid': 44811, 'security': 'public', 'placement': 1, 'language': 'en', 'mime_type': 'application/pdf', 'docid': 166707, 'main': 'Silver Nanoroad.pdf', 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/483747', 'objectid': 166707, 'filename': 'Silver Nanoroad.pdf', 'hash': '7da8eb2c72d8c995aadb51e7d488323e', 'hash_type': 'MD5', 'mtime': '2022-09-06 05:02:07', 'mime_type': 'application/pdf', 'fileid': 483747, 'filesize': 1132107, 'datasetid': 'document'}], 'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166707', 'rev_number': 1}]",-,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44811,2022-09-06 06:21:16,1168,2022-09-06 06:21:16,"[{'name': {'given': 'Agus', 'lineage': None, 'honourific': None, 'family': 'Riyanto'}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}]",disk0/00/04/48/11,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+20,Nilai review artikel: Structure and Properties of Silver-Silica Composite Prepared From Rice Husk Silica And Silver Nitrate,show,7,archive,2022-09-06 06:21:14,['QC'],44810,"[{'files': [{'filesize': 1157551, 'datasetid': 'document', 'hash': 'feaa87161d8c0ca329c67fc5f26ed81e', 'filename': 'Structure & Properties.pdf', 'hash_type': 'MD5', 'mtime': '2022-09-06 04:49:38', 'mime_type': 'application/pdf', 'fileid': 483740, 'uri': 'http://repository.lppm.unila.ac.id/id/file/483740', 'objectid': 166706}], 'main': 'Structure & Properties.pdf', 'docid': 166706, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166706', 'pos': 1, 'format': 'text', 'placement': 1, 'security': 'public', 'eprintid': 44810, 'language': 'en', 'mime_type': 'application/pdf'}]","Institute of Rock Structure and Mechanics of the CAS & University of Chemistry and Technology, Prague",unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44810,2022-09-06 06:21:14,1168,2022-09-06 06:21:14,"[{'name': {'lineage': None, 'family': 'Riyanto', 'honourific': None, 'given': 'Agus'}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}]",disk0/00/04/48/10,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+21,Nilai review artikel:ANALISIS DINAMIKA MOLEKUL PROTEIN LYSOZYME PUTIH TELUR DENGAN MODEL POTENSIAL LENNARD-JONES MENGGUNAKAN APLIKASI GROMACS,show,7,archive,2022-09-07 07:14:26,['QC'],44825,"[{'main': 'Analisis Dinamika Molekul.pdf', 'docid': 166723, 'files': [{'fileid': 483873, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2022-09-07 06:57:33', 'hash': '11dce575f3b2afddd0bb850dbc094021', 'filename': 'Analisis Dinamika Molekul.pdf', 'datasetid': 'document', 'filesize': 1149546, 'objectid': 166723, 'uri': 'http://repository.lppm.unila.ac.id/id/file/483873'}], 'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166723', 'rev_number': 1, 'eprintid': 44825, 'security': 'public', 'placement': 1, 'language': 'en', 'mime_type': 'application/pdf'}]",Universitas Lampung,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44825,2022-09-07 07:14:26,1168,2022-09-07 07:14:26,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'honourific': None, 'family': 'Riyanto', 'lineage': None, 'given': 'Agus'}}]",disk0/00/04/48/25,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+22,Nilai review artikel:Studi Desain High Temperature Gas-Cooled Reactor (HTGR) Berpendingin Gas Hidrogen Menggunakan Bahan Bakar Thorium,show,7,archive,2022-09-07 07:14:28,['QC'],44826,"[{'eprintid': 44826, 'placement': 1, 'security': 'public', 'mime_type': 'application/pdf', 'language': 'en', 'docid': 166724, 'main': 'Nilai_ Studi Desain.pdf', 'files': [{'mtime': '2022-09-07 07:05:18', 'hash_type': 'MD5', 'hash': '44fd19a678869440de4d1ab5dd5659b1', 'filename': 'Nilai_ Studi Desain.pdf', 'fileid': 483880, 'mime_type': 'application/pdf', 'filesize': 962396, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/483880', 'objectid': 166724}], 'pos': 1, 'format': 'text', 'uri': 'http://repository.lppm.unila.ac.id/id/document/166724', 'rev_number': 1}]",Universitas Lampung,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44826,2022-09-07 07:14:28,1168,2022-09-07 07:14:28,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'given': 'Agus', 'family': 'Riyanto', 'honourific': None, 'lineage': None}}]",disk0/00/04/48/26,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,,,,,,,,,,,
+23,Nilai review: https://doi.org/10.22236/omega.v5i1.8560,show,9,archive,2022-09-16 09:24:43,['QC'],44981,"[{'eprintid': 44981, 'placement': 1, 'security': 'public', 'language': 'en', 'mime_type': 'application/pdf', 'main': 'Nilai_ Sythesis.pdf', 'docid': 166901, 'files': [{'objectid': 166901, 'uri': 'http://repository.lppm.unila.ac.id/id/file/485075', 'datasetid': 'document', 'filesize': 1106336, 'fileid': 485075, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2022-09-16 07:53:48', 'filename': 'Nilai_ Sythesis.pdf', 'hash': 'b4dfb338b96abf60373056fb62907d9a'}], 'pos': 1, 'format': 'text', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166901'}]",Uhamka,unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44981,2022-09-16 09:24:43,1168,2022-09-16 09:24:43,"[{'name': {'given': 'Agus', 'lineage': None, 'honourific': None, 'family': 'Riyanto'}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}]",disk0/00/04/49/81,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+24,PENGARUH PENAMBAHAN TEPUNG UMBI PORANG DAN VARIASI KONSENTRASI FLAVONOID KULIT NANAS DALAM PEMBUATAN BIOFOAM,show,6,archive,2022-06-29 09:25:27,['QC'],42777,"[{'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164511', 'rev_number': 1, 'main': '11445-38050-1-PB.pdf', 'docid': 164511, 'files': [{'hash_type': 'MD5', 'mtime': '2022-06-29 03:48:31', 'filename': '11445-38050-1-PB.pdf', 'hash': '781c1dde88a80fe1d215bdd3d29a8910', 'fileid': 468894, 'mime_type': 'application/pdf', 'filesize': 828175, 'datasetid': 'document', 'uri': 'http://repository.lppm.unila.ac.id/id/file/468894', 'objectid': 164511}], 'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 42777, 'security': 'public', 'placement': 1}]",Universitas Lambung Mangkurat,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42777,2022-06-29 09:25:27,1168,2022-06-29 09:25:27,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'Riyanto', 'given': 'Agus'}}]",disk0/00/04/27/77,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Pembuatan biofoam sebagai pengganti styrofoam terus dikembangkan untuk mendapatkan kemasan makanan yang sehat, aman, dan murah bagi masyarakat. Penelitian ini dilakukan untuk melihat pengaruh pelapisan bioplastik glukomanan dari tepung porang yang divariasikan konsentrasi senyawa flavonoid kulit nanas terhadap gugus fungsi dan sifat antibakteri pada biofoam. Bahan biofoam dalam penelitian ini terdiri dari bahan baku utama dan bahan aditif. Bahan baku utama yang digunakan dalam penelitian ini adalah pati kulit pisang dan selulosa dari serat kulit durian. Kemudian, bahan aditif yang digunakan  yaitu tepung porang, polimer CMC, dan flavonoid dari kulit nanas. Bahan baku utama dicampur dan diikat oleh polimer pengikat berupa CMC. Campuran dicetak dengan metode thermopressing dengan suhu 170 oC dalam waktu 3 menit. Biofoam hasil cetakan dilapisi bioplastik glukomanan dari tepung porang yang telah divariasikan konsentrasi senyawa flavonoid (1.250, 2.500, 5.000, 10.000) ppm. Metode pelapisan yang digunakan adalah teknik tuang dan dikeringkan pada suhu 80 OC selama 12 jam. Berdasarkan hasil pengujian, daya serap air biofoam berhasil diturunkan dari 55% menjadi 7,8%, 8%, 12%, dan 9%. Hidrofobisitas tersebut diduga berasal dari bioplastik tepung porang sebagai plastizer. Kemudian, hasil uji aktivitivitas antibakteri pada bakteri Bacillus sp dan Escherichia coli terdapat aktivitas zona hambat pada variasi konsentrasi flavonoid 10.000 ppm berturut-turut 8 mm dan 3,34 mm. Semakin tinggi konsentrasi senyawa flavonoid dalam sampel biofoam, terjadi pergeseran gugus fungsi O-H, C-H aromatik alifatik C=C, C=O, dan C-O. Peningkatan konsentrasi flavonoid hanya mempengaruhi sifat antibakteri tetapi tidak mempengaruhi nilai penyerapan air, karena nilainya cenderung tetap",https://ppjp.ulm.ac.id/journal/index.php/f/article/view/11445,published,['Universitas Lampung'],,2.0,,19.0,101-111,TRUE,Jurnal Fisika Flux: Jurnal Ilmiah Fisika,1819-796X,,
+25,"Similarity: STRUCTURAL CHARACTERISATION OF
+ASPHALT-RICE HUSK SILICA COMPOSITES",show,9,archive,2022-09-15 01:11:45,['QC'],44954,"[{'content': 'other', 'mime_type': 'application/pdf', 'language': 'en', 'placement': 1, 'security': 'public', 'eprintid': 44954, 'uri': 'http://repository.lppm.unila.ac.id/id/document/166876', 'rev_number': 5, 'formatdesc': 'Similarity: STRUCTURAL CHARACTERISATION OF ASPHALT-RICE HUSK SILICA COMPOSITES', 'pos': 1, 'format': 'text', 'files': [{'fileid': 484874, 'mime_type': 'application/pdf', 'mtime': '2022-09-14 14:35:23', 'hash_type': 'MD5', 'filename': 'Sembiring_CS_2021.pdf (1).pdf', 'hash': 'b98d00c3a4800a547e49f9ffcebe7f7e', 'datasetid': 'document', 'filesize': 1732965, 'objectid': 166876, 'uri': 'http://repository.lppm.unila.ac.id/id/file/484874'}], 'main': 'Sembiring_CS_2021.pdf (1).pdf', 'docid': 166876}]","University of Chemistry and Technology, Prague Institute of Rock Structure and Mechanics of the CAS",unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44954,2022-09-15 01:11:45,1168,2022-09-15 01:11:45,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'given': 'Agus', 'lineage': None, 'family': 'Riyanto', 'honourific': None}}]",disk0/00/04/49/54,2022-07-19 00:00:00.000000000,other,['FMIPA1'],,,,['Lampung'],,,,,,,,,,
+26,Similarity: STRUCTURE AND PROPERTIES OF SILVER-SILICA COMPOSITE PREPARED FROM RICE HUSK SILICA AND SILVER NITRATE,show,7,archive,2022-09-15 01:11:52,['QC'],44957,"[{'placement': 1, 'security': 'public', 'eprintid': 44957, 'mime_type': 'application/pdf', 'language': 'en', 'files': [{'mime_type': 'application/pdf', 'fileid': 484890, 'filename': '2. Sembiring_licha_185.pdf.pdf', 'hash': 'e0323437a74c24ec9a03adadeca28003', 'mtime': '2022-09-14 14:59:44', 'hash_type': 'MD5', 'datasetid': 'document', 'filesize': 2803565, 'objectid': 166879, 'uri': 'http://repository.lppm.unila.ac.id/id/file/484890'}], 'docid': 166879, 'main': '2. Sembiring_licha_185.pdf.pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/document/166879', 'rev_number': 1, 'pos': 1, 'format': 'text'}]","University of Chemistry and Technology, Prague Institute of Rock Structure and Mechanics of the CAS",unpub,public,http://repository.lppm.unila.ac.id/id/eprint/44957,2022-09-15 01:11:52,1168,2022-09-15 01:11:52,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'given': 'Agus', 'lineage': None, 'honourific': None, 'family': 'Riyanto'}}]",disk0/00/04/49/57,2022-07-18 00:00:00.000000000,other,['FMIPA1'],,,,['Universitas Lampung'],,,,,,,,,,
+27,"EFFECT OF THERMAL TREATMENT ON THE PHASE FORMATION 
+AND ELECTRICAL PROPERTIES OF RICE HUSK SILICA BASED 
+Na2FeSiO4 PRECURSORS",show,7,archive,2022-06-09 05:42:43,['QC'],42252,"[{'uri': 'http://repository.lppm.unila.ac.id/id/document/163956', 'rev_number': 1, 'pos': 1, 'format': 'text', 'files': [{'objectid': 163956, 'uri': 'http://repository.lppm.unila.ac.id/id/file/465172', 'mime_type': 'application/pdf', 'fileid': 465172, 'filename': '1. Riyanto_CS_2022_0004.pdf', 'hash': '5320aab45c808a3993d8372fb068335c', 'hash_type': 'MD5', 'mtime': '2022-06-09 04:37:35', 'datasetid': 'document', 'filesize': 2090733}], 'docid': 163956, 'main': '1. Riyanto_CS_2022_0004.pdf', 'language': 'en', 'mime_type': 'application/pdf', 'placement': 1, 'security': 'public', 'eprintid': 42252}]","Institute of Rock Structure and Mechanics of the CAS & University of Chemistry and Technology, Prague",pub,public,http://repository.lppm.unila.ac.id/id/eprint/42252,2022-06-09 05:42:43,1168,2022-06-09 05:42:43,"[{'id': 'agus.riyanto@fmipa.unila.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'Riyanto', 'given': 'Agus'}}, {'name': {'lineage': None, 'family': 'Suprihatin', 'honourific': None, 'given': 'Suprihatin'}, 'id': 'suprihatin.1973@fmipa.unila.ac.id'}, {'name': {'honourific': None, 'family': 'Syafriadi', 'lineage': None, 'given': 'Syafriadi'}, 'id': None}, {'id': 'simon.sembiring@fmipa.', 'name': {'given': 'Simon', 'lineage': None, 'honourific': None, 'family': 'Sembiring'}}]",disk0/00/04/22/52,2022-01-01 00:00:00.000000000,article,['FMIPA1'],"This study aimed to explore the effect of thermal treatments on the phase composition and electrical properties of an Na2FeSiO4 precursor. Samples were prepared from NaOH, Fe(NO3)3·9H2O, rice husk silica, and C6H8O7·H2O using the sol-gel method. The samples were thermally treated at a temperature range of 350 – 475 °C with a holding time of 10 hours. The functional groups of each sample were identified using Fourier transform infrared (FTIR) spectroscopy, and their phases were identified using x-ray diffraction (XRD) coupled with a qualitative and quantitative analysis. Meanwhile, the band gap and electrical conductivity of each sample were characterised using UV-Vis DRS and LCRmeter, respectively. The FTIR spectrum identified 
+the functional groups of Na-O, Fe-O, and Si-O, which are associated with the tetrahedral structure of NaO4, FeO4, and 
+SiO4. The XRD analysis reveals that the samples were dominated by Na2FeSiO4, followed by FeSiO3 and SiO2. The weight percent (wt. %) and unit cell volume of the Na2FeSiO4 phase tend to increase with an increasing temperature and change in both influences of their band gap and electrical conductivity. The band gap value tends to decrease with an increasing temperature, inversely proportional to the wt. % and unit cell volume, however, the electrical conductivity is opposite to their band gap value.",https://www.ceramics-silikaty.cz/index.php?page=cs_detail_doi&id=1488,published,['Universitas Lampung'],,1.0,,66.0,95-103,TRUE,Ceramics-Silikáty,0862-5468,,
+28,"Pengaruh Variasi Ion Ag+ terhadap 
+Pembentukan Biofoam Antibakteri Berbasis Pati 
+Singkong dan Selulosa Batang Jagung",show,6,archive,2022-06-28 02:46:39,['QC'],42756,"[{'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164475', 'rev_number': 1, 'docid': 164475, 'main': '13369-37820-1-PB.pdf', 'files': [{'objectid': 164475, 'uri': 'http://repository.lppm.unila.ac.id/id/file/468724', 'datasetid': 'document', 'filesize': 1191328, 'fileid': 468724, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2022-06-28 01:16:31', 'filename': '13369-37820-1-PB.pdf', 'hash': 'ce23eec0fc286fbd4bbf9ef384a15654'}], 'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 42756, 'security': 'public', 'placement': 1}]","Progam Studi Pendidikan Fisika FTK Universitas Islam Negeri Ar-Raniry Banda Aceh, UIN Ar-Raniry Banda Aceh, Aceh, Indonesia.",pub,public,http://repository.lppm.unila.ac.id/id/eprint/42756,2022-06-28 02:46:39,1168,2022-06-28 02:46:39,"[{'name': {'given': 'Agus', 'honourific': None, 'family': 'Riyanto', 'lineage': None}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}, {'name': {'family': 'Syariadi', 'honourific': None, 'lineage': None, 'given': 'Syafriadi'}, 'id': None}, {'id': None, 'name': {'given': 'Pulung', 'honourific': None, 'family': 'Karo Karo', 'lineage': None}}]",disk0/00/04/27/56,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Biofoam pada penelitian ini terbuat dari biopolimer berupa pati singkong, selulosa dari batang jagung, dan polimer pengikat berupa PolivinilAlkohol (PVA). Pembuatan biofoam tersebut dicetak menggunakan metode thermopressing dengan T=150 OC dan ditekan selama t = 3 menit. Bahan aditif 
+berupa ion Ag+ ditambahkan untuk memberikan sifat antibakteri biofoam. Ion Ag+ diproduksi menggunakan metode elektrolisis dari batang AgBr dengantegangan listrik 15 Volt. Kemudian, larutan hasil elektrolisis yang mengandung 
+ion Ag+ divarisasikan konsentrasi (12 ppm; 17 ppm; 22 ppm; 27 ppm). Ion tersebut kemudian dilapiskan pada biofoam menggunakan metode dip coating, lalu dikeringkan pada suhu ruangan. Seiring dengan penambahan konsentrasi 
+larutan ion Ag+ yang dilapiskan pada biofoam, menunjukkan adanya pergeseran gugus fungsi O-H dan N-H bending di bilangan gelombang 3276-3287 cm-1 dan 1640-1647 cm-1. Berdasarkan hasil uji antibakteri bakteri menunjukkan 
+munculnya zona hambat bakteri Bacillus sp, namun tidak muncul pada bakteri Escherichia coli. Variasi penambahan konsentrasiion Ag+ tidak mempengaruhi pengujian daya serap air pada biofoam karena nilai pengujian cendrung tetap",https://jurnal.ar-raniry.ac.id/index.php/jurnalphi/article/view/13369,published,,,2.0,,3.0,49-61,TRUE,Jurnal Phi: Jurnal Pendidikan Fisika dan Fisika Terapan,2549-7162,,
+29,"Synthesis and Characterization of Nanocellulose
+from Cladophora sp.",show,11,archive,2022-06-06 01:26:30,['QC'],42084,"[{'mime_type': 'application/pdf', 'language': 'en', 'security': 'public', 'placement': 1, 'eprintid': 42084, 'uri': 'http://repository.lppm.unila.ac.id/id/document/163778', 'rev_number': 1, 'format': 'text', 'pos': 1, 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/463972', 'objectid': 163778, 'filesize': 1850259, 'datasetid': 'document', 'hash_type': 'MD5', 'mtime': '2022-06-03 13:34:22', 'filename': 'EEC-2-2022-wahyu.pdf', 'hash': '1075b29f5c51dc32333d6fa0ee7024cb', 'fileid': 463972, 'mime_type': 'application/pdf'}], 'main': 'EEC-2-2022-wahyu.pdf', 'docid': 163778}]",EM International,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42084,2022-06-06 01:26:30,672,2022-06-06 01:26:30,"[{'id': 'sri.wahyu@fmipa.unila.ac.id', 'name': {'given': 'S. W. Suciyati', 'family': 'S. W. Suciyati', 'honourific': None, 'lineage': None}}, {'name': {'lineage': None, 'family': 'P. Manurung', 'honourific': None, 'given': 'Posman'}, 'id': 'posman65@fmipa.unila.ac.id'}, {'name': {'given': 'Junaidi', 'family': 'Junaidi', 'honourific': None, 'lineage': None}, 'id': 'junaidi1985@fmipa.unila.ac.id'}, {'id': 'sembiring@fmipa.unila.ac.id', 'name': {'lineage': None, 'family': 'S. Sembiring', 'honourific': None, 'given': 'Simon sembiring'}}, {'id': 'rudy.tahan@fmipa.unila.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'R. Situmeang', 'given': 'rudy Situmeang'}}]",disk0/00/04/20/84,2022-02-01 00:00:00.000000000,article,['FMIPA1'],"Cladophora has a unique cellulose structure and is easy to extract. In this study, ClaNC was isolated from
+freshwater green algae (Cladophora glomerata) that thrived in swamps, using hydrochloric acid (HCl)
+hydrolysis. This study was conducted on the changes of chemical composition, morphology and structure
+of ClaNC through FTIR, XRD, SEM, and TEM. Lignin removal (peak 1535 cm-1) was effective after HCl
+hydrolysis, but bands 1028 and 894 cm-1 confirmed the identity of the chemical composition of Cladophora
+glomerata lettuce which was not lost even at nano-scale. XRD analysis revealed the ClaNC crystal index was
+94.0% with a preferred orientation in the lattice plane of I [110] and I [200]. The surface morphology of
+Cladophora raw material is rod-shaped as shown by SEM, with an average diameter of 21.3 (± 1.01) µm,
+whereas ClaNC refers to nanofibrils with an average diameter of 30.6 (± 0.85) nm as shown by TEM.",http://www.envirobiotechjournals.com/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'universitas lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",2.0,"[{'url': 'http://www.envirobiotechjournals.com/', 'type': 'pub'}]",28.0,521-527,TRUE,"Ecology, Environment and Conservation",0971–765X,,
+30,"Penerapan Jaringan Saraf Tiruan / JST (Backpropagation)
+untuk Prakiraan Cuaca di Bandar Udara Radin Inten II Lampung",show,7,archive,2023-07-12 05:11:28,['Q1'],52237,"[{'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/252903', 'pos': 1, 'format': 'text', 'files': [{'filesize': 1174462, 'datasetid': 'document', 'hash': '5aaabafeef36836ccf7d32a0aaed0efc', 'filename': 'JTAF - JARINGAN PENERAPAN SRS.pdf', 'hash_type': 'MD5', 'mtime': '2023-07-12 03:43:36', 'mime_type': 'application/pdf', 'fileid': 619033, 'uri': 'http://repository.lppm.unila.ac.id/id/file/619033', 'objectid': 252903}], 'docid': 252903, 'main': 'JTAF - JARINGAN PENERAPAN SRS.pdf', 'mime_type': 'application/pdf', 'language': 'en', 'placement': 1, 'security': 'public', 'eprintid': 52237}]",Jurusan Fisika FMIPA Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/52237,2023-07-12 05:11:28,586,2023-07-12 05:11:28,"[{'id': None, 'name': {'given': 'Adi', 'lineage': None, 'family': 'Saputra', 'honourific': None}}, {'id': 'sr_sulistiyanti@eng.unila.ac.id', 'name': {'honourific': None, 'family': 'Sulistiyanti', 'lineage': None, 'given': 'Sri Ratna'}}, {'id': 'roniyus.1977@fmipa.unila.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'Marjunus', 'given': 'Roniyus'}}, {'name': {'lineage': None, 'family': 'yulianti', 'honourific': None, 'given': 'yanti'}, 'id': None}, {'name': {'given': 'Junaidi', 'lineage': None, 'honourific': None, 'family': 'Junaidi'}, 'id': 'junaidi.1982@fmipa.unila.ac.id'}, {'id': 'arif.surtono@fmipa.unila.ac.id', 'name': {'lineage': None, 'family': 'Surtono', 'honourific': None, 'given': 'Arif'}}]",disk0_bak/00/05/22/37,2022-12-19 00:00:00.000000000,article,['FMIPA1'],"Weather predictions are needed in everyday life planning, one of which is to make decisions. Artificial Neural Network (ANN) is an algorithm that is generally very good at pattern recognition problems. The maximum parameters in the development of weather forecasting information design based on Artificial Neural Networks / ANN (Backpropagation) by adding input data are rainfall, temperature, humidity, solar radiation, air pressure, wind direction and wind speed. This research was conducted in the area of Lampung's Radin Inten II Airport. The data used in this study is in the form of daily data on meteorological conditions in the Radin Inten II Lampung Airport area from the Radin Inten II Meteorological Station for the last 3 years, from 2017 to 2019.
+This data is needed as input data for the algorithm to be used in study. Based on the results of the study, the best training accuracy was 100% in the neural network architecture with the levenbergmarquardt (trainlm) and scaled conjugate gradient (trainscg) training function parameters, binary sigmoid and bipolar sigmoid activation functions, and the number of neurons 20, 40, 60, 80, and 100. While the best test accuracy is 74,359% on neural network architecture with training function parameters gradient descent wit momentum and adaptive learning rate (traingdx) and binary sigmoid activation function (logsig) and the number of neurons 20 and 80. 
+
+Keywords: Application of Artificial Neural Networks, Weather Forecast, Radin Inten II Airport Lampung",,,,,,,,,TRUE,Jurnal Teori dan Aplikasi Fisika,2303-016X,,
+31,"STRUCTURE AND PROPERTIES OF SILVER-SILICA COMPOSITE
+PREPARED FROM RICE HUSK SILICA AND SILVER NITRATE",show,7,archive,2022-03-25 06:48:28,['QC'],40530,"[{'pos': 1, 'format': 'text', 'uri': 'http://repository.lppm.unila.ac.id/id/document/161854', 'rev_number': 1, 'main': 'Ceramics Silikaty 2022.pdf', 'docid': 161854, 'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/451676', 'objectid': 161854, 'filesize': 2757247, 'datasetid': 'document', 'hash_type': 'MD5', 'mtime': '2022-03-25 03:54:46', 'filename': 'Ceramics Silikaty 2022.pdf', 'hash': '3050a9d0456636b232a016422f8741b0', 'fileid': 451676, 'mime_type': 'application/pdf'}], 'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 40530, 'placement': 1, 'security': 'public'}]","Institute of Rock Structure and Mechanics AS CR, v.v.i. & University of Chemistry and Technology, Prague",pub,public,http://repository.lppm.unila.ac.id/id/eprint/40530,2022-03-25 06:48:28,1042,2022-03-25 06:48:28,"[{'id': 'simon.sembiring@fmipa.', 'name': {'honourific': None, 'family': 'Sembiring', 'lineage': None, 'given': 'Simon'}}, {'name': {'lineage': None, 'honourific': None, 'family': 'Riyanto', 'given': 'Agus'}, 'id': 'agus.riyanto@fmipa.unila.ac.id'}, {'id': 'iqbal.firdaus@fmipa.unila.ac.id', 'name': {'honourific': None, 'family': 'Firdaus', 'lineage': None, 'given': 'Iqbal'}}, {'name': {'given': 'Junaidi', 'lineage': None, 'family': 'Junaidi', 'honourific': None}, 'id': 'junaidi.1982@fmipa.unila.ac.id'}, {'name': {'given': 'Rudy T.M', 'family': 'Situmeang', 'honourific': None, 'lineage': None}, 'id': 'rudy.tahan@fmipa.unila.ac.id'}]",disk0/00/04/05/30,2022-02-17 00:00:00.000000000,article,['FMIPA1'],"This research characterises the structure and physical properties of silver/silica (Ag/SiO2) composites using silver nitrate
+(AgNO3) and rice husk silica sols as precursors. The Ag/SiO2 composites were produced with different AgNO3 concentrations
+(0.3-0.8 M) heated to a temperature of 850 °C. All the composites were fully characterised in the solid state via various
+techniques; Fourier Transform Infrared Spectroscopy (FTIR), X-ray Diffraction (XRD), Scanning Electron Microcopy/
+Energy Dispersive Spectroscopy (SEM/EDS), Thermal Gravimetry Analysis/Differential Thermal Analysis (TGA/DTA) were
+used to investigate the effects of changes in the sol concentration on the crystalline of Ag/SiO2 composites. In addition, a Particle Size Analysis (PSA) and a UV-visible technique were used to measure the particle size distribution and band gap
+energy, respectively. The X-ray diffraction (XRD) showed cristobalite and Ag face-centre-cubic (fcc) structures, indicating
+the deposition of the Ag particles on the SiO2 surfaces. The particle size distributions were found to be in a range of
+0.01-0.42 µm and 0.49-3.43 µm, followed the band gap energies in a range of 1.97 to 2.17 eV, and 3.63 to 3.57 eV. As a result,
+the Ag/SiO2 composite promises to be a great biomedical material degrading high antibacterial properties.",https://www.ceramics-silikaty.cz/index.php?page=cs_detail_doi&id=1535,,,,2.0,"[{'url': 'https://www.ceramics-silikaty.cz/index.php?page=cs_detail_doi&id=1535', 'type': 'pub'}]",66.0,167-177,TRUE,Ceramics-Silik�ty,1804-5847,"1. Bauer J., Kowal K., Wysocka-Król K., Halina H.P. (2016).
+Nanosilver and silver doped nanomaterials. in: S.A.M. Tofail, J. Bauer (Eds.): Electrically Active Materials for
+Medical Devices, Imperial College Press, London, 209-224.
+2. Martinez-Gutierrez F., Olive P.L., Banuelos A., Orrantia
+E., Nino N., Sanchez E.M., Ruiz, F., Bach H., Av-Gay Y.
+(2010): Synthesis, characterization, and evaluation of antimicrobial and cytotoxic effect of silver and titanium nanoparticles. Nanomedicine: Nanotechnology Biology Medicine, 6 (5), 681-688. doi: 10.1016/j.nano.2010.02.001
+3. Garipov I.T., Khaydarov R.R., Gapurova O.U., Rashid A.,
+Khaydarov R.A., Firdaus M.L., Efimova I.L., Evgrafova
+S.Y. (2019): Silver Nanoparticles as a New Generation of
+Antimicrobial Prophylaxis. Journal of Siberian Federal University. Biology, 12(3, 266-276. doi:10.17516/1997-1389-
+0301
+4. Wang Z., Xia T., Liu S. (2015): Mechanisms of nanosilverinduced toxicological effects: more attention should be paid
+to its sublethal effects. Nanoscale, 7(17), 7470–7481. doi:
+10.1039/c5nr01133g
+5. Khalandi B., Asadi N., Milani M., Davaran S., Abadi A.J.,
+Abasi E., Akbarzadeh A. (2017): A review on potential
+role of silver nanoparticles and possible mechanisms of
+their actions on bacteria. Drug Research, 67(2), 70-76. doi:
+10.1055/s-0042-113383
+6. Phu D.V., Lang V.T.K., Lan N.T.K., Duy N.N., Chau N.D.,
+Du B.D., Cam, B.D., Hien, N.Q. (2010): Synthesis and
+antimicrobial effects of colloidal silver nanoparticles in
+chitosan by -irradiation. Journal of Experimental Nanoscience, 5, 169-179. doi: 10.1080/17458080903383324
+7. Xue B., Chen P., Hong Q., Lin J.K., Tan L. (2001): Growth
+of Pd, Pt, Ag and Au nanoparticles on carbon nanotubes.
+Journal of Materials Chemistry, 11, 2378-2381. doi:
+10.1039/b100618p
+8. Dong R.X., Chou C.C., Lin J.J. (2009): Synthesis of Immobilized Silver Nanoparticles on Ionic Silicate Clay and
+Observed Low-Temperature Melting. Journal of Materials
+Chemistry, 15, 2184–2188. doi:10.1039/B818677D
+9. Mohd N.K., Wee N.N.A.N., Azmi A.A. (2017): Green
+synthesis of silica nanoparticles using sugarcane bagasse.
+AIP Conference Proceedings, 1885(1), 020123. doi: 10.
+1063/1.5002317
+10. San N.O., Kurşungöz C., Tümtaş Y., Yaşa Ö., Ortac B.,
+Tekinay T. (2014): Novel one-step synthesis of silica nanoparticles from sugar beet bagasse by laser ablation and
+their effects on the growth of freshwater algae culture.
+Particuology, 17, 29-35. doi: 10.1016/j.partic.2013.11.003
+11. Ghorbani F., Sanati A.M., Maleki M. (2015): Production of
+silica nanoparticles from rice husk as agricultural waste by
+environmental friendly technique. Environmental Studies
+of Persian Gulf, 2(1), 56-65.
+12. Qadri S.B., Gorzkowski E.P., Imam M.A., Fliflet A., Goswami R., Kim H., Caldwell J.D., Klemm F., Rath B.B.
+(2013): Production of nanoscale particles and nanorods of
+SiC from sorghum leaves, Industrial Crops and Products.
+51, 158-162. doi: 10.1016/j.indcrop.2013.09.004
+13. Landage S.M., Kulkarni S.G., Ubarhande D.P. (2012): Synthesis and application of silica Nano particles on cotton
+to impart super hydrophobicity. International Journal of
+Engineering Research and Technology, 1(5), 1-7.
+14. Rafieel E., Shahebrahimi S., Feyzil M., Shaterzadeh M.
+(2012): Optimization of synthesis and characterization of
+nanosilica produced from rice husk (a common waste material). International Nano Letters, 2(1), 1-8. doi: 10.1186/
+2228-5326-2-29
+15. Ugheoke B.I., Mamat O.A. (2012): A Novel method for high
+volume production of nano silica from rice husk: process
+development and product characteristics. International
+Material Enggineering Innovation, 3(2), 139-155. doi:
+10.1504/IJMATEI.2012.046898
+16. Tuan L.N.A., Dung L.T.K., Ha L.D.T., Hien N.Q., Phu
+D.V., Du B.D. (2017): Preparation and characterization
+of nanosilica from rice husk ash by chemical treatment
+combined with calcination. Vietnam Journal of Chemistry,
+55, 446-455. doi: 10.15625/2525-2321.2017-00490
+17. Carmona V.B., Oliveira R.M., Silva W.T.L., Mattoso
+L.H.C., Marconcini J.M. (2013): Nanosilica from rice
+husk: extraction and characterization. Industry Crops and
+Production, 43, 291-296. doi: 10.1016/j.indcrop.2012.06.
+050
+18. Kumar S., Sangwan P., Dhankhar M.V.R., Bidra S. (2013):
+Utilization of rice husk and their ash: a review. Journal of
+Chemical and Environmental Sciences, 1, 126-129.
+19. Azat S., Korobeinyk A.V., Moustakas K., Inglezakis V.J.
+(2019): Sustainable production of pure silica from rice husk
+waste in Kazakhstan. Journal of Cleaner Production., 217,
+352-359. doi: 10.1016/j.jclepro.2019.01.142
+20. Khopthong W., Cherdhirunkorn B. (2020): Production of
+silica-based ceramics sintered under nitrogen atmosphere
+from rice husk and sugarcane bagasse ash. Journal of Metals,
+Materials and Minerals, 30 (2); 76-82. doi: 10.14456/
+jmmm.2020.23
+21. Simanjuntak W., Sembiring S., Pandiangan K.D., Syani F.,
+Situmeang R. (2016): The use of liquid smoke as a substitute for nitric acid of amorphous silica from rice husk
+through sol-gel route. Oriental Journal of Chemistry, 32
+(4), 2079-2085. Doi: 10.13005/ojc/32043
+22. Mehta A., Ugwekar R.P., (2015): Extraction of silica and
+other related products from rice husk. International Enggineering Research and Application, 5(8), 43-48.
+23. Chen G.Y., Shan R., Shi J.F., Yan B.B. (2015): Transesterification of palm oil to biodiesel using rice husk ashbased catalysts. Fuel Process Technology, 133, 8-13. doi:
+10.1016/j.fuproc.2015.01.005
+24. Adam F., Appaturi J.N., Iqbal A. (2012): The utilization
+of rice husk silica as a catalyst: review and recent
+progress. Catalysis Today,190(1), 2-14. doi: 10.1016/j.
+cattod.2012.04.056
+25. Bakar R.A., Yahya R., Gan S.N. (2016): Production of
+high purity amorphous silica from rice husk. Procedia
+Chemistry, 19, 189-195. doi: 10.1016/j.proche.2016.03.092
+26. Dina A.F., Zaleha S.S., Najmi B.N., Azowa I.N. (2014): The
+influence of alkaline treatment on mechanical properties
+and morphology of rice husk fiber reinforced polylactic
+acid. Advanced Materials Research, 911, 13-17. doi: 10.
+4028/www.scientific.net/AMR.911.13
+27. Sareeladdanon S., Potiyaraj P. (2014): Mechanical
+properties of PLA/LLDPE films reinforced with silica
+from rice husk. Advanced Materials Research, 1025-1026,
+221-226. Doi: 10.4028/www.scientific.net/AMR.1025-
+1026.221
+28. Tadjarodi A., Haghverdi M., Mohammadi V. (2012): Preparation and characterization of nano-porous silica aerogel
+from rice husk ash by drying at atmospheric pressure.
+Materials Research Bulletin, 47(9), 2584-2589. doi:
+10.1016/j.materresbull.2012.04.143
+29. Feng Q., Chen K., Ma D. (2018): Synthesis of high specific
+surface area silica aerogel from rice husk ash via ambient
+pressure drying. Colloids and Surfaces, A539, 399-406.
+Doi: 10.1016/j.colsurfa.2017.12.025
+30. Cui J., Cheng F., Lin J., Yang K., Jiang Z., Wen (2017):
+High surface area C/SiO2 composite from rice husk as a
+high-performance anode for lithium-ion batteries. Powder
+Technology, 3111, 1-8. doi: 10.1016/j.powtec.2017.01.083
+31.Ju Y., Tang J.A., Zhu K. (2016): SiOx/C composite from
+rice husk as an anode material for lithium-ion batteries.
+Electrochimica Acta, 191, 411-416 doi:10.1016/j.electacta.
+2016.01.095
+32. Simanjuntak W., Sembiring S. (2011): The use of the Rietveld method to study the phase composition of cordierite
+(Mg2Al4Si5O18) ceramics prepared from rice husk silica. J.
+Makara Seri Sains, 15(1), 97-100.
+33. Sembiring S., Simanjuntak W., Situmeang R., Riyanto A.,
+Sebayang K. (2016): Preparation of refractory cordierite
+using amorphous rice husk silica for thermal insulation
+purposes. Ceramics International, 42, 8431-8437. doi: 10.
+1016/j.ceramint.2016.02.062
+34. Sembiring S., Simanjuntak W., Situmeang R., Karo-Karo, P.
+(2017): Effect of alumina addition on refractory properties
+of cordierite prepared from amorphous rice husk silica.
+Journal of Asian Ceramics, 5(2), 186-192. doi: 10.1016/j.
+jascer.2017.04.005
+35. Sembiring S., Simanjuntak W., Situmeang R., Riyanto
+A., Junaidi (2018): Structural and Physical Properties of
+Refractory Cordierite Precursors Prepared from Rice Husk
+Silica with Different MgO Addition. Ceramics-Silikáty
+62(2), 163-172. doi: 10.13168/cs.2018.0008
+36. Sembiring S., Simanjuntak W., Situmeang R. (2019): Structure and Microstructure Properties of a Refractory Cordierite Prepared from Amorphous Rice Husk Silica Resulting from Periclace Introduction. Journal of Chemical
+Technology and Metallurgy, 54(4), 721-726.
+37. Sembiring S. (2011): Synthesis and characterisation of rice
+husk silica-based borosilicate (B2SiO5) ceramic by sol gel
+routes. Indonesian Journal of Chemistry, 11(1), 85-89. doi:
+10.22146/ijc.21425
+38. Sembiring S., Simanjuntak W. (2012): X-ray diffraction
+phase analyses of mullite derived from rice husk silica.
+Jurnal Makara Seri Sains, 16(2), 77-82.
+39. Sembiring S., Simanjuntak W., Manurung P., Asmi D.,
+Low I.M. (2014): Synthesis and characterisation of gelderived mullite precursors from rice husk silica. Ceramics
+International, 40(5), 7067-7072. doi: 10.1016/j.ceramint.
+2013.12.038
+40. Sembiring S., Riyanto A., Simanjuntak W., Situmeang
+R. (2017): Effect of MgO–SiO2 ratio on the forsterite
+(Mg2SiO4) precursors characteristics derived from amorphous rice husk silica. Journal of Oriental Chemistry, 33,
+186-192. doi: 10.13005/ojc/330427
+41. Sembiring S., Riyanto A., Rumiyanti L., Sembiring Z.,
+Situmeang R. (2020): Effect of sintering temperature on the
+structural and physical properties of forsterite using amorphous rice husk silica as refractory precursors. Australian
+Ceramics Society 56, 433-440. doi: 10.1007/s41779-019-
+00346-2
+42. Simanjuntak W., Sembiring S., Manurung P., Situmeang
+R., Low I.M. (2013): Characteristics of aluminosilicates
+prepared from rice husk silica and aluminum metal. Ceramics International. 39(8), 9369-9375. doi: 10.1016/j.ceramint.2013.04.112
+43. Riyanto A., Sembiring S., dan Junaidi (2017): Physical characteristics of aluminosilicate geopolymers based on rice
+husk silica for fast ionic conductor applications. Reaktor,
+17(2), 96-103.
+44. Simanjuntak W., Sembiring S., Sebayang K. (2012):
+Effect of pyrolysis temperature on composition and electrical conductivity of carbosil prepared from rice husk.
+Indonesian Journal of Chemistry, Universitas Gajah Mada,
+Jogjakarta, 12(1), 119-125. doi: 10.22146/ijc.21350
+45. Sembiring S., Situmeang R., Sembiring Z. (2019), Synthesis
+and characterization of asphalt composite precursors using
+amorphous rice husk silica. Ceramica Journal. 65, 194-199.
+doi: 10.1590/0366-69132019653742497
+46. Sembiring S., Riyanto A., Situmeang R., Sembiring Z.
+(2019): Bituminous composite comprising amorphous
+silica from rice husk. Ceramics Silikaty, 63(3), 1-9. doi: 10.
+13168/cs.2019.0021
+47. Sembiring S, Riyanto A, Firdaus I., Junaidi, Ningtias E.A.
+Situmeang R. (2021): Structural characterisation of asphaltrice husk silica composites. Ceramics-Silikáty, 65(3),
+215-223. doi: 10.13168/cs.2021.0021
+48. Mahltig B., Haufe H., Muschter K., Fischer A., Kim Y.H.,
+Gutmann E., Reibold M., Meyer D.C., Textor T., Kim C.W., Kang Y.S. (2010): Silver nanoparticles in SiO2 microspheres
+-preparation by spray drying and use as antimicrobial agent.
+Acta Chimica Slovenica, 57(2), 451-457.
+49. Duhan S. Devi S., Srivastava M. (2010): Characterization
+of nanocrystalline Ag/SiO2 nanocomposites and synthesis
+by wet chemical method. Indian J. Pure Applied. Physics,
+48, 271-275.
+50. Tuval T., and Gedanken A., (2007): A microwave-assisted
+polyol method for the deposition of silver nanoparticles on
+silica spheres. Nanotechnology, 18(25), 255601.
+51. Duy P.P., Kim K.H., Cao, V.T., Van Q.V., Thi T.V.T. (2014):
+Preparation and structural characterization of sol-gelderived silver silica nanocomposite powders. International
+Journal of Materials Science and Applications, 3(35), 147-
+151. doi: 10.11648/j.ijmsa.20140305.13
+52. Baheiraei N., Moztarzadeh F., Hedayati M. (2012): Preparation and antibacterial activity of Ag/SiO2 thin film on glazed
+ceramic tiles by sol–gel method. Ceramics International,
+38(4), 2921-2925. doi: 10.1016/j.ceramint.2011.11.068
+53. Surender D., Kishoreb N., Aghamkarc P., Sunita D. (2010):
+Preparation and characterization of sol–gel derived silversilica nanocomposite. Journal of Alloys and Compounds,
+57, 101-104. Doi: 10.1016/j.jallcom.2010.07.107
+54. Kobayashi Y., Salgueiriño-Maceira V., Liz-Marzán L.M.
+(2001): Deposition of Silver Nanoparticles on Silica Spheres
+by Pretreatment Steps in Electroless Plating, Chemistry
+Material, 13(5), 1630-1633. doi: 10.1021/cm001240g
+55. Yin Y., Lu, Y., Sun Y., Xia Y.,(2002): Silver Nanowires Can
+Be Directly Coated with Amorphous Silica to Generate
+Well-Controlled Coaxial Nanocables of Silver/Silica. Nano
+Letters 2(4), 427-430. doi: 10.1021/nl025508+
+56. Nguyen T.K.L., Nguyen T.A.T., Dang V.P., Nguyen N.D., Le
+A.Q., Nguyen Q.H.,(2013): Synthesis of silver nanoparticles
+deposited on silica by irradiation and preparation of PE/Ag
+nano compound masterbatches. Advances in Natural Sciences: Nanoscience and Nanotechnology, 4, 1-4. doi: 10.1088/
+2043-6262/4/4/045004
+57. Cao Y., Dai W.L., Deng J.F. (2001): The synthesis, characterization and application of Ag–SiO2–Al2O3 sol-gel composites. Material Letters, 50(1), 12-17. doi: 10.1016/s0167-
+577x(00)00404-3
+58. Pal B.N., Kundu T.K., Banerje S., Charkravorty D. (2003):
+Humidity sensing by nanocomposites of silver in silicate
+glass ceramics. Journal of Applied Physics 93, 4201. doi:
+10.1063/1.1559427
+59. Wysocka-Król K., Olsztynska-Janus S., Plesch G., Plecenik
+A., Podbielska H., Bauer J. (2018): Nano-silver modified
+silica particles in antibacterial photodynamic therapy. Applied Surface Science 461, 260–268. doi: 10.1016/j.apsusc.
+2018.05.014
+60. Ren-Der J., Kuo-Chuang C., Tsung-Han C., Chun-Hua C.,
+Dean-Mo L. (2010): Functionalized Silica Nanoparticles by
+Nanometallic Ag Decoration for Optical Sensing of Organic Molecule. Journal of Physics Chemistry C, 114(37),
+15633-15639. doi: 10.1021/jp106185m
+61. Zhong-Jie J., Chun-Yan L., Lu-Wei S., Sun (2005): Catalytic Properties of Silver Nanoparticles Supported on Silica
+Spheres. The Journal of Physical Chemistry B 109(5),
+1730-1735. doi: 10.1021/jp046032g
+62. Kang H., Zhu Y., Yang X., Jing Y., Lengalova A., Li, C.
+(2010): A novel catalyst based on electrospun silverdoped silica fibers with ribbon morphology., Journal of
+Colloid Interface Science 341(2), 300-310. doi: 10.1016/j.
+jcis.2009.09.050
+63. Das S.K., Khan Md.M.R., Parandhaman T., Laffir F.,
+Guha A.K., Sekaran G., Mandal A.B. (2013): Nano-silica
+fabricated with silver nanoparticles: antifouling adsorbent
+for efficient dye removal, effective water disinfection and
+biofouling control. Nanoscale, 5(12), 5549-5560. doi: 10.
+1039/C3NR00856H
+64. Katok K.V., Whitby R.L.D., Fayon F., Bonnamy S.,
+Mikhalovsky S.V., Cundy A.B. (2013): Synthesis and application of hydride silica composites for rapid and facile
+removal of aqueous mercury. Chemistry Physics, 14(18),
+4126-4133. http://hdl.handle.net/11455/89436
+65. Mosselhy D.A., Granbohm H., Ulla Hynönen U., Ge Y.,
+Palva A Nordström K., Simo-Pekka H. (2017): Nanosilver–
+Silica Composite: Prolonged Antibacterial Effects and
+Bacterial Interaction Mechanisms for Wound Dressings.
+Nanomaterial, 7(9), (261), 1-19. doi: 10.3390/nano7090261
+66. Ganzagh M.A.A., Yousefpour M., Taherian Z. (2016): The
+removal of mercury (II) from water by Ag supported on
+nano mesoporous silica. Journal Chemistry Biology, 9(4),
+127-142. doi: 10.1007/s12154-016-0157-5
+67. Ghosh S., and Vandana V. (2017): Nano-structured mesoporous silver/silica composite: Synthesis, characterization
+and targeted application towards water purification.
+Material Research Bulletin, 88, 291-300. doi: 10.1016/j.
+materresbull.2016.12.044
+68. Phrabhu S., Poulose E.K. (2012): Silver nanoparticles: mechanism of antimicrobial action, synthesis, medical applications, and toxicity effects. International Nano Letters,
+2(32), 1-10. doi: 10.1186/2228-5326-2-32
+69. Maestre-López M.I., Payà-Nohales J.F., Cuesta-Garrote
+N., Arán-Ais F., Martínez-Sánchez M.A., Orgilés-Barceló C., Marcelo Bertazzo M. (2015): Antimicrobial
+Effect of Coated Leather Based on Silver Nanoparticles
+and Nanocomposites: Synthesis, Characterisation and
+Microbiological Evaluation. Journal of Biotechnology &
+Biomaterials, 5(1), 1-10. doi: 10.4172/2155-952X.1000171
+70.Jeon H.J., Yi S.C., Oh S.G. (2003): Preparation and Antibacterial Effects of Ag-SiO2 Thin Films by Sol-Gel
+Method. Biomaterials, 24, 4921-4928. doi: 10.1016/S0142-
+9612(03)00415-0
+71. Pham D.P., Huynh K.K., Tran C.V., Vu V.Q., Tran T.T.V.
+(2014): Preparation and structural characterization of solgel-derived silver silica nanocomposite powders. International Journal of Materials Science and Applications,
+3(5), 147-151.
+72. Australian Standard, Refractories and Refractory Material
+Physical Test Methods (1989): The Determination of Density, Porosity and Water Adsorption, Australian Standard
+(1-4), 1774.
+73.JADE Program XRD Pattern Processing PC, Material Data
+Inc (MDI), Livermore, CA, 1997.
+74. Nagai N., Hashimoto H. (2001): FTIR-ATR study of depth
+profile of SiO2 ultra-thin films. Applied Surface Science,
+172 (3-4), 307-311. doi: 10.1016/s0169-4332(00)00867-9
+75. Sankar S., Sharma S.K., Kaur N., Lee B., Kim D.Y., Lee
+S., Jung H. (2016): Biogenerated silica nanoparticles synthesized from sticky, red, and brown rice husk ashes by
+chemical method. Ceramic International, 42, 4875-4885.
+doi: 10.1016/j.ceramint.2015.11.172
+76. Ahsani M., Sabouri R., Ulbricht M., Hazrati H., Jafarizad
+A., Yegani R. (2021): Preparation and characterization of
+hydrophilic and antibacterial silver decorated silica-graftedpoly (vinylpyrrolidone) (Ag–SiO2–PVP) nanoparticles for polymeric nanocomposites. Journal of Applied Polymer
+Science, e50977, 1-12. doi: 10.1002/app.50977
+77.Javadi M., Jafarzadeh Y., Yegani R., Kazemi S. (2018):
+PVDF membranes embedded with PVP Functionalized
+nanodiamond for pharmaceutical wastewater treatment.
+Chemical Engineering Research Design, 140, 241-250.
+doi:10.1016/j.cherd.2018.10.029
+78. Manikandan V., Velmurugan P., Jung-Hee P., Woo-Suk C.,
+Yool-Jin P., Jayanthi P., Cho M., Byung-Taek O. (2017):
+Green synthesis of silver oxide nanoparticles and its antibacterial activity against dental pathogens. Biotechnology,
+7(72), 1-9. doi: 10.1007/s13205-017-0670-4
+79. Prakash P., Gnanaprakasam P., Emmanuel R., Arokiyaraj S.,
+Saravanan M. (2013): Green synthesis of silver nanoparticles
+from leaf extract of Mimusops elengi, Linn. for enhanced
+antibacterial activity against multi drug resistant clinical
+isolates. Colloid and Surface B, Biointerfaces. 108, 255-259.
+doi: 10.1016/j.colsurfb.2013.03.017
+80. Escobedo Morales A., Sanchez Mora E., Pal U. (2007):
+Use of diffuse reflectance spectroscopy for optical characterization of un-supported nanostructures. Revista Mexicana
+de Fisica, S 53 (5), 18-22.
+81. Nithianandam V.J., Schnatterly S.E. (1988): Soft-x-ray
+emission and inelastic electron-scattering study of the
+electronic excitations in amorphous and crystalline silicon
+dioxide. Physical Review, B, 38, 5547. doi: 10.1103/
+PhysRevB.38.5547
+82. Hassan A.F., Abdelghny A.M., Elhadidy H., Youssef A.M.
+(2014): Synthesis and characterization of high surface area
+nanosilica from rice husk ash by surfactant-free sol–gel
+method. Sol-Gel Science and Technology, 69(3), 465-472.
+doi: 10.1007/s10971-013-3245-9
+83. Aziz A., Khalid M., Saeed akhtar M., Nadeem M., Gilani
+Z.A., Ul huda khan asghar H.M.N., Rehman Ullah Z.,
+Saleem M. (2018): Structural, morphological and optical
+investigations of silver nanoparticles synthesized by sol-gel
+autocombustion method. Digest Journal of Nanomaterial
+and Biostructure, 13(3), 679-683.
+84. Assis M., Simoes L.G.P., Tremiliosi G.C., Coelho D.,
+Minozzi D.T., Santos R.I., Vilela D.C.B., do Santos J.R.,
+Ribeiro L.K., Rosa I.L.V., Mascaro L.H., Andrés J.,
+Longo E. (2021): SiO2-Ag composite as a highly virucidal
+material: A roadmap that rapidly eliminates SARS-CoV-2.
+Nano material, 11(638), 1-19. doi: 10.3390/nano11030638",https://doi.org/10.13168/cs.2022.0011
+32,Studi Pendahuluan Penentuan Nilai Energi Band Gap Komposit Perak Silika (Ag/SiO2) Berbasis Sekam Padi,show,6,archive,2022-06-21 02:57:43,['QC'],42688,"[{'mime_type': 'application/pdf', 'language': 'en', 'eprintid': 42688, 'placement': 1, 'security': 'public', 'pos': 1, 'format': 'text', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164409', 'docid': 164409, 'main': '2022-Desi Novita_JTAF.pdf', 'files': [{'objectid': 164409, 'uri': 'http://repository.lppm.unila.ac.id/id/file/468235', 'datasetid': 'document', 'filesize': 525241, 'fileid': 468235, 'mime_type': 'application/pdf', 'mtime': '2022-06-21 02:12:47', 'hash_type': 'MD5', 'filename': '2022-Desi Novita_JTAF.pdf', 'hash': '2fef901e4679b43c5904b64a18f59332'}]}]",Jurusan Fisika FMIPA Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42688,2022-06-21 02:57:43,181,2022-06-21 02:57:43,"[{'name': {'honourific': None, 'family': 'Simon', 'lineage': None, 'given': 'Sembiring'}, 'id': 'dsimon.sembiring@fmipa.unila.ac.id'}, {'id': 'junaidi.1982@fmipa.unila.ac.id', 'name': {'given': 'Junaidi', 'lineage': None, 'honourific': None, 'family': 'Junaidi'}}]",disk0/00/04/26/88,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Penelitian mengenai sintesis perak silika (Ag/SiO2) telah dilakukan melalui metode sol-gel dengan menggunakan variasi konsentrasi koloid perak nitrat (AgNO3) yaitu 0,5; 0,6 dan 0,7 M ke dalam sol silika sekam padi dengan perlakuan termal pada suhu 850°C. Tujuan dari penelitian ini yaitu sebagai studi pendahuluan penentuan nilai energi band gap komposit Ag/SiO2 melalui karakterisasi Spektrofotometer Uv-vis. Analis Uv-vis menunjukkan bahwa jumlah konsentrasi AgNO3 mempengaruhi nilai energi band gap. Semakin besar nilai konsentrasi AgNO3 pada sampel maka nilai energi band gap yang dihasilkan akan semakin meningkat. Sehingga, semakin banyak kadungan Ag yang terbentuk dan semakin bagus digunakan sebagai agen antibakteri.",https://jurnal.fmipa.unila.ac.id/jtaf/article/view/2892,published,,,1.0,,10.0,,TRUE,Jurnal Teori dan Aplikasi Fisika,2303-016X,,http://dx.doi.org/10.23960%2Fjtaf.v10i1.2892
+33,Efek Variasi Konsentrasi NaOH pada Pembentukan Struktur Selulosa Cladophora sp.,show,6,archive,2022-06-21 02:57:34,['QC'],42682,"[{'language': 'en', 'mime_type': 'application/pdf', 'eprintid': 42682, 'placement': 1, 'security': 'public', 'pos': 1, 'format': 'text', 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164403', 'docid': 164403, 'main': '2022-Sri Wahyu_JTAF.pdf', 'files': [{'mime_type': 'application/pdf', 'fileid': 468201, 'hash': '7f0a7e974ece3685e287ff659af5efff', 'filename': '2022-Sri Wahyu_JTAF.pdf', 'hash_type': 'MD5', 'mtime': '2022-06-21 01:37:51', 'datasetid': 'document', 'filesize': 620743, 'objectid': 164403, 'uri': 'http://repository.lppm.unila.ac.id/id/file/468201'}]}]",Jurusan Fisika FMIPA Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42682,2022-06-21 02:57:34,181,2022-06-21 02:57:34,"[{'id': 'sri.wahyu@fmipa.unila.ac.id', 'name': {'honourific': None, 'family': 'Sri Wahyu Suciyati', 'lineage': None, 'given': 'sw suciyati'}}, {'id': 'posman65@unila.ac.id', 'name': {'lineage': None, 'family': 'Posman Manurung', 'honourific': None, 'given': 'Posman'}}, {'id': 'rudy.tahan@fmipa.unila.ac.id', 'name': {'given': 'Rudy', 'honourific': None, 'family': 'Rudy Situmeang', 'lineage': None}}, {'id': 'junaidi.1982@fmipa.unila.ac.id', 'name': {'given': 'Junaidi', 'lineage': None, 'honourific': None, 'family': 'Junaidi'}}]",disk0/00/04/26/82,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"The effect of NaOH concentration values was observed on the cellulose structure of Cladophora. Cladophora cellulose is synthesized from Cladophora sp., a green alga that lives in aquatic environments (seawater and freshwater) and soil surfaces (rocks and wetlands). Cellulose synthesis is carried out through the processes of bleaching, alkali hydrolysis, and acid hydrolysis. Bleaching uses NaClO2, alkaline hydrolysis uses NaOH with varying concentrations (0.4; 0.5; 0.6; 0.7; 0.8 M), while acid hydrolysis uses 5% HCl. The physical properties of cellulose were analyzed using Fourier Transformation Infra-Red (FTIR) to determine functional groups, X-Ray Diffraction (XRD) to determine crystal structure, and scanning electron microscopy (SEM) to determine the morphology of cellulose structure.  FTIR pattern analysis showed peaks with OH group stretching at 3331, 3347, 3360 cm-1, CH group stretching at around 2929 cm-1, C = O stretching at 1640-1650 cm-1, and CH2 flexural stretching at 1420-1430 cm-1 in all samples. XRD pattern analysis confirmed the recovery of Cladophora cellulose from a highly crystalline of sample c (NaOH 0.5 M) with a crystallinity index of 94.0 % and a particle size of 31.54 nm. SEM image analysis showed the surface morphology of Cladophora rod-shaped raw material with an average diameter of 21.30 µm. At the same time, Cladophora cellulose refers to the formation of a web-like nanofibril network with an average diameter of 30.63 nm. These results indicate that the synthesis has successfully removed lignin, hemicellulose, and amorphous group in Cladophora and formed crystalline cellulose confirmed by nano-sized cellulose",https://jurnal.fmipa.unila.ac.id/jtaf/article/view/2888,published,,,1.0,,10.0,,TRUE,Jurnal Teori dan Aplikasi Fisika,2303-016X,,http://dx.doi.org/10.23960%2Fjtaf.v10i1.2888
+34,"Mengembangkan Potensi Public Speaking Anggota Osis Smp Negri 1 Terusan Nunyai, Lampung Tengah",show,6,archive,2022-10-26 06:41:15,['QH'],45989,"[{'main': 'jb22-09.pdf', 'docid': 184807, 'files': [{'filesize': 200635, 'datasetid': 'document', 'mtime': '2022-10-26 04:17:07', 'hash_type': 'MD5', 'filename': 'jb22-09.pdf', 'hash': '812f88c8ea29417863ceaedae3d1e3e6', 'fileid': 509101, 'mime_type': 'application/pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/file/509101', 'objectid': 184807}], 'format': 'text', 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/184807', 'rev_number': 1, 'eprintid': 45989, 'security': 'public', 'placement': 1, 'mime_type': 'application/pdf', 'language': 'en'}]",,pub,public,http://repository.lppm.unila.ac.id/id/eprint/45989,2022-10-26 06:41:15,2400,2022-10-26 06:41:15,"[{'id': 'arif.surtono@fmipa.unila.ac.id', 'name': {'lineage': None, 'honourific': None, 'family': 'Surtono', 'given': 'Arif'}}, {'id': None, 'name': {'given': 'Ferlianah', 'family': 'Bella', 'honourific': None, 'lineage': None}}, {'id': None, 'name': {'lineage': None, 'family': 'Rafi', 'honourific': None, 'given': 'Andika'}}, {'id': 'bambang.hermanto@fmipa.unila.ac.id', 'name': {'given': 'Bambang', 'family': 'Bambang Hermanto', 'honourific': None, 'lineage': None}}]",disk0/00/04/59/89,1970-01-01 00:00:00.000002022,article,['FMIPA1'],"Public speaking adalah rumpun dalam ilmu komunikasi yang mencakup kemampuan sesorang dalam berbicara didepan publik, kelompok, maupun perseorangan dengan strategi dan teknik yang tepat. Public speaking merupakan sebuah rumpun keluarga ilmu komunikasi (Retorika) yang mencakup berdiskusi, berdebat, pidato, memimpin rapat, moderator, MC, dan presenter serta kemampuan seseorang untuk dapat berbicara di depan publik, kelompok maupun perseorangan yang perlu menggunakan strategi dan teknik berbicara yang tepat. Penulisan artikel ini menggunakan pendekatan kualitatif dengan dengan model deskriptif-eksplanatif. Hasilnya, siswa-siswi anggota osis di SMP N 1 Terusan Nunyai dapat menerima dengan baik materi sosialisasi serta pelatihan Public Speaking yang diberikan. Selain itu, siswa-siswi anggota osis juga sudah berani maju kedepan kelas dan berbicara di depan teman-teman mereka. Tentunya hal ini sangat baik untuk mereka karena dapat melatih mental mereka sebelum mereka nantinya akan berbicara di depan masyrakat umum.",https://jurnalbuguh.unila.ac.id/index.php/buguh/article/view/1044,,,,2.0,,2.0,,TRUE,Jurnal Pengabdian Kepada masyarakat BUGUH,,,
+35,"Design of Measurement of Water Content with
+Capacity Method to Determine Old Categories to Save 
+Tapioca Flour",show,7,archive,2022-06-12 11:45:51,['QC'],42345,"[{'uri': 'http://repository.lppm.unila.ac.id/id/document/164058', 'rev_number': 1, 'pos': 1, 'format': 'text', 'files': [{'filesize': 1162026, 'datasetid': 'document', 'mtime': '2022-06-11 13:04:11', 'hash_type': 'MD5', 'filename': 'Jemit3-2-syariffudin-wahyu.pdf', 'hash': '8cfb4cdea6614f9920de95c27133fbd7', 'fileid': 465812, 'mime_type': 'application/pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/file/465812', 'objectid': 164058}], 'docid': 164058, 'main': 'Jemit3-2-syariffudin-wahyu.pdf', 'language': 'en', 'mime_type': 'application/pdf', 'placement': 1, 'security': 'public', 'eprintid': 42345}]",Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42345,2022-06-12 11:45:51,672,2022-06-12 11:45:51,"[{'name': {'lineage': None, 'honourific': None, 'family': 'Syarifuddin Aprian Hidayatullah', 'given': 'Syarifuddin'}, 'id': 'piansah54@gmail.com'}, {'id': 'sri.wahyu@fmipa.unila.ac.id', 'name': {'lineage': None, 'family': 'Sri Wahyu Suciyati', 'honourific': None, 'given': 'sw suciyati'}}, {'name': {'given': 'Gurum Ahmad', 'family': 'Gurum ahmad Pauzi,', 'honourific': None, 'lineage': None}, 'id': 'gurum@fmipa.unila.ac.id'}, {'id': 'arifs@fmipa.unila.ac.id', 'name': {'honourific': None, 'family': 'Arif Surtono', 'lineage': None, 'given': 'Arif Surtono'}}]",disk0/00/04/23/45,2022-05-01 00:00:00.000000000,article,['FMIPA1'],"In this study, water content measurements were carried out using a physical
+method using a capacitive sensor. Measurement with these two methods aims to
+get the most efficient method for tapioca flour's water content value. The samples
+used were six samples of tapioca flour from the way good factory. Each sample
+was measured using a thermogravimetric method and a capacitive sensor
+measuring instrument three times per sample. The measurement results produce
+a polynomial graph with a coefficient of determination of 0.9702. The graph
+shows that the higher the water content, the higher the value detected by the
+capacitive sensor. The thermogravimetric method used as a reference takes 6
+hours to get results, and the physical method takes less than one minute. To
+compare measurements, measurements were made using the thermogravimetric
+method to measure the percentage of water content in tapioca flour. This study
+indicates that the physical measurement method with a capacitive sensor
+instrument requires a shorter time than the thermogravimetric method. And the
+higher the water content, the shorter the storage time.",http://jemit.fmipa.unila.ac.id/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",2.0,[{'url': 'http://jemit.fmipa.unila.ac.id/'}],3.0,57-62,TRUE,"Journal of Energy, Material, and Instrumentation Technology",2747-2043,,
+36,"Design and Build a Drum Collector Using a Stepper Motor
+Arduino Based on Nanofiber Spinning Machine
+(Electrospinning)",show,7,archive,2022-06-12 11:46:01,['QC'],42346,"[{'files': [{'uri': 'http://repository.lppm.unila.ac.id/id/file/465822', 'objectid': 164059, 'filesize': 2021161, 'datasetid': 'document', 'mtime': '2022-06-11 13:10:04', 'hash_type': 'MD5', 'hash': 'ac37ed6258a36b417f0973e29af476d5', 'filename': 'Jemit3-2-wulan-wahyu.pdf', 'fileid': 465822, 'mime_type': 'application/pdf'}], 'main': 'Jemit3-2-wulan-wahyu.pdf', 'docid': 164059, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/164059', 'format': 'text', 'pos': 1, 'security': 'public', 'placement': 1, 'eprintid': 42346, 'language': 'en', 'mime_type': 'application/pdf'}]",Universitas Lampung,pub,public,http://repository.lppm.unila.ac.id/id/eprint/42346,2022-06-12 11:46:01,672,2022-06-12 11:46:01,"[{'name': {'given': 'Wulan Oktaviani,', 'lineage': None, 'honourific': None, 'family': 'Wulan Oktaviani'}, 'id': 'oktaviani@gmail.com'}, {'name': {'given': 'sw suciyati', 'lineage': None, 'honourific': None, 'family': 'Sri Wahyu Suciyati'}, 'id': 'sri.wahyu@fmipa.unila.ac.id'}, {'id': 'gurum@fmipa.unila.ac.id', 'name': {'lineage': None, 'family': 'Gurum Ahmad Pauzi', 'honourific': None, 'given': 'Gurum Ahmad Pauzi'}}, {'name': {'lineage': None, 'family': 'Junaidi', 'honourific': None, 'given': 'Junaidi'}, 'id': 'junaidi85@fmipa.unila.ac.id'}]",disk0/00/04/23/46,2022-05-01 00:00:00.000000000,article,['FMIPA1'],"An Arduino-based stepper motor was used to create a nanofiber spinning
+machine. The hardware for this tool includes an Arduino Mega module, a 4x4
+keypad, a TM1637 type seven-segment display, and L298N type stepper motor
+driver, a 17Hs4401 type stepper motor, a Pushbutton, and an ultrasonic sensor.
+The software utilized is the Arduino IDE, which is written in C. This tool's
+operating premise is that the Arduino processes input from the Keypad, and then
+the Stepper Motor Driver drives the stepper motor, which moves the collection
+drum up and down. The results of reading the tool will be presented in the seven
+segments in the form of RPM, altitude, and time. The tool has a height range of 110
+
+cm, an RPM range of 10-100 RPM, and a time range of 1 minute to 1 hour.
+According to the test results, the tool has 99.8 percent accuracy at RPM, 99.92
+percent accuracy at the time, and 97.89 percent accuracy at altitude.",http://jemit.fmipa.unila.ac.id/,published,"['Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung', 'Universitas Lampung']","[{'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}, {'type': 'http://www.loc.gov/loc.terms/relators/AUT'}]",2.0,"[{'type': 'pub', 'url': 'http://jemit.fmipa.unila.ac.id/'}]",3.0,39-43,TRUE,"Journal of Energy, Material, and Instrumentation Technology",2747-2043,,

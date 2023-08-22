@@ -1,0 +1,46 @@
+,official_url,eprint_status,succeeds,subjects,abstract,eprintid,date_type,ispublished,number,publisher,lastmod,datestamp,date,type,divisions,title,referencetext,volume,rev_number,metadata_visibility,status_changed,documents,full_text_status,uri,refereed,userid,pagerange,publication,issn,creators,dir,keywords
+0,http://www.asian-transactions.org/,archive,686,['TA'],"Abstract— A study was done using monthly rainfall data with
+long data 25 years (1977-2001) of Purajaya station. The goal of
+this research is to study periodic and stochastic models of data
+series of the monthly cumulative rainfall. Based on daily rainfall
+data, monthly cumulative rainfall data series was calculated. The
+series of rainfall is assumed to be free of trend. Periodicities of
+rainfall data were presented using 125 periodic components.
+Stochastic series of rainfall data are assumed as residues between
+rainfall data with periodic rainfall model. Stochastic components
+were calculated using the approach of autoregressive model.
+Stochastic Model presented in this research is using the fourth
+orders autoregressive model. Validation between data and the
+model is done by calculating the correlation coefficient. For this
+study, the correlation coefficient between the data and the model
+of the cumulative monthly rainfall is 0.9992. From the results of
+this study can be inferred that the model of the monthly rainfall
+from Purajaya station gives highly accurate approach.",49184,published,pub,3,Asian-Transactions,2023-03-24 01:31:20,2023-03-24 01:31:20,2011-07-01,article,['FT2'],"A study of periodic and stochastic modeling of
+monthly rainfall from Purajaya station","J. Cooley, W. James, Tukey, W. John, “An Algorithm for the machine
+calculation of Complex Fourier Series,” Mathematics of Computation.
+pp. 199-215, 1965.
+N. T. Kottegoda, Stochastic Water Resources Technology, The
+Macmillan Press Ltd., London, 1980.
+A. Zakaria, “Preliminary study of tidal prediction using Least Squares
+Method,” M.S. Thesis, Bandung Institute of Technology, Bandung,
+Indonesia, 1998.
+M. Rizalihadi, “The generation of synthetic sequences of monthly
+rainfall using autoregressive model,” Jurnal Teknik Sipil Universitas
+Syah Kuala, vol. 1, no. 2, pp. 64-68, 2002.
+A. Zakaria, “Numerical Modelling of Wave Propagation Using Higher
+Order Finite Difference Formulas,” Ph.D. dissertation, Curtin University
+of Technology, Perth, WA, 2003.
+S.R. Bhakar, R.V. Singh, N. Chhajed, and A.K. Bansal, “Stochastic
+modeling of monthly rainfall at Kota region,” ARPN Journal of
+Engineering and Applied Sciences, vol. 1, no. 3, pp. 36-44, 2006.
+A. Zakaria, “The generation of synthetic sequences of monthly
+cumulative rainfall using FFT and least squares method,” in Proc.
+Seminar Hasil Penelitian & Pengabdian kepada masyarakat
+Universitas Lampung, Lampung University, 2008, vol. 1, pp. 1-15.
+A. Zakaria, “ A study periodic modeling of daily rainfall at Purajaya
+region,” in Proc. Seminar Nasional Sain & Teknologi III, 18-19
+October 2010, Lampung University, vol. 3, pp. 1-15.
+A. Zakaria, “ Studi pemodelan stokastik curah hujan harian dari data
+curah hujan stasiun Purajaya,” in Proc. Seminar Nasional Sain Mipa
+dan Aplikasinya, 8-9 December 2010, Lampung University, vol. 2, pp.
+145-155.",1,7,show,2023-03-24 01:31:20,"[{'format': 'text', 'pos': 7, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/188641', 'docid': 188641, 'main': 'ate - a study of periodic - 2011.pdf', 'files': [{'objectid': 188641, 'uri': 'http://repository.lppm.unila.ac.id/id/file/534366', 'datasetid': 'document', 'filesize': 4191313, 'mime_type': 'application/pdf', 'fileid': 534366, 'filename': 'ate - a study of periodic - 2011.pdf', 'hash': 'a3e791303c16f4974e10bf721eaa3a5a', 'hash_type': 'MD5', 'mtime': '2023-03-23 07:09:51'}], 'language': 'en', 'mime_type': 'application/pdf', 'eprintid': 49184, 'security': 'public', 'placement': 7}]",public,http://repository.lppm.unila.ac.id/id/eprint/49184,TRUE,491,1-7,Asian Transactions on Engineering,2221-4267,"[{'id': 'ahmad.zakaria@eng.unila.ac.id', 'name': {'given': 'Ahmad', 'lineage': None, 'family': 'Zakaria', 'honourific': None}}]",disk0_bak/00/04/91/84,"monthly cumulative rainfall, periodic and stochastic, FFT, autoregressive model."

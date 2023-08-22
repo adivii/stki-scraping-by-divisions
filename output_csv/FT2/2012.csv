@@ -1,0 +1,57 @@
+,subjects,abstract,status_changed,eprint_status,rev_number,metadata_visibility,place_of_pub,title,date_type,eprintid,datestamp,userid,lastmod,uri,full_text_status,ispublished,publisher,documents,divisions,type,date,dir,id_number,creators,event_title,event_location,succeeds,event_type,event_dates,referencetext,keywords,contact_email,issn,publication,refereed,pres_type
+0,"['TA', 'TC', 'TD']","This  research  aims  to  investigate  the  role  of  wetland  parameters  in  controlling  the  response  of  groundwater  level  (GWL) towards hydrologic condition and climate condition in Sphagnum mire of Sarobetsu Mire, northern Hokkaido, Japan.  Hourly  data  of  GWL,  rainfall,  and  climate  of  summer  for  year  1993,  1994,  1997,  2003,  2008,  and  2009  are  used for modeling GWL fluctuation at point E on the observed area. The GWL modeling in this research adopts the philosophy of Sugawara’s tank model, which involved c1 as a function of soil porosity, c2 as a function of rainfall rate, and c3 as a function of soil hydraulic conductivity and slope. Parameter optimization of the model is undertaken by adjusting c1, c2, and c3. The model is quite successful in imitating the behavior of GWL on observed area indicated by average NS value of about 70%. The best-fit model of each year of simulation shows that the value of c1 and c3 is 1.3 and  0.0,  respectively.  The  value  of  0.0  for  c3  indicates  that  there  is  no  discharge  coming  out  from  the  system.  The  value of c2 varied and depended on the rate of rainfall and evapotranspiration. The research also found that basically c2  is  the  ratio  between  rainfall  and  evapotranspiration.  The  model  also  indicates  very  small  or  almost  no  effect  of  lateral water balance such as lateral inflow from or to other sources on surrounding the observed area.",2020-06-20 19:22:18,archive,9,show,Beijing China,"Modeling the groundwater
+fluctuation in Sphagnum mire in northern Hokkaido",published,22686,2020-06-20 19:22:18,874,2020-06-20 19:22:18,http://repository.lppm.unila.ac.id/id/eprint/22686,public,pub,Elsevier,"[{'docid': 36167, 'main': 'PROCEDIA 1 SIMILARITY.pdf', 'files': [{'objectid': 36167, 'uri': 'http://repository.lppm.unila.ac.id/id/file/208100', 'datasetid': 'document', 'filesize': 654291, 'fileid': 208100, 'mime_type': 'application/pdf', 'hash_type': 'MD5', 'mtime': '2020-06-20 16:07:50', 'filename': 'PROCEDIA 1 SIMILARITY.pdf', 'hash': 'b933622c7aacf84f111c8eed93fdf524'}], 'format': 'text', 'pos': 1, 'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/36167', 'eprintid': 22686, 'security': 'public', 'placement': 1, 'language': 'en', 'mime_type': 'application/pdf'}]",['FT2'],other,1970-01-01 00:00:00.000002012,disk0/00/02/26/86,ISSN 18780296,"[{'id': 'gatot89@yahoo.ca', 'name': {'honourific': None, 'family': 'Susilo', 'lineage': None, 'given': 'Gatot Eko'}}]",,,,,,,,,,,,
+1,"['TA', 'TD']",,2020-03-12 04:47:35,archive,8,show,,REPOSITORY REVIEWER: Procedia Environmental Sciences Vol. 13(2012),,18463,2020-03-12 04:47:35,874,2020-03-12 04:47:35,http://repository.lppm.unila.ac.id/id/eprint/18463,public,pub,Elsevier,"[{'rev_number': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/31622', 'format': 'text', 'pos': 1, 'files': [{'mime_type': 'application/pdf', 'fileid': 155266, 'filename': 'P1-PROCEDIA 13.pdf', 'hash': '7bb8c5af71c2811649ad9f2bc5ee2d19', 'mtime': '2020-03-08 17:16:40', 'hash_type': 'MD5', 'datasetid': 'document', 'filesize': 1660741, 'objectid': 31622, 'uri': 'http://repository.lppm.unila.ac.id/id/file/155266'}], 'main': 'P1-PROCEDIA 13.pdf', 'docid': 31622, 'mime_type': 'application/pdf', 'language': 'en', 'security': 'public', 'placement': 1, 'eprintid': 18463}]",['FT2'],other,1970-01-01 00:00:00.000002012,disk0/00/01/84/63,,"[{'name': {'family': 'Susilo', 'honourific': None, 'lineage': None, 'given': 'Gatot Eko'}, 'id': 'gatot89@yahoo.ca'}]",,,,,,,,,,,,
+2,['TC'],"Model numerik perambatan gelombang panjang digunakan untuk memodelkan perambatan gelombang
+tsunami, baik yang disebabkan oleh gempa tektonik maupun gempa vulkanik atau akibat meletusnya gunung
+berada di laut. Pada penelitian ini dipresentasikan simulasi perambatan gelombang tsunami akibat
+meletusnya gunung anak krakatau dengan  kekuatan yang sama dengan kekuatan krakatau tahun 1883.
+Diasumsikan sumber tsunami sama dengan lokasi gunung anak krakatau sekarang. Dari lokasi tersebut
+gelombang tsunami merambat menuju pantai Provinsi Lampung. Persamaan gelombang panjang non linier
+dua dimensi (2-D) dengan solusi pendekatan beda hingga metode eksplisit (explicit finite-difference method)
+dapat dipergunakan untuk mensimulasikan perambatan gelombang tsunami. Gelombang tsunami setinggi
+lebih dari 12 meter dapat mencapai lokasi rencana pembangunan Jembatan Selat Sunda dalam waktu 35
+menit.  
+ 
+Kata kunci : gelombang panjang, pendekatan beda hingga, anak krakatau",2023-03-27 00:53:34,archive,8,show,,"SIMULASI WAKTU PERAMBATAN DAN TINGGI GELOMBANG TSUNAMI
+AKIBAT MELETUSNYA GUNUNG ANAK KRAKATAU",published,49220,2023-03-27 00:53:34,491,2023-03-27 00:53:34,http://repository.lppm.unila.ac.id/id/eprint/49220,public,pub,Magister Teknik Sipil Universitas Lampung,"[{'files': [{'objectid': 188755, 'uri': 'http://repository.lppm.unila.ac.id/id/file/534768', 'mime_type': 'application/pdf', 'fileid': 534768, 'hash': '3870a41f6289aba4570189114bd07049', 'filename': 'repo 48001 - mts - simulasi waktu perambatan - 2012.pdf', 'hash_type': 'MD5', 'mtime': '2023-03-24 02:46:03', 'datasetid': 'document', 'filesize': 1480023}], 'docid': 188755, 'main': 'repo 48001 - mts - simulasi waktu perambatan - 2012.pdf', 'uri': 'http://repository.lppm.unila.ac.id/id/document/188755', 'rev_number': 1, 'pos': 2, 'format': 'text', 'placement': 2, 'security': 'public', 'eprintid': 49220, 'mime_type': 'application/pdf', 'language': 'en'}]",['FT2'],conference_item,2012-05-03 00:00:00.000000000,disk0_bak/00/04/92/20,,"[{'id': 'ahmad.zakaria@eng.unila.ac.id', 'name': {'family': 'Zakaria', 'honourific': None, 'lineage': None, 'given': 'Ahmad'}}, {'id': None, 'name': {'honourific': None, 'family': 'susilowati', 'lineage': None, 'given': 'kartini'}}]",Membangun Ifrastruktur dan Pengembangan Wilayah,Hotel Novotel Bandar Lampung,48001.0,conference,03 Mei 2012,"Goto, C. dan Shuto, 1983, Numerical simulation of tsunami propagations and run-up, In
+Tsunami-Their Science and Engineering, edited by K. Iida and T. Iwasaki, pp. 439-
+451. Terra Scientific Publ. Comp.; Tokyo.
+Goto, C. dan Ogawa, Y., 1992, Numerical method of tsunami simulation with leap-frog
+scheme, Disaster Control Research Center, Tohoku University.
+Horrillo J. J., Kowalik, Z. and Kornkven, E., 2004, The third international workshop on
+long-wave runup models, report.
+Horrillo, J., Kowalik, Z. Shigihara, Y., 2006, Wave dipsersion study in the indian oceantsunami
+of december 26, 2004, Marine Geodesy, Vol. 29, pp.149-166.
+Hantoro, W. S., Latief, H., Susilohadi, and Airlangga, A.Y., 2007, Volcanic tsunami of
+krakatau: chronology model and its mitigation in sunda strait, Proceedings of
+International Symposium on Geotechnical Hazards: Prevetion, Mitigation and
+Engineering Response. pp.331-354.
+Kreyszig, E., 1993, Advanced Engineering Mathematics, John Wiley & Sons, Inc.
+Singapore.
+Kowalik, Z., Proshutinsky T. dan Proshutinsky, A., 2006, Tide-tsunami interactions,
+Science of Tsunami Hazards, Vol. 24, No. 4, pp.242-256.
+Kowalik, Z. and Murty, T. S., 1993, Numerical simulation of two-dimensional tsunami
+runup, Marine Geodesy, Vol.16, pp.87-100.
+Mahi, A. K., Zakaria., A., 2008, Rencana strategis dan rencana aksi mitigasi bencana Kota
+Bandar Lampung, Laporan Proyek, DKP Profinsi Lampung,156 hal.
+Marchuk, Andrei J. dan Anisimov, A., 2001, A method for numerical modeling run-up on
+the coast of an arbitrary profile, ITS 2001 Proceedings, Session 7, Number 7-27.
+Reynold, A. C., 1978, Boundary conditions for the numerical solution of wave propagation
+problems, Geophysics 43(6), pp 1099-1110.
+Shigihara, Y., K. Fujima, M. Homma and K. Saito, 2005, Numerical methods of linier
+dispersive wave equation for the practical problems, Asian and Pacific Coasts,
+Sept.4-8, Jeju, South Korea, pp.14.
+Watts, P Grill, S.T., Kirby, J. T., Fryer G. J., and Tappin, D. R., 2003, Landslide., tsunami
+case studies using a boussinesq model and a fully nonlinier tsunami generation
+model, Natural Hazards and Earth System Sciences, Vol. 3, pp.391-402.
+Watts, P., Ioualalen, M., Grill, S., Shi, F. dan Kirby, J. T., 2005, Numerical simulation of
+December 26, 2004 Indian ocean tsunami using higher order boussinesq model,
+Ocean waves measurement and analysis, Fifth International Symposium
+WAVES 2005, 3rd July, 2005, Madrid, Spain, No. 221.
+Zakaria, A. 2009, Simulasi perambatan gelombang tsunami akibat meletusnya gunung
+anak krakatau, Seminar Sains MIPA Aplikasinya, FMIPA UNILA, 16 - 17
+November 2009, pp. 235-246.
+Zakaria, A., 2003, Numerical modelling of wave propagation using higher order finitedifference
+formulas, Thesis (Ph.D), Curtin University of Technology, Perth,
+W.A.","gelombang panjang, pendekatan beda hingga, anak krakatau",ahmad.zakaria@eng.unila.ac.id,978-602-19441-1-0,Prosiding Seminar Nasional,TRUE,paper
