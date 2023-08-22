@@ -1,0 +1,399 @@
+[
+    {
+      "dir": "disk0\/00\/02\/39\/12",
+      "date": 2013,
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Admi Syarif",
+            "given": "AS"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muludi",
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "conference_item",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23912",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 37590,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218026",
+                  "mime_type": "application\/pdf",
+                  "fileid": 218026,
+                  "hash": "ada009bd99f15e20d23d547b27bce86e",
+                  "filename": "SN_15_SATEK_2013 - Conference.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-07 06:35:51",
+                  "datasetid": "document",
+                  "filesize": 1369690
+                }
+            ],
+            "docid": 37590,
+            "main": "SN_15_SATEK_2013 - Conference.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37590",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23912,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "pagerange": "126-135",
+      "datestamp": "2020-09-07 08:00:06",
+      "lastmod": "2020-09-07 08:00:06",
+      "userid": 725,
+      "date_type": "published",
+      "event_title": "Seminar Nasional Sains & Teknologi V",
+      "eprintid": 23912,
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "Implementasi dan Evaluasi Kinerja Pada Persoalan Rute Kendaraan Dengan Koefisien Fuzzy",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "The problems of determining the vechile route known as Vehicle Routing Problems (VRP) have taken great interest of many researchers in these decades. Many models of VRP have been introduced for different applications. In most cases, however, researchers consider the deterministic model of VRP. There are also several methods of solving VRP given in the literature. Since VRP is known as an NP-hard problem, most of methods are belong to the class of heuristic methods. In this paper, we report a model of VRP that had Fuzzy coefficients. Here, we represent the distance between cities in VRP as a triangular Fuzzy number. To solved the problem we design an algorithm based on Genetic Algorithm approach",
+      "status_changed": "2020-09-07 08:00:06",
+      "eprint_status": "archive"
+    },
+    {
+      "eprintid": 28378,
+      "status_changed": "2021-04-01 01:47:29",
+      "eprint_status": "archive",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "The problems of determining the vechile route known as Vehicle Routing Problems (VRP) have taken great interest of many researchers in these decades. Many models of VRP have been introduced for different applications. In most cases, however, researchers consider the deterministic model of VRP. There are also several methods of solving VRP given in the literature. Since VRP is known as an NP-hard problem, most of methods are belong to the class of heuristic methods. In this paper, we report a model of VRP that had Fuzzy coefficients. Here, we represent the distance between cities in VRP as a triangular Fuzzy number. To solved the problem we design an algorithm based on Genetic Algorithm approach",
+      "title": "Peer Review: Implementasi Dan Evaluasi Kinerja Pada Persoalan Rute Kendaraan Dengan Koefisien Fuzzy",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Admi Syarif",
+            "lineage": null,
+            "given": "AS"
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null,
+            "given": "Kurnia"
+          }
+        }
+      ],
+      "date": "2013-11",
+      "dir": "disk0\/00\/02\/83\/78",
+      "lastmod": "2021-04-01 01:47:29",
+      "userid": 725,
+      "datestamp": "2021-04-01 01:47:29",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 28378,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 42895,
+            "main": "22. satekv13_nilai.pdf",
+            "files": [
+                {
+                  "fileid": 255561,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-03-31 19:58:01",
+                  "hash_type": "MD5",
+                  "filename": "22. satekv13_nilai.pdf",
+                  "hash": "da375ecb6dba0ea97b5482032f587303",
+                  "datasetid": "document",
+                  "filesize": 2422756,
+                  "objectid": 42895,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255561"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42895",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28378"
+    },
+    {
+      "lastmod": "2018-06-04 06:32:37",
+      "userid": 752,
+      "pagerange": "47-57",
+      "datestamp": "2018-06-04 06:32:37",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 7002,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19974",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 19974,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/64075",
+                  "fileid": 64075,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-04 05:22:34",
+                  "filename": "Pembuatan Media Pembelajaran Pengenalan Tata  Surya dan.pdf",
+                  "hash": "fc37be187cec02389fd434862212e4bb",
+                  "datasetid": "document",
+                  "filesize": 1184395
+                }
+            ],
+            "main": "Pembuatan Media Pembelajaran Pengenalan Tata  Surya dan.pdf",
+            "docid": 19974
+          }
+      ],
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7002",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Jurnal Komputasi",
+      "issn": "2541-0350",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2013-04",
+      "dir": "disk0\/00\/00\/70\/02",
+      "eprint_status": "archive",
+      "status_changed": "2018-06-04 06:32:37",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "Technology development currently making human life be more practical. There are many ways to usetechnology like for entertainment, business, and education. The use of technology in education is still notoptimal so that the educational process is still using the old system where students listen and the teachersexplain. One of the education technology  is  to do  the process of learning  using  the  multimedia interactive. Subjects about the solar system is one of the subjects taught in junior high school, but the topicsabout exoplanets or planets which are outside the solar system are seldom given by the teacher. Most juniorhigh school used the interactive multimedia to help learning process but it is still 2D-based and only gavetopics about the solar system. Therefore, in this paper we discused about the design and development of aninteractive multimedia which contains topics about solar system and exoplanets with animated interactivemultimedia in 3D-based. This application will be more attractive, and the users can use it interactively.",
+      "title": "Pembuatan Media Pembelajaran Pengenalan Tata  Surya dan Exoplanet Dengan Menggunakan Unity untuk Sekolah Menengah Pertama",
+      "rev_number": 8,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "eprintid": 7002,
+      "date_type": "published"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-06-04 06:33:33",
+      "abstract": "This research discusses about finding all solutions of The Knight's Tour Problem. The steps done by a knight on\r\na chess board forms a path. If the track is able to pass through all points (boxes) and can return to the original\r\npoint (box) is called as Hamilton Cycle, that produces Closed Knight's Tour; if the path can pass through all\r\nthe points but can not return to the original point of the track is called as Open Knight's Tour. There are various ways to solve the Knight's Tour Problem, one of which is to use the Backtrack algorithm. In this paper we will discuss of finding all solutions of Knight’s Tour Problem vary from 3x3 up to 8x8 chessboards.",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Implementasi Algoritma Backtrack untuk Pencarian Solusi Knight’s Tour Problem pada Papan Catur m x n",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "eprintid": 7004,
+      "date_type": "published",
+      "lastmod": "2018-06-04 06:33:33",
+      "userid": 752,
+      "pagerange": "36-46",
+      "datestamp": "2018-06-04 06:33:33",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 64092,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-06-04 05:44:54",
+                  "hash_type": "MD5",
+                  "hash": "0c4d98a32fe3aa13bf83c454e8e01a91",
+                  "filename": "Implementasi Algoritma Backtrack untuk Pencarian Solusi.pdf",
+                  "datasetid": "document",
+                  "filesize": 1549836,
+                  "objectid": 19976,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/64092"
+                }
+            ],
+            "docid": 19976,
+            "main": "Implementasi Algoritma Backtrack untuk Pencarian Solusi.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19976",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7004,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7004",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana"
+          }
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "family": "Kurniasari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "issn": "2541-0350",
+      "publication": "Jurnal Komputasi",
+      "date": "2013-04",
+      "dir": "disk0\/00\/00\/70\/04"
+    },
+    {
+      "status_changed": "2018-06-04 06:32:40",
+      "eprint_status": "archive",
+      "abstract": "Mathematics and Computer Science are closely related. Many problems that appear in Computer Sciences problems can be solved by using mathematical techniques or concepts; for example, finding the nearest distance, minimum fares, or minimum time. The determination of the minimum value can be found by using of mathematical programming, namely dynamic programming. Nevertheless, there are several another consideration factors such as security roads impassable, the vehicle used, comfortability road infrastructure, and others. Dynamic programming is one of the methods in mathematics which is useful to create a sequence of interrelated decisions, and provides a systematic procedure to determine the optimal combination of a decision. This paper will discuss about dynamic programming that applied in the determination of the minimum distance. Determination of the minimum distance will use an application to make it easier for calculation.",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Implementasi Metode Dynamic Programming pada Aplikasi Penentuan Jarak Minimum",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "eprintid": 7003,
+      "date_type": "published",
+      "userid": 752,
+      "lastmod": "2018-06-04 06:32:40",
+      "datestamp": "2018-06-04 06:32:40",
+      "pagerange": "10-14",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 7003,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Implementasi Metode Dynamic Programming.pdf",
+            "docid": 19975,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/64083",
+                  "objectid": 19975,
+                  "filesize": 955914,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-04 05:29:36",
+                  "filename": "Implementasi Metode Dynamic Programming.pdf",
+                  "hash": "d531c80680d77f83f6d499a8b475124b",
+                  "fileid": 64083,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19975",
+            "rev_number": 1
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7003",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "issn": "2541-0350",
+      "creators": [
+        {
+          "name": {
+            "given": "Wamiliana",
+            "family": "Wamiliana",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "publication": "Jurnal Komputasi",
+      "date": "2013-04",
+      "dir": "disk0\/00\/00\/70\/03"
+    }
+]
+

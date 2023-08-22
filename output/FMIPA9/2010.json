@@ -1,0 +1,732 @@
+[
+    {
+      "volume": 43,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Locating-Chromatic Number of Amalgamation of Stars",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Let G be a connected graph and c a proper coloring of G . For i=1,2,...,k define the color class Ci as the set of vertices receiving color i . The color code cΠ(v) of a vertex v in G is the ordered k-tuple 1 (d(v,C1),...,d(v,Ck)) where d(v,Ci) is the distance of v to Ci . If all distinct vertices of G have distinct color codes, then c is called a locating-coloring of G . The locating-chromatic number of graph G , denoted by XL(G) is the smallest k such that G has a locating coloring with k colors. In this paper we discuss the locating-chromatic number of amalgamation of stars Sk,m , Sk,m is obtained from k copies of star KL,m by identifying a leaf from each star. We also determine a sufficient condition for a connected subgraph k ,m H  S\r\nsatisfying XL(H) <= XL(Sk,m).",
+      "status_changed": "2018-04-25 08:03:32",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 6730,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6730",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19699",
+            "rev_number": 1,
+            "docid": 19699,
+            "main": "Locating-amalgamation of stars.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 283374,
+                  "fileid": 61829,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-04-17 07:03:17",
+                  "hash_type": "MD5",
+                  "filename": "Locating-amalgamation of stars.pdf",
+                  "hash": "f8e8b2dd94b1db5fefa576422032e50d",
+                  "objectid": 19699,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61829"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6730,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "ITB J. Sci.",
+      "datestamp": "2018-04-25 08:03:32",
+      "pagerange": "1-8",
+      "lastmod": "2018-04-25 08:03:32",
+      "userid": 821,
+      "dir": "disk0\/00\/00\/67\/30",
+      "date": "2010-07-28",
+      "publication": "Locating-Chromatic Number of Amalgamation of Stars",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null,
+            "given": "Asmiati"
+          },
+          "id": "asmiati308@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Assiyatun",
+            "honourific": null,
+            "lineage": null,
+            "given": "H"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Baskoro",
+            "lineage": null,
+            "given": "Edy Tri"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article"
+    },
+    {
+      "abstract": "Given a graph G=(VE) with vertex set V and edge set E, we define a labeling as a function, where weight of edge xy is written as w(x,y). Total labeling is the sum of xy-label and labels of the vertices that incident to x, thus w(x,y)=λ(x)+λ(y)λ(xy). λ labeling is called as edge irregular total k-labeling of the graph G if for every two different edges e and f of G, w(e)≠w(f). The smallest k in which graph G can be labeled as edge irregular total k-labeling is called as edge total irregularity strength and is noted as tes(G). In this research, we are interested in finding tes(G) of the union of complete bipartite graphs K_1,q and K_2,q.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:01:45",
+      "metadata_visibility": "show",
+      "volume": 39,
+      "rev_number": 8,
+      "official_url": "http:\/\/pphmj.com\/journals\/fjms.htm",
+      "title": "IIREGULAR TOTAL LABELING ON COMPLETE BIPARTITE GRAPH AND UNION OF COMPLETE BIPARTITE GRAPHS",
+      "date_type": "published",
+      "eprintid": 6743,
+      "datestamp": "2018-04-25 08:01:45",
+      "pagerange": "129-135",
+      "userid": 791,
+      "lastmod": "2018-06-26 03:40:47",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6743",
+      "publisher": "Puspha Publishing House",
+      "documents": [
+          {
+            "main": "Irregular Total labelling....pdf",
+            "docid": 19715,
+            "files": [
+                {
+                  "filesize": 666329,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-19 04:58:25",
+                  "hash": "0564f40a6491d77b0990efb95afafe34",
+                  "filename": "Irregular Total labelling....pdf",
+                  "fileid": 61931,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61931",
+                  "objectid": 19715
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19715",
+            "eprintid": 6743,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/67\/43",
+      "date": "2010-12-31",
+      "creators": [
+        {
+          "id": "jamalidus@yahoo.com",
+          "name": {
+            "given": "Jamal I",
+            "lineage": null,
+            "family": "Daoud",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Asmiati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Asmiati"
+          },
+          "id": "asmiati308@yahoo.com"
+        }
+      ],
+      "issn": "0972-0871",
+      "publication": "Far East Journal of Mathematical Sciences (FJMS)"
+    },
+    {
+      "eprintid": 211,
+      "official_url": "http:\/\/pphmj.com\/journals\/fjms.htm",
+      "title": "IRREGULAR TOTAL LABELING\r\nON COMPLETE BIPARTITE GRAPH AND UNION OF\r\nCOMPLETE BIPARTITE GRAPHS",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 39,
+      "eprint_status": "archive",
+      "status_changed": "2016-07-21 04:15:39",
+      "abstract": "Given a graph G = (V, E) with vertex set I and edge sea E, we define a labeling as a function, where weight of edge xy is written as w(x, y), Total labeling is the sum of xy-label and labels of the vertices that incident\r\nto x, thus w(x,\tX.F(x) X(y)},(,ry), ). labeling is called as edge\r\nirregular total i-tabeling of the graph G if far every, two different edges c andlof G, w(e) tir(f ). The smallest k in which graph G can be labeled as edge irregular total k-labeling is called as edge total irregularity strength anti is noted its tea (G). In this research, we are interested in linding tes(a) of the union of complete bipartite graphs it' 1,q and g29.\r\nKeywords and phrases: irregular total labeling, tes(G), bipartite graph. 'Corresponding author",
+      "subjects": [
+        "AC"
+      ],
+      "issn": "0972-0871",
+      "creators": [
+        {
+          "name": {
+            "given": "Jamal I",
+            "lineage": null,
+            "honourific": null,
+            "family": "Daoud"
+          },
+          "id": "jamalidus@yahoo.com"
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana",
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "honourific": null,
+            "family": "Usman"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati",
+            "given": "Asmiati"
+          }
+        }
+      ],
+      "publication": "Far East Journal of Mathematical Sciences (FJMS)",
+      "dir": "disk0\/00\/00\/02\/11",
+      "date": 2010,
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Puspha Publishing House",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 211,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/210",
+            "docid": 210,
+            "main": "Irregular Total labelling....pdf",
+            "files": [
+                {
+                  "objectid": 210,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1243",
+                  "datasetid": "document",
+                  "filesize": 666329,
+                  "mime_type": "application\/pdf",
+                  "fileid": 1243,
+                  "hash": "0564f40a6491d77b0990efb95afafe34",
+                  "filename": "Irregular Total labelling....pdf",
+                  "mtime": "2016-07-21 03:55:19",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/211",
+      "lastmod": "2016-07-21 04:15:39",
+      "userid": 791,
+      "datestamp": "2016-07-21 04:15:39",
+      "pagerange": "129-135"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6819,
+      "abstract": "The physical properties by natural fibre have a great importance, specifically in the structural of natural fibre which reinforces matrix. Response surface methodology with Box-Behnken (BB) design of experiment was utilized to study water absorption and melt flow index (MFI) of abaca fibre reinforced high impact polystyrene (HIPS) composites. The design utilizes fraction of weight abaca fibre, maleic anhydride (MAH), and impact modifier to develop models for characteristic behaviours of water absorption and MFI of composites. Abaca fibre reinforced high impact polystyrene (HIPS) composites were produced with different fibre loadings (30, 40, and 50 wt%), different compositions of coupling agent, maleic anhydried (MAH) (1, 2, and 3 wt%) and different compositions of impact modifier (4, 5, 6 wt%). The individual optimum of water absorption was found when loading abaca fibre close to 34.61 wt%, maleic anhydride 1 wt%, and impact modifier 4.01 wt%. The individual optimum of melt flow index dealt with loading abaca fibre 36.71 wt%, maleic anhydride 3 wt% and impact modifier 4.02 wt%. Meanwhile, the optimum condition for water absorption of abaca fibre reinforced HIPS composites was followed by a decreasing trend of the value of melt flow index.",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2018-04-25 04:39:04",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 19,
+      "rev_number": 7,
+      "title": "Physical Properties of Abaca (Musa textilis nee) Fibre Reinforced High Impact Polystyrene (HIPS) Composites",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/68\/19",
+      "date": "2010-08-25",
+      "creators": [
+        {
+          "name": {
+            "given": "Agung Efriyo",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hadi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Salit",
+            "given": "Mohd. Sapuan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Hamdan Megat Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Megat Mohd"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Khairul Zaman Hj Mohd",
+            "honourific": null,
+            "given": "Dahlan"
+          }
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "honourific": null,
+            "family": "Usman"
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "issn": "0128-7680",
+      "publication": "Pertanika J. Sci. & Technol. SCIENCE & TECHNOLOGY",
+      "pagerange": "349-363",
+      "datestamp": "2018-04-25 04:39:04",
+      "userid": 701,
+      "lastmod": "2018-04-25 04:39:04",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6819",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19792",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "MUSTOFA_PERTANIKA2011.pdf",
+                  "hash": "390f8b8692e5192ea7e5f9d591e97a12",
+                  "mtime": "2018-04-25 04:28:56",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62477,
+                  "filesize": 1117126,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62477",
+                  "objectid": 19792
+                }
+            ],
+            "main": "MUSTOFA_PERTANIKA2011.pdf",
+            "docid": 19792,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6819
+          }
+      ],
+      "publisher": "Universiti Putra Malaysia Press",
+      "number": 2,
+      "ispublished": "pub"
+    },
+    {
+      "eprintid": 17934,
+      "date_type": "published",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/6457\/1\/Katalis%20LaCr1FeO3.pdf",
+      "title": "Analisis regresi robust menggunakan metode penduga -MM",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2020-02-17 04:14:38",
+      "subjects": [
+        "HA"
+      ],
+      "creators": [
+        {
+          "id": "netti.herawati@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Herawati",
+            "lineage": null,
+            "given": "Netti"
+          }
+        },
+        {
+          "name": {
+            "given": "Khoirin",
+            "honourific": null,
+            "family": "Nisa",
+            "lineage": null
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "978 – 979 - 8510 - 20 - 5",
+      "publication": "Prosiding Seminar Nasional Sains dan Teknologi-III Published by LPPM Unila 18-19 Oktober 2010",
+      "dir": "disk0\/00\/01\/79\/34",
+      "date": "2010-10-18",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "documents": [
+          {
+            "main": "STK1035 prosiding satek 2010.pdf",
+            "docid": 31071,
+            "files": [
+                {
+                  "filesize": 253690,
+                  "datasetid": "document",
+                  "hash": "ea9b9a59b2c21eb0dd4803a9252cfbef",
+                  "filename": "STK1035 prosiding satek 2010.pdf",
+                  "mtime": "2020-02-07 02:52:00",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 151122,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/151122",
+                  "objectid": 31071
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31071",
+            "rev_number": 1,
+            "eprintid": 17934,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17934",
+      "full_text_status": "public",
+      "userid": 959,
+      "lastmod": "2020-02-17 04:14:38",
+      "datestamp": "2020-02-17 04:14:38"
+    },
+    {
+      "lastmod": "2020-02-17 03:48:56",
+      "userid": 959,
+      "datestamp": "2020-02-17 03:48:56",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31092",
+            "rev_number": 1,
+            "docid": 31092,
+            "main": "analisis diskriminan prosiding SN SMAP 2010.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 4363806,
+                  "fileid": 151245,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-02-11 03:28:21",
+                  "hash_type": "MD5",
+                  "hash": "63f55c94467f7b2c4739d09d4cd93129",
+                  "filename": "analisis diskriminan prosiding SN SMAP 2010.pdf",
+                  "objectid": 31092,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/151245"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 17952,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17952",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Khoirin",
+            "family": "Nisa",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        },
+        {
+          "id": "netti.herawati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Netti",
+            "lineage": null,
+            "family": "Herawati",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Prosiding Seminar nasional sains mipa dan aplikasinya 2016",
+      "date": "2010-12-08",
+      "dir": "disk0\/00\/01\/79\/52",
+      "eprint_status": "archive",
+      "status_changed": "2020-02-17 03:48:56",
+      "subjects": [
+        "HA"
+      ],
+      "title": "Analisis diskriminan linier robust menggunakan metode volume ellipsoid minimum",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 17952
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6783,
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Pada penelitian ini akan dibahas mengenai penggandaan matriks adjacency dengan menggunakan Aljabar Boole. Setelah didapat matriks adjacency dari hasil penggandaan tersebut, maka dicari spektrumnya. Berdasarkan hasil penelitian ini dapat disimpulkan bahwa hasil penggandaan untuk graf lengkap menghasilkan matriks yang semua elemennya 1, graf bintang dan graf bipartite lengkap menghasilkan matriks yang elemen sebelumnya 1 berubah menjadi 0 dan 0 berubah menjadi 1. Spektrum graf dari hasil penggandaan untuk graf lengkap adalah 0^(n-1),n , graf bintang 0^(n-1),n , dan graf bipartite lengkap 0^(n+m-2),m,n.",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 07:47:15",
+      "rev_number": 6,
+      "volume": 4,
+      "metadata_visibility": "show",
+      "official_url": "http:\/lemlit.unila.ac.id\/",
+      "title": "PENENTUAN SPEKTRUM GRAF HASIL PENGGANDAAN MATRIKS ADJACENCY DENGAN ALJABAR BOOLE",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/67\/83",
+      "date": "2010-10-18",
+      "publication": "Prosiding Seminar Nasional Sains dan Teknologi IV",
+      "issn": "978-979-8510-34-2",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Tukino",
+            "honourific": null,
+            "given": "Tukino"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          }
+        }
+      ],
+      "datestamp": "2018-04-25 07:47:15",
+      "pagerange": "1-5",
+      "lastmod": "2018-04-25 07:47:15",
+      "userid": 791,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6783",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "LEMBAGA PENELITIAN UNIVERSITAS LAMPUNG",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6783,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 04:18:21",
+                  "hash": "b4f0cdce85babb9a941187fe866ac046",
+                  "filename": "SEMNAS Bandar Lampung 2011_DIAN KURNIASARI.pdf",
+                  "fileid": 62147,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3972872,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62147",
+                  "objectid": 19752
+                }
+            ],
+            "docid": 19752,
+            "main": "SEMNAS Bandar Lampung 2011_DIAN KURNIASARI.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19752",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "abstract": "The Multi Period Degree Constrained Minimum Spanning Tree Problem (MPDCMST) is a problem of determining the total minimum installation cost in a certain network, where the installation process is divided into some periods due to the fund limitation. In addition, the network itself must maintain it reliability by restricting the number of links at every node (can be computer, city, road, and so on). In this paper we will discuss the computational aspects of two algorithms, WAD11.1 and WADR2 for the MPDCMST and compare the solutions of those two algorithms.\r\nKeywords: multi period\/ degree constrained, computational aspects.",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2016-07-18 08:25:09",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "event_type": "conference",
+      "event_dates": "8-9 Desember 2010",
+      "official_url": "http:\/\/fmipa.unila.ac.id",
+      "title": "COMPUTATIONAL ASPECT OF WADR1 AND WADR2\r\nALGORITHrIS\r\nFOR THE MULTI PERIOD DEGREE CONSTRAINED MINIMUM\r\nSPANNING TREE PROBLEM",
+      "eprintid": 186,
+      "event_title": "Seminar Nasional Sains MIPA dan Aplikasinya Tahun 2010 FMIPA Universitas Lampung",
+      "event_location": "Bandar Lampung",
+      "pagerange": "208-213",
+      "datestamp": "2016-07-18 08:25:09",
+      "lastmod": "2017-03-24 15:40:05",
+      "userid": 7,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/186",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 186,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Computational Aspects of WADR1 and WADR2 Algorithms for The Multi Periods Degree Constrained MST.pdf",
+            "docid": 191,
+            "files": [
+                {
+                  "objectid": 191,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1086",
+                  "datasetid": "document",
+                  "filesize": 2594377,
+                  "fileid": 1086,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-18 08:17:57",
+                  "hash": "86a23f736789de4f8d94e620b879db3c",
+                  "filename": "Computational Aspects of WADR1 and WADR2 Algorithms for The Multi Periods Degree Constrained MST.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/01\/86",
+      "date": "2010-12",
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "family": "Sakethi",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yuniarti",
+            "given": "Restu"
+          },
+          "id": "restu@gmail.com"
+        }
+      ]
+    }
+]
+

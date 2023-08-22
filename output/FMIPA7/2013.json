@@ -1,0 +1,112 @@
+[
+    {
+      "projects": [
+        "research collaboration"
+      ],
+      "eprintid": 32119,
+      "date_type": "published",
+      "title": "Identification of the Target Protein of Agelasine D,\r\na Marine Sponge Diterpene Alkaloid, as an Anti-dormant\r\nMycobacterial Substance",
+      "official_url": "http:\/\/dx.doi.org\/10.1002\/cbic.201300470",
+      "volume": 15,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-06-06 14:34:20",
+      "subjects": [
+        "Q1"
+      ],
+      "abstract": "One of the major reasons for the wide epidemicity of tubercu�losis and for the necessity for extensive chemotherapeutic regi�mens is that the causative agent, Mycobacterium tuberculosis,\r\nhas an ability to become dormant. Therefore, new lead com�pounds that are anti-bacterial against M. tuberculosis in both\r\nactive and dormant states are urgently needed. Marine sponge\r\nditerpene alkaloids, agelasines B, C, and D, from an Indonesian\r\nmarine sponge of the genus Agelas were rediscovered as anti�dormant-mycobacterial substances. Based on the concept that\r\nthe transformants over-expressing targets of antimicrobial sub�stances confer drug resistance, strains resistant to agelasine D\r\nwere screened from Mycobacterium smegmatis transformed\r\nwith a genomic DNA library of Mycobacterium bovis BCG. Se�quence analysis of the cosmids isolated from resistant trans�formants revealed that the responsible gene was located in\r\nthe genome region between 3475.051 and 3502.901 kb. Fur�ther analysis of the transformants over-expressing the individu�al gene contained in this region indicated that BCG3185c (pos�sibly a dioxygenase) might be a target of the molecule. More�over, agelasine D was found to bind directly to recombinant BCG3185c protein (KD 2.42 mm), based on surface plasmon res�onance (SPR). This evidence strongly suggests that the BCG3185c protein is the major target of agelasine D, and that the latter is the anti-mycobacterial substance against dormant bacilli",
+      "publication": "CHEMBIOCHEM",
+      "creators": [
+        {
+          "id": "araim@phs.osaka-u.ac.jp",
+          "name": {
+            "given": "Masayoshi",
+            "lineage": null,
+            "family": "Arai",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yoshi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yamano"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Setiawan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Andi"
+          },
+          "id": "andi.setiawan@fmipa.unila.ac.id"
+        },
+        {
+          "id": "kobayasi@phs.osaka-u.ac.jp",
+          "name": {
+            "honourific": null,
+            "family": "Kobayashi",
+            "lineage": null,
+            "given": "Motomasa"
+          }
+        }
+      ],
+      "issn": "14394227, 14397633",
+      "date": "2013-11-14",
+      "dir": "disk0\/00\/03\/21\/19",
+      "type": "article",
+      "funders": [
+        "the Hoh-ansha Foundation, the Uehara Memorial Foundation, and Grant-in-Aid for scientific research from the Ministry of Education, Culture, Sports, Science, and Technology of Japan"
+      ],
+      "divisions": [
+        "FMIPA7"
+      ],
+      "ispublished": "pub",
+      "publisher": "Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145600",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1202632,
+                  "mime_type": "application\/pdf",
+                  "fileid": 380121,
+                  "hash": "f9df46bed9008278c292c1d2f81e51c7",
+                  "filename": "arai2013 Jurnal 2014-1.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-06 05:28:05",
+                  "objectid": 145600,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380121"
+                }
+            ],
+            "docid": 145600,
+            "main": "arai2013 Jurnal 2014-1.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 32119
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32119",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Lampung University",
+        "Osaka University"
+      ],
+      "userid": 945,
+      "lastmod": "2021-06-06 14:34:20",
+      "pagerange": "117-123",
+      "datestamp": "2021-06-06 14:34:20"
+    }
+]
+

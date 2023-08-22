@@ -1,0 +1,145 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42769",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 42769,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164489",
+            "rev_number": 1,
+            "docid": 164489,
+            "main": "BUKU Saccharomyces_Monograf.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 8058770,
+                  "mime_type": "application\/pdf",
+                  "fileid": 468836,
+                  "filename": "BUKU Saccharomyces_Monograf.pdf",
+                  "hash": "fed56a59bfd55df819daaec50f596139",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-29 01:40:21",
+                  "objectid": 164489,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/468836"
+                }
+            ]
+          }
+      ],
+      "publisher": "GRAHA ILMU",
+      "datestamp": "2022-06-29 01:53:51",
+      "lastmod": "2022-06-29 01:53:51",
+      "userid": 1017,
+      "dir": "disk0\/00\/04\/27\/69",
+      "date": 2018,
+      "id_number": "ISBN 978-602-262-847-7",
+      "monograph_type": "other",
+      "pages": 139,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kustyawati",
+            "honourific": null,
+            "given": "Maria Erna"
+          },
+          "id": "maria.erna@fp.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FP16"
+      ],
+      "type": "monograph",
+      "rev_number": 7,
+      "place_of_pub": "Yogyakarta",
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/grahailmu.id\/",
+      "title": "Saccharomyces cerevisiae: Metabolit dan Agensia Modifikasi Pangan",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "S.cerevisiae sudah sejak lama digunakan sebagai starter fermentasi pembuatan roti dan minuman beralkohol. Dalam buku ini S.cerevisiae dimanfaatkan sebagai agensia modifikasi dalam pengolahan pangan, kemampuan S.cerevisiae dalam merombak kompnen pangan, produk metabolit yang dihasilkan oleh S.cerevisiae, modifikasi terhadap perubahan sifat beberapa produk pangan oleh S.cerevisiae seperti tapioka, tempe, dan modifikasi fermentasi kakao. Pengertian dasar mengenai khamir perlu difahami oleh mahasiswa yang khususnya mempelajari mikrobiologi pangan, mikrobiologi industri dan teknologi pangan. S.cerevisiae adalah khamir. Ragi adalah starter atau biakan untuk memulai proses fermentasi.",
+      "status_changed": "2022-06-29 01:53:51",
+      "eprint_status": "archive",
+      "institution": "Universitas Lampung",
+      "department": "Fak Pertanian, Jur Teknolohi Hasil Pertanian",
+      "eprintid": 42769
+    },
+    {
+      "abstract": "Abstract\r\nThe ability of bacteriophage FR38 to lysis an indigenous Salmonella P38 from faeces of diarrhea patient has been studied, however its effects on food is not studied yet. This study was conducted to observe the effects of bacteriophage FR38 on milk.Lysis efectivity of bacteriophage FR38 on food were measured on milk. The total colony of Salmonella P38 was counted by surface plate method. The result showed that indigenous bacteriophage FR38 had been able to decrease of indigenous Salmonella P38 on fresh milk (alpha0,01). Bacteriophage FR38 was effective to decrease of SalmonellaP38 on milk during 24 hours (940 cfu\/ml), 48 hours (1200 cfu\/ml) significantly than untreatment (alpha0,01). Bacteriophage FR38 was effective to decrease ofSalmonella P38 on sausages during 24 hours, 48 hours significantly than untreatment (alpha0,01).\r\n\r\nKeyword: Bacteriophage FR38,Salmonella P38, effectivity,Milk, Sausages",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-11-14 02:50:35",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "event_type": "conference",
+      "title": "THE EFFECTIVITY OF LYTIC BACTERIOPHAGE FR 38 TO DECREASE SALMONELLA P38 INDIGENOUS ON MILK AND CHICKEN SAUSAGE",
+      "event_dates": "18-20 September 2018",
+      "date_type": "submitted",
+      "eprintid": 9854,
+      "event_title": "ICGAB 2018 UB Malang",
+      "event_location": "UB Malang",
+      "pagerange": "1-10",
+      "datestamp": "2018-11-14 02:50:35",
+      "lastmod": "2018-11-14 02:50:35",
+      "userid": 306,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9854",
+      "full_text_status": "none",
+      "pres_type": "speech",
+      "ispublished": "pub",
+      "divisions": [
+        "FP16"
+      ],
+      "type": "conference_item",
+      "date": "2018-09-20",
+      "dir": "disk0\/00\/00\/98\/54",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sartika",
+            "given": "Dewi"
+          },
+          "id": "dewikincai@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "sri",
+            "honourific": null,
+            "family": "budiarti",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "mirnawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "m"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "rusmana",
+            "lineage": null,
+            "given": "iman"
+          },
+          "id": null
+        }
+      ]
+    }
+]
+

@@ -1,0 +1,411 @@
+[
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Jurnal TEKNOINFO",
+      "issn": "2615-224X",
+      "creators": [
+        {
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "AS",
+            "honourific": null,
+            "family": "Admi Syarif",
+            "lineage": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Favorisen R",
+            "lineage": null,
+            "honourific": null,
+            "family": "Lumbanraja"
+          },
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2023-01-01",
+      "dir": "disk0_bak\/00\/04\/75\/97",
+      "id_number": "https:\/\/doi.org\/10.33365\/jti.v17i1.2078",
+      "lastmod": "2023-01-04 06:10:40",
+      "userid": 215,
+      "pagerange": "112-118",
+      "datestamp": "2023-01-04 06:10:40",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 47597,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "2078-6707-1-PB.pdf",
+            "docid": 186668,
+            "files": [
+                {
+                  "filename": "2078-6707-1-PB.pdf",
+                  "hash": "7ccfc329e91ae8cbf89d37d3c1630ea0",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-04 02:42:33",
+                  "mime_type": "application\/pdf",
+                  "fileid": 521632,
+                  "filesize": 201916,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521632",
+                  "objectid": 186668
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186668",
+            "rev_number": 2
+          }
+      ],
+      "publisher": "Universitas Teknokrat Indonesia",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47597",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 47597,
+      "date_type": "published",
+      "status_changed": "2023-01-04 06:10:40",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "Reproduction is the process by which organisms reproduce themselves to maintain the life of their species. This study aims to determine the development of reproduction in humans. This study is a compilation of literature studies conducted by searching on Google and Google Scholar using the keywords Sperm, Fertilization and Human Reproduction. From the results of the search and understanding of the journal, it is found that articles that fit into the inclusion criteria show that there is increasing progress in research related to the keywords fertilization, sperm and human reproduction. There are also factors that can affect the level of fertility factors, and there are also applications that can detect the level of sperm fertility.",
+      "official_url": "https:\/\/ejurnal.teknokrat.ac.id\/index.php\/teknoinfo\/article\/view\/2078",
+      "title": "SYSTEMATIC REVIEW: PERKEMBANGAN MACHINE LEARNING PADA SPERMA MANUSIA",
+      "volume": 17,
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "STMIK Pringsewu",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251771",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 251771,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616556",
+                  "fileid": 616556,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-28 03:32:48",
+                  "hash": "772cf0a97448eed91e7cbbb9cca7d26e",
+                  "filename": "Aplikasi Peta Interaktif 3D pada Gedung Fakultas Teknik Universitas Lampung.pdf",
+                  "datasetid": "document",
+                  "filesize": 2240795
+                }
+            ],
+            "main": "Aplikasi Peta Interaktif 3D pada Gedung Fakultas Teknik Universitas Lampung.pdf",
+            "docid": 251771,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 52040
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52040",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-05-29 01:33:01",
+      "userid": 215,
+      "pagerange": "128-136",
+      "datestamp": "2023-05-29 01:33:01",
+      "publication": "JTKSI (Jurnal Teknologi Komputer Dan Sistem Informasi)",
+      "issn": "E ISSN: 2620-3030 ; P ISSN: 2620-3022",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Fitrialoka",
+            "honourific": null,
+            "given": "Dinda"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yohana Tri Utami",
+            "honourific": null,
+            "given": "YTU"
+          },
+          "id": "yohana.utami@fmipa.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/40",
+      "date": "2023-05-02",
+      "id_number": "10.56327\/jtksi.v6i2.1464",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "title": "Aplikasi Peta Interaktif 3D Pada Gedung Fakultas Teknik Universitas Lampung",
+      "official_url": "https:\/\/ojs.stmikpringsewu.ac.id\/index.php\/jtksi\/article\/view\/1464",
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-29 01:33:01",
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "Gedung perkuliahan yang besar dan kompleks dapat menyulitkan pengunjung untuk menavigasi dan menemukan ruangan dengan tepat. Hal tersebut menyebabkan pengunjung yang pertama kali hadir bingung dengan tata letak gedung dan ruangan tersebut. Permasalahan tersebut terjadi pada Gedung Fakultas Teknik Universitas Lampung. Untuk mengakses lokasi dan fasilitas di Gedung Teknik masih menggunakan bentuk peta 2 dimensi yang dinilai kurang efektif bagi mahasiswa ataupun pengguna lainnya. Fasilitas di Gedung G Survey dan Pemetaan dan Gedung C Lab Mekanika Tanah yang ada masih menggunakan bentuk peta 2D yang dinilai kurang efektif bagi mahasiswa ataupun pengguna lainnya. Penelitian ini bertujuan mengembangkan peta virtual 3D yang mencakup infomasi berupa tata letak gedung untuk mempermudah mahasiswa serta masyarakat luar dalam mengakses lokasi gedung, sarana, dan prasarana. Metode yang digunakan pada penelitian ini adalah metode Multimedia Development Life Cycle (MDLC). Hasil pengujian aplikasi peta virtual 3D dapat berjalan dengan baik. Semua fitur dan tombol yang tersedia pada aplikasi dapat berfungsi dengan baik, ukuran layar kompatible dan memiliki performa yang cukup baik pada beberapa smartphone.",
+      "eprintid": 52040,
+      "date_type": "published"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Suarni",
+            "lineage": null,
+            "given": "Lisa"
+          }
+        },
+        {
+          "id": "dwijim@fmipa.unila.ac.id",
+          "name": {
+            "given": "Dwi",
+            "family": "Sakethi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "RA",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rico Andrian"
+          },
+          "id": "rico.andrian@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "DM",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dedy Miswar"
+          },
+          "id": "dedy.miswar@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rika Ningtias",
+            "family": "Azhari",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2615-224X",
+      "publication": "Jurnal TEKNOINFO",
+      "id_number": "https:\/\/doi.org\/10.33365\/jti.v17i1.2166",
+      "dir": "disk0_bak\/00\/04\/75\/98",
+      "date": "2023-01-01",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47598,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186669",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-04 02:47:25",
+                  "hash": "5aa57f4fca95dc51cf782a1fbf6e8104",
+                  "filename": "2166-6644-3-PB.pdf",
+                  "fileid": 521638,
+                  "mime_type": "application\/pdf",
+                  "filesize": 278432,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521638",
+                  "objectid": 186669
+                }
+            ],
+            "docid": 186669,
+            "main": "2166-6644-3-PB.pdf"
+          }
+      ],
+      "publisher": "Universitas Teknokrat Indonesia",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47598",
+      "lastmod": "2023-01-04 06:09:50",
+      "userid": 215,
+      "pagerange": "1-9",
+      "datestamp": "2023-01-04 06:09:50",
+      "eprintid": 47598,
+      "date_type": "published",
+      "title": "RANCANG BANGUN SISTEM PAKAR PROSES PEMBELAJARAN KEPERAWATAN BERBASIS WEB",
+      "official_url": "https:\/\/doi.org\/10.33365\/jti.v17i1.216",
+      "metadata_visibility": "show",
+      "volume": 17,
+      "rev_number": 8,
+      "status_changed": "2023-01-04 06:09:50",
+      "eprint_status": "archive",
+      "abstract": "The nursing learning process in Indonesia still adheres to the conventional system, namely learning through the classroom. The obstacle faced is that learning is not systematic and measurable. The solution given in this study is a learning process through an expert system-based application to measure students' abilities in dealing with problems in the case of nursing science. The purpose of this study was to design an expert system for the nursing learning process using the Forward Chaining method on 116 symptom data, 22 diagnostic data, 60 intervention data, 8 type data and 864 description data. Testing using black-box testing. The result of the research is the formation of an expert system application that is applied to nursing students at Tanjung Karang Poltekkes with a \"very good\" level of satisfaction.",
+      "subjects": [
+        "QA75"
+      ]
+    },
+    {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "number": 3,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "lastmod": "2023-02-17 08:59:13",
+      "datestamp": "2023-02-17 08:59:13",
+      "id_number": "https:\/\/doi.org\/10.3991\/ijet.v18i03.36291",
+      "date": "2023-02-15",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "official_url": "https:\/\/online-journals.org\/index.php\/i-jet\/",
+      "eprint_status": "archive",
+      "abstract": "Empathy refers to what people experience and feel. Experts believed that empathy is an emotional intelligence skill that can be trained and taught. Therefore, it is very important to explore ways to experience and teach emotional empathy. Empathy experiences can be stimulated by reading fiction and other narratives, storytelling, watching movies, and also playing computer games. In this work, our objective is to investigate the effect of video gaming on empathy using a microblogging tool designed to collect user experiences related to empathy. The aim of this research is to contribute by providing a tool to teach, experience, and measure empathy. This research applies quantitative and qualitative methods. We conducted two studies: (1) investigating the correlation between empathic experiences and video games, and (2) a laboratory experiment to evaluate microblogs as a tool for interviews and media to express feelings or opinions related to empathy. Quantitative data were obtained from the IRI questionnaire.  We developed and implemented a microblogging tool. Study 1 involved 100 participants, and study 2 involved 43 participants. As a result, we find that during the interventions, mean scores increase more for male than for female participants. The impact of playing the video game toward empathy is to raise players' fantasies. The game's story or narrative has the most important role to affect players' feelings. We also explore the potential of a microblogging tool for acquiring qualitative data related to empathy experiences and the effect of playing games.",
+      "subjects": [
+        "QA75"
+      ],
+      "eprintid": 48435,
+      "date_type": "published",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48435,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187728",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 9858056,
+                  "mime_type": "application\/pdf",
+                  "fileid": 528630,
+                  "filename": "iJET_vol18_no03_2023.pdf",
+                  "hash": "f3955a1233b302e08c35ee566eaa1f96",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-17 08:37:52",
+                  "objectid": 187728,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/528630"
+                }
+            ],
+            "main": "iJET_vol18_no03_2023.pdf",
+            "docid": 187728
+          }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48435",
+      "full_text_status": "public",
+      "userid": 482,
+      "pagerange": "83-95",
+      "issn": "1863-0383",
+      "creators": [
+        {
+          "name": {
+            "given": "Ossy Dwi Endah",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wulansari"
+          },
+          "id": "ossy.dwiendah@fmipa.ac.id"
+        },
+        {
+          "id": "j.pirker@tugraz.at",
+          "name": {
+            "given": "Johanna",
+            "family": "Pirker",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "c.guetl@tugraz.at",
+          "name": {
+            "given": "Christian",
+            "lineage": null,
+            "honourific": null,
+            "family": "Guetl"
+          }
+        }
+      ],
+      "publication": "International Journal: Emerging Technologies in Learning",
+      "dir": "disk0_bak\/00\/04\/84\/35",
+      "contact_email": "ossy.dwiendah@fmipa.unila.aci.id",
+      "keywords": "empathy, microblogging, user experience, tool, self-assessment",
+      "title": "Analysis of Empathic Experiences in Video Games with Microblogging",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 18,
+      "status_changed": "2023-02-17 08:59:13"
+    }
+]
+

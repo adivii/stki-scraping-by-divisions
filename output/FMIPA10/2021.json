@@ -1,0 +1,448 @@
+[
+    {
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/03\/16\/61",
+      "date": 2021,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Bahriddin",
+            "family": "Abapihi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M",
+            "honourific": null,
+            "family": "Mukhsar",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Gusti Ngurah Adhi",
+            "family": "Wibawa",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Baharuddin",
+            "lineage": null,
+            "given": "B"
+          }
+        },
+        {
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id",
+          "name": {
+            "given": "Favorisen R",
+            "family": "Lumbanraja",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Faisal",
+            "given": "Mohammad  Reza"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Sani",
+            "lineage": null,
+            "given": "Asrul"
+          }
+        }
+      ],
+      "datestamp": "2021-06-04 01:33:14",
+      "pagerange": "1-5",
+      "lastmod": "2021-06-04 01:33:14",
+      "userid": 99,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31661",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 31661,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 143389,
+            "main": "Abapihi_2021_J._Phys.__Conf._Ser._1899_012113.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 375209,
+                  "filename": "Abapihi_2021_J._Phys.__Conf._Ser._1899_012113.pdf",
+                  "hash": "20d8904384afbfe8b84dfd7ab033423f",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-02 02:55:54",
+                  "datasetid": "document",
+                  "filesize": 407104,
+                  "objectid": 143389,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/375209"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/143389",
+            "rev_number": 1
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 31661,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/143396",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 375224,
+                  "filename": "Abapihi_2021_J._Phys.__Conf._Ser._1899_012113.pdf",
+                  "hash": "20d8904384afbfe8b84dfd7ab033423f",
+                  "mtime": "2021-06-02 03:06:07",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 407104,
+                  "objectid": 143396,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/375224"
+                }
+            ],
+            "main": "Abapihi_2021_J._Phys.__Conf._Ser._1899_012113.pdf",
+            "docid": 143396
+          }
+      ],
+      "pres_type": "paper",
+      "date_type": "published",
+      "event_title": "2nd Workshop on Engineering, Education, Applied Sciences and Technology (WEAST) 2020 5 October 2020, Makassar, Indonesia",
+      "eprintid": 31661,
+      "event_location": "Makassar, Indonesia",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "In classification problems, logistic regression is among powerful techniques for discrimination. It provides directive probabilities of sample classification and interpretable coefficients. When it comes to model high dimensional dataset, however, logistic regression with its Newton-Raphson method of parameter estimation is no longer applicable, especially on low sample size and extremely high dimension. By applying cross-entropy algorithm on regularized logistic regression, it was able to well performing parameter estimation and highly\r\naccurate classification result.",
+      "status_changed": "2021-06-04 01:33:14",
+      "eprint_status": "archive",
+      "rev_number": 11,
+      "event_type": "workshop",
+      "metadata_visibility": "show",
+      "title": "Parameter estimation for high dimensional classification model on colon cancer microarray dataset",
+      "official_url": "https:\/\/iopscience.iop.org",
+      "event_dates": "5 October 2020"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 34959,
+      "rev_number": 7,
+      "volume": 21,
+      "metadata_visibility": "show",
+      "title": "Subdivision of Certain Barbell Operation of Origami Graphs has\r\nLocating-Chromatic Number Five",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "The locating-chromatic number denote by χ",
+      "status_changed": "2021-11-04 01:13:40",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/49\/59",
+      "date": "2021-09",
+      "publication": "IJCSNS International Journal of Computer Science and Network Security",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Irawan",
+            "given": "Agus"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "L.",
+            "family": "Zakaria",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bernadhita",
+            "family": "Utami",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "1738-7906",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34959",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 9,
+      "ispublished": "pub",
+      "publisher": "IJCSNS, Korea",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 34959,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155644",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 322236,
+                  "mime_type": "application\/pdf",
+                  "fileid": 409336,
+                  "hash": "2afc4b29d716ffb41e5d99e674c97b83",
+                  "filename": "Subdivision of Certain Barbell Operation of Origami Graphs has Locating-Chromatic Number Five.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-03 14:57:24",
+                  "objectid": 155644,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409336"
+                }
+            ],
+            "docid": 155644,
+            "main": "Subdivision of Certain Barbell Operation of Origami Graphs has Locating-Chromatic Number Five.pdf"
+          }
+      ],
+      "datestamp": "2021-11-04 01:13:40",
+      "lastmod": "2021-11-04 01:13:40",
+      "userid": 883
+    },
+    {
+      "lastmod": "2021-11-04 01:13:38",
+      "userid": 883,
+      "datestamp": "2021-11-04 01:13:38",
+      "publisher": "IOP Publishing",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 34958,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155643",
+            "main": "Rusliyawati_2021_J._Phys.__Conf._Ser._1751_012041.pdf",
+            "docid": 155643,
+            "files": [
+                {
+                  "filename": "Rusliyawati_2021_J._Phys.__Conf._Ser._1751_012041.pdf",
+                  "hash": "1948d551338d5848193ade4c4ca0ac50",
+                  "mtime": "2021-11-03 14:54:54",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 409330,
+                  "filesize": 755514,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409330",
+                  "objectid": 155643
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34958",
+      "type": "article",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "issn": "1742-6596",
+      "creators": [
+        {
+          "name": {
+            "given": "Rusliyawati",
+            "family": "Rusliyawati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Admi",
+            "family": "Syarif",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Wantoro",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Journal of Physics: Conference Series 1751",
+      "id_number": "doi:10.1088\/1742-6596\/1751\/1\/012041",
+      "date": 2021,
+      "dir": "disk0\/00\/03\/49\/58",
+      "status_changed": "2021-11-04 01:13:38",
+      "eprint_status": "archive",
+      "abstract": "Cancer is one of the leading causes of death worldwide. One type of cancer that causes death in\r\nthe male population is prostate cancer. This disease occurs only in men because in women they do not have\r\na prostate appearance. The aim of this study was to compare the accuracy of the model with the predict ions\r\nof prostate cancer specialists. Prediction is made based on prostate specific antigen data, age, and patient\r\nprostate volume. The independent variables in this study were prostate specific antigen, age, and prostate\r\nvolume. The dependent variable is the risk of prostate cancer using a fuzzy model. The novelty of this study\r\nis that the model has a low, moderate, high, and very high prostate cancer risk level output. In the previous article only PCR values were produced. The results show that the proposed fuzzy model provides a PCR value that is within the PCR interval predicted by a specialist doctor can be used properly to help diagnose and analyze the possibility of prostate cancer and is one of the considerations for doctors to decide whether or not a biopsy is needed for these patients.",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Implementation of Fuzzy-based Model for Prediction of Prostate Cancer",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprintid": 34958,
+      "date_type": "published"
+    },
+    {
+      "abstract": "Personality disorder is known as chronic psychological disorders. It is a serious\r\nproblem of the individual character and behavior that affect work, family and social life of a\r\nperson. In many cases, the possibility of people do not realize that they have a personality\r\ndisorder as a way of thinking and behaving seems natural to the patient, and the patient may\r\nblame others. To diagnose a personality disorder early, it is necessary to develop a system that is able to predict personality disorders and recommendation type of therapy patients should undergo. Artificial Intelligence is a technique that is very popular today. Various kinds of approaches and algorithms can be applied in the world of health, such as expert systems, neural networks and fuzzy logic. The aim of this study is to assess the artificial intelligence approach in predicting and recommending the type of therapy for patients with personality disorders",
+      "subjects": [
+        "QA75"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-11-04 01:13:35",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "title": "Implementation of Various Artificial Intelligence Approach for Prediction and Recommendation of Personality Disorder Patient",
+      "date_type": "published",
+      "eprintid": 34957,
+      "datestamp": "2021-11-04 01:13:35",
+      "lastmod": "2021-11-04 01:13:35",
+      "userid": 883,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34957",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "eprintid": 34957,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 155642,
+            "main": "Sulistiani_2021_J._Phys.__Conf._Ser._1751_012040.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-03 14:50:52",
+                  "hash": "c7d54bd50b62bf536309e43e8ee9a5a5",
+                  "filename": "Sulistiani_2021_J._Phys.__Conf._Ser._1751_012040.pdf",
+                  "fileid": 409324,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1281006,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409324",
+                  "objectid": 155642
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155642",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "IOP Publishing",
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "date": 2021,
+      "dir": "disk0\/00\/03\/49\/57",
+      "creators": [
+        {
+          "id": "henisulistiani@teknokrat.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sulistiani",
+            "lineage": null,
+            "given": "Heni"
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "Admi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif"
+          }
+        }
+      ],
+      "issn": "1742-6596",
+      "publication": "Journal of Physics: Conference Series 1751"
+    }
+]
+

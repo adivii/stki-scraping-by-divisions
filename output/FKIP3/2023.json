@@ -1,0 +1,196 @@
+[
+    {
+      "datestamp": "2023-04-03 00:57:23",
+      "pagerange": "96-106",
+      "lastmod": "2023-04-03 00:57:23",
+      "userid": 864,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49561",
+      "publisher": "Universitas PGRI Madiun",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189195",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 189195,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537456",
+                  "mime_type": "application\/pdf",
+                  "fileid": 537456,
+                  "hash": "b5b14ab5c4f32af84b22ba486780fff7",
+                  "filename": "Sugeng Sutiarso_Anggota2_Maret 2023.pdf",
+                  "mtime": "2023-04-02 02:08:32",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 996685
+                }
+            ],
+            "main": "Sugeng Sutiarso_Anggota2_Maret 2023.pdf",
+            "docid": 189195,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49561
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FKIP3"
+      ],
+      "type": "article",
+      "id_number": "10.25273\/jems.v11i1.14192",
+      "date": "2023-03-01",
+      "dir": "disk0_bak\/00\/04\/95\/61",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hapsari",
+            "given": "Elisabeth Reni"
+          },
+          "id": "elisabethrenihapsari@gmail.com"
+        },
+        {
+          "id": "herpratiwi.1964@fkip.unila.ac.id",
+          "name": {
+            "given": "Herpratiwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herpratiwi"
+          }
+        },
+        {
+          "id": "sugeng.sutiarso@fkip.unila.ac.id",
+          "name": {
+            "family": "Sutiarso",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sugeng"
+          }
+        }
+      ],
+      "issn": "2502-4671",
+      "publication": "Jurnal Edukasi Matematika dan Sains (JEMS)",
+      "subjects": [
+        "LB1603"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/e-journal.unipma.ac.id\/index.php\/JEMS\/article\/view\/14192"
+        }
+      ],
+      "status_changed": "2023-04-03 00:57:23",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 11,
+      "official_url": "http:\/\/e-journal.unipma.ac.id\/index.php\/JEMS\/article\/view\/14192",
+      "title": "Lembar Kerja Peserta Didik (LKPD) Problem Based Learning Matematika Berbasis Digital Di SMP",
+      "date_type": "published",
+      "eprintid": 49561
+    },
+    {
+      "date": 2023,
+      "dir": "disk0_bak\/00\/04\/77\/29",
+      "publication": "INTERNATIONAL JOURNAL OF EDUCATIONAL STUDIES IN SOCIAL SCIENCES 2023",
+      "creators": [
+        {
+          "name": {
+            "given": "SM",
+            "lineage": null,
+            "honourific": null,
+            "family": "Septi Maryanti"
+          },
+          "id": null
+        },
+        {
+          "id": "undangros@yahoo.com",
+          "name": {
+            "given": "UR",
+            "lineage": null,
+            "family": "Undang Rosidin",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "EYH",
+            "family": "Een Yayah Haenilah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Dwi Yulianti",
+            "lineage": null,
+            "given": "Dwi"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP3"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47729",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522659",
+                  "objectid": 186821,
+                  "filesize": 657631,
+                  "datasetid": "document",
+                  "filename": "document.pdf",
+                  "hash": "301b1f4eaf044a7a5c8c1c41ac0036a3",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-11 08:29:11",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522659
+                }
+            ],
+            "docid": 186821,
+            "main": "document.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186821",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47729,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "7-13",
+      "datestamp": "2023-01-11 09:39:31",
+      "lastmod": "2023-01-11 09:39:31",
+      "userid": 559,
+      "eprintid": 47729,
+      "volume": 3,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "ttps:\/\/doi.org\/10.53402\/ijesss.v3i1.232",
+      "title": "Developing a culture-based assessment instrument to assess second-graders' cultural\r\nattitudes: A case study in a private elementary school in Bandar Lampung City",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The purpose of this research was to develop a culturally charged assessment instrument that is\r\nappropriate and practicable for measuring cultural attitudes at SD Al Kautsar Bandar Lampung.\r\nThis is a development research approach that used the Borg & Gall design with a one-group\r\nposttest-only design. This study's population was SD Al Kautsar Raja Basa Bandar Lampung in class\r\nII SD, which included 9 teachers and 225 students. The research was conducted in class II SD Al\r\nKautsar Bandar Lampung with a sample consisting of 10 students and 2 class II teachers. The large\r\ngroup trial consisted of 32 students and 3 class II teachers. The results of this study indicate that\r\nthe developed culturally charged assessment instrument is feasible based on the results of expert\r\nvalidation with an average of 85.8%. Furthermore, significant differences in the findings of\r\nobservations of respect and obedience to teachers were discovered. The results of small and large\r\ngroup practitioners yielded an average score of 85.8% for student practitioner responses and\r\n80.5% for educator practitioner responses, indicating the practicability of culturally charged\r\nassessment instrument products. Thus, it can be concluded that the assessment instrument for\r\nmeasuring school culture in class II SD Al Kautsar Bandar Lampung Theme 4 sub-theme 4\r\ndeveloped using the Borg and Gall R&D steps of thematic learning in class II SD Al Kautsar Bandar\r\nLampung Theme 4 sub-theme 4 is feasible and practicable for use in research.",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-11 09:39:31"
+    }
+]
+

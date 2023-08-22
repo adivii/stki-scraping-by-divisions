@@ -1,0 +1,280 @@
+[
+    {
+      "dir": "disk0\/00\/00\/88\/57",
+      "date": "2013-10-22",
+      "creators": [
+        {
+          "name": {
+            "family": "Fauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "M. Mahfud"
+          },
+          "id": null
+        },
+        {
+          "id": "noor.fadiawati@fkip.unila.ac.id",
+          "name": {
+            "given": "Noor",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fadiawati"
+          }
+        },
+        {
+          "id": "kadaritna@yahoo.com",
+          "name": {
+            "given": "Nina",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kadaritna"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP21"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8857",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8857,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21935",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 8848632,
+                  "mime_type": "application\/pdf",
+                  "fileid": 85956,
+                  "hash": "f38044959beb52e0a2ac3899160386da",
+                  "filename": "Noor Fadiawati_Proceeding ICICS 2013.pdf",
+                  "mtime": "2018-10-03 12:44:12",
+                  "hash_type": "MD5",
+                  "objectid": 21935,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85956"
+                }
+            ],
+            "docid": 21935,
+            "main": "Noor Fadiawati_Proceeding ICICS 2013.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2018-10-29 04:14:23",
+      "pagerange": "29-33",
+      "lastmod": "2018-10-29 04:14:23",
+      "userid": 624,
+      "event_location": "Yogyakarta",
+      "date_type": "published",
+      "eprintid": 8857,
+      "event_title": "the 2nd International Confrence of the Indonesian Chemical Society 2013",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "title": "Chemical Equilibrium Topic Through Chemical Representation Learning",
+      "event_dates": "22 - 23 October 2013",
+      "abstract": "Study focus is on the development of learning chemistry on the last two decades that more emphasis on three-dimensional representations: macroscopic, microscopic, and symbolic. Thinking in three dimensions is acharacteristic of chemical disciplines. The essence in the chemistry form of process,\r\nattitude, and products need to be considered equally important. The quasi-experiment study with non equivalent pretest-posttest control group design is aimed to describe the students’s mastery of competencies and representation ability of group XI IPA SMAN 1 Seputih Raman Central Lampung\r\nin chemical equilibrium topic. The results showed the average value N-gain the mastery of competencies for the control group and experiment group respectively 0.2020 and 0.4326 and the average value N-gain the representation ability for the control and experiment group respectively -0.0622 and 0.5275. Based on hypothesis testing, conclude that the mastery of competence and the representation ability of students who study through this learning will be better than the mastery of competence and the reptesentation ability of students who study through conventional learning.",
+      "subjects": [
+        "LB1603"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-10-29 04:14:23"
+    },
+    {
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp",
+      "title": "EFEKTIVITAS MODEL PEMBELAJARAN BERBASIS MULTIPEL REPRESENTASI DALAM MEMBANGUN MODEL MENTAL MAHASISWA TOPIK STOIKIOMETRI REAKSI",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 3,
+      "status_changed": "2018-02-05 09:49:32",
+      "eprint_status": "archive",
+      "abstract": "Issues examined in this study is whether learning by using multiple representations model (named SiMaYang) more effective in build mental models than conventional learning? The design in this study is a pretest and posttest control group design. The population in this study was students of Department of Mathematics and Science Education at the Teacher Training and Education of Lampung University at odd semester 2012\/2013. The research sample taken randomly by stratified random sampling technique to obtain the experimental and control classes. The results of the research show that (1) SiMaYang learning model more effective in building student mental models compared to learning model that has been used by basic chemistry lecturers. (2) Implementation of SiMaYang learning model was able to build student mental models in learining of stoikiormetry topic. (3) After the implementation of SiMaYang model, student mental models on the topic of stoichiometry formed by the categories of \"good\" and \"very good\", with the characteristics of \"consensus\" and \"target\". Findings indicated that macro–submicro–symbolic teaching by used SiMaYang model could be enhancing student mental models and learning effectivity of chemical reactions. Implications for instruction are clearly addressed in the discussion and recommended that SiMaYang learning model can be used as an alternative model of effective and efficient learning in developing a high level of understanding.",
+      "subjects": [
+        "L1"
+      ],
+      "eprintid": 6331,
+      "date_type": "published",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6331,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-10 03:23:35",
+                  "filename": "Jurnal JPP_SUNYONO_2013.pdf",
+                  "hash": "803a74348ed126be57f2336f808b4bf2",
+                  "fileid": 58889,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1287787,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/58889",
+                  "objectid": 19256
+                }
+            ],
+            "main": "Jurnal JPP_SUNYONO_2013.pdf",
+            "docid": 19256,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19256",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "FKIP Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6331",
+      "userid": 1028,
+      "lastmod": "2018-02-05 09:49:32",
+      "pagerange": "65-79",
+      "datestamp": "2018-02-05 09:49:32",
+      "issn": "2087 – 9849",
+      "creators": [
+        {
+          "name": {
+            "family": "Sunyono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sunyono"
+          },
+          "id": "sunyono.1965@fkip.unila.ac.id"
+        },
+        {
+          "id": "yuanita@sby.dnet.net.id",
+          "name": {
+            "given": "Yuanita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Leny"
+          }
+        },
+        {
+          "name": {
+            "given": "Ibrahim",
+            "family": "Muslimin",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "muslimin_ibrahim@yahoo.com"
+        }
+      ],
+      "publication": "Journal Pendidikan Progresif",
+      "date": "2013-04",
+      "dir": "disk0\/00\/00\/63\/31",
+      "type": "article",
+      "divisions": [
+        "FKIP21"
+      ]
+    },
+    {
+      "divisions": [
+        "FKIP21"
+      ],
+      "type": "conference_item",
+      "date": "2013-01-19",
+      "dir": "disk0\/00\/02\/34\/99",
+      "creators": [
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sunyono",
+            "given": "Sunyono"
+          }
+        },
+        {
+          "id": "yuanita@sby.dnet.net.id",
+          "name": {
+            "given": "Leny",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yuanita"
+          }
+        },
+        {
+          "name": {
+            "family": "Muslimin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ibarhim"
+          },
+          "id": "muslimin_ibrahim@yahoo.com"
+        }
+      ],
+      "pagerange": "499-509",
+      "datestamp": "2020-08-04 01:54:12",
+      "lastmod": "2020-08-04 01:54:12",
+      "userid": 1028,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23499",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37119",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 37119,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214834",
+                  "datasetid": "document",
+                  "filesize": 1473476,
+                  "mime_type": "application\/pdf",
+                  "fileid": 214834,
+                  "filename": "OK_Prosiding Semnas Unesa_2013 Sunyono.pdf",
+                  "hash": "48c9ada1bccbb723e6a7482d74e3889c",
+                  "mtime": "2020-08-03 07:00:10",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "OK_Prosiding Semnas Unesa_2013 Sunyono.pdf",
+            "docid": 37119,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 23499
+          }
+      ],
+      "pres_type": "paper",
+      "event_title": "Seminar Nasional Pendidikan Sains, 2013.",
+      "eprintid": 23499,
+      "event_location": "Universitas Negeri Surabaya",
+      "subjects": [
+        "LB",
+        "LB2300"
+      ],
+      "abstract": "Masalah yang diajukan dalam penelitian ini adalah bagaimana keterkaitan antara model mental dengan penguasaan konsep mahasiswa pada topik Stoikiometri melalui pembelajaran dengan menggunakan model SiMaYang? Desain yang digunakan dalam penelitian ini adalah pretest and posttest control group design. Populasi pada penelitian ini adalah mahasiswa Jurusan Pendidikan Matematika dan IPA pada Fakultas Keguruan dan Ilmu Pendidikan di Universitas Lampung yang mengambil mata kuliah Kimia Dasar di semester genap 2012\/2013. Sampel penelitian ditentukan secara acak untuk mendapatkan kelas eksperimen dan kelas kontrol. Hasil penelitian menunjukkan bahwa (1) Model pembelajaran SiMaYang dapat meningkatkan penguasaan konsep stoikiometri mahasiswa dengan skor N-Gain = 0,63 atau kategori “sedang”. Pada kelas kontrol dengan pembelajaran konvensional skor N-Gain peningkatan penguasaan konsep stoikiometri mahasiswa sebesar 0,43 atau berkategori “sedang”. (2) Model pembelajaran SiMaYang dapat menumbuhkan model mental stoikiometri mahasiswa dengan kategori “sedang” (skor N-Gain = 0,56) yang lebih tinggi dibandingkan kelas kontrol yang pembelajarannya dilakukan dengan model konvensional memiliki skor = 0,22 atau kategori “rendah”. (3) Keterkaitan antara model mental mahasiswa dengan penguasaan konsep pada topik stoikiometri cukup kuat. Dalam hal ini, model mental mahasiswa dapat mempengaruhi penguasaan konsep stoikiometri mahasiswa, begitu juga penguasaan konsep sebelumnya dapat membantu mahasiswa dalam menumbuhkan model mentalnya.",
+      "status_changed": "2020-08-04 01:54:12",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/docplayer.info\/32325149-Keterkaitan-model-mental-mahasiswa-dengan-penguasaan-konsep-stoikiometri-sebelum-dan-sesudah-pembelajaran-dengan-model-simayang.html"
+        }
+      ],
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "KETERKAITAN MODEL MENTAL MAHASISWA DENGAN PENGUASAAN KONSEP STOIKIOMETRI SEBELUM DAN SESUDAH PEMBELAJARAN DENGAN MODEL SiMaYang",
+      "official_url": "https:\/\/docplayer.info\/32325149-Keterkaitan-model-mental-mahasiswa-dengan-penguasaan-konsep-stoikiometri-sebelum-dan-sesudah-pembelajaran-dengan-model-simayang.html",
+      "event_dates": "19 Januari 2013"
+    }
+]
+

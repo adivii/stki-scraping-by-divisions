@@ -1,0 +1,125 @@
+[
+    {
+      "eprintid": 31879,
+      "rev_number": 11,
+      "metadata_visibility": "show",
+      "title": "Sejarah Eropa",
+      "subjects": [
+        "L1",
+        "LC5201"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-06-03 07:58:30",
+      "date": "2008-02-16",
+      "dir": "disk0\/00\/03\/18\/79",
+      "creators": [
+        {
+          "name": {
+            "family": "Muhammad Basri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhammad Basri"
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FKIP24"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31879",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "PDKI Indonesia",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 144354,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377366",
+                  "datasetid": "document",
+                  "filesize": 56491747,
+                  "mime_type": "application\/pdf",
+                  "fileid": 377366,
+                  "hash": "103bfb70e2a8f49e0ce1971dfa96882f",
+                  "filename": "Sejarah Eropa-HKI.pdf",
+                  "mtime": "2021-06-03 07:33:16",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 144354,
+            "main": "Sejarah Eropa-HKI.pdf",
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144354",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31879,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377369",
+                  "objectid": 144355,
+                  "filesize": 2177862,
+                  "datasetid": "document",
+                  "mtime": "2021-06-03 07:33:30",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_SEJARAH EROPA.pdf",
+                  "hash": "124b34d681dc17d4b1ce1b21f26d49a3",
+                  "fileid": 377369,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "sertifikat_SEJARAH EROPA.pdf",
+            "docid": 144355,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144355",
+            "rev_number": 2,
+            "formatdesc": "Sertifikat",
+            "pos": 2,
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 31879,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144356",
+            "formatdesc": "Reviewer",
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 144356,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377372",
+                  "fileid": 377372,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-03 07:33:47",
+                  "filename": "7 hki SEJARAH EROPA.pdf",
+                  "hash": "6420779f1796b5e027aaf2bc5ad51e04",
+                  "datasetid": "document",
+                  "filesize": 565890
+                }
+            ],
+            "main": "7 hki SEJARAH EROPA.pdf",
+            "docid": 144356,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 31879
+          }
+      ],
+      "datestamp": "2021-06-03 07:58:30",
+      "lastmod": "2021-06-03 07:58:30",
+      "userid": 573
+    }
+]
+

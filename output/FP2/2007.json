@@ -1,0 +1,71 @@
+[
+    {
+      "event_location": "Bogor - Indonesia",
+      "event_title": "Konferensi Nasional Konservasi Serangga",
+      "eprintid": 163,
+      "event_dates": "29 January 2007",
+      "title": "Keanekaragaman serangga Indonesia, posisinya di dunia, dan perubahan tataguna lahan: Kasus rayap",
+      "event_type": "conference",
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "status_changed": "2016-07-18 07:48:41",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Susilo",
+            "given": "FX"
+          }
+        }
+      ],
+      "date": 2007,
+      "dir": "disk0\/00\/00\/01\/63",
+      "type": "conference_item",
+      "divisions": [
+        "FP2"
+      ],
+      "ispublished": "unpub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/177",
+            "docid": 177,
+            "main": "Termite Diversity - Indonesia (Susilo 2007).pdf",
+            "files": [
+                {
+                  "fileid": 976,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-07-15 03:16:43",
+                  "hash_type": "MD5",
+                  "filename": "Termite Diversity - Indonesia (Susilo 2007).pdf",
+                  "hash": "a3fd06a6271c2b99810ccddcd489b67a",
+                  "datasetid": "document",
+                  "filesize": 2544955,
+                  "objectid": 177,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/976"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 163,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/163",
+      "refereed": "FALSE",
+      "userid": 1054,
+      "lastmod": "2016-07-18 07:48:41",
+      "datestamp": "2016-07-18 07:48:41"
+    }
+]
+

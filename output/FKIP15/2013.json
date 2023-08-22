@@ -1,0 +1,72 @@
+[
+    {
+      "type": "other",
+      "divisions": [
+        "FKIP15"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Neni",
+            "family": "Hasnunidah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "nenihasnunidah@gmail.com"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/11",
+      "date": 2013,
+      "lastmod": "2023-04-25 11:23:02",
+      "userid": 986,
+      "datestamp": "2023-04-25 11:23:02",
+      "publisher": "Jurusan Biologi, FMIPA, Universitas Negeri Malang",
+      "documents": [
+          {
+            "docid": 190417,
+            "main": "PEMBELAJARAN_BIOLOGI_DENGAN_STRATEGI_ARG.pdf.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546444",
+                  "objectid": 190417,
+                  "filesize": 474589,
+                  "datasetid": "document",
+                  "filename": "PEMBELAJARAN_BIOLOGI_DENGAN_STRATEGI_ARG.pdf.pdf",
+                  "hash": "876a9766b77d091b2264e03b74747009",
+                  "mtime": "2023-04-23 16:59:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 546444
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190417",
+            "rev_number": 1,
+            "eprintid": 50711,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50711",
+      "eprintid": 50711,
+      "eprint_status": "archive",
+      "status_changed": "2023-04-25 11:23:02",
+      "subjects": [
+        "L1"
+      ],
+      "title": "Check Similarity: PEMBELAJARAN BIOLOGI DENGAN STRATEGI ARGUMENT-DRIVEN INQUIRY DAN KETERAMPILAN ARGUMENTASI PESERTA DIDIK",
+      "metadata_visibility": "show",
+      "rev_number": 7
+    }
+]
+

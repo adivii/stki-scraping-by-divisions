@@ -1,0 +1,253 @@
+[
+    {
+      "isbn": "978-623-7560-09-8",
+      "eprintid": 21900,
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-06-04 20:57:25",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar LAmpung",
+      "rev_number": 8,
+      "title": "PENDAMPINGAN MANAJEMEN PENINGKATAN MUTU LAYANAN GURU \r\nPADA KOMPETENSI PEDAGOGIK (PANDUAN KOMPREHENSIF PEMBINAAN GURU)",
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "book",
+      "pages": 192,
+      "date": "2019-10",
+      "dir": "disk0\/00\/02\/19\/00",
+      "creators": [
+        {
+          "id": "eenhaenilah@gmail.com",
+          "name": {
+            "given": "Een Y.",
+            "family": "Haenilah",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ridwan",
+            "given": "Ridwan"
+          },
+          "id": "ridwanrosidimuawi@gmail.com"
+        },
+        {
+          "id": "hasan.hariri@staff.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hariri",
+            "honourific": null,
+            "given": "Hasan"
+          }
+        },
+        {
+          "name": {
+            "family": "Karwan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dedy H."
+          },
+          "id": "dhkarwan@yahoo.co.id"
+        }
+      ],
+      "datestamp": "2020-06-04 20:57:25",
+      "lastmod": "2020-06-04 20:57:25",
+      "userid": 214,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21900",
+      "publisher": "Pusaka Media",
+      "documents": [
+          {
+            "eprintid": 21900,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 35318,
+            "main": "Hariri_Buku Ajar Pendampingan Manajemen Peningkatan Mutu.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 310761,
+                  "mime_type": "application\/pdf",
+                  "fileid": 202311,
+                  "filename": "Hariri_Buku Ajar Pendampingan Manajemen Peningkatan Mutu.pdf",
+                  "hash": "7c18856f8c1f7157b56a76e217999816",
+                  "mtime": "2020-06-04 16:50:39",
+                  "hash_type": "MD5",
+                  "objectid": 35318,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/202311"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35318"
+          }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "type": "book",
+      "divisions": [
+        "FKIP6"
+      ],
+      "creators": [
+        {
+          "id": "eenhaenilah@gmail.com",
+          "name": {
+            "given": "Een Y.",
+            "honourific": null,
+            "family": "Haenilah",
+            "lineage": null
+          }
+        },
+        {
+          "id": "ridwanrosidimuawi@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ridwan",
+            "given": "Ridwan"
+          }
+        },
+        {
+          "id": "hasan.hariri@staff.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hariri",
+            "given": "Hasan"
+          }
+        },
+        {
+          "name": {
+            "family": "Karwan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dedy H."
+          },
+          "id": "dhkarwan@yahoo.co.id"
+        }
+      ],
+      "pages": 192,
+      "date": "2019-10",
+      "dir": "disk0\/00\/03\/40\/12",
+      "lastmod": "2021-09-21 00:57:09",
+      "userid": 214,
+      "datestamp": "2021-09-21 00:57:09",
+      "publisher": "Pusaka Media",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 34012,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154261",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 2378414,
+                  "datasetid": "document",
+                  "hash": "8a5c7c7bc394025f72f0ec18576f4b22",
+                  "filename": "KontenPendpgn.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-20 15:39:16",
+                  "mime_type": "application\/pdf",
+                  "fileid": 401668,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/401668",
+                  "objectid": 154261
+                }
+            ],
+            "docid": 154261,
+            "main": "KontenPendpgn.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34012",
+      "eprintid": 34012,
+      "isbn": "978-623-7560-09-8",
+      "succeeds": 33781,
+      "status_changed": "2021-09-21 00:57:09",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "title": "PENDAMPINGAN MANAJEMEN PENINGKATAN MUTU LAYANAN GURU \r\nPADA KOMPETENSI PEDAGOGIK (PANDUAN KOMPREHENSIF PEMBINAAN GURU)",
+      "place_of_pub": "Bandar LAmpung",
+      "metadata_visibility": "show",
+      "rev_number": 5
+    },
+    {
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "article",
+      "date": 2019,
+      "dir": "disk0\/00\/01\/70\/37",
+      "publication": "Journal of Physics: Conference Series",
+      "creators": [
+        {
+          "id": "bujang.rahman@fkip.unila.ac.id",
+          "name": {
+            "given": "Bujang",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahman"
+          }
+        },
+        {
+          "name": {
+            "given": "abdurrahman",
+            "honourific": null,
+            "family": "abdurrahman",
+            "lineage": null
+          },
+          "id": "abdurrahman.1968@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hervin",
+            "lineage": null,
+            "family": "Maulina",
+            "honourific": null
+          },
+          "id": "hervin.maulina@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "Print : 1742-6588 Online : 1742-6596",
+      "datestamp": "2019-11-18 10:27:01",
+      "lastmod": "2019-11-18 10:27:01",
+      "userid": 435,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17037",
+      "full_text_status": "none",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "IOP Publishing",
+      "date_type": "published",
+      "eprintid": 17037,
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The roles and responsibilities of schools in dealing with 21st-century problems, especially those related to global climate change which treats the entire world, become a challenge for school communities to take part to overcome this problem we proposed Green School Based Management Model (Green SBM Model). Green SBM Model is a new model that has been proposed to be conducted in all schools in Lampung. Just because the existed SBM Model focused on school improvement plans\/ learning outcomes only (management of human resources, materials, finance, strategic planning, program management, and marketing oriented). Before conducting Green SBM Model, we do need assessment surve for the teacher in Lampung Indonesia to know teacher perception about global warming and its solution. The design of this study is a cross-sectional non-experimental descriptive survey approach using a questionnaire to 107 teachers in Lampung, Indonesia. Based on data analysis, it can be concluded that all of the teachers realized the negative impact of global warming and they should take a part in overcoming the negative impact of global warming. Besides that, teachers also believed that Green School Based Management Model is a powerful model which can be a solution to overcome the negative impact of global warming.",
+      "status_changed": "2019-11-18 10:27:01",
+      "eprint_status": "archive",
+      "volume": 1155,
+      "rev_number": 5,
+      "metadata_visibility": "show",
+      "title": "Green School Based Management Model as A Powerful Alternative Solution to Overcome Global Climate Change: A Need Assessment Survey Analysis of Teacher in Lampung, Indonesia"
+    }
+]
+

@@ -1,0 +1,1426 @@
+[
+    {
+      "date_type": "published",
+      "department": "FMIPA-KIMIA",
+      "eprintid": 46084,
+      "institution": "Lampung University",
+      "subjects": [
+        "Q1"
+      ],
+      "status_changed": "2022-10-31 01:03:57",
+      "eprint_status": "archive",
+      "place_of_pub": "Lembaga Penelitian-UNIVERSITAS LAMPUNG",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Kitin:Kitosan",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "monograph",
+      "monograph_type": "working_paper",
+      "id_number": "978-979-8510-60-1",
+      "date": "2013-10",
+      "dir": "disk0\/00\/04\/60\/84",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hendri",
+            "given": "John"
+          },
+          "id": "john.hendri@fmipa.unila.ac.id"
+        },
+        {
+          "id": "aspita.laila@fmipa.unila.ac.id",
+          "name": {
+            "given": "Aspita",
+            "family": "Laila",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2022-10-31 01:03:57",
+      "lastmod": "2022-10-31 01:03:57",
+      "userid": 1077,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46084",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46084,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 184906,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509794",
+                  "mime_type": "application\/pdf",
+                  "fileid": 509794,
+                  "filename": "Kitin Kitosan - John Hendri.pdf",
+                  "hash": "b8a49d263596ccbe41b99756eede4e08",
+                  "mtime": "2022-10-29 13:02:00",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 3513158
+                }
+            ],
+            "docid": 184906,
+            "main": "Kitin Kitosan - John Hendri.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184906",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Lembaga Penelitian-UNIVERSITAS LAMPUNG",
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Microbial Community Dynamics during Composting Process and Cultivation of Komatsuna.",
+      "status_changed": "2018-04-25 02:30:37",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6653",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61328",
+                  "objectid": 19617,
+                  "filename": "isets 2013.pdf",
+                  "hash": "659e55dad19597be4d1f04eaa4ad5bfa",
+                  "hash_type": "MD5",
+                  "mtime": "2018-03-29 07:19:19",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61328,
+                  "filesize": 3779141,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 19617,
+            "main": "isets 2013.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19617",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6653,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "userid": 134,
+      "dir": "disk0\/00\/00\/66\/53",
+      "creators": [
+        {
+          "name": {
+            "given": "Ni Luh Gede Ratna",
+            "lineage": null,
+            "family": "Juliasih",
+            "honourific": null
+          },
+          "id": "ratnagede.juliasih@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Yuang",
+            "honourific": null,
+            "lineage": null,
+            "given": "Lee Chang"
+          }
+        },
+        {
+          "name": {
+            "given": "Yuki",
+            "honourific": null,
+            "family": "Sago",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Atsuta",
+            "lineage": null,
+            "given": "Yoichi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Daimon",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hiroyuki"
+          },
+          "id": "daimon@ens.tut.ac.jp"
+        }
+      ],
+      "funders": [
+        "Nagoya University, Japan"
+      ],
+      "event_type": "conference",
+      "official_url": "http:\/\/www.esi.nagoya-u.ac.jp\/h\/isets13\/",
+      "event_dates": "13 - 15 Desember 2013",
+      "abstract": "Quinone profile has widely used as an effective method for defined of microbial community dynamics.  Supercritical fluid extraction (SFE) found to be effective, rapid and quantitative technique to extract quinone from various environmental samples instead of the conventional solvent extraction.  In this present work, quinone profile method using SFE was used to monitor microbial community in the composting process and the cultivation of komatsuna.  The results showed that compost can improve the biological properties of soil and growth of plant. In the future study, the microbiological assessment should be more concerned as well as chemical and physical properties of compost to provide the best quality of compost",
+      "subjects": [
+        "QD",
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "event_location": "Nagoya, Jepang",
+      "projects": [
+        "International Symposium on EcoTopia Science"
+      ],
+      "date_type": "published",
+      "eprintid": 6653,
+      "event_title": "International Symposium on EcoTopia Science 2013",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2018-04-25 02:30:37",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "lastmod": "2018-04-25 02:30:37",
+      "date": "2013-12-13",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "article",
+      "date": "2013-01-21",
+      "dir": "disk0\/00\/00\/12\/86",
+      "publication": "Indonesian Journal of Chemistry",
+      "issn": "1411 9420",
+      "creators": [
+        {
+          "name": {
+            "given": "Kamisah Delilawati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pandiangan"
+          },
+          "id": "kamisahdelilawati@yahoo.com"
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Simanjuntak",
+            "honourific": null,
+            "given": "Wasinton"
+          }
+        }
+      ],
+      "datestamp": "2016-12-06 01:12:04",
+      "pagerange": "47-52",
+      "lastmod": "2016-12-06 01:12:04",
+      "userid": 761,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1286",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Chemistry Department, UGM",
+      "documents": [
+          {
+            "main": "TRANSESTERIFICATION OF COCONUT OIL USING DIMETHYL CARBONATE AND.pdf",
+            "docid": 1161,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8621",
+                  "objectid": 1161,
+                  "filesize": 1194076,
+                  "datasetid": "document",
+                  "hash": "4f20ab3adffafa18d96c23ae3d666572",
+                  "filename": "TRANSESTERIFICATION OF COCONUT OIL USING DIMETHYL CARBONATE AND.pdf",
+                  "mtime": "2016-12-05 05:24:48",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 8621
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1161",
+            "rev_number": 1,
+            "eprintid": 1286,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 1286,
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "In this study, transesterification of coconut oil with dimethyl carbonate (DMC) for preparing biodiesel has been\r\nstudied using TiO2\/SiO2 as heterogeneous catalyst, with the main purpose to investigate the effect of molar ratio of\r\nDMC to oil. The product was analyzed by GC-MS to identify the fatty acid methyl esters (FAMEs) composting the\r\nbiodiesel. The significant role of the DMC to oil ratio was observed in this study, in which the oil conversion was\r\nfound to increase with increasing molar ratio of DMC : Oil, with the highest percent of conversion of 88.44%. The\r\nGC-MS analysis revealed the presence of methyl esters in accordance with the composition of coconut oil commonly\r\nreported. Formation of FAMEs was verified by 1H-NMR spectroscopic analysis, which also suggested that some of\r\nthe fatty acids remain unconverted into biodiesel. The biodiesel produced was found to have kinematic viscosity of\r\n2.4 mm2\/S at 40 °C, flash point of 103 °C, and cetane number of 54.",
+      "status_changed": "2016-12-06 01:12:04",
+      "eprint_status": "archive",
+      "volume": 13,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "TRANSESTERIFICATION OF COCONUT OIL USING DIMETHYL CARBONATE AND TiO2\/SiO2 HETEROGENEOUS CATALYST",
+      "official_url": "http:\/\/pdm-mipa.ugm.ac.id\/ojs\/index.php\/ijc\/article\/view\/726"
+    },
+    {
+      "title": "Molecular Marker of Sewage Contamination: Distribution of Linear Alkyl Benzenes (LABs) in Jakarta River",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/semirata",
+      "event_dates": "10-12 Mei 2013",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2018-02-28 08:24:37",
+      "abstract": "Abstrak. This study presents the result of sewage pollution monitoring in sediments collected from 13 rivers that run through Jakarta city in 2010 using linear alkyl benzenes (LABs) as molecular marker of sewage contamination.  The surface sediments samples were extracted by pressure liquid extraction, purified by two-step silica gel column chromatography, and analyzed by gas chromatograph (GC)-mass spectrometer (MS).  The result clearly revealed high total LABs concentrations (6171-1559373 ng\/g-dry weight) in all sampling locations.  I\/E ratios (a ratio of internal to external isomers of LABs) ranged 0.9-1.3, were close to the I\/E ratios in raw sewage.  The high concentrations of LABs with low I\/E ratios showed that the rivers in Jakarta are heavily affected by untreated sewage.   This study highlights the urgently needed of water treatment system in Jakarta.",
+      "subjects": [
+        "QD"
+      ],
+      "event_location": "Universitas Lampung",
+      "eprintid": 6546,
+      "event_title": "Semirata MIPA BKSN Barat Unila",
+      "date_type": "published",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 388901,
+                  "datasetid": "document",
+                  "mtime": "2018-02-27 09:00:21",
+                  "hash_type": "MD5",
+                  "filename": "Rinawati_makalah semirata Unila 2013.pdf",
+                  "hash": "fdbf6437a90b996474ede6fa55509d39",
+                  "fileid": 60488,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60488",
+                  "objectid": 19496
+                }
+            ],
+            "docid": 19496,
+            "main": "Rinawati_makalah semirata Unila 2013.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19496",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6546,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6546",
+      "lastmod": "2018-02-28 08:24:37",
+      "userid": 489,
+      "pagerange": "345-349",
+      "datestamp": "2018-02-28 08:24:37",
+      "creators": [
+        {
+          "name": {
+            "given": "Rinawati",
+            "lineage": null,
+            "family": "Rinawati",
+            "honourific": null
+          },
+          "id": "rinawati@fmipa.unila.ac.id"
+        },
+        {
+          "id": "shige@cc.tuat.ac.jp",
+          "name": {
+            "given": "Hideshige",
+            "lineage": null,
+            "family": "Takada",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/65\/46",
+      "date": "2013-05",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA4"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 9512,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2012100,
+                  "fileid": 90607,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-11-05 02:34:59",
+                  "hash_type": "MD5",
+                  "filename": "Characteristics of aluminosilicates prepared from rice husk silica and.pdf",
+                  "hash": "75d9f6b3ea7caa0473091f665e2f85b7",
+                  "objectid": 22550,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/90607"
+                }
+            ],
+            "docid": 22550,
+            "main": "Characteristics of aluminosilicates prepared from rice husk silica and.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22550",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Elsevier",
+      "ispublished": "pub",
+      "number": 8,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9512",
+      "userid": 882,
+      "lastmod": "2018-11-06 03:06:30",
+      "pagerange": "9369-9375",
+      "datestamp": "2018-11-06 03:06:30",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Simanjuntak",
+            "given": "Wasinton"
+          },
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Simon",
+            "family": "Sembiring",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "simon.sembiring@fmipa."
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Manurung",
+            "honourific": null,
+            "given": "Posman"
+          },
+          "id": "reip65@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null,
+            "given": "Rudy T.M"
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "I.M",
+            "lineage": null,
+            "family": "Low",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "0272-8842",
+      "publication": "Ceramic Internasional",
+      "dir": "disk0\/00\/00\/95\/12",
+      "date": 2013,
+      "type": "article",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "official_url": "http:\/\/www.elsevier.com\/locate\/ceramint",
+      "title": "Characteristics of aluminosilicates prepared from rice husk silica and aluminum metal",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 39,
+      "status_changed": "2018-11-06 03:06:30",
+      "eprint_status": "archive",
+      "abstract": "This study investigated the use of the electrochemical method to prepare aluminosilicates from rice husk silica and aluminum metal. The aluminosilicate precursors were characterized using Scanning Electron Microscopy\/Energy Dispersive X-ray spectroscopy (SEM\/EDX), Fourier\r\nTransform Infrared (FTIR) spectroscopy, and X-ray Diffraction spectroscopy (XRD). The precursors were subsequently sintered at 700–1400 oC and their microstructures and phase compositions were characterized. Results showed that the proposed method could be used to prepare aluminosilicates with high uniformity in terms of surface morphology and the particle size with mullite and quartz as the major phases formed.",
+      "subjects": [
+        "QD"
+      ],
+      "eprintid": 9512,
+      "date_type": "published"
+    },
+    {
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 6444,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 19385,
+            "main": "Article Rudy_ICICS2013.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59705",
+                  "objectid": 19385,
+                  "filename": "Article Rudy_ICICS2013.pdf",
+                  "hash": "b1761ca0b5b2d9cf50ce8fca2501bdb1",
+                  "mtime": "2018-02-08 09:18:19",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 59705,
+                  "filesize": 1294403,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19385",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6444",
+      "refereed": "TRUE",
+      "lastmod": "2018-02-28 08:23:34",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "userid": 882,
+      "datestamp": "2018-02-28 08:23:34",
+      "pagerange": "103-110",
+      "creators": [
+        {
+          "name": {
+            "given": "Rudy T.M",
+            "family": "Situmeang",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "id": "r.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null,
+            "given": "R"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Septianto",
+            "lineage": null,
+            "given": "Mitro"
+          }
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Simanjuntak",
+            "honourific": null,
+            "given": "Wasinton"
+          }
+        },
+        {
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring"
+          },
+          "id": "simon.sembiring@fmipa."
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Roger",
+            "honourific": null,
+            "given": "Anne-Cecile"
+          },
+          "id": null
+        }
+      ],
+      "date": "2013-10-22",
+      "dir": "disk0\/00\/00\/64\/44",
+      "type": "conference_item",
+      "funders": [
+        "Universitas Islam Indonesia Yogyakarta"
+      ],
+      "divisions": [
+        "FMIPA4"
+      ],
+      "title": "NixCoyFe1-x-yO4 Nanocatalyst: Preparation, Characterization and Catalytic Activity in CO2\/H2 Conversion",
+      "event_dates": "22 - 23 October 2013",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-02-28 08:23:34",
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "NiyCoxFe(1-x-y)O4 nanocatalysts (with y = 0,2 and x = 0,1 – 0,3) have been prepared using a simultaneous method of sol – gel and ultra-sonocation. Starting materials used are nitrate salts of iron, nickel and cobalt which are dissolved in white egg solution, respectively before mixing process. After calcining and grinding, the nanocatalysts are characterized by use of X-ray diffraction (XRD) analysis, Infra Red spectroscopy (IR), and Scanning Electron Microscopy (SEM). X-ray diffraction analysis proved that the prepared nanocatalysts consist of various crystalline phases such as CoFe2O4 which is superimposed to NiFe2O4 as a major phase, Fe2O3, NiO, and Co3O4 as minor phases.  Therefore, it is concluded that crystalline phase of NiCoFe2O4 is formed. FTIR Analysis proved that Lewis acid sites is more dominant than BrØnsted – Lowry acid sites for all prepared nanocatalysts.\r\nThen, surface morphology analysis showed that NiyCoxFe(1-x-y)O4 nanocatalysts prepared have not\r\nhomogeneous form yet. Size of particles is varied and is around 85 nm for Ni0.2Co0.2Fe0.6O4 catalyst.\r\nHowever, the particle size of other prepared catalysts is between 85 and 110 nm. Catalyst’s activity\r\ntest performance showed that ethanol is produced on a range of temperature reaction with a resulting\r\nconcentration of 5000 ppm.",
+      "event_location": "Yogyakarta",
+      "event_title": "the 2nd International Confrence of the Indonesian Chemical Society 2013",
+      "eprintid": 6444,
+      "date_type": "published"
+    },
+    {
+      "corp_creators": [
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA",
+        "Fakultas Kedokteran UNILA",
+        "Jurusan Kimia FMIPA UNILA"
+      ],
+      "lastmod": "2021-03-09 07:10:37",
+      "datestamp": "2021-03-09 07:10:37",
+      "publisher": "Asian Publication Corporation",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "given": "T",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suhartati"
+          },
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "Y",
+            "family": "Yandri",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "type": null
+        },
+        {
+          "name": {
+            "given": "J",
+            "honourific": null,
+            "family": "Suwandi",
+            "lineage": null
+          },
+          "id": "jhons.fatriyadi@fk.unila.ac.id",
+          "type": null
+        },
+        {
+          "name": {
+            "given": "S",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hadi"
+          },
+          "id": "sutopohadi@fmipa.unila.ac.id",
+          "type": null
+        }
+      ],
+      "type": "article",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "id_number": "http:\/\/www.asianjournalofchemistry.co.in\/Home.aspx",
+      "date": "2013-02-12",
+      "eprint_status": "archive",
+      "abstract": "From the root bark of Artocarpus dadah grown in Lampung, Indonesia have successfully been isolated two flavan derivatives, afzelecin3-O-α-L-ramnoside and chatecin. The\r\nstructure of both compounds were determined based on physical\r\nproperties and UV-VIS, IR and NMR spectroscopies.",
+      "subjects": [
+        "QD"
+      ],
+      "official_url": "http:\/\/www.asianjournalofchemistry.co.in\/Home.aspx",
+      "eprintid": 28298,
+      "date_type": "published",
+      "projects": [
+        "Strategis Nasional"
+      ],
+      "userid": 1047,
+      "pagerange": "1050-1056",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28298,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42342",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 423344,
+                  "datasetid": "document",
+                  "hash": "2ba83f1a1d52c2456c98168631f19f15",
+                  "filename": "tati suhartati and sutopo hadi_AJC_2013_25_2.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-09 04:05:21",
+                  "mime_type": "application\/pdf",
+                  "fileid": 251658,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251658",
+                  "objectid": 42342
+                }
+            ],
+            "docid": 42342,
+            "main": "tati suhartati and sutopo hadi_AJC_2013_25_2.pdf"
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28298",
+      "funders": [
+        "Dikti"
+      ],
+      "issn": "ISSN: 0975-427X (Online)",
+      "creators": [
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tati",
+            "honourific": null,
+            "family": "Suhartati",
+            "lineage": null
+          }
+        },
+        {
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "name": {
+            "family": "Yandri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yandri"
+          }
+        },
+        {
+          "id": "jhons.fatriyadi@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suwandi",
+            "given": "Jhons Fatriyadi"
+          }
+        },
+        {
+          "name": {
+            "given": "Sutopo",
+            "family": "Hadi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sutopohadi@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Asian Journal of Chemistry",
+      "dir": "disk0\/00\/02\/82\/98",
+      "status_changed": "2021-03-09 07:10:37",
+      "title": "Two Flavan Derivatives Isolated from Artocarpus dadah Grown in Lampung, Indonesia",
+      "metadata_visibility": "show",
+      "volume": 25,
+      "rev_number": 7
+    },
+    {
+      "datestamp": "2021-06-07 08:52:34",
+      "lastmod": "2021-06-07 08:52:34",
+      "userid": 1059,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32194",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 32194,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "14. Effect_of_Immobilization_Towards_Thermal_Stability.pdf",
+            "docid": 145929,
+            "files": [
+                {
+                  "fileid": 380920,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-07 08:50:40",
+                  "filename": "14. Effect_of_Immobilization_Towards_Thermal_Stability.pdf",
+                  "hash": "0256632c28f4c825633ab6a234ba12c5",
+                  "datasetid": "document",
+                  "filesize": 1062014,
+                  "objectid": 145929,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380920"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145929"
+          }
+      ],
+      "publisher": "Asian Journal of Chemistry",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "other",
+      "date": 2013,
+      "dir": "disk0\/00\/03\/21\/94",
+      "creators": [
+        {
+          "name": {
+            "given": "Suhartati",
+            "family": "Tati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Reviewer Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "eprint_status": "archive",
+      "status_changed": "2021-06-07 08:52:34",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Indekx Similarity of Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Isolate Bacillus subtilis ITBCCB148 with Calcium Alginate",
+      "date_type": "published",
+      "eprintid": 32194
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32186",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 32186,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145890",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 145890,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380822",
+                  "fileid": 380822,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-06-07 08:32:06",
+                  "hash_type": "MD5",
+                  "filename": "6. Two_Flavan_Derivatives_Isolated_from_Artocarpus_da.pdf",
+                  "hash": "405f46ef57f6a9a9cc4752aaf17edfc3",
+                  "datasetid": "document",
+                  "filesize": 1973251
+                }
+            ],
+            "docid": 145890,
+            "main": "6. Two_Flavan_Derivatives_Isolated_from_Artocarpus_da.pdf"
+          }
+      ],
+      "publisher": "Asian Journal of Chemistry",
+      "datestamp": "2021-06-07 08:51:55",
+      "lastmod": "2021-06-07 08:51:55",
+      "userid": 1059,
+      "dir": "disk0\/00\/03\/21\/86",
+      "date": 2013,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Tati",
+            "honourific": null,
+            "given": "Suhartati"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Indekx Similarity of Two Flavan Derivatives Isolated from Artocarpusdadah Grown in Lampung, Indonesia",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Reviewer Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "status_changed": "2021-06-07 08:51:55",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 32186
+    },
+    {
+      "title": "Peer Reviewer of Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Isolate Bacillus subtilis ITBCCB148 with Calcium Alginate",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2021-06-07 08:51:27",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Reviewer Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 32177,
+      "date_type": "published",
+      "publisher": "Asian Journal of Chemistry",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145836",
+            "main": "15. Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Is.pdf",
+            "docid": 145836,
+            "files": [
+                {
+                  "filesize": 1178608,
+                  "datasetid": "document",
+                  "hash": "fbcffe14bccfd9bf9c5ba909ccc864dc",
+                  "filename": "15. Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Is.pdf",
+                  "mtime": "2021-06-07 08:05:00",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 380715,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380715",
+                  "objectid": 145836
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 32177,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32177",
+      "full_text_status": "public",
+      "lastmod": "2021-06-07 08:51:27",
+      "userid": 1059,
+      "datestamp": "2021-06-07 08:51:27",
+      "creators": [
+        {
+          "name": {
+            "given": "Suhartati",
+            "honourific": null,
+            "family": "Tati",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/03\/21\/77",
+      "type": "other",
+      "divisions": [
+        "FMIPA4"
+      ]
+    },
+    {
+      "datestamp": "2021-06-07 08:51:03",
+      "lastmod": "2021-06-07 08:51:03",
+      "userid": 1059,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32169",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Asian Journal of Chemistry",
+      "documents": [
+          {
+            "eprintid": 32169,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 145804,
+            "main": "7. Two Flavan Derivatives Isolated from Artocarpusdadah Grown in Lampung, Indonesia.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380635",
+                  "objectid": 145804,
+                  "hash": "1286e7bd65af88126385aede6390fc68",
+                  "filename": "7. Two Flavan Derivatives Isolated from Artocarpusdadah Grown in Lampung, Indonesia.pdf",
+                  "mtime": "2021-06-07 07:46:54",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 380635,
+                  "filesize": 1155400,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145804",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "other",
+      "date": 2013,
+      "dir": "disk0\/00\/03\/21\/69",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tati",
+            "given": "Suhartati"
+          }
+        }
+      ],
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Reviewer Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "eprint_status": "archive",
+      "status_changed": "2021-06-07 08:51:03",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Peer Reviewer of Two Flavan Derivatives Isolated from Artocarpusdadah Grown in Lampung, Indonesia",
+      "date_type": "published",
+      "eprintid": 32169
+    },
+    {
+      "lastmod": "2021-06-10 07:03:04",
+      "userid": 1047,
+      "datestamp": "2021-06-10 07:03:04",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 32503,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1062014,
+                  "fileid": 384650,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-10 06:57:19",
+                  "hash": "0256632c28f4c825633ab6a234ba12c5",
+                  "filename": "7. Effect_of_Immobilization_Towards_Thermal_Stability.pdf",
+                  "objectid": 147539,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/384650"
+                }
+            ],
+            "docid": 147539,
+            "main": "7. Effect_of_Immobilization_Towards_Thermal_Stability.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/147539",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Asian Journal of Chemistry",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32503",
+      "type": "other",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "creators": [
+        {
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Yandri",
+            "honourific": null,
+            "given": "Yandri"
+          }
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/03\/25\/03",
+      "status_changed": "2021-06-10 07:03:04",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Peer Review Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "title": "Indekx Similarity of Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Isolate Bacillus subtilis ITBCCB148 with Calcium Alginate",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 32503,
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "other",
+      "date": 2013,
+      "dir": "disk0\/00\/03\/23\/84",
+      "creators": [
+        {
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Yandri",
+            "lineage": null,
+            "given": "Yandri"
+          }
+        }
+      ],
+      "datestamp": "2021-06-09 04:37:53",
+      "lastmod": "2021-06-09 04:37:53",
+      "userid": 1047,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32384",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filename": "8. Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Iso.pdf",
+                  "hash": "c4b4cea49599322433e75d240e687fd5",
+                  "mtime": "2021-06-09 03:56:22",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 383238,
+                  "filesize": 1239751,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/383238",
+                  "objectid": 146911
+                }
+            ],
+            "docid": 146911,
+            "main": "8. Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Iso.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146911",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 32384,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Asian Journal of Chemistry",
+      "date_type": "published",
+      "eprintid": 32384,
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Peer Review Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "eprint_status": "archive",
+      "status_changed": "2021-06-09 04:37:53",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Peer Reviewer of Effect of Immobilization Towards Thermal Stability of a-Amylase Isolated from Locale Bacteria Isolate Bacillus subtilis ITBCCB148 with Calcium Alginate"
+    },
+    {
+      "official_url": "http:\/\/www.asianjournalofchemistry.co.in\/Home.aspx",
+      "abstract": "The research aims to increase the thermal stability of enzyme of a-amylase obtained from local bacteria Bacillus subtilis (ITBCCB148) using immobilization process with entrapment method using alginate as the immobile matrix. To achieve this aim, the purification of enzyme was performed on the following phases: fractionation with ammonium sulphate, dialysis and colomn chromatography with CMcellulose. The result showed that the native enzyme which has been purified has  optimum\r\ntemperature of  55 ºC. The thermal stability test at 60 ºC for 1 h, the native enzyme has residual activity of 3 %, t1\/2 \r\n = 11 min, k i  = 0.063 min -1  and ∆G i  = 100.859 kJ mol ; while for the immobilized enzyme the values obtained were residual activity of  68 %, t ½  = 115.5 min, ki  = 0.006 min -1  and ∆Gi = 107.369 kJ mol . The optimum temperature of immobilized enzyme was 60 ºC.  The thermal stability of the imobilized enzyme was 10.5 times compared to the\r\nnative enzyme. On repeating use, the immobilized enzyme was able to be used 4 times.",
+      "subjects": [
+        "QD"
+      ],
+      "eprint_status": "archive",
+      "projects": [
+        "Hibah Kompetensi"
+      ],
+      "date_type": "published",
+      "eprintid": 28296,
+      "publisher": "Published by Asian Publication Corporation",
+      "ispublished": "pub",
+      "number": 12,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "name": {
+            "given": "Y",
+            "family": "Yandri",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "T",
+            "family": "Suhartati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "S",
+            "family": "Hadi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2021-03-09 07:10:35",
+      "corp_creators": [
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA"
+      ],
+      "lastmod": "2021-03-09 07:10:35",
+      "id_number": "http:\/\/dx.doi.org\/10.14233\/ajchem.2013.15111",
+      "date": "2013-09-16",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 25,
+      "rev_number": 8,
+      "title": "Effect of Immobilization Towards Thermal Stability of\r\nα-Amylase Isolated from Locale Bacteria Isolate Bacillus subtilis ITBCCB148 with Calcium Alginate",
+      "status_changed": "2021-03-09 07:10:35",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28296",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 28296,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42339",
+            "docid": 42339,
+            "main": "Asian Journal of Chemistry 2013 Yandri A.S..pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 263660,
+                  "fileid": 251642,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-09 03:20:29",
+                  "filename": "Asian Journal of Chemistry 2013 Yandri A.S..pdf",
+                  "hash": "6c4f4aceebdeab378face69165181932",
+                  "objectid": 42339,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251642"
+                }
+            ]
+          }
+      ],
+      "pagerange": "6897-6899",
+      "userid": 1047,
+      "dir": "disk0\/00\/02\/82\/96",
+      "issn": "ISSN: 0975-427X (Online)",
+      "creators": [
+        {
+          "name": {
+            "given": "Yandri",
+            "family": "Yandri",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suhartati",
+            "given": "Tati"
+          }
+        },
+        {
+          "name": {
+            "given": "Sutopo",
+            "lineage": null,
+            "family": "Hadi",
+            "honourific": null
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Asian Journal of Chemistry",
+      "funders": [
+        "Dikti"
+      ]
+    },
+    {
+      "abstract": "Aqueous rinds extract of Brucea javanica (L.) Merr has been used as the medium\/reducing system for the\r\nformation of silver nanoparticles colloids. A solution of 0.01 N AgNO3 (1 ml) was added to the rind\r\nextracts (4 ml) at room temperature, and the formation of silver nanoparticles was observed using\r\nultraviolet–visible spectrophotometer. The shape and size of the nanoparticles have been characterized\r\nusing Transmission Electron Microscope (TEM) analysis. The experimental results show that the silver\r\nnanoparticles are formed easily in the extract at ambient temperature. The resulting nanoparticles were\r\nin the spherical form and the average size of the nanoparticles was about 38.00714.00 nm.",
+      "subjects": [
+        "Q1"
+      ],
+      "status_changed": "2022-10-31 01:03:44",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 97,
+      "official_url": "http:\/\/dx.doi.org\/10.1016\/j.matlet.2013.01.114",
+      "title": "Green synthesis of silver nanoparticles using aqueous rinds extract of Brucea\r\njavanica (L.) Merr at ambient temperature",
+      "eprintid": 46081,
+      "datestamp": "2022-10-31 01:03:44",
+      "pagerange": "181-183",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Bengkulu"
+      ],
+      "lastmod": "2022-10-31 01:03:44",
+      "userid": 1077,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46081",
+      "full_text_status": "public",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509771",
+                  "objectid": 184903,
+                  "filename": "Material Letters.PDF",
+                  "hash": "a0226ecece46880556f881a99ee9c2f1",
+                  "mtime": "2022-10-29 12:29:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 509771,
+                  "filesize": 503536,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 184903,
+            "main": "Material Letters.PDF",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184903",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46081,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "article",
+      "date": "2013-02-01",
+      "dir": "disk0\/00\/04\/60\/81",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yudha S",
+            "honourific": null,
+            "given": "Salprima"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Notriawan",
+            "lineage": null,
+            "given": "Doni"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Angasa",
+            "lineage": null,
+            "given": "Eka"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suharto",
+            "lineage": null,
+            "given": "Totok Eka"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Hendri",
+            "honourific": null,
+            "lineage": null,
+            "given": "John"
+          },
+          "id": "john.hendri@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nishina",
+            "given": "Yuta"
+          }
+        }
+      ],
+      "issn": "0167577X",
+      "publication": "Materials Letters"
+    }
+]
+

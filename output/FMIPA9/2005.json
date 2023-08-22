@@ -1,0 +1,95 @@
+[
+    {
+      "date_type": "submitted",
+      "eprintid": 25935,
+      "event_title": "Seminar Nasional Metode Kuantitatif III",
+      "event_location": "Jurusan Matematika FMIPA Universitas Lampung",
+      "abstract": "Pencarian lintasan terpendek merupakan salah satu permasalahan optimasi yang banyak dibahas dalam bidang transportasi. Lintasan yang diperoleh ditujukan untuk meminimumkan biaya atau waktu tempuh maupun jarak.. Pada artikel ini meninjau penentuan rute terpendek pengisian ATM BRI Kota Bandar Lampung dari Kantor Cabang BRI Tanjung Karang menuju semua ATM BRI yang ada di Kota Bandar Lampung sebagai masalah pencarian lintasan terpendek (shortest path problem) pada sebuah graf berbobot dimana bobot garis terkait dengan panjang jalan yang menghubungkan dua ATM BRI. Algoritma yang digunakan dalam penyelesaian masalah ini adalah algoritma Dijkstra dan algoritma Floyd Warshall. Keefisienan kedua algoritma dalam menyelesaikan masalah ini akan dikaji berdasarkan lamanya waktu running program. Hasil yang diperoleh menunjukkan algoritma Dijkstra dan Floyd Warshall memberikan lintasan terpendek dengan jarak yang sama. Namun jika dilihat dari sisi running time, algoritma Dijkstra membutuhkan waktu lebih singkat dibandingkan algoritma Floyd Warshall. Dengan kata lain algoritma Dijkstra lebih efisien dibandingkan dengan algoritma Floyd Warshall.",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2020-11-18 01:36:51",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "event_dates": "5 November 2020",
+      "title": "PENCARIAN PATH TERPENDEK DALAM KASUS RUTE PENGISIAN ATM BRI KOTA BANDAR LAMPUNG DENGAN MENGGUNAKAN ALGORITMA DIJKSTRA DAN ALGORITMA FLOYD WARSHALL",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/02\/59\/35",
+      "date": "2005-11-05",
+      "creators": [
+        {
+          "name": {
+            "given": "Sari",
+            "honourific": null,
+            "family": "Devita",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Notiragayu",
+            "honourific": null,
+            "family": "Notiragayu",
+            "lineage": null
+          },
+          "id": "notiragayu@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aang",
+            "lineage": null,
+            "given": "Nuryaman"
+          },
+          "id": "aang.nuryaman@fmipa.unila.ac.id"
+        }
+      ],
+      "datestamp": "2020-11-18 01:36:51",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2020-11-18 01:36:51",
+      "userid": 488,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25935",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 233105,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-17 15:27:58",
+                  "filename": "ABSTRAK SNMK III 2020 DEVITA SARI.pdf",
+                  "hash": "3e2e659f7aa7103163fe1fedc86f7f79",
+                  "datasetid": "document",
+                  "filesize": 2774950,
+                  "objectid": 39741,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/233105"
+                }
+            ],
+            "main": "ABSTRAK SNMK III 2020 DEVITA SARI.pdf",
+            "docid": 39741,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39741",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 25935,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "submitted"
+    }
+]
+

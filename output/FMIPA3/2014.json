@@ -1,0 +1,810 @@
+[
+    {
+      "eprint_status": "archive",
+      "status_changed": "2020-08-19 02:42:40",
+      "subjects": [
+        "AS"
+      ],
+      "title": "Algoritma Genetika: teori dan aplikasi",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprintid": 23670,
+      "date_type": "published",
+      "isbn": "978-602-262-307-6",
+      "userid": 725,
+      "lastmod": "2020-08-19 02:42:40",
+      "datestamp": "2020-08-19 02:42:40",
+      "documents": [
+          {
+            "format": "archive",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37301",
+            "rev_number": 2,
+            "main": "Buku - GA.pdf",
+            "docid": 37301,
+            "files": [
+                {
+                  "objectid": 37301,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216130",
+                  "fileid": 216130,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-08-18 15:04:29",
+                  "hash_type": "MD5",
+                  "filename": "Buku - GA.pdf",
+                  "hash": "99a3f988ea50367678ccae6bb4e35ba5",
+                  "datasetid": "document",
+                  "filesize": 1864666
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 23670,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Graha Ilmu",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23670",
+      "type": "book_section",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "book_title": "Algoritma Genetika: teori dan aplikasi",
+      "creators": [
+        {
+          "name": {
+            "given": "AS",
+            "honourific": null,
+            "family": "Admi Syarif",
+            "lineage": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0\/00\/02\/36\/70"
+    },
+    {
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "The Traveling Salesman Problem (TSP) is known as one of NP-complete optimization problems that has taken great interest of the researchers. The common objective is to determine route through some cities facilities in order to minimize travel distance. The classic TSP usually assumes that the travel costs are deterministic. In the real- world applications, due to the complexity of social and economic factors, it is often difficult to have deterministic value of travel costs (i.e. travel time). One way of handling such uncertainty in decision making is by introducing fuzzy programming approach. Since TSP is also usually very large, huge research efforts have been devoted to develop heuristic algorithms for solving TSP. It has also been reported that Genetic Algorithm could give a good solution of TSP within reasonable time. In this paper, we consider a more realistic model called fuzzy TSP. By assuming that the travel costs between cities are represented by triangular fuzzy number, we examine how the route should be designed. We develop a GA hybridized with local approach to solve the problem. Several numerical experiments are done to show the effectiveness of the proposed method.",
+      "status_changed": "2020-09-07 08:00:00",
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Implementation of Hybridized Genetic Algorithm for Fuzzy Traveling Salesman Problem",
+      "event_dates": "3-8 Agustus 2014",
+      "date_type": "published",
+      "event_title": "Proceedings of the Thirteenth International Conference on Information and Management Sciences",
+      "eprintid": 23911,
+      "event_location": "Zhangjiajie, China",
+      "datestamp": "2020-09-07 08:00:00",
+      "pagerange": "6-9",
+      "lastmod": "2020-09-07 08:00:00",
+      "userid": 725,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23911",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37589",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218019",
+                  "objectid": 37589,
+                  "filesize": 5227420,
+                  "datasetid": "document",
+                  "filename": "SI_13_IMS_China_2014 - Conference.pdf",
+                  "hash": "57e9f76643d597aeda69e8286c8558f0",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-07 05:52:44",
+                  "mime_type": "application\/pdf",
+                  "fileid": 218019
+                }
+            ],
+            "docid": 37589,
+            "main": "SI_13_IMS_China_2014 - Conference.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 23911
+          }
+      ],
+      "pres_type": "paper",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "conference_item",
+      "date": 2014,
+      "dir": "disk0\/00\/02\/39\/11",
+      "creators": [
+        {
+          "name": {
+            "family": "Admi Syarif",
+            "honourific": null,
+            "lineage": null,
+            "given": "AS"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "name": {
+            "family": "Gen",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mitsuo"
+          },
+          "id": "mitsuogen@gmail.com"
+        }
+      ]
+    },
+    {
+      "eprintid": 28376,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Peer Review: Implementation of Hybridized Genetic Algorithm for Fuzzy Traveling Salesman Problem",
+      "abstract": "The Traveling Salesman Problem (TSP) is known as one of NP-complete optimization problems that has taken great interest of the researchers. The common objective is to determine route through some cities facilities in order to minimize travel distance. The classic TSP usually assumes that the travel costs are deterministic. In the real- world applications, due to the complexity of social and economic factors, it is often difficult to have deterministic value of travel costs (i.e. travel time). One way of handling such uncertainty in decision making is by introducing fuzzy programming approach. Since TSP is also usually very large, huge research efforts have been devoted to develop heuristic algorithms for solving TSP. It has also been reported that Genetic Algorithm could give a good solution of TSP within reasonable time. In this paper, we consider a more realistic model called fuzzy TSP. By assuming that the travel costs between cities are represented by triangular fuzzy number, we examine how the route should be designed. We develop a GA hybridized with local approach to solve the problem. Several numerical experiments are done to show the effectiveness of the proposed method.",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-04-01 01:47:23",
+      "date": "2014-08",
+      "dir": "disk0\/00\/02\/83\/76",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "honourific": null,
+            "family": "Admi Syarif"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null,
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Mitsuo",
+            "lineage": null,
+            "family": "Gen",
+            "honourific": null
+          },
+          "id": "mitsuogen@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28376",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 2543439,
+                  "datasetid": "document",
+                  "mtime": "2021-03-31 19:56:56",
+                  "hash_type": "MD5",
+                  "hash": "72fc860236d2b14eeafc8ad6e26bccff",
+                  "filename": "20. ims14_nilai.pdf",
+                  "fileid": 255555,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255555",
+                  "objectid": 42893
+                }
+            ],
+            "docid": 42893,
+            "main": "20. ims14_nilai.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42893",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28376,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "International Association for Information and Management Sciences",
+      "ispublished": "pub",
+      "datestamp": "2021-04-01 01:47:23",
+      "lastmod": "2021-04-01 01:47:23",
+      "userid": 725
+    },
+    {
+      "status_changed": "2017-07-31 07:36:03",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "In this research, the development of verification systems courses is used as a study case. It  aims to accelerate the process of checking the existing curriculum in computer science majors. Course verification systems was developed with the search string matching method which has two parts programming methods: exact matching and heuristic matching. Exact matching programming method using a brute force algorithm has shortcomings because it does not have the preprocessing phase. Meanwhile, heuristic matching algorithm using n-gram similarity as it can check the detail . The results shows brute-force  algorithm more quickly in running time results. But n-gram similarity algorithm is more efficient in checking if there some difference in one or more character in course code and course name",
+      "title": "Parsing Data Text dengan N-Gram Similarity dan Algoritma Brute Force pada Studi Kasus Verifikasi Transkrip Mata Kuliah",
+      "volume": 2,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 3721,
+      "date_type": "published",
+      "corp_creators": [
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung"
+      ],
+      "lastmod": "2017-07-31 07:36:03",
+      "userid": 80,
+      "pagerange": "228-233",
+      "datestamp": "2017-07-31 07:36:03",
+      "number": 4,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3721,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3164291,
+                  "mime_type": "application\/pdf",
+                  "fileid": 26137,
+                  "hash": "d09f0e549af8f4926f9eec879489502a",
+                  "filename": "Jurnal Science East Borneo.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-25 08:16:08",
+                  "objectid": 3583,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26137"
+                }
+            ],
+            "docid": 3583,
+            "main": "Jurnal Science East Borneo.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3583",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Universitas Mulawarman",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3721",
+      "refereed": "FALSE",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Journal Science East Borneo",
+      "issn": "2338-7629",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hijriani",
+            "given": "Astria"
+          },
+          "id": "astria.hijriani@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sakethi",
+            "lineage": null,
+            "given": "Dwi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pandu",
+            "given": "Rian"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/37\/21",
+      "date": "2014-12-04"
+    },
+    {
+      "eprintid": 3722,
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/komputasi\/index",
+      "eprint_status": "archive",
+      "abstract": "Tree Structure is used widely to represent problems in daily life, especially in computer science and technology.\r\nOne method that is used to represent a tree is Blob Code. In this research, we developed an application to Encode\r\nand Decode Tree using Blob Code. This application aims to simplify the process of changing tree into a blob\r\ncode (encode) and the process of changing Blob code into the form of tree (decode).",
+      "subjects": [
+        "QA75"
+      ],
+      "date": "2014-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "corp_creators": [
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Matematika Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung"
+      ],
+      "lastmod": "2017-07-31 07:36:19",
+      "datestamp": "2017-07-31 07:36:19",
+      "title": "Pengembangan Aplikasi Encode dan Decode Tree Menggunakan Blob Code",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 2,
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/komputasi\/article\/view\/1123",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2017-07-31 07:36:19",
+      "issn": "2541-0350",
+      "creators": [
+        {
+          "id": "astria.hijriani@gmail.com",
+          "name": {
+            "given": "Astria",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hijriani"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Candra",
+            "honourific": null,
+            "given": "Ady"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal Komputasi",
+      "dir": "disk0\/00\/00\/37\/22",
+      "documents": [
+          {
+            "eprintid": 3722,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "1118-2661-4-PB.pdf",
+            "docid": 3585,
+            "files": [
+                {
+                  "objectid": 3585,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26146",
+                  "datasetid": "document",
+                  "filesize": 533340,
+                  "fileid": 26146,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-25 08:41:04",
+                  "hash": "a9bf1880f0b1760a5a5d637b87cbd8f6",
+                  "filename": "1118-2661-4-PB.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3585",
+            "rev_number": 1
+          }
+      ],
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3722",
+      "userid": 80,
+      "pagerange": "68-77"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 321,
+      "abstract": "Recognizing a chord of a music is not an easy task to do, but it\r\ncan be done easier using digital signal processing in computer\r\nsystem. This research implements pitch class profile (PCP)\r\nmethod in recognizing chord from audio signal. The audio\r\nsignals are converted from time domain into frequency domain\r\nusing Fast Fourier Transform (FFT). In this research, signals are\r\nprocessed using various frame blocking width in order to find out\r\nthe most optimal width in frame blocking using Hamming\r\nwindow. This research implements chord recognition method in\r\nPython programming to process guitar chord recording. The\r\npurpose of this research is to find out the accuracy of chord\r\nrecognition using PCP method.\r\nKeywords: Chord; Guitar; Pitch Class Profile; Fast Fourier\r\nTransform",
+      "status_changed": "2016-08-22 02:19:12",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 6,
+      "title": "Chord Identification Using Pitch Class Profile Method with\r\nFast Fourier Transform Feature Extraction",
+      "official_url": "www.IJCSI.org",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/03\/21",
+      "date": "2014-05",
+      "issn": "1694-0814",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null,
+            "given": "Kurnia"
+          },
+          "id": "."
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Aristoteles",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "IJCSI International Journal of Computer Science",
+      "datestamp": "2016-08-22 02:19:12",
+      "pagerange": "139-144",
+      "userid": 10,
+      "lastmod": "2016-11-04 02:51:57",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/321",
+      "documents": [
+          {
+            "main": "Chord Identification Using Pitch Class Profile Method with Fast Fourier Transform Feature Extraction.pdf",
+            "docid": 311,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 1829,
+                  "hash": "aa8b259be7a87d166019eaa1b8ac814b",
+                  "filename": "Chord Identification Using Pitch Class Profile Method with Fast Fourier Transform Feature Extraction.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-19 04:08:50",
+                  "datasetid": "document",
+                  "filesize": 715164,
+                  "objectid": 311,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1829"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/311",
+            "eprintid": 321,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muludi",
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null,
+            "given": "Aristoteles"
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Loupatty",
+            "given": "SFB Frank Abe"
+          },
+          "id": null
+        }
+      ],
+      "issn": "1694-0784",
+      "publication": "International Journal of computer science issues",
+      "date": "2014-05",
+      "dir": "disk0\/00\/00\/01\/70",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "documents": [
+          {
+            "eprintid": 170,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Publikasi_Jurnal(6).pdf",
+            "docid": 180,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1011",
+                  "objectid": 180,
+                  "filesize": 715164,
+                  "datasetid": "document",
+                  "mtime": "2016-07-15 07:38:34",
+                  "hash_type": "MD5",
+                  "filename": "Publikasi_Jurnal(6).pdf",
+                  "hash": "aa8b259be7a87d166019eaa1b8ac814b",
+                  "fileid": 1011,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/180",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/170",
+      "full_text_status": "public",
+      "userid": 9,
+      "lastmod": "2016-11-04 02:52:51",
+      "datestamp": "2016-07-18 07:50:01",
+      "eprintid": 170,
+      "title": "Chord Identification Using Pitch Class Profile Method with\r\nFast Fourier Transform Feature Extraction",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2016-07-18 07:50:01",
+      "abstract": "Abstract\r\nRecognizing a chord of a music is not an easy task to do, but it\r\ncan be done easier using digital signal processing in computer\r\nsystem. This research implements pitch class profile (PCP)\r\nmethod in recognizing chord from audio signal. The audio\r\nsignals are converted from time domain into frequency domain\r\nusing Fast Fourier Transform (FFT). In this research, signals are\r\nprocessed using various frame blocking width in order to find out\r\nthe most optimal width in frame blocking using Hamming\r\nwindow. This research implements chord recognition method in\r\nPython programming to process guitar chord recording. The\r\npurpose of this research is to find out the accuracy of chord\r\nrecognition using PCP method.\r\nKeywords: Chord; Guitar; Pitch Class Profile; Fast Fourier\r\nTransform.\r\n1. Introduction\r\nIt is understood that chord is the most basic guitar playing.\r\nChord playing is also the basic element in a song. To\r\nrecognize chord is not an easy task to do, because chord\r\ndoesn’t consist of single pitch. Moreover, a person with\r\ngood musical ability is not surely capable to do it. A\r\nperson with no musical experience needs long time effort\r\nto recognize a single pitch of music. But musical chord of\r\naudio signal can be recognized using signal processing\r\ntechnique with computer. Computer can recognize tone of\r\na audio signal by measuring the fundamental frequency of\r\na audio wave and match the frequency with the reference\r\nfrequency. With signal processing, computer can recognize\r\nnot only pitch but also other parameters of a signal those\r\ncan be used to recognize a chord.\r\nProcessing an audio signal takes a process called digital\r\nsignal processing (DSP). DSP is a process that analyze\r\ninput and output of a signal to know the certain physical\r\nsystem characteristic of a signal. Analyzing and\r\nsynthesizing signal can be done easier at the frequency\r\ndomain, because the determinant factor of signal is the\r\nfrequency [12]. Therefore, the earliest stage that is\r\nnecessary in DSP is feature extraction to convert signal\r\nfrom time domain into frequency domain. After that\r\nconversion, processing the signal can be done easier.\r\nIn this research, a pitch identification system of audio\r\nsignal has built to recognize the chord as the output.\r\nSystem was developed using fast fourier transform (FFT)\r\nas feature extraction technique and pitch class profile\r\n(PCP) as a method to identify the chord. This research\r\nshows the accuracy of chord recognition using PCP\r\nmethod.",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "volume": 1,
+      "event_type": "conference",
+      "rev_number": 10,
+      "title": "Perancangan Sistem Informasi Geografis (SIG) Berbasis Web untuk Penyediaan Informasi Fasilitas dan Personalia di Universitas Lampung",
+      "abstract": "The condition of a location can be seen and known in a map. Even though The University of Lampung has a campus map in form of paper, still the data displayed in this form is very limited. This map has not been used to display information related to the existing facilities and personnel of the University of Lampung. This research is to design a web based Geographic Information System (GIS) focusing on information of lecturer and his\/her department unit. This web based GIS can be used as a tool for visitors and academics to obtain information on faculty unit, building, facilities, as well as the map of the University of Lampung. This web based GIS is developed using some open source software.  They are QuantumGIS, MapServer, Pmapper framework and MySQL database. Pmapper Framework provides speed, accuracy, convenience and consistency in the development of applications using MapServer. \r\nKeywords : facilities, Lampung University, Geographic Information Systems, map, MapServer, Pmapper framework",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2018-04-25 03:54:59",
+      "eprint_status": "archive",
+      "event_location": "Bandar Lampung",
+      "eprintid": 2599,
+      "event_title": "SEMIRATA BKS PTN WILAYAH BARAT TAHUN 2013",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2599",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2482",
+            "rev_number": 4,
+            "main": "semirata-2013.pdf",
+            "docid": 2482,
+            "files": [
+                {
+                  "hash": "42a38e7409aa83fb06b76a3f0f8b822f",
+                  "filename": "semirata-2013.pdf",
+                  "mtime": "2017-05-31 09:09:10",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17965,
+                  "filesize": 210358,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17965",
+                  "objectid": 2482
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "content": "accepted",
+            "eprintid": 2599,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "number": 1,
+      "datestamp": "2018-04-25 03:54:59",
+      "lastmod": "2018-04-25 03:54:59",
+      "userid": 883,
+      "date": 2014,
+      "dir": "disk0\/00\/00\/25\/99",
+      "creators": [
+        {
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "family": "Priyanto",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muludi",
+            "given": "Kurnia"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Anie Rose",
+            "honourific": null,
+            "family": "Irawati",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Prosiding SEMIRATA",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "title": "Winner-Takes-All based Multi-Strategy Learning for Information Extraction",
+      "metadata_visibility": "show",
+      "volume": 12,
+      "rev_number": 9,
+      "status_changed": "2018-03-20 08:36:35",
+      "eprint_status": "archive",
+      "abstract": "The proliferation of information on the Internet has enabled one find any information he\/she is looking for. Nevertheless, almost all of these informations are designed for human readers and are not machine readable. Information extraction is a task that addresses the above problem by extracting a piece of information from unstructured formats. This paper proposes a winner-takes-all based multi-strategy learning for information extraction. Unlike the majority of multi-strategy approaches that commonly combine the prediction of all base learnings involved, our approach takes a different strategy by employing only the best, single predictor for a specific information task. The best predictor (among other predictors) is identified during training phase using k-fold cross validation, which is then retrained on the full training set. Empirical evaluation on two benchmarks data sets demonstrates the effectiveness of our strategy. Out of 26 information extraction cases, our strategy outperforms other information extraction algorithms and strategies in 16 cases. The winner-takes-all strategy in general eliminates the difficult situation in multistrategy learning when the majority of base learners cannot make correct prediction, resulting in incorrect prediction on its output. In such a case, the best predictor with correct prediction  in our strategy will take over for the overal prediction.   Keywords: winner takes all, multi-strategy learning, information extraction",
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "eprintid": 2577,
+      "date_type": "published",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2577,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 2461,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17800",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17800,
+                  "filename": "telkomnika-2014.pdf",
+                  "hash": "385d8a7f5bd2974fc35c9c369188a323",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 08:18:29",
+                  "datasetid": "document",
+                  "filesize": 114534
+                }
+            ],
+            "docid": 2461,
+            "main": "telkomnika-2014.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2461",
+            "rev_number": 3,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 11,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2577",
+      "full_text_status": "public",
+      "lastmod": "2018-03-20 08:36:35",
+      "userid": 883,
+      "datestamp": "2018-03-20 08:36:35",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Dwi Hendratmo",
+            "honourific": null,
+            "family": "Widyantoro",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kuspriyanto",
+            "lineage": null,
+            "given": "Kuspriyanto"
+          },
+          "id": null
+        }
+      ],
+      "publication": "TELKOMNIKA Indonesian Journal of Electrical Engineering",
+      "date": "2014-11",
+      "dir": "disk0\/00\/00\/25\/77",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ]
+    }
+]
+

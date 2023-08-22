@@ -1,0 +1,4563 @@
+[
+    {
+      "divisions": [
+        "FISIP1"
+      ],
+      "contact_email": "gita.djausal@fisip.unila.ac.id",
+      "type": "article",
+      "dir": "disk0\/00\/02\/38\/97",
+      "publication": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "family": "Sulistiono",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "given": "Gita Paramita",
+            "family": "Djausal",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "p-ISSN: 2355-7699",
+      "datestamp": "2020-09-10 01:12:50",
+      "userid": 2805,
+      "lastmod": "2022-12-05 04:23:03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23897",
+      "full_text_status": "restricted",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "publisher": "Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya (UB)",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37578",
+            "formatdesc": "Mardiana Mardiana, Meizano Ardhi Muhammad, Wahyu Eko Sulistiono, Gita Paramita Djausal",
+            "main": 1343,
+            "docid": 37578,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217943",
+                  "objectid": 37578,
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-05 16:45:25",
+                  "hash": "554f24a8075ae19ac2f8dc1e6dbc384b",
+                  "filename": 1343,
+                  "fileid": 217943,
+                  "mime_type": "application\/xml",
+                  "filesize": 53562,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "language": "en",
+            "content": "published",
+            "eprintid": 23897,
+            "placement": 1,
+            "security": "validuser"
+          }
+      ],
+      "eprintid": 23897,
+      "subjects": [
+        "GE"
+      ],
+      "abstract": "Teknologi Augmented Reality (AR) saat ini banyak digunakan untuk penyebaran informasi dan bahkan untuk transaksi pada pelayanan yang bersifat publik.Teknologi ini sudah cukup dikenal oleh masyarakat luas, bersamaan dengan dikenalnya teknologi Virtual Reality (VR) yang banyak digunakan pada permainan (game).Pengunjung Perpustakaan terutama di Universitas, sebagian besar merupakan masyarakat dengan kategori generasi digital native. Untuk menemukan lokasi buku, waktu yang dibutuhkan oleh pengunjung perpustakaan biasanya relatif lama dan sangat tergantung dari pengalaman kunjungan atau frekuensi pencarian yang dilakukan. Untuk itu, pengunjung perpustakaan memerlukan aplikasi yang memudahkan mereka melacak dan menemukan lokasi koleksi pustaka yang dicari, dengan menggunakan ponsel cerdas mereka.Penelitian ini bertujuan untuk mengembangkan perangkat lunak layanan perpustakaan dengan memanfaatkan teknologi AR dan berbasis AR marker. Ruang lingkup pengembangan aplikasi ini menggunakan metoda rekayasa perangkat lunak RAD. Aplikasi dikembangkan menggunakan metoda template matching dan algoritma A* untuk pathfinding. Skema layanan data pada alikasi terdiri dari empat bagian, yaitu OPAC (Online Public Access Catalog), deteksi lokasi, pathfinding dan navigasi. Lokasi yang dipetakan adalah gedung Perpustakaan Universitas Lampung yang terdiri dari 3 lantai. Hasil dari penelitian ini berupa realisasi perangkat lunak menggunakan teknologi AR yang dapat memvisualisasikan arah menuju lokasi pustaka. Pengujian aplikasi dilakukan dengan skenario (a) pencarian Pustaka dengan OPAC, (b) mendeteksi lokasi (AR), (c) komputasi Pathfinding, (d) menampilkan marker, dan seluruhnya memperoleh hasil yang sesuai dengan requirement.",
+      "status_changed": "2020-09-10 01:12:50",
+      "eprint_status": "archive",
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "title": "Augmented Reality Pelacak Lokasi Pustaka dengan Ar Marker"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "title": "Kualitas Pelayana Kepuasan Konsumen dan Nilai Hedonik Sebagai Variabel Anteseden Dalam Permodelan Intensi Word Of Mouth Konsumen",
+      "official_url": "http:\/\/lppm.unila.ac.id\/",
+      "abstract": "Measurement of consumer shopping behavior is important to marketer. This study aims to test the influence of functional service quality on customer satisfaction and word of mouth intention which is mediated by the hedonic value in relation to hair salon industry. The survey questionarre was developed from prevous study and convenience sampling tecnique used in tis study to take respondents who had used hair salon services in Bandar Lampung. Data were analyzed using confirmatory factor analysis and structural equation model of two step approach with software SPSS and AMOS as a tools. Measurements with confirmatory analysis produce a model that is supported in theory and fulfilled validity, reliabilityn and undidimensionality criteria.\r\nThe structural model modified based on theoritical support and goodness of fit index criteria. The finding shows that the service quality plays an important role in influencing satisfaction and consumer word of mouth intention directly.\r\nFunctional service quality is the most important factor influencing the hedonic orientation value, satisfaction and consumer’s word of mouth intentions. Other findings are that the value hedonic not become a mediator in this study . further research need to retest the model proposed for different indutries context. In practice, hair salon managers should improve staff capability in order to maintain the functional service quality. In includes competency and capability for interpersonal communication\r\nKey word: Functional Service Quality, Hedonic Value, Consumer Satisfaction, Word of Mouth",
+      "subjects": [
+        "H1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "status_changed": "2019-02-25 09:20:43",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 10825,
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10825",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 10825,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 23838,
+            "main": "artikel proiding 2.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99698",
+                  "objectid": 23838,
+                  "filesize": 13157536,
+                  "datasetid": "document",
+                  "filename": "artikel proiding 2.pdf",
+                  "hash": "9f2c67948ea757174b32991cf0d7a071",
+                  "hash_type": "MD5",
+                  "mtime": "2019-02-22 06:48:42",
+                  "mime_type": "application\/pdf",
+                  "fileid": 99698
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23838",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "pagerange": "347-372",
+      "datestamp": "2019-02-25 09:20:43",
+      "lastmod": "2019-02-25 09:20:43",
+      "userid": 545,
+      "dir": "disk0\/00\/01\/08\/25",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ali",
+            "lineage": null,
+            "given": "Suprihatin"
+          }
+        }
+      ],
+      "issn": "978-602-0860-05-3",
+      "publication": "Prosiding Seminar Hasil Penelitian September 2015",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article"
+    },
+    {
+      "title": "Analysis of City Development Policy on Community\r\nDecision Factors on the Purchase of Subsidy House",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2022-02-17 01:17:06",
+      "abstract": "The rapid growth of Indonesia's population is quite high and many people have minimal income, causing high public\r\ninterest in buying subsidized housing. The government continues to provide subsidies for the community which aims\r\nto improve people's welfare and the government is also trying to build subsidized housing and cooperate with the\r\ndeveloper. The subsidized housing program aims to meet housing needs for low-income people (MBR) where\r\nhousing finance subsidies\/assistance are included in the form of goods subsidies given to low-income groups in terms\r\nof meeting housing needs, namely in the form of houses at prices below market prices This study aims to determine\r\nthe factors that influence the decision to purchase subsidized housing. This study uses a survey method approach and\r\ndata analysis using a combination of qualitative and quantitative methods",
+      "subjects": [
+        "HC"
+      ],
+      "eprintid": 39406,
+      "documents": [
+          {
+            "eprintid": 39406,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 160690,
+            "main": "Prosiding internasional IICIS.pdf",
+            "files": [
+                {
+                  "objectid": 160690,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/443032",
+                  "datasetid": "document",
+                  "filesize": 1960182,
+                  "fileid": 443032,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-16 06:09:48",
+                  "hash": "d0f4025b3f53806dd44b56fc933d7870",
+                  "filename": "Prosiding internasional IICIS.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160690",
+            "rev_number": 2,
+            "formatdesc": "proceeding"
+          },
+          {
+            "placement": 2,
+            "security": "public",
+            "eprintid": 39406,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/443034",
+                  "objectid": 160691,
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-16 06:11:43",
+                  "filename": "Prosiding internasional IICIS.pdf",
+                  "hash": "d0f4025b3f53806dd44b56fc933d7870",
+                  "fileid": 443034,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1960182,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 160691,
+            "main": "Prosiding internasional IICIS.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160691",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39406",
+      "userid": 255,
+      "lastmod": "2022-02-17 01:17:06",
+      "datestamp": "2022-02-17 01:17:06",
+      "creators": [
+        {
+          "id": "pesandeddy@gmai.com",
+          "name": {
+            "lineage": null,
+            "family": "Aprilani",
+            "honourific": null,
+            "given": "Deddy"
+          }
+        },
+        {
+          "id": "rosydaud@gmail.com",
+          "name": {
+            "given": "Rosy febriani",
+            "honourific": null,
+            "family": "daud",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "iicis.fisip.unila.ac.id\/proceedings\/",
+      "dir": "disk0\/00\/03\/94\/06",
+      "type": "article",
+      "divisions": [
+        "FISIP1"
+      ]
+    },
+    {
+      "eprintid": 45030,
+      "date_type": "published",
+      "title": "Penilaian Sejawat: Pemanfaatan E-Office sebagai Praktik Paperless Office",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2022-09-20 01:35:17",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Hani Damayanti",
+            "honourific": null,
+            "family": "Aprilia",
+            "lineage": null
+          },
+          "id": "hani.damayanti@fisip.unila.ac.id,"
+        }
+      ],
+      "dir": "disk0\/00\/04\/50\/30",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 485439,
+                  "hash": "88980fa46db969222381e227cd8483c4",
+                  "filename": "PENILAIAN SEJAWAT.pdf",
+                  "mtime": "2022-09-20 00:38:03",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 241598,
+                  "objectid": 166949,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/485439"
+                }
+            ],
+            "main": "PENILAIAN SEJAWAT.pdf",
+            "docid": 166949,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166949",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45030,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Administrativa",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45030",
+      "full_text_status": "public",
+      "lastmod": "2022-09-20 01:35:17",
+      "userid": 22742,
+      "datestamp": "2022-09-20 01:35:17"
+    },
+    {
+      "datestamp": "2021-06-22 05:58:40",
+      "lastmod": "2021-06-22 05:58:40",
+      "userid": 639,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32765",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/149012",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 458786,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-22 04:04:25",
+                  "hash": "a60bc0a93553282b26e582bfe7c9f6d7",
+                  "filename": "Pelatihan Creative Design Thinking Start Up Entrepreneur di Kalangan Siswa Kelas XII SMK Industri Kreatif Kota Bandar Lampung.pdf",
+                  "fileid": 387739,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387739",
+                  "objectid": 149012
+                }
+            ],
+            "docid": 149012,
+            "main": "Pelatihan Creative Design Thinking Start Up Entrepreneur di Kalangan Siswa Kelas XII SMK Industri Kreatif Kota Bandar Lampung.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 32765
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/27\/65",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arif Surtono",
+            "honourific": null,
+            "given": "Arif Surtono"
+          },
+          "id": null
+        },
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          }
+        },
+        {
+          "id": "supriyanto.1989@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null,
+            "given": "Supriyanto"
+          }
+        }
+      ],
+      "publication": "BERNAS : Jurnal Pengabdian Kepada Masyarakat",
+      "abstract": "SMK Industri Kreatif (Dahulu SMKN 5 Bandar Lampung), setiap tahunnya meluluskan tenaga terampil di bidang industri kreatif, khususnya sub sektor kriya. Namun, pada umumnya, setelah lulus para lulusannya masih berorientasi pada job seeker, dan mengalami kegagalan pada saat memulai sebuah usaha. Di sisi lain, jumlah start up entrepreneur di bidang Industri Kreatif di Indonesia pada umumnya, dan Kota Bandar Lampung pada khususnya masih kekurangan. Berangkat dari kondisi tersebut, maka pelatihan tentang start up entrepreneur dan design thinking dalam memulai bisnis menjadi penting dan relevan untuk dilakukan di SMK Industri Kreatif, khususnya siswa kelas XII. Metode yang digunakan adalah diskusi, ceramah dan membahas kasus-kasus yang menarik, tentang start up entrepreneur. Dengan diadakannya pelatihan ini, diharapkan akan terbentuk motivasi yang kuat untuk menjadi seorang yang merintis sebuah bisnis baru\/ startup entrepreneur; pemahaman design thinking yang baik dan benar tentang bagaimana mendirikan dan menjadi start up entrepreneur di industri kreatif dan mendesain model bisnis start up yang baik. Setelah dilakukan kegiatan pengabdian dengan metode diatas, hasil pretest dan post test menunjukkan adanya peningkatan pemahaman peserta pelatihan tentang materi pelatihan.",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "status_changed": "2021-06-22 05:58:40",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Pelatihan Creative Design Thinking Start Up Entrepreneur di Kalangan Siswa Kelas XII SMK Industri Kreatif Kota Bandar Lampung",
+      "eprintid": 32765
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Kajian Perilaku Konsumen Mahasiswa dalam Memilih Musik (Studi pada Mahasiswa di Bandar lampung)",
+      "abstract": "penelitian ini menggunakan metode deskrptif kualitatif. teknik pengumpulan data dengan wawancara mendalam. Berdasarkan hasil penelitian ini, dapat disimpulkan beberapa hal mengenai Bagaimana Mengkaji Musik dalam Pemsaran musik serta Pengaruh Mendengarkan Musik pada Kepribadian Masyarakat beserta Keuntungannya Musik Sebagai Produk, berdasarkan analisis deskriptif data sebagai berikut :\r\n1. Mengkonsumsi Musik pada pelajar SD dapat memberikan edukasi bagi anak-anak.\r\n2. Mendengarkan lagu percintaan bagi para pelajar SMP, SMA serta Mahasiswa dapat mengingatkan mereka dengan kisah percintaan mereka\r\n3. Musik dapat mengubah suasana hati si penikmat musik tersebut\r\n4. Handphone atau smartphone merupakan media yang paling banyak digunakan untuk mendengarkan musik\r\n5. Kepribadian pelajar yang berlebihan mengkonsumsi dapat dilihat dari jenis musik yang disukainya.",
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2020-02-25 04:09:06",
+      "eprint_status": "archive",
+      "eprintid": 18159,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18159",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "eprintid": 18159,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 31299,
+            "main": "Laporan dkb-dipa2108-riset fix-dadang.pdf",
+            "files": [
+                {
+                  "objectid": 31299,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/152951",
+                  "datasetid": "document",
+                  "filesize": 412637,
+                  "mime_type": "application\/pdf",
+                  "fileid": 152951,
+                  "hash": "fa0881e37855764382b19b86eeb35271",
+                  "filename": "Laporan dkb-dipa2108-riset fix-dadang.pdf",
+                  "mtime": "2020-02-23 16:53:15",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31299"
+          }
+      ],
+      "ispublished": "unpub",
+      "datestamp": "2020-02-25 04:09:06",
+      "userid": 162,
+      "corp_creators": [
+        "Ilmu Administrasi Bisnis, FISIP, Unila",
+        "Ilmu Administrasi Bisnis, FISIP, Unila",
+        "Ilmu Administrasi Bisnis, FISIP, Unila",
+        "Ilmu Administrasi Bisnis, FISIP, Unila"
+      ],
+      "lastmod": "2020-02-25 04:09:06",
+      "dir": "disk0\/00\/01\/81\/59",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Bakti",
+            "given": "Dadang Karya"
+          }
+        },
+        {
+          "name": {
+            "family": "Komarsyah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Ali",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suprihatin"
+          },
+          "id": null
+        },
+        {
+          "id": "media.destalia@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Destalia",
+            "given": "Mediya"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "experiment"
+    },
+    {
+      "publisher": "Atlantis Press",
+      "documents": [
+          {
+            "eprintid": 42550,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "pindai0048.pdf",
+            "docid": 164257,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/467277",
+                  "objectid": 164257,
+                  "mtime": "2022-06-16 08:22:14",
+                  "hash_type": "MD5",
+                  "hash": "11170fbedf8f1caa40dd97f41a7c4866",
+                  "filename": "pindai0048.pdf",
+                  "fileid": 467277,
+                  "mime_type": "application\/pdf",
+                  "filesize": 623831,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164257"
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42550",
+      "full_text_status": "public",
+      "lastmod": "2022-06-16 09:23:13",
+      "userid": 2444,
+      "datestamp": "2022-06-16 09:23:13",
+      "creators": [
+        {
+          "id": "diang.adistya@fisip.unila.ac.id",
+          "name": {
+            "given": "Diang",
+            "honourific": null,
+            "family": "Diang Adistya",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/25\/50",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "title": "SDGs (Sustainable Development Goals): Coastal Land Management in Overcoming Poverty and Environmental Sustainability. Atlantis. 2352-5398.",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-06-16 09:23:13",
+      "subjects": [
+        "H1"
+      ],
+      "eprintid": 42550
+    },
+    {
+      "eprintid": 23915,
+      "abstract": "Lembar Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah: Prosiding Seminar Nasional SEFILA 2019",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-09-10 01:14:33",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Peer Review Negara Dan Keanekaragaman Hayati: Menghadapi Tantangan Globalisasi Ekonomi",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/02\/39\/15",
+      "creators": [
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "given": "Gita Paramita",
+            "family": "Djausal",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2020-09-10 01:14:33",
+      "lastmod": "2020-09-10 01:14:33",
+      "userid": 2805,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23915",
+      "full_text_status": "public",
+      "publisher": "FISIP Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "eprintid": 23915,
+            "security": "public",
+            "placement": 1,
+            "format": "image",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37592",
+            "rev_number": 1,
+            "main": "negara-Nur efendi.jpg",
+            "docid": 37592,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218054",
+                  "objectid": 37592,
+                  "filesize": 1776215,
+                  "datasetid": "document",
+                  "hash": "8a6a31812c3ab8a383b1b9ae8c01427a",
+                  "filename": "negara-Nur efendi.jpg",
+                  "mtime": "2020-09-07 15:18:52",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg",
+                  "fileid": 218054
+                }
+            ]
+          },
+          {
+            "placement": 2,
+            "security": "public",
+            "eprintid": 23915,
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218056",
+                  "objectid": 37593,
+                  "filesize": 1763919,
+                  "datasetid": "document",
+                  "mtime": "2020-09-07 15:18:58",
+                  "hash_type": "MD5",
+                  "hash": "07d9a92c103f1906e7115dcbb55d3cb0",
+                  "filename": "negara-Suripto.jpg",
+                  "fileid": 218056,
+                  "mime_type": "image\/jpeg"
+                }
+            ],
+            "main": "negara-Suripto.jpg",
+            "docid": 37593,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37593",
+            "pos": 2,
+            "format": "image"
+          }
+      ],
+      "ispublished": "unpub"
+    },
+    {
+      "title": "Peer Review PARADIPLOMASI KEANEKARAGAMAN HAYATI PROVINSI LAMPUNG DALAM KERANGKA MASYARAKAT ASEAN 2025",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2020-09-10 01:14:28",
+      "abstract": "Lembar Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah: Laporan Penelitian",
+      "subjects": [
+        "H1"
+      ],
+      "eprintid": 23899,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37579",
+            "rev_number": 1,
+            "main": "Lap-penlit-Suripto.jpg",
+            "docid": 37579,
+            "files": [
+                {
+                  "fileid": 217950,
+                  "mime_type": "image\/jpeg",
+                  "mtime": "2020-09-05 16:50:43",
+                  "hash_type": "MD5",
+                  "filename": "Lap-penlit-Suripto.jpg",
+                  "hash": "cc82048af03b6ab44c203062ee0f60e2",
+                  "datasetid": "document",
+                  "filesize": 1465815,
+                  "objectid": 37579,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217950"
+                }
+            ],
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "eprintid": 23899,
+            "placement": 1,
+            "security": "public"
+          },
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37580",
+            "format": "image",
+            "pos": 2,
+            "files": [
+                {
+                  "hash": "d9a0fadd8293d2edbf237ed07f0458b7",
+                  "filename": "Lap-Penlit-Nur Efendi.jpg",
+                  "mtime": "2020-09-05 16:50:48",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg",
+                  "fileid": 217952,
+                  "filesize": 1545179,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217952",
+                  "objectid": 37580
+                }
+            ],
+            "docid": 37580,
+            "main": "Lap-Penlit-Nur Efendi.jpg",
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 23899
+          }
+      ],
+      "publisher": "FISIP Universitas Lampung",
+      "ispublished": "unpub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23899",
+      "full_text_status": "public",
+      "lastmod": "2020-09-10 01:14:28",
+      "userid": 2805,
+      "datestamp": "2020-09-10 01:14:28",
+      "creators": [
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "given": "Gita Paramita",
+            "honourific": null,
+            "family": "Djausal",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/38\/99",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ]
+    },
+    {
+      "eprintid": 23898,
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Peer Review STRATEGI PARIWISATA EKOLOGIS DALAM TANTANGAN MASA PANDEMI COVID-19",
+      "abstract": "Lembar Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah: Jurnal STRATEGI PARIWISATA EKOLOGIS DALAM TANTANGAN MASA PANDEMI COVID-19",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-09-10 01:14:21",
+      "dir": "disk0\/00\/02\/38\/98",
+      "creators": [
+        {
+          "name": {
+            "given": "Gita Paramita",
+            "family": "Djausal",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23898",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "image",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37594",
+            "docid": 37594,
+            "main": "Pariwisata-Suripto.jpg",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1754608,
+                  "mime_type": "image\/jpeg",
+                  "fileid": 218060,
+                  "hash": "d1abeea249ba76a37dfee38d672e51ba",
+                  "filename": "Pariwisata-Suripto.jpg",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-07 15:27:28",
+                  "objectid": 37594,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218060"
+                }
+            ],
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "eprintid": 23898,
+            "placement": 1,
+            "security": "public"
+          },
+          {
+            "format": "image",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37595",
+            "rev_number": 1,
+            "main": "Pariwisata-Nur.jpg",
+            "docid": 37595,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1749563,
+                  "fileid": 218062,
+                  "mime_type": "image\/jpeg",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-07 15:27:33",
+                  "filename": "Pariwisata-Nur.jpg",
+                  "hash": "e198af4a13fae1dc5bdfb1bb41db076a",
+                  "objectid": 37595,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218062"
+                }
+            ],
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "eprintid": 23898,
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "publisher": "FISIP Universitas Lampung",
+      "ispublished": "unpub",
+      "datestamp": "2020-09-10 01:14:21",
+      "lastmod": "2020-09-10 01:14:21",
+      "userid": 2805
+    },
+    {
+      "eprintid": 38294,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Laporan penelitian ANALISIS PEMANFAATAN PEMASARAN DIGITAL DI ERA COVID-19 DALAM PENINGKATAN KAPASITAS BISNIS",
+      "subjects": [
+        "H1"
+      ],
+      "abstract": "Pandemi Covid-19 telah merubah interaksi bisnis, pembatasan pergerakan dan pengurangan jam operasional memberikan pengaruh pada operasional sampai dengan penjualan. Para pelaku bisnis harus melakukan adaptasi pada kondisi tersebut. Aktivasi dan juga peningkatan pemasaran dan penjualan secara daring menjadi urgensi pada strategi bisnis. Hal tersebut terkait dengan kapasitas bisnis yang dimiliki oleh perusahaan. Pemanfaatan pemasaran digital adalah kebijakan yang diterapkan pada masa pandemi ini. Tujuannya adalah menganalisis pemasaran digital pada masyarakat 5.0 yang akan terbentuk di masa yang akan datang. Metode yang dilakukan dengan pengambilan data secara telusur pustaka dan sebaran data digital, dan penyebaran kuisioner pada pelaku bisnis. Hal tersebut akan mendukung pada analisis strategi pemasaran digital pada pelaku bisnis, yang merupakan peningkatan kapasitas bisnis. Hasil penelitian ini direncanakan untuk ditulis dalam Prosiding International Indonesia Conference on Interdiciplinary Studies pada Oktober 2021.",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-25 02:24:21",
+      "dir": "disk0\/00\/03\/82\/94",
+      "publication": "Urban Coffee Shop:  Shifting Housing to Commercial Space",
+      "creators": [
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "family": "Djausal",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gita Paramita"
+          }
+        },
+        {
+          "id": "nina.yudha@fisip.unila.ac.id",
+          "name": {
+            "family": "Aryanti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nina Yudha"
+          }
+        },
+        {
+          "id": "hani.damayanti@fisip.unila.ac.id,",
+          "name": {
+            "given": "Hani Damayanti",
+            "lineage": null,
+            "family": "Aprilia",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "contact_email": "gita.djausal@fisip.unila.ac.id",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38294",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "unpub",
+      "publisher": "Atlantis Press",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159355",
+            "rev_number": 1,
+            "main": "LAP penlit 2021.pdf",
+            "docid": 159355,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434402",
+                  "objectid": 159355,
+                  "filesize": 1490646,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-24 16:56:35",
+                  "hash": "e1e416b45ba47585a260a4c2ea272e8b",
+                  "filename": "LAP penlit 2021.pdf",
+                  "fileid": 434402,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 38294,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2022-01-25 02:24:21",
+      "userid": 2805,
+      "lastmod": "2022-01-25 02:24:21"
+    },
+    {
+      "divisions": [
+        "FISIP1"
+      ],
+      "contact_email": "gita.djausal@fisip.unila.ac.id",
+      "type": "article",
+      "dir": "disk0\/00\/02\/39\/14",
+      "publication": "PROSIDING SEMINAR NASIONAL FISIPUNIVERSITAS LAMPUNG (SEFILA) 3TAHUN 2019",
+      "creators": [
+        {
+          "name": {
+            "given": "Gita Paramita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Djausal"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "sanjaya",
+            "given": "fitri juliana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Ardeanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Eris"
+          }
+        }
+      ],
+      "pagerange": "185-189",
+      "datestamp": "2020-09-10 01:12:56",
+      "userid": 2805,
+      "lastmod": "2020-09-10 01:12:56",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23914",
+      "full_text_status": "restricted",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 37591,
+            "main": 31,
+            "files": [
+                {
+                  "objectid": 37591,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218046",
+                  "datasetid": "document",
+                  "filesize": 4003,
+                  "mime_type": "text\/html",
+                  "fileid": 218046,
+                  "filename": 31,
+                  "hash": "438f43e113543ef29f3f65200f014167",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-07 15:09:13"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 5,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37591",
+            "eprintid": 23914,
+            "placement": 1,
+            "security": "validuser",
+            "language": "id",
+            "mime_type": "text\/html",
+            "content": "published"
+          }
+      ],
+      "eprintid": 23914,
+      "subjects": [
+        "GF",
+        "H1",
+        "JZ"
+      ],
+      "abstract": "Globalization poses ambiguous challenges through increasing trade transactions, technological advances, abundant natural resources that urge the double edge knives for the society. The state as the main actor has the authority to regulate their assets. A state with big forest area, push to protect its interest. By using the analysis discourse research technique, the description of the national's interests and carrying capacity of biodiversity on the strength of the state is the focus of this research. In the agrarian aspect, in food security, biodiversity plays a role as provider of genetic diversity, protects the worst scenario of the harvest season, and the most important is to balance the ecosystem. It also contributes in maintaining the global climate and providing oxygen supply (the lungs of the world).",
+      "status_changed": "2020-09-10 01:12:56",
+      "eprint_status": "archive",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "title": "NEGARA DAN KEANEKARAGAMAN HAYATI: MENGHADAPI TANTANGAN GLOBALISASI EKONOMI"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Hartono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hartono"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/49",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 52049,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2183082,
+                  "mime_type": "application\/pdf",
+                  "fileid": 616724,
+                  "hash": "bdf7aadf0a7a9c513677b51faebb7360",
+                  "filename": "23450.pdf",
+                  "mtime": "2023-05-29 04:02:00",
+                  "hash_type": "MD5",
+                  "objectid": 251842,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616724"
+                }
+            ],
+            "docid": 251842,
+            "main": "23450.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251842",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52049",
+      "full_text_status": "public",
+      "lastmod": "2023-05-29 04:15:41",
+      "userid": 105,
+      "datestamp": "2023-05-29 04:15:41",
+      "eprintid": 52049,
+      "title": "HKI PROGRAM KREATIVITAS MAHASISWA - Strategi Dan Kunci Sukses Memenangkannya",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2023-05-29 04:15:41",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ]
+    },
+    {
+      "datestamp": "2023-03-31 00:49:44",
+      "lastmod": "2023-03-31 00:49:44",
+      "userid": 1199,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49469",
+      "documents": [
+          {
+            "eprintid": 49469,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "docid": 189073,
+            "main": "conference_paper-2021-mm_gd_et_al-the_urgency_of_virtual_tour_for_sumatran_butterfly_conservation.pdf",
+            "files": [
+                {
+                  "objectid": 189073,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536738",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536738,
+                  "filename": "conference_paper-2021-mm_gd_et_al-the_urgency_of_virtual_tour_for_sumatran_butterfly_conservation.pdf",
+                  "hash": "bdf2596fa48ddfc9099365429e32cdf2",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-04 16:50:50",
+                  "datasetid": "document",
+                  "filesize": 640622
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189073",
+            "rev_number": 3,
+            "formatdesc": "Artikel"
+          },
+          {
+            "main": "meizano-korespondensi-The Urgency of Virtual Tour for Sumatran Butterfly Conservation.pdf",
+            "docid": 189076,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 536744,
+                  "filename": "meizano-korespondensi-The Urgency of Virtual Tour for Sumatran Butterfly Conservation.pdf",
+                  "hash": "3dc06d6ae441f224d8b7c0de26c3c1ba",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:19:15",
+                  "datasetid": "document",
+                  "filesize": 93174,
+                  "objectid": 189076,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536744"
+                }
+            ],
+            "pos": 4,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189076",
+            "rev_number": 2,
+            "formatdesc": "Korespondensi M2",
+            "eprintid": 49469,
+            "placement": 4,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "other"
+          },
+          {
+            "placement": 5,
+            "security": "public",
+            "eprintid": 49469,
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 189077,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536749",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536749,
+                  "hash": "f0b178bbf48e6b115291d8e984e36816",
+                  "filename": "martinus-korespondensi-The Urgency of Virtual Tour for Sumatran.pdf",
+                  "mtime": "2023-03-30 18:23:05",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 92768
+                }
+            ],
+            "main": "martinus-korespondensi-The Urgency of Virtual Tour for Sumatran.pdf",
+            "docid": 189077,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189077",
+            "formatdesc": "Korespondensi M1",
+            "pos": 5,
+            "format": "text"
+          },
+          {
+            "format": "text",
+            "pos": 6,
+            "formatdesc": "similiarity",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189078",
+            "rev_number": 2,
+            "docid": 189078,
+            "main": "meizano+martinus-gita-conference_paper-2021-the_urgency_of_virtual_tour_for_sumatran_butterfly_conse.pdf",
+            "files": [
+                {
+                  "filesize": 626339,
+                  "datasetid": "document",
+                  "mtime": "2023-03-30 18:24:00",
+                  "hash_type": "MD5",
+                  "hash": "684922f906047e8bd6bdff5693a8dbd7",
+                  "filename": "meizano+martinus-gita-conference_paper-2021-the_urgency_of_virtual_tour_for_sumatran_butterfly_conse.pdf",
+                  "fileid": 536753,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536753",
+                  "objectid": 189078
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "other",
+            "eprintid": 49469,
+            "security": "public",
+            "placement": 6
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP1",
+        "FMIPA5",
+        "FT5",
+        "FT8"
+      ],
+      "type": "conference_item",
+      "dir": "disk0_bak\/00\/04\/94\/69",
+      "creators": [
+        {
+          "name": {
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "given": "Martinus",
+            "family": ".",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Djausal",
+            "lineage": null,
+            "given": "Gita Paramita"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ferbangkara",
+            "given": "Sony"
+          },
+          "id": "sony@staff.unila.ac.id"
+        },
+        {
+          "id": "alialarasati@gmail.com",
+          "name": {
+            "given": "Alia",
+            "lineage": null,
+            "honourific": null,
+            "family": "Larasati"
+          }
+        }
+      ],
+      "abstract": "Traveling is part of the activities for doing tourism. We have experience in tourism destinations. Due to COVID-19, people have limitations on the mobilization to travel. In 2020, a report was telling that tourism is the most affected business sector. Since the pandemic, we need to change our interactions. Most of our activities are moved digitally. On the other hand, we still have needed to fulfil. It shows the urgency of technology development to embrace the people's experience (user experience). The needs of traveling to tourism destinations, supported by technology. Developing a virtual tour in butterfly park has an urgency to stress spreading the knowledge of butterfly conservation, and it relies on the experience of doing the tourism. Tourist experience has to enable the feeling of being involved in the situation. Understanding the components is essential to the occasion. There are critical components for developing the user experience in Butterfly Park. We need a database on existing butterflies, vegetation (plants and flowers), and the butterfly park map. The virtual tourist can experience sight (seen using eyes) and sound (hear by ear), but they cannot feel by touch. That becomes the challenge for the development of these technologies. Taman Kupu-Kupu Gita Persada Virtual Reality Tour able to replicate some experience to users in visiting virtual tourist spots, viewing information on virtual tourist spots, and chose a location for virtual tourist spots. It is quite effective as a medium to experience tour and learn about conservation based on usability survey which resulted in 95% visitors are satisfied. Tourist experience is enabled the feeling of being involved in the situation by using Taman Kupu-Kupu Gita Persada Virtual Reality Tour. The experience will raise awareness for Sumatran butterfly conservation.",
+      "subjects": [
+        "H1",
+        "T1",
+        "TK"
+      ],
+      "succeeds": 39055,
+      "status_changed": "2023-03-31 00:49:44",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 22,
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/iicis-21\/125965484",
+      "event_dates": "26-27 October 2021",
+      "title": "The Urgency of Virtual Tour for Sumatran Butterfly Conservation",
+      "date_type": "published",
+      "eprintid": 49469,
+      "event_title": "2nd International Indonesia Conference on Interdisciplinary Studies (IICIS 2021)"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FISIP1"
+      ],
+      "publication": "Jurnal Kompetitif Bisnis",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Ridho",
+            "honourific": null,
+            "lineage": null,
+            "given": "Pandu Muhammad"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hartono",
+            "honourific": null,
+            "given": "Hartono"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aprilia",
+            "lineage": null,
+            "given": "Hani Damayanti"
+          },
+          "id": "hani.damayanti@fisip.unila.ac.id,"
+        }
+      ],
+      "issn": "2775-7781",
+      "dir": "disk0\/00\/04\/60\/89",
+      "lastmod": "2022-10-31 01:04:17",
+      "userid": 22742,
+      "datestamp": "2022-10-31 01:04:17",
+      "ispublished": "pub",
+      "number": 8,
+      "publisher": "Jurusan Ilmu Administrasi Bisnis",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 46089,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184913",
+            "main": "PENGARUH CONTENT MARKETING TERHADAP CUSTOMER ENGAGEMENT.pdf",
+            "docid": 184913,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 464920,
+                  "fileid": 509831,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-10-30 06:19:45",
+                  "hash_type": "MD5",
+                  "filename": "PENGARUH CONTENT MARKETING TERHADAP CUSTOMER ENGAGEMENT.pdf",
+                  "hash": "6bfff6593d4f9f8ff2a2e09501a90970",
+                  "objectid": 184913,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509831"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46089",
+      "refereed": "TRUE",
+      "eprintid": 46089,
+      "date_type": "published",
+      "status_changed": "2022-10-31 01:04:17",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pengaruh content marketing terhadap customer \r\nengagement pengguna Shopee di Kota Bandar Lampung dengan viral marketing sebagia variabel \r\nintervening. Jenis penelitian yakni explanatory research dengan pendekatan kuantitatif. Populasi \r\ndari penelitian ini adalah pengguna shopee di Kota Bandar Lampung. Data tersebut di peroleh dari \r\nkuisioner yang diisi secara online. Teknik pengambilan sampel menggunakan purposive sampling \r\ndengan jumlah sampel sebanyak 100 responden. Analisis data dalam penelitian ini menggunakan \r\nanalisis jalur dan uji sobel dengan menggunakan alat bantu SPSS 25. Berdasarkan hasil penelitian \r\ndan analisis menunjukkan bahwa content marketing berpengaruh positif dan signifikan terhadap \r\nviral marketing, viral marketing berpangaruh positif dan signifikan terhadap customer \r\nengagement, content marketing berpengaruh positif dan signifikan terhadap customer engagement \r\ndan content marketing berpengaruh positif tetapi tidak signifikan terhadap customer engagement \r\nmelalui viral marketing (Partial Mediation).\r\nKata kunci : Content Marketing, Viral Marketing, Customer Engagement",
+      "title": "PENGARUH CONTENT MARKETING TERHADAP CUSTOMER ENGAGEMENT\r\nDENGAN VIRAL MARKETING SEBAGAI VARIABEL INTERVENING",
+      "official_url": "https:\/\/jkb.fisip.unila.ac.id\/index.php\/jkb\/issue\/view\/9",
+      "rev_number": 10,
+      "volume": 1,
+      "metadata_visibility": "show"
+    },
+    {
+      "eprintid": 11159,
+      "date_type": "published",
+      "status_changed": "2019-04-29 07:56:45",
+      "eprint_status": "archive",
+      "abstract": "The purposes of this research to analyze the impact of regional economic development and economic crisis on small and medium enterprises (SMEs) development and to find pattern role of SMEs in development in Kabupaten Lampung Selatan period 1995-2004. The regional economic development consists of gross domestic regional product (GDP), income per capita and economic growth. While SMEs development consists of investment, employment and number of SMEs.The results show that income per capita and economic growth had negative and significant impacts on SMEs development, while economic crisis had positive and significant impacts on SMEs development. The role of SMEs in development is in line with classic theory, where in the ”later” stage of develop-ment large-scale industries (LSIs) become predominant, displacing the remaining SMEs in some economic activities.\r\n Keywords: SME, regional development, economic crisis, classic theory, and tesis flexible specialization",
+      "subjects": [
+        "HB"
+      ],
+      "title": "UKM, Krisis Ekonomi dan Pembangunan Daerah (SME, Economics Crisis and Regional Development)",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "type": "article",
+      "divisions": [
+        "FISIP1"
+      ],
+      "issn": "1829-9296",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rifa'i"
+          },
+          "id": "rifaiunila@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Deddy",
+            "lineage": null,
+            "family": "Aprilani",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal Sains dan Teknologi Lampung",
+      "dir": "disk0\/00\/01\/11\/59",
+      "lastmod": "2019-04-29 07:56:45",
+      "userid": 255,
+      "datestamp": "2019-04-29 07:56:45",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 11159,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24149",
+            "rev_number": 1,
+            "docid": 24149,
+            "main": "UKM, Krisis Ekonomi dan Pembangunan Daerah (SME, Economics Crisis and Regional Development).pdf",
+            "files": [
+                {
+                  "objectid": 24149,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101905",
+                  "fileid": 101905,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-04-15 03:37:19",
+                  "hash": "87609210db9fd1e2d346fc6a1aa73907",
+                  "filename": "UKM, Krisis Ekonomi dan Pembangunan Daerah (SME, Economics Crisis and Regional Development).pdf",
+                  "datasetid": "document",
+                  "filesize": 2785716
+                }
+            ]
+          }
+      ],
+      "publisher": "Bappeda Provinsi Lampung",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11159"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 14050,
+      "abstract": "Hasil Penilaian Teman Sejawat\/ Peer Review",
+      "subjects": [
+        "H1"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/rjoas.com\/issue-2017-08\/"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-09-09 04:08:22",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 8,
+      "official_url": "https:\/\/doi.org\/10.18551\/rjoas.2017-08.26",
+      "title": "Dynamic Capabilities and Creating Organizational Knowledge : Important Linkage For Building Competitive Advantage",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/40\/50",
+      "creators": [
+        {
+          "id": "arifsugiono01@gmail.com",
+          "name": {
+            "family": "Sugiono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Arif"
+          }
+        }
+      ],
+      "issn": "2226-1184",
+      "publication": "Russian Journal of Agricultural and Socio-Economic Sciences",
+      "pagerange": "233-241",
+      "datestamp": "2019-09-09 04:08:22",
+      "corp_creators": [
+        "Ilmu Adm. Bisnis FISIP Unila"
+      ],
+      "userid": 539,
+      "lastmod": "2019-09-09 04:08:22",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14050",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 14050,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27082",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122276",
+                  "objectid": 27082,
+                  "filesize": 855451,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-05 05:00:14",
+                  "hash": "9f01cfc9eb025c9c76b55f290fabb589",
+                  "filename": "1.Dynamic Capability & Creating Org Knowledge.pdf",
+                  "fileid": 122276,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "1.Dynamic Capability & Creating Org Knowledge.pdf",
+            "docid": 27082
+          }
+      ],
+      "ispublished": "pub",
+      "number": 68
+    },
+    {
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/29\/26",
+      "issn": "0853-4683",
+      "creators": [
+        {
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "family": "Sugiono",
+            "lineage": null
+          },
+          "id": "arifsugiono01@gmail.com"
+        }
+      ],
+      "publication": "Majalah Republika",
+      "datestamp": "2019-05-16 03:46:22",
+      "corp_creators": [
+        "Ilmu Adm. Bisnis FISIP Unila"
+      ],
+      "lastmod": "2019-05-16 03:46:22",
+      "userid": 539,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12926",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 12926,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113989",
+                  "objectid": 25910,
+                  "filesize": 8469011,
+                  "datasetid": "document",
+                  "mtime": "2019-05-15 06:06:18",
+                  "hash_type": "MD5",
+                  "hash": "0431c7f249571b638104bad43d8a9d4d",
+                  "filename": "JSS - Landmark Baru.pdf",
+                  "fileid": 113989,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 25910,
+            "main": "JSS - Landmark Baru.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25910",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "FISIP Unila",
+      "ispublished": "pub",
+      "eprintid": 12926,
+      "abstract": "Membahas kontroversi renc pembangunan jembatan selat sunda",
+      "subjects": [
+        "H1",
+        "HM"
+      ],
+      "status_changed": "2019-05-16 03:46:22",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Jembatan Selat Sunda : Sebuah Landmark Baru Indonesia"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46783",
+      "publisher": "-",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 185702,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515080",
+                  "datasetid": "document",
+                  "filesize": 238030,
+                  "fileid": 515080,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-21 03:54:33",
+                  "hash": "6dfb96a7ae95677d5151d4583b2e4f4d",
+                  "filename": "Koresponden.pdf"
+                }
+            ],
+            "main": "Koresponden.pdf",
+            "docid": 185702,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185702",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46783,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-11-21 09:16:37",
+      "userid": 539,
+      "lastmod": "2022-11-21 09:16:37",
+      "dir": "disk0\/00\/04\/67\/83",
+      "creators": [
+        {
+          "id": "arif.sugiono@fisip.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "family": "Sugiono",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Korespondensi : The Types of Dynamic Capabilities of Start-Up Entrepreneurs : A Study in Gastronomic Sub Sector in Creative Industry",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-21 09:16:37",
+      "eprintid": 46783
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/07\/66",
+      "creators": [
+        {
+          "name": {
+            "family": "Sugiono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Arif"
+          },
+          "id": "arif.sugiono@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50766",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "eprintid": 50766,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 190473,
+            "main": "Dampak Digitalisasi Terhadap Industri Skincare.pdf",
+            "files": [
+                {
+                  "objectid": 190473,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546922",
+                  "fileid": 546922,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-26 08:09:05",
+                  "hash": "733cc925e3bbf688ab0bec3daedb6aa7",
+                  "filename": "Dampak Digitalisasi Terhadap Industri Skincare.pdf",
+                  "datasetid": "document",
+                  "filesize": 549603
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190473",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "-",
+      "ispublished": "pub",
+      "datestamp": "2023-04-26 08:22:52",
+      "lastmod": "2023-04-26 08:22:52",
+      "userid": 539,
+      "eprintid": 50766,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : DAMPAK DIGITALISASI TERHADAP INDUSTRI SKINCARE",
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2023-04-26 08:22:52",
+      "eprint_status": "archive"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50764",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50764,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 546908,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-26 08:02:33",
+                  "hash_type": "MD5",
+                  "hash": "8e8b685770413fc73a5cc0092f5b15b6",
+                  "filename": "system dynamic.pdf",
+                  "datasetid": "document",
+                  "filesize": 1585407,
+                  "objectid": 190471,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546908"
+                }
+            ],
+            "main": "system dynamic.pdf",
+            "docid": 190471,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190471",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "-",
+      "ispublished": "pub",
+      "datestamp": "2023-04-26 08:22:42",
+      "lastmod": "2023-04-26 08:22:42",
+      "userid": 539,
+      "dir": "disk0_bak\/00\/05\/07\/64",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sugiono",
+            "honourific": null,
+            "given": "Arif"
+          },
+          "id": "arif.sugiono@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : Development\tof\tSystem\tDynamic\tModels\tfor\tImproving\tE-Governments\t\r\nPerformance\tLocal\tGovernments\tin\tLampung\tProvince",
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2023-04-26 08:22:42",
+      "eprint_status": "archive",
+      "eprintid": 50764
+    },
+    {
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-28 06:23:18",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : Gastronomi, Budaya, dan Media Sosial: Sebuah Studi Bibliometrik dan Eksplikasi",
+      "eprintid": 50818,
+      "datestamp": "2023-04-28 06:23:18",
+      "lastmod": "2023-04-28 06:23:18",
+      "userid": 539,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50818",
+      "publisher": "-",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190528",
+            "main": "Gastronomi, Budaya, dan Media Sosial.pdf",
+            "docid": 190528,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 547329,
+                  "filename": "Gastronomi, Budaya, dan Media Sosial.pdf",
+                  "hash": "7c13b85af8e85fc6eb7ed7f9de85f5c4",
+                  "mtime": "2023-04-28 02:52:19",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 728753,
+                  "objectid": 190528,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547329"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 50818,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/05\/08\/18",
+      "creators": [
+        {
+          "id": "arifsugiono01@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sugiono",
+            "honourific": null,
+            "given": "Arif"
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2023-04-26 08:22:45",
+      "lastmod": "2023-04-26 08:22:45",
+      "userid": 539,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50765",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "-",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50765,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-26 08:06:14",
+                  "hash_type": "MD5",
+                  "hash": "5610f3e449431ed9eb8dc2ad2830177b",
+                  "filename": "Pengembangan Ekosistem Industri.pdf",
+                  "fileid": 546915,
+                  "mime_type": "application\/pdf",
+                  "filesize": 532789,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546915",
+                  "objectid": 190472
+                }
+            ],
+            "main": "Pengembangan Ekosistem Industri.pdf",
+            "docid": 190472,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190472",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/05\/07\/65",
+      "creators": [
+        {
+          "id": "arif.sugiono@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sugiono",
+            "honourific": null,
+            "given": "Arif"
+          }
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-26 08:22:45",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similirity : PENGEMBANGAN EKOSISTEM INDUSTRI KREATIF KULINER DENGAN MENGGUNAKAN HELIX MODEL\r\n(Kajian Sub Sektor Kuliner di Kota Bandar Lampung)",
+      "eprintid": 50765
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sugiono",
+            "given": "Arif"
+          },
+          "id": "arif.sugiono@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/67",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "publisher": "-",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 546929,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-26 08:11:15",
+                  "hash": "e15ef58fd9edb64d58c281e8a395028f",
+                  "filename": "Respon Konsumen Terhadap Istagram Stories.pdf",
+                  "datasetid": "document",
+                  "filesize": 955204,
+                  "objectid": 190474,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546929"
+                }
+            ],
+            "docid": 190474,
+            "main": "Respon Konsumen Terhadap Istagram Stories.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190474",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50767,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50767",
+      "userid": 539,
+      "lastmod": "2023-04-26 08:22:54",
+      "datestamp": "2023-04-26 08:22:54",
+      "eprintid": 50767,
+      "title": "Similirity : RESPONS KONSUMEN TERHADAP INSTAGRAM STORIES\r\nANUGERAH TRAVELLERS MELALUI MODEL AIDA",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2023-04-26 08:22:54",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ]
+    },
+    {
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2023-04-26 08:22:58",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : The Influence of Political Marketing Mix Strategy on The\r\nDecision to Choose (Survey on First Voter in Lampung\r\nProvince)",
+      "eprintid": 50768,
+      "datestamp": "2023-04-26 08:22:58",
+      "lastmod": "2023-04-26 08:22:58",
+      "userid": 539,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50768",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50768,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mtime": "2023-04-26 08:13:07",
+                  "hash_type": "MD5",
+                  "hash": "042f9614420b4e51343ce50b3f9c1bfb",
+                  "filename": "The influence of political marketing-1.pdf",
+                  "fileid": 546936,
+                  "mime_type": "application\/pdf",
+                  "filesize": 460003,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546936",
+                  "objectid": 190475
+                }
+            ],
+            "main": "The influence of political marketing-1.pdf",
+            "docid": 190475,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190475",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "-",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/05\/07\/68",
+      "creators": [
+        {
+          "id": "arif.sugiono@fisip.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sugiono"
+          }
+        }
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50769",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "-",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190476",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 190476,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546943",
+                  "mime_type": "application\/pdf",
+                  "fileid": 546943,
+                  "hash": "e513bd4665cbd5755d69af321fffac5d",
+                  "filename": "The Influence Of Service Excelent.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-26 08:16:13",
+                  "datasetid": "document",
+                  "filesize": 332131
+                }
+            ],
+            "docid": 190476,
+            "main": "The Influence Of Service Excelent.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50769
+          }
+      ],
+      "datestamp": "2023-04-26 08:23:00",
+      "lastmod": "2023-04-26 08:23:00",
+      "userid": 539,
+      "dir": "disk0_bak\/00\/05\/07\/69",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sugiono",
+            "given": "Arif"
+          },
+          "id": "arif.sugiono@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similirity :The influence of service excellent to customer satisfaction: Study of PT. Bank Rakyat\r\nIndonesia Bandar Jaya Branch",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-26 08:23:00",
+      "eprintid": 50769
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14051",
+      "refereed": "TRUE",
+      "number": 71,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122283",
+                  "objectid": 27083,
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-05 05:08:54",
+                  "filename": "2.Understanding & Criticizing DC Model.pdf",
+                  "hash": "4b3587856e41c226b60c986e7bb13a26",
+                  "fileid": 122283,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1221638,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 27083,
+            "main": "2.Understanding & Criticizing DC Model.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27083",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 14051,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "84-91",
+      "datestamp": "2019-09-09 04:08:27",
+      "corp_creators": [
+        "Ilmu Adm. Bisnis FISIP Unila"
+      ],
+      "userid": 539,
+      "lastmod": "2019-09-09 04:08:27",
+      "dir": "disk0\/00\/01\/40\/51",
+      "id_number": "https:\/\/doi.org\/10.18551\/rjoas.2017-11.11",
+      "publication": "Russian Journal of Agricultural and Socio-Economic Sciences",
+      "issn": "2226-1184",
+      "creators": [
+        {
+          "id": "arifsugiono01@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sugiono",
+            "honourific": null,
+            "given": "Arif"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article",
+      "rev_number": 6,
+      "volume": 11,
+      "metadata_visibility": "show",
+      "title": "Understanding and Criticizing Dynamic Capabilities Models",
+      "official_url": "https:\/\/rjoas.com\/issue-2017-11\/article_11.pdf",
+      "subjects": [
+        "H1"
+      ],
+      "abstract": "Hasil Review Teman Sejawat \/ Peer Review",
+      "eprint_status": "archive",
+      "status_changed": "2019-09-09 04:08:27",
+      "related_url": [
+        {
+          "url": "https:\/\/rjoas.com\/issue-2017-11\/"
+        }
+      ],
+      "eprintid": 14051
+    },
+    {
+      "eprintid": 40104,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Kebijakan Negara Dalam Bidang Kelautan dan Perikanan di Era Ekonomi Daerah; Kebijakan Pemerintah Daerah dalam Pengembangan Sumber Daya Manusia di Desa Pesisir",
+      "subjects": [
+        "HG"
+      ],
+      "status_changed": "2022-03-11 04:11:36",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/04\/01\/04",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null,
+            "given": "Supriyanto"
+          },
+          "id": "supriyanto.1989@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "book_title": "Kebijakan Negara Dalam Bidang Kelautan dan Perikanan di Era Ekonomi Daerah",
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40104",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "Lembar Hasil Penilaian Sejawat Sebidang  dan File Untuk Buku Ilmiah Kebijakan Hedging Kelautan.pdf",
+            "docid": 161392,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/448374",
+                  "objectid": 161392,
+                  "filesize": 297629,
+                  "datasetid": "document",
+                  "hash": "a93b29c941b9c5bbd1890ad5fed08864",
+                  "filename": "Lembar Hasil Penilaian Sejawat Sebidang  dan File Untuk Buku Ilmiah Kebijakan Hedging Kelautan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-11 03:05:58",
+                  "mime_type": "application\/pdf",
+                  "fileid": 448374
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161392",
+            "eprintid": 40104,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Aura Publishing",
+      "datestamp": "2022-03-11 04:11:36",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-03-11 04:11:36",
+      "userid": 1247
+    },
+    {
+      "eprintid": 42450,
+      "status_changed": "2022-06-15 01:43:07",
+      "eprint_status": "archive",
+      "abstract": "The purpose of this study was to determine the effect of implementation of\r\nCorporate Governance and Bank Characteristics on Financial Performance through\r\nProfit Management of Conventional Banks in ASEAN. The population of this\r\nstudy is conventional banking in the ASEAN region, especially Indonesia,\r\nMalaysia, and Brunei Darussalam from 2015-2020. The results show that\r\ncorporate governance has a significant effect on earnings management, bank\r\ncharacteristics have a significant effect on earnings management, and earnings\r\nmanagement has no significant effect on financial performance. The findings of\r\nthis study are a model that relates corporate governance and company\r\ncharacteristics to the practice of banking earnings management in ASEAN. \r\n\r\nKeywords: Commissaries independent, audit committee, NPL, earning\r\nmanagement, ROA",
+      "subjects": [
+        "HB"
+      ],
+      "title": "Implementation Corporate Governance And Bank Characteristics\r\nTowards Performance Through Management Of Earning In\r\nAsean Conventional Banks",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "type": "article",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "publication": "Interciencia Journal",
+      "dir": "disk0\/00\/04\/24\/50",
+      "lastmod": "2022-06-15 01:43:07",
+      "userid": 639,
+      "datestamp": "2022-06-15 01:43:07",
+      "pagerange": 2022,
+      "documents": [
+          {
+            "eprintid": 42450,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Interciencia.pdf",
+            "docid": 164164,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466593",
+                  "objectid": 164164,
+                  "filesize": 651403,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-14 07:03:40",
+                  "filename": "Interciencia.pdf",
+                  "hash": "acfaeee8cd419e9b3fa43a6a8efd151d",
+                  "fileid": 466593,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164164",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42450"
+    },
+    {
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Koresponden : Earnings management determinant Comparison between Islamic and Conventional Banks across the ASEAN region",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-09 07:36:34",
+      "eprintid": 46388,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46388",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "Earnings management determinant Comparison between Islamic and Conventional Banks across the ASEAN region.pdf",
+            "docid": 185264,
+            "files": [
+                {
+                  "filesize": 734448,
+                  "datasetid": "document",
+                  "mtime": "2022-11-09 07:25:28",
+                  "hash_type": "MD5",
+                  "filename": "Earnings management determinant Comparison between Islamic and Conventional Banks across the ASEAN region.pdf",
+                  "hash": "b2dd3af2502d58d48560bab2cb2ffe4d",
+                  "fileid": 512057,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512057",
+                  "objectid": 185264
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185264",
+            "rev_number": 1,
+            "eprintid": 46388,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "-",
+      "datestamp": "2022-11-09 07:36:34",
+      "lastmod": "2022-11-09 07:36:34",
+      "userid": 639,
+      "dir": "disk0\/00\/04\/63\/88",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null,
+            "given": "Suripto"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other"
+    },
+    {
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Korespondensi : Characteristics of banks as determinants of profit management for Islamic and conventional banks in ASEAN",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-18 02:29:02",
+      "eprintid": 46724,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46724",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "-",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46724,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185638",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 227829,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-18 01:29:19",
+                  "hash": "d3583cfbefc43ff32e66d084feb9dc31",
+                  "filename": "Characteristics of banks as determinants of profit management for Islamic and conventional banks in ASEAN.pdf",
+                  "fileid": 514656,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514656",
+                  "objectid": 185638
+                }
+            ],
+            "docid": 185638,
+            "main": "Characteristics of banks as determinants of profit management for Islamic and conventional banks in ASEAN.pdf"
+          }
+      ],
+      "datestamp": "2022-11-18 02:29:02",
+      "userid": 639,
+      "lastmod": "2022-11-18 02:29:02",
+      "dir": "disk0\/00\/04\/67\/24",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Suripto",
+            "honourific": null,
+            "given": "Suripto"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other"
+    },
+    {
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "status_changed": "2022-11-18 02:29:00",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Korespondensi : Decision-making model to predict auto-rejection: An implementation of ARIMA for accurate forecasting of stock price volatility during the Covid-19",
+      "eprintid": 46723,
+      "datestamp": "2022-11-18 02:29:00",
+      "lastmod": "2022-11-18 02:29:00",
+      "userid": 639,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46723",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185637",
+            "docid": 185637,
+            "main": "Decision.pdf",
+            "files": [
+                {
+                  "objectid": 185637,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514648",
+                  "fileid": 514648,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-18 01:22:58",
+                  "filename": "Decision.pdf",
+                  "hash": "1abf952131d55c6378c17e9e836a18cf",
+                  "datasetid": "document",
+                  "filesize": 227512
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46723,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Growing Science",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/67\/23",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "family": "Suripto",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "eprintid": 46392,
+      "title": "Korespondensi : The effect of the covid-19 pandemic on stock prices with the event window approach  A case study of state gas companies in the energy sector",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-09 07:42:55",
+      "subjects": [
+        "H1"
+      ],
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "family": "Suripto",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/63\/92",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "publisher": "-",
+      "documents": [
+          {
+            "main": "The effect of the covid-19 pandemic on stock prices with the event window approach  A case study of state gas companies in the energy sector.pdf",
+            "docid": 185269,
+            "files": [
+                {
+                  "mtime": "2022-11-09 07:39:48",
+                  "hash_type": "MD5",
+                  "filename": "The effect of the covid-19 pandemic on stock prices with the event window approach  A case study of state gas companies in the energy sector.pdf",
+                  "hash": "b36944c47ee174736f3c4e00904f9250",
+                  "fileid": 512097,
+                  "mime_type": "application\/pdf",
+                  "filesize": 233272,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512097",
+                  "objectid": 185269
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185269",
+            "eprintid": 46392,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46392",
+      "lastmod": "2022-11-09 07:42:55",
+      "userid": 639,
+      "datestamp": "2022-11-09 07:42:55"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Korespondensi :Effect of Green Management and Earning Management of Energy Companies in Indonesia",
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2022-11-09 07:36:39",
+      "eprint_status": "archive",
+      "eprintid": 46389,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46389",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185266",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 185266,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512067",
+                  "fileid": 512067,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-09 07:28:47",
+                  "hash_type": "MD5",
+                  "filename": "Effect of Green Management and Earning Management of Energy Companies in Indonesia.pdf",
+                  "hash": "f55cb91a63cca67c7d811b22de729382",
+                  "datasetid": "document",
+                  "filesize": 335117
+                }
+            ],
+            "main": "Effect of Green Management and Earning Management of Energy Companies in Indonesia.pdf",
+            "docid": 185266,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46389
+          }
+      ],
+      "publisher": "-",
+      "ispublished": "pub",
+      "datestamp": "2022-11-09 07:36:39",
+      "userid": 639,
+      "lastmod": "2022-11-09 07:36:39",
+      "dir": "disk0\/00\/04\/63\/89",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other"
+    },
+    {
+      "dir": "disk0\/00\/04\/63\/91",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46391",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185268",
+            "rev_number": 1,
+            "docid": 185268,
+            "main": "Impact of oil prices and stock returns Evidence of oil and gas mining companies in indonesia during the covid-19 period.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512090",
+                  "objectid": 185268,
+                  "hash": "2ad4d3493e938ce2df264f97f0f6518a",
+                  "filename": "Impact of oil prices and stock returns Evidence of oil and gas mining companies in indonesia during the covid-19 period.pdf",
+                  "mtime": "2022-11-09 07:37:32",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 512090,
+                  "filesize": 157207,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46391,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "-",
+      "datestamp": "2022-11-09 07:42:53",
+      "lastmod": "2022-11-09 07:42:53",
+      "userid": 639,
+      "eprintid": 46391,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Korespondensi: Impact of oil prices and stock returns Evidence of oil and gas mining companies in indonesia during the covid-19 period",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-09 07:42:53"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43456",
+      "full_text_status": "public",
+      "publisher": "RJOAS",
+      "documents": [
+          {
+            "eprintid": 43456,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 165395,
+            "main": "Employees’ Performance Before and After E-Government Implemention  A Case Studi of The Local Board For Finance and Asset Management in Tanggamus Regency of Indonesia.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 858688,
+                  "fileid": 474476,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 03:31:45",
+                  "hash": "627e309ebe8928a02f59b6b2e1ba9f0d",
+                  "filename": "Employees’ Performance Before and After E-Government Implemention  A Case Studi of The Local Board For Finance and Asset Management in Tanggamus Regency of Indonesia.pdf",
+                  "objectid": 165395,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474476"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165395",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-07-20 09:45:51",
+      "userid": 639,
+      "lastmod": "2022-07-20 09:45:51",
+      "dir": "disk0\/00\/04\/34\/56",
+      "creators": [
+        {
+          "name": {
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Penilaian Rekan Sejawat : Employees’ Performance Before and After E-Government Implemention : A Case Studi of The Local Board For Finance and Asset Management in Tanggamus Regency of Indonesia",
+      "subjects": [
+        "HB"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:45:51",
+      "eprintid": 43456
+    },
+    {
+      "title": "Penilaian Rekan Sejawat : Impact of Green Innovation, Cultural Environment, Company Performance During Covid-19",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2022-07-20 09:46:00",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ],
+      "eprintid": 43459,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43459,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165398",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 474499,
+                  "filename": "Impact of Green Innovation, Cultural Environment, Company Performance During Covid-19.pdf",
+                  "hash": "bb4afa6078de796758b4ce822a35b809",
+                  "mtime": "2022-07-20 03:39:53",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 995723,
+                  "objectid": 165398,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474499"
+                }
+            ],
+            "docid": 165398,
+            "main": "Impact of Green Innovation, Cultural Environment, Company Performance During Covid-19.pdf"
+          }
+      ],
+      "publisher": "Atlantis Press SAR",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43459",
+      "userid": 639,
+      "lastmod": "2022-07-20 09:46:00",
+      "datestamp": "2022-07-20 09:46:00",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/59",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43460",
+      "publisher": "EconJournals",
+      "documents": [
+          {
+            "docid": 165399,
+            "main": "Impact of Oil Princes and Stock Returns Evidence of Oil and Gas Mining Companies in Indonesia during the COVID-19 Periode.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 474506,
+                  "hash": "12195f9eb4822e1e69a23b4135191471",
+                  "filename": "Impact of Oil Princes and Stock Returns Evidence of Oil and Gas Mining Companies in Indonesia during the COVID-19 Periode.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 03:42:20",
+                  "datasetid": "document",
+                  "filesize": 1045288,
+                  "objectid": 165399,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474506"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165399",
+            "eprintid": 43460,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-07-20 09:46:02",
+      "lastmod": "2022-07-20 09:46:02",
+      "userid": 639,
+      "dir": "disk0\/00\/04\/34\/60",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "family": "Suripto",
+            "honourific": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Penilaian Rekan Sejawat : Impact of Oil Princes and Stock Returns: Evidence of Oil and Gas Mining Companies in Indonesia during the COVID-19 Periode",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:02",
+      "eprintid": 43460
+    },
+    {
+      "eprintid": 43461,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Penilaian Rekan Sejawat : Implementation Corporate Governance And Bank Characteristics Towards Performance Through Management Of Earning In Asean Conventional Banks",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:04",
+      "dir": "disk0\/00\/04\/34\/61",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43461",
+      "ispublished": "pub",
+      "publisher": "Interciencia Journal",
+      "documents": [
+          {
+            "docid": 165400,
+            "main": "Implementation Corporate Governance And Bank Characteristics Towards Performance Through Management Of Earning In Asean Conventional Banks.pdf",
+            "files": [
+                {
+                  "objectid": 165400,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474513",
+                  "datasetid": "document",
+                  "filesize": 966577,
+                  "fileid": 474513,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 03:44:42",
+                  "hash": "b0ceb047f0e0af4cbd65818c5e5d4005",
+                  "filename": "Implementation Corporate Governance And Bank Characteristics Towards Performance Through Management Of Earning In Asean Conventional Banks.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165400",
+            "rev_number": 1,
+            "eprintid": 43461,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2022-07-20 09:46:04",
+      "lastmod": "2022-07-20 09:46:04",
+      "userid": 639
+    },
+    {
+      "dir": "disk0\/00\/04\/34\/63",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto",
+            "given": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43463",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Kementrian Hukum dan Hak Asasi Manusia",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43463,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474532",
+                  "objectid": 165402,
+                  "mtime": "2022-07-20 03:48:24",
+                  "hash_type": "MD5",
+                  "hash": "5a93b1c89f874be3e50af2d374223193",
+                  "filename": "Investasi dan Pasar Modal (Manajemen Berbasis Modal).pdf",
+                  "fileid": 474532,
+                  "mime_type": "application\/pdf",
+                  "filesize": 769622,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Investasi dan Pasar Modal (Manajemen Berbasis Modal).pdf",
+            "docid": 165402,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165402",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2022-07-20 09:46:08",
+      "lastmod": "2022-07-20 09:46:08",
+      "userid": 639,
+      "eprintid": 43463,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Penilaian Rekan Sejawat : Investasi dan Pasar Modal (Manajemen Berbasis Modal)",
+      "subjects": [
+        "HB"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:08"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43467",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Kementrian Hukum dan Hak Asasi Manusia",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43467,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165406",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 761587,
+                  "fileid": 474556,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-07-20 03:54:32",
+                  "hash_type": "MD5",
+                  "filename": "Manajemen Keuangan (Srtategi Penciptaan Nilai Perusahaan Melalui Pendekatan Economic Value Added).pdf",
+                  "hash": "7e1fe98d8792a63165361e947a8328f4",
+                  "objectid": 165406,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474556"
+                }
+            ],
+            "docid": 165406,
+            "main": "Manajemen Keuangan (Srtategi Penciptaan Nilai Perusahaan Melalui Pendekatan Economic Value Added).pdf"
+          }
+      ],
+      "datestamp": "2022-07-20 09:46:15",
+      "lastmod": "2022-07-20 09:46:15",
+      "userid": 639,
+      "dir": "disk0\/00\/04\/34\/67",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "family": "Suripto",
+            "honourific": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Penilaian Rekan Sejawat : Manajemen Keuangan (Srtategi Penciptaan Nilai Perusahaan Melalui Pendekatan Economic Value Added)",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:15",
+      "eprintid": 43467
+    },
+    {
+      "eprintid": 43469,
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:18",
+      "subjects": [
+        "H1"
+      ],
+      "title": "Penilaian Rekan Sejawat : Metode Penelitian Kuantitatif (Langkah Mudah Mengelola Data Statistik)",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/69",
+      "userid": 639,
+      "lastmod": "2022-07-20 09:46:18",
+      "datestamp": "2022-07-20 09:46:18",
+      "ispublished": "pub",
+      "publisher": "Kementrian Hukum dan Hak Asasi Manusia",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43469,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "280214eb7f60b6b477996d36e7361b58",
+                  "filename": "Metode Penelitian Kuantitatif (Langkah Mudah Mengelola Data Statistik).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 03:59:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474571,
+                  "filesize": 792938,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474571",
+                  "objectid": 165408
+                }
+            ],
+            "main": "Metode Penelitian Kuantitatif (Langkah Mudah Mengelola Data Statistik).pdf",
+            "docid": 165408,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165408",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43469"
+    },
+    {
+      "dir": "disk0\/00\/04\/34\/73",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "family": "Suripto",
+            "honourific": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43473",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165412",
+            "main": "The Effect of the COVID-19 Pandemic on Stock Princes with the Event Window Approach A Case Study of State Gas Companies in the Energy Sector.pdf",
+            "docid": 165412,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 04:05:58",
+                  "hash": "2129ea1e0373e9c79e9d691757b59143",
+                  "filename": "The Effect of the COVID-19 Pandemic on Stock Princes with the Event Window Approach A Case Study of State Gas Companies in the Energy Sector.pdf",
+                  "fileid": 474597,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1016197,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474597",
+                  "objectid": 165412
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 43473,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "EconJournals",
+      "datestamp": "2022-07-20 09:46:32",
+      "lastmod": "2022-07-20 09:46:32",
+      "userid": 639,
+      "eprintid": 43473,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Penilaian Rekan Sejawat :The Effect of the COVID-19 Pandemic on Stock Princes with the Event Window Approach: A Case Study of State Gas Companies in the Energy Sector",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:32"
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/57",
+      "userid": 639,
+      "lastmod": "2022-07-20 09:45:57",
+      "datestamp": "2022-07-20 09:45:57",
+      "ispublished": "pub",
+      "publisher": "Finance & Banking Studies",
+      "documents": [
+          {
+            "main": "Governance Implementation on Financial Performance.pdf",
+            "docid": 165396,
+            "files": [
+                {
+                  "hash": "26daf48e0bfa58a5db0ea38571a2eea4",
+                  "filename": "Governance Implementation on Financial Performance.pdf",
+                  "mtime": "2022-07-20 03:36:08",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474484,
+                  "filesize": 944721,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474484",
+                  "objectid": 165396
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165396",
+            "rev_number": 1,
+            "eprintid": 43457,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43457",
+      "eprintid": 43457,
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:45:57",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "title": "Penilain Rekan Sejawat : Governance Implementation on Financial Performance",
+      "rev_number": 8,
+      "metadata_visibility": "show"
+    },
+    {
+      "dir": "disk0\/00\/04\/34\/71",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43471",
+      "publisher": "Universitas of Merdeka Malang",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 43471,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165410",
+            "rev_number": 1,
+            "docid": 165410,
+            "main": "Modal Penentuan Harga Saham Pengujian Capital Asset Princing Model Melalui Pengujian Economic Value Added.pdf",
+            "files": [
+                {
+                  "objectid": 165410,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474581",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474581,
+                  "filename": "Modal Penentuan Harga Saham Pengujian Capital Asset Princing Model Melalui Pengujian Economic Value Added.pdf",
+                  "hash": "4d110959aebeafd5d66b52335e909852",
+                  "mtime": "2022-07-20 04:01:36",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1061057
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-07-20 09:46:23",
+      "lastmod": "2022-07-20 09:46:23",
+      "userid": 639,
+      "eprintid": 43471,
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Penilain Rekan Sejawat : Modal Penentuan Harga Saham: Pengujian Capital Asset Princing Model Melalui Pengujian Economic Value Added",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "status_changed": "2022-07-20 09:46:23",
+      "eprint_status": "archive"
+    },
+    {
+      "lastmod": "2022-07-20 09:46:27",
+      "userid": 639,
+      "datestamp": "2022-07-20 09:46:27",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 43472,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165411",
+            "rev_number": 1,
+            "docid": 165411,
+            "main": "Model Penciptaan Nilai Tambah Ekonomis dan Nilai Perusahaan.pdf",
+            "files": [
+                {
+                  "filesize": 977240,
+                  "datasetid": "document",
+                  "mtime": "2022-07-20 04:03:36",
+                  "hash_type": "MD5",
+                  "filename": "Model Penciptaan Nilai Tambah Ekonomis dan Nilai Perusahaan.pdf",
+                  "hash": "be6090b70cdff10ab2ba92b2f7ab22b7",
+                  "fileid": 474589,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474589",
+                  "objectid": 165411
+                }
+            ]
+          }
+      ],
+      "publisher": "Universitas of Merdeka Malang",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43472",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suripto"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/72",
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:46:27",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "title": "Penilain Rekan Sejawat : Model Penciptaan Nilai Tambah Ekonomis dan Nilai Perusahaan",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprintid": 43472
+    },
+    {
+      "userid": 639,
+      "lastmod": "2022-11-18 02:28:59",
+      "datestamp": "2022-11-18 02:28:59",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 46722,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 185636,
+            "main": "Turnitin dsl_2022_37 (1).pdf (1).pdf",
+            "files": [
+                {
+                  "objectid": 185636,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514640",
+                  "fileid": 514640,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-18 01:18:57",
+                  "hash": "80a56d73bd9e14079c5203da7cd27d7e",
+                  "filename": "Turnitin dsl_2022_37 (1).pdf (1).pdf",
+                  "datasetid": "document",
+                  "filesize": 677844
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185636"
+          }
+      ],
+      "publisher": "Growing Science",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46722",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/67\/22",
+      "status_changed": "2022-11-18 02:28:59",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1",
+        "HB"
+      ],
+      "title": "Similirity : Decision-making model to predict auto-rejection: An implementation of ARIMA for accurate forecasting of stock price volatility during the Covid-19",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprintid": 46722
+    },
+    {
+      "dir": "disk0\/00\/04\/34\/84",
+      "creators": [
+        {
+          "name": {
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43484",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43484,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 474672,
+                  "filename": "Hasil Turnitin _EMPLOYEES’ PERFORMANCE BEFORE AND AFTER E-GOVERNMENT.pdf",
+                  "hash": "62ee5ca00a825ab916c1c19266acf9fe",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 06:32:23",
+                  "datasetid": "document",
+                  "filesize": 178919,
+                  "objectid": 165423,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474672"
+                }
+            ],
+            "docid": 165423,
+            "main": "Hasil Turnitin _EMPLOYEES’ PERFORMANCE BEFORE AND AFTER E-GOVERNMENT.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165423",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "FISIP Unila",
+      "datestamp": "2022-07-20 09:47:21",
+      "lastmod": "2022-07-20 09:47:21",
+      "userid": 639,
+      "eprintid": 43484,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similirity : EMPLOYEES’ PERFORMANCE BEFORE AND AFTER E-GOVERNMENT\r\nIMPLEMENTATION: A CASE STUDY OF THE LOCAL BOARD FOR FINANCE AND \r\nASSET MANAGEMENT IN TANGGAMUS REGENCY OF INDONESIA",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:47:21"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43490",
+      "publisher": "FISIP Unila",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43490,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 524403,
+                  "datasetid": "document",
+                  "filename": "Hasil turnitin_Green Management and Earning Management.pdf",
+                  "hash": "e88e1a61189bbaaaf1d4d3871855a84f",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 06:43:47",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474714,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474714",
+                  "objectid": 165429
+                }
+            ],
+            "docid": 165429,
+            "main": "Hasil turnitin_Green Management and Earning Management.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165429",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-07-20 09:47:46",
+      "lastmod": "2022-07-20 09:47:46",
+      "userid": 639,
+      "dir": "disk0\/00\/04\/34\/90",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : Effect of Green Management and Earning Management of Energy Companies in Indonesia",
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2022-07-20 09:47:46",
+      "eprint_status": "archive",
+      "eprintid": 43490
+    },
+    {
+      "datestamp": "2022-07-21 01:15:02",
+      "lastmod": "2022-07-21 01:15:02",
+      "userid": 639,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43536",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "FISIP Unila",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 165472,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475073",
+                  "fileid": 475073,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-21 00:44:27",
+                  "hash": "6a0a6a02d603b0366cf952d62788c038",
+                  "filename": "Hasil turnitin _ Impact of Green Innovation, Cultural Environment,.pdf",
+                  "datasetid": "document",
+                  "filesize": 392311
+                }
+            ],
+            "docid": 165472,
+            "main": "Hasil turnitin _ Impact of Green Innovation, Cultural Environment,.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165472",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43536,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/35\/36",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null,
+            "given": "Suripto"
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2022-07-21 01:15:02",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similirity : Impact of Green Innovation, Cultural Environment,\r\nCompany Performance During Covid-19",
+      "eprintid": 43536
+    },
+    {
+      "title": "Similirity : Impact of Oil Prices and Stock Returns: Evidence of Oil and Gas Mining Companies in Indonesia during the COVID-19 Period",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:47:48",
+      "subjects": [
+        "H1"
+      ],
+      "eprintid": 43491,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43491,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474721",
+                  "objectid": 165430,
+                  "filename": "Hasil Turnitin_Impact of Oil Prices and Stock Returns.pdf",
+                  "hash": "e8baf3d3b7d90e5ce04c065f7ebeea5e",
+                  "mtime": "2022-07-20 06:46:39",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474721,
+                  "filesize": 579248,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Hasil Turnitin_Impact of Oil Prices and Stock Returns.pdf",
+            "docid": 165430,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165430",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "FISIP Unila",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43491",
+      "full_text_status": "public",
+      "lastmod": "2022-07-20 09:47:48",
+      "userid": 639,
+      "datestamp": "2022-07-20 09:47:48",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/91",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ]
+    },
+    {
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/34\/92",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto",
+            "given": "Suripto"
+          }
+        }
+      ],
+      "datestamp": "2022-07-20 09:47:49",
+      "lastmod": "2022-07-20 09:47:49",
+      "userid": 639,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43492",
+      "documents": [
+          {
+            "eprintid": 43492,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 165431,
+            "main": "Hasil turnitin_Implementation Corporate Governance And Bank Characteristics.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 06:48:15",
+                  "hash": "beb0338aabe9f3e198e0e83f7b276098",
+                  "filename": "Hasil turnitin_Implementation Corporate Governance And Bank Characteristics.pdf",
+                  "fileid": 474728,
+                  "mime_type": "application\/pdf",
+                  "filesize": 688850,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474728",
+                  "objectid": 165431
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165431",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "FISIP Unila",
+      "ispublished": "pub",
+      "eprintid": 43492,
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:47:49",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : Implementation Corporate Governance And Bank Characteristics Towards Performance Through Management Of Earning In Asean Conventional Banks"
+    },
+    {
+      "eprintid": 43493,
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:48:29",
+      "subjects": [
+        "H1"
+      ],
+      "title": "Similirity : Implikasi Teori Akutansi Positif dan Teori Keagenan dalam Praktik Manajemen Laba",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "suriptob.1969@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/93",
+      "lastmod": "2022-07-20 09:48:29",
+      "userid": 639,
+      "datestamp": "2022-07-20 09:48:29",
+      "publisher": "FISIP Unila",
+      "documents": [
+          {
+            "main": "Hasil turnitin_IMPLIKASI TEORI AKUNTANSI POSITIF DAN TEORI KEAGENAN.pdf",
+            "docid": 165432,
+            "files": [
+                {
+                  "objectid": 165432,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474735",
+                  "datasetid": "document",
+                  "filesize": 460125,
+                  "mime_type": "application\/pdf",
+                  "fileid": 474735,
+                  "filename": "Hasil turnitin_IMPLIKASI TEORI AKUNTANSI POSITIF DAN TEORI KEAGENAN.pdf",
+                  "hash": "40b117028c915093e9ead07fad33594b",
+                  "mtime": "2022-07-20 06:49:52",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165432",
+            "eprintid": 43493,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43493"
+    },
+    {
+      "lastmod": "2022-07-20 09:48:31",
+      "userid": 639,
+      "datestamp": "2022-07-20 09:48:31",
+      "ispublished": "pub",
+      "publisher": "FISIP Unila",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 165433,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474742",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474742,
+                  "filename": "Hasil turnitin_KETERKAITAN INDEKS SAHAM DUNIATERHADAP JAKARTA ISLAMIC INDEX.pdf",
+                  "hash": "1fc137f8c6e795ad25405908eab0310a",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 06:51:27",
+                  "datasetid": "document",
+                  "filesize": 375616
+                }
+            ],
+            "main": "Hasil turnitin_KETERKAITAN INDEKS SAHAM DUNIATERHADAP JAKARTA ISLAMIC INDEX.pdf",
+            "docid": 165433,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165433",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43494,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43494",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/94",
+      "eprint_status": "archive",
+      "status_changed": "2022-07-20 09:48:31",
+      "subjects": [
+        "H1"
+      ],
+      "title": "Similirity : Keterkaitan Indeks Saham Dunia Terhadap Jakarta Islamic Indeks (Studi Pasar Syariah Indonesia Periode 2013-2017)",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 43494
+    },
+    {
+      "title": "Similirity : Komparasi Kinerja Keuangan Perbankan Konvensional Dan Perbankan Syariah",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2022-07-20 09:47:28",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ],
+      "eprintid": 43485,
+      "ispublished": "pub",
+      "publisher": "FISIP Unila",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 43485,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165424",
+            "main": "Hasil Turnitin _KOMPARASI KINERJA KEUANGAN PERBANKAN KONVENSIONAL.pdf (1).pdf",
+            "docid": 165424,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474679",
+                  "objectid": 165424,
+                  "hash": "5dd3a2bfa6eb6f4f83fc62466b93c4b3",
+                  "filename": "Hasil Turnitin _KOMPARASI KINERJA KEUANGAN PERBANKAN KONVENSIONAL.pdf (1).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 06:34:08",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474679,
+                  "filesize": 432042,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43485",
+      "full_text_status": "public",
+      "lastmod": "2022-07-20 09:47:28",
+      "userid": 639,
+      "datestamp": "2022-07-20 09:47:28",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "family": "Suripto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/85",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ]
+    },
+    {
+      "title": "Similirity : Model Penciptaan Nilai Tambah Ekonomis dan Nilai Perusahaan",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2022-07-20 09:48:33",
+      "eprint_status": "archive",
+      "subjects": [
+        "G1"
+      ],
+      "eprintid": 43495,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43495,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 165434,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474749",
+                  "mime_type": "application\/pdf",
+                  "fileid": 474749,
+                  "filename": "Hasil turnitin_Model Penciptaan Nilai tambah ekonomis.pdf",
+                  "hash": "b8e34e76af7b7afbc0982ee67b4b45d2",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-20 06:53:08",
+                  "datasetid": "document",
+                  "filesize": 181539
+                }
+            ],
+            "main": "Hasil turnitin_Model Penciptaan Nilai tambah ekonomis.pdf",
+            "docid": 165434,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165434",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "FISIP Unila",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43495",
+      "full_text_status": "public",
+      "userid": 639,
+      "lastmod": "2022-07-20 09:48:33",
+      "datestamp": "2022-07-20 09:48:33",
+      "creators": [
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suripto"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/34\/95",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ]
+    },
+    {
+      "rev_number": 6,
+      "volume": 12,
+      "metadata_visibility": "show",
+      "title": "DISCLOSURE EKUITAS MEREK DALAM LAPORAN PERUSAHAAN",
+      "subjects": [
+        "H1"
+      ],
+      "abstract": "Makalah ini bertujuan untuk memberikan gambaran terkait disclosure ekuitas merek dalam laporan tahunan dan keuangan perusahaan.Makalah ini juga bertujuan untuk memberikan masukan kepada Otoritas Jasa Keuangan (OJK) dan Dewan Standar Akuntasi Keuangan mengenai disclosure ekuitas merek dalam laporan tahunan dan keuangan perusahaan. Makalah ini ditulis menggunakan kajian pustaka yang mendalam dan diikuti dengan penyajian data deskriptif terkait penghitungan ekuitas merek. Mengingat arti pentingnya ekuitas merek bagi manajemen perusahaan dan investor maka melalui makalah ini dirasa perlu memberi saran kepada OJK, Dewan Standar Akuntansi Keuangan terkait disclosure ekuitas merek dalam laporan tahunan dan keuangan perusahaan",
+      "status_changed": "2019-05-14 02:01:23",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 11115,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11115",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-10 04:15:58",
+                  "hash": "1c1272d85eede2807e1bca63a1f8692e",
+                  "filename": "06 Bagus.pdf",
+                  "fileid": 110889,
+                  "mime_type": "application\/pdf",
+                  "filesize": 593041,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/110889",
+                  "objectid": 25459
+                }
+            ],
+            "main": "06 Bagus.pdf",
+            "docid": 25459,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25459",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 11115,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "LP3M  STISIPOL Dharma Wacana",
+      "pagerange": "103-113",
+      "datestamp": "2019-05-14 02:01:23",
+      "userid": 170,
+      "corp_creators": [
+        "Jurusan Administrasi Bisnis"
+      ],
+      "lastmod": "2019-05-14 02:01:23",
+      "dir": "disk0\/00\/01\/11\/15",
+      "publication": "Wacana Publik",
+      "issn": "1858-2400",
+      "creators": [
+        {
+          "name": {
+            "given": "Kussuyatmono Bagus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wardianto"
+          },
+          "id": "kussuyatmono.bagus@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article"
+    },
+    {
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "EMPLOYEES’ PERFORMANCE BEFORE AND AFTER E-GOVERNMENT IMPLEMENTATION: A CASE STUDY OF THE LOCAL BOARD FOR FINANCE AND ASSET MANAGEMENT IN TANGGAMUS REGENCY OF INDONESIA",
+      "subjects": [
+        "H1",
+        "HG"
+      ],
+      "abstract": "This study aims to examine the difference between the performance of employees before\r\nand after e-government implementation. This research used quantitative approach with\r\nquestionnaires distributed to 36 employees from the total population of 57 people at the\r\nLocal Board for Finance and Asset Management in Tanggamus Regency. The results were\r\ntested using stepwise method with 3 variables of employee performance. The results show\r\nthat there is significant difference in work quantity and on time working performance before\r\nand after e-government implementation; while, the quality of work does not show any\r\nsignificant difference. Considering Wilk`s Lambda, there is significant difference on the\r\nperformance of employees before and after e-government implementation. This research\r\nsuggests that there is the need to improve Standard Operational Procedures related to the\r\nprocess of monitoring and improvement of the quality of work. This research also\r\nrecommends that e-government can be implemented in all local institutions, especially for\r\npublic services.",
+      "status_changed": "2021-06-16 03:32:00",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 32594,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32594",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 32594,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 134099,
+                  "datasetid": "document",
+                  "hash": "03acb1b0eecd236979784d35f294feb9",
+                  "filename": "EMPLOYEES’ PERFORMANCE BEFORE AND AFTER E-GOVERNMENT IMPLEMENTATION A CASE STUDY OF THE LOCAL BOARD FOR FINANCE AND ASSET MANAGEMENT IN TANGGAMUS REGENCY OF INDONESIA.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-16 02:46:51",
+                  "mime_type": "application\/pdf",
+                  "fileid": 385759,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/385759",
+                  "objectid": 148078
+                }
+            ],
+            "main": "EMPLOYEES’ PERFORMANCE BEFORE AND AFTER E-GOVERNMENT IMPLEMENTATION A CASE STUDY OF THE LOCAL BOARD FOR FINANCE AND ASSET MANAGEMENT IN TANGGAMUS REGENCY OF INDONESIA.pdf",
+            "docid": 148078,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148078",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2021-06-16 03:32:00",
+      "userid": 639,
+      "lastmod": "2021-06-16 03:32:00",
+      "dir": "disk0\/00\/03\/25\/94",
+      "publication": "RUSSIAN JOURNAL OF AGRICULTURAL AND SOCIOECONOMIC SCIENCES",
+      "creators": [
+        {
+          "name": {
+            "given": "Yulianto",
+            "honourific": null,
+            "family": "Yulianto",
+            "lineage": null
+          },
+          "id": "yulianto@fisip.unila.ac.id"
+        },
+        {
+          "id": "suriptob.1969@fisip.unila.ac.id",
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "family": "Suripto",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "article"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46013",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 46013,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 184835,
+            "main": "Maulana AP IJICC.pdf Pass Turnitin.pdf",
+            "files": [
+                {
+                  "fileid": 509236,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-27 06:55:27",
+                  "hash": "453ec8c35dc9f27f8c60137f3835d661",
+                  "filename": "Maulana AP IJICC.pdf Pass Turnitin.pdf",
+                  "datasetid": "document",
+                  "filesize": 505359,
+                  "objectid": 184835,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509236"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184835",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "ijicc",
+      "datestamp": "2022-10-27 10:20:22",
+      "lastmod": "2022-10-27 10:20:22",
+      "userid": 18,
+      "dir": "disk0\/00\/04\/60\/13",
+      "creators": [
+        {
+          "id": "maulana.agung@fisip.unila.ac.id",
+          "name": {
+            "given": "pratama",
+            "family": "maulana agung",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Similirity : Collaboration between Sociocultural\r\nValues and Digital Startups: Applying\r\nIndonesian Sociocultural Theories to\r\nan Accelerator Program",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-10-27 10:20:22",
+      "eprintid": 46013
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46017",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184839",
+            "rev_number": 1,
+            "docid": 184839,
+            "main": "Maulana AP Multidis1 Pass.pdf",
+            "files": [
+                {
+                  "objectid": 184839,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509266",
+                  "datasetid": "document",
+                  "filesize": 331105,
+                  "mime_type": "application\/pdf",
+                  "fileid": 509266,
+                  "filename": "Maulana AP Multidis1 Pass.pdf",
+                  "hash": "d60ca7c7bfeabe77e328c9f3adfb90a6",
+                  "mtime": "2022-10-27 07:04:44",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46017,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "International Journal of Advanced Multidisciplinary Research and Studies",
+      "datestamp": "2022-10-27 10:20:27",
+      "userid": 18,
+      "lastmod": "2022-10-27 10:20:27",
+      "dir": "disk0\/00\/04\/60\/17",
+      "creators": [
+        {
+          "name": {
+            "given": "pratama",
+            "lineage": null,
+            "family": "maulana agung",
+            "honourific": null
+          },
+          "id": "maulana.agung@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similirity : Does earning management mediate the effect of stock price on company value? Main \r\nBoard Energy Sub-Sector Companies in Indonesia During the Covid-19 Period",
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2022-10-27 10:20:27",
+      "eprint_status": "archive",
+      "eprintid": 46017
+    },
+    {
+      "eprintid": 46019,
+      "title": "Similirity : Implementation of Forecasting Hedging Model\r\nDuring the Covid-19 Pandemic with the Event \r\nWindows Approach to Asean Stock Prices 6",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "status_changed": "2022-10-27 10:20:33",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "maulana agung",
+            "lineage": null,
+            "given": "pratama"
+          },
+          "id": "maulana.agung@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/60\/19",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "ispublished": "pub",
+      "publisher": "Atlantis Press",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184841",
+            "rev_number": 1,
+            "main": "Maulana AP UliCoSS Pass.pdf",
+            "docid": 184841,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509280",
+                  "objectid": 184841,
+                  "hash": "d8857b46da5d9b372680eb18b9f9d9dc",
+                  "filename": "Maulana AP UliCoSS Pass.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-27 07:08:48",
+                  "mime_type": "application\/pdf",
+                  "fileid": 509280,
+                  "filesize": 753227,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46019,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46019",
+      "full_text_status": "public",
+      "lastmod": "2022-10-27 10:20:33",
+      "userid": 18,
+      "datestamp": "2022-10-27 10:20:33"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-10-27 10:20:24",
+      "subjects": [
+        "H1"
+      ],
+      "title": "Similirity : Modification on the Lean Start-ups Methodology (LSM) based Strategic Model\r\nof Indonesian Digital Start-ups Accelerator",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 46014,
+      "userid": 18,
+      "lastmod": "2022-10-27 10:20:24",
+      "datestamp": "2022-10-27 10:20:24",
+      "publisher": "Xi'an University",
+      "documents": [
+          {
+            "eprintid": 46014,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Maulana AP JXUAT Pass Turnitin.pdf",
+            "docid": 184836,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 509245,
+                  "hash": "6bd0951561d04e18489123f3f8f60ea4",
+                  "filename": "Maulana AP JXUAT Pass Turnitin.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-27 06:57:47",
+                  "datasetid": "document",
+                  "filesize": 598093,
+                  "objectid": 184836,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509245"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184836"
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46014",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "pratama",
+            "honourific": null,
+            "family": "maulana agung",
+            "lineage": null
+          },
+          "id": "maulana.agung@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/60\/14"
+    },
+    {
+      "eprintid": 46016,
+      "title": "Similirity : The Effect of Sustainable Growth Rate and Intellectual Capital on Firm Value: \r\nStudy on Sri Kehati Index Companies 2016-2020",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-27 10:20:29",
+      "subjects": [
+        "H1"
+      ],
+      "creators": [
+        {
+          "id": "maulana.agung@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "maulana agung",
+            "honourific": null,
+            "given": "pratama"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/60\/16",
+      "type": "other",
+      "divisions": [
+        "FISIP1"
+      ],
+      "ispublished": "pub",
+      "publisher": "International Journal of Advanced Multidisciplinary Research and Studies",
+      "documents": [
+          {
+            "eprintid": 46016,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Maulana AP multides4 pass.pdf",
+            "docid": 184838,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509259",
+                  "objectid": 184838,
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-27 07:02:03",
+                  "hash": "b723d79ea3d1ed71b93ad118dcd2476c",
+                  "filename": "Maulana AP multides4 pass.pdf",
+                  "fileid": 509259,
+                  "mime_type": "application\/pdf",
+                  "filesize": 263836,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184838",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46016",
+      "lastmod": "2022-10-27 10:20:29",
+      "userid": 18,
+      "datestamp": "2022-10-27 10:20:29"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Similirity : The influence of service excellent to customer satisfaction: Study of PT. Bank Rakyat \r\nIndonesia Bandar Jaya Branch",
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-10-27 10:20:17",
+      "eprintid": 46015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46015",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509252",
+                  "objectid": 184837,
+                  "mtime": "2022-10-27 06:59:57",
+                  "hash_type": "MD5",
+                  "filename": "Maulana AP Multides2 Pass.pdf",
+                  "hash": "773f7f59530f1c3c86317842a970e151",
+                  "fileid": 509252,
+                  "mime_type": "application\/pdf",
+                  "filesize": 330358,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 184837,
+            "main": "Maulana AP Multides2 Pass.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184837",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46015,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "OPRA Publications",
+      "ispublished": "pub",
+      "datestamp": "2022-10-27 10:20:17",
+      "lastmod": "2022-10-27 10:20:17",
+      "userid": 18,
+      "dir": "disk0\/00\/04\/60\/15",
+      "creators": [
+        {
+          "id": "maulana.agung@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "maulana agung",
+            "given": "pratama"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "type": "other"
+    }
+]
+

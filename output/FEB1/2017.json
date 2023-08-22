@@ -1,0 +1,74 @@
+[
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FEB1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Maulana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Mukhlis"
+          },
+          "id": "maulanamukhlis1978@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/01\/41\/84",
+      "date": "2017-10",
+      "lastmod": "2019-11-04 08:20:06",
+      "userid": 681,
+      "datestamp": "2019-11-04 08:20:06",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 14184,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27225",
+            "main": "14.pdf",
+            "docid": 27225,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/123225",
+                  "objectid": 27225,
+                  "filesize": 308220,
+                  "datasetid": "document",
+                  "hash": "519c35d2c18c085981547d1fe44ac990",
+                  "filename": "14.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-12 03:53:04",
+                  "mime_type": "application\/pdf",
+                  "fileid": 123225
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14184",
+      "full_text_status": "public",
+      "eprintid": 14184,
+      "event_title": "SEMINAR NASIONAL FISIP UNILA 2017",
+      "date_type": "published",
+      "event_location": "Swiss Bell Hotel Bandarlampung",
+      "eprint_status": "archive",
+      "status_changed": "2019-11-04 08:20:06",
+      "abstract": "Sejawat Sebidang peer review",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Advokasi Organisasi Masyarakat Sipil Dalam Mendorong Kebijakan Distribusi Penguasaan Lahan Upaya Mewujudkan Masyarakat Yang Berkeadilan",
+      "event_dates": "18 Oktober 2017",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8
+    }
+]
+

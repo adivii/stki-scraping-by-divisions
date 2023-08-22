@@ -1,0 +1,101 @@
+[
+    {
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1633",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12237",
+                  "objectid": 1633,
+                  "filesize": 2871008,
+                  "datasetid": "document",
+                  "filename": "1_pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok.pdf",
+                  "hash": "c84087f1f5e27256cee8e4db285b68ca",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 01:00:28",
+                  "mime_type": "application\/pdf",
+                  "fileid": 12237
+                }
+            ],
+            "docid": 1633,
+            "main": "1_pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1770
+          }
+      ],
+      "publisher": "Jurusan Ilmu Kelautan Universitas Diponegoro",
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1770",
+      "full_text_status": "public",
+      "userid": 274,
+      "lastmod": "2017-05-29 05:38:39",
+      "datestamp": "2017-05-29 05:35:02",
+      "pagerange": "77-86",
+      "issn": "0853-7291",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Sabhan",
+            "honourific": null,
+            "family": "Sabhan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Efendi",
+            "given": "Eko"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hartanto",
+            "given": "M Tri"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Purwandani",
+            "lineage": null,
+            "given": "Andri"
+          }
+        }
+      ],
+      "publication": "Indonesian Journal of Marine Science",
+      "dir": "disk0\/00\/00\/17\/70",
+      "date": "2010-02",
+      "type": "article",
+      "divisions": [
+        "FP21"
+      ],
+      "official_url": "http:\/\/www.ik-ijms.com",
+      "title": "pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 14,
+      "status_changed": "2017-05-29 05:38:39",
+      "eprint_status": "archive",
+      "subjects": [
+        "GC"
+      ],
+      "eprintid": 1770,
+      "date_type": "published"
+    }
+]
+

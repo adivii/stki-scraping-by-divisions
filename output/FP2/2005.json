@@ -1,0 +1,113 @@
+[
+    {
+      "creators": [
+        {
+          "id": "rusdi.evizal@fp.unila.ac.id",
+          "name": {
+            "family": "Evizal",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rusdi"
+          }
+        },
+        {
+          "id": "fembriarti.erry@fp.unila.ac.id",
+          "name": {
+            "given": "Fembriarti Erry",
+            "lineage": null,
+            "honourific": null,
+            "family": "Prasmatiwi"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/81\/34",
+      "date": 2005,
+      "pages": 149,
+      "editors": [
+        {
+          "id": "barifin@uwalumni.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Arifin",
+            "given": "Bustanul"
+          }
+        },
+        {
+          "id": "hismono@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ismono",
+            "given": "R Hanung"
+          }
+        },
+        {
+          "id": "muhajir.utomo@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null,
+            "given": "Muhajir"
+          }
+        }
+      ],
+      "type": "book_section",
+      "book_title": "The Future Use of Legume Nodulating Bacteria (LNB) In Indonesia Technical and Economic Perspectives",
+      "divisions": [
+        "FP2"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42186",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/250336",
+                  "objectid": 42186,
+                  "filesize": 1747452,
+                  "datasetid": "document",
+                  "filename": "Economic Valuasi Legume.pdf",
+                  "hash": "ae22dae69cd9bddfe9787fb6ff3a0ae5",
+                  "mtime": "2021-02-28 11:04:48",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 250336
+                }
+            ],
+            "main": "Economic Valuasi Legume.pdf",
+            "docid": 42186,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28134
+          }
+      ],
+      "publisher": "The CSM-BGBD Project Universitas Lampung",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28134",
+      "refereed": "TRUE",
+      "lastmod": "2021-03-01 04:54:27",
+      "userid": 978,
+      "pagerange": "62-72",
+      "datestamp": "2021-03-01 04:54:27",
+      "eprintid": 28134,
+      "isbn": "979-8287-75-4",
+      "date_type": "published",
+      "title": "Economic Potentials of Legume Crops in Plantation Management",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "eprint_status": "archive",
+      "status_changed": "2021-03-01 04:54:27",
+      "subjects": [
+        "SB"
+      ],
+      "abstract": "Legume crops are commonly used for special purposes in plantation management such as for shading, support tree, windbreaker, and cover crops. Besides its main functions as complement plant, legume has another benefit for maintaining soil fertility and productivity. The leguminous plants are very common in plantation management because their capacity to produce root nodule."
+    }
+]
+

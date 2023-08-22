@@ -1,0 +1,180 @@
+[
+    {
+      "dir": "disk0\/00\/04\/49\/86",
+      "date": "2022-09-16",
+      "creators": [
+        {
+          "id": "noviany@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Noviany",
+            "honourific": null,
+            "given": "Noviany"
+          }
+        },
+        {
+          "id": "buhani@fmipa.unila.ac.id",
+          "name": {
+            "given": "Buhani",
+            "family": "Buhani",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "suharso@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Suharso",
+            "honourific": null,
+            "given": "Suharso"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA7"
+      ],
+      "type": "video",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44986",
+      "documents": [
+          {
+            "formatdesc": "LAPORAN PKMU UNILA 2022 PENERAPAN PENGGUNAAN PESTISIDA ALAMI DI DESA WAY TUBA WAY KANAN",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166908",
+            "rev_number": 4,
+            "format": "video",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/485112",
+                  "objectid": 166908,
+                  "filename": "watch_v=y361MaP5bU8&feature=youtu.be",
+                  "hash": "d67315720c4ff4d0e2bf103552edfefa",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-18 04:53:25",
+                  "mime_type": "text\/html",
+                  "fileid": 485112,
+                  "filesize": 520862,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 166908,
+            "main": "watch_v=y361MaP5bU8&feature=youtu.be",
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "id",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44986
+          },
+          {
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166909",
+            "rev_number": 1,
+            "main": "Repository_Noviany_FMIPA_PKMU_Laporan Akhir.pdf",
+            "docid": 166909,
+            "files": [
+                {
+                  "hash": "1c4b5d09ff6512135aa7c5fb4929eedd",
+                  "filename": "Repository_Noviany_FMIPA_PKMU_Laporan Akhir.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-18 04:58:03",
+                  "mime_type": "application\/pdf",
+                  "fileid": 485115,
+                  "filesize": 632138,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/485115",
+                  "objectid": 166909
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 44986,
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "ispublished": "inpress",
+      "datestamp": "2022-09-19 01:19:47",
+      "lastmod": "2022-09-19 01:19:47",
+      "userid": 564,
+      "date_type": "published",
+      "eprintid": 44986,
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "title": "Penerapan penggunaan pestisida alami untuk  mengurangi pestisida sintesis melalui penyuluhan pada para petani di desa Way Tuba kabupaten Way Kanan",
+      "abstract": "Tim Dosen dari Jurusan Kimia FMIPA Universitas Lampung mengadakan kegiatan pengabdian kepada masyarakat yang bertema ”Penerapan penggunaan pestisida alami untuk  mengurangi pestisida sintesis melalui penyuluhan pada para petani di desa Way Tuba kabupaten Way Kanan”. Pada kegiatan ini telah dilakukan penyuluhan dan penerapan penggunaan pestisida alami untuk menambah wawasan dan pengetahuan petani dalam menggunakan pestisida sintesis yang tepat.",
+      "subjects": [
+        "QD"
+      ],
+      "status_changed": "2022-09-19 01:19:47",
+      "eprint_status": "archive"
+    },
+    {
+      "date": "2022-04-22",
+      "dir": "disk0\/00\/04\/13\/87",
+      "creators": [
+        {
+          "id": "hardoko.insan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Hardoko Insan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Qudus"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA7"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41387",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "docid": 163023,
+            "main": "KEGIATAN TAMBAHAN-MEMBIMBING DOKTOR-MAHASISWA LULUS.pdf",
+            "files": [
+                {
+                  "objectid": 163023,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458726",
+                  "datasetid": "document",
+                  "filesize": 548075,
+                  "fileid": 458726,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-22 07:59:28",
+                  "filename": "KEGIATAN TAMBAHAN-MEMBIMBING DOKTOR-MAHASISWA LULUS.pdf",
+                  "hash": "ca31e1cf017305cfba6570099e504e72"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163023",
+            "rev_number": 1,
+            "eprintid": 41387,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "-",
+      "ispublished": "unpub",
+      "datestamp": "2022-04-25 01:17:49",
+      "userid": 726,
+      "lastmod": "2022-04-25 01:17:49",
+      "eprintid": 41387,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "INFO KEGIATAN TAMBAHAN KE GURU BESAR",
+      "abstract": "-",
+      "subjects": [
+        "QD"
+      ],
+      "status_changed": "2022-04-25 01:17:49",
+      "eprint_status": "archive"
+    }
+]
+

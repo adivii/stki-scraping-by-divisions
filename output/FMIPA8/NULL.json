@@ -1,0 +1,275 @@
+[
+    {
+      "dir": "disk0\/00\/04\/67\/14",
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati"
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46714",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46714,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514558",
+                  "objectid": 185626,
+                  "filesize": 502856,
+                  "datasetid": "document",
+                  "mtime": "2022-11-18 00:51:27",
+                  "hash_type": "MD5",
+                  "filename": "Similarity_Split Lintasan18%.pdf",
+                  "hash": "3440aa1c06027db2e202f6736536c635",
+                  "fileid": 514558,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Similarity_Split Lintasan18%.pdf",
+            "docid": 185626,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185626",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "datestamp": "2022-11-18 01:12:13",
+      "lastmod": "2022-11-18 01:12:13",
+      "userid": 821,
+      "eprintid": 46714,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similarity Bilangan kromatik lokasi graf split lintasan",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2022-11-18 01:12:13",
+      "eprint_status": "archive"
+    },
+    {
+      "userid": 821,
+      "lastmod": "2022-11-18 01:11:56",
+      "datestamp": "2022-11-18 01:11:56",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46711,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185623",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "ec9173655128bd711f92bd38a42409bd",
+                  "filename": "Similarity_Certain Barbell22%.pdf",
+                  "mtime": "2022-11-18 00:34:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 514537,
+                  "filesize": 1438749,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514537",
+                  "objectid": 185623
+                }
+            ],
+            "docid": 185623,
+            "main": "Similarity_Certain Barbell22%.pdf"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46711",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/67\/11",
+      "status_changed": "2022-11-18 01:11:56",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "title": "Similarity On Locating Chromatic number of certain barbell graphs",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 46711
+    },
+    {
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Similarity On the locating chromatic number of barbell shadow path graphs",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-18 01:12:07",
+      "eprintid": 46713,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46713",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 46713,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 185625,
+            "main": "Similarity_Shadow Graph21%.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 543277,
+                  "fileid": 514551,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-18 00:43:55",
+                  "hash_type": "MD5",
+                  "hash": "e9beb02cc2e7f5c5bbe5c1d3962e06b9",
+                  "filename": "Similarity_Shadow Graph21%.pdf",
+                  "objectid": 185625,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/514551"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185625"
+          }
+      ],
+      "datestamp": "2022-11-18 01:12:07",
+      "userid": 821,
+      "lastmod": "2022-11-18 01:12:07",
+      "dir": "disk0\/00\/04\/67\/13",
+      "creators": [
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "other"
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2020-11-12 02:18:04",
+      "userid": 3269,
+      "datestamp": "2020-11-12 02:18:04",
+      "ispublished": "submitted",
+      "pres_type": "lecture",
+      "documents": [
+          {
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 24966,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38710",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 38710,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/226024",
+                  "fileid": 226024,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-11 08:36:40",
+                  "filename": "Devi Nur Anisa.docx",
+                  "hash": "0bb492e7de393216551228aa7f886b7b",
+                  "datasetid": "document",
+                  "filesize": 1125932
+                }
+            ],
+            "docid": 38710,
+            "main": "Devi Nur Anisa.docx"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24966",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "funders": [
+        "BLU LPPM"
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "id": "devinur@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Devi Nur Anisa",
+            "honourific": null,
+            "given": "Anisa"
+          }
+        },
+        {
+          "name": {
+            "family": "Ilim",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ilim"
+          },
+          "id": "ilim@fmipa.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/49\/66",
+      "status_changed": "2020-11-12 02:18:04",
+      "eprint_status": "archive",
+      "subjects": [
+        "QB"
+      ],
+      "abstract": "The aim of this research was to study about the effect of base catalyst concentration in synthesis curcumin analogs under ultrasound irradiation. Moreover, to determined concentrationof base catalyst KOH which obtained highest yield.  Synthesis of curcumin analog between benzaldehyde derivatives and ketones in ethanol at room temperature using KOH catalyst with variation concentrasion of 2.5%; 5%; 7.5% and 10%. The synthesized of curcumin analog under ultrasound irradiation for 15 minute. Products were identified using UV, IR and NMR. The synthesized of curcumin analogs with various KOH catalyst concentration were obtained in 55.99%; 59.63%; 81.11%; and 54.53%, respectively. In this study indicated the variation in the concentration of base catalyst has an effect on the synthesized of curcumin analogs. That is indicated by the yield quantity of curcumin analogs which increases at a KOH catalyst concentration of 2.5% to 7.5%, but decreases at concentration of 10%. The concentration of KOH catalyst 7.5% was obtained highest yield.",
+      "title": "Pengaruh Konsentrasi Katalis dalam Sintesis Senyawa Analog Kurkumin dengan Metode Ultrasound",
+      "official_url": "http:\/\/snk.conference.unesa.ac.id\/",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "event_title": "Seminar Nasional Kimia 2020",
+      "eprintid": 24966
+    }
+]
+

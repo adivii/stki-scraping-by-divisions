@@ -1,0 +1,76 @@
+[
+    {
+      "divisions": [
+        "FEB6"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/06\/18",
+      "date": "0016-05",
+      "creators": [
+        {
+          "name": {
+            "given": "nasrulah",
+            "honourific": null,
+            "family": "yusuf",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ribhan",
+            "lineage": null,
+            "family": "Ribhan",
+            "honourific": null
+          }
+        }
+      ],
+      "datestamp": "2022-03-30 07:48:22",
+      "lastmod": "2022-03-30 07:48:22",
+      "userid": 404,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40618",
+      "full_text_status": "public",
+      "publisher": "Jurnal Bisnis dan Manjemen",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161984",
+            "main": "13 Similarity_Pengarauh Customer Oriented Selling.pdf",
+            "docid": 161984,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2199295,
+                  "fileid": 452371,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-28 08:24:25",
+                  "filename": "13 Similarity_Pengarauh Customer Oriented Selling.pdf",
+                  "hash": "316a76102c31f2eb6a9d24828f9ee4c6",
+                  "objectid": 161984,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/452371"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 40618,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 40618,
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-03-30 07:48:22",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Pengaruh Customer - Oriented Selling Pada Kinerja Tenaga Penjualan Dengan Pengujian Dampak Social Desirability",
+      "official_url": "http:\/\/jurnal.feb.unila.ac.id\/index.php\/jbm\/about"
+    }
+]
+

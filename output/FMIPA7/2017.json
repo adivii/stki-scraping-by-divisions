@@ -1,0 +1,311 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6203",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "unpub",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6203,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/56941",
+                  "objectid": 19135,
+                  "filesize": 3995140,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-12-07 06:39:30",
+                  "hash": "54ffa0bab2f71353d342c621d1f582e1",
+                  "filename": "Suharso Presentasi Seminar Hasil Stranas  2017 Emersia.pdf",
+                  "fileid": 56941,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 19135,
+            "main": "Suharso Presentasi Seminar Hasil Stranas  2017 Emersia.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19135",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2018-04-25 03:54:27",
+      "lastmod": "2018-04-25 03:54:27",
+      "userid": 1094,
+      "dir": "disk0\/00\/00\/62\/03",
+      "date": "2017-12-06",
+      "creators": [
+        {
+          "name": {
+            "given": "Suharso",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          },
+          "id": "suharso_s@yahoo.com"
+        },
+        {
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Buhani"
+          },
+          "id": "buhani_s@yahoo.co.id"
+        },
+        {
+          "id": "teguh.endaryanto@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Endaryanto",
+            "lineage": null,
+            "given": "Teguh"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA7"
+      ],
+      "type": "conference_item",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_dates": "6 Desember 2017",
+      "title": "Aplikasi Green Inhibitor dari Campuran Ekstrak Gambir Sebagai Anti Kerak Pada Instalasi Pipa Pembangkit Listrik Tenaga Uap (PLTU)",
+      "subjects": [
+        "QD"
+      ],
+      "status_changed": "2018-04-25 03:54:27",
+      "eprint_status": "archive",
+      "event_location": "Emersia Hotel Bandar Lampung",
+      "event_title": "Seminar Hasil Penelitian Terapan Kemenristekdikti 2017",
+      "eprintid": 6203
+    },
+    {
+      "date": "2017-10-23",
+      "dir": "disk0\/00\/00\/44\/79",
+      "creators": [
+        {
+          "id": "agung.abadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Agung Abadi",
+            "family": "Kiswandono",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Apri Heri",
+            "family": "Iswanto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Arida",
+            "family": "Susilowati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Lumbantobing",
+            "given": "Agnes Farida"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FMIPA7"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4479",
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17384",
+            "main": "BUKU ABSTRAK SEMNAS 23 OKT 2017.pdf",
+            "docid": 17384,
+            "files": [
+                {
+                  "filesize": 3063637,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-03 09:34:20",
+                  "filename": "BUKU ABSTRAK SEMNAS 23 OKT 2017.pdf",
+                  "hash": "e10a983ee8230715a357029dd4d2da86",
+                  "fileid": 44356,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/44356",
+                  "objectid": 17384
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 4479,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "inpress",
+      "datestamp": "2017-11-16 07:10:36",
+      "lastmod": "2017-11-16 07:10:36",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Sumatera Utara",
+        "Universitas Sumatera Utara",
+        "Universitas Sumatera Utara"
+      ],
+      "userid": 364,
+      "event_location": "Raz Hotel Medan",
+      "date_type": "published",
+      "eprintid": 4479,
+      "event_title": "SEMINAR NASIONAL DIES NATALIS FAKULTAS KEHUTANAN USU KE-18",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "event_dates": 23,
+      "title": "UJI FISIKA-KIMIA DAN PENGGUNAAN METODE VOLUMETRI UNTUK ANALISIS KADAR ASAM SINAMAT PADA KEMENYAN (Styrax spp.) TAPANULI UTARA",
+      "abstract": "Tapanuli Utara merupakan sentra produksi getah kemenyan di Indonesia. Getah kemenyan di perdagangan yang terdiri dari kemenyan Toba (Styrax paralleloneurum PERK), kemenyan Durame (Styrax benzoine Dryland), dan kemenyan Bulu (Styrax benzoine var hiliferum) biasanya belum diketahui dengan pasti kadar asam sinamat dan jenis metabolit sekundernya. Tujuan penelitian ini dimaksudkan untuk mengetahui kandungan metabolit sekunder dan sifat fisika-kimia dari getah kemenyan jenis Toba dan jenis Durame yang ada di pasaran, sehingga diharapkan nantinya pengelompokan kualitas getah kemenyan dapat dipertimbangkan secara kuantitatif berdasarkan sifat fisika-kimianya. Sifat fisika-kimia getah kemenyan yang diuji adalah warna, kadar air, kadar kotoran, kadar abu, titik lunak, dan kadar asam sinamat. Pada pengujian skrining fitokimia diketahui bahwa getah kemenyanjenis Toba dan Durame positif mengandung alkaloid, saponin, tanin dan triterpenoid. Hasil penelitian juga menunjukkan bahwa kadar air, titik lunak, dan kadar asam sinamat masuk dalam kualifikasi SNI 7940:2013 sedangkan pada pengujian warna kadar kotoran, dan kadar abu tidak masuk dalam kualifikasi SNI 7940:2013.",
+      "subjects": [
+        "QD"
+      ],
+      "status_changed": "2017-11-16 07:10:36",
+      "eprint_status": "archive"
+    },
+    {
+      "divisions": [
+        "FMIPA7"
+      ],
+      "type": "article",
+      "date": "2017-10",
+      "dir": "disk0\/00\/00\/81\/53",
+      "publication": "Analit: Analytical and Environmental Chemistry",
+      "issn": "2540-8224",
+      "creators": [
+        {
+          "id": "rinawati@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Wahyuni",
+            "honourific": null,
+            "given": "Yuli Anita Dwi"
+          }
+        },
+        {
+          "id": "rinawati@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Rinawati",
+            "honourific": null,
+            "given": "Rinawati"
+          }
+        },
+        {
+          "id": "agungkiswandono@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Agung Abadi Kiswandono",
+            "lineage": null,
+            "given": "Agung Abadi Kiswandono"
+          }
+        },
+        {
+          "id": "r.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Supriyanto",
+            "honourific": null,
+            "given": "Supriyanto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Usman",
+            "given": "Rinadra P."
+          },
+          "id": "rinawati@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Nasy'ah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yunsy'u"
+          },
+          "id": "rinawati@fmipa.unila.ac.id"
+        }
+      ],
+      "datestamp": "2018-06-28 07:01:02",
+      "pagerange": "58-67",
+      "lastmod": "2018-06-28 07:01:02",
+      "userid": 489,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8153",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Kima FMIPA Unila",
+      "documents": [
+          {
+            "main": "Identifiaksi PAH_Analit Jurnal.pdf",
+            "docid": 21167,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 81163,
+                  "filename": "Identifiaksi PAH_Analit Jurnal.pdf",
+                  "hash": "38e8c939381ff7d436affa22602e254b",
+                  "mtime": "2018-06-28 06:27:34",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 367379,
+                  "objectid": 21167,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81163"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21167",
+            "eprintid": 8153,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "eprintid": 8153,
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "PAH telah menjadi golongan pencemar organik yang mendapat perhatian\r\nserius karena sifatnya yang beracun, mutagenik dan karsinogenik meski pun berada\r\npada rentang konsentrasi yang rendah bahkan kelumit. Pada penelitian ini telah\r\ndilakukan identifikasi senyawa PAH di perairan Teluk Lampung. Sampel air laut\r\ndari enam lokasi diekstraksi dengan menggunakan teknik ekstraksi Solid phase\r\nmicroextraction technique (SPME) dan diidentifikasi dengan menggunakan Gas\r\nChromatography-Mass Spectrometry (GC-MS). Hasil analisis menunjukkan bahwa\r\nsenyawa PAH yaitu phenantrena, antrasena, fluorantena, pyrena, benzo[a]antrasena,\r\nchrysena, benzo[a]pyrena, benzo[e]pyrena dan perilena terdeteksi di semua lokasi\r\nsampling. Adanya senyawa PAH di perairan merupakan indikator telah adanya\r\npencemaran senyawa organik yang memerlukan monitoring terus menerus dan\r\npengawasan yang lebih ketat untuk mencegah meningkatnya pencemaran tersebut.",
+      "status_changed": "2018-06-28 07:01:02",
+      "eprint_status": "archive",
+      "volume": 2,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/analit\/article\/view\/1593\/1234",
+      "title": "IDENTIFIKASI HIDROKARBON POLISIKLIK AROMATIK (PAH) DI\r\nPERAIRAN TELUK LAMPUNG"
+    }
+]
+

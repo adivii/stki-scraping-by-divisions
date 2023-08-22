@@ -1,0 +1,451 @@
+[
+    {
+      "date": "2023-01",
+      "dir": "disk0_bak\/00\/04\/79\/33",
+      "creators": [
+        {
+          "name": {
+            "family": "Asmiati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Asmiati"
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47933",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524342",
+                  "objectid": 187040,
+                  "mtime": "2023-01-20 02:41:38",
+                  "hash_type": "MD5",
+                  "filename": "Asmiati_CorrespondingAuthor_IJMMS.pdf",
+                  "hash": "36595496bb8fad27be24b01cf3e9b729",
+                  "fileid": 524342,
+                  "mime_type": "application\/pdf",
+                  "filesize": 7780610,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 187040,
+            "main": "Asmiati_CorrespondingAuthor_IJMMS.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187040",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47933,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "datestamp": "2023-01-20 03:16:19",
+      "lastmod": "2023-01-20 03:16:19",
+      "userid": 821,
+      "eprintid": 47933,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "20Jan_Corresponding Author \"On the locating chromatic number of certain barbell graphs\"",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-01-20 03:16:19"
+    },
+    {
+      "eprintid": 48013,
+      "status_changed": "2023-01-25 08:37:26",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "title": "25Jan_Corresponding Author_Bilangan Kromatik Lokasi Graf Split Lintasan",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "type": "other",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "given": "Asmiati",
+            "honourific": null,
+            "family": "Asmiati",
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2023-01-25",
+      "dir": "disk0_bak\/00\/04\/80\/13",
+      "lastmod": "2023-01-25 08:37:26",
+      "userid": 821,
+      "datestamp": "2023-01-25 08:37:26",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187178",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 3037202,
+                  "datasetid": "document",
+                  "mtime": "2023-01-25 08:11:15",
+                  "hash_type": "MD5",
+                  "hash": "71a07b862cb843a895cba9d2f700ec25",
+                  "filename": "Asmiati_CorrespAuthor_SplitLintasan.pdf",
+                  "fileid": 525076,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525076",
+                  "objectid": 187178
+                }
+            ],
+            "main": "Asmiati_CorrespAuthor_SplitLintasan.pdf",
+            "docid": 187178,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48013
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48013"
+    },
+    {
+      "datestamp": "2023-01-25 08:37:28",
+      "lastmod": "2023-01-25 08:37:28",
+      "userid": 821,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48014",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "main": "Asmiati_CorrespAuthor_ShadowPath.pdf",
+            "docid": 187179,
+            "files": [
+                {
+                  "hash": "4fb61907c2a77ee9ad3aed75dae19cd9",
+                  "filename": "Asmiati_CorrespAuthor_ShadowPath.pdf",
+                  "mtime": "2023-01-25 08:14:39",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 525083,
+                  "filesize": 2436040,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525083",
+                  "objectid": 187179
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187179",
+            "eprintid": 48014,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/04\/80\/14",
+      "date": "2023-01-25",
+      "creators": [
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null,
+            "given": "Asmiati"
+          }
+        }
+      ],
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2023-01-25 08:37:28",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "25Jan_Corresponding Author_On the Locating Chromatic Number of Barbell Shadow Paths",
+      "eprintid": 48014
+    },
+    {
+      "userid": 821,
+      "lastmod": "2023-01-25 08:37:24",
+      "datestamp": "2023-01-25 08:37:24",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187177",
+            "rev_number": 1,
+            "docid": 187177,
+            "main": "Asmiati_CorresAuthor_CertainBarbell.pdf",
+            "files": [
+                {
+                  "filesize": 8085093,
+                  "datasetid": "document",
+                  "hash": "10dc3b2744370259e2a4e959d1baaa5a",
+                  "filename": "Asmiati_CorresAuthor_CertainBarbell.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-25 08:06:17",
+                  "mime_type": "application\/pdf",
+                  "fileid": 525069,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525069",
+                  "objectid": 187177
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 48012,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48012",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null,
+            "given": "Asmiati"
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2023-01-25",
+      "dir": "disk0_bak\/00\/04\/80\/12",
+      "status_changed": "2023-01-25 08:37:24",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "title": "25Jan_Corresponding Author_On the Locating Chromatic Number of Certain Barbell Graphs",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 48012
+    },
+    {
+      "datestamp": "2023-01-25 08:37:35",
+      "lastmod": "2023-01-25 08:37:35",
+      "userid": 821,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48017",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48017,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187182",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 462781,
+                  "mime_type": "application\/pdf",
+                  "fileid": 525104,
+                  "hash": "dbceaa0a189b0549ac77316647cd73fa",
+                  "filename": "Asmiati_Similarity_Split Lintasan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-25 08:24:20",
+                  "objectid": 187182,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525104"
+                }
+            ],
+            "docid": 187182,
+            "main": "Asmiati_Similarity_Split Lintasan.pdf"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "unpub",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "other",
+      "date": "2023-01-25",
+      "dir": "disk0_bak\/00\/04\/80\/17",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati",
+            "given": "Asmiati"
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-01-25 08:37:35",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "25Jan_Similarity_Bilangan kromatik lokasi graf split lintas\r\nan",
+      "eprintid": 48017
+    },
+    {
+      "lastmod": "2023-01-25 08:37:30",
+      "userid": 821,
+      "datestamp": "2023-01-25 08:37:30",
+      "ispublished": "unpub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187180",
+            "rev_number": 1,
+            "docid": 187180,
+            "main": "Asmiati_Similarity_Certain Barbell Graphs.pdf",
+            "files": [
+                {
+                  "filesize": 426073,
+                  "datasetid": "document",
+                  "mtime": "2023-01-25 08:17:25",
+                  "hash_type": "MD5",
+                  "hash": "ea96ed37a8546d3f93b8385c5dfa5f51",
+                  "filename": "Asmiati_Similarity_Certain Barbell Graphs.pdf",
+                  "fileid": 525090,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525090",
+                  "objectid": 187180
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 48015,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48015",
+      "type": "other",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "family": "Asmiati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/80\/15",
+      "date": "2023-01-25",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-25 08:37:30",
+      "subjects": [
+        "QA"
+      ],
+      "title": "25Jan_Similarity_On the Locating Chromatic Number of Ce\r\nrtain Barbell Graphs",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 48015
+    },
+    {
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2023-01-25 08:37:33",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "25Jan_Similarity_On the locating chromatic number of bar\r\nbell shadow path graphs",
+      "eprintid": 48016,
+      "datestamp": "2023-01-25 08:37:33",
+      "userid": 821,
+      "lastmod": "2023-01-25 08:37:33",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48016",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "eprintid": 48016,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 187181,
+            "main": "Asmiati_Similarity_Shadow Path.pdf",
+            "files": [
+                {
+                  "objectid": 187181,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525097",
+                  "datasetid": "document",
+                  "filesize": 501711,
+                  "fileid": 525097,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-25 08:20:21",
+                  "filename": "Asmiati_Similarity_Shadow Path.pdf",
+                  "hash": "4cc12042905f3bdefb5a730b8ed8bf2c"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187181"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "other",
+      "date": "2023-01-25",
+      "dir": "disk0_bak\/00\/04\/80\/16",
+      "creators": [
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati"
+          }
+        }
+      ]
+    }
+]
+

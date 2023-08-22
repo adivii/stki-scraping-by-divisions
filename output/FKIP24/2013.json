@@ -1,0 +1,70 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 23805,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Kompetensi Guru Sejarah SMA Negeri Tulang Bawang Barat",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-08-31 01:56:43",
+      "pages": 23,
+      "monograph_type": "project_report",
+      "date": 2013,
+      "dir": "disk0\/00\/02\/38\/05",
+      "creators": [
+        {
+          "name": {
+            "given": "SUPARMAN",
+            "lineage": null,
+            "honourific": null,
+            "family": "ARIF"
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FKIP24"
+      ],
+      "type": "monograph",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23805",
+      "full_text_status": "public",
+      "publisher": "BE PRESS",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23805,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 8849079,
+                  "fileid": 217224,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-30 06:07:04",
+                  "filename": "Kompetensi Guru Profesional bidang pendidikan IPS di Provinsi Lampung.pdf",
+                  "hash": "05437b9956e7f3df87b866b4702ba9e9",
+                  "objectid": 37438,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217224"
+                }
+            ],
+            "docid": 37438,
+            "main": "Kompetensi Guru Profesional bidang pendidikan IPS di Provinsi Lampung.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37438",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2020-08-31 01:56:43",
+      "userid": 250,
+      "lastmod": "2020-08-31 01:56:43"
+    }
+]
+

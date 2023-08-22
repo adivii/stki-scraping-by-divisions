@@ -1,0 +1,501 @@
+[
+    {
+      "datestamp": "2020-06-26 13:35:57",
+      "corp_creators": [
+        "Faculty of Teacher Training and Education, University of Lampung"
+      ],
+      "lastmod": "2020-06-26 13:35:57",
+      "userid": 863,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22758",
+      "publisher": "Faculty of Education, EsklisehirOsmangazi University",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36263",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 36263,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208863",
+                  "fileid": 208863,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-26 02:05:00",
+                  "hash_type": "MD5",
+                  "filename": "Development_and_Evaluation_of_a_Model_Supported_Sc.pdf",
+                  "hash": "a3a4b340f77743939eadfef5e46e43ed",
+                  "datasetid": "document",
+                  "filesize": 2970940
+                }
+            ],
+            "main": "Development_and_Evaluation_of_a_Model_Supported_Sc.pdf",
+            "docid": 36263,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22758
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP11"
+      ],
+      "type": "other",
+      "date": "2017-04",
+      "dir": "disk0\/00\/02\/27\/58",
+      "creators": [
+        {
+          "name": {
+            "given": "CE",
+            "lineage": null,
+            "honourific": null,
+            "family": "Chandra Ertikanto"
+          },
+          "id": null
+        },
+        {
+          "id": "herpratiwi.1964@fkip.unila.ac.id",
+          "name": {
+            "given": "Herpratiwi",
+            "family": "Herpratiwi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Tina",
+            "lineage": null,
+            "given": "Yuniarti"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Andrian",
+            "honourific": null,
+            "given": "Saputra"
+          }
+        }
+      ],
+      "abstract": "A teacher training program, named Model-Supported Scientific Inquiry Training Program (MSSITP) has been successfully developed to improve the inquiry skills of Indonesian elementary teachers. The skills enhanced by MSSITP are defining problems, formulating hypotheses, planning and doing investigations, drawing conclusions, and communicating the results. This teacher training program was evaluated by 48 teachers selected by stratified random sampling technique from 48 elementary schools in Bandar Lampung City, Lampung Province, Indonesia. The program was designed to follow Bandura' s stages of social learning: attention, retention, production, and motivation. The impact of MSSITP was evaluated in three ways. First, by analyzing the improvements of inquiry skills compared to conventional SITP through pretest and posttest control group design. Second, by using an inquiry questionnaire to describe teachers' perceptions of inquiry learning. Last, by using a response instrument to elicit teachers' opinions of the program. The results indicate a significant difference (sig 0.00) in teachers' skills acquired from the two different training programs. Mean posttest scores, varying from 34.7 to 56.9 for the control group and 58.3 to 98.6 for the experimental group, confirmed the effectiveness of MSSITP. As revealed by the questionnaire, MSSITP effectively enhanced teachers' understanding of the scientific inquiry processes, and their confidence to perform inquiry teaching in the classroom. Teachers also expressed satisfaction with the high-quality training materials, learning scenario, and subsequent follow-up.",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-06-26 13:35:57",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Development and Evaluation of a Model-Supported Scientific Inquiry Training Program for Elementary Teachers in Indonesia",
+      "date_type": "published",
+      "eprintid": 22758
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "family": "Dwi Yulianti",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/55\/76",
+      "date": "2017-06",
+      "pages": 78,
+      "type": "book",
+      "series": "Pendidikan",
+      "divisions": [
+        "FKIP11"
+      ],
+      "ispublished": "pub",
+      "number": "-",
+      "publisher": "Anugrah Utama Raharja",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28703",
+            "docid": 28703,
+            "main": "Buku Pengb Kurk 2017 cetak.pdf",
+            "files": [
+                {
+                  "filesize": 1856429,
+                  "datasetid": "document",
+                  "filename": "Buku Pengb Kurk 2017 cetak.pdf",
+                  "hash": "35b3c8bdc659421b47ea0df5fdffc52c",
+                  "mtime": "2019-11-05 04:33:16",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 134256,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/134256",
+                  "objectid": 28703
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 15576,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15576",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "lastmod": "2019-11-14 11:21:07",
+      "userid": 559,
+      "datestamp": "2019-11-14 11:21:07",
+      "eprintid": 15576,
+      "isbn": "978-602-6739-02-5",
+      "date_type": "published",
+      "title": "Pengantar Pengembangan Kurikulum",
+      "official_url": "http:\/\/www.aura.publishing.com",
+      "volume": "-",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 11:21:07",
+      "related_url": [
+        {
+          "url": "http:\/\/www.aura.publishing.com"
+        }
+      ],
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Buku  pengembangan kurikulum ini dikembangkan untuk membantu mahasiswa dan stakeholder pendidikan dalam membangun pengetahuan tentang pengembangan kurikulum. Harapan yang menjadi tujuan berikutnya setelah pengetahuan tentang pengembangan kurikulum diperoleh, pengguna buku memiliki dasar untuk mengembangkan kurikulum. Sajian dalam buku ini disusun berdasarkan urutan hirarki pengetahuan yang perlu dimiliki."
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk menganalisis 1) pemahaman guru terhadap setiap komponen RPP, 2) pengetahuan terhadap merancang rencana pembelajaran, 3) kemampuan guru dalam merancang RPP, 4) pengetahauan guru terhadap perangkat pembelajaran, 5) kemampuan guru dalam mengembangkan perangkat pembelajaran. Target khusus yang ingin dicapai adalah Penelitian ini ditargetkan, 1) menghasilkan artikel  ilmiah yang dipublikasikan dalam jurnal nasional JPP FKIP Unila,  dan 2) menghasilkan analisis rancangan dan pembelajaran guru SDN untuk meningkatkan kompetensi siswa kelas rendah berbasis kurikulum 2013. Kedua temuan ini mempunyai kontribusi mendasar untuk penelitian mahasiswa dan dosen Ps TP FKIP Unila, guna melakukan penelitian-penelitian lebih lanjut dalam upaya meningkatkan variabel hasil belajar siswa SD kelas rendah yang mencakup variabel metode dan kondisi serta dalam lima kawasan TP. Penelitian dilakukan dengan sembilan tahapan kegiatan, setiap tahapan menghasilkan luaran dan  indicator capaian serta tempat pelaksanaan sebagai berikut. Sembilan tahap yang dilakukan pada penelitian ini yaitu, 1) merumusakan tujuan penelitian, 2) menentukan data untuk mencapai tujuan penelitian, 3) menentukan teknik pengumpulan data, sampel dan subyek penelitian, 4)  merumuskan instrumen penelitian, 5) pengumpulan data, 6) analisis data, 7) verifikasi data, 8) penyimpulan, dan 9) pelaporan dan publikasi di salah satu jurnal nasional. Hasil penelitian disimpulkan 1) pemahaman dan kemampuan guru pada komponen dan merancang RPP berada pada kriteria kurang 25% sampai 37%. Adapun pada kriteria cukup 35% sampai 40%, 2) pemahaman dan kompetensi guru pada komponen peranagkat pembelajaran berada pada kriteria kurang 55% sampai 65%. Adapun pada kriteria cukup 20% sampai 25%.",
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 11:23:43",
+      "related_url": [
+        {
+          "url": "http:\/\/fkip.unila.ac.id"
+        }
+      ],
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "official_url": "http:\/\/fkip.unila.ac.id",
+      "title": "ANALISIS RANCANGAN  DAN  PEMBELAJARAN GURU SDN \r\nUNTUK MENINGKATKAN KOMPETENSI SISWA KELAS RENDAH \r\nBERBASIS KURIKULUM 2013",
+      "eprintid": 15630,
+      "datestamp": "2019-11-14 11:23:43",
+      "lastmod": "2019-11-14 11:23:43",
+      "userid": 559,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15630",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15630,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28750",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 28750,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/134562",
+                  "fileid": 134562,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-11-05 07:57:03",
+                  "hash_type": "MD5",
+                  "filename": "lap BLU 17-17 TP2.pdf",
+                  "hash": "c1c58bf41abf2da90d0ee43c067a83e3",
+                  "datasetid": "document",
+                  "filesize": 1122822
+                }
+            ],
+            "docid": 28750,
+            "main": "lap BLU 17-17 TP2.pdf"
+          }
+      ],
+      "publisher": "FKIP Unila",
+      "divisions": [
+        "FKIP11"
+      ],
+      "type": "other",
+      "date": "2017-11",
+      "dir": "disk0\/00\/01\/56\/30",
+      "creators": [
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dwi Yulianti"
+          }
+        },
+        {
+          "name": {
+            "family": "Herpratiwi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Herpratiwi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Budi Koestoro",
+            "given": "Budi"
+          }
+        },
+        {
+          "name": {
+            "given": "Adelina",
+            "honourific": null,
+            "family": "Adelina Hasyim",
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "publisher": "Faculty of Islamic Education and Teacher Training IAIN Imam Bonjol Padang",
+      "ispublished": "pub",
+      "number": 1,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/PTA"
+        }
+      ],
+      "datestamp": "2021-07-25 13:17:15",
+      "lastmod": "2021-07-25 13:17:15",
+      "id_number": "http:\/\/journal.tarbiyahiainib.ac.id\/index.php\/attalim",
+      "date": "2017-02-01",
+      "divisions": [
+        "FKIP11"
+      ],
+      "type": "article",
+      "abstract": "The general objective of the research is to develop a\r\nmodel of  a computer-based education management information\r\nsystems (MIS) in Elementary schools and the specific objectives\r\nwere to (1) develop a prototype model of an education MIS\r\ncomputer-based; and (2) to develop the procedure Manual of a\r\ncomputer-based education MIS models. The design of the\r\nresearch was research and development proposed by Borg and\r\nGall. The samples were elementary schools in the city of Bandar\r\nLampung. The research procedure were (1) determining the\r\nlocation of the research, (2) collecting data, (3) designing the\r\ninitial product and validating to the experts, (4) conducting a\r\nseminar in the forum group discussion (FGD), and (5) revising\r\nthe first design. The result of the product is a prototype model of\r\ncomputer based education MIS and the manual procedure of\r\ncomputer based education MIS for the elementary school.",
+      "subjects": [
+        "L1"
+      ],
+      "succeeds": 6014,
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 32742,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32742",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148814",
+            "main": "iii_CONTENTS 2_OK-1.doc",
+            "docid": 148814,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387407",
+                  "objectid": 148814,
+                  "mtime": "2017-11-18 12:49:02",
+                  "hash_type": "MD5",
+                  "hash": "f70f596f394dd9bd7a14b38c555d6974",
+                  "filename": "iii_CONTENTS 2_OK-1.doc",
+                  "fileid": 387407,
+                  "mime_type": "application\/msword",
+                  "filesize": 37376,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/msword",
+            "eprintid": 32742,
+            "placement": 1,
+            "security": "public"
+          },
+          {
+            "files": [
+                {
+                  "objectid": 148815,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387408",
+                  "fileid": 387408,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-18 12:49:30",
+                  "hash": "5be5604750ecd751b217270d1c20d6ae",
+                  "filename": "264-830-1-PB.pdf",
+                  "datasetid": "document",
+                  "filesize": 744151
+                }
+            ],
+            "docid": 148815,
+            "main": "264-830-1-PB.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148815",
+            "format": "text",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 32742,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "placement": 3,
+            "security": "public",
+            "eprintid": 32742,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148816",
+            "rev_number": 2,
+            "pos": 3,
+            "format": "image",
+            "files": [
+                {
+                  "objectid": 148816,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387409",
+                  "fileid": 387409,
+                  "mime_type": "image\/jpeg",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-18 12:51:42",
+                  "filename": "COVER DEPAN 7.3.1.jpg",
+                  "hash": "47bbfd27a602f260875e00cb1bb3d586",
+                  "datasetid": "document",
+                  "filesize": 8698008
+                }
+            ],
+            "main": "COVER DEPAN 7.3.1.jpg",
+            "docid": 148816
+          }
+      ],
+      "pagerange": "9-18",
+      "userid": 407,
+      "dir": "disk0\/00\/03\/27\/42",
+      "creators": [
+        {
+          "id": "riswandi.unila@gmail.com",
+          "name": {
+            "given": "riswandi",
+            "family": "Riswandi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2355-7893",
+      "publication": "AL-TA’LIM JOURNAL",
+      "metadata_visibility": "show",
+      "rev_number": 3,
+      "volume": 24,
+      "title": "The Development of a Computer Based Education Management Information System (MIS) Model in Elementary School Bandar Lampung",
+      "related_url": [
+        {
+          "url": "http:\/\/journal.tarbiyahiainib.ac.id\/index.php\/attalim"
+        }
+      ],
+      "status_changed": "2021-07-25 13:17:15"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "supriyadi",
+            "lineage": null,
+            "given": "supriyadi"
+          }
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dwi Yulianti"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Munaris",
+            "honourific": null,
+            "given": "Munaris"
+          }
+        }
+      ],
+      "id_number": "Vol 1 No.1",
+      "date": "2017-11",
+      "dir": "disk0\/00\/01\/55\/64",
+      "type": "other",
+      "divisions": [
+        "FKIP11"
+      ],
+      "publisher": "FKIP Universitas Ahmad Dahlan",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 15564,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28690",
+            "rev_number": 1,
+            "docid": 28690,
+            "main": "PROSIDING SENDIKA (Seminar Nasional Pendidikan) FKIP UAD-compressed-ilovepdf-compressed.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/134165",
+                  "objectid": 28690,
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-05 02:49:28",
+                  "filename": "PROSIDING SENDIKA (Seminar Nasional Pendidikan) FKIP UAD-compressed-ilovepdf-compressed.pdf",
+                  "hash": "cf82d2f55ed008686f9271182b99ca94",
+                  "fileid": 134165,
+                  "mime_type": "application\/pdf",
+                  "filesize": 5106882,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15564",
+      "userid": 559,
+      "lastmod": "2019-11-14 11:23:03",
+      "datestamp": "2019-11-14 11:23:03",
+      "eprintid": 15564,
+      "date_type": "published",
+      "official_url": "http:\/\/seminar.fkip.uad.ac.id\/",
+      "title": "Kebutuhan Guru dan Peserta Didik pada Pembelajaran Baca dan Tulis \r\nTingkat Permulaan di Sekolah Dasar",
+      "metadata_visibility": "show",
+      "place_of_pub": "yogyakarta",
+      "rev_number": 7,
+      "related_url": [
+        {
+          "url": "http:\/\/seminar.fkip.uad.ac.id\/"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 11:23:03",
+      "abstract": "The purpose of this study is to analyze the needs of teachers and students on learning to read and write the beginning level, which is in line with the characteristics of low-grade students. The subjects of this study were teachers and 1st grade students at SDN 1) Lampung Selatan, 2) Lampung Timur, 3) Lampung Tengah, 4) Tanggamus, and 5) Pesawaran. The research is descriptive research and the data collected by interview and observation technique to document of learning result of read and write student. The results showed 1) teachers need guidance to teach students to be able to read simple. According to the teacher there is a gap between learning to read letters by reading syllables and then simple sentences. 2) Teachers need a technique or method of reading start-based writing at the beginning of the theme and according to the characteristics of the initial ability of the first grade students of Elementary School. Required techniques and methods consist of recognition, shipping, writing, and reinforcement steps. 3) Teachers need tools in the form of a guide to learn to read and write the beginning level in accordance with the themes of learning in grade 1 elementary school. 4) Students need learning tools in accordance with the learning themes provided by the teacher and in accordance with the learning stages applied by teachers in the school. 5) Students need learning tools that facilitate them to build literacy through learning introduction, shipping, writing and strengthening phases.",
+      "subjects": [
+        "L1"
+      ]
+    }
+]
+

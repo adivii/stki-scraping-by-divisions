@@ -1,0 +1,115 @@
+[
+    {
+      "datestamp": "2023-08-21 02:46:13",
+      "lastmod": "2023-08-21 02:46:13",
+      "userid": 753,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52401",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52401,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253850",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 253850,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621079",
+                  "datasetid": "document",
+                  "filesize": 1304717,
+                  "fileid": 621079,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 10:37:53",
+                  "filename": "NTFP 9%.pdf",
+                  "hash": "50d87ad8a3019c8c202b778cfcc19b3c"
+                }
+            ],
+            "docid": 253850,
+            "main": "NTFP 9%.pdf"
+          }
+      ],
+      "publisher": "Fakultas Kehutanan dan Lingkungan IPB Bogor",
+      "divisions": [
+        "FP11"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/05\/24\/01",
+      "date": "2023-08",
+      "creators": [
+        {
+          "name": {
+            "family": "Bakri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": "christine.wulandari@fp.unila.ac.id",
+          "name": {
+            "given": "Christine",
+            "family": "Wulandari",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniasari",
+            "given": "Nanda"
+          },
+          "id": "nandakurniasari015@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Rahmat",
+            "lineage": null,
+            "family": "Safe'i",
+            "honourific": null
+          },
+          "id": "rahmat.safei@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ramdani",
+            "given": "Dadan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Anshory",
+            "lineage": null,
+            "given": "Anshory"
+          }
+        }
+      ],
+      "subjects": [
+        "GE",
+        "SD"
+      ],
+      "abstract": "9% Overall Similarity",
+      "eprint_status": "archive",
+      "status_changed": "2023-08-21 02:46:13",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Turnitine Paper berjudul \"Effects of Characteristics and Perceptions of Collectors of Non-Timber Forest Products to \r\nbe Members of the Partnership Program: A Case Study at Bukit Barisan Selatan National\" \r\nPark, Indonesia",
+      "date_type": "published",
+      "eprintid": 52401
+    }
+]
+

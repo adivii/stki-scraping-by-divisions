@@ -1,0 +1,184 @@
+[
+    {
+      "eprintid": 40504,
+      "title": "Lampung 2001: Pembangunan Tanpa Visi",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2022-03-24 07:08:04",
+      "subjects": [
+        "H1"
+      ],
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nanang Trenggono",
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/05\/04",
+      "date": 2002,
+      "type": "book",
+      "divisions": [
+        "FISIP4"
+      ],
+      "documents": [
+          {
+            "main": "LAMPUNG 2021.pdf",
+            "docid": 161831,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 9417063,
+                  "fileid": 451475,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-24 04:54:11",
+                  "filename": "LAMPUNG 2021.pdf",
+                  "hash": "3b2700ac722dfbf684367efeb6cd5dde",
+                  "objectid": 161831,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/451475"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161831",
+            "rev_number": 1,
+            "eprintid": 40504,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Ganesja Baru",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40504",
+      "full_text_status": "public",
+      "lastmod": "2022-03-24 07:08:04",
+      "userid": 357,
+      "datestamp": "2022-03-24 07:08:04"
+    },
+    {
+      "title": "Lampung 2001: Pembangunan Tanpa Visi",
+      "rev_number": 7,
+      "volume": 1,
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "status_changed": "2020-12-01 01:05:52",
+      "eprint_status": "archive",
+      "subjects": [
+        "JS"
+      ],
+      "abstract": "Lampung Parliament Watch (LPW), LBH Bandar Lampung dan Yayasan TIFA Jakarta, menggelar workshop bertema \"Evaluasi Akhir Tahun 2001 Lampung\" di Hotel Indra Puri tgl. 6-8 Desember 2001. Workshop melibatkan elemen-elemen masyarakat, seperti akademisi, aktivis LSM, pelaku ekonomi, wartawan, cendekiawan muda, aktivis mahasiswa dan tokoh agama. Dari kegiatan workshop diangkat menjadi buku ini. Proses catatan kritis menjadi sebuah buku, merupakan tradisi positif, untuk melengkapi publikasi di media massa tentang perspektif kritis yang konstruktif tentang pembangunan masyarakat. Buku ini bukan ukuran final dari ekspresi kritis, melainkan sebagai dasar pijakan untuk merumuskan agenda-agenda strategis tata kelola pemerintahan Provinsi Lampung tahun 2002 dan seterusnya. Suatu agenda yang didasarkan pada keinginan untuk segera mewujudkan good governance, meskipun dibayangi oleh rasa pesimistis terhadap kesungguhan pengelola tata pemerintahan di daerah.",
+      "eprintid": 26838,
+      "date_type": "published",
+      "contributors": [
+        {
+          "name": {
+            "family": "Nanang Trenggono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "publisher": "CV Ganesja Baru",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 40844,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241070",
+                  "datasetid": "document",
+                  "filesize": 3720924,
+                  "mime_type": "application\/pdf",
+                  "fileid": 241070,
+                  "hash": "fa77233d1d84f709661e36ab1a52784f",
+                  "filename": "BUKU PEMBANGUNAN TANPA VISI.pdf",
+                  "mtime": "2020-11-28 22:51:17",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "BUKU PEMBANGUNAN TANPA VISI.pdf",
+            "docid": 40844,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40844",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 26838,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26838",
+      "refereed": "FALSE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2020-12-01 01:05:52",
+      "userid": 357,
+      "datestamp": "2020-12-01 01:05:52",
+      "pagerange": "1-179",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/68\/38",
+      "date": "2002-01",
+      "pages": 179,
+      "type": "book_section",
+      "editors": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "family": "Nanang Trenggono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Jauhari M. Zailani",
+            "lineage": null,
+            "honourific": null,
+            "family": "Jauhari M. Zailani"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Agusta Hermawan",
+            "given": "Agusta Hermawan"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FISIP4"
+      ],
+      "book_title": "Lampung 2001: Pembangunan Tanpa Visi"
+    }
+]
+

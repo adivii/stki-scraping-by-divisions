@@ -1,0 +1,1920 @@
+[
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 432,
+      "lastmod": "2023-03-27 08:52:58",
+      "datestamp": "2023-03-27 08:52:58",
+      "pagerange": "40-54",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRP",
+          "name": {
+            "given": "Sandi",
+            "lineage": null,
+            "family": "Asmara",
+            "honourific": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 49306,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "8106.pdf",
+            "docid": 188853,
+            "files": [
+                {
+                  "objectid": 188853,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535435",
+                  "fileid": 535435,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-03-27 07:51:14",
+                  "hash_type": "MD5",
+                  "hash": "403e191efff804923b76e8867176ec5a",
+                  "filename": "8106.pdf",
+                  "datasetid": "document",
+                  "filesize": 2065756
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188853",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49306",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "divisions": [
+        "FP18"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmara",
+            "given": "Sandi"
+          },
+          "id": "Shandiasmara@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Kusnardi",
+            "lineage": null,
+            "family": "Kusnardi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ida",
+            "lineage": null,
+            "family": "Rachmawati",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0_bak\/00\/04\/93\/06",
+      "status_changed": "2023-03-27 08:52:58",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/repository.unri.ac.id\/xmlui\/handle\/123456789\/7380"
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "One of the food security subsystem that needs to be considered is the quality and food safety, because it is associated with health problems for consumers. Lack of attention to it, resulting in a decrease in the impact of health, ranging from food poisoning due to hygienic storage and presentation process to the risk of various diseases due to the use of pesticides and additives (food additive) is dangerous. To support the successful development of food security, it is becoming one of the main concerns of the Provincial Government of Lampung. The purpose of this study to determine the condition of quality and food safety of fresh fruits and vegetables according to the concept From Farm To Table in the stages of production, post-harvest, distribution, marketing and processing as well as ditahapan the tipping point that requires handling first. The study was conducted in July-September 2013 in the five districts as regional centers of production and fruit and vegetable market in Lampung, the respondent farmers, traders, consumers and workers. Sampling and study methods based on geographic differences Purpose Random, infrastructure and social economic conditions that affect the quality and food safety. Descriptive statistical analysis method using a bar chart. The results of the study, quality control measures and food safety needs to be improved at this stage of the cultivation, distribution and marketing. Institutions need to multiply the pesticide residue testing materials Pure Reference Standards and test equipment hazardous chemicals (nitrates, mercury, bishepol A, aresink, artificial coloring, butylated hydroxyanisole. Way transport of fruit and vegetables need to be developed society. Marketing is the most vulnerable stage because there are many using formalin. perception of the respondents (farmers, traders, consumers and workers) should be equated to quality in order to facilitate development. urtan For food safety issues are coaching traders, consumers, farmers and workers.\r\n\r\nKeywords : Quality, Food Safety, Food Security",
+      "title": "KAJIAN MUTU DAN KEAMANAN PANGAN BUAH DAN SAYUR SEGAR UNTUK MENDUKUNG PEMBANGUNAN KETAHANAN PANGAN PROPINSI LAMPUNG",
+      "official_url": "https:\/\/repository.unri.ac.id\/xmlui\/handle\/123456789\/7380",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_title": "Seminar Dan Lokakarya Nasional FKPTI-TPI 2014",
+      "eprintid": 49306,
+      "date_type": "published",
+      "event_location": "Universitas Riau"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 09:15:46",
+      "abstract": "Ebb and flow hydroponic system generally used a timer to controlnutrient addition. The use ofthe timer, however\r\nhas major disadvantage including inefficiency of nutrient usage. This research aimed at designing of ebb and\r\nflow automatic hydroponic system which able to turn on\/off the pump based on the moisture content using\r\nmicrocontroller.The research was conducted at Greenhouse Facility of the Integrated Field Lab of Agriculture\r\nSchool, the University of Lampung from April - June 2014. The procedure begins with the manufacture of\r\ninstrument, calibration, system design tool, the power supply circuit, equipment test and field test. The results\r\nshowed that has been successfully realized automatic ebb and flow hydroponic system working based on the\r\nmoisture content. The value of setting point obtained for controling water content for turning on the pump was\r\n< 34.95% andturning offthe pumpwas > 69.83%. Cultivation testusingchilli pepper resulted thatautomatic ebb\r\nand flow hydroponic systemwassignifically better thanmanually system one,interms of plantheight and number\r\nof leaves.\r\nKeyword:Hydroponic, ebb and flow system,microcontroller, moisture content.",
+      "subjects": [
+        "S1"
+      ],
+      "title": "RANCANG BANGUN SISTEM HIDROPONIK PASANG SURUT OTOMATIS\r\nUNTUK BUDIDAYA TANAMAN CABAI",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 3,
+      "eprintid": 6040,
+      "date_type": "published",
+      "userid": 353,
+      "lastmod": "2018-04-25 09:15:46",
+      "pagerange": "205-215",
+      "datestamp": "2018-04-25 09:15:46",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18956",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 18956,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55786",
+                  "datasetid": "document",
+                  "filesize": 561886,
+                  "fileid": 55786,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-18 16:04:53",
+                  "hash_type": "MD5",
+                  "filename": "658-1825-1-PB_v4 No3_2014.pdf",
+                  "hash": "f94abc328b8c4c22e8412acd00600954"
+                }
+            ],
+            "main": "658-1825-1-PB_v4 No3_2014.pdf",
+            "docid": 18956,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6040
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "ispublished": "pub",
+      "number": 3,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6040",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "issn": "2302-559X",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Delya",
+            "lineage": null,
+            "given": "Buti"
+          },
+          "id": "butidelya@gmail.com"
+        },
+        {
+          "id": "ahmad.tusip@fp.unila.ac.id",
+          "name": {
+            "family": "Tusi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        },
+        {
+          "name": {
+            "given": "Budianto",
+            "family": "Lanya",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "budianto.lanya@fp.unila.ac.id"
+        },
+        {
+          "id": "zul2007@gmail.com",
+          "name": {
+            "given": "Iskandar",
+            "family": "Zulkarnain",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "date": "2014-10-22",
+      "dir": "disk0\/00\/00\/60\/40"
+    },
+    {
+      "eprintid": 51565,
+      "date_type": "published",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/665",
+      "title": "Pengaruh Defisit Evapotranspirasi terhadap Pertumbuhan Tanaman dan Efisiensi Penggunaan Air pada Tiga Varietas Kedelai (Glycine max (L.) Merill)",
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2023-05-15 01:21:25",
+      "abstract": "The objective of this research is to find out the influence of evapotranspiration deficit toward plants growth and\r\nwater use efficiency of three soybean varieties (Glycine max. (L) Merr.). This research was conducted in the\r\ngreenhouse, integrated laboratory of Agriculture Faculty, Lampung University on November, 2013 to January,\r\n2014. This research used a complity randomized design consisting two treatment factors with three times\r\nrepetition. The fisrt factor was evapotranspiration deficit (E) consisting of E1 (1.0), E2 (0.8), and E3 (0.6), and\r\nE4 (0.4). The second factorwas variety (V) consisting of Tanggamus (V1), Kaba (V2), andWillis (V3). The result\r\nof research showedthat evapotranspiration deficit and varietywas significantly differentwhereas the interaction\r\nwas not significantly different at all growth components, production andwater use efficiency .The highest result\r\nproductionwasWiliis (V3) and Kaba (V2) on E1 (1.0) 12.33 gr\/pot. The highest value ofwater use efficiencywas\r\nWillis (V3).",
+      "subjects": [
+        "S1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Febriana",
+            "lineage": null,
+            "given": "Nivoliya"
+          },
+          "id": null
+        },
+        {
+          "id": "bustomirosadi@yahoo.com",
+          "name": {
+            "given": "Bustomi",
+            "honourific": null,
+            "family": "Rosadi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tusi",
+            "given": "Ahmad"
+          },
+          "id": "ahmad.tusip@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2302-559X",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "date": 2014,
+      "dir": "disk0_bak\/00\/05\/15\/65",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249240",
+            "main": 607,
+            "docid": 249240,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 22933,
+                  "mime_type": "application\/xml",
+                  "fileid": 610844,
+                  "filename": 607,
+                  "hash": "21181a8c7377b6bffd3f78455e55126e",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-13 15:05:28",
+                  "objectid": 249240,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/610844"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "language": "en",
+            "content": "published",
+            "eprintid": 51565,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51565",
+      "full_text_status": "public",
+      "lastmod": "2023-05-15 01:21:25",
+      "userid": 480,
+      "datestamp": "2023-05-15 01:21:25",
+      "pagerange": "261-266"
+    },
+    {
+      "eprintid": 33850,
+      "date_type": "completed",
+      "eprint_status": "archive",
+      "status_changed": "2021-09-13 01:30:52",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Sertifikat",
+      "title": "Bukti Kehadiran Seminar PERTETA Bandung 2014 AH",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FP18"
+      ],
+      "creators": [
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Haryanto"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/38\/50",
+      "date": 2014,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2021-09-13 01:30:52",
+      "userid": 988,
+      "datestamp": "2021-09-13 01:30:52",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "family": "Haryanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Agus"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "agus.haryanto@fp.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33850,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154089",
+            "docid": 154089,
+            "main": "Bukti Kehadiran Seminar PERTETA Bandung 2014 AH.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1475224,
+                  "fileid": 400452,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-09-10 22:31:14",
+                  "hash_type": "MD5",
+                  "filename": "Bukti Kehadiran Seminar PERTETA Bandung 2014 AH.pdf",
+                  "hash": "854f86d305c5ffbab47787acfebde26c",
+                  "objectid": 154089,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/400452"
+                }
+            ]
+          }
+      ],
+      "publisher": "FTIP-UNPAD",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33850",
+      "full_text_status": "public"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2021-09-13 01:31:54",
+      "abstract": "Tujuan program ini adalah untuk: (1) Mengkaji efisiensi agro industri kelapa sawit dalam pemanfaatan sumber daya alam (biomass), (2) Mengidentifikasi peluang serta strategi untuk memanfaatkan hasil samping dan limbah pengolahan kelapa sawit dalam rangka peningkatan nilai tambah dan meminimalkan dampak lingkungan termasuk mengurangi emisi GRK, (3) Mengidentifikasi peluang serta strategi pengembangan produk hilir berbasis kelapa sawit, (4) Membuat model zero waste pada produksi kelapa sawit, (5) Melakukan aplikasi lapangan produksi biogas skala rumah tangga dari limbah cair kelapa sawit (POME) untuk masyarakat sekitar pabrik kelapa sawit.\r\nLimbah industri pengolahan kelapa sawit sangat potensial untuk dijadikan sebagai bahan baku industri terkait. Pemanfaatan semaksimal mungkin limbah industri pengolahan kelapa sawit sangat penting dalam kaitannya dengan konsep “Zero Emissions.” Aplikasi konsep ini dapat menjadi senjata yang ampuh guna menepis isu-isu negative berkaitan dengan pengembangan industri kelapa sawit di tanah air. Pemetaaan tentang potensi agroindustri\r\nkelapa sawit dilihat dari sisi efisiensi pemanfaatan sumber daya alam (biomas), penguasaan teknologi dari hulu sampai hilir, dan sebaran sumber daya manusia ahli di bidang tersebut sangat diperlukan dalam rangka merumuskan kebijakan secara komprehensif untuk mencari terobosan baru\/inovasi dalam pengembangan agroindustri kelapa sawit di Sumatera.\r\nHasil penelitian tahun pertama (2012) menunjukkan bahwa teknologi pemanfaatan limbah sawit sebagai bahan baku untuk industri lain sangatlah memungkinkan. Teknologi\r\npemanfaatan POME untuk menghasilkan biogas tampaknya memberikan peluang besar untuk meningkatkan nilai tambah pengolahan kelapa sawit. Hasil kegiatan tahun kedua (2013) menunjukkan bahwa digester biogas skala rumah tangga (5 m3) dapat dioperasikan menggunakan POME. Pada tahun ketiga (2014) akan dikembangkan digester skala kecil dapat yang memanfaatkan sekaligus POME dan tandan kosong kelapa sawit. Mula-mula akan diinstal satu unit digester skala kecil (kapasitas 220 liter) dengan substrat tandan kosong akan diteliti melalui proses fermentasi kering sebagai percontohan. Selanjutnya, bekerjasama dengan pabrik pengolah kelapa sawit, dikembangkan digester biogas yang bekerja dengan substrat POME dilanjutkan substrat tandan kosong.\r\nHasil penelitian menunjukkan bahwa tandan kosong kelapa sawit berpotensi menghasilkan biogas melalui proses fermentasi kering. Hasil penelitian menggunakan sumber bakteri kotoran sapi menunjukkan produksi biogas dari tandan kosong mencapai 1.561,4 L dengan waktu retensi 41 hari (rata-rata sebesar 38 L). Produktivitas biogas mencapai 1074.6 L\/kg VSremoved dengan kandungan metana 36.1%. Produksi biogas dari tandan kosong juga dapat\r\ndilakukan dengan sumber bakteri efluen dari digester biogas berbahan baku POME. Hasilnya adalah produksi biogas 1.235 L dengan waktu retensi 46 hari (rata-rata sebesar 26,8 L); produktivitas gas sebesar 1120.6 L\/kg VSremoved; dan kandungan metana 40.1%. Efektivitas\r\nproduksi biogas dua tahap sedang dalam proses pengujian untuk aplikasi genset skala kecil (1 kilowatt).",
+      "subjects": [
+        "S1"
+      ],
+      "title": "Laporan Penelitian (Tahun III): INOVASI PENGEMBANGAN AGROINDUSTRI KELAPA SAWIT DALAM RANGKA OPTIMASI NILAI TAMBAH (APLIKASI BIOGAS SISTEM HIBRID DI PABRIK KELAPA SAWIT)",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 33870,
+      "date_type": "completed",
+      "projects": [
+        "MP3EI"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 988,
+      "lastmod": "2021-09-13 01:31:54",
+      "datestamp": "2021-09-13 01:31:54",
+      "documents": [
+          {
+            "eprintid": 33870,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "MP3EI 2014 Komplit.pdf",
+            "docid": 154109,
+            "files": [
+                {
+                  "filesize": 2557161,
+                  "datasetid": "document",
+                  "hash": "5da3b8c0f26ffb7398c835d9aa6a8882",
+                  "filename": "MP3EI 2014 Komplit.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-11 12:34:56",
+                  "mime_type": "application\/pdf",
+                  "fileid": 400588,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/400588",
+                  "objectid": 154109
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154109",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "family": "Haryanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33870",
+      "type": "experiment",
+      "divisions": [
+        "FP18"
+      ],
+      "funders": [
+        "DIKTI"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Haryanto",
+            "honourific": null
+          },
+          "id": "agus.haryanto@fp.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/03\/38\/70",
+      "date": 2014
+    },
+    {
+      "divisions": [
+        "FP18"
+      ],
+      "type": "conference_item",
+      "date": "2014-11-11",
+      "dir": "disk0\/00\/01\/89\/09",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Haryanto",
+            "honourific": null,
+            "given": "Agus"
+          },
+          "id": "agus.haryanto@fp.unila.ac.id"
+        }
+      ],
+      "datestamp": "2020-03-30 01:52:08",
+      "pagerange": "223-229",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2020-03-30 01:52:08",
+      "userid": 988,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18909",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32147",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 32147,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/158661",
+                  "datasetid": "document",
+                  "filesize": 1237447,
+                  "mime_type": "application\/pdf",
+                  "fileid": 158661,
+                  "hash": "ae08e16ad53f3d34bd6036d9474e455d",
+                  "filename": "8-ProsidingTakBerindex-04-Pengaruh_Umur_Pakai_Pisau.pdf",
+                  "mtime": "2020-03-28 06:04:36",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 32147,
+            "main": "8-ProsidingTakBerindex-04-Pengaruh_Umur_Pakai_Pisau.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 18909
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "agus.haryanto@fp.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 18909,
+      "event_title": "SEMINAR NASIONAL FTIP UNPAD – PERTETA – HIPI 2014",
+      "event_location": "Fakultas Teknologi Industri Pertanian Universitas Padjadjaran, Bandung",
+      "abstract": "Rendemen pati pada pengolahan tepung tapioka di industri tepung tapioka rakyat dipengaruhi oleh ketajaman pisau pemarut. Semakin tumpul pisau pemarut maka semakin banyak pati yang akan tertinggal di dalam onggok. Tujuan dari penelitian ini adalah untuk mengetahui pengaruh lama penggunaan pisau parut terhadap kadar pati yang tertinggal\r\ndi dalam onggok pada industri tepung tapioka rakyat. Penelitian dilaksanakan di industri tepung tapioka rakyat di Desa Tresnomulyo, Kecamatan Sukaraja Nuban, Kabupaten\r\nLampung Timur pada tanggal 23 Juni sampai dengan 25 Agustus 2014. Penelitian dilakukan dengan cara mengamati kadar pati onggok dan umur pakai pisau pemarut. Kadar pati onggok diukur menggunakan metode densitas relatif atau spesific grafity. Hasil penelitian menunjukkan bahwa terdapat pengaruh umur pakai pisau terhadap kadar pati yang tertinggal di dalam onggok. Semakin lama pisau pemarut ini digunakan, maka kadar pati di dalam onggok semakin meningkat. Hubungan antara kadar pati onggok dan umur pakai pisau dapat disajikan sebagai Y = 0,190 t + 3,784(R2 = 0,889). Potensi kerugian ekonomi yang terjadi mencapai Rp.606.000,00 (lama penggunaan pisau 2 hari) hingga Rp.7.986.000,00 (lama penggunaan pisau 6 hari).",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2020-03-30 01:52:08",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "title": "Pengaruh Umur Pakai Pisau Parut Singkong Terhadap Kadar Pati Onggok Pada Industri Tepung Tapioka Rakyat"
+    },
+    {
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/266\/262",
+      "title": "PENGARUH PENAMBAHAN SERAT TEMBAGA PADA SUMBU KOMPOR\r\nTERHADAP KINERJA KOMPOR MINYAK JELANTAH",
+      "rev_number": 8,
+      "volume": 2,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-01-21 00:50:22",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "This study aimed to determine the effect of copper wires addition to the cloth wick on the performance of stove fueled by waste cooking oil. The study was divided into two stages. First, is to test the capillarity of wick at different copper wires addition by observing flame quality, capillary height, and flaming period. Second, is to design a stove based on the results obtained in the first stage and to test performance of the stove in boiling water. Parameters to be observed include boiling time, rate of fuel consumption, and thermal efficiency. The results showed that the addition of copper wires increase the wick’s capillarity characterized by increasing absorption of the used cooking oil. Wick with a composition of 20 % copper wires and 80 % cloth produced the best capillarity (7.5 cm height). Waste cooking oil stove was capable to boil 3 kg of water in 15 minutes with a fuel consumption rate of 0.1275 kg\/hour. The stove has a thermal efficiency of 33,33 %.",
+      "eprintid": 27405,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 3,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Haryanto",
+            "honourific": null,
+            "given": "Agus"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 27405,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41409",
+            "rev_number": 2,
+            "main": "2014 JTEP ABE, PENGARUH PENAMBAHAN SERAT TEMBAGA PADA SUMBU KOMPOR.pdf",
+            "docid": 41409,
+            "files": [
+                {
+                  "objectid": 41409,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245086",
+                  "mime_type": "application\/pdf",
+                  "fileid": 245086,
+                  "filename": "2014 JTEP ABE, PENGARUH PENAMBAHAN SERAT TEMBAGA PADA SUMBU KOMPOR.pdf",
+                  "hash": "6c61c21ebf5546aa13bbb8bb754c67ca",
+                  "mtime": "2021-01-20 11:10:06",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 457527
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27405",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2021-01-21 00:50:22",
+      "userid": 988,
+      "datestamp": "2021-01-21 00:50:22",
+      "pagerange": "173-184",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "creators": [
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Haryanto",
+            "honourific": null
+          }
+        },
+        {
+          "id": "budianto.lanya@fp.unila.ac.id",
+          "name": {
+            "given": "Budianto",
+            "family": "Lanya",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2302-559X",
+      "dir": "disk0\/00\/02\/74\/05",
+      "date": 2014,
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ]
+    },
+    {
+      "type": "article",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "divisions": [
+        "FP18"
+      ],
+      "issn": "2302-559X",
+      "creators": [
+        {
+          "id": "ublixz_peace@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Krisnawati",
+            "honourific": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "M. Zen",
+            "honourific": null,
+            "family": "Kadir",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "id_number": "-",
+      "dir": "disk0\/00\/04\/61\/26",
+      "date": "2014-10-22",
+      "userid": 832,
+      "lastmod": "2022-10-31 08:48:28",
+      "datestamp": "2022-10-31 08:48:28",
+      "pagerange": "213-222",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46126,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184953",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510103",
+                  "objectid": 184953,
+                  "hash": "c46c705c08af6ccb3bea0d00638a0223",
+                  "filename": "8 Baby Kailan Lengkap (Non Sinta) GEA.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 08:32:46",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510103,
+                  "filesize": 2833903,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "8 Baby Kailan Lengkap (Non Sinta) GEA.pdf",
+            "docid": 184953
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "number": 3,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46126",
+      "eprintid": 46126,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-31 08:48:28",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pengaruh pemberian aerasi terhadap pertumbuhan tanaman baby\r\nkailan (Brassica oleraceae var. Achepala) pada Teknologi Hidroponik Sistem Terapung (THST) di dalam dan luar\r\ngreenhouse. Penelitian ini menggunakan Rancangan split plot dengan dua faktor.  Faktor pertama yaitu greenhouse\r\ndengan dua taraf, di dalam (N0) dan di luar (N1) greeenhouse.  Faktor kedua yaitu aerasi dengan tiga taraf, aerator\r\n(A1), styrofoam menggantung (A2) dan styrofoam menyentuh larutan nutrisi (A3).  Terdapat enam kombinasi\r\nperlakuan dengan ulangan sebanyak tiga kali.  Data dianalisis menggunakan uji F (5%) dan uji BNT (5%). Hasil\r\npenelitian menunjukkan bahwa pemberian aerasi di dalam dan luar greenhouse berpengaruh nyata terhadap\r\npertumbuhan dan hasil produksi tanaman.  Penggunaan aerasi di luar greenhouse menghasilkan produksi tertinggi.\r\nPerhitungan biaya produksi (pupuk dan listrik) dan hasil panen menunjukan bahwa perlakuan styrofoam\r\nmenggantung (A2) di dalam greenhouse merupakan perlakuan dengan biaya produksi terendah.  Hasil sidik\r\nragam menunjukan parameter larutan nutrisi (EC, DO dan pH) tidak berbeda nyata.  Hal ini menunjukkan larutan\r\nnutrisi homogen dan bukan faktor penyebab perbedaan pertumbuhan dan hasil tanaman.\r\nKata kunci : Aerasi, Baby kailan, Greenhouse, Teknologi Hidroponik Sistem Terapung, Produksi.",
+      "subjects": [
+        "S1"
+      ],
+      "title": "8.\tPENGARUH AERASI TERHADAP PERTUMBUHAN TANAMAN BABY KAILAN (Brassica oleraceae var. achepala) PADA TEKNOLOGI HIDROPONIK SISTEM TERAPUNG DI DALAM DAN DI LUAR GREENHOUSE",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/659\/601",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 3
+    },
+    {
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/659\/601",
+      "title": "PENGARUH AERASI TERHADAP PERTUMBUHAN TANAMAN \r\nBABY KAILAN (Brassica oleraceae var. achepala) PADA \r\nTEKNOLOGI HIDROPONIK SISTEM TERAPUNG DI DALAM \r\nDAN DI LUAR GREENHOUSE",
+      "rev_number": 6,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-19 02:38:13",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "This research is aimed to find out the effects of aeration on baby kailan (Brassica oleraceae var. Achepala ) in\r\nfloating system hidroponic technology inside and outside the greenhouse. This research used a factorial in a split\r\nplot design with 2 factors, namely factor I (weation) and Factor II (aeration). The first factor had two levels,\r\ninside (N0) and outside (N1) greenhouse. The second factor consisted of 3 levels; mechanical aeration (A1),\r\nhanging styrofoam (A2) and floating styrofoam (A3); resulting in six treatment combinations with three\r\nreplications. The data was analyzed using ANOVA (analysis of variance) at 5 % significantlevel and folowed by\r\nLSD. The resultsshowed thatthe inside and otsutside greenhouse significantly affected growth and yield. The use\r\nof aeration outside the greenhouse had shown maximal production. The hanging styrofoam system (A2) inside\r\nthe greenhouse showed the lowest production cost (fertilizer and electricity. None of the environment and\r\nnutrition parameters (EC, DO and pH) was significantly different during the research, implying that the\r\nenvironment and nutrion solution were homogeneous and did not affect the plant growth.\r\nKeywords:Aeration,baby kailan, greenhouse,floatingsystem, production.",
+      "eprintid": 45826,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "Jurusan Teknik Pertanian, F Pertanian, Unila",
+      "documents": [
+          {
+            "docid": 184638,
+            "main": "10 Baby Kailan Lengkap.pdf",
+            "files": [
+                {
+                  "filesize": 1579632,
+                  "datasetid": "document",
+                  "hash": "7c51e2c805d511fa191a9b78d53c68c4",
+                  "filename": "10 Baby Kailan Lengkap.pdf",
+                  "mtime": "2022-10-18 22:50:44",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 507786,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507786",
+                  "objectid": 184638
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184638",
+            "rev_number": 1,
+            "eprintid": 45826,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45826",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-10-19 02:38:13",
+      "userid": 832,
+      "datestamp": "2022-10-19 02:38:13",
+      "pagerange": "213-222",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "creators": [
+        {
+          "name": {
+            "family": "Krisnawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "ublixz_peace@yahoo.com"
+        },
+        {
+          "id": "sugeng.triyono@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Triyono",
+            "given": "Sugeng"
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "family": "Kadir",
+            "honourific": null,
+            "given": "M. Zen"
+          }
+        }
+      ],
+      "issn": "2302- 559X",
+      "dir": "disk0\/00\/04\/58\/26",
+      "date": "2014-10-22",
+      "id_number": "-",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ]
+    },
+    {
+      "userid": 480,
+      "lastmod": "2023-05-15 01:21:29",
+      "datestamp": "2023-05-15 01:21:29",
+      "pagerange": "103-110",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249242",
+            "rev_number": 3,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 23182,
+                  "mime_type": "application\/xml",
+                  "fileid": 610860,
+                  "filename": 545,
+                  "hash": "36ae40e30a48e8474cf464b35cb25492",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-13 15:20:26",
+                  "objectid": 249242,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/610860"
+                }
+            ],
+            "docid": 249242,
+            "main": 545,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/xml",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 51567
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51567",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "issn": "2302-559X",
+      "creators": [
+        {
+          "name": {
+            "given": "Aulia Nurbaiti",
+            "family": "Mansyur",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Triyono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "id": "ahmad.tusip@fp.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Tusi",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "dir": "disk0_bak\/00\/05\/15\/67",
+      "date": 2014,
+      "eprint_status": "archive",
+      "status_changed": "2023-05-15 01:21:29",
+      "abstract": "The study aims to determine the response of green mustard (Brassica juncea L.) to the shade.  This study used a randomized complete block design (RCB).  Treatment consisted of T0 (control), T1 (one shade), T2 (two shades with one shade slightly slided to the east), T3 (two shades with one shade slightly slided to the west) and T4 (three shades).  Shade in the form of plywood to the width and the distance between the shade of 12 cm are placed 50 cm above the gutter extends.  Gutters along the 4 m with plant spacing of 10 cm is used as a nutrient.  Comparison of fertilizer ( a : b) and water for 250 ml : 250 ml : 50 liter.  Experiment used gutters as the growing media which were devided into three parts, namely B1 (section near the aerator), B2 (middle gutter) and B3 (the farthest part of aerator). Nutrient solution is circulated at flow rate of 1.2 cm\/sec by using a small pump, which was also functioned as the aerator.  Data was analyzed by using the analysis of variance test and LSD multiple comparisons.  The results showed that T2 (two shades with one shade slightly slided to the east) produces the best respons with plant height (33,07 cm) and final weight (436,47 g).  The result also showed that all environmental parameters (EC, DO, and pH) observed a long the gutter were not significantly different, indicating that the nutrient solution was quite homogeneous throughout the gutters.",
+      "subjects": [
+        "S1"
+      ],
+      "title": "Pengaruh Naungan terhadap Pertumbuhan Sawi (Brassia juncea L.) pada Sistem Hidroponik DFT (Deep Flow Technique)",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/583",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 3,
+      "eprintid": 51567,
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "This study aims to determine the effect of duration of aeration on the growth and yield of mustard plants\r\n(Brassica juncea L.), nutrient solution and electricity consumptions.  The experiment was conducted in\r\nSeptember and October 2013 at The Integrated Field Laboratory, and Land and Water Resources\r\nEngineering Laboratory, The Departement of Agricultural Engineering, The University of Lampung.  The\r\nexperiment consisted of four treatments of aeration intervals including N\r\n24\r\nM\r\n0\r\n (control), N\r\n15\r\n (15 minute\r\non-30 minute off), N\r\n15\r\nM\r\n60\r\n (15 minute on- 60 minute off) and N\r\n15\r\nM\r\n90\r\n (15 minute on- 90 minute off).  Each\r\ntreatment was divided into 3 segments along the gutter, including R1 (segment near the aerator), R2 (middle\r\nsegment chamfer) and R3 (section away from the aerator).  The results showed that the use of a nutrient\r\nsolution circulating pump with a flow rate of 0.27 cm\/s is sufficient for EC, DO, pH fairly uniform along the\r\ngutter.  Aeration with interval 15 minute on- 60 minute off turned out to produce the highest mustard crop\r\n(2,146 kg) with the lowest consumption of fertilizer and electricity by IDR 1753.00\/kg.  \r\nKeywords: Aeration, DFT, hydroponics, intermitten, mustard\r\n \r\nM\r\n30",
+      "status_changed": "2022-10-31 09:47:37",
+      "eprint_status": "archive",
+      "volume": 3,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "13.\tPENGARUH LAMA AERASI TERHADAP PERTUMBUHAN DAN HASIL TANAMAN SAWI (Brassica juncea L.) PADA HIDROPONIK DFT (Deep Flow Technique)",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/384\/366",
+      "date_type": "published",
+      "eprintid": 46132,
+      "pagerange": "83-90",
+      "datestamp": "2022-10-31 09:47:37",
+      "lastmod": "2022-10-31 09:47:37",
+      "userid": 832,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46132",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46132,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184959",
+            "rev_number": 1,
+            "main": "13 sawi (Non Sinta).pdf",
+            "docid": 184959,
+            "files": [
+                {
+                  "objectid": 184959,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510145",
+                  "datasetid": "document",
+                  "filesize": 2317584,
+                  "mime_type": "application\/pdf",
+                  "fileid": 510145,
+                  "filename": "13 sawi (Non Sinta).pdf",
+                  "hash": "9c37b2f1fb1eaa546b299fe83417eb33",
+                  "mtime": "2022-10-31 09:02:51",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "divisions": [
+        "FP18"
+      ],
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "type": "article",
+      "dir": "disk0\/00\/04\/61\/32",
+      "date": "2014-03-26",
+      "id_number": "-",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "issn": "2302-559X",
+      "creators": [
+        {
+          "id": "lietha_09@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Ningrum",
+            "lineage": null,
+            "given": "Diah Yulita"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "id": "ahmad.tusip@fp.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "family": "Tusi",
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 8,
+      "title": "PENGARUH LAMA AERASI TERHADAP PERTUMBUHAN DAN \r\nHASIL TANAMAN SAWI (Brassica juncea L.) PADA HIDROPONIK \r\nDFT (Deep Flow Technique)",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/384\/366",
+      "abstract": "This study aims to determine the effect of duration of aeration on the growth and yield of mustard plants \r\n(Brassica juncea L.), nutrient solution and electricity consumptions. The experiment was conducted in \r\nSeptember and October 2013 at The Integrated Field Laboratory, and Land and Water Resources \r\nEngineering Laboratory, The Departement of Agricultural Engineering, The University of Lampung. The \r\nexperiment consisted of four treatments of aeration intervals including N24M0 (control), N15M30 (15 minute \r\non-30 minute off), N15M60 (15 minute on- 60 minute off) and N15M90 (15 minute on- 90 minute off). Each \r\ntreatment was divided into 3 segments along the gutter, including R1 (segment near the aerator), R2 (middle \r\nsegment chamfer) and R3 (section away from the aerator). The results showed that the use of a nutrient \r\nsolution circulating pump with a flow rate of 0.27 cm\/s is sufficient for EC, DO, pH fairly uniform along the \r\ngutter. Aeration with interval 15 minute on- 60 minute off turned out to produce the highest mustard crop \r\n(2,146 kg) with the lowest consumption of fertilizer and electricity by IDR 1753.00\/kg.\r\nKeywords: Aeration, DFT, hydroponics, intermitten, mustard",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-10-19 02:38:05",
+      "date_type": "published",
+      "eprintid": 45822,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45822",
+      "full_text_status": "public",
+      "publisher": "Jurusan Teknik Pertanian Lampung",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184634",
+            "docid": 184634,
+            "main": "9 Lama Aerasi thp Sawi Lengkap.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-18 22:42:29",
+                  "filename": "9 Lama Aerasi thp Sawi Lengkap.pdf",
+                  "hash": "ba0f437bd1aa8bfb32b611ea7eb93fbf",
+                  "fileid": 507759,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1550642,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507759",
+                  "objectid": 184634
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 45822,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2022-10-19 02:38:05",
+      "pagerange": "83-90",
+      "lastmod": "2022-10-19 02:38:05",
+      "userid": 832,
+      "id_number": "-",
+      "dir": "disk0\/00\/04\/58\/22",
+      "date": "2014-03-26",
+      "creators": [
+        {
+          "name": {
+            "given": "Diah Yulita",
+            "family": "Ningrum",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "lietha_09@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Sugeng",
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Tusi",
+            "honourific": null
+          },
+          "id": "ahmad.tusip@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2302- 559X",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "divisions": [
+        "FP18"
+      ],
+      "type": "article",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id"
+    },
+    {
+      "eprintid": 45828,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-19 02:38:21",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "This research was aimed to investigate reactionkinetic oftofu industrywastewater using zeolite medium. A static\r\nfilter reactor using zeolite medium was constructed to carry outthis research. Tofuwastewater was resirculated\r\nthrough the medium with various hydraulic retention times(HRT): 0, 3, 6, 12, 24, 36, and 48 hours. First order\r\nreaction wasthen applied on this kinetics. The resultsshowed that pHincreased from 4.1 to 8.02. Total P in the\r\nwastewater decreased from12,1 mg\/L to 6,91mg\/L (42% reduction), while in the media totalP increased from\r\n3,04 mg\/L to 5,97 mg\/L within 48 hours of filtration. N-NH4\r\n+ decreased from 64.184 mg\/L to 12.85 mg\/L\r\n(79.9% reduction). Total Solids decreased from 10.404 mg\/L to 4003 m (61.5% reduction).\r\nKeywords:wastewater,biofilter, zeolite",
+      "title": "KINETIKA FILTRASI LIMBAH CAIR INDUSTRI TAHU DENGAN \r\nMENGGUNAKAN METODE BIOFILTER MEDIA ZEOLIT",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/662\/604",
+      "rev_number": 6,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "Rodiyanti",
+            "honourific": null,
+            "family": "Rodiyanti",
+            "lineage": null
+          },
+          "id": "odiyanti66@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Sugeng",
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "id": "-",
+          "name": {
+            "given": "Nugroho",
+            "family": "Haryono",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2302-559X",
+      "dir": "disk0\/00\/04\/58\/28",
+      "date": "2014-11-10",
+      "id_number": "-",
+      "lastmod": "2022-10-19 02:38:21",
+      "userid": 832,
+      "pagerange": "239-244",
+      "datestamp": "2022-10-19 02:38:21",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45828,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184639",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2022-10-18 22:58:31",
+                  "hash_type": "MD5",
+                  "filename": "11 Zeolit Lengkap.pdf",
+                  "hash": "fbd8d1a5732e5785ccd2ecf1b4bfaafd",
+                  "fileid": 507797,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1264029,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507797",
+                  "objectid": 184639
+                }
+            ],
+            "docid": 184639,
+            "main": "11 Zeolit Lengkap.pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45828",
+      "refereed": "TRUE"
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/15\/66",
+      "date": 2014,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Setyaningrum",
+            "honourific": null,
+            "given": "Diah Ayu"
+          },
+          "id": null
+        },
+        {
+          "id": "ahmad.tusip@fp.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "family": "Tusi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sugeng",
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2302-559X",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "divisions": [
+        "FP18"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51566",
+      "documents": [
+          {
+            "main": 548,
+            "docid": 249241,
+            "files": [
+                {
+                  "objectid": 249241,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/610852",
+                  "mime_type": "application\/xml",
+                  "fileid": 610852,
+                  "hash": "62313fe16fadfbf42f1517a983ff7eff",
+                  "filename": 548,
+                  "mtime": "2023-05-13 15:13:49",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 23278
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249241",
+            "eprintid": 51566,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/xml",
+            "content": "published"
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2023-05-15 01:21:27",
+      "pagerange": "127-140",
+      "userid": 480,
+      "lastmod": "2023-05-15 01:21:27",
+      "date_type": "published",
+      "eprintid": 51566,
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 3,
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/586",
+      "title": "Aplikasi Sistem Irigasi Tetes pada Tanaman Tomat (Lycopersicum esculentum Mill)",
+      "abstract": "This study aimed to analyze the performance of drip irrigation systems, determine performance of tomato treated under the irrigation systems.Field research was conducted at the Laboratory of Land and Water Resources Engineering; and at the Laboratory ofintegrated field, Faculty of Agriculture, University of Lampung in August 2013 to December 2013.Irrigation systems consisted of main componens: water supplies, Polythilene lateral tube, and emitters. Emitter on every pot, were made of Polythilene (PE) fabric.Pot experiment consisted of 32 pots, divided into two groups, a group of 16 pots was treated with surface drip irrigation system and the other half was treated with subsurface drip irrigation system.  Variables observed to the irrigation systems wereflowrate, coefficient variance (CV), emition uniformity (EU).  Variables observed to the plant were evapotranspiration (ETc), Kc, Soil moisture, water consumption, plant growth, and yield.  The results showed that the surface drip irrigation system had flowrate of 0.96 liter\/hour, CV of 0.41 and EU of 54.85%, while the subsurface drip irrigation system had flowrate of 1.08 liter\/hour, CV of 0.41 and EU of 56.43%.  Plants performance treated with surface drip irrigation system showed total crop evapotranspiration (ETc) of 490,8 mm,  while subsurface drip irrigation system showed total crop evapotranspiration (ETc) of 580,9 mm.Higher crop evapotranspiration of subsurface drip irrigation system was due to better plant growth in the subsurface drip irrigation system.  This was also shown by higher crop coefficience (Kc) of subsurface drip irrigation system.",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2023-05-15 01:21:27",
+      "eprint_status": "archive"
+    },
+    {
+      "number": 4,
+      "ispublished": "pub",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 327,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/317",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 317,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1858",
+                  "fileid": 1858,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-19 05:24:39",
+                  "hash": "fca956e54b490b81f3a68488d59914d4",
+                  "filename": "Chlorogenic Acid (CGA) Determination in Roasted Coffee Beans by Near Infrared (NIR) Spectroscopy.pdf",
+                  "datasetid": "document",
+                  "filesize": 522133
+                }
+            ],
+            "docid": 317,
+            "main": "Chlorogenic Acid (CGA) Determination in Roasted Coffee Beans by Near Infrared (NIR) Spectroscopy.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/327",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2016-08-22 02:20:04",
+      "userid": 10,
+      "pagerange": "139-142",
+      "datestamp": "2016-08-22 02:20:04",
+      "publication": "Engineering in Agriculture, Environment and Food",
+      "creators": [
+        {
+          "name": {
+            "given": "Dididng",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suhandy"
+          },
+          "id": "diding2004@yahoo.com"
+        }
+      ],
+      "dir": "disk0\/00\/00\/03\/27",
+      "date": "2014-10",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "title": "Chlorogenic acid (CGA) determination in roasted coffee beans by Near Infrared (NIR) spectroscopy",
+      "official_url": "http:\/\/www.sciencedirect.com",
+      "volume": 7,
+      "rev_number": 5,
+      "metadata_visibility": "show",
+      "status_changed": "2016-08-22 02:20:04",
+      "eprint_status": "archive",
+      "abstract": "Roasting can potentially affect the functional properties of the resulting coffee. For instance, antioxidant phenolic chlorogenic acids (CGA) are known to be thermally labile. In this study, we develop a new NIR spectroscopic method to measure CGA concentration found in the coffee beans. High performance liquid chromatography (HPLC) was used to determine standard reference values of CGA concentration. A partial least squares regression (PLSR) with full cross-validation method was employed for the development and the validation of the regression model. The resultant model accuracy of RCV2RCV2 = 0.76 and RMSECV = 1.16% with preprocessing of the spectra by MSC and SNV is thought to be accurate enough for the rapid and non-destructive determination of CGA concentration in roasted coffee beans.\r\nKeywords: NIR spectroscopy; PLS; Chlorogenic acid; Different roasting degrees; Coffee",
+      "eprintid": 327,
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "volume": 7,
+      "rev_number": 7,
+      "official_url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S188183661400041X",
+      "title": "Chlorogenic acid (CGA) determination in roasted coffee beans by Near Infrared (NIR) spectroscopy",
+      "abstract": "Roasting can potentially affect the functional properties of the resulting coffee. For instance, antioxidant phenolic chlorogenic acids (CGA) are known to be thermally labile. In this study, we develop a new NIR spectroscopic method to measure CGA concentration found in the coffee beans. High performance liquid chromatography (HPLC) was used to determine standard reference values of CGA concentration. A partial least squares regression (PLSR) with full cross-validation method was employed for the development and the validation of the regression model. The resultant model accuracy of RCV2 = 0.76 and RMSECV = 1.16% with preprocessing of the spectra by MSC and SNV is thought to be accurate enough for the rapid and non-destructive determination of CGA concentration in roasted coffee beans.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-12-07 04:25:49",
+      "date_type": "published",
+      "eprintid": 1298,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1298",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1173",
+            "docid": 1173,
+            "main": "ac.els-cdn.com_S188183661400041X_1-s2.0-S188183661400041X-main paper shan san.pdf",
+            "files": [
+                {
+                  "objectid": 1173,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8704",
+                  "fileid": 8704,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-12-07 04:08:28",
+                  "hash_type": "MD5",
+                  "hash": "741228412b0cd0467b19d760c4e971c5",
+                  "filename": "ac.els-cdn.com_S188183661400041X_1-s2.0-S188183661400041X-main paper shan san.pdf",
+                  "datasetid": "document",
+                  "filesize": 4992258
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 1298,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Elsevier",
+      "number": 4,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2016-12-07 04:25:49",
+      "pagerange": "139-142",
+      "lastmod": "2016-12-07 04:25:49",
+      "userid": 337,
+      "id_number": "http:\/\/dx.doi.org\/10.1016\/j.eaef.2014.08.003",
+      "date": "2014-08-27",
+      "dir": "disk0\/00\/00\/12\/98",
+      "issn": "1881-8366",
+      "creators": [
+        {
+          "name": {
+            "given": "Diding",
+            "honourific": null,
+            "family": "Suhandy",
+            "lineage": null
+          },
+          "id": "diding.sughandy@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Engineering in Agriculture, Environment and Food",
+      "divisions": [
+        "FP18"
+      ],
+      "type": "article"
+    },
+    {
+      "publication": "Journal of Agricultural Engineering and Biotechnology(JAEB)",
+      "issn": "2331-3234",
+      "creators": [
+        {
+          "id": "diding.sughandy@fp.unila.ac.id",
+          "name": {
+            "given": "Diding",
+            "family": "Suhandy",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/13\/08",
+      "date": 2014,
+      "id_number": "10.18005\/JAEB0201002",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "given": "bustomi",
+            "lineage": null,
+            "honourific": null,
+            "family": "rosadi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "senge",
+            "honourific": null,
+            "lineage": null,
+            "given": "masateru"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "suhandy",
+            "given": "diding"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "tusi",
+            "honourific": null,
+            "given": "ahmad"
+          }
+        }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1308,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 1183,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8776",
+                  "datasetid": "document",
+                  "filesize": 114273,
+                  "fileid": 8776,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-12-09 01:39:56",
+                  "hash_type": "MD5",
+                  "hash": "4f998703b040e843dba72b44ae8abe81",
+                  "filename": "JAEB10021-20140311-154528-6251-39589 (1).pdf"
+                }
+            ],
+            "main": "JAEB10021-20140311-154528-6251-39589 (1).pdf",
+            "docid": 1183,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1183",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Bowen Publishing",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1308",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2016-12-13 01:10:53",
+      "userid": 337,
+      "datestamp": "2016-12-13 01:10:53",
+      "pagerange": "7-12",
+      "eprintid": 1308,
+      "date_type": "published",
+      "official_url": "http:\/\/www.bowenpublishing.com\/jaeb\/paperInfo.aspx?PaperID=15010&year=2014&volume=2&number=1",
+      "title": "The Effect of EC Levels of Nutrient Solution on the Growth, Yield, and Quality of Tomatoes (Solanum Lycopersicum) under the Hydroponic System",
+      "volume": 2,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-12-13 01:10:53",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The objective of this research was to investigate the effect of EC (electric conductivity) levels of nutrient solution on the growth and yield of tomatoes under the hydroponic system. This research was conducted in a plastic house on the experimental farm of Lampung University, Lampung in Indonesia from April to July 2009. The EC treatments to nutrient solutions were S1 (1 dSm-1), S2 (2 dSm-1), S3 (3 dSm-1), S4 (4 dSm-1), and S5 (5 dSm-1) arranged in a completely randomized design with four replications. The results showed that the highest yield was under S3 (120.8 g\/plant), followed by S2 (96.6 g\/plant), S1 (89.7 g\/plant), S4 (88.4 g\/plant), and S5 (75.5 g\/plant). The yields of tomato responded to EC levels of nutrient solution in the two ranges of lower and higher EC than 3 dSm-1. The yield increased as EC of nutrient solution increased from 0 to 3 dSm-1 probably, due to increase of nutrients. On the other hand, the yield decreased as the EC of nutrient solution increased from 3 to 5 dSm-1 probably, due to increase of water stress. So, it can be concluded that the salinity threshold of the tomatoes was 3 dSm-1. On the other hand, the highest SSC (soluble solid content) was recorded under S5 (7.34 brix), followed by S4 (6.93 brix), S3 (6.44 brix), S2 (6.26 brix), and S1 (6.11 brix). It means that the S5 treatment was the best quality. Among the range of treatments, treatment S3 (3 dSm-1) gave the highest yield, but lower SSC than S4 (4 dmS-1) and S5 (5 dSm-1)."
+    },
+    {
+      "id_number": "http:\/\/dx.doi.org\/10.1016\/j.eaef.2014.08.005",
+      "dir": "disk0\/00\/00\/12\/97",
+      "date": "2014-08-23",
+      "issn": "1881-8366",
+      "creators": [
+        {
+          "id": "diding.sughandy@fp.unila.ac.id",
+          "name": {
+            "family": "Suhandy",
+            "honourific": null,
+            "lineage": null,
+            "given": "Diding"
+          }
+        }
+      ],
+      "publication": "Engineering in Agriculture, Environment and Food",
+      "divisions": [
+        "FP18"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1297",
+      "full_text_status": "public",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "eprintid": 1297,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "1-s2.0-S1881836614000433-main YULIA.pdf",
+            "docid": 1172,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1088797,
+                  "fileid": 8698,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-07 03:53:19",
+                  "hash": "ad9ad52400d6ca0c1a6e70f654d2fe92",
+                  "filename": "1-s2.0-S1881836614000433-main YULIA.pdf",
+                  "objectid": 1172,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8698"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1172",
+            "rev_number": 1
+          }
+      ],
+      "number": 4,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2016-12-07 04:25:51",
+      "pagerange": "148-154",
+      "lastmod": "2016-12-07 04:25:51",
+      "userid": 337,
+      "date_type": "published",
+      "eprintid": 1297,
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 7,
+      "title": "Investigation on the influence of temperature in l-ascorbic acid determination using FTIR-ATR terahertz spectroscopy: Calibration model with temperature compensation",
+      "official_url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S1881836614000433",
+      "abstract": "The influence of sample temperature variation on l-AA determination using Fourier transform infrared attenuated total reflectance terahertz (FTIR-ATR-THz) spectroscopy was investigated. Using the best local calibration models at 22, 31 and 40 °C, prediction results for a prediction sample set at any one temperature were excellent, with low RMSEP and high SDRpred values. However, bias and SEP were significantly increased when samples from different temperatures were used in these models; higher RMSEPs resulted. On the other hand, global calibration models based on combinations of different temperatures gave better prediction results, with lower RMSEP and higher SDRpred values for all prediction samples at 22, 31 and 40 °C. With these global calibration models the bias predictions were also significantly decreased; resulting in lower RMSEP values.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-12-07 04:25:51"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 51557,
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "This study aimedto observe the effect of soakingthe root of leafy vegetableson thefreshnessduringsale.  Vegetablesused werekangkungandgreen mustardfrom hydroponicsandconventionalcultivations.  Treatments wereconsistedofsoakingwithaeratedwater, soakingwithunaeratedwater, soaking withaerated nutrient solution(EC 0.4mS\/cm), displaying in mist sprayed (humidified) cabinet without soaking,andcontrol(neither soaking nor spraying).  Soakingwas donein aglasscontainer(50cm length, 40cm width, 20cm height)andfilledwithwater±20liters\/5 cm height.  Parametersmeasured werewater content, leaf water potential,andleafdiscoloration.  The results showedthatthe average room temperature and RH were found about 29oC and 80%. Respectively temperature and RH in the humidified cabinet were not much different from the ambiance.  Soakingwithaeration was able to keep vegetables fresh without wilting process.  Percentage of yellowing reached 10% of the total number within 5days for hydroponics kangkung, 2 days for conventional kangkung, 4days for hydroponics green mustard, and 2 days for conventional green mustard during the display.  Vegetables displayed in the room with no treatment (control) were wilting consistently, their water content was decreasing, and their water potential tended to increase from the beginning.  Thus, discoloration was more proper parameter for the soaked vegetables, while change of water content and water potential were more proper for non soaked or spayed vegetables.",
+      "eprint_status": "archive",
+      "status_changed": "2023-05-15 01:21:00",
+      "volume": 3,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Perbandingan Teknik Pemajangan Sayuran Daun untuk Mempertahankan Kesegaran Selama Penjualan",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/383",
+      "divisions": [
+        "FP18"
+      ],
+      "type": "article",
+      "date": "2014-03-19",
+      "dir": "disk0_bak\/00\/05\/15\/57",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wahyuni"
+          }
+        },
+        {
+          "name": {
+            "given": "Sugeng",
+            "lineage": null,
+            "honourific": null,
+            "family": "Triyono"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "id": "ahmad.tusip@fp.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Tusi"
+          }
+        }
+      ],
+      "issn": "2302-559X",
+      "pagerange": "69-82",
+      "datestamp": "2023-05-15 01:21:00",
+      "userid": 480,
+      "lastmod": "2023-05-15 01:21:00",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51557",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249211",
+            "docid": 249211,
+            "main": 365,
+            "files": [
+                {
+                  "mtime": "2023-05-13 13:58:26",
+                  "hash_type": "MD5",
+                  "filename": 365,
+                  "hash": "a1efc18e8d85bcb6db76e8c4d17b39a2",
+                  "fileid": 610767,
+                  "mime_type": "application\/xml",
+                  "filesize": 23712,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/610767",
+                  "objectid": 249211
+                }
+            ],
+            "mime_type": "application\/xml",
+            "language": "en",
+            "content": "published",
+            "eprintid": 51557,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila"
+    },
+    {
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "publication": "Teknik Pertanian Lampung",
+      "issn": "2302- 559X",
+      "creators": [
+        {
+          "id": "hendri_y_tp@yahoo.com",
+          "name": {
+            "family": "Yanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hendri"
+          }
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Tusi",
+            "honourific": null
+          },
+          "id": "ahmad.tusip@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        }
+      ],
+      "date": "2014-06-05",
+      "dir": "disk0\/00\/04\/58\/19",
+      "id_number": "-",
+      "lastmod": "2022-10-19 02:36:59",
+      "userid": 832,
+      "pagerange": "141-154",
+      "datestamp": "2022-10-19 02:36:59",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Jurusan Teknik Pertanian, F Pertanian, Unila",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 45819,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184631",
+            "docid": 184631,
+            "main": "8 Irigasi tetes Lengkap 2.pdf",
+            "files": [
+                {
+                  "fileid": 507739,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-18 22:32:38",
+                  "hash": "bb5c2a5d359970cac5954bcdf172f6ef",
+                  "filename": "8 Irigasi tetes Lengkap 2.pdf",
+                  "datasetid": "document",
+                  "filesize": 2529558,
+                  "objectid": 184631,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507739"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45819",
+      "refereed": "TRUE",
+      "eprintid": 45819,
+      "date_type": "published",
+      "status_changed": "2022-10-19 02:36:59",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The research aimedto testperformance ofa drip irrigationsystemto irrigate cauliflower cultivatedina greenhouse.\r\nThe drip irrigationsystem using emitter type regulating stick emitter as many 315. One Mainpipe, one manifold,\r\nand four lateral pipes were from PE types with the diameter of 13 mm. The methods to deliver irrigation water\r\nwere by using a small pump 13 Watt and by using gravitational pressure with head 155 cm. Variables observed\r\nwere emissionuniformity (EU),water requirement,plant growth, andwaterproductivity. The resultsshowed that\r\nEmission uniformities were 64,49 % for gravitationalflow and 61,46 % for pumping flow. These values were still\r\nbelow recommended, that is 75 % - 85 %. The minimum, maximum, and mean reference evapotranspiration\r\n(ETo) were recorded as 5,80 mm\/day, 9,70 mm\/day, and 7,20mm\/day. Whilst crop evapotranspiration (ETc) at\r\nthe day of 41 after planted was 3.2 mm\/day. Average yield of cauliflower was 58 gram per plant, while water\r\nproductivity was0,87 gram\/litter.\r\nKeyword: cauliflower, cropwater requirement, drip irrigation, emitter, emission uniformity",
+      "title": "THE APPLICATION OF DRIP IRRIGATION SYSTEM ON \r\nCAULIFLOWER (Brassica Oleracea Var. Botrytis L. Subvar. \r\nCauliflora DC) IN A GREENHOUSE",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/587\/549",
+      "volume": 3,
+      "rev_number": 6,
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Yanto",
+            "family": "Yanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "ahmad.tusip@fp.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "family": "Tusi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "sugeng.triyono@fp.unila.ac.id",
+          "name": {
+            "family": "Triyono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sugeng"
+          }
+        }
+      ],
+      "issn": "2302-559X",
+      "publication": "Jurnal Teknik Pertanian Lampung",
+      "id_number": "-",
+      "date": "2014-06-05",
+      "dir": "disk0\/00\/04\/61\/25",
+      "type": "article",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "divisions": [
+        "FP18"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46125,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184952",
+            "rev_number": 1,
+            "docid": 184952,
+            "main": "7 Irigasi tetes Lengkap 2 Non Sinta GEA.pdf",
+            "files": [
+                {
+                  "objectid": 184952,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510097",
+                  "datasetid": "document",
+                  "filesize": 3538440,
+                  "fileid": 510097,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 08:27:10",
+                  "filename": "7 Irigasi tetes Lengkap 2 Non Sinta GEA.pdf",
+                  "hash": "241d431a666a1dbdb30a3896b8053f21"
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurusan Teknik Pertanian Fakultas Pertanian Unila",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46125",
+      "lastmod": "2022-10-31 08:48:26",
+      "userid": 832,
+      "pagerange": "141-154",
+      "datestamp": "2022-10-31 08:48:26",
+      "eprintid": 46125,
+      "date_type": "published",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JTP\/article\/view\/587\/549",
+      "title": "7.\tAPLIKASI SISTEM IRIGASI TETES PADA TANAMAN KEMBANG KOL (Brassica Oleracea Var. Botrytis L. Subvar. Cauliflora DC) DALAM GREENHOUSE",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 3,
+      "status_changed": "2022-10-31 08:48:26",
+      "eprint_status": "archive",
+      "abstract": "T\r\nE\r\nJ\r\n.\r\n\r\n\r\nP\r\n\r\nTujuan penelitian adalah menguji sistem irigasi tetes, menganalisa kebutuhan dan produktivitas air irigasi\r\ntanaman Kembang kol di dalam greenhouse.  Sistem irigasi tetes menggunakan penetes (emitter) jenis regulating\r\nstick emitter sebanyak 315 penetes.  Satu pipa utama, satu manifold, dan empat lateral menggunakan selang jenis\r\nPE dengan diameter 13 mm.  Metode distribusi air irigasi menggunakan pompa kecil 13 Watt, dan menggunakan\r\ntekanan gravitasi dengan tinggi head 155 cm.  Variabel yang diamati adalah keseragaman penyebaran (EU),\r\nkebutuhan air, pertumbuhan tanaman, dan produktivitas air.  Hasil menunjukan nilai keseragaman penyebaran\r\n(EU) adalah sebesar 64,49 % untuk aliran gravitasi dan 61,46 % untuk aliran pompa.  Nilai ini masih di bawah\r\nnilai keseragaman penyebaran yang disarankan yaitu 75 % - 85 %.  Evapotrasnpirasi acuan (ETo) minimal,\r\nmaksimal, dan nilai tengah adalah 5,80 mm\/hari, 9,70 mm\/hari, dan 7,20 mm\/hari. Evapotranspirasi tanaman\r\n(ETc) pada hari ke 41 setelah tanam adalah 3,2 mm\/hari.  Hasil rata-rata Kembang kol adalah 58 g\/tanaman,\r\nsedangkan produktivitas airnya adalah 0,87 gram\/liter.\r\nKata Kunci:  Kembang kol, Kebutuhan air tanaman, Irigasi tetes, Emitter, Keseragaman tetesan",
+      "subjects": [
+        "S1"
+      ]
+    }
+]
+

@@ -1,0 +1,212 @@
+[
+    {
+      "publication": "2nd International Conference on Engineering and Technology Development (ICETD 2013)",
+      "issn": "2301-6590",
+      "creators": [
+        {
+          "name": {
+            "given": "Rochmah",
+            "honourific": null,
+            "family": "Agustrina",
+            "lineage": null
+          },
+          "id": "rochmah.agustrina@fmipa.unila.ac.id"
+        },
+        {
+          "id": "tundjungtripeni@yahoo.com",
+          "name": {
+            "given": "T.T.",
+            "lineage": null,
+            "family": "Handayani",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sumardi",
+            "given": "Sumardi"
+          },
+          "id": "sumardi_bio@yahoo.co.id"
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/02\/42\/70",
+      "type": "article",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220896",
+                  "objectid": 37991,
+                  "filesize": 122489,
+                  "datasetid": "document",
+                  "hash": "9c9a951e051035c931500ccc2ef7eedd",
+                  "filename": "P 5 2013 observation of the effect of COMPRESS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-04 21:59:36",
+                  "mime_type": "application\/pdf",
+                  "fileid": 220896
+                }
+            ],
+            "main": "P 5 2013 observation of the effect of COMPRESS.pdf",
+            "docid": 37991,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37991",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 24270,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "main": 999,
+            "docid": 37992,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-04 22:00:18",
+                  "hash": "cac6b0936c65c7883ffb100dc1db7cc8",
+                  "filename": 999,
+                  "fileid": 220899,
+                  "mime_type": "application\/xml",
+                  "filesize": 16789,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220899",
+                  "objectid": 37992
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "Proceding",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37992",
+            "rev_number": 3,
+            "eprintid": 24270,
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/xml",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24270",
+      "refereed": "TRUE",
+      "userid": 965,
+      "lastmod": "2020-10-05 08:39:10",
+      "datestamp": "2020-10-05 08:39:10",
+      "eprintid": 24270,
+      "date_type": "published",
+      "title": "OBSERVATION OF THE EFFECT OF STATIC MAGNETIC FIELD 0.1 MT ON -AMYLASE ACTIVITY IN LEGUME GERMINATION",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "status_changed": "2020-10-05 08:39:10",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/artikel.ubl.ac.id\/index.php\/icetd\/article\/view\/169\/999"
+        }
+      ],
+      "subjects": [
+        "QK"
+      ],
+      "abstract": "Studies on the influence of magnetic fields on plant growth and development provide a promising prospect in the field of agricultural engineering. But there are still many obstacles encountered, because the plant response to the magnetic field treatment varies depending on the strength, intensity, and duration of exposure. Type, age, as well as parts of the plant are used also gives a different response to magnetic field treatment.\r\nPrevious studies showed that a magnetic field can increase the germination of some seeds of agricultural crops. In this study, The entire treatment duration of exposure 0.1 mT magnetic field causes an increase in -amylase activity in all legume seedlings observed. Fluctuations in enzyme activity during the germination of kidney bean seedlings are relatively the same as the black turtle bean, as well as enzyme activity in soybean and mung bean. But between the two groups of seedling legumes (kidney beans and black turtle beans vs. Soybeans and green beans) show a very clear difference fluctuations enzyme activity during germination."
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-06-25 02:27:55",
+      "subjects": [
+        "QK"
+      ],
+      "abstract": "Studies on the influence of magnetic fields on plant growth and development provide a promising prospect in the field of agricultural engineering. But there are still many obstacles encountered, because the plant response to the magnetic field treatment varies depending on the strength, intensity, and duration of exposure. Type, age, as well as parts of the plant are used also gives a different response to magnetic field treatment. Previous studies showed that a magnetic field can increase the germination of some seeds of agricultural crops. In this study, The entire treatment duration of exposure 0.1 mT magnetic  α -amylase activity in all legume seedlings observed. Fluctuations field causes an increase in  in enzyme activity during the germination of kidney bean seedlings are relatively the same as the black turtle bean, as well as enzyme activity in soybean and mung bean. But between the two groups of seedling legumes (kidney beans and black turtle beans vs. Soybeans and green beans) show a very clear difference fluctuations enzyme activity during germination.",
+      "official_url": "http:\/\/id.portalgaruda.org\/?ref=browse&mod=viewarticle&article=158746",
+      "event_dates": "27-29 August 2013",
+      "title": "OBSERVATION OF THE EFFECT OF STATIC MAGNETIC FIELD  0.1 MT ON α-AMYLASE ACTIVITY IN LEGUME GERMINATION",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_title": "International Conference on Engineering and Technology Development (ICETD)",
+      "eprintid": 3945,
+      "event_location": "Bandar Lampung",
+      "lastmod": "2018-06-25 02:27:55",
+      "userid": 965,
+      "pagerange": "405-412",
+      "datestamp": "2018-06-25 02:27:55",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 3800,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27603",
+                  "mime_type": "application\/pdf",
+                  "fileid": 27603,
+                  "hash": "e3e578e27d99b6d83aa6a8968f69d034",
+                  "filename": "international conference 2013(UBL).pdf",
+                  "mtime": "2017-09-20 02:12:59",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1426733
+                }
+            ],
+            "docid": 3800,
+            "main": "international conference 2013(UBL).pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3800",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3945,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3945",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "creators": [
+        {
+          "id": "agustrina@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Rochmah",
+            "lineage": null,
+            "given": "Agustrina"
+          }
+        },
+        {
+          "name": {
+            "given": "Tripeni Handayani",
+            "honourific": null,
+            "family": "Tundjung",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "given": "Sumardi",
+            "family": "Sumardi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2013-08-29",
+      "dir": "disk0\/00\/00\/39\/45"
+    }
+]
+

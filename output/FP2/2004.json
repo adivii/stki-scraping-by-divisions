@@ -1,0 +1,118 @@
+[
+    {
+      "eprintid": 28348,
+      "isbn": "979-8287-69-X",
+      "status_changed": "2021-03-12 02:16:30",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Below-ground organisms consist of microbes (bacteria, fungi, protozoa) and macro-fauna (invertebrates). Their diversity is very high, especially in the tropical regions. They provide services which are important for the existence and functioning of natural ecosystems, for instance in (1) driving the nutrient cycling, (2) regulating the dynamics of soil organic matter, soil carbon sequestration and greenhouse gas emissions, (3) modifying soil physical structure and water regimes, (4) enhancing the amount and efficiency of nutrient acquisition by vegetation (mycorrhiza and nitrogen fixing bacteria), and (5) contributing to plant health through the interaction of plant pests and pathogens with their natural enemies. These services are essential for the sustainability of all terrestrial ecosystems including agroecosystems.",
+      "title": "Conservation and sustainable management of below-ground biodiversity in Indonesia",
+      "official_url": "https:\/\/cgspace.cgiar.org\/handle\/10568\/54401",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "editors": [
+        {
+          "id": "fx.susilo@fp.unila.ac.id",
+          "name": {
+            "given": "FX",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Abdul",
+            "lineage": null,
+            "honourific": null,
+            "family": "Gafur"
+          },
+          "id": "gafur@uwalumni.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null,
+            "given": "Muhajir"
+          },
+          "id": "muhajir.utomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Evizal",
+            "given": "Rusdi"
+          },
+          "id": "rusdi.evizal@fp.unila.ac.id"
+        },
+        {
+          "id": "sri.murwani@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Murwani",
+            "given": "Sri"
+          }
+        },
+        {
+          "id": "igede.swibawa@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Swibawa",
+            "lineage": null,
+            "given": "I Gede"
+          }
+        }
+      ],
+      "type": "book",
+      "divisions": [
+        "FP2"
+      ],
+      "date": 2004,
+      "dir": "disk0\/00\/02\/83\/48",
+      "pages": 145,
+      "lastmod": "2021-03-12 02:16:30",
+      "userid": 978,
+      "datestamp": "2021-03-12 02:16:30",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42387",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252005",
+                  "objectid": 42387,
+                  "hash": "d10a3c1802dc5322e7894a01e06af944",
+                  "filename": "QH84.8C65_below_ground_biodiversity.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-11 23:44:53",
+                  "mime_type": "application\/pdf",
+                  "fileid": 252005,
+                  "filesize": 6275628,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "QH84.8C65_below_ground_biodiversity.pdf",
+            "docid": 42387,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28348
+          }
+      ],
+      "publisher": "The CSM-BGBD Project Universitas Lampung",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28348",
+      "refereed": "TRUE"
+    }
+]
+

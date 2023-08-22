@@ -1,0 +1,1720 @@
+[
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": null,
+            "honourific": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "IPTEK, The Journal for Technology and Science",
+      "date": "2014-04",
+      "dir": "disk0\/00\/00\/02\/93",
+      "lastmod": "2016-08-11 02:49:22",
+      "userid": 10,
+      "datestamp": "2016-08-11 02:49:22",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 293,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/286",
+            "docid": 286,
+            "main": "Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1651",
+                  "objectid": 286,
+                  "filename": "Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution.pdf",
+                  "hash": "70b21000de5a423be42e68d41772f1bc",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-10 04:33:50",
+                  "mime_type": "application\/pdf",
+                  "fileid": 1651,
+                  "filesize": 547432,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/293",
+      "eprintid": 293,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-11 02:49:22",
+      "abstract": "The main purpose of this article is to do approximations graphically and mathematically the four-parameter generalized log-logistic distribution, denoted by G4LL (α,β,m1,m2,to the one-parameter Chi-square distribution with υ degrees of freedom. In order to achieve this purpose, this article creates graphically the probability density functions of both distribution and derives mathematically the MGF of the both distributions. To prove the MGF of Chi-square as a special case of the MGF of G4LL distribution, we utilized an expansion of the MacLaurin series. The results show that graphically, the Chi-square distribution can be approximated by the generalized log-logistic distribution. Moreover, by letting α=1, β= -In(2m2), m1= v\/2 dan m2→∞, the MGF of the G4LL distribution can be written in the form of the MGF of the Chi-square distribution. Thus, the Chi-square distribution is a limiting or special case distribution of the generalized log-logistic distribution.\r\nKeywordschi-square distribution, generalized log-logistic distribution, moment generating function, MacLaurin series",
+      "title": "Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution",
+      "metadata_visibility": "show",
+      "volume": 25,
+      "rev_number": 5
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 8,
+      "title": "PENDEKATAN DISTRIBUSI LOG NORMAL DENGAN DISTRIBUSI GENERALIZED LOG-LOGISTIC (GLL) MELALUI DISTRIBUSI GENERALIZED GAMMA (GG)",
+      "official_url": "http:\/\/biastatistics.statistics.unpad.ac.id\/index.php\/biastatistics\/issue\/archive",
+      "abstract": "Generalized log-logistic (GLL) distribution is a generalization of the log-logistic distribution with four parameters (",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2022-01-20 01:36:08",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 38060,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38060",
+      "publisher": "Jurusan Statistika FMIPA Universitas padjajaran",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 38060,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159018",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 159018,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432511",
+                  "mime_type": "application\/pdf",
+                  "fileid": 432511,
+                  "filename": "BIAStatistics Vol 8 No 1 (2).pdf",
+                  "hash": "a3dc60acb90fe8662ace3c1c248e7343",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-19 18:37:18",
+                  "datasetid": "document",
+                  "filesize": 796427
+                }
+            ],
+            "main": "BIAStatistics Vol 8 No 1 (2).pdf",
+            "docid": 159018
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "datestamp": "2022-01-20 01:36:08",
+      "pagerange": "27-33",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-01-20 01:36:08",
+      "userid": 752,
+      "dir": "disk0\/00\/03\/80\/60",
+      "date": "2014-02-28",
+      "creators": [
+        {
+          "name": {
+            "given": "Anni",
+            "honourific": null,
+            "family": "Anni",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "issn": "1907-6274",
+      "publication": "Biastatistics",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article"
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "date": 2014,
+      "dir": "disk0\/00\/00\/15\/07",
+      "issn": "0972-0871",
+      "creators": [
+        {
+          "id": "asmiati308@yahoo.com",
+          "name": {
+            "given": "Asmiati",
+            "family": "Asmiati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Far East Journal of Mathematical Sciences (FJMS)",
+      "pagerange": "89-96",
+      "datestamp": "2017-04-06 01:40:29",
+      "lastmod": "2017-04-06 01:40:32",
+      "userid": 821,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1507",
+      "publisher": "Puspha Publishing House",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1379",
+            "docid": 1379,
+            "main": "The locating-chromatic number of non homogeneous amalgamation of stars.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10267",
+                  "objectid": 1379,
+                  "hash_type": "MD5",
+                  "mtime": "2017-04-05 07:08:12",
+                  "hash": "abd9b4e969dfabf5b13007ca04635705",
+                  "filename": "The locating-chromatic number of non homogeneous amalgamation of stars.pdf",
+                  "fileid": 10267,
+                  "mime_type": "application\/pdf",
+                  "filesize": 150799,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 1507,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 1507,
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-04-06 01:40:32",
+      "metadata_visibility": "show",
+      "volume": 93,
+      "rev_number": 9,
+      "title": "The locating-chromatic number of non-homogeneous amalgamation of stars",
+      "official_url": "http:\/\/www.pphmj.com"
+    },
+    {
+      "event_location": "Institut Teknologi Sepuluh Nopember",
+      "eprintid": 1321,
+      "event_title": "Konferensi Nasional Matematika (KNM) XVII",
+      "date_type": "published",
+      "official_url": "http:\/\/www.knm17.its.ac.id\/",
+      "title": "GRAF AMALGAMASI POHON BERBILANGAN KROMATIK LOKASI EMPAT",
+      "event_dates": "11-14 Juni 2014",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2016-12-16 01:17:51",
+      "abstract": "Misalkan G=(V,E)   adalah graf terhubung dan c suatu pewarnaan-k sejati dari G .  Misalkan pula Π={C_1,C_2,…,C_k} merupakan partisi dari V(G) yang diinduksi oleh pewarnaan c. Kode warna c_Π (v) dari v adalah koordinat (d(v,C_1 ),d(v,C_2 ),…,d(v,C_k)),  dengan d(v,C_i )=min⁡〖{d(v,x)|x ∈C_i}〗  untuk 1≤i≤k. Jika semua titik di G mempunyai kode warna berbeda, maka c disebut pewarnaan  lokasi.    Bilangan  kromatik  lokasi  dari G ,   dinotasikan  dengan χ_L (G)  adalah  bilangan  terkecil k sehingga G mempunyai  pewarnaan-k lokasi. Graf T_(k,m) adalah graf pohon yang hanya memiliki satu titik akar, yaitu x yang mempunyai k anak dan setiap anaknya mempunyai m daun.  Graf amalgamasi pohon nT_(k,m)  adalah  graf  yang  diperoleh  dari n buah  graf dengan  cara menyatukan titik x pada setiap graf tersebut. Pada paper ini akan dibahas graf amalgamasi 〖nT〗_(k,m) yang berbilangan kromatik lokasi empat.",
+      "subjects": [
+        "QA"
+      ],
+      "creators": [
+        {
+          "id": "asmiati308@yahoo.com",
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati"
+          }
+        },
+        {
+          "id": "fitriani_mathunila@yahoo.co.id",
+          "name": {
+            "given": "Fitriani",
+            "family": "Fitriani",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/13\/21",
+      "date": "2014-06-11",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 1321,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "GRAF AMALGAMASI POHON BERBILANGAN Prosiding KNM 2014.pdf",
+            "docid": 1195,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8862",
+                  "objectid": 1195,
+                  "filesize": 1610253,
+                  "datasetid": "document",
+                  "hash": "db6691c9523e0e55c1d442ca921a0e87",
+                  "filename": "GRAF AMALGAMASI POHON BERBILANGAN Prosiding KNM 2014.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-15 04:16:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 8862
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1195",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1321",
+      "lastmod": "2016-12-16 01:17:51",
+      "userid": 263,
+      "datestamp": "2016-12-16 01:17:51",
+      "pagerange": "1399-1408"
+    },
+    {
+      "datestamp": "2020-03-13 08:46:52",
+      "userid": 752,
+      "lastmod": "2020-03-13 08:46:52",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18669",
+      "ispublished": "pub",
+      "publisher": "Science International (Lahore)",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 156817,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-03-13 04:23:57",
+                  "hash_type": "MD5",
+                  "hash": "d4297ba0f71244360f0b295e14a262e7",
+                  "filename": "IS24% - A06 - GENERALIZED_METHOD_OF_MOMENTS__CHARACTERISTICS_AND.pdf",
+                  "datasetid": "document",
+                  "filesize": 1919075,
+                  "objectid": 31842,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/156817"
+                }
+            ],
+            "main": "IS24% - A06 - GENERALIZED_METHOD_OF_MOMENTS__CHARACTERISTICS_AND.pdf",
+            "docid": 31842,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31842",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18669,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "date": 2014,
+      "dir": "disk0\/00\/01\/86\/69",
+      "creators": [
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurniasari",
+            "family": "Dian",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peereveview Karya Ilmiah: Jurnal Ilmiah Internasional",
+      "status_changed": "2020-03-13 08:46:52",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Generalized Method of Moments' Characteristics and Its Application on Panel Data",
+      "date_type": "published",
+      "eprintid": 18669
+    },
+    {
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "eprintid": 1315,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "12270-28112-1-PB_copy.pdf",
+            "docid": 1189,
+            "files": [
+                {
+                  "objectid": 1189,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8816",
+                  "datasetid": "document",
+                  "filesize": 63165,
+                  "mime_type": "application\/pdf",
+                  "fileid": 8816,
+                  "filename": "12270-28112-1-PB_copy.pdf",
+                  "hash": "cd3710577903215df17c3a2bafbe042f",
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-14 05:54:40"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1189",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Fakultas Sains dan Matematika, Universitas Diponegoro",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1315",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 300,
+      "lastmod": "2016-12-15 01:06:28",
+      "pagerange": "45-49",
+      "datestamp": "2016-12-15 01:06:28",
+      "publication": "Jurnal Matematika",
+      "creators": [
+        {
+          "id": "faisol_mathunila@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Faisol",
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "issn": "1410-8518",
+      "dir": "disk0\/00\/00\/13\/15",
+      "date": "2014-08",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "official_url": "http:\/\/ejournal.undip.ac.id\/index.php\/matematika\/article\/view\/12270\/pdf",
+      "title": "ENDOMORFISMA RIGID DAN COMPATIBLE PADA  \r\nRING DERET PANGKAT TERGENERALISASI MIRING",
+      "volume": 17,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "status_changed": "2016-12-15 01:06:28",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Given a ring R, a strictly ordered monoid (S,⋅,≤) and monoid homomorphism ω :S → End(R). Constructed the set of all function from S to R whose support is Artinian and narrow, with pointwise addition and the skew convolution multiplication, it becomes a ring called \r\nthe skew generalized power series rings (SGPSR) and denoted by R[[S,ω,≤]]. A ring R is called reduced if it contains no nonzero nilpotent elements, reversible if for all r,s∈R, rs = 0 implies sr=0. Let µ : R → R be a ring endomorphism, if for r∈R, rµ(r)=0 implies r = 0, then µ is called rigid. In this paper, we will discuss about the constructing of SGPSR homomorphism. Beside that, we \r\nalso discuss about rigid and compatible endomorphism on SGPSR R[[S,ω, ≤]].",
+      "eprintid": 1315,
+      "date_type": "published"
+    },
+    {
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 1480,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1351",
+            "docid": 1351,
+            "main": "Dengan keterangan - Persamaan Umum Jumlah Edge dan Titik pada Cycle Extension.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-24 14:32:49",
+                  "filename": "Dengan keterangan - Persamaan Umum Jumlah Edge dan Titik pada Cycle Extension.pdf",
+                  "hash": "51dc40228377656c6284472031a09eaa",
+                  "fileid": 10053,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3841874,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10053",
+                  "objectid": 1351
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurusan Matematika FSM Universitas Diponegoro",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1480",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-03-24 14:38:31",
+      "userid": 7,
+      "datestamp": "2017-03-24 14:38:31",
+      "pagerange": "93-103",
+      "publication": "Jurnal MATEMATIKA",
+      "issn": "1410-8518",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hambali",
+            "honourific": null,
+            "given": "Mohamad Ibnu"
+          },
+          "id": null
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null,
+            "given": "Fitriani"
+          },
+          "id": "."
+        }
+      ],
+      "dir": "disk0\/00\/00\/14\/80",
+      "date": 2014,
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "official_url": "http:\/\/eprints.undip.ac.id\/48667",
+      "title": "Persamaan Umum Jumlah Edge dan Titik pada Cycle Extension\r\nCubic Graph",
+      "rev_number": 7,
+      "volume": 17,
+      "metadata_visibility": "show",
+      "status_changed": "2017-03-24 14:38:31",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "eprintid": 1480,
+      "date_type": "published"
+    },
+    {
+      "datestamp": "2020-04-15 04:03:04",
+      "lastmod": "2020-04-15 04:03:04",
+      "userid": 752,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19187",
+      "full_text_status": "public",
+      "publisher": "Jurnal Gradien",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 19187,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32424",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "17. Analisis Model Regresi Linear Berganda dengan  Metode Response Surface.pdf",
+                  "hash": "5816f53eb678802e3fd57f03700beaac",
+                  "mtime": "2020-04-15 03:21:55",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 160810,
+                  "filesize": 506280,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160810",
+                  "objectid": 32424
+                }
+            ],
+            "docid": 32424,
+            "main": "17. Analisis Model Regresi Linear Berganda dengan  Metode Response Surface.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "date": 2014,
+      "dir": "disk0\/00\/01\/91\/87",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-04-15 04:03:04",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Analisis Model Regresi Linear Berganda dengan  Metode Response Surface",
+      "date_type": "published",
+      "eprintid": 19187
+    },
+    {
+      "datestamp": "2020-04-15 02:57:12",
+      "lastmod": "2020-04-15 02:57:12",
+      "userid": 752,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19176",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19176,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160729",
+                  "objectid": 32413,
+                  "filesize": 982779,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-15 02:50:22",
+                  "hash": "56091257e7c3853c09408ad6b735f657",
+                  "filename": "6. Generalized Method of Moments' Characteristics and Its Application on Panel Data.pdf",
+                  "fileid": 160729,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 32413,
+            "main": "6. Generalized Method of Moments' Characteristics and Its Application on Panel Data.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32413",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Science International (Lahore)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/01\/91\/76",
+      "date": 2014,
+      "creators": [
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniasari"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "eprint_status": "archive",
+      "status_changed": "2020-04-15 02:57:12",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Generalized Method of Moments' Characteristics and Its Application on Panel Data",
+      "date_type": "published",
+      "eprintid": 19176
+    },
+    {
+      "eprintid": 19182,
+      "date_type": "published",
+      "title": "Karakteristik PendugaVariogram Untuk Data Nonstasioner",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2020-04-15 04:01:44",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0\/00\/01\/91\/82",
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32419",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 916645,
+                  "fileid": 160775,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-15 03:11:55",
+                  "hash": "ef804e77f46eda0f90b304d69924e4de",
+                  "filename": "12. Karakteristik PendugaVariogram Untuk Data Nonstasioner.pdf",
+                  "objectid": 32419,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160775"
+                }
+            ],
+            "docid": 32419,
+            "main": "12. Karakteristik PendugaVariogram Untuk Data Nonstasioner.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19182
+          }
+      ],
+      "publisher": "BIAStatistics",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19182",
+      "full_text_status": "public",
+      "lastmod": "2020-04-15 04:01:44",
+      "userid": 752,
+      "datestamp": "2020-04-15 04:01:44"
+    },
+    {
+      "title": "Pendekatan Distribusi Log Normal Dengan Distribusi Generalized Log-Logistic (GLL) Melalui Distribusi Generalized",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2020-04-15 04:01:28",
+      "eprint_status": "archive",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 19181,
+      "date_type": "published",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19181,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32418",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160768",
+                  "objectid": 32418,
+                  "filesize": 520351,
+                  "datasetid": "document",
+                  "mtime": "2020-04-15 03:09:39",
+                  "hash_type": "MD5",
+                  "hash": "1cd54caa4f696dfa140d7d8304d69920",
+                  "filename": "11. Pendekatan Distribusi Log Normal Dengan Distribusi Generalized Log-Logistic (GLL) Melalui Distribusi Generalized Gamma (GG).pdf",
+                  "fileid": 160768,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "11. Pendekatan Distribusi Log Normal Dengan Distribusi Generalized Log-Logistic (GLL) Melalui Distribusi Generalized Gamma (GG).pdf",
+            "docid": 32418
+          }
+      ],
+      "publisher": "BIAStatistics",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19181",
+      "full_text_status": "public",
+      "userid": 752,
+      "lastmod": "2020-04-15 04:01:28",
+      "datestamp": "2020-04-15 04:01:28",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0\/00\/01\/91\/81",
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19188",
+      "publisher": "Jurnal Gradien",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32425",
+            "rev_number": 1,
+            "docid": 32425,
+            "main": "18. Pendugaan Galat Baku Nilai Tengah Menggunakan Metode Resampling Jacknife dan Bootstrap Nonparametric dengan Software R.2.15.0.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160817",
+                  "objectid": 32425,
+                  "filesize": 525164,
+                  "datasetid": "document",
+                  "hash": "cbbcaa22397b91f4e8c3e5b60885f33a",
+                  "filename": "18. Pendugaan Galat Baku Nilai Tengah Menggunakan Metode Resampling Jacknife dan Bootstrap Nonparametric dengan Software R.2.15.0.pdf",
+                  "mtime": "2020-04-15 03:23:42",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 160817
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 19188,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2020-04-15 04:06:30",
+      "lastmod": "2020-04-15 04:06:30",
+      "userid": 752,
+      "date": 2014,
+      "dir": "disk0\/00\/01\/91\/88",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "family": "Kurniasari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Pendugaan Galat Baku Nilai Tengah Menggunakan Metode Resampling Jacknife dan Bootstrap Nonparametric dengan Software R.2.15.0",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "subjects": [
+        "AC"
+      ],
+      "status_changed": "2020-04-15 04:06:30",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 19188
+    },
+    {
+      "date": "2014-02-28",
+      "dir": "disk0\/00\/03\/80\/59",
+      "publication": "BIAStatistics",
+      "issn": "1907-6274",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Lasmiasih",
+            "lineage": null,
+            "given": "Katarina"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniasari",
+            "given": "Dian"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38059",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159017",
+            "docid": 159017,
+            "main": "BIAStatistics Vol 8 No 1 (1).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 796434,
+                  "fileid": 432503,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-01-19 18:22:40",
+                  "hash_type": "MD5",
+                  "hash": "428d93cb139c99650984407b557b6625",
+                  "filename": "BIAStatistics Vol 8 No 1 (1).pdf",
+                  "objectid": 159017,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432503"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 38059,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Jurusan Statistika FMIPA Universitas padjajaran",
+      "datestamp": "2022-01-20 01:36:06",
+      "pagerange": "14-21",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-01-20 01:36:06",
+      "userid": 752,
+      "date_type": "published",
+      "eprintid": 38059,
+      "volume": 8,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/biastatistics.statistics.unpad.ac.id\/index.php\/biastatistics\/issue\/archive",
+      "title": "KARAKTERISTIK PENDUGA VARIOGRAM UNTUK DATA NONSTASIONER",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "The aims of this study are to find variogram or semivariogram estimator for spatial\r\ndata, especially for nonstationery data, and to discuss the characteristics of estimator obtained by\r\nUniversal Kriging. In fact, this method uses the mean of sample data to form a trend or\r\nnonstationary data. This study shows that the characteristics of the Universal Kriging estimator\r\nare unbiased and variance minimum of estimator (BLUE). For computation purposes of the\r\naplication of the Universal Kriging algorithm graphs, this study developes R software language.\r\n\r\nKeywords : Spatial Data, Variogram, Semivariogram, Kriging, BLUE (Best Linear Unbias \r\nEstimation)",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-20 01:36:06"
+    },
+    {
+      "lastmod": "2017-06-12 02:06:16",
+      "userid": 752,
+      "datestamp": "2017-06-12 02:06:16",
+      "pagerange": "957-962",
+      "publisher": "Fakultas MIPA Universitas Bengkulu",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3466,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3338",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 4343474,
+                  "mime_type": "application\/pdf",
+                  "fileid": 24008,
+                  "hash": "41e45989f0d329662707b96c28194a36",
+                  "filename": "GRADIEN HENOH.pdf",
+                  "mtime": "2017-06-06 07:43:53",
+                  "hash_type": "MD5",
+                  "objectid": 3338,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24008"
+                }
+            ],
+            "main": "GRADIEN HENOH.pdf",
+            "docid": 3338
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3466",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "issn": "0216-2393",
+      "creators": [
+        {
+          "name": {
+            "given": "Henoh Bayu",
+            "honourific": null,
+            "family": "Murti",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "given": "Dian",
+            "family": "Kurniasari",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Widiarti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Widiarti"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal GRADIEN",
+      "date": "2014-01",
+      "dir": "disk0\/00\/00\/34\/66",
+      "status_changed": "2017-06-12 02:06:16",
+      "eprint_status": "archive",
+      "abstract": "Problem in analysis of regression research is the need of more than one independent variables in regression model. This condition often causes complication in estimating an important response, which results multiple linear regression that is not optimal.  In this condition, it is needed an optimalization that is essential in multiple linear regression. To be able to use independent variables optimally, response surface method is used. This method determines approaching function that is suitable in estimating the next dependent variable y. Optimal point of the result of the optimalization of multiple linear regression using three independent variables of the data of reaction rate for catalytic isomerization of n-pentane to isopentane is on saddle point. \r\n \r\nKeywords: multiple linear regression, response surface",
+      "subjects": [
+        "QA"
+      ],
+      "official_url": "https:\/\/ejournal.unib.ac.id\/index.php\/gradien",
+      "title": "Analisis Model Regresi Linear Berganda dengan Metode Response Surface",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 10,
+      "eprintid": 3466,
+      "date_type": "published"
+    },
+    {
+      "funders": [
+        "Institut Pertanian Bogor"
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/87\/40",
+      "date": "2014-05-09",
+      "creators": [
+        {
+          "id": "suharsono.1962@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suharsono",
+            "given": "Suharsono"
+          }
+        }
+      ],
+      "datestamp": "2018-10-29 04:15:45",
+      "pagerange": "56-59",
+      "userid": 845,
+      "corp_creators": [
+        "Jurusan Matematika FMIPA Unila"
+      ],
+      "lastmod": "2018-10-29 04:15:45",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8740",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 8740,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 21825,
+            "main": "INVESTIGASI NUMERIK.pdf",
+            "files": [
+                {
+                  "filesize": 2670176,
+                  "datasetid": "document",
+                  "mtime": "2018-08-24 02:35:09",
+                  "hash_type": "MD5",
+                  "filename": "INVESTIGASI NUMERIK.pdf",
+                  "hash": "5abfc109c28f75e0e0df605376280306",
+                  "fileid": 85224,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85224",
+                  "objectid": 21825
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21825",
+            "rev_number": 1
+          }
+      ],
+      "date_type": "published",
+      "event_title": "Semirata 2014 BKS PTN Barat",
+      "eprintid": 8740,
+      "event_location": "Bogor",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "This Research is to study velocity profiles of analytical solution of unsteady fluid flow model in rectangular microchannel with slip boundary for the case of sinusoidal pressure gradient. We conclude that the profiles are similar for t*=0 and t*=1 but having opposite sign for t*=0.25 and t*=0.75",
+      "eprint_status": "archive",
+      "status_changed": "2018-10-29 04:15:45",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_dates": "9-11 Mei 2014",
+      "title": "INVESTASI NUMERIK PROFIL KECEPATAN ALIRAN FLUIDA PADA SALURAN MIKRO PERSEGI-PANJANG"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 19244,
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "status_changed": "2020-04-20 03:42:23",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/01\/92\/44",
+      "date": 2014,
+      "creators": [
+        {
+          "name": {
+            "given": "Warsono",
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        }
+      ],
+      "datestamp": "2020-04-20 03:42:23",
+      "lastmod": "2020-04-20 03:42:23",
+      "userid": 516,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19244",
+      "ispublished": "pub",
+      "publisher": "IPTEK The Journal for Technology and Science",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 19244,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32478",
+            "docid": 32478,
+            "main": "A07 - IS20% - Approximations_of_the_Generalized_Log_Logistic_Dis.pdf",
+            "files": [
+                {
+                  "filesize": 1390737,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-20 03:12:56",
+                  "filename": "A07 - IS20% - Approximations_of_the_Generalized_Log_Logistic_Dis.pdf",
+                  "hash": "f8cf54b4b9c71f20121db9f857255535",
+                  "fileid": 161239,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/161239",
+                  "objectid": 32478
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "date": 2014,
+      "dir": "disk0\/00\/01\/92\/43",
+      "creators": [
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null,
+            "given": "Warsono"
+          }
+        }
+      ],
+      "datestamp": "2020-04-20 03:42:11",
+      "lastmod": "2020-04-20 03:42:11",
+      "userid": 516,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19243",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 19243,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32477",
+            "rev_number": 1,
+            "main": "A06 - IS24% - GENERALIZED_METHOD_OF_MOMENTS__CHARACTERISTICS_AND.pdf",
+            "docid": 32477,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 161226,
+                  "hash": "4f2412b560a508d6d90de69421ffc58c",
+                  "filename": "A06 - IS24% - GENERALIZED_METHOD_OF_MOMENTS__CHARACTERISTICS_AND.pdf",
+                  "mtime": "2020-04-20 03:10:38",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1919075,
+                  "objectid": 32477,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/161226"
+                }
+            ]
+          }
+      ],
+      "publisher": "Science International (Lahore)",
+      "date_type": "published",
+      "eprintid": 19243,
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "status_changed": "2020-04-20 03:42:11",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Generalized Method of Moments' Characteristics and Its Application on Panel Data"
+    },
+    {
+      "creators": [
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "family": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Warsono"
+          }
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0\/00\/01\/92\/45",
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 19245,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32479",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 32479,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/161246",
+                  "mime_type": "application\/pdf",
+                  "fileid": 161246,
+                  "hash": "25a7fd85ca5e145dd35af003f71a7b84",
+                  "filename": "A08 - IS24% - On_the_Moments__Cumulants__and_Characteristic_Func.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-20 03:14:44",
+                  "datasetid": "document",
+                  "filesize": 1590220
+                }
+            ],
+            "main": "A08 - IS24% - On_the_Moments__Cumulants__and_Characteristic_Func.pdf",
+            "docid": 32479
+          }
+      ],
+      "publisher": "IPTEK The Journal for Technology and Science",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19245",
+      "full_text_status": "public",
+      "userid": 516,
+      "lastmod": "2020-04-20 03:42:48",
+      "datestamp": "2020-04-20 03:42:48",
+      "eprintid": 19245,
+      "date_type": "published",
+      "title": "On the Moments, Cumulants, and Characteristics Function of The Log-Logistic Distribution",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-04-20 03:42:48",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/121",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 121,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/712",
+                  "objectid": 135,
+                  "filename": "3 Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution.pdf",
+                  "hash": "70b21000de5a423be42e68d41772f1bc",
+                  "mtime": "2016-07-12 01:59:23",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 712,
+                  "filesize": 547432,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "3 Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution.pdf",
+            "docid": 135
+          }
+      ],
+      "datestamp": "2016-07-12 02:04:28",
+      "pagerange": "7-12",
+      "lastmod": "2016-07-12 03:52:08",
+      "userid": 7,
+      "dir": "disk0\/00\/00\/01\/21",
+      "date": "2014-04",
+      "publication": "IPTEK, The Journal for Technology and Science",
+      "issn": "2088-2033",
+      "creators": [
+        {
+          "id": "chacho81@yahoo.com",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Buana",
+            "lineage": null,
+            "given": "Kartika Candra"
+          },
+          "id": "kartikacandrabuana@yahoo.com"
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniasari",
+            "given": "Dian"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "rev_number": 9,
+      "volume": 25,
+      "metadata_visibility": "show",
+      "title": "Approximations of the Generalized Log-Logistic Distribution to the Chi-Square Distribution",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "The main purpose of this article is to do approximations graphically and mathematically the four-parameter generalized log-logistic distribution, denoted by G4LL( ), to the one-parameter Chi-square distribution with υ degrees of freedom. In order to achieve this purpose, this article creates graphically the probability density functions of both distribution and derives mathematically the MGF of the both distributions. To prove the MGF of Chi-square as a special case of the MGF of G4LL distribution, we utilized an expansion of the MacLaurin series. The results show that graphically, the Chi-square distribution can be approximated by the generalized log-logistic distribution. Moreover, by letting ( ) and , the MGF of the G4LL distribution can be written in the form of the MGF of the Chi-square distribution. Thus, the Chi-square distribution is a limiting or special case distribution of the generalized log-logistic distribution.\r\nKeywordschi-square distribution, generalized log-logistic distribution, moment generating function, MacLaurin series",
+      "eprint_status": "archive",
+      "status_changed": "2016-07-12 02:04:28",
+      "eprintid": 121
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "This research examine about the moments, cumulants, and characteristic function of the log-logistic distribution. Therefore, the purposes of this article are (1) finding moments of the log-logistic distribution by using moment generating function and by definition of expected values of the log-logistic random variable and (2) finding the cumulants and characteristic function of the log-logistic distribution. Log-logistic distribution has two parameters: the shape parameter α and β as a parameter scale. Moments of the log-logistic distribution can be determined by using the moment generating function or the definition of expected value. Cumulants determined by the moments that have been found previously. Furthermore, skewness and kurtosis can be determined from the log-logistic distribution. While the characteristic function is the expected value of , which I as an imaginary number.\r\n\r\nKeywords: Log-logistic Distribution, Moments, Cumulants, Characteristics Function.",
+      "status_changed": "2016-07-12 01:54:57",
+      "eprint_status": "archive",
+      "rev_number": 9,
+      "volume": 25,
+      "metadata_visibility": "show",
+      "title": "On the Moments, Cumulants, and Characteristic Function of the Log-Logistic Distribution",
+      "eprintid": 120,
+      "datestamp": "2016-07-12 01:54:57",
+      "pagerange": "78-82",
+      "lastmod": "2016-07-12 03:55:18",
+      "userid": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/120",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 120,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/134",
+            "docid": 134,
+            "main": "23 On the Moments, Cumulants, and Characteristic Function of the Log-Logistic Distribution.pdf",
+            "files": [
+                {
+                  "objectid": 134,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/705",
+                  "datasetid": "document",
+                  "filesize": 787288,
+                  "fileid": 705,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-07-12 01:45:46",
+                  "hash_type": "MD5",
+                  "filename": "23 On the Moments, Cumulants, and Characteristic Function of the Log-Logistic Distribution.pdf",
+                  "hash": "9392f10c07cecee4c7c6e5de96c916af"
+                }
+            ]
+          }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/01\/20",
+      "date": "2014-12",
+      "publication": "IPTEK, The Journal for Technology and Science",
+      "creators": [
+        {
+          "id": "chacho81@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "id": "diianekaa@gmail.com",
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "family": "Ekawati",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "family": "Kurniasari",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "issn": "2088-2033"
+    },
+    {
+      "eprintid": 122,
+      "status_changed": "2016-07-12 02:17:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Generalized Method of Moments (GMM) is an estimation procedure that allows\r\neconometric models especially in panel data to be specified while avoiding often unwanted or\r\nunnecessary assumptions, such as specifying a particular distribution for the errors. Panel data is\r\ncombination of time series and cross section data that contain observations on thousands of\r\nindividuals or families, each observed at several points in time. Furthermore, the Generalized Method\r\nof Moments estimator is obtained by minimizing the criterion function by making sample moment\r\nmatch the population moment.The point of this research is to analyze characteristics GMM estimator\r\non panel data fixed effect models especially unbiasedness, variance minimum, consistency, and\r\nnormal asymptotic distributed estimator properties. This paper also provide the application of GMM\r\nestimation on the area of “Cost for United States Airlines on Six Firms from 1970-1984”.\r\nKeywords: Panel Data; Generalized Method of Moments; Unbiasedness; Variance Minimum;\r\nConsistency; Normal Asymptotic Distributed",
+      "title": "GENERALIZED METHOD OF MOMENTS’ CHARACTERISTICS AND ITS APPLICATION ON PANELDATA",
+      "rev_number": 8,
+      "volume": 26,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Science International",
+      "creators": [
+        {
+          "id": "chacho81@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Bernadhita H. S.",
+            "lineage": null,
+            "family": "Utami",
+            "honourific": null
+          }
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "family": "Usman",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mustofa"
+          }
+        }
+      ],
+      "issn": "1013-5316",
+      "date": 2014,
+      "dir": "disk0\/00\/00\/01\/22",
+      "userid": 7,
+      "lastmod": "2016-07-12 03:53:47",
+      "pagerange": "985-990",
+      "datestamp": "2016-07-12 02:17:12",
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 122,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 720,
+                  "filename": "18 GENERALIZED METHOD OF MOMENTS’ CHARACTERISTICS AND ITS APPLICATION ON PANELDATA.pdf",
+                  "hash": "c0a0fa8f67c2108c884a37a3ef5e457c",
+                  "mtime": "2016-07-12 02:08:31",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 398702,
+                  "objectid": 136,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/720"
+                }
+            ],
+            "main": "18 GENERALIZED METHOD OF MOMENTS’ CHARACTERISTICS AND ITS APPLICATION ON PANELDATA.pdf",
+            "docid": 136
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/122",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 3468,
+      "abstract": "Metode Jackknife dan Bootstrap merupakan metode berbasis resampling. Kedua metode ini biasa digunakan untuk inferensia statistic, yaitu pada pendugaan parameter dengan sebaran awal yang tidak diketahui. Metode Jackknife dan Boostrap merupakan metode yang tidak didasarkan pada pemenuhan asumsi tertentu, sehingga metode ini dapat diterapkan pada seluruh data kuantitatif. Secara teori dapat dibuktikan bahwa metode Jackknife merupakan penduga yang baik untuk data asal. Namun berdasarkan kreteria Kuadrat Tengah Galat (KTG), metode Bootstrap lebih tepat digunakan karena menghasilkan nilai KTG yang lebih kecil dibanding metode jackknife. \r\n \r\nKata Kunci: Jackknife, Bootstrap, Resampling",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 02:04:51",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 10,
+      "official_url": "https:\/\/ejournal.unib.ac.id\/index.php\/gradien",
+      "title": "Pendugaan Galat Baku Nilai Tengah Menggunakan Metode Resampling Jackknife dan Bootstrap Nonparametric dengan Software R 2.15.0",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/34\/68",
+      "date": "2014-01",
+      "issn": "0216-2393",
+      "creators": [
+        {
+          "name": {
+            "given": "Septiana",
+            "family": "Wulandari",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniasari"
+          }
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "honourific": null,
+            "family": "Widiarti",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal GRADIEN",
+      "datestamp": "2017-06-12 02:04:51",
+      "pagerange": "963-966",
+      "lastmod": "2017-06-12 02:04:51",
+      "userid": 752,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3468",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "eprintid": 3468,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "GRADIEN SEPTIANA.pdf",
+            "docid": 3341,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 24022,
+                  "filename": "GRADIEN SEPTIANA.pdf",
+                  "hash": "b76861d5d2346029196da8cef0a6d047",
+                  "mtime": "2017-06-06 07:53:32",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 3140478,
+                  "objectid": 3341,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24022"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3341"
+          }
+      ],
+      "publisher": "Fakultas MIPA Universitas Bengkulu",
+      "number": 1,
+      "ispublished": "pub"
+    }
+]
+

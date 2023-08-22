@@ -1,0 +1,377 @@
+[
+    {
+      "pages": 180,
+      "date": 2018,
+      "dir": "disk0\/00\/01\/95\/04",
+      "creators": [
+        {
+          "name": {
+            "given": "Hasan",
+            "honourific": null,
+            "family": "Hariri",
+            "lineage": null
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ridwan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ridwan"
+          },
+          "id": "ridwanrosidimuawi@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "book",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19504",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 32736,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/162967",
+                  "datasetid": "document",
+                  "filesize": 9342827,
+                  "mime_type": "application\/pdf",
+                  "fileid": 162967,
+                  "filename": "2018_approval Perilaku Organisasi Pendidikan_hal awal dan akhir.pdf",
+                  "hash": "5085f4ce6d1497b1b3b2a58743a1591e",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-07 15:21:41"
+                }
+            ],
+            "main": "2018_approval Perilaku Organisasi Pendidikan_hal awal dan akhir.pdf",
+            "docid": 32736,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32736",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19504,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Graha Ilmu",
+      "ispublished": "pub",
+      "datestamp": "2020-05-08 01:59:18",
+      "lastmod": "2020-05-08 01:59:18",
+      "userid": 214,
+      "isbn": "978-602-262-892-7, eISBN: 978-602-262-893-4",
+      "eprintid": 19504,
+      "metadata_visibility": "show",
+      "place_of_pub": "Yogyakarta",
+      "rev_number": 9,
+      "official_url": "http:\/\/grahailmu.id\/product\/perilaku-organisasi-pendidikan\/",
+      "title": "Perilaku Organisasi Pendidikan",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2020-05-08 01:59:18",
+      "eprint_status": "archive"
+    },
+    {
+      "pagerange": "92-107",
+      "datestamp": "2020-06-30 08:18:30",
+      "lastmod": "2020-06-30 08:18:30",
+      "userid": 214,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12848",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 12848,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Principals are the architects of good and conducive school climate and culture.",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25831",
+            "rev_number": 5,
+            "docid": 25831,
+            "main": "SCHOOL_LEADERSHIP_AND_ITS_INFLUENCE_ON_STUDENT_ACHIEVEMENT.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-14 03:47:36",
+                  "hash": "9d9d9e3eefa54241c20cac4dd571f235",
+                  "filename": "SCHOOL_LEADERSHIP_AND_ITS_INFLUENCE_ON_STUDENT_ACHIEVEMENT.pdf",
+                  "fileid": 113306,
+                  "mime_type": "application\/pdf",
+                  "filesize": 278339,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113306",
+                  "objectid": 25831
+                }
+            ]
+          },
+          {
+            "pos": 2,
+            "format": "text",
+            "rev_number": 6,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36217",
+            "formatdesc": "Principals are the architects of good and conducive school climate and culture.",
+            "main": "index.html_page_id=13",
+            "docid": 36217,
+            "files": [
+                {
+                  "filename": "index.html_page_id=13",
+                  "hash": "702ba9d35ec21694c5c8f03b64abe99a",
+                  "mtime": "2020-06-22 18:03:06",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "fileid": 208452,
+                  "filesize": 78656,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208452",
+                  "objectid": 36217
+                }
+            ],
+            "language": "en",
+            "mime_type": "text\/html",
+            "content": "published",
+            "eprintid": 12848,
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "conference_item",
+      "date": 2018,
+      "dir": "disk0\/00\/01\/28\/48",
+      "creators": [
+        {
+          "id": "dhkarwan@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Karwan",
+            "lineage": null,
+            "given": "Dedy H."
+          }
+        },
+        {
+          "id": "riswanti.rini@gmail.com",
+          "name": {
+            "given": "Riswanti",
+            "lineage": null,
+            "family": "Rini",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Een Y.",
+            "lineage": null,
+            "honourific": null,
+            "family": "Haenilah"
+          },
+          "id": "eenhaenilah@gmail.com>"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hariri",
+            "lineage": null,
+            "given": "Hasan"
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        }
+      ],
+      "abstract": "This paper aims to (1) describe how leadership constructs to be successful in\r\nschools, (2) investigate how school leadership influences student achievement. This paper used\r\nliterature review by selecting relevant literature particularly journal articles on school leadership\r\nand student achievement. Results indicate that, firstly, to be effective, principals need to apply\r\ntransformational leadership which is based on transactional leadership associated with rational\r\ndecision making style. Secondly, it is evident that influence of school leadership on student\r\nachievement can be seen from two directions depending on different domains. When measured\r\nusing cognitive and psychomotor domains, school leadership has indirect influence on student\r\nachievement, where such domains functions as intervening variables. In contrast, when using\r\naffective domain, school leadership has direct influence on student achievement.   This is\r\nbecause principals are the architects of good and conducive school climate and culture, where\r\nthe affective domain that principals apply is through modeling and refraction that students\r\ncannot get through teaching.\r\n\r\nKey words: school leadership, successful principal, school effectiveness, student achievement",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2020-06-30 08:18:30",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 16,
+      "event_type": "conference",
+      "title": "SCHOOL LEADERSHIP AND ITS INFLUENCE ON \r\nSTUDENT ACHIEVEMENT",
+      "official_url": "https:\/\/www.unila.ac.id\/en\/2018\/11\/shield-conference\/",
+      "event_dates": "9 November 2018",
+      "date_type": "published",
+      "eprintid": 12848,
+      "event_title": "Development Challenges in Emerging Countries",
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "dir": "disk0\/00\/01\/46\/56",
+      "date": 2018,
+      "creators": [
+        {
+          "name": {
+            "given": "Irawan",
+            "family": "Suntoro",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hariri",
+            "given": "Hasan"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14656",
+      "full_text_status": "public",
+      "publisher": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27764",
+            "rev_number": 1,
+            "main": "sertifikat_EC00201854506_Buku KEBIJAKAN Suntoro dan Hariri 2018.pdf",
+            "docid": 27764,
+            "files": [
+                {
+                  "filesize": 770233,
+                  "datasetid": "document",
+                  "mtime": "2019-10-28 07:48:15",
+                  "hash_type": "MD5",
+                  "hash": "c798bd99eab36d53f2e1e06350249ce5",
+                  "filename": "sertifikat_EC00201854506_Buku KEBIJAKAN Suntoro dan Hariri 2018.pdf",
+                  "fileid": 126946,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126946",
+                  "objectid": 27764
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 14656,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2019-11-04 02:49:16",
+      "lastmod": "2019-11-04 02:49:16",
+      "userid": 214,
+      "eprintid": 14656,
+      "metadata_visibility": "show",
+      "place_of_pub": "Jakarta",
+      "rev_number": 9,
+      "title": "Kebijakan Publik",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-11-04 02:49:16"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 33965,
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd\/article\/view\/16927",
+      "title": "The Relationship of Special Companion Teacher Competencies and Learning Infrastructure Facilities with Learning Outcomes",
+      "subjects": [
+        "LB1501"
+      ],
+      "abstract": "The purpose of this research to determine the significant and positive relationship between the competence of a special companion teacher with the learning outcomes, learning infrastructure facilities with learning outcomes, as well as the competence of special mentoring teachers and learning infrastructure facilities towards the learning outcomes. This type of research is ex-postfacto correlation. The population was 51 teachers and the research sample was 31 teachers. Data analysis used is product moment and multiple correlation correlations. Based on the analysis of research data it can be concluded that there is a significant and positive relationship between the competence of special companion teachers with the learning outcomes, there is a significant and positive relationship between learning infrastructure and learning outcomes, and a significant relationship between the competencies of special mentoring teachers and learning infrastructure facilities together with the learning outcomes.",
+      "status_changed": "2021-09-20 01:06:28",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd\/article\/view\/16927"
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/03\/39\/65",
+      "publication": "Pedagogi : Jurnal Pendidikan Dasar",
+      "creators": [
+        {
+          "id": "yuliana.marfuahm2m@gmail.com,",
+          "name": {
+            "given": "Yuliana Marfuah",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yuliana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sowiyah",
+            "honourific": null,
+            "given": "Sowiyah"
+          },
+          "id": "Sowi.unila@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Siswantoro",
+            "given": "Siswantoro"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33965",
+      "refereed": "TRUE",
+      "number": 15,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 33965,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "1. 16927-38005-1-PB.pdf",
+            "docid": 154208,
+            "files": [
+                {
+                  "fileid": 401319,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-18 10:04:41",
+                  "filename": "1. 16927-38005-1-PB.pdf",
+                  "hash": "477f7288ad4d53c3991013c42bb073c0",
+                  "datasetid": "document",
+                  "filesize": 670519,
+                  "objectid": 154208,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/401319"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154208",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2021-09-20 01:06:28",
+      "lastmod": "2021-09-20 01:06:28",
+      "userid": 968
+    }
+]
+

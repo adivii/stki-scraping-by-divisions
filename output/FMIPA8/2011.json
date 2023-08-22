@@ -1,0 +1,180 @@
+[
+    {
+      "title": "Pengantar Topologi",
+      "rev_number": 8,
+      "place_of_pub": "Bandar Lampung, Indonesia",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-12-02 01:36:32",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Topologi sebagai cabang matematika modern merupakan alat yang sangat penting dalam memahami matematika, terutama konsep-konsep dasar matematika yang berkembang saat ini. Topologi adalah cabang matematika yang berkembang pesat setelah ditemukannya konsep Teori Himpunan serta merupakan hasil karya besar dari para seniman matematika yang telah memperkaya khasanah keilmuan kita, khususnya matematika. Topologi sendiri berkembang secara alamiah dari perkembangan Geometri dan Analisis. Topologi tidak saja merupakan alat yang sangat ampuh dalam banyak cabang matematika seperti dalam Real Analisis, Geometri dan Teori Peluang, melainkan juga subjek yang sangat penting untuk mengembangkan kemampuan berfikir para mahasiswa dan meningkatkan kemampuan berfikir secara jelas dalam melakukan pembuktian secara sistematis, teliti dan tepat.",
+      "eprintid": 1276,
+      "isbn": "978-602-98559-0-6",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1276,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1150",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 8543,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-29 12:40:43",
+                  "filename": "TOPOLOGI_01.pdf",
+                  "hash": "432900da32da3d2ad9d0b145d9c071b6",
+                  "datasetid": "document",
+                  "filesize": 1558179,
+                  "objectid": 1150,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8543"
+                }
+            ],
+            "docid": 1150,
+            "main": "TOPOLOGI_01.pdf"
+          }
+      ],
+      "publisher": "Gema Perkasa Abadi",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1276",
+      "refereed": "FALSE",
+      "corp_creators": [
+        "Departemen matematika, Universitas Lampung"
+      ],
+      "userid": 701,
+      "lastmod": "2016-12-02 01:36:32",
+      "datestamp": "2016-12-02 01:36:32",
+      "creators": [
+        {
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "date": 2011,
+      "dir": "disk0\/00\/00\/12\/76",
+      "pages": 195,
+      "type": "book",
+      "divisions": [
+        "FMIPA8"
+      ]
+    },
+    {
+      "eprintid": 6102,
+      "date_type": "published",
+      "status_changed": "2018-04-26 02:04:34",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Abstract: The application of Experimental Design nowadays is very extensive in many research areas,\r\nespecially in Engineering, Agriculture, Education and Life sciences. In many experimental designs\r\nsometimes the researchers want to compare parameters from some design of experiments. This paper\r\nwill discuss the approach to combine several RCBDs (Randomized Complete Block Designs) for the\r\nfixed effect model. The combined model is non full column rank and has constraint on its parameters.\r\nThe approach used in this paper is MRM (Model Reduction Method) to transform the constrained\r\nmodel into unconstrained model. Then the analysis of interest will be based on the unconstrained\r\nmodel.\r\n\r\nKey words: RCBDs, MRM(Model Reduction Method), orthogonal Matrix, Likelihood Ratio Test,\r\ntesting hypothesis.",
+      "title": "The Combination of Several RCBDs",
+      "rev_number": 7,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "publication": "Australian Journal of Basic and Applied Sciences",
+      "creators": [
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "family": "Usman",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "NJuho",
+            "lineage": null,
+            "given": "Peter"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Elfaki",
+            "given": "Faiz A. M."
+          }
+        },
+        {
+          "id": "jamalidus@yahoo.com",
+          "name": {
+            "family": "Daoud",
+            "honourific": null,
+            "lineage": null,
+            "given": "Jamal I"
+          }
+        }
+      ],
+      "issn": "ISSN 1991-8178",
+      "date": "2011-04",
+      "dir": "disk0\/00\/00\/61\/02",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Natal University, South Africa",
+        "IIUM, Malaysia",
+        "IIUM Malaysia"
+      ],
+      "userid": 701,
+      "lastmod": "2018-04-26 02:04:34",
+      "datestamp": "2018-04-26 02:04:34",
+      "pagerange": "67-75",
+      "number": 4,
+      "ispublished": "pub",
+      "publisher": "AENSI",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19012",
+            "docid": 19012,
+            "main": "AJBAS MUSTOFA Paper.pdf",
+            "files": [
+                {
+                  "objectid": 19012,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/56196",
+                  "mime_type": "application\/pdf",
+                  "fileid": 56196,
+                  "hash": "1c613d32cbd3d3582bcd7da09d896769",
+                  "filename": "AJBAS MUSTOFA Paper.pdf",
+                  "mtime": "2017-11-22 01:02:41",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 154404
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6102,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6102",
+      "refereed": "TRUE"
+    }
+]
+

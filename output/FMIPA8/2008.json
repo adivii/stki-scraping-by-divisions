@@ -1,0 +1,195 @@
+[
+    {
+      "datestamp": "2016-11-09 06:58:00",
+      "corp_creators": [
+        "University of Lampung",
+        "International Islamic University Malaysia",
+        "International Islamic University Malaysia"
+      ],
+      "userid": 701,
+      "lastmod": "2016-11-09 06:58:00",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1106",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "International Islamic University Malaysia Press",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 988,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7301",
+                  "datasetid": "document",
+                  "filesize": 762433,
+                  "mime_type": "application\/pdf",
+                  "fileid": 7301,
+                  "filename": "Experimental_design_for_scientist_and_engineers.pdf",
+                  "hash": "3316ddcc259b6681b6c6ba71c9db6b00",
+                  "mtime": "2016-11-09 05:54:29",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 988,
+            "main": "Experimental_design_for_scientist_and_engineers.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/988",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1106,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "book",
+      "dir": "disk0\/00\/00\/11\/06",
+      "date": 2008,
+      "pages": 367,
+      "creators": [
+        {
+          "name": {
+            "family": "Usman",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mustofa"
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Faiz A. M.",
+            "honourific": null,
+            "family": "Elfaki",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Daoud",
+            "lineage": null,
+            "given": "Jamal I"
+          },
+          "id": "jamalidus@yahoo.com"
+        }
+      ],
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "This book is intended as an intermediate text for students in experimental design. The following can benefit from it if they have attended an introductory course in experimental design: •Undergraduate majors and postgraduate students in engineering, biotechnology, psychology, education and agriculture •Medical students •Graduate students who need an overview of the major topics in experimental design •Researchers and practitioners in different fields of study who need a comprehensive reference when conducting their experiments",
+      "status_changed": "2016-11-09 06:58:00",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "place_of_pub": "Kuala Lupur, Malaysia",
+      "title": "EXPERIMENTAL DESIGN FOR SCIENTISTS AND ENGINEERS",
+      "isbn": "ISBN 978-983-3855-34-6",
+      "date_type": "published",
+      "eprintid": 1106
+    },
+    {
+      "event_location": "Bandar Lampung, Indonesia",
+      "date_type": "published",
+      "eprintid": 1092,
+      "event_title": "International Conference On Quantitative Methods Used In Economics and Bussiness",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "title": "BETA HAT MODEL AND ITS APPLICATION",
+      "event_dates": "15-17 Oktober 2008",
+      "abstract": "In linear model  Y=Xβ+ε,  to test the specific form of a hypotheses of a linear function of parameters β, there are several methods of testing hypotheses available, among others are: Principle Conditional Error, Likelihood ratio Test and Invariance Test. In this paper, another methods which is well known as Beta hat models (Milliken and Johnson, 2002) will be presented and its application in some cases of linear model will be discussed.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-11-09 05:13:15",
+      "date": "2008-10-15",
+      "dir": "disk0\/00\/00\/10\/92",
+      "creators": [
+        {
+          "id": "alfha_usman@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null,
+            "given": "Mustofa"
+          }
+        },
+        {
+          "name": {
+            "given": "Rudi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ruswandi"
+          },
+          "id": null
+        },
+        {
+          "id": "jamalidus@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Daoud",
+            "honourific": null,
+            "given": "Jamal I"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Faiz A. M.",
+            "family": "Elfaki",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1092",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/980",
+            "rev_number": 1,
+            "main": "PAPER (16) PROCEEDINGS_MUSTOFA (UNILA).pdf",
+            "docid": 980,
+            "files": [
+                {
+                  "objectid": 980,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7232",
+                  "fileid": 7232,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-09 03:56:43",
+                  "filename": "PAPER (16) PROCEEDINGS_MUSTOFA (UNILA).pdf",
+                  "hash": "7def421a189f6e8c475a687f94d85122",
+                  "datasetid": "document",
+                  "filesize": 16411373
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 1092,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pres_type": "keynote",
+      "ispublished": "pub",
+      "pagerange": "387-392",
+      "datestamp": "2016-11-09 05:13:15",
+      "lastmod": "2016-11-09 05:13:15",
+      "userid": 701
+    }
+]
+

@@ -1,0 +1,108 @@
+[
+    {
+      "date": "2001-10-01",
+      "dir": "disk0\/00\/03\/56\/70",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Triyono",
+            "honourific": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        },
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "elhamidarezkia@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Rezkia Amin",
+            "honourific": null,
+            "given": "Elhamiida"
+          }
+        },
+        {
+          "name": {
+            "given": "Diannisa",
+            "honourific": null,
+            "family": "Widdi Eka Ningrum",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "dermiyati.1963@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Dermiyati",
+            "given": "-"
+          }
+        }
+      ],
+      "divisions": [
+        "FP18"
+      ],
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35670",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156597",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 156597,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/415052",
+                  "datasetid": "document",
+                  "filesize": 2126384,
+                  "fileid": 415052,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-11-09 09:24:34",
+                  "hash_type": "MD5",
+                  "filename": "EIAETM III Conference_Makalah_Sert_opt_opt.pdf",
+                  "hash": "f73a277b88212f56c4c2372b9d331e9b"
+                }
+            ],
+            "main": "EIAETM III Conference_Makalah_Sert_opt_opt.pdf",
+            "docid": 156597,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 35670
+          }
+      ],
+      "pres_type": "paper",
+      "datestamp": "2021-11-09 10:05:44",
+      "lastmod": "2021-11-09 10:05:44",
+      "userid": 832,
+      "date_type": "published",
+      "event_title": "EIAETM III Conference",
+      "eprintid": 35670,
+      "rev_number": 9,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "EFFECT OF WATER CONTENT AND NPK ENRICHMENT ON SOME\r\nPROPERTIES OF A PELLETIZED COMPOST FERTILIZER",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Practical methods of fertilizer applications to enhance farm productivity with sustainability concern and least environmental risk have been getting a lot of attention.  This research study aimed to evaluate the effect of water content and NPK enrichment on some properties of pelletized compost fertilizer.   The compost was split into three group of equal piles, and sprayed with different levels of liquid NPK, namely: 0% (N0), 3% (N1), and 6% (N2) of the compost weight.   Each of the three different NPK level piles was divided into three piles, each of which was subjected to be sprayed with additional water in order to get three different levels of water contents, namely: 10-15% (W1), 20-25% (W2), and 30-35% (W3), making total of nine treatment combinations of compost to be pelletized and sun dried.  After the sun drying, each of the nine pellet piles was sampled with three replicates and tested for some physical and chemical properties namely: bulk and particle density, hygroscopicity, compressive strength, impact strength, vibration strength, solubility, and pH.  By doing these steps, the requirement of completely randomized design with factorial arrangement was considerably fulfilled.  The data sets were analysed by using analysis of variance and followed by LSD multiple comparation.  The results showed that water content of compost and NPK addition significantly affected some physical properties of compost pellets, namely: the bulk density (517,65 to 587.60 kg.m-3), particle density (1059,55 to 1329,91 kg.m-3), compressive strength (2,08 to 7,78 MN.m-2), impact strength (42,66 to 91,91%), vibration strength (62,11 to 97,68 %), and solubility (74,44 to 147,56 hours).  On the other hand, the treatments were not significant on hygroscopicity and pH.  At last, the experiment revealed that W1N2 treatment produced the lowest soluble compost pellet, while the W2N1, W3N1 produced the highest soluble compost pellets.\r\n    \r\nKeywords: compost, enrichment, fortification, pellet, slow release.",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-09 10:05:44"
+    }
+]
+

@@ -1,0 +1,74 @@
+[
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FKIP18"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": null,
+            "honourific": null,
+            "given": "sumadi"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/12\/61",
+      "date": "2009-03-12",
+      "lastmod": "2016-11-24 06:32:00",
+      "userid": 10,
+      "datestamp": "2016-11-24 06:32:00",
+      "pagerange": "85-90",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1261,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1139",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 2082873,
+                  "datasetid": "document",
+                  "mtime": "2016-11-24 04:30:53",
+                  "hash_type": "MD5",
+                  "hash": "632b6b0494e88365502cbd3bf1fc688c",
+                  "filename": "Seminar Nasional Teknologi Informasi dan Aplikasinya.pdf",
+                  "fileid": 8452,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8452",
+                  "objectid": 1139
+                }
+            ],
+            "main": "Seminar Nasional Teknologi Informasi dan Aplikasinya.pdf",
+            "docid": 1139
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1261",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "event_title": "Seminar nasional teknologi informasi dan aplikasinya",
+      "eprintid": 1261,
+      "date_type": "published",
+      "event_location": "malang",
+      "status_changed": "2016-11-24 06:32:00",
+      "eprint_status": "archive",
+      "subjects": [
+        "AI"
+      ],
+      "abstract": "pengembangan pendidikan si Indonesia saat ini lebih diarahkan pada peningkatan mutu, agar mampu mengikuti perkembangan ilmu pengetahuan dan teknologi, serta mampu meghadapi persaingan global. begitu pada manajemen perguruan tinggi dituntut untuk lebih aktif dan efesien.",
+      "title": "sistem informasi administrasi akademik online suatu studi kasus",
+      "event_dates": "12 maret 2009",
+      "rev_number": 10,
+      "event_type": "conference",
+      "metadata_visibility": "show"
+    }
+]
+

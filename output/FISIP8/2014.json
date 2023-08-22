@@ -1,0 +1,143 @@
+[
+    {
+      "dir": "disk0_bak\/00\/04\/87\/27",
+      "date": "2014-03-27",
+      "creators": [
+        {
+          "id": "iwsulistyo@gmail.com",
+          "name": {
+            "given": "Iwan",
+            "lineage": null,
+            "family": "Sulistyo",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP8"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48727",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Harian Umum Haluan",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 48727,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188104",
+            "main": "Kapolda Baru, Ragam Tantangan (Haluan, 27_3_2014).pdf",
+            "docid": 188104,
+            "files": [
+                {
+                  "mtime": "2023-03-04 09:18:46",
+                  "hash_type": "MD5",
+                  "filename": "Kapolda Baru, Ragam Tantangan (Haluan, 27_3_2014).pdf",
+                  "hash": "72d696287b5de82e64d19a944682a6ef",
+                  "fileid": 530945,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1261969,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530945",
+                  "objectid": 188104
+                }
+            ]
+          }
+      ],
+      "datestamp": "2023-03-06 01:56:02",
+      "lastmod": "2023-03-06 01:56:02",
+      "userid": 1187,
+      "eprintid": 48727,
+      "rev_number": 7,
+      "place_of_pub": "Padang",
+      "metadata_visibility": "show",
+      "title": "Kapolda Baru, Ragam Tantangan",
+      "subjects": [
+        "JZ"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-03-06 01:56:02"
+    },
+    {
+      "subjects": [
+        "JZ"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-03-06 01:55:55",
+      "rev_number": 8,
+      "place_of_pub": "Padang",
+      "metadata_visibility": "show",
+      "title": "Menghindari Plagiarisme",
+      "eprintid": 48726,
+      "datestamp": "2023-03-06 01:55:55",
+      "lastmod": "2023-03-06 01:55:55",
+      "userid": 1187,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48726",
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "publisher": "Harian Umum Haluan",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48726,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188103",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530938",
+                  "objectid": 188103,
+                  "filesize": 540624,
+                  "datasetid": "document",
+                  "mtime": "2023-03-04 09:16:11",
+                  "hash_type": "MD5",
+                  "filename": "Menghindari Plagiarisme (Harian Haluan, 18 Maret 2014)..pdf",
+                  "hash": "7826ba02ed692ce28184aea99e3f147e",
+                  "fileid": 530938,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 188103,
+            "main": "Menghindari Plagiarisme (Harian Haluan, 18 Maret 2014)..pdf"
+          }
+      ],
+      "divisions": [
+        "FISIP8"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/04\/87\/26",
+      "date": "2014-03-18",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sulistyo",
+            "lineage": null,
+            "given": "Iwan"
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ]
+    }
+]
+

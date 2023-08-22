@@ -1,0 +1,869 @@
+[
+    {
+      "subjects": [
+        "TD"
+      ],
+      "eprint_status": "archive",
+      "place_of_pub": "Virginia, USA",
+      "official_url": "http:\/\/ascelibrary.org",
+      "date_type": "published",
+      "eprintid": 1370,
+      "projects": [
+        "-"
+      ],
+      "datestamp": "2017-01-06 01:26:48",
+      "corp_creators": [
+        "ASCE (American Society of Civil Engineers)"
+      ],
+      "lastmod": "2017-01-06 01:26:48",
+      "publisher": "ASCE (American Society of Civil Engineers)",
+      "ispublished": "pub",
+      "number": 1,
+      "contributors": [
+        {
+          "name": {
+            "given": "Udin",
+            "family": "Hasanudin",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "udinha65@gmail.com"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null,
+          "name": {
+            "given": "Tjandra",
+            "family": "Setiadi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FP22"
+      ],
+      "book_title": "Green Technologies for sustainable water management",
+      "series": 1,
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ngo",
+            "given": "Huu Hao"
+          }
+        },
+        {
+          "name": {
+            "family": "Guo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wenshan"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Surampalli",
+            "honourific": null,
+            "given": "Rao Y"
+          }
+        },
+        {
+          "name": {
+            "given": "Thian C",
+            "lineage": null,
+            "honourific": null,
+            "family": "Zhang"
+          }
+        }
+      ],
+      "type": "book_section",
+      "id_number": 2016016116,
+      "pages": 1083,
+      "date": 2016,
+      "related_url": [
+        {
+          "url": "http:\/\/cedb.asce.0rg",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2017-01-06 01:26:48",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 11,
+      "title": "Sustainable Wastewater Management in Palm Oil Mill",
+      "isbn": "9780784414422 (print); 9780784479780 (PDF)",
+      "pagerange": "955-973",
+      "userid": 1048,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1370",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "docid": 1246,
+            "main": "2016-Book Chapter-Green Technologies for Sustainable Water.pdf",
+            "files": [
+                {
+                  "objectid": 1246,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9227",
+                  "fileid": 9227,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-01-04 07:50:15",
+                  "filename": "2016-Book Chapter-Green Technologies for Sustainable Water.pdf",
+                  "hash": "d87aa4939994f0d5d69d1c81828404df",
+                  "datasetid": "document",
+                  "filesize": 18233361
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1246",
+            "rev_number": 1,
+            "eprintid": 1370,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "funders": [
+        "ASCE"
+      ],
+      "dir": "disk0\/00\/00\/13\/70",
+      "creators": [
+        {
+          "id": "udinha65@gmail.com",
+          "name": {
+            "given": "Udin",
+            "family": "Hasanudin",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Tjandra",
+            "family": "Setiadi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ]
+    },
+    {
+      "corp_creators": [
+        "Lampung University",
+        "Lampung University",
+        "Lampung University"
+      ],
+      "userid": 288,
+      "lastmod": "2017-05-30 01:20:56",
+      "datestamp": "2017-05-30 01:20:56",
+      "pagerange": "195-207",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Balitbangnovda",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 1759,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13264",
+                  "fileid": 13264,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 09:40:04",
+                  "hash": "cec149b3cdc1e37166ddeeb75e09d566",
+                  "filename": "Harun, balitbangnovda.pdf",
+                  "datasetid": "document",
+                  "filesize": 413332
+                }
+            ],
+            "main": "Harun, balitbangnovda.pdf",
+            "docid": 1759,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1759",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1898,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1898",
+      "refereed": "TRUE",
+      "contact_email": "harun.alrasyid@fp.unila.ac.id",
+      "type": "article",
+      "divisions": [
+        "FP22"
+      ],
+      "publication": "Jurnal Kelitbangan Provinsi",
+      "creators": [
+        {
+          "name": {
+            "family": "Mahendra",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yudha Aditya"
+          },
+          "id": "mahendrayudah@gmail.com"
+        },
+        {
+          "id": "harun.alrasyid@fp.unila.ac.id",
+          "name": {
+            "given": "Harun",
+            "lineage": null,
+            "family": "alrasyid",
+            "honourific": null
+          }
+        },
+        {
+          "id": "subeki1968@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "subeki",
+            "lineage": null,
+            "given": "subeki"
+          }
+        }
+      ],
+      "issn": "2354-5704",
+      "dir": "disk0\/00\/00\/18\/98",
+      "date": 2016,
+      "eprint_status": "archive",
+      "status_changed": "2017-05-30 01:20:56",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Shrimp byproduct is theprocessing shrimp result that still can be used by improving its content through the fermentation process using microorganism. The purpose of this research is to determine the influence of microorganism types and fermentation time using to protein residue of shrimp byproduct fermentation. The research was arranged in factorials in the design random and completed with 2 factors and 3 repetitions.The first factor is types of microorganism, that are Aspergillus niger (M1), Rhizopus oryzae (M2), and Lasiodiplodia theobromae (M3). The second factor is the times of fermentation, that are 0 hours (L0), 24 hours (L1), 48 hours (L2), and 72 hours (L3). Similarities of the data were analyzed and analyzed further by using comparison test and orthogonal polynomials at the level 1% and 5%. The result of research shows that microorganism types and fermentation time have very real impact on protein residue and total yield. Each mold has a tendency in quadratic on total yield and protein residue. But R. oryzae did not have real impact on total yield. The best value of protein residue is A. niger at 4,00% with 35,63 hours of fermentation and the best value of total yield is L. theobromae at 65,92% with 27,70 hours of fermentation.\r\n\r\n\r\nKata kunci --- fermentasi, mikroorganisme, residu protein, Hasil sampingan udang, fermentation, microorganism, protein residue, shrimp byproduct",
+      "official_url": "http:\/\/balitbangda.lampungprov.go.id\/e-jurnal\/jurnalviewsearch.php",
+      "title": "PENGARUH JENIS MIKROORGANISME DAN LAMA FERMENTASI TERHADAP PROTEIN RESIDU PRODUK FERMENTASI HASIL SAMPING UDANG",
+      "rev_number": 6,
+      "volume": 4,
+      "metadata_visibility": "show",
+      "eprintid": 1898,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 37978,
+      "rev_number": 13,
+      "place_of_pub": "Dikti\/Lipi",
+      "metadata_visibility": "show",
+      "title": "Identification of Salmonella Sp. Contaminatio on Broilers with Quantification Method at Three Traditional Markets and Two Modern Markets in Bandar Lampung",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Salmonella sp. is a bacteri that causes of contamination on broilers and salmonellosis in humans. The acording of SNI 7388 (2009), chicken meat safety for comsumption is must be negative Salmonella sp content. The porpuse of this research was to identify Salmonella sp. contamination on boilers at traditional market and modern market in Bandar Lampung. This research used samples of chicken meat from 3 traditional \r\nmarkets (Gintung Market, Rajabasa Market and Tamin Market) and 2 modern markets (Robinson Super Market and Chandra Super Market). All of samples were isolated on to selective media Xylose Lysine Desoxycholate (XLD) agar with 3 replication. The result showed that contamination of SalmonellIa sp. was identified on boilers at traditional \r\nmarket and modern market with the contamination level on Gintung Market was 4,80x108 CFU\/g – 2,48 x109 CFU\/g, Rajabasa Market was 3,68x108 CFU\/g, - 1,24x109 CFU\/g, \r\nTamin Market was 3,30x108 CFU\/g – 3,68x109 CFU\/g, Robinson Super Market was 3,27x104 CFU\/g – 1,50x105 CFU\/g and Chandra Super Market was 3,30x104 CFU\/g –1,13x105 CFU\/g. The conclusion was this research was the contamination level at \r\ntraditional markets was higher then the modern markets.\r\nKeywords: broilers, contamination, modern market, Salmonella sp., traditional market",
+      "eprint_status": "archive",
+      "status_changed": "2022-08-24 06:15:45",
+      "date": "2016-09",
+      "dir": "disk0\/00\/03\/79\/78",
+      "publication": "Jurnal Teknologi Industri & Hasil Pertanian",
+      "issn": "ISSN 1410-3044 (print) and ISSN 2304-4399 (online)",
+      "creators": [
+        {
+          "id": "dewikincai@yahoo.com",
+          "name": {
+            "given": "Dewi",
+            "lineage": null,
+            "family": "Sartika",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Susilawati",
+            "lineage": null,
+            "family": "Susilawati",
+            "honourific": null
+          },
+          "id": "susilawati.1961@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Gusman Arfani",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gusman"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP22"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37978",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRE"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRE"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRP"
+        }
+      ],
+      "publisher": "Jurusan Teknologi Hasil Pertanian Unila",
+      "documents": [
+          {
+            "main": "Identifikasi Cemaran Salmonella sp..pdf",
+            "docid": 159053,
+            "files": [
+                {
+                  "filename": "Identifikasi Cemaran Salmonella sp..pdf",
+                  "hash": "1aed46279e684d6ac6b9cee66cb1bd39",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 03:46:14",
+                  "mime_type": "application\/pdf",
+                  "fileid": 432772,
+                  "filesize": 413252,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432772",
+                  "objectid": 159053
+                }
+            ],
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159053",
+            "rev_number": 1,
+            "eprintid": 37978,
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2022-08-24 06:15:45",
+      "corp_creators": [
+        "Jurusan Teknologi Hasil Pertanian",
+        "Jurusan Teknologi Hasil Pertanian",
+        "Jurusan Teknologi Hasil Pertanian"
+      ],
+      "lastmod": "2022-08-24 06:15:45",
+      "userid": 306
+    },
+    {
+      "date_type": "published",
+      "eprintid": 1655,
+      "rev_number": 11,
+      "volume": 18,
+      "metadata_visibility": "show",
+      "title": "ASPIRASI MASYARAKAT DAN SEKTOR BASIS DALAM\r\nPENGEMBANGAN PEKON UNGGULAN DI KABUPATEN TANGGAMUS",
+      "official_url": "http:\/\/publikasi.fisip.unila.ac.id\/index.php\/sosiologi\/article\/view\/360",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Penelitian ini mengkaji potensi pertumbuhan ekonomi dengan mengidentifikasi aspek\r\nkekuatan, kelemahan, tantangan, dan ancaman pengembangan pekon pusat-pusat di\r\nKabupaten Tanggamus. Tipe penelitian yang dilakukan merupakan deskriptif dengan\r\nmetode survey. Informasi menggunakan data primer dan data sekunder, antara lain: data\r\ndan informasi mengenai karakteristik daerah meliputi kondisi infrastruktur, perekonomian\r\ndan potensi areal usaha pertanian, peternakan, dan perikanan. Analisis yang digunakan\r\ndalam kajian ini melingkupi analisis SWOT, Rapid Rural Appraisal (RRA), dan Location\r\nQuotient (LQ). Hasil penelitian menunjukkan: (1) penjaringan aspirasi masyarakat melalui\r\nRapid Rural Appraisal menunjukkan dukungan yang kuat masyarakat terhadap\r\npengembangan pekon pusat-pusat pertumbuhan berbasis ekonomi kerakyatan dengan skor\r\npenilaian 3.38; (2) Berdasarkan analisis LQ Kabupaten Tanggamus pada periode tahun\r\n2011-2013, Kabupaten Tanggamus memiliki beberapa sektor basis, yaitu: sektor pertanian;\r\nsektor listrik, gas dan air bersih, perdagangan, hotel dan restoran, serta keuangan,\r\npersewaan dan jasa perusahaan.\r\nKata kunci: Aspirasi masyarakat, pengembangan pekon",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-29 02:03:23",
+      "dir": "disk0\/00\/00\/16\/55",
+      "date": "2016-09-10",
+      "publication": "Sosiologi",
+      "creators": [
+        {
+          "name": {
+            "given": "Wisnu",
+            "lineage": null,
+            "honourific": null,
+            "family": "Satyajaya"
+          },
+          "id": "wisnu.satyajaya@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Herdiana",
+            "honourific": null,
+            "given": "Novita"
+          },
+          "id": "novita.herdiana@fp.unila.ac.id"
+        }
+      ],
+      "issn": "1411-0040",
+      "divisions": [
+        "FP22"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1655",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 1655,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 1514,
+            "main": "Pekon Unggulan.pdf",
+            "files": [
+                {
+                  "filesize": 1989389,
+                  "datasetid": "document",
+                  "hash": "6306213016dff02a9593d49d791a9705",
+                  "filename": "Pekon Unggulan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-23 09:49:30",
+                  "mime_type": "application\/pdf",
+                  "fileid": 11405,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/11405",
+                  "objectid": 1514
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1514",
+            "rev_number": 1
+          }
+      ],
+      "pagerange": "75-84",
+      "datestamp": "2017-05-29 02:02:53",
+      "lastmod": "2017-05-29 02:03:23",
+      "corp_creators": [
+        "Lampung University"
+      ],
+      "userid": 288
+    },
+    {
+      "status_changed": "2017-05-30 01:20:19",
+      "eprint_status": "archive",
+      "abstract": "Kehidupan masyarakat di pekon Pringsewu Barat Kecamatan Pringsewu Kabupaten Pringsewu, umumnya memiliki mata pencarian sebagai petani padi namun ada beberapa petani yang menanam cabai, sedangkan kalangan ibu – ibunya lebih banyak berprofesi sebagai ibu rumah tangga. Secara umum\r\nperekonomian masyarakat di pekon Pringsewu barat Kecamatan Pringsewu Kabupaten Pringsewu termasuk ekonomi lemah. Dimana rata – rata latar belakang pendidikan masyarakat umumnya hanya tamatan SMP dan SMA. Kelompok tani di pekon Pringsewu barat Kecamatan Pringsewu Kabupaten Pringsewu hanya menjual hasil panennya dalam bentuk segar, walaupun sudah mengetahui bentuk olahan dari cabai namun belum bisa membuat dan mengembangkan produk olahan dari cabai seperti manisan cabai dan abon cabai,selain untuk memenuhi kebutuhan gizi juga untuk meningkatkan pendapatan masyarakat. Peningkatkan perekonomian masyarakat dapat diupayakan melalui penyuluhan dan pelatihan sehingga dapat menambah wawasan pengetahuan dan keterampilan masyarakat, khususnya kelompok tani Tunas Mekar di pekon Pringsewu Barat Kecamatan Pringsewu Kabupaten Pringsewu dengan melakukan teknologi pengembangan (diversifikasi) produk olahan cabai seperti abon cabai dan manisan cabai. Peningkatan pengetahuan dalam teknologi pengembangan\r\n(diversifikasi) olahan cabai (abon cabai dan manisan cabai) sangat perlu dilakukan selain menghindari kerugian juga untuk meningkatkan nilai jual dan penghasilan\r\nmasyarakat. Tujuan dilaksanakan kegiatan ini adalah : 1). Meningkatkan pengetahuan dan ketrampilan kelompok tani Tunas Mekar mengenai cara pembuatan diversifikasi olahan cabai (abon dan manisan), 2). Meningkatkan\r\npengetahuan dan ketrampilan kelompok tani Tunas Mekar mengenai sanitasi dan higiene selama proses pembuatan diversifikasi produk olahan cabai (abon dan manisan) dan 3). Meningkatkan pengetahuan kelompok tani Tunas Mekar\r\nmengenai wirausaha dan analisis usaha pembuatan diversifikasi produk olahan cabai (abon dan manisan).\r\nPenyampaian materi pada kegiatan ini dilakukan melalui ceramah, demonstrasi, diskusi dan praktik pembuatan diversifikasi olahan cabe. Kegiatan berlangsung\r\ndengan baik dan tertib, dimana terlihat dari begitu antusiasnya peserta mengikuti kegiatan tersebut dan berharap ada kesinambungan pembinaan terhadap petani\r\ncabe di pekon Pringsewu barat Kecamatan Pringsewu Kabupaten Pringsewu. Berdasarkan hasil kegiatan yang dilakukan secara keseluruhan dapat disimpulkan bahwa pengetahuan peserta berkaitan dengan materi pelatihan meningkat sangat\r\npesat hal ini ditunjukan dengan nilai rata – rata 12,5 % sebelum pelatihan menjadi 87,5 % setelah mengikuti kegiatan ini. Hal ini menunjukan bahwa pegetahuan peserta meningkat dari peringkat rendah sebelum pelatihan ke peringkat tinggi\r\nsetelah mengikuti pelatihan ini. \r\nKata Kunci: cabai, olahan, Pringsewu,",
+      "subjects": [
+        "S1"
+      ],
+      "event_dates": "Desember 2016",
+      "title": "PENYULUHAN DAN PELATIHAN PENGEMBANGAN PRODUK\r\nOLAHAN CABAI DALAM RANGKA PENINGKATAN GIZI DAN\r\nEKONOMI MASYARAKAT DI KELOMPOK KELOMPOK WANITA\r\nTANI TUNAS MEKAR PEKON PRINGSEWU BARAT KECAMATAN\r\nPRINGSEWU KABUPATEN PRINGSEWU",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "eprintid": 1894,
+      "event_title": "SEMINAR NASIONAL HASIL-HASIL PENGABDIAN KEPADA MASYARAKAT",
+      "date_type": "published",
+      "event_location": "Bandar Lampung",
+      "corp_creators": [
+        "Lampung University",
+        "Lampung University",
+        "Lampung University"
+      ],
+      "lastmod": "2017-05-30 01:20:19",
+      "userid": 288,
+      "datestamp": "2017-05-30 01:20:19",
+      "pagerange": "264-268",
+      "documents": [
+          {
+            "main": "Cover dan Daftar Isi Prosiding.pdf",
+            "docid": 1754,
+            "files": [
+                {
+                  "objectid": 1754,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13240",
+                  "datasetid": "document",
+                  "filesize": 930135,
+                  "mime_type": "application\/pdf",
+                  "fileid": 13240,
+                  "hash": "f9408882f179edca4371352667f3ca25",
+                  "filename": "Cover dan Daftar Isi Prosiding.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 09:30:09"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1754",
+            "eprintid": 1894,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "docid": 1755,
+            "main": "Sugiharto, Cabe.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13242",
+                  "objectid": 1755,
+                  "filesize": 445918,
+                  "datasetid": "document",
+                  "mtime": "2017-05-29 09:30:17",
+                  "hash_type": "MD5",
+                  "hash": "67c598a7016e8a843c1f70531f974944",
+                  "filename": "Sugiharto, Cabe.pdf",
+                  "fileid": 13242,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1755",
+            "rev_number": 1,
+            "eprintid": 1894,
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1894",
+      "type": "conference_item",
+      "contact_email": "ribut.sugiharto@fp.unila.ac.id",
+      "divisions": [
+        "FP22"
+      ],
+      "creators": [
+        {
+          "id": "ribut.sugiharto@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sugiharto",
+            "lineage": null,
+            "given": "Ribut"
+          }
+        },
+        {
+          "id": "novita.herdiana@fp.unila.ac.id",
+          "name": {
+            "given": "Novita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herdiana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Satyajaya",
+            "lineage": null,
+            "given": "Wisnu"
+          },
+          "id": "wisnu.satyajaya@fp.unila.ac.id"
+        },
+        {
+          "id": "dewi.sartika@fp.unila.ac.id",
+          "name": {
+            "given": "Dewi",
+            "family": "Sartika",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/18\/94",
+      "date": "2016-12"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "eprintid": 1887,
+      "event_title": "SEMINAR NASIONAL HASIL-HASIL PENGABDIAN KEPADA MASYARAKAT",
+      "date_type": "published",
+      "title": "PELATIHAN PROSES PRODUKSI DAN STUDI KELAYAKAN MINYAK\r\nATSIRI PALA DI KABUPATEN TANGGAMUS, PROVINSI LAMPUNG",
+      "event_dates": "Desember 2016",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 10,
+      "status_changed": "2017-05-30 01:19:10",
+      "eprint_status": "archive",
+      "abstract": "Kondisi terkini petani pala di Kabupaten Tanggamus umumnya hanya\r\nmembudidayakan tanaman pala yang menghasilkan pala segar, fuli pala, dan biji\r\npala kering serta belum mengolahnya menjadi minyak atsiri pala yang bernilai\r\ntambah. Kegiatan pengabdiaan pada masyakat ini dilakukan di di Desa Campang\r\ndan Way Tebu, Kecamatan Gisting, Kabpaten Tanggamus, Provinsi Lampung\r\ndengan peserta para petani tanaman pala yang tergabung dalam gapoktan.\r\nPelaksanan kegiatan akan dilakukan dengan ceramah dan diskusi meliputi (a)\r\nceramah tentang proses produksi minyak atsiri pala yang efektif dan efisien; (b)\r\nsosialisasi tentang mutu minyak atsiri pala; (c) ceramah tentang studi kelayakan\r\nproses produksi minyak atsiri pala. Metode demonstrasi dan praktek berupa (a)\r\ndemonstrasi proses produksi minyak atsiri pala pada skala kecil kapsitas bahan baku sekitar 10 kg dan (b) metode praktek penyusunan studi kelayakan prosesproduksi minyak atsiri pala Hasil pelatihan menunjukkan bahwa para petani menghasilkan pala dalam bentuk biji dan fuli pala; petani tidak mengetahui cara memproduksi minyak pala dan jumlah investasinya; petani tidak berminat memproduksi minyak pala karena merasa tidak mempuunyai cukup modal usaha.\r\n\r\nKata Kunci: Proses Produksi, Studi Kelayakan, Minyak Atsiri, Pala",
+      "subjects": [
+        "S1"
+      ],
+      "creators": [
+        {
+          "id": "tanto.utomo@fp.unila.ac.id",
+          "name": {
+            "given": "tanto Pratondo",
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Harun",
+            "honourific": null,
+            "family": "Al Rasyid",
+            "lineage": null
+          },
+          "id": "harun.alrasyid@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suroso",
+            "given": "Erdi"
+          },
+          "id": "erdi.suroso@fp.unila.ac.id"
+        },
+        {
+          "id": "wisnu.satyajaya@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Satyajaya",
+            "given": "Wisnu"
+          }
+        }
+      ],
+      "date": "2016-12",
+      "dir": "disk0\/00\/00\/18\/87",
+      "type": "conference_item",
+      "contact_email": "tanto.utomo@fp.unila.ac.id",
+      "divisions": [
+        "FP22"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 930135,
+                  "mime_type": "application\/pdf",
+                  "fileid": 13183,
+                  "filename": "Cover dan Daftar Isi Prosiding.pdf",
+                  "hash": "f9408882f179edca4371352667f3ca25",
+                  "mtime": "2017-05-29 09:03:12",
+                  "hash_type": "MD5",
+                  "objectid": 1746,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13183"
+                }
+            ],
+            "docid": 1746,
+            "main": "Cover dan Daftar Isi Prosiding.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1746",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1887,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "placement": 2,
+            "security": "public",
+            "eprintid": 1887,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 13185,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 09:03:27",
+                  "filename": "Tanto et al, Pala.pdf",
+                  "hash": "e87993806f48ad894c3fba9a622e7997",
+                  "datasetid": "document",
+                  "filesize": 863056,
+                  "objectid": 1747,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13185"
+                }
+            ],
+            "docid": 1747,
+            "main": "Tanto et al, Pala.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1747",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1887",
+      "corp_creators": [
+        "Lampung University",
+        "Lampung University",
+        "Lampung University",
+        "Lampung University"
+      ],
+      "lastmod": "2017-05-30 01:19:10",
+      "userid": 288,
+      "pagerange": "344-352",
+      "datestamp": "2017-05-30 01:19:10"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "eprintid": 1892,
+      "event_title": "SEMINAR NASIONAL HASIL-HASIL PENGABDIAN KEPADA MASYARAKAT",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 10,
+      "event_dates": "Desember 2016",
+      "title": "PENGEMBANGAN INDUSTRI KECIL PEMBUATAN BERAS SIGER\r\nDARI UBIKAYU DI DESA WIRA AGUNG SARI KECAMATAN\r\nPENAWAR TAMA KABUPATEN TULANG BAWANG",
+      "abstract": "Program Hi-Link-Pengembangan Industri Kecil Pembuatan Beras Siger dari Ubikayu di Desa Wira Agung Sari Kecamatan Penawar Tama Kabupaten Tulang Bawang, dilatarbelakangi oleh potensi daerah dan keinginan masyarakat untuk mengolah ubikayu. Program ini dilaksanakan untuk menerapkan teknologi yang dibutuhkan oleh industri dan masyarakat secara berkelanjutan untuk memperkuat daya saing mitra dan meningkatkan kesejahteraan masyarakat. Kegiatan ini bertujuan untuk mengembangkan kerjasama antara perguruan tinggi, pemda, dan mitra industri kecil pembuatan beras siger dari ubikayu. Kegiatan yang dilakukan adalah pembinaan manajemen dan administrasi sumber daya untuk meningkatkan kemampuan SDM, pengembangan teknologi dan peralatan pembuatan beras siger untuk meningkatkan produksi dan daya saing, pengembangan jaringan pemasaran untuk meningkatkan penjualan produk, pengembangan permodalan dan kerjasama untuk menjaga keberlangsungan kegiatan, serta penelitian lanjutan untuk evaluasi dan penyempurnaan teknologi yang diterapkan. Beras siger dibuat dari tepung\r\nubikayu dengan cara pemilihan ubikayu, pengupasan, pencucian, pemarutan,perendaman, penyaringan, pengendapan pati, pengepresan ubikayu, pengeringan,penepungan ubikayu. Pembuatan beras siger dilakukan dengan cara penimbangan\r\nbahan, pembuatan emulsifier, pembuatan adonan, pengayakan-1, pengukusan,pengayakan-2, pendinginan, pencetakan, pemisahan butiran, pengeringan,\r\npengemasan. Beras siger produksi KWT Togasari mempunyai karakteristik berwarna putih, tekstur pulen, aroma ubikayu hilang, disukai panelis, dan komposisi gizi kadar air (10,19%), abu (0,31%), lemak (0,56%), protein (2,69%),\r\nserat kasar (4,50%), karbohidrat (81,75%), dan indek glikemik 31. Rata-rata kadar glukosa darah 2 jam postprandial seseorang yang mengonsumsi nasi siger\r\nadalah 96,43 mg\/dL lebih rendah daripada mengkonsumsi nasi putih sebesar 119,37 mg\/dL. Pemberian beras siger tidak menyebabkan peningkatan kadar glukosa darah penderita diabetes tipe 2.\r\nKata kunci: beras siger, Penawar Tama, Tulang Bawang, ubikayu, Wira Agung",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-05-30 01:20:08",
+      "date": "2016-12",
+      "dir": "disk0\/00\/00\/18\/92",
+      "creators": [
+        {
+          "name": {
+            "given": "subeki",
+            "lineage": null,
+            "honourific": null,
+            "family": "subeki"
+          },
+          "id": "subeki.1968@fp.unila.ac.id"
+        },
+        {
+          "id": "novita.herdiana@fp.unila.ac.id",
+          "name": {
+            "given": "Novita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herdiana"
+          }
+        },
+        {
+          "name": {
+            "given": "Wisnu",
+            "family": "Satyajaya",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "wisnu.satyajaya@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Akhyar",
+            "given": "Gusri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Surfiana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Surfiana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Meryorie",
+            "honourific": null,
+            "lineage": null,
+            "given": "Surfiana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sri Lambang",
+            "lineage": null,
+            "family": "Asih",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FP22"
+      ],
+      "type": "conference_item",
+      "contact_email": "subeki1968@fp.unila.ac.id",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1892",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 930135,
+                  "mime_type": "application\/pdf",
+                  "fileid": 13208,
+                  "hash": "f9408882f179edca4371352667f3ca25",
+                  "filename": "Cover dan Daftar Isi Prosiding.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 09:15:21",
+                  "objectid": 1749,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13208"
+                }
+            ],
+            "docid": 1749,
+            "main": "Cover dan Daftar Isi Prosiding.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1749",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1892,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1750",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13211",
+                  "objectid": 1750,
+                  "filesize": 1681554,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 09:15:30",
+                  "hash": "838cf840025ab2549977417adda38d9e",
+                  "filename": "Subeki et al, Hi Link.pdf",
+                  "fileid": 13211,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Subeki et al, Hi Link.pdf",
+            "docid": 1750,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 1892
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "pagerange": "434-445",
+      "datestamp": "2017-05-30 01:20:08",
+      "lastmod": "2017-05-30 01:20:08",
+      "corp_creators": [
+        "Lampung University",
+        "Lampung University",
+        "Lampung University"
+      ],
+      "userid": 288
+    }
+]
+

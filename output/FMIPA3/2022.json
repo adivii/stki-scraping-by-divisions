@@ -1,0 +1,4319 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Admi Syarif",
+            "honourific": null,
+            "lineage": null,
+            "given": "AS"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Aristoteles",
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Timotius",
+            "lineage": null,
+            "family": "Pascha",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Salsabila",
+            "given": "Erika Fadia"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Raras",
+            "lineage": null,
+            "family": "Silviana",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Anggi",
+            "lineage": null,
+            "family": "Puspitasari",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Sari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Deswita"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null,
+            "given": "Aqshal Dwi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Penita",
+            "given": "Putri Ayu"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2808-1412",
+      "publication": "BUGUH : Jurnal Pengabdian Kepada Masyarakat",
+      "id_number": "https:\/\/doi.org\/10.23960\/buguh.v2n1.967",
+      "dir": "disk0\/00\/04\/25\/55",
+      "date": "2022-03-31",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "Badan Pelaksana Kuliah Kerja Nyata Universitas",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 42555,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164267",
+            "main": "jb21-05.pdf",
+            "docid": 164267,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/467317",
+                  "objectid": 164267,
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-16 10:20:14",
+                  "filename": "jb21-05.pdf",
+                  "hash": "5966d0f5da4deab35e6ff96610c458a9",
+                  "fileid": 467317,
+                  "mime_type": "application\/pdf",
+                  "filesize": 421680,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42555",
+      "lastmod": "2022-06-17 01:10:31",
+      "userid": 215,
+      "datestamp": "2022-06-17 01:10:31",
+      "pagerange": "22-29",
+      "eprintid": 42555,
+      "date_type": "published",
+      "title": "PENGEMBANGAN UMKM MELALUI PRODUKSI SABUN\"GKT SOAP\"DAN PEMBERDAYAAN LINGKUNGANDENGAN PENANAMAN BIOPORI",
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/967\/30",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "volume": 2,
+      "eprint_status": "archive",
+      "status_changed": "2022-06-17 01:10:31",
+      "abstract": "Sebagian besar masyarakat Desa Gunung Katun Tanjungan bekerja sebagai nelayan dan petani. Guna meningkatkan perekonomian masyarakat desa, mahasiswa KKN Universitas Lampung Periode 1 Tahun 2022 membuat program kerja pelatihan pembuatan sabun. Di sisi lain, melalui produk sabun GKT SOAP dapat dijadikan salah satu produk unggulan dari Desa Gunung Katun Tanjungan. Selain itu, dilaksanakan pula kegiatan penanaman lubang biopori dengan tujuan untuk meningkatkan daya resap air dan meningkatkan jumlah cadangan air dalam tanah yang dapat menunjang program desa yaitu penanaman 1000 tanaman alpukat.",
+      "subjects": [
+        "Q1"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "volume": 13,
+      "rev_number": 9,
+      "title": "Implementation of Fuzzy Expert System on Skin Diseases",
+      "official_url": "https:\/\/thesai.org\/Publications\/ViewPaper?Volume=13&Issue=12&Code=IJACSA&SerialNo=64",
+      "abstract": "Abstract: Skin diseases are a group of diseases affecting people of all ages, commonly caused by fungi, bacteria, parasites, viruses, and infections. The disease's main symptoms are usually itching all over the skin. Many patients are often underestimated and embarrassed to consult directly with doctors, which in the end, ignores the symptoms of skin diseases. Since they usually have imprecision symptoms, examining skin diseases is complex and challenging. Recently, many efforts have been made to utilize artificial intelligence approaches for diagnosing various diseases based on the patient's condition. This paper aims to develop a novel fuzzy-based medical expert system based on unprecise existing symptoms. The system uses the specialist Doctor's knowledge (dermatologist) to diagnose and provide the patient's severity level for the disease. We have done numerical experiments using 100 (one hundred) test problems to evaluate the performance of the developed system by comparing the result with the recommendations of doctors (dermatologists). It shows that this system succeeds in all tests with an accuracy value of 95.6%. Thus, this system is very beneficial to support doctors in the assessment of skin diseases.",
+      "subjects": [
+        "QA76"
+      ],
+      "status_changed": "2023-01-04 06:10:36",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 47596,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47596",
+      "publisher": "The Science and Information (SAI) Organization",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47596,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186667",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 186667,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521624",
+                  "datasetid": "document",
+                  "filesize": 789559,
+                  "fileid": 521624,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-04 02:34:54",
+                  "filename": "6527.pdf",
+                  "hash": "9611fa27437361280f0cf212a499c95e"
+                }
+            ],
+            "main": "6527.pdf",
+            "docid": 186667
+          }
+      ],
+      "number": 12,
+      "ispublished": "pub",
+      "pagerange": "528-536",
+      "datestamp": "2023-01-04 06:10:36",
+      "userid": 215,
+      "lastmod": "2023-01-04 06:10:36",
+      "id_number": "https:\/\/dx.doi.org\/10.14569\/IJACSA.2022.0131264",
+      "date": "2022-12-31",
+      "dir": "disk0_bak\/00\/04\/75\/96",
+      "issn": "2156-5570 (online), 2158-107X(Print)",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "AS",
+            "honourific": null,
+            "family": "Admi Syarif",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "B Fauzi",
+            "honourific": null,
+            "family": "Mayda",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Wantoro",
+            "lineage": null,
+            "honourific": null,
+            "family": "Agus"
+          }
+        }
+      ],
+      "publication": "International Journal of Advanced Computer Science and Applications",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article"
+    },
+    {
+      "dir": "disk0\/00\/03\/88\/37",
+      "date": "2022-01-31",
+      "id_number": 322675,
+      "patent_applicant": "Akmal Junaidi; Aristoteles; Yunda Heningtyas; Muhamad Haekal",
+      "creators": [
+        {
+          "id": "akmal.junaidi@fmipa@unila.ac.id",
+          "name": {
+            "given": "Akmal",
+            "lineage": null,
+            "honourific": null,
+            "family": "Akmal Junaidi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Heningtyas",
+            "honourific": null,
+            "given": "Yunda"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Haekal"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38837",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 159979,
+            "main": "sertifikat_EC00202207376.pdf",
+            "files": [
+                {
+                  "mtime": "2022-02-02 02:20:54",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00202207376.pdf",
+                  "hash": "39521f605104b3af743c969783928d27",
+                  "fileid": 438677,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2074045,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438677",
+                  "objectid": 159979
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159979",
+            "rev_number": 2,
+            "eprintid": 38837,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2022-02-02 07:18:11",
+      "lastmod": "2022-02-02 07:18:11",
+      "userid": 215,
+      "date_type": "published",
+      "eprintid": 38837,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=YWIwNTBjNDZhMjg1M2M3ZDRmOTMwOWU2NzVlNTZjNDcK",
+      "title": "Apiikasi Virtual Guide Gedung A Dan E Fakultas Ekonomi Dan\r\nBisnis Universitas Lampung Menggunakan Unity 3D",
+      "subjects": [
+        "QA76"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-02-02 07:18:11"
+    },
+    {
+      "subjects": [
+        "QA76"
+      ],
+      "status_changed": "2022-02-02 07:18:09",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=NjkwYjdjYTRlZmZkOWY4YmQ2NDBhODZkNWMzYzdlYzUK",
+      "title": "Aplikasi Virtual Guide Gedung Dekanat Fakultas Ilmu Sosial Dan\r\nIlmu Politik Universitas Lampung",
+      "date_type": "published",
+      "eprintid": 38836,
+      "datestamp": "2022-02-02 07:18:09",
+      "lastmod": "2022-02-02 07:18:09",
+      "userid": 215,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38836",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 38836,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159978",
+            "rev_number": 3,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2073760,
+                  "fileid": 438669,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-02-02 02:08:47",
+                  "hash_type": "MD5",
+                  "hash": "f3bdc2a6234902a3af748e496b67352b",
+                  "filename": "sertifikat_EC00202207375.pdf",
+                  "objectid": 159978,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438669"
+                }
+            ],
+            "main": "sertifikat_EC00202207375.pdf",
+            "docid": 159978
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "id_number": 322674,
+      "date": "2022-01-31",
+      "dir": "disk0\/00\/03\/88\/36",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Akmal Junaidi",
+            "lineage": null,
+            "given": "Akmal"
+          },
+          "id": "akmal.junaidi@fmipa@unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "given": "Yunda",
+            "lineage": null,
+            "family": "Heningtyas",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hartrianto",
+            "honourific": null,
+            "given": "Iqbal Tejo"
+          },
+          "id": null
+        }
+      ],
+      "patent_applicant": "Akmal Junaidi; Aristoteles; Yunda Heningtyas; Iqbal Tejo Hartrianto"
+    },
+    {
+      "creators": [
+        {
+          "id": "akmal.junaidi@fmipa@unila.ac.id",
+          "name": {
+            "family": "Akmal Junaidi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Akmal"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Aristoteles",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Heningtyas",
+            "honourific": null,
+            "given": "Yunda"
+          }
+        },
+        {
+          "name": {
+            "given": "Avif Rizka",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hikmawan"
+          },
+          "id": null
+        }
+      ],
+      "patent_applicant": "Akmal Junaidi; Aristoteles; Yunda Heningtyas; Avif Rizka Hikmawan",
+      "id_number": 322812,
+      "dir": "disk0\/00\/03\/88\/45",
+      "date": "2022-01-31",
+      "type": "patent",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "documents": [
+          {
+            "main": "sertifikat_EC00202207513.pdf",
+            "docid": 159986,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438726",
+                  "objectid": 159986,
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-02 02:46:02",
+                  "filename": "sertifikat_EC00202207513.pdf",
+                  "hash": "979b4cae9f8266a387402201442bd398",
+                  "fileid": 438726,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2073946,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159986",
+            "rev_number": 2,
+            "eprintid": 38845,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38845",
+      "full_text_status": "public",
+      "lastmod": "2022-02-02 07:18:29",
+      "userid": 215,
+      "datestamp": "2022-02-02 07:18:29",
+      "eprintid": 38845,
+      "date_type": "published",
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=MTJhMWQxYTliZjM1MGUwYWFiOWY1NmVkZWMyYTgxODUK",
+      "title": "Aplikasi Virtual Guide Gedung F Pascasarjana Fakultas Ilmu Sosial Dan Ilmu Politik Universitas Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "eprint_status": "archive",
+      "status_changed": "2022-02-02 07:18:29",
+      "subjects": [
+        "QA76"
+      ]
+    },
+    {
+      "title": "Aplikasi Virtual Guide Gedung C Fakultas Kedokteran Universitas Lampung Menggunakan Unity 3D",
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=NTgyYzc4YTIxMzM4ZTQyNGJkOTE2YzNiMjY1YjZlZGIK",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2022-02-02 07:18:13",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA76"
+      ],
+      "eprintid": 38838,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 159980,
+            "main": "sertifikat_EC00202207377.pdf",
+            "files": [
+                {
+                  "objectid": 159980,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438684",
+                  "datasetid": "document",
+                  "filesize": 2073675,
+                  "mime_type": "application\/pdf",
+                  "fileid": 438684,
+                  "hash": "8bbddbc8982532835e98275f7e3e41f7",
+                  "filename": "sertifikat_EC00202207377.pdf",
+                  "mtime": "2022-02-02 02:25:06",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159980",
+            "rev_number": 2,
+            "eprintid": 38838,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38838",
+      "userid": 215,
+      "lastmod": "2022-02-02 07:18:13",
+      "datestamp": "2022-02-02 07:18:13",
+      "patent_applicant": "Akmal Junaidi; Aristoteles; Yunda Heningtyas; Ragananda Diki Oktarinaldi",
+      "creators": [
+        {
+          "name": {
+            "given": "Akmal",
+            "lineage": null,
+            "family": "Akmal Junaidi",
+            "honourific": null
+          },
+          "id": "akmal.junaidi@fmipa@unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "family": "Heningtyas",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yunda"
+          }
+        },
+        {
+          "name": {
+            "family": "Oktarinaldi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ragananda Diki"
+          },
+          "id": null
+        }
+      ],
+      "date": "2022-01-31",
+      "dir": "disk0\/00\/03\/88\/38",
+      "id_number": 322676,
+      "type": "patent",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=MDQ3M2YxNzczMTIyOGMzMDU2MDZiMzE1NGFmZjA0MDgK",
+      "title": "Aplikasi Virtual Guide Gedung D Dan Student Center Fakultas\r\nEkonomi Dan Bisnis Universitas Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "status_changed": "2022-02-02 07:18:15",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA76"
+      ],
+      "eprintid": 38839,
+      "date_type": "published",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159981",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2073863,
+                  "mime_type": "application\/pdf",
+                  "fileid": 438691,
+                  "filename": "sertifikat_EC00202207378.pdf",
+                  "hash": "add9971a5fc46990298dba9e0eee8644",
+                  "mtime": "2022-02-02 02:29:42",
+                  "hash_type": "MD5",
+                  "objectid": 159981,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438691"
+                }
+            ],
+            "main": "sertifikat_EC00202207378.pdf",
+            "docid": 159981,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 38839
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38839",
+      "lastmod": "2022-02-02 07:18:15",
+      "userid": 215,
+      "datestamp": "2022-02-02 07:18:15",
+      "creators": [
+        {
+          "name": {
+            "given": "Akmal",
+            "lineage": null,
+            "honourific": null,
+            "family": "Akmal Junaidi"
+          },
+          "id": "akmal.junaidi@fmipa@unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null
+          }
+        },
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Heningtyas",
+            "honourific": null,
+            "given": "Yunda"
+          }
+        },
+        {
+          "name": {
+            "given": "M. Doni",
+            "honourific": null,
+            "family": "Syahtria",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "patent_applicant": "Akmal Junaidi; Aristoteles; Yunda Heningtyas; M. Doni Syahtria",
+      "id_number": 322677,
+      "dir": "disk0\/00\/03\/88\/39",
+      "date": "2022-01-31",
+      "type": "patent",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "type": "patent",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Aristoteles",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "akmal.junaidi@fmipa@unila.ac.id",
+          "name": {
+            "given": "Akmal",
+            "family": "Akmal Junaidi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Heningtyas",
+            "lineage": null,
+            "given": "Yunda"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Gunawan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Deja"
+          }
+        }
+      ],
+      "patent_applicant": "Aristoteles; Akmal Junaidi; Yunda Heningtyas; Deja Gunawan",
+      "id_number": 322810,
+      "date": "2022-01-31",
+      "dir": "disk0\/00\/03\/88\/41",
+      "lastmod": "2022-02-02 07:18:19",
+      "userid": 215,
+      "datestamp": "2022-02-02 07:18:19",
+      "documents": [
+          {
+            "main": "sertifikat_EC00202207511.pdf",
+            "docid": 159983,
+            "files": [
+                {
+                  "filesize": 2073526,
+                  "datasetid": "document",
+                  "mtime": "2022-02-02 02:36:28",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00202207511.pdf",
+                  "hash": "61cbf9a2505cecb396b06184e65d0bef",
+                  "fileid": 438705,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438705",
+                  "objectid": 159983
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159983",
+            "eprintid": 38841,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38841",
+      "full_text_status": "public",
+      "eprintid": 38841,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-02-02 07:18:19",
+      "subjects": [
+        "QA76"
+      ],
+      "title": "Aplikasi Virtual Guide Gedung E Fakultas Ilmu Sosial Dan Ilmu\r\nPolitik Universitas Lampung",
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=OGQ2OTZiZGEwYWJmYzZmYWViZjVmZTAzYWNjNTFiMDEK",
+      "metadata_visibility": "show",
+      "rev_number": 9
+    },
+    {
+      "dir": "disk0\/00\/03\/88\/40",
+      "date": "2022-01-31",
+      "id_number": 322809,
+      "patent_applicant": "Aristoteles; Akmal Junaidi; Yunda Heningtyas; M lqbal Nugraha",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "name": {
+            "family": "Akmal Junaidi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Akmal"
+          },
+          "id": "akmal.junaidi@fmipa@unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Heningtyas",
+            "honourific": null,
+            "given": "Yunda"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M lqbal",
+            "family": "Nugraha",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38840",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 38840,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "sertifikat_EC00202207510.pdf",
+            "docid": 159982,
+            "files": [
+                {
+                  "hash": "4b5e6fa008b5ab0117f18eba17d2e685",
+                  "filename": "sertifikat_EC00202207510.pdf",
+                  "mtime": "2022-02-02 02:33:13",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 438698,
+                  "filesize": 2073715,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438698",
+                  "objectid": 159982
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159982"
+          }
+      ],
+      "datestamp": "2022-02-02 07:18:17",
+      "userid": 215,
+      "lastmod": "2022-02-02 07:18:17",
+      "date_type": "published",
+      "eprintid": 38840,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=NzkyNWI3YmI3ODlmMDBlMTE2ZmVlMDhhMmYxYmQyYzkK",
+      "title": "Aplikasi Virtual Guide Gedung D Fakultas Kedokteran Universitas Lampung Menggunakan Unity 3D",
+      "subjects": [
+        "QA76"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-02-02 07:18:17"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 41764,
+      "volume": 2,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/772\/34",
+      "title": "SOSIALISASI KESEHATAN DAN PENTINGNYA EDUKASI POLA HIDUP BERSIH DAN SEHAT (PHBS) BAGI WARGA KELURAHAN BERINGIN RAYA",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Kuliah   Kerja   Nyata   (KKN)   merupakan   suatu   kegiatan   pengabdian   mahasiswa   kepada   masyarakat   dengan menggunakan pendekatan lintas keilmuan dan sektoral yang didapatkan melalui pembelajaran didalam kelas. KKN dilaksanakan oleh Perguruan Tinggi sebagai upaya meningkatkan isi dan bobot pendidikan bagi mahasiswa dan untuk mendapatkan  nilai  tambah  yang  lebih  besar  pada  pendidikan  tinggi.  Pelaksanaan  KKN  di  masa  pandemi  seperti sekarang ini memberikan tantangan tersendiri bagi mahasiswa KKN Periode 1 Tahun 2022. Salah satu Program Kuliah Kerja Nyata yang kami laksanakan ialah melalui sosialisasi dan edukasi kesehatan yang bertujuan untuk mengurangi kepanikan masyarakat dan pengetahuan terkait Covid-19, yang mana hingga saat ini selalu bertambah variasi virusnya. Populasi  dan  sampel  dalam  penelitian  ini  masyarakat  dan  siswa\/i  di  lokasi  pelaksanaan  KKN  mahasiswa.  Metode pengumpulan  data  yang  digunakan  adalah  Wawancara,  Observasi,  Diskusi  dan  Dokumentasi.  Dari  hasil  penelitian diperoleh bahwa masyarakat dapat menerapkan pola hidup sehat dan menjaga kesehatan di masa pandemi. Dibuatnya artikel  ini  sebagai  bentuk  dari  salah  satu  hasil  pengabdian  yang  telah  dilaksanakan  oleh  Mahasiswa  KKN  Desa Beringin Raya Periode 1 Tahun 2022",
+      "status_changed": "2022-05-24 04:51:42",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/04\/17\/64",
+      "date": "2022-03-31",
+      "id_number": "https:\/\/doi.org\/10.23960\/buguh.v2n1.772",
+      "publication": "Jurnal Buguh",
+      "creators": [
+        {
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rafii Utama",
+            "family": "Ariq",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rizqon Akhyar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Awfa"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ayuning",
+            "honourific": null,
+            "given": "Rizqi Rahmayanti"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Maulida",
+            "lineage": null,
+            "given": "Melvina Putri"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Monique",
+            "lineage": null,
+            "given": "Permata Sari Santos"
+          }
+        },
+        {
+          "name": {
+            "family": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "given": "Chaidar Al"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mutiara",
+            "given": "Putri Adisa"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rigasmi",
+            "given": "Ihklayani"
+          }
+        }
+      ],
+      "issn": "P-ISSN : 2776-3749 E-ISSN : 2808-1412",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41764",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 41764,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163427",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 461465,
+                  "hash": "f7e4bbb29ff2139ea658b32709099a15",
+                  "filename": "jb21-08 (1).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-23 14:09:06",
+                  "datasetid": "document",
+                  "filesize": 965755,
+                  "objectid": 163427,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/461465"
+                }
+            ],
+            "docid": 163427,
+            "main": "jb21-08 (1).pdf"
+          }
+      ],
+      "publisher": "Badan Pengelola KKN UNila",
+      "pagerange": "53-60",
+      "datestamp": "2022-05-24 04:51:42",
+      "lastmod": "2022-05-24 04:51:42",
+      "userid": 215
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46372",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46372,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185254",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511971",
+                  "objectid": 185254,
+                  "mtime": "2022-11-08 23:56:02",
+                  "hash_type": "MD5",
+                  "filename": "COVER PUBLIKASI Jurnal Pepadun vol 3(1) .pdf",
+                  "hash": "b506b8acbc5f64c3709466922e76a42b",
+                  "fileid": 511971,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1443668,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "COVER PUBLIKASI Jurnal Pepadun vol 3(1) .pdf",
+            "docid": 185254
+          }
+      ],
+      "publisher": "Jurusan Ilmu Komputer FMIPA Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "pagerange": "122-129",
+      "datestamp": "2022-11-09 01:05:02",
+      "lastmod": "2022-11-09 01:05:02",
+      "userid": 2423,
+      "date": 2022,
+      "dir": "disk0\/00\/04\/63\/72",
+      "issn": "2774-3403",
+      "creators": [
+        {
+          "id": "aristoteles.1981@fmipa.unila.ac.id",
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Asteria",
+            "lineage": null,
+            "given": "Maya"
+          }
+        },
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "given": "Yunda",
+            "family": "Heningtyas",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "Admi",
+            "family": "Syarif",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Pepadun",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 3,
+      "official_url": "https:\/\/pepadun.fmipa.unila.ac.id\/index.php\/jurnal\/article\/view\/95",
+      "title": "Implementasi Teknologi Peta Virtual 3D Gedung E Teknik Sipil dan Gedung F Laboratorium Hidrolika Fakutas Teknik Universitas Lampung",
+      "abstract": "Abstract —Lampung University doing out routine activities every new academic year for students especially for new\r\nstudents college who majoring in Civil Engineering, Faculty of Engineering, Introduction about Campus Life for New\r\nStudents (PKKMB), one of the main agendas of PKKMB is introducing about everyvbuildings and public facilities in\r\nCivil Engineering also every building and the room in it. The current state of the COVID-19 pandemic make the University\r\nof Lampung conduct learning activy by network (online). So, it's make every students activities not possible to perform\r\ndirect tracing. Serving method information follows technological developments, one of which is 3D visualization\r\ntechniques. With using the Multimedia Development Life Cycle (MDLC) system development method, 3D virtual map\r\napplications can be developed that can display building layouts and facilities in 3D. This research is Alpha Testing and\r\nCustomer satisfaction. Alpha Testing provides test results The application can operate on versions in operation android\r\nsystem 7.1 to 10. The application can operate on smartphone with screen specifications from 5.0 inch to 6.5 inches. The\r\napplication can operate on smartphones from minimum 3GB RAM to 8GB RAM. Customer Satisfaction Respondents\r\nstated that the 3D Virtual Map Application of Building E Civil Engineering and Building F of the Hydraulics Laboratory\r\nget good results with a percentage index between 87.5% to 95%. \r\nKeywords: 3D virtual map; Android; Faculty of Engineering; MDLC; Unity.",
+      "subjects": [
+        "Q1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-09 01:05:02",
+      "date_type": "published",
+      "eprintid": 46372
+    },
+    {
+      "dir": "disk0\/00\/04\/25\/21",
+      "date": "2022-04-01",
+      "issn": "2774-3403",
+      "creators": [
+        {
+          "name": {
+            "given": "Aristoteles",
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asterita",
+            "given": "Maya"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Heningtyas",
+            "given": "Yunda"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "publication": "Pepadun",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42521",
+      "full_text_status": "public",
+      "publisher": "Jurusan Ilmu Komputer FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164232",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/467089",
+                  "objectid": 164232,
+                  "filesize": 311012,
+                  "datasetid": "document",
+                  "hash": "ebec48ac96afd46c7f83023cb2c1e9f7",
+                  "filename": "95-Article Text-503-1-10-20220614 (1).pdf",
+                  "mtime": "2022-06-16 03:47:25",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 467089
+                }
+            ],
+            "main": "95-Article Text-503-1-10-20220614 (1).pdf",
+            "docid": 164232,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 42521
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "pagerange": "122-129",
+      "datestamp": "2022-06-16 07:21:22",
+      "lastmod": "2022-06-16 07:21:22",
+      "userid": 215,
+      "date_type": "published",
+      "eprintid": 42521,
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 10,
+      "official_url": "https:\/\/pepadun.fmipa.unila.ac.id\/index.php\/jurnal\/article\/view\/95",
+      "title": "Implementasi Teknologi Peta Virtual3D Gedung E Teknik Sipil dan Gedung F Laboratorium Hidrolika Fakutas Teknik Universitas Lampung",
+      "abstract": "Lampung  University  doing  out  routine  activities  every  new  academic  year  for  students  especially  for  new students college who majoring in Civil Engineering, Faculty of Engineering, Introduction about Campus Life for New Students  (PKKMB),  one  of  the  main  agendas  of  PKKMB  is  introducing  about  everyvbuildings  and  public  facilities  in Civil Engineering also every building and the room in it. The current state of the COVID-19 pandemic make the University of Lampung conduct learning activy by network (online). So,it's make every students activities not possible to perform direct  tracing.  Serving  method  information  follows  technological  developments,  one  of  which  is  3D  visualization techniques.  With  using  the  Multimedia  Development  Life  Cycle  (MDLC)  system  development  method, 3D virtualmap applications can be developed that can display building layouts and facilities in 3D. This research is Alpha Testing and Customer satisfaction. Alpha Testing provides test results The application can operate on versions in operation android system 7.1 to 10. The application can operate on smartphone with screen specifications from 5.0 inch to 6.5 inches. The application  can  operate  on  smartphones  from  minimum  3GB  RAM  to  8GB  RAM.  Customer  Satisfaction  Respondents stated that the 3DVirtualMap Application of Building E Civil Engineering and Building F of the Hydraulics Laboratory get good results with a percentage index between 87.5% to 95%",
+      "subjects": [
+        "Q1"
+      ],
+      "status_changed": "2022-06-16 07:21:22",
+      "eprint_status": "archive"
+    },
+    {
+      "eprintid": 42885,
+      "date_type": "published",
+      "official_url": "http:\/\/klik.ulm.ac.id\/index.php\/klik\/article\/view\/470",
+      "title": "PENENTUAN GRADE BIJI KOPI ROBUSTA MENGGUNAKAN ANALYTICAL HIERARCHY PROCESS",
+      "volume": 9,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-07-04 02:06:04",
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "offee beans are one of the raw materials as well as a result of planting by farmers which provides special benefits for the survival of the Indonesian people. Coffee is used as a refreshing drink ingredient and in today's life, coffee drinks have become a lifestyle for millennial people. The type of coffee that is widely cultivated is the robusta coffee bean type, because this robusta coffee is mostly produced in Indonesia, reaching 87.1% of the total coffee production in Indonesia. One of the largest producers of robusta coffee in Indonesia is the Dempo Pagar Alam Mountain Slope Coffee Plantation, South Sumatra. Therefore in this study using the type of robusta coffee beans which grade or quality will be determined according to the applied criteria. This study aims to determine the grade of robusta coffee beans in the Dempo Pagar Alam Mountain Slope Coffee Plantation in South Sumatra using the AHP (Analytical Hierarchy Process) method.\r\n\r\nThe stages in this research are the preparation of research data collection, namely primary and secondary which are stored in a text file (.txt) with tens of data and the second stage is determining criteria and alternatives, compiling a hierarchical structure, compiling a paired comparison matrix, looking for priority vector values and eigen vectors, alternative ranking results, and accuracy testing. The results of this study are expected to provide benefits to see the results of the robusta coffee bean grade ranking in the Slope Coffee Plantation of Mount Dempo Pagar Alam, South Sumatra by using the AHP method.",
+      "publication": "KLIK - KUMPULAN JURNAL ILMU KOMPUTER",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Lumbanraja",
+            "given": "Favorisen R"
+          }
+        },
+        {
+          "id": "astria.hijriani@fmipa.unila.ac.id",
+          "name": {
+            "given": "Astria",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hijriani"
+          }
+        },
+        {
+          "name": {
+            "family": "Nensi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Meria"
+          },
+          "id": null
+        }
+      ],
+      "issn": "p- 2406-7857 | e- 2443-406X",
+      "dir": "disk0\/00\/04\/28\/85",
+      "date": "2022-07-01",
+      "id_number": "http:\/\/dx.doi.org\/10.20527\/klik.v9i2.470",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Computer Science Study Program at the University of Lambung Mangkurat",
+      "documents": [
+          {
+            "main": "470-1094-1-PB.pdf",
+            "docid": 164653,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/469688",
+                  "objectid": 164653,
+                  "mtime": "2022-07-02 11:53:45",
+                  "hash_type": "MD5",
+                  "hash": "6d2d37707b49324bfe3a5dac77572e19",
+                  "filename": "470-1094-1-PB.pdf",
+                  "fileid": 469688,
+                  "mime_type": "application\/pdf",
+                  "filesize": 603190,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164653",
+            "eprintid": 42885,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42885",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-07-04 02:06:04",
+      "userid": 215,
+      "pagerange": "307-328",
+      "datestamp": "2022-07-04 02:06:04"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2023-04-03 00:53:59",
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "abstract": "Adanya kelompok atau komunitas merupakan keuntungan bagi masyarakat yang dapat dapat mendukung kesejahteraan dan perkembagan keberlangusngan hutan rakyat. Hal tersebut dapat diperkuat lagi dan didukung dengan adanya pemanfatan dan implementasi dari adanya teknologi pada era digitalisasi ini. Namun masih terdapat kendala dalam pelaksanaannya, seperti masih rendahnya pengetahuan masyarakat, masih kurangnya arus untuk mendapatkan informasi, dan masih kurangnya peran eksternal dalam membangun kapasitas masyarakat. Sasaran mitra dalam kegiatan pengabdian ini yaitu Kelompok Wanita Tani Hutan (KWTH) Kartini Desa Kubu Batu, Kabupaten Pesawaran. Pengabdian ini bertujuan untuk meningkatkan pengetahuan, keterampilan, dan kemampuan mitra dalam proses implementasi tekonologi. Untuk mencapai hal tersebut maka rangkaian kegiatan pengabdian ini antara lain: tahap persiapan, meliputi: sosialisasi kegiatan pengabdian berisi program dan tujuan pengabdian serta manfaat dan sasaran. Untuk mengukur pengetahuan peserta dilakukan evaluasi pre-test dan post-test dengan cara pemberian kuesioner. Hasil menunjukkan bahwa adanya peningkatan pengetahuan peserta tentang materi memanfaatkan dan mengelola website. Rerata nilai pre-test dan post-test masing-masing sebesar 50,3%. dan 75,6%. Adanya kenaikan pengetahuan peserta dari hasil pre-test dan post-test adalah 25,3. Oleh karena itu, pemanfaatan dan pengelolaan website merupakan media yang tepat untuk mempromosikan produk yang ditawarkan oleh KWTH Kartini.",
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/1173",
+      "title": "PENDAMPINGAN PENGEMBANGAN E-COMMERCE DI KWTH KARTINI, DESA KUBU BATU, KABUPATEN PESAWARAN PADA ERA DIGITALISASI DALAM PENINGKATAN EKONOMI MASYARAKAT",
+      "volume": 2,
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "eprintid": 49497,
+      "date_type": "published",
+      "lastmod": "2023-04-03 00:53:59",
+      "userid": 215,
+      "datestamp": "2023-04-03 00:53:59",
+      "pagerange": "32-38",
+      "ispublished": "pub",
+      "number": 3,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189128",
+            "rev_number": 2,
+            "docid": 189128,
+            "main": "jb23-05.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-31 23:03:44",
+                  "hash": "963319a0e8a2e2ea39df794563b4b8ff",
+                  "filename": "jb23-05.pdf",
+                  "fileid": 537019,
+                  "mime_type": "application\/pdf",
+                  "filesize": 399547,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537019",
+                  "objectid": 189128
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 49497,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Badan Pelaksana Kuliah Kerja Nyata Universitas",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49497",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "BUGUH : Jurnal Pengabdian Kepada Masyarakat",
+      "creators": [
+        {
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null
+          },
+          "id": "aristoteles.1981@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rahmat",
+            "lineage": null,
+            "family": "Safe'i",
+            "honourific": null
+          },
+          "id": "rahmat.safei@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Syarif",
+            "lineage": null,
+            "given": "Admi"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muludi"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id",
+          "name": {
+            "family": "Lumbanraja",
+            "honourific": null,
+            "lineage": null,
+            "given": "Favorisen R"
+          }
+        }
+      ],
+      "issn": "2808-1412",
+      "dir": "disk0_bak\/00\/04\/94\/97",
+      "date": "2022-09-20",
+      "id_number": "https:\/\/doi.org\/10.23960\/buguh.v2n3.1173"
+    },
+    {
+      "eprintid": 43738,
+      "date_type": "published",
+      "title": "Identification of Human Sperm based on Morphology Using the You Only Look Once Version 4 Algorithm",
+      "official_url": "https:\/\/thesai.org\/Publications\/ViewPaper?Volume=13&Issue=7&Code=IJACSA&SerialNo=52",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 13,
+      "status_changed": "2022-08-01 06:45:09",
+      "eprint_status": "archive",
+      "abstract": "Infertility is a crucial reproductive problem experienced by both men and women. Infertility is the inability to get pregnant within one year of sexual intercourse. This study focuses on infertility in men. Many causes that can cause infertility in men including sperm quality. Currently, identification of human sperm is still done manually by observing the sperm with the help of humans through a microscope, so it requires time and high costs. Therefore, high technology is needed to determine sperm quality in the form of deep learning technology based on video. Deep learning algorithms support this research in identifying human sperm cells. So deep learning can help detect sperm video automatically in the process of evaluating sperm cells to determine infertility. We use deep learning technology to identify sperm using the You Only Look Once version 4 (YOLOv4) algorithm. Purpose of this study was to analyze the level of accuracy of the YOLOv4 algorithm. The dataset used is sourced from a VISEM dataset of 85 videos. The results obtained are 90.31% AP (Average Precision) for sperm objects and 68.19% AP (Average Precision) for non-sperm objects, then for the results of the training obtained by the model 79.58% mAP (Mean Average Precision). Our research show result about identification of human sperm using YOLOv4. The results obtained by the YOLOv4 model can identify sperm and non-sperm objects. The output on the YOLOv4 model is able to identify objects in the test data in the form of video and image.",
+      "subjects": [
+        "QA76"
+      ],
+      "issn": "2156-5570 (online), 2158-107X(Print)",
+      "creators": [
+        {
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          },
+          "id": null
+        },
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif",
+            "given": "Admi"
+          }
+        },
+        {
+          "name": {
+            "given": "Sutyarso",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sutyarso"
+          },
+          "id": "sutyarso@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Favorisen R",
+            "lineage": null,
+            "family": "Lumbanraja",
+            "honourific": null
+          },
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "International Journal of Advanced Computer Science and Applications",
+      "id_number": "https:\/\/dx.doi.org\/10.14569\/IJACSA.2022.0130752",
+      "date": "2022-08-01",
+      "dir": "disk0\/00\/04\/37\/38",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "The Science and Information (SAI) Organization",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165675",
+            "docid": 165675,
+            "main": "Paper_52-Identification_of_Human_Sperm_based_on_Morphology.pdf",
+            "files": [
+                {
+                  "objectid": 165675,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/476704",
+                  "mime_type": "application\/pdf",
+                  "fileid": 476704,
+                  "hash": "5629a9d85da844dba049edc973c3ff89",
+                  "filename": "Paper_52-Identification_of_Human_Sperm_based_on_Morphology.pdf",
+                  "mtime": "2022-08-01 02:58:09",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 612617
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 43738,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 7,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43738",
+      "lastmod": "2022-08-01 06:45:09",
+      "userid": 215,
+      "datestamp": "2022-08-01 06:45:09",
+      "pagerange": "424-431"
+    },
+    {
+      "date": "2022-08-01",
+      "dir": "disk0\/00\/04\/38\/48",
+      "id_number": "https:\/\/dx.doi.org\/10.14569\/IJACSA.2022.0130752",
+      "creators": [
+        {
+          "name": {
+            "given": "Aristoteles",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Admi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Sutyarso",
+            "family": "Sutyarso",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sutyarso@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Favorisen R",
+            "lineage": null,
+            "family": "Lumbanraja",
+            "honourific": null
+          },
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arbi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hidayatullah"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43848",
+      "ispublished": "pub",
+      "publisher": "The Science and Information (SAI) Organization",
+      "documents": [
+          {
+            "eprintid": 43848,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 165806,
+            "main": "Similarity.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 854611,
+                  "fileid": 477539,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-03 03:44:24",
+                  "hash": "7ee347025c5f355a1ccd065743ae44c9",
+                  "filename": "Similarity.pdf",
+                  "objectid": 165806,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/477539"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165806"
+          }
+      ],
+      "datestamp": "2022-08-03 06:59:52",
+      "lastmod": "2022-08-03 06:59:52",
+      "userid": 215,
+      "date_type": "published",
+      "eprintid": 43848,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Similarity Check Result : Identification of Human Sperm based on Morphology Using the You Only Look Once Version 4 Algorithm",
+      "official_url": "https:\/\/thesai.org\/Publications\/ViewPaper?Volume=13&Issue=7&Code=IJACSA&SerialNo=52",
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "Infertility is a crucial reproductive problem experienced by both men and women. Infertility is the inability to get pregnant within one year of sexual intercourse. This study focuses on infertility in men. Many causes that can cause infertility in men including sperm quality. Currently, identification of human sperm is still done manually by observing the sperm with the help of humans through a microscope, so it requires time and high costs. Therefore, high technology is needed to determine sperm quality in the form of deep learning technology based on video. Deep learning algorithms support this research in identifying human sperm cells. So deep learning can help detect sperm video automatically in the process of evaluating sperm cells to determine infertility. We use deep learning technology to identify sperm using the You Only Look Once version 4 (YOLOv4) algorithm. Purpose of this study was to analyze the level of accuracy of the YOLOv4 algorithm. The dataset used is sourced from a VISEM dataset of 85 videos. The results obtained are 90.31% AP (Average Precision) for sperm objects and 68.19% AP (Average Precision) for non-sperm objects, then for the results of the training obtained by the model 79.58% mAP (Mean Average Precision). Our research show result about identification of human sperm using YOLOv4. The results obtained by the YOLOv4 model can identify sperm and non-sperm objects. The output on the YOLOv4 model is able to identify objects in the test data in the form of video and image.",
+      "status_changed": "2022-08-03 06:59:52",
+      "eprint_status": "archive"
+    },
+    {
+      "title": "Peer Review ARitme (Augmented Reality For Indonesian Traditional Music Instrument)",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2022-11-01 00:59:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "eprintid": 46137,
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 510195,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 10:25:53",
+                  "filename": "Hak Cipta ARitme (Augmented Reality For Indonesian Traditional Music Instrument).pdf",
+                  "hash": "64496b372e72305f84bd823cd83e9d43",
+                  "datasetid": "document",
+                  "filesize": 859104,
+                  "objectid": 184963,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510195"
+                }
+            ],
+            "main": "Hak Cipta ARitme (Augmented Reality For Indonesian Traditional Music Instrument).pdf",
+            "docid": 184963,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184963",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46137,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46137",
+      "userid": 2400,
+      "lastmod": "2022-11-01 00:59:12",
+      "datestamp": "2022-11-01 00:59:12",
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/61\/37",
+      "date": 2022,
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "title": "Peer Review Aplikasi Pencarian Letak Gudang Koperasi Dengan Metode K-Means Cluster Menggunakan Framework Laravel,",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "status_changed": "2022-11-01 00:59:34",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "eprintid": 46144,
+      "publisher": "Jurnal Pepadun",
+      "documents": [
+          {
+            "main": "Jurnal Aplikasi Pencarian Letak Gudang Koperasi dengan Metode K-means Cluster Menggunakan Framework Laravel .pdf",
+            "docid": 184970,
+            "files": [
+                {
+                  "objectid": 184970,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510244",
+                  "datasetid": "document",
+                  "filesize": 2214941,
+                  "fileid": 510244,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 11:16:02",
+                  "filename": "Jurnal Aplikasi Pencarian Letak Gudang Koperasi dengan Metode K-means Cluster Menggunakan Framework Laravel .pdf",
+                  "hash": "0b12f6f51f3da0635bfba1bf95ac98fd"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184970",
+            "rev_number": 1,
+            "eprintid": 46144,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "unpub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46144",
+      "full_text_status": "public",
+      "lastmod": "2022-11-01 00:59:34",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:34",
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/61\/44",
+      "date": 2022,
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "dir": "disk0\/00\/04\/61\/38",
+      "date": 2022,
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46138",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46138,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184964",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510202",
+                  "objectid": 184964,
+                  "filesize": 864344,
+                  "datasetid": "document",
+                  "hash": "89565282084b55a10ce3a2b227bc9a47",
+                  "filename": "Hak Cipta Augmented Reality Identifikasi Onderdil Sepeda Motor Bebek Kopling Ototmatis Menggunakan VuMark Berbasis Android.pdf",
+                  "mtime": "2022-10-31 10:27:43",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510202
+                }
+            ],
+            "docid": 184964,
+            "main": "Hak Cipta Augmented Reality Identifikasi Onderdil Sepeda Motor Bebek Kopling Ototmatis Menggunakan VuMark Berbasis Android.pdf"
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "ispublished": "unpub",
+      "datestamp": "2022-11-01 00:59:08",
+      "lastmod": "2022-11-01 00:59:08",
+      "userid": 2400,
+      "eprintid": 46138,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Peer Review Augmented Reality Identifikasi Onderdil Sepeda Motor Bebek Kopling Otomatis Menggunakan VuMark Berbasis Android",
+      "subjects": [
+        "QA75"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 00:59:08"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 00:59:16",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Peer Review Augmented Reality Identifikasi Sparepart Sepeda Motor Automatik Menggunakan Katalog Berbasis Android",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 46139,
+      "lastmod": "2022-11-01 00:59:16",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:16",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46139,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184965",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 184965,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510209",
+                  "datasetid": "document",
+                  "filesize": 1265929,
+                  "fileid": 510209,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-10-31 10:29:17",
+                  "hash_type": "MD5",
+                  "hash": "a3b48eebd1ecb9df97e7a21e90188162",
+                  "filename": "Hak Cipta Augmented Reality Identifikasi Sparepart Sepeda Motor Automatik Menggunakan Katalog Berbasis Android.pdf"
+                }
+            ],
+            "main": "Hak Cipta Augmented Reality Identifikasi Sparepart Sepeda Motor Automatik Menggunakan Katalog Berbasis Android.pdf",
+            "docid": 184965
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46139",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/39"
+    },
+    {
+      "ispublished": "unpub",
+      "publisher": "Kemenkumham",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184962",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 184962,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510186",
+                  "fileid": 510186,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 10:21:21",
+                  "filename": "Hak Cipta Analisis Perancangan UI Sistem Informasi Sirkulasi Barang Starlog Bank BRI Cabang Tanjung Karang.pdf",
+                  "hash": "3ec079fe1984afc19e4250dc9de24b1e",
+                  "datasetid": "document",
+                  "filesize": 436414
+                }
+            ],
+            "main": "Hak Cipta Analisis Perancangan UI Sistem Informasi Sirkulasi Barang Starlog Bank BRI Cabang Tanjung Karang.pdf",
+            "docid": 184962,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46136
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46136",
+      "full_text_status": "public",
+      "lastmod": "2022-11-01 00:59:05",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:05",
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/36",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "title": "Peer Review Hak Cipta Analisis Perancangan UI Sistem Informasi Sirkulasi Barang Starlog Bank BRI Cabang Tanjung Karang",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "status_changed": "2022-11-01 00:59:05",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "eprintid": 46136
+    },
+    {
+      "status_changed": "2022-11-01 00:59:39",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Peer Review Implementasi Metode Analytical Hierarchy Process (AHP) Pada Sistem Pendukung Keputusan Pembelian Mobil Di Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 46145,
+      "lastmod": "2022-11-01 00:59:39",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:39",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 184971,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510252",
+                  "datasetid": "document",
+                  "filesize": 2098793,
+                  "fileid": 510252,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-10-31 11:19:22",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal Implementasi Metode Analytical Hierarchy Process (AHP) Pada Sistem Pendukung Keputusan Pembelian Mobil di Bandar Lampung.pdf",
+                  "hash": "c8192f8480fd5bb73442e6ef75d25481"
+                }
+            ],
+            "main": "Jurnal Implementasi Metode Analytical Hierarchy Process (AHP) Pada Sistem Pendukung Keputusan Pembelian Mobil di Bandar Lampung.pdf",
+            "docid": 184971,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184971",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46145,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Kumpulan jurnaL Ilmu Komputer (KLIK)",
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46145",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/45"
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Bambang",
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/61\/46",
+      "date": 2022,
+      "userid": 2400,
+      "lastmod": "2022-11-01 00:59:42",
+      "datestamp": "2022-11-01 00:59:42",
+      "ispublished": "unpub",
+      "publisher": "Jurnal Pepadun",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "d87243c5205aceb4179dc4003b418add",
+                  "filename": "Jurnal Rancang Bangun Aplikasi Sistem Pakar Diagnosa Penyakit Pada Tanaman Kelapa Sawit Menggunakan Metode Forward Chaining.pdf",
+                  "mtime": "2022-10-31 11:21:22",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510259,
+                  "filesize": 1013489,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510259",
+                  "objectid": 184972
+                }
+            ],
+            "docid": 184972,
+            "main": "Jurnal Rancang Bangun Aplikasi Sistem Pakar Diagnosa Penyakit Pada Tanaman Kelapa Sawit Menggunakan Metode Forward Chaining.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184972",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46146,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46146",
+      "eprintid": 46146,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 00:59:42",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Peer Review Rancang Bangun Aplikasi Sistem Pakar Diagnosa Penyakit Pada Tanaman Kelapa Sawit Menggunakan Metode Forward Chaining Berbasis Web",
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "dir": "disk0\/00\/04\/61\/47",
+      "date": 2022,
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46147",
+      "full_text_status": "public",
+      "publisher": "Jurnal Pepadun",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46147,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184973",
+            "docid": 184973,
+            "main": "Jurnal Rancang Bangun Sistem Informasi One Stop Wedding Service Berbasis Web.pdf",
+            "files": [
+                {
+                  "objectid": 184973,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510266",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510266,
+                  "hash": "0749cfd8bff48417e5b060770952f53f",
+                  "filename": "Jurnal Rancang Bangun Sistem Informasi One Stop Wedding Service Berbasis Web.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 11:24:54",
+                  "datasetid": "document",
+                  "filesize": 2006501
+                }
+            ]
+          }
+      ],
+      "ispublished": "unpub",
+      "datestamp": "2022-11-01 00:59:47",
+      "lastmod": "2022-11-01 00:59:47",
+      "userid": 2400,
+      "eprintid": 46147,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Peer Review Rancang Bangun Sistem Informasi One Stop Wedding ServiceBerbasis Web",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2022-11-01 00:59:47",
+      "eprint_status": "archive"
+    },
+    {
+      "title": "Peer Review Sistem Informasi Barang Masuk Dan Barang Keluar Starlog PT. Bank Rakyat Indonesia (Persero) Tbk. Cabang Tanjung Karang",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2022-11-01 00:59:19",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "eprintid": 46140,
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "docid": 184966,
+            "main": "Hak Cipta Sistem Informasi Barang Masuk Dan Barang Keluar Starlog Pt. Bank Rakyat Indonesia (Persero) Tbk. Cabang Tanjung Karang.pdf",
+            "files": [
+                {
+                  "objectid": 184966,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510216",
+                  "datasetid": "document",
+                  "filesize": 857181,
+                  "fileid": 510216,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 10:31:43",
+                  "hash": "59d32a40aeeda80d012d7a42778e09c3",
+                  "filename": "Hak Cipta Sistem Informasi Barang Masuk Dan Barang Keluar Starlog Pt. Bank Rakyat Indonesia (Persero) Tbk. Cabang Tanjung Karang.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184966",
+            "eprintid": 46140,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46140",
+      "full_text_status": "public",
+      "lastmod": "2022-11-01 00:59:19",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:19",
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/61\/40",
+      "date": 2022,
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "eprintid": 46148,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Peer Review Sistem Informasi Manajemen Data Klien Pada PT. Hulu Balang Mandiri Menggunakan Framework Laravel",
+      "subjects": [
+        "QA75"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 00:59:51",
+      "dir": "disk0\/00\/04\/61\/48",
+      "date": 2022,
+      "creators": [
+        {
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46148",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46148,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 184974,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510273",
+                  "datasetid": "document",
+                  "filesize": 998213,
+                  "mime_type": "application\/pdf",
+                  "fileid": 510273,
+                  "hash": "6a08eaba33a59364c5646027fa6e5d44",
+                  "filename": "Jurnal Sistem Informasi Manajemen Data Klien Pada PT. Hulu Balang Mandiri Menggunakan Framework Laravel.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 11:28:12"
+                }
+            ],
+            "main": "Jurnal Sistem Informasi Manajemen Data Klien Pada PT. Hulu Balang Mandiri Menggunakan Framework Laravel.pdf",
+            "docid": 184974,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184974",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Jurnal Pepadun",
+      "datestamp": "2022-11-01 00:59:51",
+      "lastmod": "2022-11-01 00:59:51",
+      "userid": 2400
+    },
+    {
+      "eprintid": 46149,
+      "status_changed": "2022-11-01 00:59:57",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Peer Review Sistem Informasi Penjualan Buku Bekas Di Kota Bandar Lampung Berbasis Web",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Bambang",
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/49",
+      "lastmod": "2022-11-01 00:59:57",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:57",
+      "publisher": "Jurnal Pepadun",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46149,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184975",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 11:30:43",
+                  "hash": "927ced90c8169067e16b38fa3714ac77",
+                  "filename": "Jurnal Sistem Informasi Penjualan Buku Bekas Di Kota Bandar Lampung Berbasis Web.pdf",
+                  "fileid": 510280,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1002949,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510280",
+                  "objectid": 184975
+                }
+            ],
+            "docid": 184975,
+            "main": "Jurnal Sistem Informasi Penjualan Buku Bekas Di Kota Bandar Lampung Berbasis Web.pdf"
+          }
+      ],
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46149"
+    },
+    {
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/41",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "docid": 184967,
+            "main": "Hak Cipta Sistem Pakar Diagnosis Penyakit Pada Tanaman Tembakau Menggunakan Metode Case Based Reasoning.pdf",
+            "files": [
+                {
+                  "objectid": 184967,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510223",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510223,
+                  "filename": "Hak Cipta Sistem Pakar Diagnosis Penyakit Pada Tanaman Tembakau Menggunakan Metode Case Based Reasoning.pdf",
+                  "hash": "34cce9f6cf4663083c0fe6fa83c9381d",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 10:33:57",
+                  "datasetid": "document",
+                  "filesize": 455066
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184967",
+            "eprintid": 46141,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46141",
+      "full_text_status": "public",
+      "lastmod": "2022-11-01 00:59:22",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:22",
+      "eprintid": 46141,
+      "title": "Peer Review Sistem Pakar Diagnosis Penyakit Pada Tanaman Tembakau  Menggunakan Metode Case Based Reasoning",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 00:59:22",
+      "subjects": [
+        "QA75"
+      ]
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "given": "Bambang"
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/61\/50",
+      "date": 2022,
+      "lastmod": "2022-11-01 01:00:03",
+      "userid": 2400,
+      "datestamp": "2022-11-01 01:00:03",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510287",
+                  "objectid": 184976,
+                  "filesize": 2095957,
+                  "datasetid": "document",
+                  "mtime": "2022-10-31 11:33:26",
+                  "hash_type": "MD5",
+                  "hash": "6fbdd1b308fb577e8205f5f9f61ad499",
+                  "filename": "Jurnal Sistem Pakar Diagnosis Penyakit Pada Tanaman Vanili Menggunakan Metode Dempster-Shafer Berbasis Web.pdf",
+                  "fileid": 510287,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 184976,
+            "main": "Jurnal Sistem Pakar Diagnosis Penyakit Pada Tanaman Vanili Menggunakan Metode Dempster-Shafer Berbasis Web.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184976",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46150,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Jurnal Komputasi",
+      "ispublished": "unpub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46150",
+      "full_text_status": "public",
+      "eprintid": 46150,
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 01:00:03",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Peer Review Sistem Pakar Diagnosis Penyakit Pada Tanaman Vanili Menggunakan Metode Dempster-Shafer Berbasis Web",
+      "metadata_visibility": "show",
+      "rev_number": 7
+    },
+    {
+      "eprintid": 46151,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Peer Review Sistem Pakar Identifikasi Panen Buah Nanas Menggunakan Metode Backward Chaining Berbasis Android",
+      "subjects": [
+        "QA75"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 01:00:10",
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/51",
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46151",
+      "ispublished": "unpub",
+      "publisher": "Jurnal Pepadun",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46151,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 1006073,
+                  "datasetid": "document",
+                  "hash": "c56cd32bc2f26ffddc73d001583d014e",
+                  "filename": "Jurnal Sistem Pakar Identifikasi Panen Buah Nanas Menggunakan Metode Backward Chaining Berbasis Android.pdf",
+                  "mtime": "2022-10-31 12:20:33",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510301,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510301",
+                  "objectid": 184979
+                }
+            ],
+            "docid": 184979,
+            "main": "Jurnal Sistem Pakar Identifikasi Panen Buah Nanas Menggunakan Metode Backward Chaining Berbasis Android.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184979",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2022-11-01 01:00:10",
+      "userid": 2400,
+      "lastmod": "2022-11-01 01:00:10"
+    },
+    {
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Peer Review Sistem Pendukung Keputusan (SPK) Untuk Menentukan Kelayakan Penerimaan Bantuan Pangan Non Tunai (BPNT) Menggunakan Metode Weighted Product (WP) Berbasis Web",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2022-11-01 00:59:26",
+      "eprint_status": "archive",
+      "eprintid": 46142,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46142",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46142,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 510230,
+                  "filename": "Hak Cipta Sistem Pendukung Keputusan (SPK) Untuk Menentukan Kelayakan Penerimaan Bantuan Pangan Non Tunai (BPNT) Menggunakan  Metode Weighted Product (WP) Berbasis Web.pdf",
+                  "hash": "810406cd6f8fd7866e4cdb646426e2c4",
+                  "mtime": "2022-10-31 10:35:56",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 873718,
+                  "objectid": 184968,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510230"
+                }
+            ],
+            "main": "Hak Cipta Sistem Pendukung Keputusan (SPK) Untuk Menentukan Kelayakan Penerimaan Bantuan Pangan Non Tunai (BPNT) Menggunakan  Metode Weighted Product (WP) Berbasis Web.pdf",
+            "docid": 184968,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184968",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Kemenkumham",
+      "datestamp": "2022-11-01 00:59:26",
+      "lastmod": "2022-11-01 00:59:26",
+      "userid": 2400,
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/42",
+      "creators": [
+        {
+          "name": {
+            "given": "Bambang",
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other"
+    },
+    {
+      "eprintid": 46143,
+      "status_changed": "2022-11-01 00:59:29",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Peer Review Utility Pendeteksi Kesalahan Penulisan Kata Pada Dokumen Bertipe . doc",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "id": "bambang.hermanto@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/43",
+      "lastmod": "2022-11-01 00:59:29",
+      "userid": 2400,
+      "datestamp": "2022-11-01 00:59:29",
+      "ispublished": "unpub",
+      "publisher": "Kemenkumham",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 510237,
+                  "hash": "6e8183f5f9969093ee1494467058df72",
+                  "filename": "Hak Cipta Utility Pendeteksi Kesalahan Penulisan Kata Pada Dokumen Bertipe . Doc.pdf",
+                  "mtime": "2022-10-31 10:38:26",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 450589,
+                  "objectid": 184969,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510237"
+                }
+            ],
+            "main": "Hak Cipta Utility Pendeteksi Kesalahan Penulisan Kata Pada Dokumen Bertipe . Doc.pdf",
+            "docid": 184969,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184969",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46143,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46143",
+      "full_text_status": "public"
+    },
+    {
+      "eprintid": 46153,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Peer review Web Service Sistem Informasi Terpadu (SIMIPA) Menggunakan REST API",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2022-11-01 01:00:20",
+      "eprint_status": "archive",
+      "date": 2022,
+      "dir": "disk0\/00\/04\/61\/53",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null,
+            "given": "Bambang"
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46153",
+      "publisher": "Jurnal Komputasi",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184980",
+            "rev_number": 1,
+            "docid": 184980,
+            "main": "Jurnal Web Service Sistem Informasi Terpadu (SIMIPA) Menggunakan REST API.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510310",
+                  "objectid": 184980,
+                  "filesize": 1918882,
+                  "datasetid": "document",
+                  "hash": "3f9f93a3529c9b1258f918b752de92c4",
+                  "filename": "Jurnal Web Service Sistem Informasi Terpadu (SIMIPA) Menggunakan REST API.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 12:22:52",
+                  "mime_type": "application\/pdf",
+                  "fileid": 510310
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46153,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "unpub",
+      "datestamp": "2022-11-01 01:00:20",
+      "lastmod": "2022-11-01 01:00:20",
+      "userid": 2400
+    },
+    {
+      "type": "patent",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Bambang",
+            "family": "Bambang Hermanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Utami",
+            "honourific": null,
+            "given": "Yohana Tri"
+          },
+          "id": "yohana.utami@fmipa.unila.ac.id"
+        },
+        {
+          "id": "dewi.asiah@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Shofiana",
+            "lineage": null,
+            "given": "Dewi Asiah"
+          }
+        }
+      ],
+      "patent_applicant": "Bambang Hermanto",
+      "id_number": "No. EC00202236756",
+      "dir": "disk0\/00\/04\/61\/61",
+      "date": 2022,
+      "lastmod": "2022-11-01 06:57:19",
+      "userid": 2400,
+      "datestamp": "2022-11-01 06:57:19",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 510398,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-01 03:01:52",
+                  "hash_type": "MD5",
+                  "hash": "99695867bca7b8254448cc5f84f40efd",
+                  "filename": "4670.pdf",
+                  "datasetid": "document",
+                  "filesize": 2094461,
+                  "objectid": 185004,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510398"
+                }
+            ],
+            "docid": 185004,
+            "main": "4670.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185004",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46161,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46161",
+      "full_text_status": "public",
+      "eprintid": 46161,
+      "date_type": "published",
+      "status_changed": "2022-11-01 06:57:19",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/EC00202236756?type=copyright&keyword=Sistem+Informasi+Barang+Masuk+Dan+Barang+Keluar+Starlog+Pt.+Bank+Rakyat+Indonesia+%28Persero%29+Tbk.+Cabang+Tanjung+Karang",
+      "title": "Sistem Informasi Barang Masuk Dan Barang Keluar Starlog PT. Bank Rakyat Indonesia (Persero) Tbk. Cabang Tanjung Karang",
+      "metadata_visibility": "show",
+      "rev_number": 8
+    },
+    {
+      "date_type": "published",
+      "eprintid": 38843,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Aplikasi Virtual Guide Gedung F Dan Pasca Sarjana Fakultas\r\nEkonomi Dan Bisnis Universitas Lampung Menggunakan Unity 3D",
+      "official_url": "https:\/\/e-hakcipta.dgip.go.id\/index.php\/c?code=OThkZjZmN2IxMjQzZGI5ZWQyZjZiZWMzYTBmMGQ1MTcK",
+      "subjects": [
+        "QA76"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-02-02 07:18:25",
+      "dir": "disk0\/00\/03\/88\/43",
+      "date": "2022-01-31",
+      "id_number": 322811,
+      "patent_applicant": "Yunda Heningtyas; Akmal Junaidi; Aristoteles; Gregorius F",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Heningtyas",
+            "lineage": null,
+            "given": "Yunda"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "id": "akmal.junaidi@fmipa@unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Akmal Junaidi",
+            "honourific": null,
+            "given": "Akmal"
+          }
+        },
+        {
+          "name": {
+            "given": "Aristoteles",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Gregorius",
+            "given": "F"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38843",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159985",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 159985,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438717",
+                  "mime_type": "application\/pdf",
+                  "fileid": 438717,
+                  "hash": "303fa92dd833335d986a7945cdf60db0",
+                  "filename": "sertifikat_EC00202207512.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-02 02:42:29",
+                  "datasetid": "document",
+                  "filesize": 2074120
+                }
+            ],
+            "main": "sertifikat_EC00202207512.pdf",
+            "docid": 159985,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 38843
+          }
+      ],
+      "datestamp": "2022-02-02 07:18:25",
+      "lastmod": "2022-02-02 07:18:25",
+      "userid": 215
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-11-09 01:05:17",
+      "subjects": [
+        "Q1",
+        "T1"
+      ],
+      "abstract": "Fashion\tis\ta\tway\tfor\twomen\tto\texpress\tthemselves\tin\tsocial\tlife.\tWomen\twho\tknow\ttheir\t\r\nbody\tshape\tcan\tdetermine\tthe\tappropriate\tclothes\tto\tenhance\tthe\tbeauty\tof\ttheir\tappearance.\t\r\nHowever,\tnot\tall\twomen\tunderstand\ttheir\tbody\tshape.\tWomen\thave\tfive\ttypes\tof\tbody\tshapes\t\r\nwith\ttheir\trespective\tadvantages\tand\tdisadvantages.\tDress-Up\tGame\tis\ta\tsimulation\tgame\tthat\t\r\nexplains\tthe\tcharacteristics\tof\ta\twoman's\tbody\tshape\twith\t2-dimensional\timages.\tThis\tgame\t\r\nalso\tprovides\ta\tmodel\tof\tclothing\tthat\tsuits\tbody\tshape.\tThe\tdress-Up\tgame\tis\tmade\tusing\tthe\t\r\nMultimedia\tDevelopment\tLife\tCycle\t(MDLC)\tmethod\tand\tis\toperated\ton\tthe\tAndroid\tplatform.\t\r\nThis\tDress-Up\tgame\taims\tto\thelp\twomen\tunderstand\tclothes\tthat\tsuit\ttheir\tbody\tshape.",
+      "title": "IMPLEMENTASI TEKNOLOGI GAME DRESS-UP BERBASIS \r\nANDROID",
+      "volume": 9,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 46371,
+      "date_type": "published",
+      "lastmod": "2022-11-09 01:05:17",
+      "userid": 2423,
+      "pagerange": "279-290",
+      "datestamp": "2022-11-09 01:05:17",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46371,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185253",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 185253,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511964",
+                  "datasetid": "document",
+                  "filesize": 3880451,
+                  "fileid": 511964,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-08 23:45:50",
+                  "filename": "COVER PUBLIKASI Jurnal KLIK vol 9(2) .pdf",
+                  "hash": "b2382637d7d11124f77c23eb2d34507c"
+                }
+            ],
+            "main": "COVER PUBLIKASI Jurnal KLIK vol 9(2) .pdf",
+            "docid": 185253
+          }
+      ],
+      "publisher": "Prodi Ilmu Komputer Universitas Lambung Mangkurat",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46371",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Kumpulan Jurnal Ilmu Komputer (KLIK)",
+      "issn": "2406-7857",
+      "creators": [
+        {
+          "name": {
+            "given": "Yunda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Heningtyas"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hijriani",
+            "lineage": null,
+            "given": "Astria"
+          },
+          "id": "astria.hijriani@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rahmi",
+            "lineage": null,
+            "family": "Permata Hati",
+            "honourific": null
+          }
+        },
+        {
+          "id": "akmal.junaidi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Akmal",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/63\/71",
+      "date": 2022
+    },
+    {
+      "userid": 2423,
+      "lastmod": "2022-11-09 01:05:14",
+      "datestamp": "2022-11-09 01:05:14",
+      "pagerange": "8-13",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Universitas Teknokrat Indonesia",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 511984,
+                  "hash": "338eb7ac3c23f40f33da240e8eb52d2e",
+                  "filename": "COVER PUBLIKASI Teknoinfo vol 16(1) .pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-09 00:13:39",
+                  "datasetid": "document",
+                  "filesize": 2336905,
+                  "objectid": 185256,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511984"
+                }
+            ],
+            "docid": 185256,
+            "main": "COVER PUBLIKASI Teknoinfo vol 16(1) .pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185256",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46374,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46374",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Jurnal TEKNOINFO",
+      "issn": "2615-224X",
+      "creators": [
+        {
+          "name": {
+            "given": "Yunda",
+            "honourific": null,
+            "family": "Heningtyas",
+            "lineage": null
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Fathur",
+            "lineage": null,
+            "family": "Rahmi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muludi"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/04\/63\/74",
+      "date": 2022,
+      "status_changed": "2022-11-09 01:05:14",
+      "eprint_status": "archive",
+      "subjects": [
+        "Q1"
+      ],
+      "abstract": "During the COVID-19 pandemic, the number of ornamental fish enthusiasts has increased, especially those of the Betta\r\nFish species. Betta Fish is a type of ornamental Fish with various species with beautiful colors and morphology, especially\r\nthe shape of the tail. The more diverse the color patterns of the Fish and the unique shape, the more expensive the selling\r\nprice of this type of ornamental Fish. The market demand for Betta Fish is getting higher, causing the selling price of\r\nBetta Fish also to increase. However, not all ornamental fish lovers recognize the species name of the Betta Fish. For this\r\nreason, a pattern recognition-based system is needed that can recognize Betta Fish species. Pattern recognition has\r\nseveral stages, namely segmentation, extraction, and classification. This study aims to separate the object from the\r\nbackground on a digital image. The dataset used is 160 images consisting of 40 images of each species, namely Halfmoon,\r\nDouble Tail, Serit, and Plakat. The first step is to convert the image into a saturation and intensity color model. The\r\nmethod used in the segmentation process is Density-Based Clustering. Density-Based Clustering is a segmentation\r\nmethod by forming clusters based on the density level of the object area. The segmentation process using the DensityBased\r\nClustering method achieves an accuracy rate of 92.82%.   \r\n\r\nKeyword: Betta Fish, Density-Based Clustering, HSI, Image Recognition, Image Segmentation",
+      "title": "IMPLEMENTASI DENSITY-BASED CLUSTERING PADA SEGMENTASI CITRA Betta Fish",
+      "official_url": "https:\/\/ejurnal.teknokrat.ac.id\/index.php\/teknoinfo\/article\/view\/1273",
+      "rev_number": 6,
+      "volume": 16,
+      "metadata_visibility": "show",
+      "eprintid": 46374,
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "id_number": 409745,
+      "date": "2022-11-24",
+      "dir": "disk0_bak\/00\/05\/03\/48",
+      "creators": [
+        {
+          "name": {
+            "given": "Akmal",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "id": "akmal.junaidi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Eka Yuda",
+            "lineage": null,
+            "family": "Gunawibawa",
+            "honourific": null
+          },
+          "id": "eka.yuda@fisip.unila.ac.id"
+        },
+        {
+          "id": "hafsah.handayani@gmail.com",
+          "name": {
+            "family": "Handayani",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dwi Hafsah"
+          }
+        },
+        {
+          "id": "rachmadcahyaaji@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Aji",
+            "honourific": null,
+            "given": "Rachmad Cahya"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muzaki",
+            "given": "Faiz"
+          },
+          "id": "faismuzakiid@gmail.com"
+        }
+      ],
+      "patent_applicant": "Kementerian Hukum dan HAM Republik Indonesia",
+      "datestamp": "2023-04-12 07:40:41",
+      "lastmod": "2023-04-12 07:40:41",
+      "userid": 670,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50348",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543600",
+                  "objectid": 190046,
+                  "mtime": "2023-04-12 01:35:52",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00202294001_android_kespro.pdf",
+                  "hash": "e1fb203ea969a099011432ef664d1524",
+                  "fileid": 543600,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2095240,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 190046,
+            "main": "sertifikat_EC00202294001_android_kespro.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190046",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50348,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 50348,
+      "subjects": [
+        "H1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-12 07:40:41",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Modul Edukasi Digital Kesehatan Reproduksi Dan Seksualitas\r\nRemaja Berbasis Android"
+    },
+    {
+      "datestamp": "2022-01-05 01:03:32",
+      "userid": 670,
+      "lastmod": "2022-01-05 01:03:32",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37612",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158539",
+            "rev_number": 1,
+            "docid": 158539,
+            "main": "sertifikat_EC00202200350_kespro.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429254",
+                  "objectid": 158539,
+                  "hash": "9e347b5f5164608fafeda7529b3c7384",
+                  "filename": "sertifikat_EC00202200350_kespro.pdf",
+                  "mtime": "2022-01-04 10:46:05",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 429254,
+                  "filesize": 2074803,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 37612,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "date": 2022,
+      "dir": "disk0\/00\/03\/76\/12",
+      "id_number": 315479,
+      "patent_applicant": "Akmal Junaidi",
+      "creators": [
+        {
+          "id": "akmal.junaidi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "Akmal"
+          }
+        },
+        {
+          "name": {
+            "given": "Eka Yuda",
+            "lineage": null,
+            "honourific": null,
+            "family": "Gunawibawa"
+          },
+          "id": "eka.yuda@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Handayani",
+            "given": "Dwi Hafsah"
+          },
+          "id": "hafsah.handayani@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Rachmad Cahya",
+            "lineage": null,
+            "family": "Aji",
+            "honourific": null
+          },
+          "id": "rachmadcahyaaji@gmail.com"
+        },
+        {
+          "id": "faismuzakiid@gmail.com",
+          "name": {
+            "given": "Faiz",
+            "honourific": null,
+            "family": "Muzaki",
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2022-01-05 01:03:32",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Modul Edukasi Kesehatan Reproduksi Dan Seksualitas Remaja",
+      "date_type": "published",
+      "eprintid": 37612
+    },
+    {
+      "title": "IMPLEMENTASI SUPPORT VECTOR MACHINE (SVM) UNTUK\r\nKLASIFIKASI PEDERITA DIABETES MELLITUS",
+      "volume": 10,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "status_changed": "2022-11-09 01:04:58",
+      "eprint_status": "archive",
+      "subjects": [
+        "Q1"
+      ],
+      "abstract": "Abstract — Diabetes Mellitus (DM) is a chronic disease characterized by the body's inability to metabolize\r\ncarbohydrates, fats, and proteins, resulting in increased blood sugar (hyperglycemia) due to low insulin levels.\r\nDiabetes is due to a combination of heredity (genetics) and unhealthy lifestyles. Hemoglobin A1c is a blood test\r\nused to diagnose and manage diabetes patients when measuring blood sugar levels. This study aims to analyze\r\npredictive models for the classification of people with diabetes using R Shiny and evaluate the results of the support\r\nvector machine method's classification performance. There are many ways to diagnose diabetes, and the support\r\nvector machine is one of the machine learning algorithms used in this study's classification case (SVM). This study\r\nuses data from Diabetes 130-US Hospital For Years 1999-2008, which was sourced from the UCI Machine\r\nLearning Repository and consists of 34 variables and 84900 records, with dataset distribution and testing\r\ntechniques using the 10-fold cross-validation method and three kernels in modeling using SVM, namely linear,\r\nGaussian, and polynomial. The results obtained are a simple predictive model analysis system for classifying\r\npeople with diabetes with shiny, making it easier for users to find out the prediction results and obtain the highest\r\naccuracy result, which is 82.76 percent of the gaussian kernel.\r\n\r\nKeywords: diabetes mellitus; HbA1c; classification; support vector machine; 10-fold cross validation.",
+      "eprintid": 46370,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 1,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46370,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 185252,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511958",
+                  "datasetid": "document",
+                  "filesize": 3111666,
+                  "mime_type": "application\/pdf",
+                  "fileid": 511958,
+                  "filename": "COVER PUBLIKASI Jurnal Komputasi vol 10(1) .pdf",
+                  "hash": "dfa84212e4fdf40da57e3433a60b04ba",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-08 23:09:04"
+                }
+            ],
+            "docid": 185252,
+            "main": "COVER PUBLIKASI Jurnal Komputasi vol 10(1) .pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185252",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46370",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-11-09 01:04:58",
+      "userid": 2423,
+      "datestamp": "2022-11-09 01:04:58",
+      "pagerange": "75-83",
+      "publication": "Jurnal Komputasi",
+      "issn": "541-0350",
+      "creators": [
+        {
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id",
+          "name": {
+            "given": "Favorisen R",
+            "family": "Lumbanraja",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Lufiana",
+            "given": "Fanni"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Heningtyas",
+            "given": "Yunda"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/63\/70",
+      "date": 2022,
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46555",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185433",
+            "rev_number": 1,
+            "docid": 185433,
+            "main": "5.0103114.pdf",
+            "files": [
+                {
+                  "filesize": 783462,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-13 01:16:01",
+                  "filename": "5.0103114.pdf",
+                  "hash": "0908bab57301c5f815130c7cdb84996a",
+                  "fileid": 513305,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513305",
+                  "objectid": 185433
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 46555,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2022-11-14 03:26:36",
+      "pagerange": "040006-2-040006-7",
+      "lastmod": "2022-11-14 03:26:36",
+      "userid": 215,
+      "date": "2022-10-31",
+      "dir": "disk0\/00\/04\/65\/55",
+      "creators": [
+        {
+          "id": "favorisen.lumbanraja@fmipa.unila.ac.id",
+          "name": {
+            "given": "Favorisen R",
+            "honourific": null,
+            "family": "Lumbanraja",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rifky Ekananda",
+            "family": "Pramswary",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Aristoteles",
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "conference_item",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "title": "Classification of cracked concrete images using convolutional neural algorithm",
+      "official_url": "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/5.0103114",
+      "event_dates": "27-28 Oktober 2021",
+      "abstract": "Concrete is the most widely used construction material in the construction industry. This concrete material is one of the important materials used in infrastructure development in Indonesia. Cracks in a building is something that is\r\navoided in every infrastructure development. Cracking is a condition when water evaporation in concrete occurs very quickly due to changes in weather. Many traditional measures have been taken to determine if a building is cracked or not\r\ncracked, but it has resulted in inaccurate conclusions. Indonesia is a country that is doing a lot of significant infrastructure development to become a developed country and improve the country's internal situation. Therefore, one of the basic things in a construction that uses concrete in infrastructure development is very concerned about its condition. Based on these problems, this study uses one method of classifying an object using digital images, namely Convolutional Neural Network to classify cracks in concrete. This study aims to classify images of concrete cracks using the Convolutional Neural Network algorithm. The stages in this study are the preparation of secondary data research data collection which is stored in a file format (.jpg) with tens of thousands of data and the second stage is the pre-processing stage by selecting a class on the image, then compiling a design using the Convolutional Neural Network architecture, training and testing process will be carried out from the results obtained, and accuracy testing will be carried out. The results of this study are expected to provide benefits from seeing the results of the best level of accuracy of classifying concrete crack images using the Convolutional Neural Network algorithm",
+      "subjects": [
+        "QA76"
+      ],
+      "status_changed": "2022-11-14 03:26:36",
+      "eprint_status": "archive",
+      "event_location": "Lampung",
+      "date_type": "published",
+      "eprintid": 46555,
+      "event_title": "THE 2ND UNIVERSITAS LAMPUNG INTERNATIONAL CONFERENCE ON SCIENCE, TECHNOLOGY, AND ENVIRONMENT (ULICoSTE) 2021"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "issn": "0216-7662",
+      "creators": [
+        {
+          "id": "rico.andrian@fmipa.unila.ac.id",
+          "name": {
+            "family": "Rico Andrian",
+            "honourific": null,
+            "lineage": null,
+            "given": "RA"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Agustiansyah",
+            "given": "Agustiansyah"
+          },
+          "id": "agustiansyah.1972@fp.unila.ac.id"
+        },
+        {
+          "id": "akmal.junaidi@fmipa@unila.ac.id",
+          "name": {
+            "given": "Akmal",
+            "family": "Akmal Junaidi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Dian indah lestari",
+            "honourific": null,
+            "lineage": null,
+            "given": "DIL"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal Agrotropika",
+      "date": "2022-10",
+      "dir": "disk0\/00\/04\/61\/31",
+      "lastmod": "2022-10-31 09:47:33",
+      "userid": 262,
+      "pagerange": "115-123",
+      "datestamp": "2022-10-31 09:47:33",
+      "publisher": "Jurnal Agrotropika",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 184958,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510138",
+                  "datasetid": "document",
+                  "filesize": 26159,
+                  "mime_type": "application\/xml",
+                  "fileid": 510138,
+                  "filename": 6096,
+                  "hash": "200f2ea7e30581092613354cb4aeadd3",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-31 08:59:32"
+                }
+            ],
+            "main": 6096,
+            "docid": 184958,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184958",
+            "rev_number": 3,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 46131,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/xml"
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46131",
+      "eprintid": 46131,
+      "date_type": "published",
+      "status_changed": "2022-10-31 09:47:33",
+      "eprint_status": "archive",
+      "abstract": "Leaves are the most important organ in plants in the process of photosynthesis and will affect plant growth and productivity. Leaves also have a function as the main food maker. Leaf area is a very important parameter in the science of plant nutrition, measurement of plant protection, the relationship between water and soil in plants, plant ecosystems, plant fertility, etc. The use of leaf area measuring instruments that exist today has its drawbacks in terms of portability and practicality. The development of smartphone technology, one solution that can be used to overcome this is to design an application to measure the area of leaves by utilizing an android based smartphone camera. This research has been successfully made a leaf area calculation application that utilizes smartphone cameras using the OpenCV library. The application provided in this study is able to provide convenience and speed up the calculation of the leaf image area with an error rate of 4.9% and an accuracy of 95.1% from the average results of 10 leaf samples tested.",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "Aplikasi Pengukuran Luas Daun Tanaman Menggunakan Pengolahan Citra Digital Berbasis Android",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JAT\/index",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "volume": 21
+    },
+    {
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "date": "2022-09-13",
+      "dir": "disk0_bak\/00\/04\/86\/07",
+      "id_number": "https:\/\/doi.org\/10.22146\/jpkm.70236",
+      "publication": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community Engagement)",
+      "creators": [
+        {
+          "id": "rahmat.safei@fp.unila.ac.id",
+          "name": {
+            "given": "Rahmat",
+            "lineage": null,
+            "honourific": null,
+            "family": "Safe'i"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null,
+            "given": "Aristoteles"
+          },
+          "id": null
+        },
+        {
+          "id": "mulkhan2010@gmail.com",
+          "name": {
+            "given": "Unang Mulkhan",
+            "lineage": null,
+            "family": "Mulkhan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Pratama",
+            "honourific": null,
+            "lineage": null,
+            "given": "M. Rizky"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Lis Nur",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ajijah"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "A. Nizam",
+            "lineage": null,
+            "family": "Syahiib",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Selvira",
+            "family": "Selvira",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nabila",
+            "given": "Putri"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Damayanti",
+            "honourific": null,
+            "given": "Risna"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2460-9447; 2541-5883",
+      "pagerange": "125-130",
+      "datestamp": "2023-02-27 09:14:34",
+      "userid": 215,
+      "lastmod": "2023-02-27 09:14:34",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48607",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "e189f0e9779fc8527b4bb3bbde8fa9b5",
+                  "filename": "70236-271371-2-PB.pdf",
+                  "mtime": "2023-02-27 07:26:45",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 529977,
+                  "filesize": 1669419,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529977",
+                  "objectid": 187948
+                }
+            ],
+            "docid": 187948,
+            "main": "70236-271371-2-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187948",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48607,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Directorate of Community Services Universitas Gadjah Mada",
+      "date_type": "published",
+      "eprintid": 48607,
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "The importance of monitoring forest health is needed to support a sustainable forest management system. A healthy forest can be said to be still carrying out its functions. Monitoring the health of mangrove forests is helpful in an eﬀort to mitigate coastal disasters. The purpose of this service was to provide knowledge and understanding to members of KTH Lestari Indah regarding forest health. This activity was carried out on Sunday, October 24, 2021, at the mangrove forest tour, Margasari Village, Labuhan Maringgai sub-district, East Lampung Regency. The methods used in this activity were lectures and practices. Based on the evaluation results with pre-test and post-test instruments given to participants regarding the material in service activities, participants experienced an increase in knowledge of 7.13%. This increase shows a reasonably good understanding of the training participants, so this training is expected to help the community increase knowledge and participation in mangrove forest management and discovery of sustainable mangrove forests.",
+      "status_changed": "2023-02-27 09:14:34",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "volume": 8,
+      "metadata_visibility": "show",
+      "title": "Mangrove Forest Health Monitoring Training at KTH Lestari Indah as a Disaster Mitigation Eﬀort",
+      "official_url": "https:\/\/jurnal.ugm.ac.id\/jpkm\/article\/view\/70236"
+    },
+    {
+      "publication": "Pepadun",
+      "issn": "2774-3403",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Safitri",
+            "honourific": null,
+            "given": "Wulan Kurniawan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Wulansari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ossy Dwi Endah"
+          },
+          "id": "ossy.dwiendah@fmipa.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Akmal"
+          },
+          "id": "akmal.junaidi@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          }
+        }
+      ],
+      "date": "2022-08-30",
+      "dir": "disk0_bak\/00\/04\/93\/20",
+      "id_number": "https:\/\/doi.org\/10.23960\/pepadun.v3i2.121",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Ilmu Komputer FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535551",
+                  "objectid": 188866,
+                  "filesize": 426532,
+                  "datasetid": "document",
+                  "hash": "38d57833a216c1a1ef8879f9887e8503",
+                  "filename": "121-Article Text-645-1-10-20221114.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-28 01:53:46",
+                  "mime_type": "application\/pdf",
+                  "fileid": 535551
+                }
+            ],
+            "docid": 188866,
+            "main": "121-Article Text-645-1-10-20221114.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188866",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 49320,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49320",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-03-28 03:14:24",
+      "userid": 215,
+      "pagerange": "250-258",
+      "datestamp": "2023-03-28 03:14:24",
+      "eprintid": 49320,
+      "date_type": "published",
+      "title": "PENERAPAN METODE SIMPLE ADDITIVE WEIGHTING (SAW) PADA SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN ALAT KONTRASEPSI (STUDI KASUS: PUSKESMAS KECAMATAN RAMAN UTARA)",
+      "official_url": "https:\/\/pepadun.fmipa.unila.ac.id\/index.php\/jurnal\/article\/view\/121",
+      "volume": 3,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2023-03-28 03:14:24",
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "he choice of contraception is very important. Usually, the acceptors choose the contraceptive that is easiest to use even though the device is not necessarily in accordance with the existing variables, causing errors in the selection of contraceptives and resulting in the failure of the family planning program. This study aims to build a decision support system that can assist in the selection of contraceptives. This study uses the Simple Additive Weighting (SAW) method using 7 criteria variables and a web-based system built. The results of the research conducted indicate that the decision support system built can help provide contraceptive recommendations based on calculations using 7 criteria. Other tests show that the functions contained in the system have been running well according to user needs."
+    },
+    {
+      "abstract": "Forest fires had always become an international issue influencing many life sectors, including environmental, social, and\r\neconomic. The forest fire in 2013 was regarded as one of the worst forest fire tragedies in history, not only in Indonesia\r\nbut also in the world. Detection of hotspots on the earth's surface by the satellite can be an indication of land and forest\r\nfire occurrence. This research aims to build a predictive model of monthly hotspots in Rokan Hilir Regency using the\r\nregression tree algorithm. Several variables related to weather information are included, such as rainfall, sea surface\r\ntemperature, and southern oscillation index. This research used 245 training data and 43 testing data, resulting a\r\npredictive model with a correlation of 0.875 and an error rate of 0.166. Based on the values, we can conclude that the\r\nperformance of the model is considerably good.\r\nKeyword: forest fire, hotspot, regression tree.",
+      "subjects": [
+        "Q1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-09 01:05:20",
+      "metadata_visibility": "show",
+      "volume": 16,
+      "rev_number": 6,
+      "official_url": "https:\/\/ejurnal.teknokrat.ac.id\/index.php\/teknoinfo\/article\/view\/2051",
+      "title": "HOTSPOT PREDICTIVE MODELING USING REGRESSION DECISION \r\nTREE ALGORITHM",
+      "date_type": "published",
+      "eprintid": 46373,
+      "datestamp": "2022-11-09 01:05:20",
+      "pagerange": "460-466",
+      "lastmod": "2022-11-09 01:05:20",
+      "userid": 2423,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46373",
+      "publisher": "Universitas Teknokrat Indonesia",
+      "documents": [
+          {
+            "eprintid": 46373,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "COVER PUBLIKASI Teknoinfo vol 16(2) .pdf",
+            "docid": 185255,
+            "files": [
+                {
+                  "objectid": 185255,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511978",
+                  "mime_type": "application\/pdf",
+                  "fileid": 511978,
+                  "filename": "COVER PUBLIKASI Teknoinfo vol 16(2) .pdf",
+                  "hash": "263608f64ea1739357e42c26c227ab6b",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-09 00:03:42",
+                  "datasetid": "document",
+                  "filesize": 2365548
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185255",
+            "rev_number": 1
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/04\/63\/73",
+      "date": 2022,
+      "issn": "2615-224X",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Shofiana",
+            "honourific": null,
+            "given": "Dewi Asiah"
+          },
+          "id": "dewi.asiah@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yohana.utami@fmipa.unila.ac.id",
+          "name": {
+            "given": "Yohana Tri",
+            "lineage": null,
+            "family": "Utami",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Heningtyas",
+            "given": "Yunda"
+          },
+          "id": "yunda.heningtyas89@gmail.com"
+        }
+      ],
+      "publication": "Jurnal TEKNOINFO"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Jurnal TEKNOINFO",
+      "issn": "2615-224X",
+      "creators": [
+        {
+          "name": {
+            "given": "Dewi Asiah",
+            "honourific": null,
+            "family": "Shofiana",
+            "lineage": null
+          },
+          "id": "dewi.asiah@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Utami",
+            "given": "Yohana Tri"
+          },
+          "id": "yohana.utami@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yundaheningtyas@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Heningtyas",
+            "given": "Yunda"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/36\/02",
+      "date": "2022-07",
+      "id_number": "https:\/\/doi.org\/10.33365\/jti.v16i2.2051",
+      "lastmod": "2022-07-25 09:04:49",
+      "userid": 3222,
+      "pagerange": "460-466",
+      "datestamp": "2022-07-25 09:04:49",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Universitas Teknokrat Indonesia",
+      "documents": [
+          {
+            "eprintid": 43602,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 165549,
+            "main": "2051-5943-2-PB-Teknoinfo-HOTSPOT PREDICTIVE MODELING USING REGRESSION DECISION TREE ALGORITHM.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475720",
+                  "objectid": 165549,
+                  "hash": "7e44b64c40bd564eb53829b0a4558dda",
+                  "filename": "2051-5943-2-PB-Teknoinfo-HOTSPOT PREDICTIVE MODELING USING REGRESSION DECISION TREE ALGORITHM.pdf",
+                  "mtime": "2022-07-25 02:30:27",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 475720,
+                  "filesize": 454753,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165549",
+            "rev_number": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43602",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 43602,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-07-25 09:04:49",
+      "subjects": [
+        "QA75",
+        "SD"
+      ],
+      "abstract": "Forest fires had always become an international issue influencing many life sectors, including environmental, social, and economic. The forest fire in 2013 was regarded as one of the worst forest fire tragedies in history, not only in Indonesia but also in the world. Detection of hotspots on the earth's surface by the satellite can be an indication of land and forest fire occurrence. This research aims to build a predictive model of monthly hotspots in Rokan Hilir Regency using the regression tree algorithm. Several variables related to weather information are included, such as rainfall, sea surface temperature, and southern oscillation index. This research used 245 training data and 43 testing data, resulting a predictive model with a correlation of 0.875 and an error rate of 0.166. Based on the values, we can conclude that the performance of the model is considerably good.",
+      "title": "HOTSPOT PREDICTIVE MODELING USING REGRESSION DECISION TREE ALGORITHM",
+      "official_url": "https:\/\/ejurnal.teknokrat.ac.id\/index.php\/teknoinfo\/article\/view\/2051",
+      "referencetext": "N. Dina, “Identifikasi sumber api penyebab kebakaran, riam kanan kalimantan selatan,” Banjarbaru, 2011. [Online]. Available: http:\/\/eprints.ulm.ac.id\/187\/1\/Mandiri Sumber Api Kebakaran.pdf.\r\n\r\nL. Syaufina, Kebakaran Hutan dan Lahan di Indonesia: Perilaku Api, Penyebab dan Dampak Kebakaran. Malang: Bayumedia Publishing, 2008.\r\n\r\nW. Estiningtyas and A. H. Wigena, “Teknik Statistical Downscaling Dengan Regresi Komponen Utama Dan Regresi Kuadrat Terkecil Parsial Untuk Prediksi Curah Hujan Pada Kondisi El Nino, La Nina, Dan Normal,” J. Meteorol. dan Geofis., vol. 12, no. 1, pp. 65–72, 2011, doi: 10.31172\/jmg.v12i1.87.\r\n\r\nKistyarini, “Pakar: Asap Riau Terparah Sepanjang Sejarah,” Kompas, 2013.\r\n\r\nD. A. Shofiana and I. S. Sitanggang, “Confidence Analysis of Hotspot as Peat Forest Fire Indicator,” J. Phys. Conf. Ser., vol. 1751, p. 012035, 2021, doi: 10.1088\/1742-6596\/1751\/1\/012035.\r\n\r\nI. S. Robby, “Prediksi Temporal untuk Kemunculan Titik Panas di Provinsi Riau Menggunakan Autoregressive Integrated Moving Average (ARIMA),” Institut Pertanian Bogor, 2014.\r\n\r\nN. Istiqamah, “Prediksi kemunculan titik panas di provinsi Riau\r\n\r\nmenggunakan seasonal autoregressive integrated moving average (SARIMA,” Institut Pertanian Bogor, 2015.\r\n\r\nT. T. Amaranggana, “Prediksi Temporal untuk Kemunculan Titik Panas di Provinsi Riau menggunakan Elman Recurrent Neural Network,” Institut Pertanian Bogor, 2016.\r\n\r\nA. Qadir, N. R. Talukdar, M. M. Uddin, F. Ahmad, and L. Goparaju, “Predicting forest fire using multispectral satellite measurements in Nepal,” Remote Sens. Appl. Soc. Environ., vol. 23, no. March, p. 100539, 2021, doi: 10.1016\/j.rsase.2021.100539.\r\n\r\nL. Giglio, W. Schroeder, and C. O. Justice, “The collection 6 MODIS active fire detection algorithm and fire products,” Remote Sens. Environ., vol. 178, pp. 31–41, 2016, doi: 10.1016\/j.rse.2016.02.054.\r\n\r\nY. K. JAIN and S. K. BHANDARE, “Min Max Normalization Based Data Perturbation Method for Privacy Protection,” Int. J. Comput. Commun. Technol., vol. 4, no. 4, pp. 233–238, 2013, doi: 10.47893\/ijcct.2013.1201.\r\n\r\nL. LIU and M. T. ÖZSU, Encyclopedia of Database Systems. Boston: Springer, 2009.\r\n\r\nS. Siegel, Statistic Non Parametrik Untuk Ilmu-Ilmu Sosial. Jakarta: Gramedia Pustaka Utama, 1986.\r\n\r\nD. C. Montgomery, C. L. Jennings, and M. Kulahci, Introduction to Time Series Analysis and Forecasting, 2nd Edition. New Jersey: John Wiley, 2015.\r\n\r\nT. Wahyono, Analisis Regresi dengan MS Excel 2007 dan SPSS 17. Jakarta: PT Elex Media Komputindo, 2010.\r\n\r\nI. Hakiki, A. Ihwan, and J. Sampurno, “Prediksi Kemunculan Titik Panas (Hotspot) Menggunakan Metode Jaringan Syaraf Tiruan Propagasi Balik Studi Kasus di Pontianak,” Prism. Fis., vol. 3, no. 2, pp. 75–78, 2015.",
+      "rev_number": 12,
+      "volume": 16,
+      "metadata_visibility": "show"
+    },
+    {
+      "eprintid": 43809,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2022-08-02 09:48:32",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "SMAN  02  Negeri  Agung  does  not  have  a  system  that  can assist  schools  in  determining  majors.  The  problem  is  that SMAN  02  Negeri  Agung,when  doing  majors,  it  still  uses existing   data.   For   example,   using   a   majoring   interest questionnaire,  there  are  questions  about  the  interests  that students  want,  and  the  values  of  their  junior  high  school report  cards,  which  consist  of  Indonesian,  Mathematics, Science,   Social   Studies,   and   English.   However,   many students  still  choose  majors  not  based  on  their  interests  or historical  grades,  such  as  following  friends'  choices.  It  can hinder  student  academic  activities  in  the  future,  which  will affect  the  value  and  development  of  student  potential.  This effective system hopes to help schools and students minimize errors  in  determining  and  choosing  a  major.  Based  on  the problems  described  above,  the  authors  want  to  apply  the Naïve  Bayes  method,  which  will  produce  a  high  level  of accuracy in determining new student majors more effectively and efficiently.The accuracy of the naive Bayes classifier can be  stated  quite  well.  It  can  be  seen  based  on  accuracy, 63.46%,  error  rate  0.3653%,  false  positive  rate  0.2424%, sensitivity   0.6035%,   specificity   0.7575%,   and   precision 0.944%    Naive    Bayes    classifier    method    can    It    is recommended to predict student majors.",
+      "title": "Application of Data Mining for Student Department Using Naive  Bayes Classifier Algorithm",
+      "referencetext": "[1]Y.  S.  Nugroho,  T.  D.  Salma,  and  S.  Rokhanuddin, “Implementasi Data Warehouse Dan  Data  Mining  Untuk  Pengembangan  Sistem  Rekomendasi  Pemilihan  SMA,” Khazanah  Inform.  J.  Ilmu  Komput.  dan  Inform.,  vol.  2,  no.  2,  p.  49,  2016,  doi: 10.23917\/khif.v2i2.2333.\r\n[2]S. Syarli and A. Muin, “Metode Naive Bayes Untuk Prediksi Kelulusan (Studi Kasus: Data Mahasiswa Baru Perguruan Tinggi),” J. Ilm. Ilmu Komput., vol. 2, no. 1, pp. 22–26, 2016.\r\n[3]I.  B.  A.  Peling,  I.  N.  Arnawan,  I.  P.  A.   Arthawan,  and  I.  G.  N.  Janardana, “Implementation of Data Mining To Predict Periodof  Students  Study  Using  Naive Bayes  Algorithm,” Int.  J.  Eng.  Emerg.  Technol.,  vol.  2,  no.  1,  p.  53,  2017,  doi: 10.24843\/ijeet.2017.v02.i01.p11.\r\n[4]H. Naparin, “Klasifikasi Peminatan Siswa SMA Menggunakan Metode Naive Bayes,” Syst.    Inf.    Syst.    Informatics J.,    vol.    2,    no.    1,    pp.    25–32,    2016,    doi: 10.29080\/systemic.v2i1.104.\r\n[5]D. Putra and A. Wibowo, “Prediksi Keputusan Minat Penjurusan Siswa SMA Yadika 5 Menggunakan Algoritma Naïve Bayes,” Pros. Semin. Nas. Ris. ..., vol. 2, pp. 84–92, 2020, [Online]. Available: http:\/\/tunasbangsa.ac.id\/seminar\/index.php\/senaris\/article\/view\/147.\r\n[6]H.  Hozairi,  A.  Anwari,  and  S.  Alim,  “Implementasi  Orange  Data  Mining  Untuk Klasifikasi  Kelulusan  Mahasiswa  Dengan  Model  K-Nearest  Neighbor,  Decision  Tree Serta  Naive  Bayes,” Netw.  Eng.  Res.  Oper.,  vol.  6,  no.  2,  p.  133,  2021,  doi: 10.21107\/nero.v6i2.237.\r\n[7]S.  Adinugroho  and  Y.  A.  Sari, Implementasi  data  mining  menggunakan  WEKA. Universitas Brawijaya Press, 2018.\r\n[8]D.  T.  Larose, Discovering  Knowledge  in  Data :  An  Introduction  to  Data  Mining. Wiley Interscience, 2005.\r\n[9]J.  Han  and  M.  Kamber, Data  Mining  Concepts  and  Techniques.  USA:  Morgan Kaufmann Publishers, 2006.\r\n[10]F. Alam and S. Pachauri, “Detection using weka,” Adv. Comput. Sci. Technol., vol. 10, no. 6, pp. 1731–1743, 2017.\r\n[11]J.  G.  Moreno-Torres, J. A. Sáez, and F. Herrera, “Study on the impact of partition-induced  dataset  shift  on  $  k  $-fold  cross-validation,” IEEE  Trans.  Neural  Networks Learn. Syst., vol. 23, no. 8, pp. 1304–1312, 2012.\r\n[12]M.  L.  Lee,  H.  Lu,  T.  W.Ling,  and  Y.  T.  Ko,  “Cleansing  data  for  mining  and warehousing,”  in International   Conference   on   Database   and   Expert   Systems Applications, 1999, pp. 751–760",
+      "volume": 5,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "TECH-E",
+      "creators": [
+        {
+          "id": "yohana.utami@fmipa.unila.ac.id",
+          "name": {
+            "family": "Utami",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yohana Tri"
+          }
+        }
+      ],
+      "issn": "2598-7585",
+      "date": "2022-03-25",
+      "dir": "disk0\/00\/04\/38\/09",
+      "id_number": "https:\/\/doi.org\/10.31253\/te.v5i1.1012",
+      "lastmod": "2022-08-02 09:48:32",
+      "userid": 2424,
+      "pagerange": "125-132",
+      "datestamp": "2022-08-02 09:48:32",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Universitas Budhi Dharma",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43809,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165766",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/477231",
+                  "objectid": 165766,
+                  "filesize": 647852,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-02 09:06:38",
+                  "filename": "document.pdf",
+                  "hash": "55f394ee5ff29ed16aac787afd9621a3",
+                  "fileid": 477231,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "document.pdf",
+            "docid": 165766
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43809",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "subjects": [
+        "QA75"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-11-01 06:57:21",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/EC00202236770?type=copyright&keyword=Analisis+Perancangan+UI+Sistem+Informasi+Sirkulasi+Barang+Starlog+Bank+BRI+Cabang+Tanjung+Karang",
+      "title": "Analisis Perancangan UI Sistem Informasi Sirkulasi Barang Starlog Bank BRI Cabang Tanjung Karang",
+      "date_type": "published",
+      "eprintid": 46162,
+      "datestamp": "2022-11-01 06:57:21",
+      "lastmod": "2022-11-01 06:57:21",
+      "userid": 2400,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46162",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185005",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 185005,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510406",
+                  "fileid": 510406,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-11-01 03:08:26",
+                  "hash_type": "MD5",
+                  "filename": "4671.pdf",
+                  "hash": "e5a09f543c5c5a1062952f5c06f4d7ee",
+                  "datasetid": "document",
+                  "filesize": 2094256
+                }
+            ],
+            "docid": 185005,
+            "main": "4671.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46162
+          }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "patent",
+      "dir": "disk0\/00\/04\/61\/62",
+      "date": 2022,
+      "id_number": "EC00202123258",
+      "patent_applicant": "Bambang Hermanto",
+      "creators": [
+        {
+          "id": "yohana.utami@fmipa.unila.ac.id",
+          "name": {
+            "given": "Yohana Tri",
+            "family": "Utami",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "family": "Bambang Hermanto",
+            "lineage": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Shofiana",
+            "given": "Dewi Asiah"
+          },
+          "id": "dewi.asiah@fmipa.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/04\/59\/86",
+      "date": 2022,
+      "issn": "2774-3403",
+      "creators": [
+        {
+          "id": "machudor.yusman@fmipa.unila.ac.id",
+          "name": {
+            "given": "Machudor",
+            "lineage": null,
+            "family": "Yusman",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bambang",
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rizaldi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ibnu"
+          }
+        }
+      ],
+      "publication": "Jurnal Pepadun",
+      "datestamp": "2022-10-26 06:41:11",
+      "lastmod": "2022-10-26 06:41:11",
+      "userid": 2400,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45986",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184804",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 184804,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509082",
+                  "mime_type": "application\/pdf",
+                  "fileid": 509082,
+                  "filename": "4672.pdf",
+                  "hash": "a2cae74e318dc3915c2803fe97544fdb",
+                  "mtime": "2022-10-26 04:01:58",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 451334
+                }
+            ],
+            "docid": 184804,
+            "main": "4672.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 45986
+          }
+      ],
+      "publisher": "Jurusan Ilmu Komputer FMIPA Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "eprintid": 45986,
+      "abstract": "This study aims to create an information system that functions to sell used books in the city of Bandar Lampung. Currently the used book sales system still relies on media interaction with direct consumers and is still centered on a particular location. By creating a web-based used book sales information system in the city of Bandar Lampung, it can facilitate customer transactions in purchasing used books online. In this research the system design uses UML (Unifield Modeling Language), PHP (Hypertext Preprocessor) programming language, MYSOL as a database and using Windows as an operating system. Information systems are created by applying the Extreme Programming Method to determine the steps in making a system. System functional testing uses the Black Box Testing method in the functional test scenario. Accuracy testing uses 20 test cases that exist in the information system, then performed related to the system output with actual events. From the test results using 20 test cases, the results obtained are in accordance with the system output so that the test results are categorized as very good.",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2022-10-26 06:41:11",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 6,
+      "official_url": "https:\/\/pepadun.fmipa.unila.ac.id\/index.php\/jurnal\/article\/view\/106",
+      "title": "Sistem Informasi Penjualan Buku Bekas Di Kota Bandar Lampung Berbasis Web"
+    }
+]
+

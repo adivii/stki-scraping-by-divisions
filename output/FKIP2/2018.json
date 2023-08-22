@@ -1,0 +1,683 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 30434,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Bimbinagan dan Konseling di Sekolah: Konsepsi Dasar dan Landasan Pelayanan",
+      "subjects": [
+        "L1",
+        "LB1603"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-05-24 01:32:41",
+      "succeeds": 27901,
+      "date": "2018-05-21",
+      "dir": "disk0\/00\/03\/04\/34",
+      "id_number": 108742,
+      "patent_applicant": "EC00201813183",
+      "creators": [
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Dahlan",
+            "honourific": null,
+            "given": "Syarifuddin"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP2"
+      ],
+      "type": "patent",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30434",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136895",
+            "rev_number": 3,
+            "format": "image",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360734",
+                  "objectid": 136895,
+                  "filesize": 773542,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-16 04:40:26",
+                  "hash": "78c457c30ea13c905c8390dd7c14e021",
+                  "filename": "sertifikat_EC00201813183_3.pdf",
+                  "fileid": 360734,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 136895,
+            "main": "sertifikat_EC00201813183_3.pdf",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 30434
+          },
+          {
+            "docid": 136901,
+            "main": "Nilai review HKI_BK di Sekolah....pdf",
+            "files": [
+                {
+                  "fileid": 360741,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-05-21 10:33:49",
+                  "hash_type": "MD5",
+                  "filename": "Nilai review HKI_BK di Sekolah....pdf",
+                  "hash": "166a712c36ac71dd9ac163bdd83bdae8",
+                  "datasetid": "document",
+                  "filesize": 1567727,
+                  "objectid": 136901,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360741"
+                }
+            ],
+            "pos": 7,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136901",
+            "rev_number": 1,
+            "eprintid": 30434,
+            "placement": 7,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2021-05-24 01:32:41",
+      "userid": 815,
+      "lastmod": "2021-05-24 01:32:41"
+    },
+    {
+      "creators": [
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "family": "Dahlan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Syarifuddin"
+          }
+        }
+      ],
+      "patent_applicant": "EC00201813184",
+      "id_number": 108743,
+      "date": "2018-05-21",
+      "dir": "disk0\/00\/03\/04\/32",
+      "type": "patent",
+      "divisions": [
+        "FKIP2"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 30432,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136872",
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "objectid": 136872,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360698",
+                  "datasetid": "document",
+                  "filesize": 773336,
+                  "fileid": 360698,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-16 04:57:24",
+                  "hash": "579769e91e9a1aec00200fca901995c4",
+                  "filename": "sertifikat_EC00201813184.pdf"
+                }
+            ],
+            "main": "sertifikat_EC00201813184.pdf",
+            "docid": 136872
+          },
+          {
+            "security": "public",
+            "placement": 8,
+            "eprintid": 30432,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360706",
+                  "objectid": 136878,
+                  "mtime": "2021-05-21 10:18:11",
+                  "hash_type": "MD5",
+                  "filename": "Nilai review HKI_Konseling Karier....pdf",
+                  "hash": "fc06d709f2b158a2c03985c174e13653",
+                  "fileid": 360706,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1570585,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 136878,
+            "main": "Nilai review HKI_Konseling Karier....pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136878",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 8
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30432",
+      "full_text_status": "public",
+      "lastmod": "2021-05-24 01:32:36",
+      "userid": 815,
+      "datestamp": "2021-05-24 01:32:36",
+      "eprintid": 30432,
+      "date_type": "published",
+      "title": "Konseling Karier di Sekolah Menengah Atas",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "succeeds": 27903,
+      "status_changed": "2021-05-24 01:32:36",
+      "eprint_status": "archive",
+      "subjects": [
+        "LB1603"
+      ]
+    },
+    {
+      "issn": "p-ISSN: 2620-4967 e-ISSN: 26205092",
+      "creators": [
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "given": "Eka  K",
+            "lineage": null,
+            "family": "Eka Kurniawati",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nurhasanah B",
+            "lineage": null,
+            "family": "Nurhasanah Bahtiar",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "JNSI: Journal of Natural Science and Integration",
+      "dir": "disk0\/00\/03\/67\/71",
+      "keywords": "Manusia, Al Qur`an dan Sains",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "documents": [
+          {
+            "docid": 157688,
+            "main": "JURNAL MANUSIA DALAMPANDANGANAQ DAN SAIN.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-14 07:20:57",
+                  "hash": "0f2b5533d768716392876d1195e3430c",
+                  "filename": "JURNAL MANUSIA DALAMPANDANGANAQ DAN SAIN.pdf",
+                  "fileid": 423057,
+                  "mime_type": "application\/pdf",
+                  "filesize": 349015,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/423057",
+                  "objectid": 157688
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157688",
+            "eprintid": 36771,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36771",
+      "userid": 3253,
+      "pagerange": "78-94",
+      "referencetext": "H.M. Rasjidi, 1978. Qur-an dan Sain Modern. Jakarta: Bulan Bintang.\r\nM Quraish Shihab, 2003. Tafsir al-Mishab. Jakarta: Mizan. Volume 12.\r\nSupan Kususmamiharja dkk, 1976. Studi Islamica. Bogor: Institut Pertanian Bogor\r\nBaharuddin dan Moh. Makin, 2007. Pendidikan Humanistis Konsep Teori dan Aplikasi Praktis Dalam Dunia Pendidikan. Yogyakarta: Ar Ruz Media.\r\nM Quraish Shihab, 1998. Wawasan Al Qur`an; Tafsir Maudhu’i  Atas Pelbagai Persoalan Umat. Bandung: Mizan.\r\nMuhammad Hatta, 1980. Alam Pikiran Yunani. Jakarta: Tintamas.\r\nMuhammad Shofie  Akrabi, 2005. Pendidikan Agama Islam Untuk perguruan    tinggi. Lampung: Gunung Pesagi.\r\nNasruddin Razak, 1989. Dienul Islam. Bandung: PT.Alma’ arif.\r\nA. Muri Yusuf, 1986. Pengantar Ilmu Pendidikan. Jakarta: Ghalia Indonesia.\r\nJoesoef Sou’ayb, 1983. Agama-agama Besar di Dunia. Jakarta: Pustaka alhusna.\r\nIsmail Haqqi al- Buruswi, 1997. Tafsir Ruh Al-Bayan, juz 1, Beirut.\r\nH.M. Rasjidi, 1978. Qur-an dan Sain Modern, Jakarta: Bulan Bintang.\r\nM Quraish Shihab, 2003. Tafsir al-Mishab. Jakarta: Mizan.\r\nSupan Kususmamiharja dkk, 1976. Studi Islamica. Bogor: Institut Pertanian Bogor\r\nHamka, 2016. Dari Hati Ke Hati. Jakarta: Gema Insani.",
+      "title": "Manusia Menurut Konsep Al-Qur`an dan Sains",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 7,
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.uin-suska.ac.id\/index.php\/JNSI\/article\/view\/5198"
+        }
+      ],
+      "status_changed": "2021-11-14 12:16:46",
+      "id_number": "p-ISSN: 2620-4967 e-ISSN: 26205092",
+      "date": "2018-04-01",
+      "type": "article",
+      "divisions": [
+        "FKIP2"
+      ],
+      "publisher": "Program Studi Tadris IPA Fakultas Tarbiyah dan Keguruan Universitas Islam Negeri Sultan Syarif Kasim Riau",
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "given": "Eka  K",
+            "family": "Eka Kurniawati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nurhasanah Bahtiar",
+            "given": "Nurhasanah B"
+          }
+        }
+      ],
+      "corp_creators": [
+        "Bimbingan dan Konseling, Fakultas Keguruan dan Ilmu Pendidikan, Universitas Lampung",
+        "Fakultas Tarbiyah Universitas Islam Negeri Sultan Syarif Kasim Riau"
+      ],
+      "lastmod": "2021-11-14 12:16:46",
+      "datestamp": "2021-11-14 12:16:46",
+      "projects": [
+        "FKIP Universitas Lampung"
+      ],
+      "eprintid": 36771,
+      "date_type": "published",
+      "official_url": "http:\/\/ejournal.uin-suska.ac.id\/index.php\/JNSI\/article\/view\/5198",
+      "eprint_status": "archive",
+      "abstract": "Manusia dikaruniai Allah suatu kualitas keutamaan yang membedakan kualitas dirinya dengan makhluk lain. Dengan keutamaan itu manusia, berhak mendapatkan penghormatan dari pada makhluk lain. Pembicaraan-pembicaraan tentang manusia ini sangatlah memancing petanyaan “siapakah sebenarnya manusia itu? Dalam sejarah peradapan manusia dan perkembangan ilmu pengetahuan terdapat dua pemikiran yang berbeda tentang manusia, yakni pandangan-pandangan tentang konep manusia berdasarkan Al-Qur`an, yang intinya manusia itu ciptaan Allah Swt. dan pandangan-pandangan secara sains\r\nPenelitian ini menggunakan metode kwalitatif, merupakan suatu pendekatan dalam melakukan penelitian yang beroriantasi pada gejala-gejala yang bersifat alamiah dan bersifat naturalistik yang mendasar. Oleh sebab itu, penelitian semacam ini disebut dengan field study. Sumber data penelitian ini berupa Al Qur`an dan buku-buku Literatur yang berkaitan dengan sejarah perkembangan manusia. \r\nBerdasarkan pandangan Al-Qur`an, manusia adalah makhluk ciptaan Allah Swt. Yang selalu cenderung kepada kesempurnaan, keindahan, kemuliaan, kasih sayang, cinta, dan santun. Dalam diri kita sendiri akan terasa adanya kekuasaan Yang Maha Besar itu, pendukung, pemelihara, pendidik dan pengasuh. Itu semuanya benar ada walaupun zat-Nya tidak engkau lihat. Itu semua hanyalah sifat dari Dia, al-Maliku (Maharaja), al-quddus (Maha Suci), As-Salam (Keselamatan), al-Mukmin (yang memelihara Keamanan), al-Muhaimin (Yang mengasuh-Membelaimu), al- ‘Aziz (Maha Perkasa), al- Jabbar (Gagah), al- Mutakabbir (Yang Berhak Membanggakan Diri), dan lain-lain 99 sifat. Dan dalam pandangan sanis hanya memberatkan  pandangan pada satu segi saja, yakni menekankan persamaan dari pada sudut jasmaniah, dan mengabaikan segi perbedaan yang asasi pada sudut rohaniah. \r\nKata Kunci: Manusia, Al Qur`an dan Sains.",
+      "subjects": [
+        "L1"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "official_url": "https:\/\/www.taylorfrancis.com\/books\/e\/9781351217057",
+      "event_dates": "13-15 juli 2017",
+      "title": "ELT LEARNERS’ COMMUNICATION STRATEGIES IN EXCLUSIVE AND TASK-BASED LEARNING",
+      "abstract": "ABSTRACT: The present research was aimed to find out what and how communication strategies were used\r\nin a subject matter class at University of Lampung (henceforth UNILA). The research was held in English\r\nTeaching (ET) Media class where the participants were ELT learners in the sophomore year of UNILA’s English\r\nEducation study program. ET Media Class was, coincidentally, taught using two models of learning: EXCLUSIVE\r\nfor A sophomore class and Task-Based Learning for B sophomore class. The data were collected\r\nfrom observation and questionnaire. The observation data were recorded, transcribed, and coded using\r\nDornyei’s Taxonomy (1995) before they were interpreted how the strategies occurred distinctively in both\r\nclasses. The results indicate that ELT students learning subject matter at the University of Lampung produced\r\nseven types of communication strategies such as Message Abandonment, Topic Avoidance, Use of All-\r\nPurpose Words, Non-Linguistic Signals, Code Switching, and Appeal for Help, and Time Gaining. However,\r\nthe learners’ communication strategies were found to occur more frequently in the EXCLUSIVE learning\r\nmodel class rather than the other one. EXCLUSIVE learning model stimulated 8.83% more of communication\r\nstrategies than that of Task-Based Learning. Current research findings suggest an alternative learning model\r\napplicable in ELT classroom settings. This also predictably uncovers the likelihood of finding similar result\r\nwhen EXCLUSIVE learning model is applied in different classrooms.",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2018-06-28 08:18:26",
+      "eprint_status": "archive",
+      "event_location": "yogyakarta, Indonesia",
+      "date_type": "published",
+      "eprintid": 8183,
+      "event_title": "15th Asia TEFL and 64th TEFLIN International Conference on English Language Teaching",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8183",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 8183,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21213",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 81411,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-06-28 07:50:40",
+                  "hash_type": "MD5",
+                  "hash": "a3b92df931d0643a3bbcd10b4b4d27ca",
+                  "filename": "9781351217057_preview-2.pdf",
+                  "datasetid": "document",
+                  "filesize": 983451,
+                  "objectid": 21213,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81411"
+                }
+            ],
+            "main": "9781351217057_preview-2.pdf",
+            "docid": 21213
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21214",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-28 07:50:55",
+                  "hash": "8c10ce5caef8e7fd0885d03451a650a6",
+                  "filename": "Asia TEFL Full Paper_Budi Kadaryanto&Diah Utaminingsih.pdf",
+                  "fileid": 81413,
+                  "mime_type": "application\/pdf",
+                  "filesize": 554096,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81413",
+                  "objectid": 21214
+                }
+            ],
+            "docid": 21214,
+            "main": "Asia TEFL Full Paper_Budi Kadaryanto&Diah Utaminingsih.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 8183
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2018-06-28 08:18:26",
+      "pagerange": "49-56",
+      "lastmod": "2018-06-28 08:18:26",
+      "userid": 140,
+      "date": "2018-06-01",
+      "dir": "disk0\/00\/00\/81\/83",
+      "creators": [
+        {
+          "name": {
+            "family": "Kadaryanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Budi"
+          },
+          "id": "kadaryanto@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Diah",
+            "lineage": null,
+            "honourific": null,
+            "family": "Utaminingsih"
+          },
+          "id": "diahutaminingsih@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hantia Febiani",
+            "given": "Tyas"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FKIP2"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "eprintid": 21676,
+      "date_type": "published",
+      "status_changed": "2020-06-03 12:12:26",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Counseling services are a process of assistance in order to assist individuals to find their way to\r\ngoodness. The counselor as the organizer (subject) who provides assistance to the counselee in the form\r\nof counseling services, the gift is able to first bring himself first to goodness. The goodness is in relation\r\nto the people around, and their relationship with Allah SWT. To accompany counselees towards\r\ngoodness, counselors need to have good expectancy, so that they can bring counselee thinking toward\r\ngoodness. Good thinking skills, based on a good heart condition. Heart as the center of all elements of\r\nhuman beings. The heart must be maintained by various tips such as those delivered by Sunan Bonang\r\n(Islamic Ulama), namely; 1) reading the Qur'an and its meanings, 2) establishing night prayers\r\n(tahajjud) 3) gathering with pious people, 4) multiplying fasting 5) remembrance night.\r\nKeywords: Development, Human Resources, Education, Islam",
+      "title": "MENINGKATKAN KUALITAS MINDS-SKILL KONSELOR ISLAMI DENGAN MENJAGA KONDISI HATI",
+      "official_url": "https:\/\/jurnal.ar-raniry.ac.id\/index.php\/cobaBK\/",
+      "volume": 4,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FKIP2"
+      ],
+      "publication": "Jurnal Edukasi",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mahfud",
+            "honourific": null,
+            "given": "Ashari"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Utaminingsih",
+            "lineage": null,
+            "given": "Diah"
+          },
+          "id": "diahutaminingsih@yahoo.co.id"
+        }
+      ],
+      "issn": "2460-5794",
+      "dir": "disk0\/00\/02\/16\/76",
+      "date": "2018-07",
+      "lastmod": "2020-06-03 12:12:26",
+      "userid": 140,
+      "datestamp": "2020-06-03 12:12:26",
+      "pagerange": "124-135",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 21676,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 35063,
+            "main": "3344-10948-1-PB.pdf",
+            "files": [
+                {
+                  "objectid": 35063,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200634",
+                  "mime_type": "application\/pdf",
+                  "fileid": 200634,
+                  "filename": "3344-10948-1-PB.pdf",
+                  "hash": "ba6ddb494c1b9dc5bc28ec60357e7ac5",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-03 11:39:11",
+                  "datasetid": "document",
+                  "filesize": 766303
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35063"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21676",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28448",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42496",
+            "rev_number": 1,
+            "main": "IJET-13992 Well being.pdf",
+            "docid": 42496,
+            "files": [
+                {
+                  "mtime": "2021-03-17 10:44:36",
+                  "hash_type": "MD5",
+                  "hash": "4fdb014b832b771a035737762ae0a896",
+                  "filename": "IJET-13992 Well being.pdf",
+                  "fileid": 252744,
+                  "mime_type": "application\/pdf",
+                  "filesize": 146735,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252744",
+                  "objectid": 42496
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 28448,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Publisher of International Academic Journals",
+      "ispublished": "pub",
+      "number": 2.29,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "652-654",
+      "datestamp": "2021-03-18 02:50:19",
+      "lastmod": "2021-03-18 02:50:19",
+      "corp_creators": [
+        "Program Studi Bimbingan dan Konseling Jur IP FKIP Unila"
+      ],
+      "userid": 6154,
+      "dir": "disk0\/00\/02\/84\/48",
+      "date": 2018,
+      "issn": "227-524X",
+      "creators": [
+        {
+          "id": "muhammad.nurwahidin@fkip.unila.ac.id",
+          "name": {
+            "given": "Muhammad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nurwahidin"
+          }
+        }
+      ],
+      "publication": "International Journal of Engineering & Technology",
+      "divisions": [
+        "FKIP2"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 7,
+      "rev_number": 6,
+      "title": "Well-Being on Lecturer: Reviewed from Gratitude and\r\nReligiosity",
+      "official_url": "https:\/\/www.sciencepubco.com\/index.php\/IJET",
+      "abstract": "Lecturers are a noble and more promising job. Many young people want to become lecturers. Nevertheless, more and more demands in developing a lecturers career will have an impact on well-being of lecturers. The purpose of this research is to know the role of gratitude and religiosity towards well-being of lecturers. The sample for this research is 123 lecturers from several universities in Jakarta. Data collection tools used in this study is the psychological scale of the scale of gratitude, the scale of religiosity and scale well-being. Result in this research is there is relationship of gratitude and religiosity to well-being.",
+      "subjects": [
+        "B1"
+      ],
+      "status_changed": "2021-03-18 02:50:19",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 28448
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15716",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 787512,
+                  "fileid": 135234,
+                  "mime_type": "image\/jpeg",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-06 03:42:48",
+                  "filename": "undangan icope032.jpg",
+                  "hash": "775a8fbf112ab9a13981d3991b8d10f9",
+                  "objectid": 28834,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135234"
+                }
+            ],
+            "docid": 28834,
+            "main": "undangan icope032.jpg",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28834",
+            "rev_number": 1,
+            "format": "image",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15716,
+            "mime_type": "image\/jpeg",
+            "language": "en"
+          }
+      ],
+      "publisher": "Graha Ilmu",
+      "ispublished": "pub",
+      "datestamp": "2019-11-14 11:21:18",
+      "userid": 453,
+      "lastmod": "2019-11-14 11:21:18",
+      "pages": 92,
+      "dir": "disk0\/00\/01\/57\/16",
+      "date": 2018,
+      "creators": [
+        {
+          "name": {
+            "given": "yusmansyah",
+            "lineage": null,
+            "family": "yusmansyah",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Oktarina",
+            "honourific": null,
+            "given": "Yohana"
+          }
+        },
+        {
+          "name": {
+            "given": "Tika",
+            "honourific": null,
+            "family": "Febriyani",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP2"
+      ],
+      "type": "book",
+      "place_of_pub": "Yogyakarta",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "SOSIOANTROPOLOGI PENDIDIKAN",
+      "official_url": "http:\/\/grahailmu.id\/product\/sosioantropologi-pendidikan\/",
+      "subjects": [
+        "H1",
+        "HM"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/www.tokopedia.com\/pustakapelajar1\/buku-sosioantropologi-pendidikan-yusmansyah-graha-ilmu?trkid=f=Ca0000L000P0W0S0Sh,Co0Po0Fr0Cb0_src=search_page=1_ob=1000_q=sosioantropologi+pendidikan_bmexp=0_po=1_catid=4360_bmexp=0&whid=0"
+        }
+      ],
+      "status_changed": "2019-11-14 11:21:18",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "isbn": "978-602-262-902-3",
+      "eprintid": 15716
+    }
+]
+

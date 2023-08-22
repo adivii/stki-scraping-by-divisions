@@ -1,0 +1,88 @@
+[
+    {
+      "divisions": [
+        "FMIPA7"
+      ],
+      "funders": [
+        "University of Lampung, Goverment Lampung Province, Indonesia"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/64\/61",
+      "date": "2008-11-17",
+      "creators": [
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null,
+            "given": "Rudy T.M"
+          }
+        }
+      ],
+      "datestamp": "2018-02-28 08:24:29",
+      "lastmod": "2018-02-28 08:24:29",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "userid": 882,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6461",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6461,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 19403,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59829",
+                  "datasetid": "document",
+                  "filesize": 1938537,
+                  "mime_type": "application\/pdf",
+                  "fileid": 59829,
+                  "hash": "9948308bcf6f5e955f2148d5813cbf9d",
+                  "filename": "PROSIDING SATEK 2 THN 2008.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-09 09:26:58"
+                }
+            ],
+            "docid": 19403,
+            "main": "PROSIDING SATEK 2 THN 2008.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19403",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 6461,
+      "event_title": "Seminar Nasional Sains dan Teknologi-II",
+      "event_location": "Universitas Lampung",
+      "projects": [
+        "Peran Strategis Sains dan Teknologi Pasca 100 Tahun Kebangkitan Nasional"
+      ],
+      "abstract": "Acetylene conversion have been studied using 6% Fe2O3\/zeolite catalyst which was prepared by citric acid method. To examine its activity, the catalyst was operated on gas mix of argon and acetylene (ratio 4\/10, 50 ml-1) as a feed and at different low temperature (40 - 40oC) of reation.  The experimental results indicated the catalyst is active on acetylene conversion. Furthermore, FTIR analysis appeared to indicate that acetylene was absorbed on the catalytic surface during the reaction.",
+      "subjects": [
+        "QD"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-02-28 08:24:29",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "event_dates": "17-18",
+      "title": "Kajian Konversi Asetilen dengan Katalis  Fe2O3\/ Zeolit pada Temperatur Rendah"
+    }
+]
+

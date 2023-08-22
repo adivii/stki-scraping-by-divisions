@@ -1,0 +1,69 @@
+[
+    {
+      "userid": 63,
+      "lastmod": "2020-07-26 07:26:36",
+      "datestamp": "2020-07-26 07:26:36",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "Sertifikat HAKI Buku Ajar Manajemen Strategi Sektor Publik.pdf",
+            "docid": 37038,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 769463,
+                  "fileid": 214189,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-07-25 08:21:20",
+                  "hash_type": "MD5",
+                  "hash": "ef97b094d827ced76f9b178e944f1f95",
+                  "filename": "Sertifikat HAKI Buku Ajar Manajemen Strategi Sektor Publik.pdf",
+                  "objectid": 37038,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214189"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37038",
+            "rev_number": 1,
+            "eprintid": 23417,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23417",
+      "full_text_status": "public",
+      "type": "patent",
+      "divisions": [
+        "FISIP2"
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "Devi",
+            "lineage": null,
+            "family": "Yulianti",
+            "honourific": null
+          },
+          "id": "devi.yulianti@fisip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/34\/17",
+      "date": 20,
+      "id_number": 126916,
+      "status_changed": "2020-07-26 07:26:36",
+      "eprint_status": "archive",
+      "subjects": [
+        "H1"
+      ],
+      "title": "Sertifikat HAKI Buku Ajar Manajemen Strategi Sektor Publik",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 23417,
+      "date_type": "completed"
+    }
+]
+

@@ -1,0 +1,141 @@
+[
+    {
+      "dir": "disk0\/00\/00\/71\/49",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nurainy",
+            "given": "Fibra"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Koesoemawardani",
+            "honourific": null,
+            "given": "Dyah"
+          },
+          "id": null
+        },
+        {
+          "id": "novita.herdiana@fp.unila.ac.id",
+          "name": {
+            "family": "Herdiana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Novita"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Saragih",
+            "honourific": null,
+            "given": "Ivana Regina"
+          },
+          "id": null
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7149",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20146",
+            "docid": 20146,
+            "main": "ALGINATE ADDITION ON GEBLEK.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/65069",
+                  "objectid": 20146,
+                  "hash": "c00dcaa8f660e6cf4ecb58369f43dee6",
+                  "filename": "ALGINATE ADDITION ON GEBLEK.pdf",
+                  "mtime": "2017-11-05 12:40:56",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 65069,
+                  "filesize": 154170,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 7149,
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "language": "en",
+            "mime_type": "text\/html",
+            "content": "published",
+            "eprintid": 7149,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20148",
+            "rev_number": 3,
+            "main": "view",
+            "docid": 20148,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 127939,
+                  "mime_type": "text\/html",
+                  "fileid": 65080,
+                  "hash": "abbdeae404e84f92eba9fab34ff61a99",
+                  "filename": "view",
+                  "mtime": "2018-06-11 04:11:01",
+                  "hash_type": "MD5",
+                  "objectid": 20148,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/65080"
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "pagerange": "336-346",
+      "userid": 961,
+      "isbn": "978-602-70050-4-4",
+      "rev_number": 7,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "title": "ALGINATE ADDITION ON GEBLEK",
+      "status_changed": "2018-06-21 02:29:41",
+      "date": "2017-12",
+      "pages": 479,
+      "id_number": "-",
+      "book_title": "Integrated Sci- tech",
+      "divisions": [
+        "FP16"
+      ],
+      "type": "book_section",
+      "series": "-",
+      "ispublished": "pub",
+      "number": "-",
+      "publisher": "Research Institute and Community Services University of lampung",
+      "datestamp": "2018-06-21 02:29:41",
+      "lastmod": "2018-06-21 02:29:41",
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "event_title": "IC STAR 2017",
+      "eprintid": 7149,
+      "event_type": "conference",
+      "place_of_pub": "Bandar lampung",
+      "official_url": "http:\/\/s.id\/icstar2017bc",
+      "event_dates": "18 September",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The objective of this research was to obtain the appropriate alginate addition to the best physical, chemical, and sensory characteristics of Geblek.  The experiment was arranged in a non-factorial Random Complete Block Design (RCBD) in four replications.  The treatment given on each replication was the alginate addition that consisted of six different levels, they were 0% (A0), 1% (A1), 2% (A2), 3% (A3), 4% (A4), dan 5% (A5) (w\/w). The data were evaluated by using The Smallest Real Difference Test (SRD) of 5%.  The results showed that the appropriate concentration of alginate addition was 1% with the following criteria texture was not tough; preferred by panelists based on texture, colour, and taste attributes; has a hardness value of 0.475 mm\/g\/dt; water content of 39.864%;oil absorption of 5.567%, fat contentof 3.905% protein of 5.849%, ash of 2.039%, and carbohydrate of 40.776%.\r\nKeywords: Alginate, Geblek, and quality of Geblek",
+      "eprint_status": "archive",
+      "succeeds": 4660
+    }
+]
+

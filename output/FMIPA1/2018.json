@@ -1,0 +1,3961 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 13320,
+      "metadata_visibility": "show",
+      "volume": 6,
+      "rev_number": 7,
+      "title": "Desain dan Realisasi Syringe Pump Menggunakan Motor Stepper Berbasis Arduino Sebagai Pengontrol Laju Aliran Fluida",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/",
+      "abstract": "In this reasearch, an automatic Syringe pump was created which aims to develop the manufacture of syringe pumps using Arduino-based stepper motors. The method used in this study to regulate the rotation of the stepper motor is a full step method, with the tools and materials used are 147HS4401 stepper motors, Arduino Uno, threaded iron, seven segment, keypad 4×4, and other tools supporting. The working principle of the syringe pump is to push the injection stem (pluger) whose speed has been adjusted to the value of the flow rate. The speed of the flow rate is obtained by adjusting the delay time of the stepper motor. Syringe pump that has been made works in the flow rate range from 0.1 to 12 ml \/ hour with a volume range of 0.1–12 ml. The test results of the flow rate value are verified by looking at the volume of fluid coming out using a 0.02 ml scale measuring cup and 0.5 ml. The results of the tests show that the syringe pump has a high level of accuracy of 95.56% with an error value of 4.44%, so the syringe pump has been successfully realized and can be used in the medical or research fields.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-08-01 07:23:54",
+      "id_number": 1353553260,
+      "date": "2018-07-15",
+      "dir": "disk0\/00\/01\/33\/20",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anggriani",
+            "given": "Rani"
+          },
+          "id": "ranianggriani1115@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Arif",
+            "lineage": null,
+            "family": "Surtono",
+            "honourific": null
+          },
+          "id": "arif.surtono@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi",
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "2303-016X",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13320",
+      "full_text_status": "public",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 13320,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "language": "id",
+            "content": "published",
+            "main": 1786,
+            "docid": 26321,
+            "files": [
+                {
+                  "filesize": 30333,
+                  "datasetid": "document",
+                  "mtime": "2019-05-28 03:29:50",
+                  "hash_type": "MD5",
+                  "hash": "265892b75f1f5cc0a060ba01184484c7",
+                  "filename": 1786,
+                  "fileid": 116715,
+                  "mime_type": "text\/html",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116715",
+                  "objectid": 26321
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26321",
+            "rev_number": 3
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2019-08-01 07:23:55",
+      "pagerange": "175-180",
+      "lastmod": "2019-08-01 07:23:55",
+      "userid": 419
+    },
+    {
+      "date_type": "published",
+      "eprintid": 10040,
+      "volume": 20,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Rancang-bangun Pengendali OnOff Nebulizer                       \r\nBerbasis Sensor Fotodioda, Komparator, dan Relay",
+      "official_url": "http:\/\/ejurnal.mipa.unsri.ac.id\/index.php\/jps\/article\/view\/493\/468",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Nebulizer compressor has been realized. It utilizes photodiode, LED, comparator, and relay as a \r\ncontrol on\/off nebulizer. It stops working if the sensor detect asthma drug liquid running out. Relay will work if\r\nit get input voltage 3 V (high) of comparator circuit which is used to control compressor. Reference voltage of\r\ncomparator is 2.98 V.",
+      "status_changed": "2018-11-16 03:02:01",
+      "eprint_status": "archive",
+      "date": "2018-01-01",
+      "dir": "disk0\/00\/01\/00\/40",
+      "publication": "Jurnal Penelitian Sains (JPS)",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Arta Bayti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Bonita"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Supriyanto",
+            "honourific": null,
+            "given": "Supriyanto"
+          },
+          "id": "r.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Surtono",
+            "lineage": null,
+            "given": "Arif"
+          }
+        }
+      ],
+      "issn": "2597-7059",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10040",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Faculty of Mathematic and Natural Science Sriwijaya University",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 10040,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23059",
+            "docid": 23059,
+            "main": "Rancang-bangun Pengendali OnOff Nebulizer_ArtaB_ArifS_AmirS.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-15 13:21:13",
+                  "hash": "34d2ac93c2346ade778cadf7720b2e58",
+                  "filename": "Rancang-bangun Pengendali OnOff Nebulizer_ArtaB_ArifS_AmirS.pdf",
+                  "fileid": 94293,
+                  "mime_type": "application\/pdf",
+                  "filesize": 473417,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/94293",
+                  "objectid": 23059
+                }
+            ]
+          }
+      ],
+      "datestamp": "2018-11-16 03:02:01",
+      "pagerange": "10-13",
+      "lastmod": "2018-11-16 03:02:01",
+      "userid": 387
+    },
+    {
+      "title": "Pengaruh Konsentrasi Ekstrak Kulit Buah Maja (Aegle\r\nMarmelos (l.) Corea) terhadap Laju Korosi Baja Karbon  \r\nAPI 5L pada Medium NaCl 3% dan H\r\n2\r\nSO\r\n4\r\n 3%",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 6,
+      "eprint_status": "archive",
+      "status_changed": "2019-05-16 03:37:34",
+      "abstract": "Abstract. A study has been conducted on the extract concentration effect of Maja Peel as an inhibitor of low\r\ncarbon API 5L in corrosive medium of NaCl 3% and H\r\n2\r\nSO\r\n4\r\n 3%. The soaking process of low carbon API 5L\r\nwas done for 35 days with variation of addition inhibitor concentrations at 0%, 0,4%, 0,5%, 0,6%, 0,7%, and\r\n0,8%. The testing of Corrosion rate is done by weight loss method. The results showed that the highest\r\ncorrosive rate in corrosive medium of NaCl 3% and H\r\n2\r\nSO\r\n4 \r\n3% was at 0% which is inhibitor concentration,\r\n0,06 x 10\r\n4\r\n mm\/y and 16,55 x 10\r\n4\r\n mm\/yconcentration. Meanwhile, the lowest corrosion rate at 0.8% inhibitor\r\nconcentration for corrosive medium ofNaCl 3% and 0.5%for H\r\n2\r\nSO\r\n4\r\n3% corrosive medium. Hence, the\r\ngreatest effectiveness of corrosion occurs at the concentration of 0.8% in a corrosive medium of NaCl 3%\r\nwith effectiveness of  85,71% and 0.5% in corrosive medium of H\r\n2\r\nSO\r\n4 \r\n3% with the effectiveness of 79.35%.\r\nThe characterization result of X-Ray Diffraction (XRD) shows that the phase formed is pure Fe.\r\nCharacterization of Scanning Electron Microscopy (SEM) showed uneven clusters and smaller sizes, holes\r\nand cracks also with less than 0.8% inhibitors for corrosive medium of NaCl 3% and 0.5% for corrosive\r\nmedium of H\r\n2\r\nSO\r\n4\r\n3% compared with 0% inhibitor of maja peel extract on corrosive medium ofNaCl 3% and\r\nH\r\n2\r\nSO\r\n4 \r\n3%. Characterization of Energy Dispersive Spectroscopy (EDS) in samples with corrosive medium of\r\nH\r\n2\r\nSO\r\n4\r\n3% obtained the element S (Sulfate).\r\n\r\nKeywords: low carbon API 5L, the extract of maja peel, corrosion inhibitor, NaCl, and H\r\n2\r\n.",
+      "subjects": [
+        "QC"
+      ],
+      "eprintid": 12961,
+      "date_type": "published",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12961,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25945",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 25945,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114196",
+                  "datasetid": "document",
+                  "filesize": 892846,
+                  "mime_type": "application\/pdf",
+                  "fileid": 114196,
+                  "hash": "d9feb54b98a0b9a4ca408a1ca471a84e",
+                  "filename": "1837-4338-1-PB_3.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-16 03:00:55"
+                }
+            ],
+            "main": "1837-4338-1-PB_3.pdf",
+            "docid": 25945
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12961",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 633,
+      "lastmod": "2019-05-16 03:37:34",
+      "datestamp": "2019-05-16 03:37:34",
+      "creators": [
+        {
+          "name": {
+            "family": "Ginting",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ediman"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Karo Karo",
+            "honourific": null,
+            "given": "Pulung"
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/01\/29\/61",
+      "date": 2018,
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11470",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 11470,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24467",
+            "main": "1846-4349-1-PB_compressed.pdf",
+            "docid": 24467,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/104139",
+                  "objectid": 24467,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-01 03:16:34",
+                  "hash": "da8c916727c51c0258dd823fb8543c51",
+                  "filename": "1846-4349-1-PB_compressed.pdf",
+                  "fileid": 104139,
+                  "mime_type": "application\/pdf",
+                  "filesize": 132366,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2019-05-02 04:10:45",
+      "pagerange": "209-2017",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-05-02 04:10:45",
+      "userid": 1168,
+      "date": "2018-07",
+      "dir": "disk0\/00\/01\/14\/70",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Erika",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ginting"
+          }
+        },
+        {
+          "name": {
+            "given": "Posman",
+            "honourific": null,
+            "family": "Manurung",
+            "lineage": null
+          },
+          "id": "reip65@yahoo.com"
+        },
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "family": "Riyanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Agus"
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1846",
+      "title": "PENGARUH KONSENTRASI NaOH PADA EKSTRAK NANOSILIKA BERBASIS BATU APUNG",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "The investigation of effect NaOH in extracting nanosilika from pumice has been carried out. The aim of research is to study the effect of variation NaOH against the amount and chemical compositions of nanosilica extract results. The extraction process is carried out with NaOH, H2SO4 and HCl. Variations of NaOH used are 2.0 M, 2.5 M, 3.0 M, 3.5 M and 4.0 M. Pumice powder was calcined at 500°C for 4 hours and nanosilica powder was calcined at 800°C for 5.5 hours. Nanosilica was characterized by X-Ray Flouresence (XRF), X-Ray Diffractometer (XRD) and Transmission Electron Microscopy (TEM). The results of extraction increases with increasing of NaOH concentration. XRF analysis shows that the highest amorphous nanosilica was obtained in nanosilica of  NaOH 3.0 M. Difractogram XRD shows that pumice powder formed anorthite and albite phase and nanosilika 3.0 M NaOH has amorphous phase. Based on TEM result, the particle size of amorphous nanosilica NaOH 3.0 M is in the range of 8.8-19.5 nm and the average of particle size is (14.8 ± 3.07) nm",
+      "eprint_status": "archive",
+      "status_changed": "2019-05-02 04:10:45",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1846"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 11470
+    },
+    {
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "ANALISIS LAJU KOROSI ELEKTRODE BAHAN CuZn DENGAN METODE SACRIFICIAL ANODE PADA SISTEM ENERGI LISTRIK ALTERNATIF BERBASIS AIR LAUT",
+      "status_changed": "2019-05-14 02:03:04",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/"
+        }
+      ],
+      "dir": "disk0\/00\/01\/24\/86",
+      "publication": "Jurnal Teori dan Aplikasi",
+      "issn": "2303-016x",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Kamalia",
+            "honourific": null,
+            "given": "Latifah"
+          }
+        },
+        {
+          "id": "sri.wahyu@fmipa.unila.ac.id",
+          "name": {
+            "given": "SW",
+            "honourific": null,
+            "family": "Suciyati",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Gurum A. Pauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gurum A.Pauzi"
+          },
+          "id": null
+        }
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "full_text_status": "none",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12486",
+      "refereed": "TRUE",
+      "pagerange": "249-256",
+      "userid": 672,
+      "date_type": "published",
+      "eprintid": 12486,
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "In this study, the addition of aluminum (Al) and magnesium (Mg) at the zinc (Zn) electrode as the sacrifice anode in an alternative sea-based electrical energy system was carried out. The sacrifice anode method is used as a way to prevent the corrosion of Zn electrodes. There are 3 types of electrode treatments, namely Cu-Zn, Cu-ZnAl, and Cu-ZnMg. The tool is designed to have 20 cells arranged in series and given a load of 3 Watt LED lights. Tool testing is carried out for 72 hours with electrolyte replacement every 24 hours. The measurement results showed that the Cu-ZnMg electrode produced the highest power output compared to the Cu-Zn and Cu-ZnAl electrodes. The maximum value of power from the Cu-ZnMg electrode is 125.71 mW while the electrodes of Cu-Zn and Cu-ZnAl have maximum power values of 49.49 mW and 52.48 mW respectively. The value of the intensity of the light generated from the instrument shows that the greater the power released, the higher the intensity of light. The lowest corrosion rate was generated by the Cu-ZnMg electrode of 0.079 mm\/year after 72 hours of testing. This shows that the addition of sacrificial anode metal with a higher potential electrode value can produce higher and longer electrical energy and a lower corrosion rate",
+      "eprint_status": "archive",
+      "date": "2018-07-01",
+      "id_number": "http:\/\/dx.doi.org\/10.23960%2Fjtaf.v6i2",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "datestamp": "2019-05-14 02:03:04",
+      "corp_creators": [
+        "universitas lampung"
+      ],
+      "lastmod": "2019-05-14 02:03:04"
+    },
+    {
+      "eprintid": 27079,
+      "isbn": 9789792963687,
+      "eprint_status": "archive",
+      "status_changed": "2020-12-10 08:27:20",
+      "subjects": [
+        "QC"
+      ],
+      "title": "Nanomaterial: Tinjauan Ilmu Masa Kini",
+      "official_url": "https:\/\/www.andipublisher.com\/",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "place_of_pub": "Yogyakarta",
+      "type": "book",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Manurung",
+            "honourific": null,
+            "given": "Posman"
+          },
+          "id": "reip65@yahoo.com"
+        }
+      ],
+      "dir": "disk0\/00\/02\/70\/79",
+      "date": "2018-03",
+      "pages": 210,
+      "lastmod": "2020-12-10 08:27:20",
+      "userid": 781,
+      "datestamp": "2020-12-10 08:27:20",
+      "ispublished": "pub",
+      "publisher": "Andi  Offset",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27079",
+      "full_text_status": "none",
+      "refereed": "TRUE"
+    },
+    {
+      "type": "conference_item",
+      "funders": [
+        "Ministry of Research, Technology and Higher Education of Republic of Indonesia",
+        "Universitaet der Bundeswehr Muenchen"
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "roniyus.1977@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Marjunus",
+            "given": "Roniyus"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/89\/84",
+      "date": "2018-09",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "userid": 905,
+      "lastmod": "2018-11-02 01:53:12",
+      "datestamp": "2018-11-02 01:53:12",
+      "ispublished": "submitted",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22244",
+            "rev_number": 1,
+            "docid": 22244,
+            "main": "Full-paper-Roniyus Marjunus.pdf",
+            "files": [
+                {
+                  "objectid": 22244,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/88298",
+                  "datasetid": "document",
+                  "filesize": 859787,
+                  "fileid": 88298,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-31 08:39:22",
+                  "hash": "5e79c417730713bf5e88b703092528d1",
+                  "filename": "Full-paper-Roniyus Marjunus.pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 8984,
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 8984,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22245",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 512783,
+                  "fileid": 88300,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-31 08:39:33",
+                  "hash": "22fcd512b32351794f253e16a700cfa4",
+                  "filename": "Presentation at ICASMI 2018.pdf",
+                  "objectid": 22245,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/88300"
+                }
+            ],
+            "main": "Presentation at ICASMI 2018.pdf",
+            "docid": 22245
+          },
+          {
+            "pos": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22246",
+            "rev_number": 1,
+            "docid": 22246,
+            "main": "SERTIFIKAT ICASMI 2018 SEBAGAI PRESENTER        470.pdf",
+            "files": [
+                {
+                  "objectid": 22246,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/88302",
+                  "datasetid": "document",
+                  "filesize": 235877,
+                  "fileid": 88302,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-31 08:39:45",
+                  "hash": "970b0b5cffd43c0cd34321bc43be49da",
+                  "filename": "SERTIFIKAT ICASMI 2018 SEBAGAI PRESENTER        470.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 8984,
+            "placement": 3,
+            "security": "public"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8984",
+      "refereed": "FALSE",
+      "event_title": "The 2nd International Conference on Applied Sciences Mathematics and Informatics",
+      "eprintid": 8984,
+      "date_type": "submitted",
+      "event_location": "Hotel Horison, Bandar Lampung, Indonesia",
+      "status_changed": "2018-11-02 01:53:12",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "It has been proved that Pt80Au14Ti6 can give proper signals as a CO sensitive layer in air at room temperature. Unfortunately, there is no signal anymore from this sample, if it is kept in air more than 24 hours.  To find the way how to refresh the samples, etching the samples in dry etching technic solves this problem. The atmosphere testing also has been done in technic etcher chamber by keeping the samples separately in Ar, N2, CO, and O2 with pressure 1 atm for 24 hours without taking out the samples after etching process from the chamber. These experiments found that oxygen causes this loss signal problem. Based on some scientific reports, oxygen can diffuse up to 170 Angstrom under the Pt surface to be subsurface oxygen. This diffusion changes the surface structure of Pt(100)(1x1) to hex-Pt(100) which impacts the attenuating of the initial sticking coefficient of gases. Simulations which have been conducted in this research produced the attenuating factor, i.e., 1 − 0.00585 exp (5.76664Osub), where Osub is the concentration of subsurface oxygen.\r\n\r\nKeywords: initial, sticking, coefficient, attenuation, gas",
+      "event_dates": "9-11 Agustus 2018",
+      "title": "Initial Sticking Coefficient Attenuation of Gases in Carbon Monoxide Sensing on Pt80Au14Ti6",
+      "event_type": "conference",
+      "rev_number": 10,
+      "metadata_visibility": "show"
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pandiangan",
+            "lineage": null,
+            "given": "Kamisah Delilawati"
+          },
+          "id": "kamisahdelilawati@yahoo.com"
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "given": "Wasinton",
+            "family": "Simanjuntak",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Heri",
+            "honourific": null,
+            "family": "Satria",
+            "lineage": null
+          },
+          "id": "heri.satria@fmipa.unila.ac.id"
+        },
+        {
+          "id": "ilim@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Ilim",
+            "honourific": null,
+            "given": "Ilim"
+          }
+        },
+        {
+          "name": {
+            "given": "Aspita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Laila"
+          },
+          "id": null
+        }
+      ],
+      "date": "2018-11-13",
+      "dir": "disk0\/00\/01\/22\/78",
+      "lastmod": "2019-05-09 08:24:21",
+      "userid": 761,
+      "datestamp": "2019-05-09 08:24:21",
+      "ispublished": "unpub",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "docid": 25256,
+            "main": "BukitRandu-kamisah.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-09 06:58:14",
+                  "filename": "BukitRandu-kamisah.pdf",
+                  "hash": "c9dff996d8799a2ffa41ac17a477c911",
+                  "fileid": 109538,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1306412,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/109538",
+                  "objectid": 25256
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25256",
+            "rev_number": 1,
+            "eprintid": 12278,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12278",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "event_title": "Seminar Nasional Hasil-Hasil Pengabdian Kepada Masyarakat 2018",
+      "eprintid": 12278,
+      "event_location": "Hotel Bukit Randu Bandar Lampung",
+      "eprint_status": "archive",
+      "status_changed": "2019-05-09 08:24:21",
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "Dalam penelitian ini telah dilakukan sintesis CaO\/SiO2 menggunakan batu kapur (CaCO) dan silika sekam padi. CaO\/SiO2 disintesis dengan menvariasikan komposisi CaO terhadap silika yakni 5, 10, 15, 20, dan 25%. Sintesis dilakukan dengan metode sol gel dengan cara menambahkan sejumlah padatan CaCO2 yang telah terlebih dahulu dilarutkan dalam HNO3 10% hingga diperoleh komposisi CaO\/SiO2 yang bervariasi. Selanjutnya masing-masing CaO\/SiO2 dikalsinasi pada pada suhu 600 °C selama 6 jam. Untuk mengetahui aktivitas CaO\/SiO2 sebagai katalis, kelima sampel diujikan dalam reaksi transesterifikasi minyak kelapa dengan metanol. Hasil penelitian mengindikasikan bahwa kelima sampel CaO\/SiO2 mampu mengkonversi minyak kelapa menjadi campuran metil ester dan unjuk kerja terbaik ditunjukkan oleh katalis dengan kandungan CaO 25%, dengan tingkat konversi sebesar 93,1%. Selanjutnya katalis terbaik ini digunakan untuk mempelajari variabel reaksi yang dapat mempengaruhi tingkat konversi minyak kelapa. Kondisi optimum transesterifikasi adalah menggunakan perbandingan metanol terhadap minyak yakni 4:1, dengan jumlah katalis sebanyak 5% yang dilakukan selama 60 menit. Analisis GC-MS menunjukkan produk reaksi terdiri dari campuran metil ester yang sesuai dengan kandungan asam lemak dalam minyak kelapa dan komponen utamanya adalah metil laurat.",
+      "event_dates": "Rabu, 14 November 2018",
+      "title": "SINTESIS CaO\/SiO\r\n2\r\n DENGAN METODE SOL GEL DAN APLIKASINYA SEBAGAI KATALIS\r\nREAKSI TRANSESTERIFIKASI MINYAK KELAPA",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show"
+    },
+    {
+      "eprintid": 11204,
+      "date_type": "published",
+      "title": "Desain dan Realisasi Akumulator Elektrolit Air Laut dengan Penambahan Sodium Bicarbonate (NaHCO3) sebagai Sumber Energi Alternatif",
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/jf\/article\/view\/16982",
+      "volume": 8,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2019-04-29 08:13:21",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Research on the electrical characteristics of electrochemical cells with electrolyte of seawater with the addition of NaHCO\r\n using Cu-Zn electrodes was carried out. This electrochemical system is designed to be able to replace electrolyte sea water without making electrodes used directly exposed to air. Measurements of electrical characteristics include voltage, current, and power, and luminance produced by 1.2 watt LED loads. This study compared the electrical characteristics of electrochemical cells with and without the\r\naddition of NaHCO3. Measurements are carried out for 5 days (120 hours) with electrolyte replacement every 24 hours. The results showed that the electrochemical system with the addition of NaHCO3 was able to turn on the LED for longer (5 days) compared to without the addition of NaHCO3 which was only able to turn on the LED for 3 days. The corrosion rate on Cu-Zn electrodes without the addition of NaHCO3 the longer it is used the greater, whereas with the addition of NaHCO  there is no corrosion.",
+      "publication": "Jurnal Fisika",
+      "issn": "2088-1509",
+      "creators": [
+        {
+          "name": {
+            "family": "Pauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gurum Ahmad"
+          },
+          "id": "gurum.ahmadpauzi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Randha Kentama",
+            "family": "Arwaditha",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Amir",
+            "family": "Supriyanto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "sri.wahyu@fmipa.unila.ac.id",
+          "name": {
+            "given": "SW",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suciyati"
+          }
+        },
+        {
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "family": "Surtono",
+            "lineage": null
+          },
+          "id": "arif.surtono@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito",
+            "given": "Warsito"
+          }
+        }
+      ],
+      "date": "2018-11-29",
+      "dir": "disk0\/00\/01\/12\/04",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 11204,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24204",
+            "main": "16982-41853-1-PB.pdf",
+            "docid": 24204,
+            "files": [
+                {
+                  "objectid": 24204,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/102270",
+                  "mime_type": "application\/pdf",
+                  "fileid": 102270,
+                  "filename": "16982-41853-1-PB.pdf",
+                  "hash": "04034b01d4fc090b4718d29782ce09b7",
+                  "mtime": "2019-04-18 06:41:52",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 504548
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurusan Fisika Universitas Negeri Semarang",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11204",
+      "refereed": "TRUE",
+      "userid": 387,
+      "lastmod": "2019-04-29 08:13:21",
+      "pagerange": "78-85",
+      "datestamp": "2019-04-29 08:13:21"
+    },
+    {
+      "eprintid": 9639,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2018-11-09 03:21:56",
+      "abstract": "The electrical characterization research of electrochemical cell based seawater by using electroplating Cu-Zn electrode with Ag (Cu (Ag)-Zn) has been done. Measurement data is performed to determine the voltage at no load and with the 12 V 3W LED and lumination load. The measurement results were compared with electrochemical cells using Cu-Zn Electrodes without electroplating. Sea water that has been used has a salinity level of 3.5% which has three times the screening process. Measurement data has been taken every hour for 72 hours by refilling sea water every 24 hours. The average voltage drop for electrodes without electroplating is 0.03%, whereas for electrodes with electroplating is 0.01%. The lumination difference is up to 72 hours which is 4 times brighter than Cu-Zn without electroplating process.",
+      "subjects": [
+        "QC"
+      ],
+      "referencetext": "[1]\tM. S. El-Sebaey, S. El-Din, M. Habib, and A. El-Hanafy, “An Experimental Study on a New Design of Double Slope Solar Still with External Flatted and Internal Parabolic Reflectors,” IOSR J. Mech. Civ. Eng., vol. 9, no. 6, pp. 40–54, 2013.\r\n[2]\tS. Barstow and A. Kabuth, “Assessing the global wave energy potential,” Proc. OMAE2010 29th, no. 2008, 2010.\r\n[3]\tG. A. Pauzi, E. Hudaya, A. Supriyanto, Warsito., and A. Surtono, “Analisis Karakteristik Elektrik Air Laut Sebagai Sumber Energi Listrik Terbarukan,” SN SMIAP Proceeding 2016, vol. 4, pp. 1–8, 2016.\r\n[4]\tG. A. Pauzi, A. Sa, D. Rahmayanti, N. Em, J. Prof, S. Brojonegoro, and N. Bandar, “Perhitungan Laju Korosi di dalam Larutan Air Laut dan Air Garam 3 % pada Paku dan Besi ASTM A36,” J. Ilm. Penelit. dan Pembelajaran Fis., vol. 1, no. 1, 2015.\r\n[5]\tL. Chen, H. J. A, L. Xu, and G. Lu, “Electrochemical Recovery of Copper from Spent Alkaline Etching Solutions,” Conf. Pap. Recycl. Waste treaIment Miner. Met. Prooesstng Tech. Econ. Asp. 16-20 June 2002 sweden, vol. 43, pp. 1–2, 2002.\r\n[6]\tL. Chen, H. Jing, L. Xu, and G. Lu, “Study on Non-Cyanide Silver Electroplating With Copper Substrate,” Adv. Mater. Res., pp. 2936–2939, 2012.\r\n[7]\tC. Cheng, T. Arunagiri, and O. Chyan, “Electrodeposition of Silver and Copper \/ Silver Multilayer on Ruthenium Substrate as a Potential New Metal Interconnect for Integrated Circuits,” Am. J. Undergrad. Res., vol. 2, no. 1, pp. 11–18, 2003.\r\n[8]\tX. M. Liu, S. L. Wu, P. K. Chu, C. Y. Chung, J. Zheng, and S. L. Li, “Effects of coating process on the characteristics of Ag – SnO 2 contact materials,” Elsevier J. Mater. Chem. Phys. 98 477–480, vol. 98, pp. 477–480, 2006.",
+      "title": "Improvement of Electrical Characteristics of Electrochemical Cells made from Sea Water Using Electroplating Method of Cu (Ag)-Zn Electrode as Renewable Energy Source",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 2,
+      "type": "article",
+      "contact_email": "gurum.ahmadpauzi@fmipa.unila.ac.id",
+      "keywords": "Sea Water, Electrochemical Cells, Cu (Ag) -Zn, Cu-Zn, electroplating",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "gurum.ahmadpauzi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Gurum Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pauzi"
+          }
+        },
+        {
+          "id": "ketrin.chintia@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Riski",
+            "honourific": null,
+            "given": "Ketrin Chintia"
+          }
+        },
+        {
+          "name": {
+            "family": "Suciyati",
+            "honourific": null,
+            "lineage": null,
+            "given": "SW"
+          },
+          "id": "sri.wahyu@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "family": "Surtono",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Supriyanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amir"
+          },
+          "id": "amir.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito"
+          }
+        }
+      ],
+      "publication": "The 2nd International Conference on Applied Sciences Mathematics and Informatics",
+      "dir": "disk0\/00\/00\/96\/39",
+      "date": "2018-08-09",
+      "lastmod": "2018-11-09 03:21:56",
+      "userid": 434,
+      "datestamp": "2018-11-09 03:21:56",
+      "documents": [
+          {
+            "eprintid": 9639,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "icasmi2018Gurum.pdf",
+            "docid": 22663,
+            "files": [
+                {
+                  "mtime": "2018-11-08 15:50:33",
+                  "hash_type": "MD5",
+                  "hash": "6596d1d7962390f50d76b82067c2e23b",
+                  "filename": "icasmi2018Gurum.pdf",
+                  "fileid": 91443,
+                  "mime_type": "application\/pdf",
+                  "filesize": 300376,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/91443",
+                  "objectid": 22663
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22663"
+          }
+      ],
+      "number": 1,
+      "ispublished": "submitted",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CLL"
+        }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9639",
+      "full_text_status": "public"
+    },
+    {
+      "dir": "disk0\/00\/01\/12\/93",
+      "publication": "Jurnal Fisika",
+      "issn": "p-issn 2088-1509",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Gurum Ahmad",
+            "lineage": null,
+            "family": "Pauzy",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arwaditha",
+            "honourific": null,
+            "given": "Randha Kentama"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Supriyanto",
+            "family": "Supriyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "r.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "SW",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suciyati"
+          },
+          "id": "sri.wahyu@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arif",
+            "family": "Surtono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arif.surtono@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Warsito",
+            "honourific": null,
+            "lineage": null,
+            "given": "Warsito"
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11293",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 11293,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24295",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/102873",
+                  "objectid": 24295,
+                  "hash_type": "MD5",
+                  "mtime": "2019-04-25 06:33:00",
+                  "filename": "16982-41853-1-PB.pdf",
+                  "hash": "7d8c903d22847baf93b198a94b43b86f",
+                  "fileid": 102873,
+                  "mime_type": "application\/pdf",
+                  "filesize": 503428,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 24295,
+            "main": "16982-41853-1-PB.pdf"
+          }
+      ],
+      "pagerange": "78-85",
+      "userid": 672,
+      "rev_number": 10,
+      "volume": 8,
+      "metadata_visibility": "show",
+      "title": "Desain dan Realisasi Akumulator Elektrolit Air Laut dengan Penambahan Sodium Bicarbonate (NaHCO) sebagai Sumber Energi Alternatif",
+      "status_changed": "2019-04-29 08:18:31",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/jf\/article\/viewFile\/16982\/8695",
+          "type": "pub"
+        }
+      ],
+      "date": "2018-11-29",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2019-04-29 08:18:31",
+      "corp_creators": [
+        "universitas lampung"
+      ],
+      "lastmod": "2019-04-29 08:18:31",
+      "projects": [
+        "LPPM unila"
+      ],
+      "date_type": "published",
+      "eprintid": 11293,
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/jf\/article\/viewFile\/16982\/8695",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Penelitian tentang karakteristik elektrik sel elektrokimia dengan elektrolit air laut dengan\r\npenambahan NaHCO menggunakan elektroda Cu-Zn telah dilakukan. Sistem elektrokimia ini dirancang agar dapat dilakukan penggantian elektrolit air laut tanpa membuat elektroda yang digunakan terpapar udara secara langsung. Pengukuran karakteristik elektrik  meliputi\r\ntegangan, arus, dan  daya, serta luminasi yang dihasilkan beban LED 1,2 watt. Penelitian ini\r\nmelakukan perbandingan karakteristik elektrik sel elektrokimia dengan dan dengan tanpa penambahan NaHCO3\r\n. Pengukuran dilakukan selama 5 hari (120 jam) dengan penggantian elektrolit setiap 24 jam. Hasil penelitian menunjukkan bahwa sistem elektrokimia  dengan penambahan NaHCO3 mampu menyalakan LED lebih lama (5 hari) dibandingkan dengan tanpa penambahan NaHCO3 yang hanya mampu menyalakan LED selama 3 hari. Laju korosi pada elektroda Cu-Zn tanpa penambahan NaHCO3 semakin lama digunakan semakin besar,\r\nsedangkan dengan penambahan NaHCO3 tidak terjadi korosi\r\n.",
+      "eprint_status": "archive"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 11469,
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1849",
+      "abstract": "The molecular dynamic analysis oflysozyme protein has been done using Gromacs application.\r\nLysozyme protein filled by water in the cubic form with variation of temperature was 300 K, 325 K, and 350\r\nK and calculatedpotential energy values used Lennard Jones equation. Structure protein on temperature was\r\n300 K showed that pressure value was 2,54 barand density value was 997,54 kg\/m3 then protein changed in\r\nunfolded state on ARG21-CA and SER81-CAamino acid chain with potential energy was 2992,14 kJ\/mol .\r\nStructure protein on temperature was 325 K showed that pressure value was 4,84 barand density value was\r\n974 kg\/m3 then protein changed in unfolded state on ASP101-CA and GLN121-CAamino acid chainwith\r\npotential energy was 2994,55 kJ\/mol.Structure protein on temperature was 350 K showed that pressure value\r\nwas 0,82 barand density value was 948,747 kg\/m3 then protein changed in unfolded state on ARG21-CA\r\namino acid chain and lost on GLN121-CA amino acid chainwith potential energy was 2994,55 kJ\/mol. Root\r\nMean Standard Deviation (RMSD) showed that the protein will be denaturated on temperature 350 K\r\ncaused bylost on GLN121-CA amino acid with distance was0.07 nm.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "date": "2018-07",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null,
+          "name": {
+            "given": "Harry",
+            "honourific": null,
+            "family": "Prayoga",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yanti",
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Riyanto",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "agus.riyanto@fmipa.unila.ac.id"
+        }
+      ],
+      "datestamp": "2019-05-02 04:07:58",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-05-02 04:07:58",
+      "metadata_visibility": "show",
+      "volume": 6,
+      "rev_number": 6,
+      "title": "Analisis Dinamika Molekul Protein Lysozyme Putih Telur\r\nDengan Model Potensial Lennard-Jones Menggunakan\r\nAplikasi Gromacs",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1849"
+        }
+      ],
+      "status_changed": "2019-05-02 04:07:58",
+      "dir": "disk0\/00\/01\/14\/69",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Prayoga",
+            "honourific": null,
+            "given": "Harry"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "yulianti",
+            "honourific": null,
+            "lineage": null,
+            "given": "yanti"
+          },
+          "id": null
+        },
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto"
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11469",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/104129",
+                  "objectid": 24466,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-01 02:52:43",
+                  "filename": "1849-4352-1-PB_compressed.pdf",
+                  "hash": "996cbdf793f5745cea825f8a3850d154",
+                  "fileid": 104129,
+                  "mime_type": "application\/pdf",
+                  "filesize": 225103,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "1849-4352-1-PB_compressed.pdf",
+            "docid": 24466,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24466",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 11469,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "239-247",
+      "userid": 1168
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Balai Penelitian Teknologi Mineral-LIPI"
+      ],
+      "lastmod": "2018-10-31 02:47:58",
+      "userid": 1167,
+      "datestamp": "2018-10-31 02:47:58",
+      "pagerange": "15-22",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/87731",
+                  "objectid": 22166,
+                  "filesize": 169391,
+                  "datasetid": "document",
+                  "filename": "4863-Article Text-12612-2-10-20180418_2.pdf",
+                  "hash": "f453870c3e36bb839218eac2c1378145",
+                  "mtime": "2018-10-30 03:39:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 87731
+                }
+            ],
+            "docid": 22166,
+            "main": "4863-Article Text-12612-2-10-20180418_2.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22166",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 9092,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Universitas Negeri Jakarta",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9092",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "leni.rumiyanti@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Rumiyanti",
+            "honourific": null,
+            "given": "Leni"
+          }
+        },
+        {
+          "id": "annisa.hokqi@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Irnanda",
+            "lineage": null,
+            "given": "Annisa"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Hendronursito",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yusup"
+          }
+        }
+      ],
+      "issn": "p-ISSN: 2541-3384; e-ISSN:2541-3392",
+      "publication": "Spektra: Jurnal Fisika dan Aplikasinya",
+      "dir": "disk0\/00\/00\/90\/92",
+      "date": "2018-04",
+      "status_changed": "2018-10-31 02:47:58",
+      "eprint_status": "archive",
+      "abstract": "Telah dilakukan penelitian yang bertujuan untuk mengetahui kualitas briket arang terbaik dan terburuk dari limbah pertanian berdasarkan kandungan proksimatnya. Limbah pertanian yang digunakan adalah sekam padi, ampas tebu, kulit singkong, tongkol jagung, dan batok kelapa. Metode penelitian yang digunakan adalah karbonisasi pirolisis pada suhu 700-800 oC selama 45 menit dan dianalisis proksimat dengan teknik yang sesuai Standar Nasional Indonesia (SNI) untuk pengujian kadar air lembab, abu, zat terbang, dan karbon tertambat. Hasil penelitian menunjukkan bahwa kualitas briket arang terbaik adalah kulit singkong karena memiliki kadar air dan abu terendah, yaitu 0,3833% dan 0,8452%. Sementara, kualitas briket arang terburuk adalah tongkol jagung karena memiliki kadar air tertinggi yaitu 2,412 % dan karbon tertambat terendah yaitu 71,442 %.",
+      "subjects": [
+        "QC"
+      ],
+      "official_url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/spektra\/article\/view\/4863",
+      "title": "ANALISIS PROKSIMAT PADA BRIKET ARANG LIMBAH PERTANIAN",
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 6,
+      "eprintid": 9092,
+      "date_type": "published"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10305",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 10305,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23300",
+            "rev_number": 1,
+            "docid": 23300,
+            "main": "Elly L. Rustiati-j.of   phys.2018(1).pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-19 03:12:00",
+                  "hash": "13cc92a63b5cdb9dd5d93718b8806f4b",
+                  "filename": "Elly L. Rustiati-j.of   phys.2018(1).pdf",
+                  "fileid": 96057,
+                  "mime_type": "application\/pdf",
+                  "filesize": 924743,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/96057",
+                  "objectid": 23300
+                }
+            ]
+          }
+      ],
+      "ispublished": "inpress",
+      "datestamp": "2018-11-19 04:16:54",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2018-11-19 04:16:54",
+      "userid": 496,
+      "date": 2018,
+      "dir": "disk0\/00\/01\/03\/05",
+      "creators": [
+        {
+          "name": {
+            "given": "Elly L.",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rustiati"
+          },
+          "id": "ely.jazdzyk@yahoo.com"
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "Junaidi",
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Priyambodo",
+            "given": "Priyambodo"
+          }
+        },
+        {
+          "name": {
+            "given": "Erdi",
+            "family": "Suroso",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "erdi.suroso@fp.unila.ac.id"
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono",
+            "given": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "yulianti",
+            "honourific": null,
+            "given": "yanti"
+          },
+          "id": null
+        }
+      ],
+      "publication": "International Journal of Ecophusiology (IJEb)",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Indirect approach on human-wildlife conflict mitigation:  \r\npotential local landscape based ecotourism in Margahayu, Labuhan Ratu VII",
+      "abstract": "Konflik masyarakat desa penyangga dan satwa liar di perbatasan Taman Nasional Way Kambas\r\nmasih berlangsung dan memberikan dampak kerugian baik sosial maupun ekonomi.\r\nPenggalian potensi ekowisata berbasis bentang desa bagi pengembangan ekonomi kreatif\r\nmelalui kegiatan ekowisata di Margahayu, Labuhan Ratu VII, Lampung Timur, telah\r\ndilaksanakan dalam rangka upaya mitigasi konflik manusia dengan satwa.  Kesadaran\r\nmasyarakat dalam kegiatan wisata mempunyai potensi peranan tinggi dalam mendukung\r\npengembangan  pemberdayaan ekonomi masyarakat desa penyangga melalui ekowisata\r\nberbasis bentang desa.  Selain rumah konservasi, potensi jalur wisata tracking, edukasi\r\nkeragaman tanaman,  jalur aktif gajah liar, dan kegiatan ekonomi masyarakat seperti kebun\r\njeruk dan kolam ikan dapat menjadi bagian dari tujuan ekowisata. Penandaan dilakukan dengan\r\npemasangan papan nama.  \r\n \r\nKata kunci: Ekowisata berbasis bentang desa, konflik manusia-satwa, Margahayu, Labuhan \r\nRatu 7, Taman Nasional Way Kambas",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2018-11-19 04:16:54",
+      "eprint_status": "archive",
+      "eprintid": 10305
+    },
+    {
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 7397,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20447",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/66762",
+                  "objectid": 20447,
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-21 01:28:41",
+                  "filename": "sri wahyu suciyati-5725-Article Text-12776-1-10-20180425.pdf",
+                  "hash": "1e00ef306cca232904cf7ae9111547fc",
+                  "fileid": 66762,
+                  "mime_type": "application\/pdf",
+                  "filesize": 316589,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 20447,
+            "main": "sri wahyu suciyati-5725-Article Text-12776-1-10-20180425.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7397",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 672,
+      "pagerange": "47-55",
+      "publication": "Spektra: Jurnal Fisika dan Aplikasinya",
+      "issn": "p-ISSN: 2541-3384; e-ISSN:2541-3392",
+      "creators": [
+        {
+          "id": "sri.wahyu@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "SW Suciyati",
+            "lineage": null,
+            "given": "SW suciyati"
+          }
+        },
+        {
+          "name": {
+            "family": "Amir S",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amir S"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Arif S",
+            "family": "Arif S",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Gurum AP",
+            "honourific": null,
+            "given": "Gurum AP"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/73\/97",
+      "contact_email": "sri.wahyu@fmipa.unila.ac.id",
+      "funders": [
+        "LPPM Universitas Lampung melalui Fak. MIPA"
+      ],
+      "keywords": "electrolyte, brackish water, electrode cell, LED intensity",
+      "title": "KARAKTERISASI KELISTRIKAN AIR PAYAU DAN\r\nAIR SUNGAI SEBAGAI BAHAN ELEKTROLIT",
+      "referencetext": "[1] G.Q. Chen and X.F. Wu, “Energy overview for globalized world economy: Source, supply\r\nchain and sink”. Renewable and Sustainable Energy Reviews, pp 735–749, 2016. \r\n[2] Kementrian Energi dan Sumber Daya Mineral, Materi Paparan Kementrian Energi dan\r\nSumber Daya Mineral Rapat Koordinasi Infrastruktur Ketenagalistrikan. Jakarta.\r\nKementrian Energi dan Sumber Daya Mineral, 2015. \r\n[3] A. Kadir. Energi  Sumber Daya,  Inovasi, Tenaga  Listrik  dan  Potensi  Ekonomi,  Edisi\r\nKedua, Universitas  Indonesia, Jakarta, 1995 \r\n[4] Fariya, Siti dan Sri Rejeki, “SEACELL (Sea Water Electrochemical Cell) Pemanfaatan Air\r\nLaut Menjadi Cadangan Sumber Energi Listrik Terbarukan Sebagai Penerangan Pada\r\nSampan”, Jurnal Sains dan Teknologi Instititut Teknologi Sepuluh November, 2015 \r\n[5] G.A. Pauzi, Encep Hudaya, Amir Supriyanto, Warsito, “Analisis Uji Karakteristik Elektrik\r\nAir Laut sebagai Sumber Energi Listrik Terbarukan”, Proseding SN SMIAP 2016,\r\nUniversitas Lampung, 2016 \r\n[6] G.A. Pauzi, Jovizal Aristian, Amir Supriyanto, SW Suciyati, “Desain dan Aplikasi Sistem\r\nElektrolit Air Laut Sebagai Sumber Energi Alternatif Berkelanjutan (Sustainable Energi)”,\r\nJurnal Teori dan Aplikasi Fisika 05 (1), Januari Tahun 2017 \r\n[7] G.A. Pauzi, Ayu S.A., Dita Rahmayani., Nindi E.M., “Perhitungan Laju Korosi di dalam Air\r\nLaut dan Air garam 3% pada paku dan Besi ASTM 36”, Jurnal Ilmiah Penelitian dan\r\nPembelajaran Fisika (Gravity), Jurusan Fisika FKIP Universitas Sultan Ageng Tirtayasa\r\n2015 \r\n[8] Palapessy, Victor Rizal, Juliana Anggono, dan Soejono Tjitro. Studi Perbandingan Kinerja\r\nAnoda Karbon Paduan Aluminium dengan Paduan Seng dalam Lingkungan Air Laut. Jurnal\r\nTeknik Mesin Universitas Kristen Petra. 89-99, 1995. \r\n[9] Anderson, MA., A Cudero and J Palma., “Capasitive deionization (CDI) as an\r\nelectrochemical means of saving energi and delivering clean water”, Electrochimica Acta 55,\r\n3845-3856, 2010 \r\n[10] Sudhakar, K, R. Ananthakrishnan, A. Goyal, and H. K. Darji. “A Novel Design Of MultiChambered\r\n\r\nBiomass Battery”. International Journal of Renewable Energi Development\r\n(IJRED,.pp. 31-34, 2013. \r\n[11] Tebbutt, T.H.Y. Organic Geochemistry of Natural Waters. MrtinusNijhoff\/Dr.W.Junk. Publ,\r\nDordrecht, The Netherlands. 1992.",
+      "volume": 3,
+      "rev_number": 20,
+      "metadata_visibility": "show",
+      "status_changed": "2018-06-21 02:01:14",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Universitas Negeri Jakarta",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2018-06-21 02:01:14",
+      "datestamp": "2018-06-21 02:01:14",
+      "date": "2018-04-01",
+      "id_number": "5752-Article text-12776-1-10-20180425",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "official_url": "http:\/\/doi.org\/10.21009\/SPEKTRA",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Brackish water and river water have the potential as an alternative renewable energy source. Their \r\nelectrical studies have been successfully conducted using the electrochemical principle of voltaic cells,\r\nby making electrode pairs arranged in series in 20 rectangular squares. Electrodes used are copper (Cu),\r\nand zinc (Zn), while as an electrolyte is some brackish water and river water. The characteristic of the\r\nelectrolyte material is known by measuring the voltage and current flowing on the LED (1.2 watt) placed\r\non the electrode cell circuit. Taking measurement data is done for three days with 2 hour interval. The\r\nresults of measurement and analysis for Cu-Zn electrode combinations have shown that brackish water\r\nhas greater electrical power than river water, with a ratio of 12.008: 5.84 (day one) and 1.752: 0.572\r\n(third day). This value also shows that brackish water as electrolyte solution has been able to produce\r\nenergy to turn on the LED for 72 hours with an average value of LED intensity of 322.8 lux",
+      "projects": [
+        "DIPA Fakultas"
+      ],
+      "eprintid": 7397,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 12963,
+      "date_type": "published",
+      "title": "Efektivitas Ekstrak Daun Pepaya (Carica papaya l) sebagai\r\nInhibitor pada Baja ST37 dalam Medium Korosif  \r\nNaCl 3% dengan Variasi Waktu Perendaman",
+      "rev_number": 6,
+      "volume": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2019-05-16 03:37:40",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Abstract.This research aims to determine the effectiveness of papaya leaf extract (carica papaya l) as \r\ninhibitor on st37 steel in corrosive medium nacl 3 %. To find out the corrosion rate resulted by weight\r\nreduction method. To know the phase formed on steel is done XRD analysis. While, to know the micro\r\nstructure and corrosion products produced on steel after soaked in corrosive medium with inhibitor and\r\nwithout inhibitor papaya leaf extract, SEM and EDS analysis were performed. Based on the results of XRD\r\nanalysis, SEM and EDS with the addition of inhibitors of the diffraction peaks decreased, and the corroded\r\nsurface area decreased, and the reduction of FeO content in the sample wass less. From the three analyzes\r\nand calculation of corrosion rate obtained that inhibitor papaya leaf extract, effectively inhibiting the\r\ncorrosion rate on St37 Steel.\r\n\r\nKey words. Steel St37, corrosion inhibitor, NaClandcarica papaya l leaves extract.",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Ramon",
+            "honourific": null,
+            "family": "Sanjaya",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ediman",
+            "family": "Ginting",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "arfi2208@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto",
+            "given": "Agus"
+          }
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/01\/29\/63",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25946",
+            "rev_number": 1,
+            "main": "1839-4340-1-PB_4.pdf",
+            "docid": 25946,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 699516,
+                  "fileid": 114203,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-05-16 03:03:42",
+                  "hash_type": "MD5",
+                  "filename": "1839-4340-1-PB_4.pdf",
+                  "hash": "554ec8e8289ea7ff4f93aeb24e2d2571",
+                  "objectid": 25946,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114203"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 12963,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12963",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-05-16 03:37:40",
+      "userid": 633,
+      "datestamp": "2019-05-16 03:37:40"
+    },
+    {
+      "date": "2018-07",
+      "dir": "disk0\/00\/01\/14\/72",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sanjaya",
+            "lineage": null,
+            "given": "Ramon"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ediman",
+            "lineage": null,
+            "family": "Ginting",
+            "honourific": null
+          }
+        },
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "family": "Riyanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11472",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24469",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 339576,
+                  "mime_type": "application\/pdf",
+                  "fileid": 104149,
+                  "filename": "1839-4340-1-PB_compressed.pdf",
+                  "hash": "aad01e4ed953ee1222fbcfd075298f6a",
+                  "mtime": "2019-05-01 03:41:07",
+                  "hash_type": "MD5",
+                  "objectid": 24469,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/104149"
+                }
+            ],
+            "main": "1839-4340-1-PB_compressed.pdf",
+            "docid": 24469,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 11472
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "datestamp": "2019-05-02 04:10:45",
+      "pagerange": "167-173",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1168,
+      "lastmod": "2019-05-02 04:10:45",
+      "date_type": "published",
+      "eprintid": 11472,
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Efektivitas Ekstrak Daun Pepaya (Carica papaya l) sebagai Inhibitor pada Baja ST37 dalam Medium Korosif  NaCl 3% dengan Variasi Waktu Perendaman",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1839",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "This research aims to determine the effectiveness of papaya leaf extract (carica papaya l) as  inhibitor on st37 steel in corrosive medium nacl 3 %. To find out the corrosion rate resulted by weight reduction method. To know the phase formed on steel is done XRD analysis. While, to know the micro structure and corrosion products produced on steel after soaked in corrosive medium with inhibitor and without inhibitor papaya leaf extract, SEM and EDS analysis were performed. Based on the results of XRD analysis, SEM and EDS with the addition of inhibitors of the diffraction peaks decreased, and the corroded surface area decreased, and the reduction of FeO content in the sample wass less. From the three analyzes and calculation of corrosion rate obtained that inhibitor papaya leaf extract, effectively inhibiting the corrosion rate on St37 Steel.",
+      "eprint_status": "archive",
+      "status_changed": "2019-05-02 04:10:45",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1839"
+        }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 7471,
+      "projects": [
+        "Hibah Competence Research Grant Batch II No: 382\/ UN26.21\/KU\/2017 Program in 2017."
+      ],
+      "subjects": [
+        "QC",
+        "QD"
+      ],
+      "abstract": "This study describes the structural and physical properties of refractory cordierite prepared from rice husk silica, which is sintered at a temperature of 1230°C and followed by the addition of periclace (MgO) from 5 to 30 % by weight. The phases formed and structure changes as a result of periclace addition were investigated using different characterization technique of X-ray diffraction (XRD) coupled with Rietveld analysis, and scanning electron microscopy (SEM). Density, porosity, hardness, bending strength and coefficient of thermal expansion are also measured.\r\nThe results obtained revealed that the addition of periclace of 10 to 30 % promoted the transformation of the cordierite to the forsterite and spinel, and the cordierite is practically undetectable. Addition of periclace was found to increase forsterite and decrease spinel. The presence of forsterite and spinel resulted in increased of density, hardness, bending strength, and thermal expansion coefficient, as well as decreased porosity. The coefficient of thermal expansion of the samples with the addition of 10-30 % periclace reach the relatively constant value of 8.2 × 10-6 °C, with the main crystalline phase is forsterite, followed by spinel in smaller quantities.",
+      "eprint_status": "archive",
+      "official_url": "http:\/\/www.ceramics-silikaty.cz\/index.php?page=cs_detail_doi&id=1209",
+      "divisions": [
+        "FMIPA1",
+        "FMIPA4"
+      ],
+      "type": "article",
+      "date": "2018-02-21",
+      "datestamp": "2018-06-22 03:51:30",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2018-06-22 03:51:30",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring",
+            "given": "Simon"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "family": "Simanjuntak",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wasinton"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null,
+            "given": "Rudi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto",
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Junaidi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Institute of Rock Structure and Mechanics AS CR, v.v.i. & University of Chemistry and Technology, Prague",
+      "status_changed": "2018-06-22 03:51:30",
+      "related_url": [
+        {
+          "url": "http:\/\/www.ceramics-silikaty.cz\/index.php?page=cs_detail_doi&id=1209"
+        }
+      ],
+      "rev_number": 9,
+      "volume": 62,
+      "metadata_visibility": "show",
+      "title": "STRUCTURAL AND PHYSICAL PROPERTIES OF REFRACTORY\r\nCORDIERITE PRECURSORS PREPARED FROM RICE HUSK\r\nSILICA WITH DIFFERENT MgO ADDITION",
+      "funders": [
+        "Directorate of Higher Education, The Ministry of Research, Technology, and Higher Education, Republic of Indonesia"
+      ],
+      "dir": "disk0\/00\/00\/74\/71",
+      "publication": "Ceramics-Silikáty",
+      "issn": "1804-5847",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null,
+            "given": "Simon"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Simanjuntak",
+            "honourific": null,
+            "given": "Wasinton"
+          },
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id"
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rudy T.M",
+            "lineage": null,
+            "honourific": null,
+            "family": "Situmeang"
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto"
+          },
+          "id": "arfi2208@gmail.com"
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "Junaidi"
+          }
+        }
+      ],
+      "pagerange": "163-172",
+      "userid": 1168,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7471",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "main": "Ceramics-Silikáty.pdf",
+            "docid": 20512,
+            "files": [
+                {
+                  "objectid": 20512,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67485",
+                  "fileid": 67485,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-06-21 14:15:54",
+                  "hash_type": "MD5",
+                  "hash": "05133ba4acafe6eaecb1ec151c8affc4",
+                  "filename": "Ceramics-Silikáty.pdf",
+                  "datasetid": "document",
+                  "filesize": 2175559
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20512",
+            "eprintid": 7471,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "abstract": "This study describes the structural and physical properties of refractory cordierite prepared from rice husk silica, which is\r\nsintered at a temperature of 1230°C and followed by the addition of periclace (MgO) from 5 to 30 % by weight. The phases\r\nformed and structure changes as a result of periclace addition were investigated using different characterization technique\r\nof X-ray diffraction (XRD) coupled with Rietveld analysis, and scanning electron microscopy (SEM). Density, porosity,\r\nhardness, bending strength and coefficient of thermal expansion are also measured.\r\nThe results obtained revealed that the addition of periclace of 10 to 30 % promoted the transformation of the cordierite to the forsterite and spinel, and the cordierite is practically undetectable. Addition of periclace was found to increase forsterite and decrease spinel. The presence of forsterite and spinel resulted in increased of density, hardness, bending strength,and thermal expansion coefficient, as well as decreased porosity. The coefficient of thermal expansion of the samples with the addition of 10-30 % periclace reach the relatively constant value of 8.2 × 10-6 °C, with the main crystalline phase is forsterite, followed by spinel in smaller quantities.",
+      "subjects": [
+        "QC",
+        "QD"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/www.ceramics-silikaty.cz\/index.php?page=cs_detail_doi&id=1209",
+      "date_type": "published",
+      "eprintid": 7509,
+      "projects": [
+        "Hibah Competence Research Grant Batch II No: 382\/ UN26.21\/KU\/2017 Program in 2017"
+      ],
+      "datestamp": "2018-06-25 02:22:27",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2018-06-25 02:22:27",
+      "publisher": "Institute of Rock Structure and Mechanics AS CR, v.v.i. & University of Chemistry and Technology, Prague",
+      "ispublished": "pub",
+      "number": 2,
+      "divisions": [
+        "FMIPA1",
+        "FMIPA4"
+      ],
+      "type": "article",
+      "date": "2018-02-21",
+      "status_changed": "2018-06-25 02:22:27",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 62,
+      "title": "STRUCTURAL AND PHYSICAL PROPERTIES OF REFRACTORY\r\nCORDIERITE PRECURSORS PREPARED FROM RICE HUSK\r\nSILICA WITH DIFFERENT MgO ADDITION",
+      "pagerange": "163-172",
+      "userid": 1042,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7509",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 7509,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2018-06-22 03:54:19",
+                  "hash_type": "MD5",
+                  "filename": "Ceramics-Silikáty.pdf",
+                  "hash": "05133ba4acafe6eaecb1ec151c8affc4",
+                  "fileid": 67762,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2175559,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67762",
+                  "objectid": 20546
+                }
+            ],
+            "main": "Ceramics-Silikáty.pdf",
+            "docid": 20546,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20546",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "funders": [
+        "The Ministry of Research, Technology, and Higher Education, Republic of Indonesia"
+      ],
+      "dir": "disk0\/00\/00\/75\/09",
+      "issn": "1804-5847",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null,
+            "given": "Simon"
+          }
+        },
+        {
+          "name": {
+            "given": "Wasinton",
+            "lineage": null,
+            "honourific": null,
+            "family": "Simanjuntak"
+          },
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rudy T.M",
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Riyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arfi2208@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Ceramics-Silikáty"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Ceramics-Silikáty",
+      "creators": [
+        {
+          "name": {
+            "given": "Simon",
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null
+          },
+          "id": "simon.sembiring@fmipa."
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "given": "Wasinton",
+            "lineage": null,
+            "family": "Simanjuntak",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rudy T.M",
+            "family": "Situmeang",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Riyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arfi2208@gmail.com"
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "Junaidi",
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "ISSN 0862-5468 (Print), ISSN 1804-5847 (online)",
+      "date": "2018-02-21",
+      "dir": "disk0\/00\/00\/74\/89",
+      "lastmod": "2018-06-22 03:53:27",
+      "userid": 181,
+      "pagerange": "163-173",
+      "datestamp": "2018-06-22 03:53:27",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Institute of Rock Structure and Mechanics AS CR, v.v.i. & University of Chemistry and Technology, Prague",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7489,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20526",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 67591,
+                  "hash": "05133ba4acafe6eaecb1ec151c8affc4",
+                  "filename": "Ceramics-Silikáty.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 01:28:21",
+                  "datasetid": "document",
+                  "filesize": 2175559,
+                  "objectid": 20526,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67591"
+                }
+            ],
+            "main": "Ceramics-Silikáty.pdf",
+            "docid": 20526
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7489",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 7489,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2018-06-22 03:53:27",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "This study describes the structural and physical properties of refractory cordierite prepared from rice husk silica, which is sintered at a temperature of 1230°C and followed by the addition of periclace (MgO) from 5 to 30 % by weight. The phases formed and structur e changes as a result of periclace addition were investigated using different characterization technique  of X-ray diffraction (XRD) coupled with Rietveld analysis, and scanning electron microscopy (SEM). Density, porosity,  hardness, bending str ength and coefficient of thermal expansion ar e also measur ed.  The results obtained revealed that the addition of periclace of 10 to 30 % promoted the transformation of the cordierite to the forsterite and spinel, and the cordierite is practically undetectable. Addition of periclace was found to increase forsterite and decrease spinel. The presence of forsterite and spinel resulted in increased of density, hardness, bending strength, and thermal expansion coefficient, as well as decreased porosity. The coefficient of thermal expansion of the samples with  the addition of 10-30 % periclace reach the relatively constant value of 8.2 × 10\r\n °C, with the main crystalline phase is forsterite, followed by spinel in smaller quantities.",
+      "official_url": "http:\/\/www.ceramics-silikaty.cz\/index.php?page=cs_detail_doi&id=1209",
+      "title": "STRUCTURAL AND PHYSICAL PROPERTIES OF REFRACTORY CORDIERITE PRECURSORS PREPARED FROM RICE HUSK SILICA WITH DIFFERENT MgO ADDITION",
+      "volume": 62,
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 11764,
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "The electrical characteristics of filtered seawater can be determined by using Cu-Zn electrode\r\npairs. Seawater is filtered by using a 1 micron sediment filter. Measurement of electrical characteristics of\r\nwater is carried out using a 3 watt DC LED load and when the load is removed. The electrolyte cell consists\r\nof 40 cells, which are arranged in series and parallel with 300 ml per cell. Tool testing is carried out for 144\r\nhours with 6 times electrolyte filling every 24 hours. The test results show that the longer the tool is used, the\r\nmore electrical characteristics produced will be decreasing. The produce of maximum voltage (Vbl) by\r\nseawater is not filtered with a series of 31.5 V. The produce of maximum power (P) by seawater is not\r\nfiltered with a series of 101.1 mW. The produce of maximum illumination by seawater is not filtered with a\r\nseries of 426.4 Lux, the duration of the light is 8 hours. Despite the produce of maximum illumination by\r\nfiltered seawater with a series of 319.7 Lux series, the duration of the light is 11 hours.",
+      "status_changed": "2019-05-08 07:23:31",
+      "eprint_status": "archive",
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Analisis Karakteristik Elektrik Air Laut Tersaring Sebagai\r\nSumber Energi Alternatif Berkelanjutan  \r\n(Sustainable Energy)",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1915\/1436",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2018-07-01",
+      "dir": "disk0\/00\/01\/17\/64",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2549-1156",
+      "creators": [
+        {
+          "name": {
+            "given": "Edward Jannert Ch",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sibarani"
+          },
+          "id": null
+        },
+        {
+          "id": "gurum.ahmadpauzi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Gurum Ahmad",
+            "family": "Pauzi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Amir",
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null
+          }
+        }
+      ],
+      "pagerange": "257-263",
+      "datestamp": "2019-05-08 07:23:31",
+      "userid": 387,
+      "lastmod": "2019-05-08 07:23:31",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11764",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 11764,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 332165,
+                  "datasetid": "document",
+                  "hash": "60fe09124ee79e77627c6cef227452ba",
+                  "filename": "1915-4355-1-PB.pdf",
+                  "mtime": "2019-05-06 05:59:29",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 106043,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106043",
+                  "objectid": 24748
+                }
+            ],
+            "docid": 24748,
+            "main": "1915-4355-1-PB.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24748",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "event_dates": "9-11 august 2018",
+      "title": "Distribution of Temperature in Multilayer Material",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "event_type": "conference",
+      "status_changed": "2018-11-12 03:06:07",
+      "eprint_status": "archive",
+      "abstract": "Multilayer material is a composite medium composed of several layers of material, for example, electroplating material. Merging of the physical, mechanical and thermal properties of each material makes the heat conduction phenomenon in the material become interesting. To know the phenomenon of temperature distribution in multilayer material, heat conduction equation for slab is used. Slab arranged by two layers of material with  1st  layer are considered thicker than 2nd layer. Completion of the one dimensional heat conduction equation obtained by numerical approach of explicit finite difference method. The initial temperature is considered a time-independent wave function, while the boundary conditions of the slab edges is Dirichlet condition.\r\n\r\nKeywords: Multilayer, heat conduction, temperature distribution, finite difference method.",
+      "subjects": [
+        "QC"
+      ],
+      "event_location": "Bandar Lampung, Lampung",
+      "eprintid": 9749,
+      "event_title": "2nd international conference on Applied sciences, Mathematics and Informatics (ICASMI)",
+      "date_type": "published",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 92193,
+                  "filename": "ABSTRACT-ICASMI 2018-sri wahyu-fisika.docx",
+                  "hash": "9d36e5a23f058a072515b161ebafe00d",
+                  "mtime": "2018-11-12 01:09:48",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 16327,
+                  "objectid": 22770,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/92193"
+                }
+            ],
+            "docid": 22770,
+            "main": "ABSTRACT-ICASMI 2018-sri wahyu-fisika.docx",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22770",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 9749,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        }
+      ],
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9749",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2018-11-12 03:06:07",
+      "userid": 672,
+      "pagerange": "1-1",
+      "datestamp": "2018-11-12 03:06:07",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sri Wahyu Suciyati",
+            "honourific": null,
+            "given": "sw suciyati"
+          },
+          "id": "sri.wahyu@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "AMIR SUPRIYANTO",
+            "lineage": null,
+            "honourific": null,
+            "family": "AMIR SUPRIYANTO"
+          }
+        },
+        {
+          "name": {
+            "given": "GURUM A. PAUZI",
+            "lineage": null,
+            "family": "GURUM A. PAUZI",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arif S",
+            "honourific": null,
+            "family": "Arif S",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/97\/49",
+      "date": "2018-08-09",
+      "type": "conference_item",
+      "contact_email": "sri.wahyu@fmipa.unila.ac.id",
+      "divisions": [
+        "FMIPA1"
+      ]
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Spektra: Jurnal Fisika dan Aplikasinya",
+      "creators": [
+        {
+          "name": {
+            "given": "SW",
+            "honourific": null,
+            "family": "Suciyati",
+            "lineage": null
+          },
+          "id": "sri.wahyu@fmipa.unila.ac.id"
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Supriyanto",
+            "honourific": null,
+            "given": "Supriyanto"
+          },
+          "id": "r.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pauzi",
+            "lineage": null,
+            "given": "Gurum A."
+          },
+          "id": "gurum4in@yahoo.com"
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Surtono",
+            "lineage": null,
+            "given": "Arif"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "AM",
+            "family": "Giri",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "p-ISSN: 2541-3384; e-ISSN:2541-3392",
+      "date": "2018-04-01",
+      "dir": "disk0\/00\/00\/77\/98",
+      "lastmod": "2018-06-26 08:02:16",
+      "userid": 434,
+      "pagerange": "47-55",
+      "datestamp": "2018-06-26 08:02:16",
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "formatdesc": "Publikasi Jurnal",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20836",
+            "rev_number": 3,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 29420,
+                  "fileid": 69761,
+                  "mime_type": "text\/html",
+                  "mtime": "2018-06-26 02:41:36",
+                  "hash_type": "MD5",
+                  "hash": "2c4b2deaeacd1ef9ff28317abe665b38",
+                  "filename": "index.php\/spektra\/article\/view\/5725",
+                  "objectid": 20836,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69761"
+                }
+            ],
+            "main": "index.php\/spektra\/article\/view\/5725",
+            "docid": 20836,
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "id",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7798
+          }
+      ],
+      "publisher": "Universitas Negeri Jakarta",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7798",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 7798,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2018-06-26 08:02:16",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Brackish water and river water have the potential as an alternative renewable energy source. Their electrical studies have been successfully conducted using the electrochemical principle of voltaic cells, by making electrode pairs arranged in series in 20 rectangular squares. Electrodes used are copper (Cu), and zinc (Zn), while as an electrolyte is some brackish water and river water. The characteristic of the electrolyte material is known by measuring the voltage and current flowing on the LED (1.2 watt) placed on the electrode cell circuit. Taking measurement data is done for three days with 2 hour interval. The results of measurement and analysis for Cu-Zn electrode combinations have shown that brackish water has greater electrical power than river water, with a ratio of 12.008: 5.84 (day one) and 1.752: 0.572 (third day). This value also shows that brackish water as electrolyte solution has been able to produce energy to turn on the LED for 72 hours with an average value of LED intensity of 322.8 lux.",
+      "title": "KARAKTERISASI KELISTRIKAN AIR PAYAU DAN AIR SUNGAI SEBAGAI BAHAN ELEKTROLIT",
+      "official_url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/spektra\/article\/view\/5725\/4838",
+      "volume": 1,
+      "rev_number": 9,
+      "metadata_visibility": "show"
+    },
+    {
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Universitas Negeri Jakarta",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 7644,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20692",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 316589,
+                  "mime_type": "application\/pdf",
+                  "fileid": 68673,
+                  "filename": "Amir Supriyanto-5725-Article Text-12776-1-10-20180425.pdf",
+                  "hash": "1e00ef306cca232904cf7ae9111547fc",
+                  "mtime": "2018-06-24 13:39:10",
+                  "hash_type": "MD5",
+                  "objectid": 20692,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/68673"
+                }
+            ],
+            "main": "Amir Supriyanto-5725-Article Text-12776-1-10-20180425.pdf",
+            "docid": 20692
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7644",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2018-06-25 02:26:12",
+      "userid": 387,
+      "pagerange": "47-56",
+      "datestamp": "2018-06-25 02:26:12",
+      "publication": "Spektra: Jurnal Fisika dan Aplikasinya",
+      "issn": "p-ISSN: 2541-3384; e-ISSN:2541-3392",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Sri Wahyu",
+            "lineage": null,
+            "family": "Suciyati",
+            "honourific": null
+          }
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "honourific": null,
+            "family": "Warsito",
+            "lineage": null
+          }
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Amir",
+            "lineage": null,
+            "family": "Supriyanto",
+            "honourific": null
+          }
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "family": "Surtono",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Giri",
+            "lineage": null,
+            "honourific": null,
+            "family": "AM"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Pauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gurum A."
+          },
+          "id": "gurum4in@yahoo.com"
+        }
+      ],
+      "date": "2018-04-01",
+      "dir": "disk0\/00\/00\/76\/44",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "official_url": "http:\/\/doi.org\/10.21009\/SPEKTRA",
+      "title": "KARAKTERISASI KELISTRIKAN AIR PAYAU DAN AIR SUNGAI SEBAGAI BAHAN ELEKTROLIT",
+      "volume": 3,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2018-06-25 02:26:12",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/doi.org\/10.21009\/SPEKTRA"
+        }
+      ],
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Brackish water and river water have the potential as an alternative renewable energy source. Their electrical studies have been successfully conducted using the electrochemical principle of voltaic cells, by making electrode pairs arranged in series in 20 rectangular squares. Electrodes used are copper (Cu), and zinc (Zn), while as an electrolyte is some brackish water and river water. The characteristic of the electrolyte material is known by measuring the voltage and current flowing on the LED (1.2 watt) placed on the electrode cell circuit. Taking measurement data is done for three days with 2 hour interval. The results of measurement and analysis for Cu-Zn electrode combinations have shown that brackish water has greater electrical power than river water, with a ratio of 12.008: 5.84 (day one) and 1.752: 0.572 (third day). This value also shows that brackish water as electrolyte solution has been able to produce energy to turn on the LED for 72 hours with an average value of LED intensity of 322.8 lux.",
+      "eprintid": 7644,
+      "date_type": "published"
+    },
+    {
+      "event_location": "Medan, Sumatera Utara",
+      "date_type": "published",
+      "eprintid": 7640,
+      "event_title": "SEMIRATA-International Conference on Science and Technology (ICST) 2018",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "title": "ANALISIS PASTA KULIT SINGKONG SEBAGAI ELEKTROLIT\r\nSUMBER ENERGI LISTRIK (ANALYSIS OF CASSAVA LEATHER PASTE AS AN ELECTROLYTE OF ELECTRICAL ENERGY SOURCE)",
+      "event_dates": "4-6 May 2018",
+      "abstract": "The electrical characteristics of cassava leather can be known by using a pair of\r\nelectrodes, Cu and Zn. Measurement of electrical characteristics is done when given a 5\r\nwatt LED load and when the load is removed. Cassava skin used there are two types:\r\nwithout fermentation and with fermentation. The electrolyte cell used consisted of 20 cells,\r\nassembled by three types: 20 series, 10 series with 2 parallel, and 5 series with 4 parallel.\r\nThe volume of each cell's paste is 200 ml. The measurement results show that the series 20\r\nseries circuit produces the greatest electrical voltage, but the electric current is small and\r\nthe resistance is large. While the series of 20 cells that 5 series with 4 paralle obtained\r\nmaximum power. The fermented cassava skin paste for 72 hours can increase the electrical\r\npower generated from the three types of circuits.",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2018-06-25 02:34:54",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/76\/40",
+      "date": "2018-05-05",
+      "creators": [
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supriyanto",
+            "given": "Amir"
+          }
+        },
+        {
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "family": "Surtono",
+            "lineage": null
+          },
+          "id": "arif.surtono@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Tri",
+            "honourific": null,
+            "family": "Tutanto",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7640",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 7640,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 20686,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/68650",
+                  "datasetid": "document",
+                  "filesize": 122062,
+                  "mime_type": "application\/pdf",
+                  "fileid": 68650,
+                  "hash": "d58a54dc0ed8ffb2ae09f489ff0add91",
+                  "filename": "Amir Supriyanto_Fisika_FMIPA_Unila_Artikel.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-24 12:40:36"
+                }
+            ],
+            "docid": 20686,
+            "main": "Amir Supriyanto_Fisika_FMIPA_Unila_Artikel.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20686",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "unpub",
+      "datestamp": "2018-06-25 02:34:54",
+      "pagerange": "1-8",
+      "userid": 387,
+      "lastmod": "2018-06-25 02:34:54"
+    },
+    {
+      "status_changed": "2019-01-02 07:59:52",
+      "eprint_status": "archive",
+      "abstract": "It has been realized an instrument for measuring cassava starch content digitally based on specific gravity method.  The instrument is designed using strain gauge, which packing in load cell as a mass sensor, HX711 (Analog to Digital Converter), Arduino Uno as a data processor, LCD, and personal computer.  The principles of this instrument are using specific gravity method, which is based on differences of cassava mass in the air and the water. Cassava starch content calculated by Arduino using Sungzikaw equation and displayed in LCD screen.  The result showed that the instrument capable measure cassava starch content with the maximum capacity of 2,0 kg and average percentage error of less than 1,5 %.",
+      "subjects": [
+        "QC",
+        "S1"
+      ],
+      "event_dates": "10 Agustus 2018",
+      "official_url": "http:\/\/icasmi.fmipa.unila.ac.id\/2018\/",
+      "title": "Measuring of Cassava Starch Content by Using Strain Gauge Sensor",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "event_type": "conference",
+      "eprintid": 10079,
+      "event_title": "International Conference on Applied Sciences Mathematics and Informatics ( ICASMI) , 9 - 11 Agustus 2018",
+      "date_type": "submitted",
+      "event_location": "at Horison Hotel, Lampung, Indonesia",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-01-02 07:59:52",
+      "userid": 419,
+      "pagerange": "1-17",
+      "datestamp": "2019-01-02 07:59:52",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "mime_type": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "language": "en",
+            "content": "presentation",
+            "eprintid": 10079,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "slideshow",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23092",
+            "rev_number": 2,
+            "docid": 23092,
+            "main": "Presentasi_Arif Surtono.pptx",
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                  "fileid": 94540,
+                  "filename": "Presentasi_Arif Surtono.pptx",
+                  "hash": "5e2fa04f1f93ac265f4e48e41c9c9e47",
+                  "mtime": "2018-11-15 22:17:36",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 3039669,
+                  "objectid": 23092,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/94540"
+                }
+            ]
+          }
+      ],
+      "ispublished": "unpub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10079",
+      "full_text_status": "public",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "family": "Surtono",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Prima",
+            "family": "Apriliana",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Amir",
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "gurum4in@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Pauzi",
+            "lineage": null,
+            "given": "Gurum A."
+          }
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "SW",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suciyati"
+          },
+          "id": "sri.wahyu@fmipa.unila.ac.id"
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Warsito",
+            "honourific": null,
+            "given": "Warsito"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/00\/79",
+      "date": "2018-08-10"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11762",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "main": "1838-4339-1-PB.pdf",
+            "docid": 24746,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106032",
+                  "objectid": 24746,
+                  "filesize": 400686,
+                  "datasetid": "document",
+                  "filename": "1838-4339-1-PB.pdf",
+                  "hash": "f998668a30e70c30bc41363c36851d26",
+                  "mtime": "2019-05-06 05:44:48",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 106032
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24746",
+            "eprintid": 11762,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2019-05-08 07:23:29",
+      "pagerange": "159-166",
+      "lastmod": "2019-05-08 07:23:29",
+      "userid": 387,
+      "date": "2018-07-01",
+      "dir": "disk0\/00\/01\/17\/62",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sutanto",
+            "given": "Tri"
+          },
+          "id": null
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Supriyanto",
+            "honourific": null,
+            "given": "Amir"
+          }
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "family": "Surtono",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "rev_number": 7,
+      "volume": 6,
+      "metadata_visibility": "show",
+      "title": "Analisis Karakteristik Elektrik Limbah Kulit Singkong\r\nBerbentuk Pasta Sebagai Sumber Energi Listrik  \r\nAlternatif Terbarukan",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1838\/1420",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "The electrical characteristics of cassava peel and cassava can be determined by using a\r\npair of electrode copper (Cu) and zinc (Zn). The measurement of the electrical characteristics of\r\ncassava peel had been done using a 5 watt LED load and when the load is released. Cassava peel\r\nand cassava are used without fermentation and with fermentation. Electrolyte cell that used\r\nconsists of 20 cells, which were arranged in series and parallel, with volume + 200 ml for one cell.\r\nThe maximum power generated cassava peel 5.8597 mW, and 14.1052 mW on cassava. Zn\r\n2\r\n\r\nelectrode (zinc battery used) produces a larger power, which is 5.8597 mW compared with Zn1\r\n(ordinary zinc) is 1.9902 mW. Cassava peel without fermentation produces a larger voltage of\r\n20.76 volts, compared with cassava peel 19.17 volts of fermentation. In cassava peel, circuit cell\r\npower in series a larger of 5.8597 volts, compared with circuit power in parallel is 5.7078 volts.",
+      "status_changed": "2019-05-08 07:23:29",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 11762
+    },
+    {
+      "status_changed": "2019-08-01 07:23:09",
+      "related_url": [
+        {
+          "url": "http:\/\/issn.pdii.lipi.go.id\/issn.cgi?daftar&1353553260&1&&"
+        }
+      ],
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Analisis Karakteristik Elektrik Limbah Kulit Singkong Berbentuk Pasta Sebagai Sumber Energi Listrik Alternatif Terbarukan",
+      "pagerange": "159-188",
+      "userid": 419,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13295",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26294",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 400686,
+                  "datasetid": "document",
+                  "filename": "Analisis karakteristik elektrik limbah singkong.pdf",
+                  "hash": "f998668a30e70c30bc41363c36851d26",
+                  "mtime": "2019-05-25 02:13:23",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 116554,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116554",
+                  "objectid": 26294
+                }
+            ],
+            "docid": 26294,
+            "main": "Analisis karakteristik elektrik limbah singkong.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13295
+          }
+      ],
+      "funders": [
+        "Yanti Y"
+      ],
+      "contact_email": "jtaf@fmipa.unila.ac.id",
+      "dir": "disk0\/00\/01\/32\/95",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sutanto",
+            "honourific": null,
+            "given": "Tri"
+          },
+          "id": "tsutantovsungkal99@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Amir",
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null
+          },
+          "id": "amir.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arif",
+            "family": "Surtono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arif.surtono@fmipa.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "The electrical characteristics of cassava peel and cassava can be determined by using a pair of electrode copper (Cu) and zinc (Zn). The measurement of the electrical characteristics of cassava peel had been done using a 5 watt LED load and when the load is released. Cassava peel and cassava are used without fermentation and with fermentation. Electrolyte cell that used consists of 20 cells, which were arranged in series and parallel, with volume + 200 ml for one cell. The maximum power generated cassava peel 5.8597 mW, and 14.1052 mW on cassava. Zn2 electrode (zinc battery used) produces a larger power, which is 5.8597 mW compared with Zn1 (ordinary zinc) is 1.9902 mW. Cassava peel without fermentation produces a larger voltage of 20.76 volts, compared with cassava peel 19.17 volts of fermentation. In cassava peel, circuit cell power in series a larger of 5.8597 volts, compared with circuit power in parallel is 5.7078 volts",
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/",
+      "eprintid": 13295,
+      "projects": [
+        "Riset"
+      ],
+      "datestamp": "2019-08-01 07:23:09",
+      "lastmod": "2019-08-01 07:23:09",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2018-07-09",
+      "id_number": 1353553260
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Analisis Kecelakaan Reaktor Transient Over Power (TOP) Reaktor SCWR (Supercritical Cooled Water Reactor)",
+      "abstract": "Jurnal Teori dan Aplikasi Fisika",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-10-18 06:51:54",
+      "date_type": "published",
+      "eprintid": 45771,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45771",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184585",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 342355,
+                  "fileid": 507382,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-18 03:21:45",
+                  "filename": "Analisis Kecelakaan Reaktor Transient Over Power (TOP) Reaktor SCWR (Supercritical Cooled Water Reactor).pdf",
+                  "hash": "bc15dc8c2226f0ed7fbb57d8c2ce84d0",
+                  "objectid": 184585,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507382"
+                }
+            ],
+            "main": "Analisis Kecelakaan Reaktor Transient Over Power (TOP) Reaktor SCWR (Supercritical Cooled Water Reactor).pdf",
+            "docid": 184585,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 45771
+          }
+      ],
+      "publisher": "Fakultas MIPA Universitas Lampung",
+      "ispublished": "pub",
+      "datestamp": "2022-10-18 06:51:54",
+      "lastmod": "2022-10-18 06:51:54",
+      "userid": 583,
+      "date": 2018,
+      "dir": "disk0\/00\/04\/57\/71",
+      "creators": [
+        {
+          "id": "syafriadifisikamipa@gmail.com",
+          "name": {
+            "given": "Syafriadi",
+            "family": "Syafriadi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "other"
+    },
+    {
+      "lastmod": "2023-03-08 06:14:40",
+      "userid": 583,
+      "datestamp": "2023-03-08 06:14:40",
+      "publisher": "Jurnal Teori dan Aplikasi Fisika",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48854,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531959",
+                  "objectid": 188296,
+                  "filename": "10.pdf",
+                  "hash": "3e6f6347ad06edf82cd8bcac3eea8ff5",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-08 04:04:20",
+                  "mime_type": "application\/pdf",
+                  "fileid": 531959,
+                  "filesize": 1127070,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 188296,
+            "main": "10.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188296",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48854",
+      "full_text_status": "public",
+      "type": "other",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "syafriadifisikamipa@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Syafriadi",
+            "lineage": null,
+            "given": "Syafriadi"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/54",
+      "date": 2018,
+      "status_changed": "2023-03-08 06:14:40",
+      "eprint_status": "archive",
+      "abstract": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW KARYA ILMIAH : JURNAL ILMIAH NASIONAL",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Peer Review Analisis Kecelakaan Reaktor Transient Over Power (TOP) Reaktor SCWR (Supercritical Cooled Water Reactor)",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 48854,
+      "date_type": "published"
+    },
+    {
+      "title": "Peer Review Analisis Termal-hidrolik Reaktor Air Bertekanan (Pressurized Water Reactor) Menggunakan Metode LU Faktorisasi",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2023-03-08 06:14:38",
+      "eprint_status": "archive",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW KARYA ILMIAH : JURNAL ILMIAH NASIONAL",
+      "eprintid": 48853,
+      "ispublished": "pub",
+      "publisher": "Jurnal Teori dan Aplikasi Fisika",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48853,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188295",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1134183,
+                  "mime_type": "application\/pdf",
+                  "fileid": 531952,
+                  "filename": "9.pdf",
+                  "hash": "194e0b9239bfd281b3c4b591d9e67967",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-08 04:02:03",
+                  "objectid": 188295,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531952"
+                }
+            ],
+            "docid": 188295,
+            "main": "9.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48853",
+      "full_text_status": "public",
+      "userid": 583,
+      "lastmod": "2023-03-08 06:14:38",
+      "datestamp": "2023-03-08 06:14:38",
+      "creators": [
+        {
+          "id": "syafriadifisikamipa@gmail.com",
+          "name": {
+            "given": "Syafriadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Syafriadi"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/53",
+      "date": 2018,
+      "type": "other",
+      "divisions": [
+        "FMIPA1"
+      ]
+    },
+    {
+      "eprintid": 48851,
+      "date_type": "published",
+      "status_changed": "2023-03-08 06:14:33",
+      "eprint_status": "archive",
+      "abstract": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW KARYA ILMIAH : JURNAL ILMIAH NASIONAL",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Peer Review Pehitungan Laju Reaksi Neutron Model Perangkat Annular pada Jenis Reaktor SCWR (Supercritical Water Reactor) Bahan Bakar Thorium",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "type": "other",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Syafriadi",
+            "lineage": null,
+            "family": "Syafriadi",
+            "honourific": null
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/51",
+      "date": 2018,
+      "lastmod": "2023-03-08 06:14:33",
+      "userid": 583,
+      "datestamp": "2023-03-08 06:14:33",
+      "publisher": "Jurnal Teori dan Aplikasi Fisika",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188293",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 188293,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531938",
+                  "mime_type": "application\/pdf",
+                  "fileid": 531938,
+                  "filename": "7.pdf",
+                  "hash": "1fd1b7f6f4869fab6f25e95d244220e0",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-08 03:58:39",
+                  "datasetid": "document",
+                  "filesize": 1130724
+                }
+            ],
+            "docid": 188293,
+            "main": "7.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48851
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48851"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2022-10-18 06:51:50",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Jurnal Teori dan Aplikasi Fisika",
+      "title": "Pehitungan Laju Reaksi Neutron Model Perangkat Annular pada Jenis Reaktor SCWR (Supercritical Water Reactor) Bahan Bakar Thorium",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 45769,
+      "date_type": "published",
+      "lastmod": "2022-10-18 06:51:50",
+      "userid": 583,
+      "datestamp": "2022-10-18 06:51:50",
+      "ispublished": "pub",
+      "publisher": "Fakultas MIPA Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 45769,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184583",
+            "rev_number": 1,
+            "main": "Pehitungan Laju Reaksi Neutron Model Perangkat Annular pada Jenis Reaktor SCWR (Supercritical Water Reactor) Bahan Bakar Thori.pdf",
+            "docid": 184583,
+            "files": [
+                {
+                  "objectid": 184583,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507368",
+                  "datasetid": "document",
+                  "filesize": 429251,
+                  "fileid": 507368,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-10-18 03:17:37",
+                  "hash_type": "MD5",
+                  "hash": "6c8124c36fe9ed0df44fbbdaa0155601",
+                  "filename": "Pehitungan Laju Reaksi Neutron Model Perangkat Annular pada Jenis Reaktor SCWR (Supercritical Water Reactor) Bahan Bakar Thori.pdf"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45769",
+      "type": "other",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Syafriadi",
+            "honourific": null,
+            "given": "Syafriadi"
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/04\/57\/69",
+      "date": 2018
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": 2018,
+      "dir": "disk0\/00\/01\/29\/69",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "family": "Yulianty",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yulianty"
+          },
+          "id": "yulianti.1963@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Syafriadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Syafriadi"
+          }
+        }
+      ],
+      "datestamp": "2019-05-16 03:47:34",
+      "lastmod": "2019-05-16 03:47:34",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 198,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12969",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 114240,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-16 03:16:29",
+                  "hash": "6bd0da20f04eeb38c3871c04df9f04cc",
+                  "filename": "1845-4348-1-PB.pdf",
+                  "datasetid": "document",
+                  "filesize": 377775,
+                  "objectid": 25953,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114240"
+                }
+            ],
+            "docid": 25953,
+            "main": "1845-4348-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25953",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12969,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "eprintid": 12969,
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Abstract. The Research about Pressurized Water Reactors (PWR) thermal-hydraulics analysis has been\r\ndone. This reseacrh aim to solve fuel rod heat conduction equation by LU Factorization method and to get\r\nthermal-hydraulics parameters such as coolant axial temperature distribution, pressure drops, convection\r\nheat transfer coefficient, and fuel rod radial temperature distribution. Heat transfer of the reactors was\r\nassumted steady state (time independent) then obtained coolant inlet tempertaure about 300 \r\nC, outlet\r\ntemperature about 326,6 \r\no\r\nC and convection heat transfer coefficient ℎ",
+      "status_changed": "2019-05-16 03:47:34",
+      "eprint_status": "archive",
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Analisis Termal-hidrolik  Reaktor Air Bertekanan (Pressurized\r\nWater Reactor) Menggunakan Metode LU Faktorisasi"
+    },
+    {
+      "abstract": "Abstract. The calculation of fission and capture reaction rate with and without filter has been done using\r\nREACT of SRAC. In material 1 fission reaction rate with and without filter were increased by increasing\r\npercent of U\r\n233\r\n. The highest fission reaction rate with filter was 5,7194x10\r\n-2\r\nreaction\/cm\r\nsand without filter\r\nwas 6,1361x10\r\n-2 \r\nreaction\/cm\r\n3\r\ns. Meanwhile capture reaction rate with and without filter were decreased by\r\nincreasing percent of U\r\n233\r\n. The highest capture reaction rate with filter was 2,2156x10\r\ns and\r\nwithout filter was 2,4906x10\r\n-2 \r\nreaction\/cm\r\n3\r\ns. In material 3, fission and capture reaction rate with and\r\nwithout filter were decreased by increasing percent of U\r\n233\r\n in material 1. The highest fission reaction rate\r\nwith filter was 1,5218x10\r\n-2 \r\nreaction\/cm\r\n3\r\ns and without filter was 1,6293x10\r\n-2\r\n3\r\n-2 \r\n(1)\r\nreaction\/cm\r\ns. The highest\r\ncapture reaction rate with filter was 2,2156x10\r\n-2 \r\nreaction\/cm\r\n3\r\n \r\nreaction\/cm\r\ns and without filter was 2,3993x10\r\nreaction\r\n\/cm\r\n3\r\ns. Neutron reaction rate with filter was smaller than neutron reaction rate without filter.\r\n\r\nKeywords: neutron reaction rate, SCWR, thorium, SRAC.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-05-16 03:47:32",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 6,
+      "title": "Studi Perhitungan Laju Reaksi Neutron Dalam Reaktor\r\nScwr(Supercritical Water Reactor) Model Perangkat \r\n(Assembly) Heksagonal Berbahan Bakar Thorium",
+      "date_type": "published",
+      "eprintid": 12968,
+      "datestamp": "2019-05-16 03:47:32",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 198,
+      "lastmod": "2019-05-16 03:47:32",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12968",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12968,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114232",
+                  "objectid": 25952,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-16 03:14:26",
+                  "hash": "f353e23a1ed2fff0af093e63c605297e",
+                  "filename": "1844-4346-1-PB.pdf",
+                  "fileid": 114232,
+                  "mime_type": "application\/pdf",
+                  "filesize": 515522,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 25952,
+            "main": "1844-4346-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25952",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "number": 2,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/29\/68",
+      "date": 2018,
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "given": "apriliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "apriliana"
+          }
+        },
+        {
+          "name": {
+            "family": "yulianti",
+            "honourific": null,
+            "lineage": null,
+            "given": "yanti"
+          }
+        },
+        {
+          "name": {
+            "given": "Pulung",
+            "lineage": null,
+            "honourific": null,
+            "family": "Karo Karo"
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika"
+    },
+    {
+      "title": "Pengaruh Suhu Pada Ekstrak Daun Cincau Hijau (Cyclea\r\nBarbata Miers)  Sebagai Inhibitor Korosi Baja Pegas Daun",
+      "volume": 6,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2019-05-16 03:37:42",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Abstract. This study aims to determine the extract of green cincau leaves (Cyclea Barbata Miers) as a\r\ncorrosion inhibitor soaked in 3% NaCl corrosive medium. To determine the effect of concentration and\r\ntemperature to connect steel, the average inhibitor is 0, 2, 4, and 6% and each temperature is 40℃ and 80℃.\r\nTo find out the measurements done by the method, save weight. Corrosion rate at immersion temperature is\r\n40℃ lower than speed at 80℃ immersion temperature. To find out the phase formed and the structure of the\r\nsample in XRD and SEM-EDS characterization. The X-Ray Diffraction (XRD) characterization results show\r\nthat the phase formed is pure Fe. XRD results showed that the lowest Fe peaks were formed on samples\r\nwithout inhibitors at 80℃.The results of SEM characterization of PGDaun-80-6 steel also showed that it\r\nlooked more corroded, and the PGDaun-40-2 sample looked slightly corroded. This result is reinforced by\r\nthe percentage of corrosion products shown in the EDS results.\r\n\r\nKeywords:Corrosion inhibitors, green cincau leaves, leaf spring steel, NaCl.",
+      "eprintid": 12965,
+      "date_type": "published",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 761027,
+                  "datasetid": "document",
+                  "hash": "aeec20fc1b9c0ec28a7c889c748e1c43",
+                  "filename": "1848-4351-1-PB_3.pdf",
+                  "mtime": "2019-05-16 03:07:27",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 114214,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114214",
+                  "objectid": 25948
+                }
+            ],
+            "docid": 25948,
+            "main": "1848-4351-1-PB_3.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25948",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12965,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12965",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 633,
+      "lastmod": "2019-05-16 03:37:42",
+      "datestamp": "2019-05-16 03:37:42",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "intan hani",
+            "lineage": null,
+            "family": "saputri",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ginting",
+            "lineage": null,
+            "given": "Ediman"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Asmi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dwi"
+          },
+          "id": "dwiasmi82@yahoo.com"
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/01\/29\/65",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 12967,
+      "metadata_visibility": "show",
+      "volume": 6,
+      "rev_number": 7,
+      "title": "Pengaruh Variasi NaOH terhadap Karakteristik \r\nNanosilika Berbasis Batu Apung",
+      "abstract": "Abstract.Nanoparticle of silica from pumice rockhas been synthesizedby using extracted method of NaOH\r\nwith varying of 2,5 Mand 3,5 M.The pumice was extracted using NaOH, silica titration usingH\r\n2\r\n and\r\npurification of silica using HCl. The solution was calcination at 700°C for 2 hours. The XRD result showed\r\nthat diffraction pattern of amorphous silica. The EDS result confirmed the purity of silica for NaOH 3,5 M\r\nwere 75,84%. Particle size from TEM result is(11,32 ± 0,922) nm for NaOH 3,5 M. The surface area for\r\nNaOH of 2,5 M and 3,5 M are 178,7 m\r\n2\r\n\/g and186,2m\r\n2\r\n\/g respectively.\r\n\r\nKeywords :pumice, nanosilica, NaOH and surface area.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-05-16 03:47:30",
+      "date": 2018,
+      "dir": "disk0\/00\/01\/29\/67",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "nurqori",
+            "lineage": null,
+            "honourific": null,
+            "family": "setiawati"
+          }
+        },
+        {
+          "id": "reip65@yahoo.com",
+          "name": {
+            "given": "Posman",
+            "honourific": null,
+            "family": "Manurung",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12967",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12967,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 419900,
+                  "fileid": 114225,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-16 03:10:44",
+                  "filename": "1842-4345-1-PB.pdf",
+                  "hash": "c661dae8451d19009032153e004740fe",
+                  "objectid": 25951,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114225"
+                }
+            ],
+            "main": "1842-4345-1-PB.pdf",
+            "docid": 25951,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25951",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "datestamp": "2019-05-16 03:47:30",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1042,
+      "lastmod": "2019-05-16 03:47:30"
+    },
+    {
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25954",
+            "rev_number": 2,
+            "main": "1845-4348-1-PB.pdf",
+            "docid": 25954,
+            "files": [
+                {
+                  "objectid": 25954,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114256",
+                  "mime_type": "application\/pdf",
+                  "fileid": 114256,
+                  "filename": "1845-4348-1-PB.pdf",
+                  "hash": "6bd0da20f04eeb38c3871c04df9f04cc",
+                  "mtime": "2019-05-16 03:21:34",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 377775
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 12970,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12970",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 583,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-05-16 03:47:35",
+      "datestamp": "2019-05-16 03:47:35",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "given": "yanti",
+            "lineage": null,
+            "honourific": null,
+            "family": "yulianti"
+          }
+        },
+        {
+          "name": {
+            "given": "Syafriadi",
+            "honourific": null,
+            "family": "Syafriadi",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2018,
+      "dir": "disk0\/00\/01\/29\/70",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "title": "Analisis Termal-hidrolik  Reaktor Air Bertekanan (Pressurized\r\nWater Reactor) Menggunakan Metode LU Faktorisasi",
+      "rev_number": 7,
+      "volume": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2019-05-16 03:47:35",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Abstract. The Research about Pressurized Water Reactors (PWR) thermal-hydraulics analysis has been\r\ndone. This reseacrh aim to solve fuel rod heat conduction equation by LU Factorization method and to get\r\nthermal-hydraulics parameters such as coolant axial temperature distribution, pressure drops, convection\r\nheat transfer coefficient, and fuel rod radial temperature distribution. Heat transfer of the reactors was\r\nassumted steady state (time independent) then obtained coolant inlet tempertaure about 300 \r\nC, outlet\r\ntemperature about 326,6 \r\no\r\nC and convection heat transfer coefficient ℎ",
+      "eprintid": 12970,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 12972,
+      "abstract": "Abstract. The calculation of fission reaction rate and capture reaction with and without filters have been\r\ndone using the REACT of SRAC. The calculation of fission rate on fuel 1 and 2 were 5,39 x 10\r\n\r\nreaction\/cm\r\n3\r\ns with filter and 6,35 x 10\r\n-2\r\n reaction\/cm\r\n3\r\ns without filter, then of capture reaction rate with filter\r\non fuel 1 and 2 were 2,91 x 10\r\n-2\r\n reaction\/cm\r\n3\r\ns, without filter on fuel 1 was 3,9 x 10\r\n-2\r\nreaction\/cm\r\ns and fuel 2\r\nwas 3,78 x 10\r\n-2\r\n reaction\/cm\r\n3\r\ns. The calculation of capture reaction on cladding with filter was higher than\r\nwithout filter was 2,15 x 10\r\n-3\r\n reaction\/cm\r\n3\r\ns, on moderator with filter was lower than without filter was 3,18 x\r\n10\r\n-3\r\n reaction\/cm\r\n3\r\ns. The highest neutron spectrum with 1% enrichment of experiment 1 in thermal energy was\r\n6,31 x 10\r\n-6\r\n MeV\r\n-1\r\n and in fast energy was 6,44 x 10\r\n-6\r\n MeV\r\n-1\r\n, and decreased constantly. Meanwhile of\r\nexperiment 2, neutron spectrum in thermal energy was 1,37 x 10\r\n-5\r\n MeV\r\n-1\r\n3\r\n and in fast energy was 6,91 x 10\r\n\r\nMeV\r\n-1\r\n, and decreased significantly from 1% to 2% enrichment then decreases constantly until 5%\r\nenrichment.\r\n\r\nKeywords: thorium,SCWR, neutron reaction rate,neutron spectrum, SRAC. \r\n-2\r\n-6",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-05-16 03:47:37",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 5,
+      "title": "Perhitungan Laju Reaksi Neutron Model Perangkat Annular\r\nPada Jenis Reaktor SCWR (Supercritical Water Reactor)  \r\nBahan Bakar Thorium",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/29\/72",
+      "date": 2018,
+      "creators": [
+        {
+          "name": {
+            "given": "yanti",
+            "lineage": null,
+            "family": "yulianti",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Syafriadi",
+            "given": "Syafriadi"
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "datestamp": "2019-05-16 03:47:37",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-05-16 03:47:37",
+      "userid": 583,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12972",
+      "full_text_status": "public",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 12972,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 25956,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114265",
+                  "mime_type": "application\/pdf",
+                  "fileid": 114265,
+                  "filename": "1847-4354-1-PB.pdf",
+                  "hash": "2ec09b10a4436dbf945e5762087aad8d",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-16 03:23:11",
+                  "datasetid": "document",
+                  "filesize": 396999
+                }
+            ],
+            "docid": 25956,
+            "main": "1847-4354-1-PB.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25956",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub"
+    }
+]
+

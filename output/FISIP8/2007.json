@@ -1,0 +1,136 @@
+[
+    {
+      "title": "Kemelut Klasik di Lembaga Pemasyarakatan",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2023-04-25 11:19:39",
+      "subjects": [
+        "H1"
+      ],
+      "eprintid": 50654,
+      "documents": [
+          {
+            "docid": 190358,
+            "main": "kemelut klasik.pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-20 07:08:18",
+                  "hash_type": "MD5",
+                  "filename": "kemelut klasik.pdf",
+                  "hash": "b567fa04e6d057d7293df517bfe4c758",
+                  "fileid": 545949,
+                  "mime_type": "application\/pdf",
+                  "filesize": 282544,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545949",
+                  "objectid": 190358
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190358",
+            "eprintid": 50654,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Harian Singgalang",
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50654",
+      "full_text_status": "public",
+      "lastmod": "2023-04-25 11:19:39",
+      "userid": 1187,
+      "datestamp": "2023-04-25 11:19:39",
+      "creators": [
+        {
+          "id": "iwsulistyo@gmail.com",
+          "name": {
+            "given": "Iwan",
+            "lineage": null,
+            "family": "Sulistyo",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Harian Singgalang",
+      "dir": "disk0_bak\/00\/05\/06\/54",
+      "date": "2007-12-15",
+      "type": "article",
+      "divisions": [
+        "FISIP8"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 50653,
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2023-04-25 11:19:35",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Pembangunan dan Kemiskinan",
+      "divisions": [
+        "FISIP8"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/05\/06\/53",
+      "date": "2007-06-08",
+      "publication": "Kolom Detak Jam Gadang Harian Haluan",
+      "creators": [
+        {
+          "name": {
+            "given": "Iwan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistyo"
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "datestamp": "2023-04-25 11:19:35",
+      "lastmod": "2023-04-25 11:19:35",
+      "userid": 1187,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50653",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "publisher": "Harian Haluan",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190357",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 190357,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545943",
+                  "datasetid": "document",
+                  "filesize": 353881,
+                  "mime_type": "application\/pdf",
+                  "fileid": 545943,
+                  "hash": "1ff24301508c867c00c08ed4aa27ce5f",
+                  "filename": "pembangunann dan kemiskinan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-20 07:05:17"
+                }
+            ],
+            "docid": 190357,
+            "main": "pembangunann dan kemiskinan.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50653
+          }
+      ]
+    }
+]
+

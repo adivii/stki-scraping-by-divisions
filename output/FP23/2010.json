@@ -1,0 +1,390 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Irwan Sukri",
+            "lineage": null,
+            "family": "Banuwa",
+            "honourific": null
+          },
+          "id": "irwanbanuwa@yahoo.com"
+        },
+        {
+          "id": "henrie.buchari@fp.unila.ac.id",
+          "name": {
+            "family": "Buchari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Henrie"
+          }
+        }
+      ],
+      "date": "2010-11-25",
+      "dir": "disk0\/00\/03\/77\/72",
+      "type": "conference_item",
+      "divisions": [
+        "FP23"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158699",
+            "rev_number": 1,
+            "docid": 158699,
+            "main": "Prosiding Masyarakat KTA MKTI-compressed.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3148828,
+                  "mime_type": "application\/pdf",
+                  "fileid": 430427,
+                  "hash": "312a7b4d8c8f9531abaa88a82af5ef4a",
+                  "filename": "Prosiding Masyarakat KTA MKTI-compressed.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-10 02:06:15",
+                  "objectid": 158699,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/430427"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 37772,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37772",
+      "full_text_status": "public",
+      "userid": 691,
+      "lastmod": "2022-01-10 09:39:53",
+      "pagerange": "595-609",
+      "datestamp": "2022-01-10 09:39:53",
+      "eprintid": 37772,
+      "event_title": "Seminar Nasional Masyarakat Konservasi Tanah dan Air Indonesia",
+      "date_type": "published",
+      "title": "Karbon Tersimpan pada Berbagai Pola Usaha Tani Berbasis Kopi",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "status_changed": "2022-01-10 09:39:53",
+      "eprint_status": "archive",
+      "abstract": "Karbon dioksida (CO2) adalah gas rumah kaca (GRK) utama yang dhasilkan oleh kegiatan manusia dengan laju emisi yang besar, oleh karena itu gas ini sering dipakai sebagai acuan dalam mempelajari perubahan komposisi atmosfer dan perubahan iklim. Upaya meningkatkan cadangan C di alam secara vegetatif melalui penanaman pohon merupakan upaya untuk mengurangi dampak efek rumah kaca dari gas CO2. Dalam pertumbuhannya, tanaman melakukan proses fotosintesis yang memerlukan sinar matahari, CO2 dari udara, air dan unsur hara.Dengan demikian keberadaan tanaman dapat mengurangi konsentrasi CO2 di atmosfer. Jadi semakin banyak dan rapt tumbuhan per satuan luas lahan maka karbon tersimpan akan semakin banyak dan semakin baik untuk mengurangi dampak negatif akibat efek rumah kaca dari gas CO2. Penelitian ini bertujuan untuk mengetahui karbon tersimpan (Carbon Sink) pada pola usahatani antara kopi, lada, kakao dan pisang dengan kemiringan lereng 10% dan 20%. Penelitian menggunakan Rancangan Acak Kelompok (RAK) yang disusun secara faktoral (5x2x2) dengan dua ulangan, sehingga diperoleh 20 satuan percobaan. Hasil penelitian menunjukan bahwa : (1) Pola usahatani P5 lebih mampu meningkatkan penyimpanan karbon di atas permukaan tanah dan total karbon tersimpan. (2) Kemiringan lereng 10% lebih baik hanya pada biomassa serasah dan kandungan C-mik di dalam tanah, dan (3) Interaksi pola usahatani dengan kemiringanlereng hanya terjadi pada kandungan C-mik di dalam tanah.",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FP23"
+      ],
+      "creators": [
+        {
+          "id": "ainin.niswati@fp.unila.a.c.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati",
+            "given": "Ainin"
+          }
+        },
+        {
+          "name": {
+            "family": "Hidayati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Lety"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sri",
+            "family": "Yusnaini",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arif",
+            "honourific": null,
+            "given": "Mas Achmad Syamsul"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/03\/14",
+      "date": "2010-08-01",
+      "corp_creators": [
+        "Ainin Niswati"
+      ],
+      "userid": 1055,
+      "lastmod": "2016-10-03 01:36:28",
+      "pagerange": "110-125",
+      "datestamp": "2016-10-03 01:20:27",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pres_type": "speech",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/307",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 830456,
+                  "datasetid": "document",
+                  "mtime": "2016-08-17 07:59:25",
+                  "hash_type": "MD5",
+                  "filename": "Ainin - Semkehati 2010.pdf",
+                  "hash": "b99f5827340856cc456d748c771dfa6d",
+                  "fileid": 1796,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1796",
+                  "objectid": 307
+                }
+            ],
+            "main": "Ainin - Semkehati 2010.pdf",
+            "docid": 307,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 314
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/314",
+      "refereed": "TRUE",
+      "event_title": "Seminar Nasional Keanekaragaman Hayati Tanah",
+      "eprintid": 314,
+      "date_type": "published",
+      "event_location": "Bandarlampung",
+      "eprint_status": "archive",
+      "status_changed": "2016-10-03 01:20:27",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "A greenhouse experiment was conducted to study the effect of ages and distance from the centre of roots system on the population and diversity of mesofauna on the  rhizosphere of Maize (Zea mays L.). The research was\r\nconducted by split plot design with the ages (2, 4, and 6 weeks) as a main plot and distance as a sub plots (0-10 cm, 10-20 cm, and >20 cm from the centre of roots\r\nsystem) with three replications. Special pots with the dimension of 60 cm x 60 cm x 30 cm were set up for separates the distance of roots system.  Ultisols soils were used for this experiment and maize was planted until the vegetative stages.  The results showed that the population of mesofauna were significantly affected by the stages and distance from the centre of roots systems of Maizes, however the population of mesofauna were not significantly affected by the interaction between stages and distance from the centre of roots systems of Maizes. The\r\ndiversity of mesofauna were not significantly affected by the stages, distance from the centre of roots systems of Maizes and were not significantly affected by their\r\ninteraction.  The highest population were found in the 7 weeks age of maize.  Among the distance, 0-10 cm from the center of root systems have more mesofauna than that of the others.   Descriptively, Collembola dominated of mesofauna on the 7 weeks ages of maize with the distance of  > 20 cm from the center of root systems.  The population of mesofauna have correlated with soil  temperature, soil pH, and soil organic carbon in the present study.",
+      "event_dates": "29-30 Juni 2010",
+      "title": "Populasi dan Keragaman Mesofauna Tanah pada Perakaran Jagung dengan Berbagai Umur dan Jarak dari Pusat Perakaran",
+      "rev_number": 12,
+      "event_type": "conference",
+      "metadata_visibility": "show"
+    },
+    {
+      "date": "2010-05-01",
+      "id_number": "10.5400\/jts.2010.15.2.153",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "publisher": "University of Lampung",
+      "datestamp": "2016-11-03 04:37:15",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-11-03 04:37:15",
+      "date_type": "published",
+      "eprintid": 1048,
+      "official_url": "http:\/\/journal.unila.ac.id\/index.php\/tropicalsoil\/index",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Soil nutrients content and its spatial distribution are very important data for site specific fertilizer management to supply sufficient crop nutrition.  The study was carried out  at the farmer paddy field in Rejomulyo Village, Metro Town District of Lampung Province. The aim of this study was to evaluate the relationship between soil nutrients content (N, P, K) and rice yield. Soil samples were collected before fertilizers treatment by the grid sampling method and GPS was used as a tool for precisely determine sample site location.  Rice yield data were collected by small plot method on the each-of soil sample location. Spatial analysis using GS  software and statistical analysis using SPSS software. The result indicated that total nitrogen in the soil had a  significantly correlation with the rice yield   (r = 0.95**) and their spatial distribution was relatively similar each others.  Spatial maps of soil nutrients content could be used for the variable rate fertilizers treatment, especially for nitrogen.",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/10\/48",
+      "publication": "Journal of Tropical Soils",
+      "issn": "0852-257X",
+      "creators": [
+        {
+          "id": "tamaluddin.syam@fp.unila.ac.id",
+          "name": {
+            "given": "Tamaluddin",
+            "family": "Syam",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1048",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 1048,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/937",
+            "rev_number": 2,
+            "main": "Sytam JTT 2010.pdf",
+            "docid": 937,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6785",
+                  "objectid": 937,
+                  "hash": "f324cd6f190ca7fd57e7481e7019003d",
+                  "filename": "Sytam JTT 2010.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-03 03:50:23",
+                  "mime_type": "application\/pdf",
+                  "fileid": 6785,
+                  "filesize": 223261,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "pagerange": "153-157",
+      "userid": 935,
+      "volume": 15,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Spatial Variability of Soil Nutrients Content Related to Rice Yield",
+      "status_changed": "2016-11-03 04:37:15"
+    },
+    {
+      "datestamp": "2016-10-13 15:41:38",
+      "pagerange": "51-58",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "userid": 1055,
+      "lastmod": "2016-10-13 15:41:38",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/784",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 784,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "docid": 678,
+            "main": "JIFS, 7 - 51 Ainin.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4576",
+                  "objectid": 678,
+                  "filename": "JIFS, 7 - 51 Ainin.pdf",
+                  "hash": "8d001dd5e63272dec004aae51baa3b83",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-12 09:58:26",
+                  "mime_type": "application\/pdf",
+                  "fileid": 4576,
+                  "filesize": 93890,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/678"
+          }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/07\/84",
+      "date": "2010-07-01",
+      "publication": "JIFS",
+      "creators": [
+        {
+          "id": "muhajir.utomo@fp.unila.ac.id",
+          "name": {
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhajir"
+          }
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "given": "Ainin",
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "-",
+            "honourific": null,
+            "family": "Dermiyati",
+            "lineage": null
+          },
+          "id": "dermiyati.1963@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmawati",
+            "lineage": null,
+            "given": "Merza"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Raguan",
+            "given": "Eva"
+          }
+        },
+        {
+          "name": {
+            "given": "F",
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif"
+          },
+          "id": null
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Soil carbon and earthworm are important components in sustainable tropical agro-\r\necosystem. Longterm experiment was initially conducted in February 1987, at experiment\r\nfarm of Politeknik Negeri Lampung, Sumatra, Indonesia. The soil is a Typic Fragiudult with\r\nslope ranging from 6 to 9%, located at 105 13'E, 05 21'S, with elevation 122 m. The\r\nexperiment was a factorial, randomized complete block design, with 4 replications. Tillage\r\ntreatments were conservation tillage (no-tillage, NT and minimum tillage, MT), and ...",
+      "eprint_status": "archive",
+      "status_changed": "2016-10-13 15:41:38",
+      "rev_number": 8,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "title": "Earthworm and Soil Carbon Sequestration after Twenty One Years of Continuous No-tillage Corn-Legume Rotation in Indonesia",
+      "date_type": "published",
+      "eprintid": 784
+    }
+]
+

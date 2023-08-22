@@ -1,0 +1,1161 @@
+[
+    {
+      "eprintid": 28328,
+      "rev_number": 8,
+      "place_of_pub": "Yogyakarta",
+      "metadata_visibility": "show",
+      "title": "Peer Review: ALGORITMA GENETIKA, Teori dan Aplikasi",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2021-04-01 01:45:32",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/83\/28",
+      "date": 2016,
+      "id_number": "ISBN: 978-602-262-307-6",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "AS",
+            "family": "Admi Syarif",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28328",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 28328,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42876",
+            "rev_number": 1,
+            "main": "1. ga16_nilai.pdf",
+            "docid": 42876,
+            "files": [
+                {
+                  "objectid": 42876,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255501",
+                  "fileid": 255501,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-31 19:32:44",
+                  "hash": "53c84d90b27243b7ca88b984c67f7984",
+                  "filename": "1. ga16_nilai.pdf",
+                  "datasetid": "document",
+                  "filesize": 2224969
+                }
+            ]
+          }
+      ],
+      "publisher": "PT. Graha Ilmu",
+      "datestamp": "2021-04-01 01:45:32",
+      "lastmod": "2021-04-01 01:45:32",
+      "userid": 725
+    },
+    {
+      "dir": "disk0\/00\/00\/13\/29",
+      "date": "2016-04-10",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "AS",
+            "family": "Admi Syarif",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "AR",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "AD",
+            "lineage": null,
+            "family": "A. Dwiastuti",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "R. Malinda",
+            "given": "RM"
+          },
+          "id": null
+        }
+      ],
+      "issn": "1819-6608",
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "contact_email": "aristoteles.1981@fmipa.unila.ac.id",
+      "refereed": "TRUE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1329",
+      "publisher": "Asian Research Publishing Network",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 1329,
+            "security": "validuser",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "rev_number": 6,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1207",
+            "main": "Jurnal Int  2016 ARPN Journal of Engineering and Applied Sciences -aristoteles.pdf",
+            "docid": 1207,
+            "files": [
+                {
+                  "objectid": 1207,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8933",
+                  "datasetid": "document",
+                  "filesize": 936439,
+                  "fileid": 8933,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-19 07:44:57",
+                  "filename": "Jurnal Int  2016 ARPN Journal of Engineering and Applied Sciences -aristoteles.pdf",
+                  "hash": "ef2c746869c501d73bd3f3960ffa6f3d"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 7,
+      "datestamp": "2016-12-29 01:06:35",
+      "pagerange": "4713-4719",
+      "lastmod": "2016-12-29 01:06:35",
+      "userid": 215,
+      "date_type": "published",
+      "eprintid": 1329,
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 15,
+      "official_url": "http:\/\/www.arpnjournals.org\/jeas\/research_papers\/rp_2016\/jeas_0416_4013.pdf",
+      "title": "PERFORMANCE EVALUATION OF VARIOUS GENETIC ALGORITHM APPROACHES FOR KNAPSACK PROBLEM",
+      "abstract": "Knapsack Problem (KP) is known as one of optimization problems that has taken great interest of researchers. It\r\nhas been applied for many practical applications. Since it belongs to the class of NP-hard problems, most of researchers reported heuristic methods to solve it. Those include Branch and Bound, Greedy Algorithm, Genetic Algorithm and Dynamic Programming.  \r\n\r\nIn this paper, we focus on the performance evaluation of various Genetic Algorithm (GA) approaches to solve\r\nKnapsack Problem. We developed four different GA approaches with different strategies. The first, random penalty GA\r\n(rpGA) uses random strategy to generate chromosome and penalty strategy to handle infeasible chromosome. The second, directed penalty GA (dpGA) uses directed strategy to generate chromosome and penalty to handle infeasible chromosome. The third, random repairing GA (rrGA) uses random strategy to generate chromosome and repairing strategy to handle\r\ninfeasible chromosome. The fourth, directed repairing GA (drGA) uses directed strategy to generate chromosome and\r\nrepairing strategy to handle infeasible chromosome. \r\n\r\nIn order to investigate the performance of those Algorithms, we have done several numerical experiments by using different size Benchmark test problems given in literature. The effectiveness and the efficiency of the methods are also evaluated by varying GA parameters. Based on our experiments, it is shown that drGA was the best performance to give optimal solution within reasonable computational time. \r\n \r\nKeywords:\r\nknapsack problem, combinatorial optimization, evaluation strategy, genetic algorithm.",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2016-12-29 01:06:35",
+      "eprint_status": "archive"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28339",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28339,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255507",
+                  "objectid": 42878,
+                  "filesize": 2628842,
+                  "datasetid": "document",
+                  "mtime": "2021-03-31 19:33:51",
+                  "hash_type": "MD5",
+                  "hash": "a5e1a0fd4eb974eb0591754caecb7911",
+                  "filename": "5. arpn116_nilai.pdf",
+                  "fileid": 255507,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 42878,
+            "main": "5. arpn116_nilai.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42878",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Asian Research Publishing Network",
+      "ispublished": "pub",
+      "datestamp": "2021-04-01 01:45:40",
+      "lastmod": "2021-04-01 01:45:40",
+      "userid": 725,
+      "dir": "disk0\/00\/02\/83\/39",
+      "date": "2016-04",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Arianti",
+            "lineage": null,
+            "given": "Dwiastuti"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Riska",
+            "honourific": null,
+            "lineage": null,
+            "given": "Malinda"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "official_url": "http:\/\/www.arpnjournals.org\/jeas\/research_papers\/rp_2016\/jeas_0416_4013.pdf",
+      "title": "Peer Review: Performance evaluation of various genetic algorithm approaches for knapsack problem",
+      "abstract": "Knapsack Problem (KP) is known as one of optimization problems that has taken great interest of researchers. It has been applied for many practical applications. Since it belongs to the class of NP-hard problems, most of researchers reported heuristic methods to solve it. Those include Branch and Bound, Greedy Algorithm, Genetic Algorithm and Dynamic Programming. In this paper, we focus on the performance evaluation of various Genetic Algorithm (GA) approaches to solve Knapsack Problem. We developed four different GA approaches with different strategies. The first, random penalty GA (rpGA) uses random strategy to generate chromosome and penalty strategy to handle infeasible chromosome. The second, directed penalty GA (dpGA) uses directed strategy to generate chromosome and penalty to handle infeasible chromosome. The third, random repairing GA (rrGA) uses random strategy to generate chromosome and repairing strategy to handle infeasible chromosome. The fourth, directed repairing GA (drGA) uses directed strategy to generate chromosome and repairing strategy to handle infeasible chromosome. In order to investigate the performance of those algorithms, we have done several numerical experiments by using different size Benchmark test problems given in literature. The effectiveness and the efficiency of the methods are also evaluated by varying GA parameters. Based on our experiments, it is shown that drGA was the best performance to give optimal solution within reasonable computational time. Keywords: knapsack problem, combinatorial optimization, evaluation strategy, genetic algorithm.",
+      "subjects": [
+        "T1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-04-01 01:45:40",
+      "eprintid": 28339
+    },
+    {
+      "event_location": "Bandarlampung",
+      "eprintid": 3816,
+      "event_title": "3rd  INTERNATIONAL WILDLIFE SYMPOSIUM",
+      "date_type": "published",
+      "title": "An Expert System To Diagnose Chicken Diseases With Certainty Factor Based On Android",
+      "official_url": "http:\/\/wildlife.unila.ac.id\/download\/proceeding-iws-unila-2016\/",
+      "event_dates": "18-20 October 2016",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "eprint_status": "archive",
+      "status_changed": "2017-08-11 03:57:59",
+      "abstract": "There search was conducted to create an expert system that is able to diagnose chicken diseases based on the experts \/ specialists knowledge. This study uses a calculation method called Certainty Factor (CF) to calculate the level of expertise. The expert system created on Android mobile device platform.The research data consist of symptoms data, chicken diseases data, and data rules. Chicken disease data is limited to diseases caused by bacteria (bacterial), totaling 19 types of diseases with 78 kinds  of  symptoms and  184  types  of  rules.Inference method  that  used  is  forward  chaining  by searching for rules based on user answers in the form of check mark (√). Users answers are processed according to the rules and calculated using certainty factor method. The test results showed that : (1) Functional testing using Black Box Equivalence Partitioning (EP) get results as expected as the test scenarios in each test class.(2) Diagnosis testing by comparing the results of manual calculations and systems calculations showed 99 percent was appropriate and well-run.(3) Questionnaire testing with 31 respondents were divided into three groups of respondents indicated; first respondents group consisting of specialists of chicken diseases gets 63.33 percent of an average value (categorized good), the second respondents group consisting of breeder and students of majoring in animal. husbandry gets 77.71 percent of an average value (categorized good), and the third respondents group consisting of students of majoring computer science gets 82 percent of an average value (categorized very good).",
+      "subjects": [
+        "QA75"
+      ],
+      "creators": [
+        {
+          "id": "aristoteles.1981@fmipa.unila.ac.id",
+          "name": {
+            "given": "Aristoteles",
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Adhianto",
+            "lineage": null,
+            "given": "Kusuma"
+          },
+          "id": "."
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Puji Abdulah",
+            "honourific": null,
+            "family": "Puja",
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2016-10-20",
+      "dir": "disk0\/00\/00\/38\/16",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 3816,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3676",
+            "docid": 3676,
+            "main": "Proceeding_IWS_2016_Aristoteles.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-10 05:45:15",
+                  "hash": "4bded5e8bda0dedb2c290ef1dd5e0236",
+                  "filename": "Proceeding_IWS_2016_Aristoteles.pdf",
+                  "fileid": 26721,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1393830,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26721",
+                  "objectid": 3676
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3816",
+      "lastmod": "2017-08-11 03:57:59",
+      "userid": 215,
+      "pagerange": "117-12",
+      "datestamp": "2017-08-11 03:57:59"
+    },
+    {
+      "creators": [
+        {
+          "id": "aristoteles.1981@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Adhianto",
+            "lineage": null,
+            "given": "Kusuma"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Abdullah",
+            "honourific": null,
+            "family": "Puja Putri",
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2016-10-20",
+      "dir": "disk0\/00\/00\/37\/65",
+      "contact_email": "aristoteles.1981@fmipa.unila.ac.id",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3765,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3621",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 3621,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26394",
+                  "datasetid": "document",
+                  "filesize": 1393830,
+                  "mime_type": "application\/pdf",
+                  "fileid": 26394,
+                  "filename": "Proceeding_IWS_2016_Aristoteles.pdf",
+                  "hash": "4bded5e8bda0dedb2c290ef1dd5e0236",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-03 14:01:27"
+                }
+            ],
+            "main": "Proceeding_IWS_2016_Aristoteles.pdf",
+            "docid": 3621
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3765",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 215,
+      "lastmod": "2017-08-11 04:00:20",
+      "pagerange": "117-126",
+      "datestamp": "2017-08-11 04:00:20",
+      "event_location": "Bandarlampung",
+      "event_title": "3rd  INTERNATIONAL WILDLIFE SYMPOSIUM",
+      "eprintid": 3765,
+      "date_type": "published",
+      "official_url": "http:\/\/wildlife.unila.ac.id\/download\/proceeding-iws-unila-2016\/",
+      "event_dates": "18-20 October 2016",
+      "title": "AN EXPERT SYSTEM TO DIAGNOSE CHICKEN DISEASES WITH\r\nCERTAINTY FACTOR BASED ON ANDROID",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "status_changed": "2017-08-11 04:00:20",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "Theresearch was conducted to create an expert system that is able to diagnosechicken diseases based\r\non the experts \/ specialists knowledge. This study uses a calculation method called Certainty Factor\r\n(CF) to calculate the level of expertise. The expert system created on Android mobile device \r\nplatform.The research data consist of symptoms data, chicken diseases data, and data rules. Chicken\r\ndisease data is limited to diseases caused by bacteria (bacterial), totaling 19 types of diseases with 78\r\nkinds  of  symptoms and  184  types  of  rules.Inference method  that  used  is  forward  chaining  by\r\nsearching for rules based on user answers in the form of check mark (√).Users answers are processed\r\naccording to the rules and calculated using certainty factor method. The test results showed that : (1)\r\nFunctional testing using Black Box Equivalence Partitioning (EP) get results as expected as the test \r\nscenarios in each test class.(2) Diagnosis testing by comparing the results of manual calculations and\r\nsystems calculations showed 99 percent was appropriate and well-run.(3) Questionnaire testing with\r\n31 respondents were divided into three groups of respondents indicated; first respondents group consisting of specialists of chicken diseases gets 63.33 percent of an average value (categorized good),the second respondents group consisting of breeder and students of majoring in animal husbandrygets77.71 percent of an average value (categorized good), and the third respondents group consisting of students of majoring computer science gets82 percent of an average value (categorized very good). \r\nKeywords: Android, Certainty Factor, CF method, Chicken Disease, Expert System."
+    },
+    {
+      "subjects": [
+        "QA76"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 10:14:39",
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 7,
+      "title": "Pengembangan Sistem Informasi Comicreader Menggunakan Kerangka Kerja Yii",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1191\/974",
+      "date_type": "published",
+      "eprintid": 16210,
+      "datestamp": "2019-11-14 10:14:39",
+      "pagerange": "176-186",
+      "lastmod": "2019-11-14 10:14:39",
+      "userid": 215,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16210",
+      "full_text_status": "public",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 16210,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29313",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138672",
+                  "objectid": 29313,
+                  "mtime": "2019-11-13 02:40:08",
+                  "hash_type": "MD5",
+                  "filename": "1191-2750-2-PB (1).pdf",
+                  "hash": "2b0798cc4e8bddd9d89ed7bc8c4052ca",
+                  "fileid": 138672,
+                  "mime_type": "application\/pdf",
+                  "filesize": 771120,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 29313,
+            "main": "1191-2750-2-PB (1).pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "date": "2016-04-01",
+      "dir": "disk0\/00\/01\/62\/10",
+      "creators": [
+        {
+          "name": {
+            "family": "Aristoteles",
+            "honourific": null,
+            "lineage": null,
+            "given": "Aristoteles"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dwi",
+            "honourific": null,
+            "family": "Sakethi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif",
+            "given": "Admi"
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "issn": "2541-0350",
+      "publication": "Jurnal Komputasi"
+    },
+    {
+      "date": "2016-04",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "corp_creators": [
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung"
+      ],
+      "lastmod": "2017-07-31 07:36:47",
+      "datestamp": "2017-07-31 07:36:47",
+      "eprintid": 3723,
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/komputasi\/index",
+      "eprint_status": "archive",
+      "abstract": "This study developed a Decision Support System (DSS) by utilizing Analytical Hierarchy Process (AHP)\r\nMethod as a process in selection of employees acquisition. This selection process used several criteria\r\n(multicriteria) to choose which applicants will be accepted. This Decision Support System (DSS) helps\r\nmanagers of Human Resources (HR) in deciding which applicants will be selected. In this application, there are\r\ncriteria used and the weight of those criteria. This application of module business process will be able to\r\ngenerate the rank of each applicant based on the final amount. The applicant who has the greatest value will be\r\ngiven a better rank and it means that the applicant has criteria in accordance with company’s requirement. In\r\naddition, Web Service as a business process of payroll modules. In this process, a set of functions or methods\r\nwhich contained on a server can exchange data and information using an operating system and application that\r\ndifferent from each other through the internet that uses XML as the format of message delivery. This system\r\nconstructed by using PHP and MySQL as language. The result of functional testing data based on test case\r\ntesting shows that the system can work \"in accordance\" with its analysis.",
+      "subjects": [
+        "QA75"
+      ],
+      "issn": "2541-0350",
+      "creators": [
+        {
+          "id": "astria.hijriani@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Hijriani",
+            "lineage": null,
+            "given": "Astria"
+          }
+        },
+        {
+          "id": "febi.febriansyah@fmipa.unila.ac.id",
+          "name": {
+            "given": "Febi Eka",
+            "family": "Febriansyah",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ana",
+            "family": "Ana",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Komputasi",
+      "dir": "disk0\/00\/00\/37\/23",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3723,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3586",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "9b8af1031a89e1dc7bb31a632f0ff395",
+                  "filename": "1135-2678-3-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-25 08:59:19",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26152,
+                  "filesize": 565785,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26152",
+                  "objectid": 3586
+                }
+            ],
+            "main": "1135-2678-3-PB.pdf",
+            "docid": 3586
+          }
+      ],
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3723",
+      "userid": 80,
+      "pagerange": "75-83",
+      "title": "Pengembangan Modul Penerimaan Karyawan dan\r\nModul Penggajian pada Sistem Informasi Kepegawaian\r\nPt. Traktor Nusantara Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 4,
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/komputasi\/article\/view\/1135\/932",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2017-07-31 07:36:47"
+    },
+    {
+      "eprint_status": "archive",
+      "abstract": "Salah satu tantangan bagi pelaku usaha kecil dan menengah adalah bagaimana mengembangkan target pemasaran produk yang dihasilkan, hal ini dapat dilakukan dengan pemanfaatan teknologi informasi. Akan tetapi berdasarkan catatan Biro Pusat Statistik sebagian besar taraf pendidikan pelaku usaha kecil dan menengah lulusan sekolah dasar yaitu sebesar 48% yang menyebabkan belum memanfaatkan teknologi informasi sebagai sarana untuk memperluas pemasaran produknya. Dalam penelitian ini melakukan uji coba terhadap 2 UKM untuk menerapkan teknologi informasi berupa e-commerce. Dari penerapan ini, didapatkan hasil bahwa terdapat peningkatan jumlah pelanggan yang dipengaruhi informasi dari penerepan e-commerce ini. Akan tetapi karena karakteristik pemakai produk dari UKM ini harus melakukan tatap muka secara langsung untuk menentukan spesifikasi produknya, maka pemanfaatan fungsi-fungsi e-commerce tidak maksimal.",
+      "subjects": [
+        "QA75"
+      ],
+      "official_url": "http:\/\/ejournal.upnjatim.ac.id\/index.php\/scan\/index",
+      "eprintid": 3718,
+      "date_type": "published",
+      "corp_creators": [
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung"
+      ],
+      "lastmod": "2017-07-31 03:52:14",
+      "datestamp": "2017-07-31 03:52:14",
+      "publisher": "UPN Veteran Jawa Timur",
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "date": "2016-02",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ejournal.upnjatim.ac.id\/index.php\/scan\/article\/view\/631"
+        }
+      ],
+      "status_changed": "2017-07-31 03:52:14",
+      "title": "PENERAPAN TEKNOLOGI INFORMASI PADA UKM KERAJINAN LAS DAN ALUMUNIUM DI KELURAHAN SUSUNAN BARU  DENGAN PENINGKATAN KEMAMPUAN E-COMMERCE",
+      "metadata_visibility": "show",
+      "volume": "XI",
+      "rev_number": 7,
+      "userid": 80,
+      "pagerange": "31-35",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3582",
+            "rev_number": 2,
+            "docid": 3582,
+            "main": "Jurnal SCAN UPN Veteran.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26130",
+                  "objectid": 3582,
+                  "filesize": 3026504,
+                  "datasetid": "document",
+                  "hash": "28bfac0e77cd4d899a0de02989fa628b",
+                  "filename": "Jurnal SCAN UPN Veteran.pdf",
+                  "mtime": "2017-07-25 07:29:05",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26130
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "content": "published",
+            "eprintid": 3718,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3718",
+      "issn": "1978-0087",
+      "creators": [
+        {
+          "name": {
+            "given": "Didik",
+            "lineage": null,
+            "family": "Kurniawan",
+            "honourific": null
+          },
+          "id": "didikunila@gmail.com"
+        },
+        {
+          "id": "astria.hijriani@gmail.com",
+          "name": {
+            "family": "Hijriani",
+            "honourific": null,
+            "lineage": null,
+            "given": "Astria"
+          }
+        }
+      ],
+      "publication": "SCAN - Jurnal Teknologi Informasi dan Komunikasi",
+      "dir": "disk0\/00\/00\/37\/18"
+    },
+    {
+      "publication": "Jurnal Komputasi",
+      "creators": [
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "honourific": null,
+            "family": "Aristoteles"
+          }
+        }
+      ],
+      "issn": "2541-0350",
+      "date": "2016-10-01",
+      "dir": "disk0\/00\/01\/62\/09",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 16209,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 724071,
+                  "fileid": 138664,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-13 02:36:41",
+                  "filename": "1351-3403-1-PB.pdf",
+                  "hash": "ab76c79300ec81040769b96303d9391c",
+                  "objectid": 29312,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138664"
+                }
+            ],
+            "docid": 29312,
+            "main": "1351-3403-1-PB.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29312",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16209",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2019-11-14 10:14:37",
+      "userid": 215,
+      "datestamp": "2019-11-14 10:14:37",
+      "pagerange": "52-66",
+      "eprintid": 16209,
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1351\/1213",
+      "title": "Pemetaan Sebaran Asal Siswa dan Klasifikasi Jarak Asal Siswa SMA Negeri di Kabupaten Pringsewu Menggunakan Metode NaïVe Bayes",
+      "volume": 4,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 10:14:37",
+      "subjects": [
+        "QA76"
+      ]
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nguyen",
+            "given": "Ngoc G"
+          }
+        },
+        {
+          "name": {
+            "given": "Vu Anh",
+            "lineage": null,
+            "family": "Tran",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Phan",
+            "lineage": null,
+            "given": "Dau"
+          }
+        },
+        {
+          "name": {
+            "given": "Favorisen R",
+            "family": "Lumbanraja",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Faisal",
+            "honourific": null,
+            "given": "Mohammad  Reza"
+          }
+        },
+        {
+          "name": {
+            "family": "Abapihi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Bahriddin"
+          }
+        },
+        {
+          "name": {
+            "given": "Mamoru",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kubo"
+          }
+        },
+        {
+          "name": {
+            "family": "Satou",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kenji"
+          }
+        }
+      ],
+      "issn": "1937-688X",
+      "publication": "Journal Biomedical Science and Engineering",
+      "dir": "disk0\/00\/02\/80\/63",
+      "date": 2016,
+      "lastmod": "2021-02-24 05:04:50",
+      "userid": 99,
+      "pagerange": "280-286",
+      "datestamp": "2021-02-24 05:04:50",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42119",
+            "rev_number": 1,
+            "docid": 42119,
+            "main": "JBiSE_2016042713533805.pdf",
+            "files": [
+                {
+                  "objectid": 42119,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249923",
+                  "fileid": 249923,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-23 08:49:54",
+                  "filename": "JBiSE_2016042713533805.pdf",
+                  "hash": "dbae4ba1fd7253f1d84e1589bf61cd1f",
+                  "datasetid": "document",
+                  "filesize": 916176
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 28063,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Scientific Research",
+      "ispublished": "pub",
+      "number": 5,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28063",
+      "full_text_status": "public",
+      "eprintid": 28063,
+      "status_changed": "2021-02-24 05:04:50",
+      "eprint_status": "archive",
+      "abstract": "In recent years, a deep learning model called convolutional neural network with an ability of extracting features of high-level abstraction from minimum preprocessing data has been widely\r\nused. In this research, we proposed a new approach in classifying DNA sequences using the convolutional neural network while considering these sequences as text data. We used one-hot vectors to represent sequences as input to the model; therefore, it conserves the essential position information of each nucleotide in sequences. Using 12 DNA sequence datasets, we evaluated our proposed model and achieved significant improvements in all of these datasets. This result has shown a potential of using convolutional neural network for DNA sequence to solve other sequence problems in bioinformatics.",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "DNA Sequence Classification by Convolutional Neural Network",
+      "official_url": "https:\/\/www.scirp.org\/journal\/jbise",
+      "metadata_visibility": "show",
+      "volume": 9,
+      "rev_number": 8
+    },
+    {
+      "status_changed": "2017-06-02 05:29:17",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/e-journal.unair.ac.id\/index.php\/JISEBI\/article\/view\/1848"
+        }
+      ],
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "Population distribution pattern is one of Bandar Lampung government concerns. This information\r\nis useful for goverment decision making for specific local development.The prediction of population number\r\nusing certain model is predicted will be useful for Bandar Lampung development plan. Information about\r\ndistribution and prediction of resident population in Bandar Lampung are processed manually and limitedly\r\npresented in form of tables and graphs. The purpose of this research is to build Bandar Lampung web based\r\nGeographic Information System that predict population distribution and mapping using Geometric Model.\r\nData in this research were obtained from Statistics Of Bandar Lampung Municipality Publication. This\r\nsystem was implemented by using QGIS, GeoServer, PostgreSQL and PHP",
+      "title": "Pemetaan Penyebaran dan Prediksi Jumlah Penduduk Menggunakan Model Geometrik di Wilayah Bandar Lampung Berbasis Web-GIS",
+      "official_url": "http:\/\/doi.org\/10.20473\/jisebi.2.2.95-101",
+      "volume": 2,
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "eprintid": 2558,
+      "lastmod": "2017-06-02 05:29:17",
+      "corp_creators": [
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung",
+        "Jurusan Ilmu Komputer Universitas Lampung"
+      ],
+      "userid": 80,
+      "pagerange": 95,
+      "datestamp": "2017-06-02 05:29:17",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "docid": 2442,
+            "main": "1848-7284-1-PB.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 583028,
+                  "fileid": 17670,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 07:54:36",
+                  "hash": "5753db1852c40c27fefc2b46d64cbad4",
+                  "filename": "1848-7284-1-PB.pdf",
+                  "objectid": 2442,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17670"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2442",
+            "rev_number": 1,
+            "eprintid": 2558,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Universitas Airlangga",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2558",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "Journal of Information Systems Engineering and Business Intelligence",
+      "creators": [
+        {
+          "name": {
+            "family": "Rahayu",
+            "honourific": null,
+            "lineage": null,
+            "given": "Yuni"
+          }
+        },
+        {
+          "name": {
+            "given": "Kurnia",
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Astria",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hijriani"
+          }
+        }
+      ],
+      "issn": "2443-2555",
+      "dir": "disk0\/00\/00\/25\/58",
+      "date": 2016,
+      "id_number": "doi:10.20473\/jisebi.2.2.95-101"
+    },
+    {
+      "abstract": "Knapsack Problem (KP) is known as one of optimization problems that has taken great interest of researchers. It\r\nhas been applied for many practical applications. Since it belongs to the class of NP-hard problems, most of researchers reported heuristic methods to solve it. Those include Branch and Bound, Greedy Algorithm, Genetic Algorithm and Dynamic Programming.  \r\n\r\nIn this paper, we focus on the performance evaluation of various Genetic Algorithm (GA) approaches to solve Knapsack Problem. We developed four different GA approaches with different strategies. The first, random penalty GA (rpGA) uses random strategy to generate chromosome and penalty strategy to handle infeasible chromosome. The second, directed penalty GA (dpGA) uses directed strategy to generate chromosome and penalty to handle infeasible chromosome. The third, random repairing GA (rrGA) uses random strategy to generate chromosome and repairing strategy to handle infeasible chromosome. The fourth, directed repairing GA (drGA) uses directed strategy to generate chromosome and repairing strategy to handle infeasible chromosome. \r\n\r\nIn order to investigate the performance of those algorithms, we have done several numerical experiments by using different size Benchmark test problems given in literature. The effectiveness and the efficiency of the methods are also evaluated by varying GA parameters. Based on our experiments, it is shown that drGA was the best performance to give optimal solution within reasonable computational time. \r\n \r\nKeywords:\r\nknapsack problem, combinatorial optimization, evaluation strategy, genetic algorithm.",
+      "subjects": [
+        "QA75",
+        "TA"
+      ],
+      "succeeds": 1079,
+      "eprint_status": "archive",
+      "status_changed": "2020-09-03 07:09:37",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 10,
+      "referencetext": "[1] Martello, S. and Toth P. 1990. Knapsack Problems,\r\nAlgorithms and Computer Implementations. John\r\nWilley and Sons. \r\n\r\n[2] Sarac, T. and Anagun, A. S. 2006. Optimization of \r\nPerformance of Genetic Algorithm for 0-1 Knapsack\r\nProblem Using Taguchi Method. Proceedings of \r\nICCSA, (M. Gavrilova et al Editors). SpringerVerlag,\r\nBerlin.\r\n\r\n\r\n[3] Pisinger, D. 1995. Algorithm for Knapsack Problem, \r\nPhD Thesis. The University of Copenhagen,\r\nUniversitetsparken 1, DK-2100 Copenhagen,\r\nDenmark.  \r\n\r\n[4] Gupta, M. 2013. A Fast and Efficient Genetic \r\nAlgorithm to Solve 0-1 Knapsack Problem.\r\nInternational Journal of Digital Application and\r\nContemporary Research. Vol. 1, No. 6. \r\n\r\n[5] Pisinger, D. 2005. Where Are The Hard Knapsack \r\nProbems?. Computer and Operation Research. Vol.\r\n32, No. 9. pp. 2271-2284. \r\n\r\n[6] Martello, S., Pisinger, D. and Toth P. 2000.  New \r\nTrends in Exact Algorithms for the 0-1 Knapsack Problem. European Journal of Operational Research. \r\npp. 325-332. \r\n\r\n[7] Zhou, J., Huang, T., Pang, F. and Liu, Y. 2009.  \r\nGenetic Algorithm based on Greedy Strategy in the\r\n0-1 Knapsack Problem. Proceedings of the Third\r\nInternational Conference of Evolutionary\r\nComputing.  pp. 105-107 \r\n\r\n[8] Garg, M. L. and Gupta, S. 2009. An Improved \r\nGenetic Algorithm Based on Adaptive Repair\r\nOperator for Solving the Knapsack Problem.  Journal\r\nof Computer Science, Vol. 5, No. 8. pp. 544-547. \r\n\r\n[9] Holland, J. 1992. Adaptation in Natural and \r\nArtificial Systems. University of Michigan Press, \r\n1975 and MIT Press. \r\n\r\n[10] Gen, M. and Cheng, R. 1997. Genetic Algorithms \r\nand Engineering Design. John Wiley & Sons, New\r\nYork, USA. \r\n\r\n[11] Gen, M. and Cheng, R. 2000. Genetic Algorithms \r\nand Engineering Optimization. John Wiley & Sons,\r\nNew York, USA.  \r\n\r\n[12] Goldberg, D. 1989. Genetic Algorithm in Search, \r\nOptimization and Machine Learning. Reading, MA:\r\nAddison-Wesley. \r\n\r\n[13] Michalewicz, Z. 1994. Genetic Algorithms + Data \r\nStructure = Evolution Program. Springer-Verlag,\r\nNew York. \r\n\r\n[14] Syarif, A. and Gen, M. 2003. Solving Exclusionary \r\nSide Constrained Transportation Problem by Using\r\nA Hybrid Spanning Tree-based Genetic Algorithm.\r\nJournal of Intelligent Manufacturing, Vol. 14 (3\/4).\r\npp. 389-399. \r\n\r\n[15] Syarif, A. and Gen, M. 2003. Double Spanning Tree-\r\nBased Genetic Algorithm for Two Stage\r\nTransportation Problem. The International Journal of\r\nKnowledge-based Engineering Systems.  Vol. 7, No.\r\n4. pp. 214-221.  \r\n\r\n[16] Syarif, A., Yun, Y.S. and Gen, M. 2002. Study on \r\nMulti-stage Logistics Chain Network: A Spanning\r\nTree-based Genetic Algorithm Approach.\r\nInternational Journal of Computer and Industrial\r\nEngineering. Vol. 43, No. 1-2. pp. 299-314. \r\n\r\n[17] Syarif, A., Wamiliana and Yasir, W. 2008. Evaluasi \r\nKinerja Metode-Metode Heuristik untuk\r\nPenyelesaian Traveling Salesman Problem. Jurnal\r\nSains MIPA (In Indonesian Language). Vol. 14, No.\r\n1.       \r\n\r\n[18] Syarif, A. 2014. Algoritma Genetika: Teori dan\r\nAplikasi, 2nd Ed. PT Graha Ilmu, (in Indonesian\r\nLanguage). \r\n\r\n[19] HUhttp:\/\/kpacking.googlecode.com\/svn\/trunk\/UH \r\ndownloaded on January 23\r\nrd. 2015.",
+      "official_url": "http:\/\/www.arpnjournal.com",
+      "title": "Performance Evaluation of Various Genetic Algorithm\r\nApproaches for Knapsack Problem",
+      "date_type": "published",
+      "eprintid": 23873,
+      "datestamp": "2020-09-03 07:09:37",
+      "pagerange": "4713-4719",
+      "lastmod": "2021-06-15 07:05:32",
+      "userid": 725,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23873",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23873,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/385543",
+                  "objectid": 147962,
+                  "hash": "886a331303be2552df0df8c7f5df96ba",
+                  "filename": "0. JI_Terindeks_2_ARPN 2016 - Lengkap.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-15 07:05:32",
+                  "mime_type": "application\/pdf",
+                  "fileid": 385543,
+                  "filesize": 9674885,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "0. JI_Terindeks_2_ARPN 2016 - Lengkap.pdf",
+            "docid": 147962,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/147962",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Asian Research Publishing Network (ARPN)",
+      "ispublished": "pub",
+      "number": 7,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/38\/73",
+      "date": "2016-04",
+      "issn": "1819-6608",
+      "creators": [
+        {
+          "name": {
+            "given": "Admi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null,
+            "given": "Aristoteles"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Dwiastuti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Arianti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Malinda",
+            "honourific": null,
+            "family": "Riska",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Asian Research Publishing Network, Journal of  Engineering   and Applied Sciences (ARPN JEAS)"
+    }
+]
+

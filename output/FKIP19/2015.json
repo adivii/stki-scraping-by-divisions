@@ -1,0 +1,134 @@
+[
+    {
+      "event_location": "Maksaar",
+      "date_type": "published",
+      "eprintid": 33816,
+      "event_title": "Konferensi Ilmiah Tahunan \" (5-7 Juni 2015) HEPI UKD Selsel",
+      "metadata_visibility": "show",
+      "rev_number": 13,
+      "event_type": "conference",
+      "event_dates": "5-7 Juni 2015",
+      "title": "Asessmen pada Kurikulum 2013",
+      "abstract": "Penelitian ini bertujuan untuk mendeskripsikan: (1) kualitas instrumen seleksi calon mahasiswa STAIN Batusangkar dan (2) kualitas butir instrumen seleksi calon mahasiswa STAIN Batusangkar. Pendekatan yang digunakan dalam penelitian ini adalah kuantitatif. Populasi penelitian ini adalah seluruh butir soal seleksi calon mahasiswa STAIN Batusangkar\r\nbeserta lembar jawaban peserta tes yang terdiri dari lembar jawaban: (1) Pengetahuan Agama 694 lembar, (2) Pancasila, UUD 1945, dan Kebijakan Pemerintah 694 lembar, (3) IPS Terpadu 651 lembar, (4) Matematika Dasar 587 lembar, (5) IPA Terpadu 40 lembar, (6) Matematika IPA 36 lembar, (7) Bahasa Indonesia 689 lembar, (8) Bahasa Inggris 689 lembar dan Bahasa Arab 678 lembar. Untuk memperoleh bukti validitas prediktif instrumen seleksi digunakan skor tes mahasiswa angkatan 2007 dan Indeks Prestasi (IP) mahasiswa 296 orang pada semester I, II, dan III. Hasil penelitian adalah sebagai berikut (1) kualitas instrumen seleksi calon mahasiswa yang dikembangkan STAIN Batusangkar, dari segi daya prediksinya termasuk tinggi untuk\r\nmemprediksi kelompok namun harus digunakan hati-hati untuk memprediksi individu. (2) Berdasarkan analisis Teori Tes Klasik dan Teori Respons Butir, ternyata butir yang banyak\r\nditerima adalah yang dianalisis berdasarkan Teori Respons Butir, kecuali Matematika Dasar dan Bahasa Inggris.",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-09-10 01:07:09",
+      "date": "2015-06-15",
+      "dir": "disk0\/00\/03\/38\/16",
+      "creators": [
+        {
+          "name": {
+            "family": "rochmiyati",
+            "honourific": null,
+            "lineage": null,
+            "given": "rochmiyati"
+          },
+          "id": "rochmiyatiazwardi@yahoo.co.id"
+        }
+      ],
+      "divisions": [
+        "FKIP19"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33816",
+      "pres_type": "other",
+      "documents": [
+          {
+            "docid": 154054,
+            "main": "9. prosiding makasar (3)_compressed.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/400213",
+                  "objectid": 154054,
+                  "filesize": 12424967,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-09 04:45:02",
+                  "hash": "286ac446000dc3e078a5df7808220f67",
+                  "filename": "9. prosiding makasar (3)_compressed.pdf",
+                  "fileid": 400213,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "formatdesc": "Artikel",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154054",
+            "eprintid": 33816,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33816,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154055",
+            "formatdesc": "Reviewer",
+            "docid": 154055,
+            "main": "9.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/400215",
+                  "objectid": 154055,
+                  "filesize": 909033,
+                  "datasetid": "document",
+                  "filename": "9.pdf",
+                  "hash": "08241a0edc2f5df2a9fcd6b3661bbfa3",
+                  "mtime": "2021-09-09 04:45:10",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 400215
+                }
+            ]
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33816,
+            "security": "public",
+            "placement": 3,
+            "format": "text",
+            "pos": 3,
+            "formatdesc": "Similaritas",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154056",
+            "rev_number": 2,
+            "main": "9. ASESMEN_PADA_KURIKULUM_2013.pdf",
+            "docid": 154056,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/400217",
+                  "objectid": 154056,
+                  "filename": "9. ASESMEN_PADA_KURIKULUM_2013.pdf",
+                  "hash": "de2dbe7c0b6439e9ed537ea8893deb70",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-09 04:45:34",
+                  "mime_type": "application\/pdf",
+                  "fileid": 400217,
+                  "filesize": 1547589,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "pagerange": "531-537",
+      "datestamp": "2021-09-10 01:07:09",
+      "lastmod": "2021-09-10 01:07:09",
+      "userid": 664
+    }
+]
+

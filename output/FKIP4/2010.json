@@ -1,0 +1,79 @@
+[
+    {
+      "date": 2010,
+      "dir": "disk0\/00\/02\/90\/53",
+      "creators": [
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "given": "Sunyono",
+            "family": "Sunyono",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "978-979-99232-3-3",
+      "publication": "Proceeding Development of Science Curriculum of 21th Century",
+      "divisions": [
+        "FKIP4"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29053",
+      "full_text_status": "public",
+      "publisher": "Science Education Program School of Postgraduate Studies Indonesia University Education",
+      "documents": [
+          {
+            "main": "Identification_of_problem_difficulty_in_learning_c.pdf",
+            "docid": 43164,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 257771,
+                  "hash": "7aa365c9180343f72d963e5c0fafd95f",
+                  "filename": "Identification_of_problem_difficulty_in_learning_c.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-08 09:10:13",
+                  "datasetid": "document",
+                  "filesize": 1519360,
+                  "objectid": 43164,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/257771"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43164",
+            "rev_number": 1,
+            "eprintid": 29053,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "2-6",
+      "datestamp": "2021-04-08 09:18:56",
+      "userid": 1028,
+      "lastmod": "2021-04-08 09:18:56",
+      "date_type": "published",
+      "eprintid": 29053,
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Identification of problem difficulty in learning chemistry at Class XI of high schools in Lampung Province as input for LPTK (Especially Chemical Education Study Programof Lampung University).",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB2300"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-04-08 09:18:56"
+    }
+]
+

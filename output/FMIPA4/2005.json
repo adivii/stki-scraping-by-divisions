@@ -1,0 +1,95 @@
+[
+    {
+      "date": "2005-07-01",
+      "type": "article",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hadi",
+            "given": "Sutopo"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Chemistry Department, UGM",
+      "corp_creators": [
+        "Department of Chemistry, University of Lampung"
+      ],
+      "lastmod": "2016-11-15 04:16:44",
+      "datestamp": "2016-11-15 04:16:44",
+      "eprintid": 1166,
+      "date_type": "published",
+      "official_url": "http:\/\/pdm-mipa.ugm.ac.id\/ojs\/index.php\/ijc",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA",
+        "QD"
+      ],
+      "abstract": "The synthesis of two stable platinum(IV) complexes containing methoxo ligand,\r\n[Pt(CH3)2(OCH3)(OH)py2] (1) and fac-[Pt(CH3)2(OCH3)(H2O)3] (2), has been successfully performed.\r\nComplex 1 was prepared by oxidative addition reaction of cis-[Pt(CH3)2py2] with dry methanol, and a\r\nsubsequent reaction of 1 with 70 % HClO4 in water produced the platinum complex 2. The stability of\r\ncomplex 2 in acidic aqueous solution was investigated and monitored with 1H and 195Pt NMR. The platinum\r\ncomplex 2 was found to be quite stable toward hydrolysis and no -hydride elimination was observed.",
+      "publication": "Indonesian Journal of Chemistry",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hadi",
+            "given": "Sutopo"
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "1411 9420",
+      "dir": "disk0\/00\/00\/11\/66",
+      "funders": [
+        "DUE Project Universitas Lampung"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1166,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1045",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 1045,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7776",
+                  "datasetid": "document",
+                  "filesize": 538496,
+                  "fileid": 7776,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-15 03:11:35",
+                  "filename": "IJC 2005.pdf",
+                  "hash": "97586819b41de712cf5665417f9e3a1a"
+                }
+            ],
+            "main": "IJC 2005.pdf",
+            "docid": 1045
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1166",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 1093,
+      "pagerange": "87-91",
+      "title": "THE SYNTHESIS AND NMR STUDY ON THE STABILITY\r\nOF DIMETHYLMETHOXOPLATINUM(IV) COMPLEXES",
+      "volume": 5,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2016-11-15 04:16:44"
+    }
+]
+

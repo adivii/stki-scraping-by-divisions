@@ -1,0 +1,69 @@
+[
+    {
+      "eprintid": 18518,
+      "isbn": "978-979-8510-17-5",
+      "date_type": "published",
+      "title": "Manajemen Srategik \"Tinjauan Teoritis Multi Perspektif\"",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-03-10 08:36:30",
+      "subjects": [
+        "AC"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Ayi",
+            "lineage": null,
+            "family": "Ahadiat",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2010,
+      "dir": "disk0\/00\/01\/85\/18",
+      "type": "book",
+      "divisions": [
+        "FEB3"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 31675,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155640",
+                  "datasetid": "document",
+                  "filesize": 5127722,
+                  "fileid": 155640,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-03-10 04:52:56",
+                  "hash_type": "MD5",
+                  "filename": "Buku.. Ayi Ahadiyat.pdf",
+                  "hash": "8f38682a3f74c4fdf1b8ec8643bec159"
+                }
+            ],
+            "main": "Buku.. Ayi Ahadiyat.pdf",
+            "docid": 31675,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31675",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 18518,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "PUSAT PENERBITAN LEMBAGA PENELITIAN UNIVERSITAS LAMPUNG",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18518",
+      "refereed": "TRUE",
+      "lastmod": "2020-03-10 08:36:30",
+      "userid": 384,
+      "datestamp": "2020-03-10 08:36:30"
+    }
+]
+

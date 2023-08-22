@@ -1,0 +1,67 @@
+[
+    {
+      "type": "monograph",
+      "divisions": [
+        "FISIP8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Darmastuti",
+            "lineage": null,
+            "family": "Ari",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/82\/46",
+      "date": "2015-10",
+      "monograph_type": "manual",
+      "userid": 880,
+      "lastmod": "2020-02-27 07:20:37",
+      "datestamp": "2020-02-27 07:20:37",
+      "ispublished": "pub",
+      "publisher": "Bulak sumur Empat",
+      "documents": [
+          {
+            "main": "Desentralisasi atau Resentralisasi REVIEW DR. ARI D..pdf",
+            "docid": 31395,
+            "files": [
+                {
+                  "filename": "Desentralisasi atau Resentralisasi REVIEW DR. ARI D..pdf",
+                  "hash": "b8c4823528c5bba700502453b305973d",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-27 04:39:03",
+                  "mime_type": "application\/pdf",
+                  "fileid": 153641,
+                  "filesize": 533496,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153641",
+                  "objectid": 31395
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31395",
+            "rev_number": 1,
+            "eprintid": 18246,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18246",
+      "eprintid": 18246,
+      "eprint_status": "archive",
+      "status_changed": "2020-02-27 07:20:37",
+      "subjects": [
+        "H1"
+      ],
+      "title": "Desentralisasi atau Resentralisasi : Arah Politik Pemerintahan UU No.23 tahun 2014",
+      "rev_number": 8,
+      "metadata_visibility": "show"
+    }
+]
+

@@ -1,0 +1,380 @@
+[
+    {
+      "eprintid": 1200,
+      "volume": 11,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "ANALYSIS AND RATIO OF LINEAR FUNCTION OF PARAMETERS\r\nIN FIXED EFFECT THREE LEVEL NESTED DESIGN",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "The aims of this study are first to build the linear model of the fixed effect three level nested design. The model is nonfull column rank and has a constraint on its parameters; second is to transform the nonfull column rank model with a constraint into full column rank and unconstraint model by using method of model reduction; and third is to derive statistics for testing various hypothesesby using Generalized Likelihood Ratio (GLR) test and to derive the ratio of linear function of parameters by using Fieller’s Theorem. Based on the full column rank and unconstraint model the analysis to  be conducted is: to estimate the parameters, to derive statistics for testing various hypotheses and to derive confidence intervals of the ratio of the linear function of parameters. The estimation of parameters and the statistics for testing some hypotheses are unbiased. Based on the simulation results, it can be shown that the tests are unbiased and in line with the criteria given by Pearson and Please. The simulation results for the (1-α) confidence interval of the ratio of the linear function of parameters tau (τi), beta (βj(i)) and gamma (γk(ij)) are presented for different values of ρ’s and in all cases the\r\nvalues of ρ’s are contained in the 95% confidence intervals.",
+      "status_changed": "2016-11-17 04:37:52",
+      "eprint_status": "archive",
+      "date": "2016-06-10",
+      "dir": "disk0\/00\/00\/12\/00",
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "creators": [
+        {
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "family": "Usman",
+            "honourific": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Malik",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ibnu"
+          },
+          "id": null
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono",
+            "given": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "A.M. Elfaki",
+            "given": "Faiz"
+          },
+          "id": null
+        }
+      ],
+      "issn": "1819-6608",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1200",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 11,
+      "publisher": "Asian Research Publishing Network",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1077",
+            "rev_number": 1,
+            "main": "ARPN JOURNAL JUNE2016.pdf",
+            "docid": 1077,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 591297,
+                  "fileid": 8011,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-17 04:03:02",
+                  "filename": "ARPN JOURNAL JUNE2016.pdf",
+                  "hash": "161b84401ee68308e909359821e65090",
+                  "objectid": 1077,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8011"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 1200,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2016-11-17 04:37:52",
+      "pagerange": "7121-7129",
+      "corp_creators": [
+        "Department of Mathematics, Universitas Lampung",
+        "SMK Ma'Arif",
+        "Department of Mathematics, Universitas Lampung",
+        "IIUM  Malaysia"
+      ],
+      "userid": 701,
+      "lastmod": "2016-11-17 04:37:52"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 11,
+      "title": "ANALYSIS AND RATIO OF LINEAR FUNCTION OF PARAMETERS\r\nIN FIXED EFFECT THREE LEVEL NESTED DESIGN",
+      "abstract": "The aims of this study are first to build the linear model of the fixed effect three level nested design. The model is nonfull column rank and has a constraint on its parameters; second is to transform the nonfull column rank model with a constraint into full column rank and unconstraint model by using method of model reduction; and third is to derive statistics for testing various hypothesesby using Generalized Likelihood Ratio (GLR) test and to derive the ratio of linear function of parameters by using Fieller’s Theorem. Based on the full column rank and unconstraint model the analysis to  be conducted is: to estimate the parameters, to derive statistics for testing various hypotheses and to derive confidence intervals of the ratio of the linear function of parameters. The estimation of parameters and the statistics for testing some hypotheses are unbiased. Based on the simulation results, it can be shown that the tests are unbiased and in line with the criteria given by Pearson and Please. The simulation results for the (1-α) confidence interval of the ratio of the linear function of parameters tau (τi), beta (βj(i)) and gamma (γk(ij)) are presented for different values of ρ’s and in all cases the\r\nvalues of ρ’s are contained in the 95% confidence intervals.",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2016-11-17 03:14:18",
+      "eprint_status": "archive",
+      "eprintid": 1187,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1187",
+      "full_text_status": "none",
+      "publisher": "Asian Research Publishing Network",
+      "number": 11,
+      "ispublished": "pub",
+      "datestamp": "2016-11-17 03:14:18",
+      "pagerange": "7121-7129",
+      "corp_creators": [
+        "Department of Mathematics, Universitas Lampung",
+        "SMK Ma'arif",
+        "Department of Mathematics, Universitas Lampung",
+        "IIUM  Malaysia"
+      ],
+      "lastmod": "2016-11-17 03:14:18",
+      "userid": 701,
+      "date": "2016-06-10",
+      "dir": "disk0\/00\/00\/11\/87",
+      "creators": [
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "family": "Usman",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ibnu",
+            "family": "Malik",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Faiz",
+            "honourific": null,
+            "family": "AM Elfaki",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "1819-6608",
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "article"
+    },
+    {
+      "publication": "Malaysian Journal of Mathematical Sciences",
+      "creators": [
+        {
+          "name": {
+            "given": "Zaharah",
+            "lineage": null,
+            "family": "Wahid",
+            "honourific": null
+          },
+          "id": "zaharahwahid@iium.edu.my"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "N",
+            "given": "Najiah"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null,
+            "given": "Mustofa"
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "issn": "1823 8343",
+      "dir": "disk0\/00\/00\/12\/64",
+      "date": "2016-02",
+      "type": "article",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "number": "S",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1142",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8479",
+                  "objectid": 1142,
+                  "hash": "77dd4c1ec6db51982ca4c05d1618ff26",
+                  "filename": "JURNAL WAHID (MUSTOFA)_MJMS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-25 06:42:04",
+                  "mime_type": "application\/pdf",
+                  "fileid": 8479,
+                  "filesize": 1308765,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "JURNAL WAHID (MUSTOFA)_MJMS.pdf",
+            "docid": 1142,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1264
+          }
+      ],
+      "publisher": "UPM Malaysia",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1264",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "IIUM Malaysia",
+        "IIUM malaysia",
+        "Department of Mathematics, Universitas Lampung"
+      ],
+      "lastmod": "2016-11-28 05:28:26",
+      "userid": 701,
+      "datestamp": "2016-11-28 05:28:26",
+      "pagerange": "431-422",
+      "eprintid": 1264,
+      "title": "Alternative analysis of 6-Nitro BIPS behaviour\r\nbased on factorial design",
+      "rev_number": 6,
+      "volume": 10,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-11-28 05:28:26",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "There is a growing interest in the area of designing and synthesis of functional dye molecules that can serve as molecular devices for sensors, photo-switching and signal transduction. Among photochromic compounds that could be used for such purpose are spiropyrans. This paper presents an alternative analysis of 6-nitro-1’,3’,3’-trimethylspiro[2H-1-benzopyran-2, 2’] (6-Nitro BIPS) behavior due to the impact of solvent polarity, durations of ultraviolet(UV) exposure and dye concentration. Factorial design of experiments was used to study the impact of the three factors versus a response (absorbance). Analysis of variance (ANOVA) is employed to analyze the results. The results obtained highlighted that concentration and solvent polarity are the most significant variables. In addition this study shows that the interaction effect between the concentration and solvent factors is essential for better interpretation of the experiments. The models are developed from ANOVA and the models fulfilled the assumptions of normality and independence variances."
+    },
+    {
+      "publication": "IJCSNS International Journal of Computer Science and Network Security",
+      "creators": [
+        {
+          "name": {
+            "family": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Alfa D",
+            "given": "Gerry"
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          },
+          "id": "dksari13@gmail.com"
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "honourific": null,
+            "family": "Usman"
+          }
+        }
+      ],
+      "issn": "1738-7906",
+      "date": "2016-10-30",
+      "dir": "disk0\/00\/00\/11\/37",
+      "type": "article",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "number": 10,
+      "ispublished": "pub",
+      "publisher": "IJCSNS, Korea",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1137,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1020",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 190110,
+                  "datasetid": "document",
+                  "filename": "WARSONO IJCSNS.pdf",
+                  "hash": "95071d9e9500273a88692a67d4619dbc",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-11 02:25:44",
+                  "mime_type": "application\/pdf",
+                  "fileid": 7546,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7546",
+                  "objectid": 1020
+                }
+            ],
+            "main": "WARSONO IJCSNS.pdf",
+            "docid": 1020
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1137",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Department of Mathematics, Universitas Lampung",
+        "Department of Mathematics, Universitas Lampung",
+        "Department of Mathematics, Universitas Lampung",
+        "Department of Mathematics, Universitas Lampung"
+      ],
+      "lastmod": "2016-11-11 02:36:42",
+      "userid": 701,
+      "pagerange": "16-19",
+      "datestamp": "2016-11-11 02:36:42",
+      "eprintid": 1137,
+      "title": "Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions",
+      "volume": 16,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-11-11 02:36:42",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "A Statistical model is built based on a probability distribution. Classically, probability distribution is identified by some methods for example by using Chi-square goodness of fits, by using graph, by nonparametric goodness of fits test, and by using normal plot to test the normality. The aim of this study is going to discuss the applications of Fuzzy Learning Vector Quantization (FLVQ) model to identify some probability distributions; this model is a merger between neural network and fuzzy set. The results from the application of this FLVQ through a simulation to identify the probability distributions are very good and can be implemented to a real data."
+    }
+]
+

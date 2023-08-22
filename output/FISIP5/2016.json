@@ -1,0 +1,78 @@
+[
+    {
+      "type": "article",
+      "divisions": [
+        "FISIP5"
+      ],
+      "creators": [
+        {
+          "id": ".",
+          "name": {
+            "honourific": null,
+            "family": "Yulianto",
+            "lineage": null,
+            "given": "Yulianto"
+          }
+        }
+      ],
+      "issn": "1993-6125",
+      "publication": "The Social Sciences",
+      "dir": "disk0\/00\/00\/11\/67",
+      "date": 2016,
+      "lastmod": "2016-11-15 08:28:52",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 7,
+      "datestamp": "2016-11-15 08:28:52",
+      "pagerange": "77-82",
+      "documents": [
+          {
+            "eprintid": 1167,
+            "placement": 1,
+            "security": "staffonly",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "77-82 (1) Full TEX YULIANTO.pdf",
+            "docid": 1046,
+            "files": [
+                {
+                  "fileid": 7784,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-11-15 08:23:46",
+                  "hash_type": "MD5",
+                  "hash": "35fc0b286650e805e907a57df156c584",
+                  "filename": "77-82 (1) Full TEX YULIANTO.pdf",
+                  "datasetid": "document",
+                  "filesize": 181425,
+                  "objectid": 1046,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7784"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1046"
+          }
+      ],
+      "publisher": "Medwell",
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1167",
+      "eprintid": 1167,
+      "date_type": "published",
+      "status_changed": "2016-11-15 08:28:52",
+      "eprint_status": "archive",
+      "abstract": "Based on stochastic model, this study want to explain contribution of taxes and retribution to achieve Human Development Index (HDI) in South Lampung District, Province of Lampung, Indonesia. It also investigate the influence of regional macroeconomic variable and expenditure of local government to HDI achievement. The empirical results of the model suggest that three existing stochastic models can be used simultaneously to explain the relationship between fiscal behavior and EMI achievement in South Lampung District. The author also shows several policy scenario on local government expenditure to influence local macroeconomic conditions and HDI.",
+      "subjects": [
+        "H1"
+      ],
+      "title": "One-Decade Tax for People Well-Being: Case Study in\r\nSouth Lampung District, Province of Lampung, Indonesia",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 11
+    }
+]
+

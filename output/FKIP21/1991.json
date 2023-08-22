@@ -1,0 +1,71 @@
+[
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24374",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 24374,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38101",
+            "docid": 38101,
+            "main": "sertifikat_EC00201988289.pdf",
+            "files": [
+                {
+                  "objectid": 38101,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221743",
+                  "datasetid": "document",
+                  "filesize": 769652,
+                  "mime_type": "application\/pdf",
+                  "fileid": 221743,
+                  "filename": "sertifikat_EC00201988289.pdf",
+                  "hash": "0f37f95f688604c6c8461edff61371c4",
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-26 08:08:27"
+                }
+            ]
+          }
+      ],
+      "publisher": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA",
+      "datestamp": "2020-10-26 08:33:55",
+      "corp_creators": [
+        "Faculty of Teacher Training and Education, University of Lampung"
+      ],
+      "userid": 705,
+      "lastmod": "2020-10-26 08:33:55",
+      "date": "1991-02-18",
+      "dir": "disk0\/00\/02\/43\/74",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ratu Betta Rudibyani",
+            "given": "RBR"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP21"
+      ],
+      "type": "other",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Karakterisasi Pengubahan Bentonit Kalsium Menjadi Bentonit\r\nNatrium Asal Kabupaten Lampung Selatan Provinsi Lampung",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "status_changed": "2020-10-26 08:33:55",
+      "eprint_status": "archive",
+      "eprintid": 24374
+    }
+]
+

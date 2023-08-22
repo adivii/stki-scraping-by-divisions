@@ -1,0 +1,683 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Dwitasari",
+            "given": "Putri Priyan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Qadar",
+            "family": "Hasani",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rara",
+            "lineage": null,
+            "family": "Diantari",
+            "honourific": null
+          },
+          "id": "rara.diantari@fp.unila.ac.id"
+        }
+      ],
+      "date": "2016-10",
+      "dir": "disk0_bak\/00\/04\/78\/52",
+      "type": "other",
+      "divisions": [
+        "FP20"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 186953,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523693",
+                  "fileid": 523693,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-16 05:23:01",
+                  "hash": "58ef9409d67140899e44fababbcf162a",
+                  "filename": "9. Cek Similarity JRTBP vol 5 no 2 tahun 2017-7-15.pdf.pdf",
+                  "datasetid": "document",
+                  "filesize": 864369
+                }
+            ],
+            "main": "9. Cek Similarity JRTBP vol 5 no 2 tahun 2017-7-15.pdf.pdf",
+            "docid": 186953,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186953",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47852,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Jurusan Perikanan dan Kelautan, Fakultas Pertanian, Universitas Lampung",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Putri Priyan",
+            "lineage": null,
+            "family": "Dwitasari",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hasani",
+            "honourific": null,
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Rara",
+            "honourific": null,
+            "family": "Diantari",
+            "lineage": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47852",
+      "lastmod": "2023-01-16 06:38:39",
+      "userid": 535,
+      "datestamp": "2023-01-16 06:38:39",
+      "eprintid": 47852,
+      "date_type": "published",
+      "title": "KAJIAN ISI LAMBUNG DAN PERTUMBUHAN IKAN LAIS (Cryptopterus lais) DI WAY KIRI, TULANG BAWANG BARAT, LAMPUNG (Cek Similarity)",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2023-01-16 06:38:39",
+      "abstract": "Sungai Way Kiri memiliki spesies ikan yang beragam salah satunya adalah ikan lais (Cryptopterus lais). Populasi ikan Lais di Sungai Way Kiri terus mengalami penurunan, hal ini disebabkan adanya penangkapan secara berlebih yang dilakukan oleh para nelayan. Salah satu cara untuk mengatasi agar populasi ikan ini tetap terjaga adalah dengan melakukan upaya domestikasi, sebelum melakukan domestikasi ada beberapa kajian yang harus dilakukan diantaranya adalah kajian isi lambung (gut content analysis). Tujuan dari penelitian ini yaitu untuk mengetahui pertumbuhan dan kebiasaan makan ( gut content analysis ) ikan lais di Sungai Way Kiri.Penelitian ini dilakukan pada bulan Juni-September 2015. Data yang di analisis dengan menggunakan Index of Preponderance (IP). Hasil penelitian ini menunjukan bahwa ikan Lais adalah ikan Karnivora dengan kisaran nilai IP 26 % - 65 %, pola pertumbuhan ikan lais di Way Kiri pada bulan Juni dan Juli memiliki pola pertumbuhan alometri negatif sedangkan pola pertumbuhan ikan lais pada bulan Agustus dan September memiliki pola pertumbuhan alometri positif.",
+      "subjects": [
+        "SH"
+      ]
+    },
+    {
+      "date": "2016-07-30",
+      "dir": "disk0\/00\/00\/03\/35",
+      "publication": "AACL Bioflux",
+      "creators": [
+        {
+          "id": "indra.yudha@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Gumay Yudha",
+            "honourific": null,
+            "given": "Indra"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "M_Fadjar",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rahardjo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Djoko",
+            "lineage": null,
+            "family": "Setiyanto",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Djamar",
+            "family": "TF Lumbanbatu",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1844-9166",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/335",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 4,
+      "documents": [
+          {
+            "eprintid": 335,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "2016.833-844.pdf",
+            "docid": 327,
+            "files": [
+                {
+                  "objectid": 327,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1947",
+                  "fileid": 1947,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-08-22 02:58:23",
+                  "hash_type": "MD5",
+                  "hash": "2cbd3c5b9ff232b7e3d16a17faf3a680",
+                  "filename": "2016.833-844.pdf",
+                  "datasetid": "document",
+                  "filesize": 532246
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/327",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Bioflux",
+      "pagerange": "833-844",
+      "datestamp": "2016-08-28 13:07:10",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2016-08-28 13:07:10",
+      "userid": 509,
+      "date_type": "published",
+      "eprintid": 335,
+      "rev_number": 7,
+      "volume": 9,
+      "metadata_visibility": "show",
+      "title": "Some aspects of the reproductive biology of\r\nLabiobarbus ocellatus in Tulang Bawang River,\r\nLampung, Indonesia",
+      "official_url": "http:\/\/www.bioflux.com.ro\/aacl",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "This study was conducted in April 2013 to March 2014 at Tulang Bawang River and Bawang\r\nLatak Swamp, Lampung, Indonesia. The aims of this study were to asses some  reproductive aspects of \r\nL. ocellatus. The specimens were consisted of 690 males and 651 females. The results showed that sex\r\nratio of L. ocellatus was 1:1 during the spawning period in October-January.  This species was total\r\nspawner and they spawned annually in rainy season. The peak of breeding season was occured in\r\nNovember to December.  The total length at first maturity of L. ocellatus are 157±1 mm (male) and 160\r\n±1 mm (female).  The fecundity varied between 2.142-24.294 and had corellation with total length  in\r\nequation as log F = 3,653 log L - 4,546 (Tulang Bawang River) and log F = 3,982 log L - 5,287 (Bawang\r\nLatak Swamp).",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-28 13:07:10",
+      "related_url": [
+        {
+          "url": "http:\/\/www.bioflux.com.ro\/aacl",
+          "type": "pub"
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FP20"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Putra",
+            "given": "Sandy"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Arianto",
+            "given": "Agus"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Efendi",
+            "lineage": null,
+            "given": "Eko"
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null,
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Herman",
+            "family": "Yulianto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "herman.yulianto@fp.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/78\/51",
+      "date": "2016-02",
+      "userid": 535,
+      "lastmod": "2023-01-16 06:39:03",
+      "datestamp": "2023-01-16 06:39:03",
+      "documents": [
+          {
+            "eprintid": 47851,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 186952,
+            "main": "8. Cek Similarity JRTBP vol 4 no 2 Tahun 2016-5-14.pdf.pdf",
+            "files": [
+                {
+                  "filesize": 799860,
+                  "datasetid": "document",
+                  "mtime": "2023-01-16 05:11:53",
+                  "hash_type": "MD5",
+                  "filename": "8. Cek Similarity JRTBP vol 4 no 2 Tahun 2016-5-14.pdf.pdf",
+                  "hash": "aa049c71d1c248798dcfe3ab0a059199",
+                  "fileid": 523684,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523684",
+                  "objectid": 186952
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186952"
+          }
+      ],
+      "publisher": "Jurusan Budidaya Perairan, Fakultas Pertanian Universitas Lampung",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Sandy",
+            "honourific": null,
+            "family": "Putra",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arianto",
+            "honourific": null,
+            "given": "Agus"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "family": "Efendi",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani",
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yulianto",
+            "given": "Herman"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47851",
+      "full_text_status": "public",
+      "eprintid": 47851,
+      "date_type": "published",
+      "status_changed": "2023-01-16 06:39:03",
+      "eprint_status": "archive",
+      "abstract": "Tujuan dari penelitian ini adalah untuk mempelajari pengaruh penggunaan kijing air tawar (Pilsbryoconcha exilis) terhadap perbaikan kualitas air dan laju pertumbuhan lele sangkuriang. Penelitian ini menggunakan Rancangan Acak Lengkap dengan empat perlakuan dan tiga ulangan. Penelitian menggunakan perbedaan jumlah hewan kijing air tawar yaitu 100, 150,  200 ekor\/ keranjang berukuran 0,6 m3 dan perlakuan kontrol yaitu tanpa menggunakan perlakuan sistem resirkulasi dan tanpa penambahan kijing air tawar. Parameter utama dalam penelitian ini adalah pertumbuhan ikan dan konsentrasi amoniak, dengan parameter pendukung antara lain yakni suhu, pH, dan oksigen terlarut. Hasil penelitian menunjukkan bahwa penambahan kijing air tawar berpengaruh terhadap pertumbuhan dan kelangsungan hidup ikan lele sangkuriang. Pertumbuhan mutlak tertinggi terdapat pada perlakuan 200 individu dengan berat 19.71 gr dan tingkat kelangsung hidup tertinggi terdapat perlakuan 200 individu (80.14 %). Hasil penelitian juga menunjukan bahwa penambahan kijing air tawar dengan jumlah yang berbeda memberikan pengaruh nyata terhadap penurunan amoniak. Berdasarkan hasil uji Beda Nyata Terkecil (BNT) perlakuan dengan penambahan kijing air tawar sebanyak 200 ekor\/ keranjang berukuran 0,6 m3merupakan perlakuan terbaik dalam penurunan amoniak pada sistem resirkulasi",
+      "subjects": [
+        "SH"
+      ],
+      "title": "EFEKTIFITAS KIJING AIR TAWAR ( Pilsbryoconcha exilis ) SEBAGAI BIOFILTER DALAM SISTEM RESIRKULASI TERHADAP LAJU PENYERAPAN AMONIAK DAN PERTUMBUHAN  IKAN LELE SANGKURIANG (Clarias gariepinus) (Cek Similarity)",
+      "metadata_visibility": "show",
+      "rev_number": 9
+    },
+    {
+      "datestamp": "2017-06-02 07:39:21",
+      "pagerange": "160-167",
+      "userid": 218,
+      "lastmod": "2017-06-02 07:39:21",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2500",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "pres_type": "other",
+      "documents": [
+          {
+            "eprintid": 2500,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 2381,
+            "main": "international Symposium of the Institute of Forest Science 2.pdf",
+            "files": [
+                {
+                  "objectid": 2381,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17290",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17290,
+                  "filename": "international Symposium of the Institute of Forest Science 2.pdf",
+                  "hash": "f79fc37a69dbb990be25adc06f1953a6",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 06:39:17",
+                  "datasetid": "document",
+                  "filesize": 13298823
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2381"
+          }
+      ],
+      "divisions": [
+        "FP20"
+      ],
+      "type": "conference_item",
+      "date": "2016-10-20",
+      "dir": "disk0\/00\/00\/25\/00",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rara",
+            "honourific": null,
+            "given": "Diantari"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Berta",
+            "lineage": null,
+            "given": "Putri"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Melya",
+            "lineage": null,
+            "given": "Riniarti"
+          }
+        },
+        {
+          "name": {
+            "given": "Duryat",
+            "honourific": null,
+            "family": "Duryat",
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Macrozoobenthos is a group of important fauna in mangrove ecosystem. Mangrove rehabilitation is required to increase biodiversity and density of fauna, including macrozoobenthos. The aim of this research was to study influence of biotic and abiotic factors to diversity and abundance of macrozoobenthos. The research was conducted at natural and rehabilitated mangrove forest in Percut Sei Tuan, east coastal of North Sumatra. The results showed that density of macrozoobenthos were significantly correlated to the soil texture, soil organic carbon and pH. Besides, macrozoobenthos diversity was mostly influenced by stand basal area, salinity and silt proportion of soil texture.",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 07:39:21",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "Community Structure of Macrozoobenthos in three different age class of Mangrove at Lampung Mangrove Center",
+      "event_dates": "20 October 2016",
+      "date_type": "published",
+      "event_title": "International Symposium of the Institute of Forest Science",
+      "eprintid": 2500,
+      "event_location": "Chuncheon, Korea"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 2331,
+      "metadata_visibility": "show",
+      "volume": 9,
+      "rev_number": 7,
+      "title": "Suitability analysis of pearl oyster farming in\r\nLampung Bay, Pesawaran, Lampung Province,\r\nIndonesia",
+      "abstract": "Pearl oyster is fishery product which has a promising prospect. Lampung Province has a potential area of 2260.5 ha. Efforts in pearl oyster farming in the Lampung Bay have been done in Pidada area, and Cape of Putus, however it still failed. Therefore, it is necessary to analyze the level of suitability for pearl oysters farming in the Lampung Bay. Survey method was applied  through spatial and temporal approach. The data used in this study were derived from primary and secondary data. Geo- statistical model was used as a form of mapping the earth's surface (biotic and abiotic) through statistical applications. To obtain the suitability class, a suitability matrix of water for physical, chemical and biological parameters was created. Based on the scoring result, it is known that the waters of Lampung Bay is very suitable as pearl oyster cultivation area, especially in the area around the station of 9, 10,\r\n11, 12 (around Puhawang Island), 13, 14, 15 station (around Maitem and Tegal Islands) and station 18 which the farming location belongs to private enterprise (PT. Kyoko Shinju).",
+      "subjects": [
+        "SH"
+      ],
+      "status_changed": "2017-06-02 02:13:23",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/23\/31",
+      "date": "2016-11-28",
+      "creators": [
+        {
+          "id": "hnurman@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Yulianto",
+            "honourific": null,
+            "given": "Herman"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Hartoko",
+            "honourific": null,
+            "lineage": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Sutrisno",
+            "lineage": null,
+            "honourific": null,
+            "family": "Anggoro"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Putu C",
+            "honourific": null,
+            "family": "Delis",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1844-9166",
+      "publication": "AACL Bioflux",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2331",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 2331,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2210",
+            "main": "2016.1208-1219.pdf",
+            "docid": 2210,
+            "files": [
+                {
+                  "fileid": 16176,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-05-31 02:52:17",
+                  "hash_type": "MD5",
+                  "filename": "2016.1208-1219.pdf",
+                  "hash": "afa993fa9abf0e110ad527659fc10cff",
+                  "datasetid": "document",
+                  "filesize": 332776,
+                  "objectid": 2210,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/16176"
+                }
+            ]
+          }
+      ],
+      "publisher": "Bioflux",
+      "ispublished": "pub",
+      "number": 1,
+      "pagerange": "1208-1219",
+      "datestamp": "2017-06-02 02:13:23",
+      "lastmod": "2017-06-02 02:13:23",
+      "userid": 182
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "PENGEMBANGAN INDUSTRI PERIKANAN TANGKAP DI PERAIRAN BARAT SUMATERA BERBASIS EKONOMI BIRU",
+      "abstract": "Sistem analisis prospektif partisipatif bertujuan untuk menentukan variabel kunci pengembangan industri perikanan tangkap berkelanjutan sesuai konsep ekonomi biru. Penelitian dilakukan di TPI Muaro Kota Padang dan PPS Bungus Teluk Kabung Padang, Provinsi Sumatera Barat. Pengelolaan perikanan tangkap di PPS Bungus dan TPI Muaro Kota Padang masih belum memanfaatkan limbah hasil pengolahan dan sistem pengelolaannya belum berbasis ekonomi biru sehingga perlu dilakukan kajian kebijakan dalam pengelolaan. Pendekatan yang dilakukan dalam menentukan kebijakan pengelolaan menggunakan analisis Prospektif partisipatif dengan melakukan konsinyasi dengan para stakeholder yang terkait seperti Dinas Kelautan dan Perikanan Provinsi Sumatera Barat, Dinas Kelautan dan Perikanan Kota Padang, Kepala Bagian Operasional PPS Bungus, BKPM Sumatera Barat, PT Dempo dan nelayan PPS Bungus dan TPI Kota Muaro Kota Padang. Hasil konsensus diperoleh 4 variabel utama empat variabel penyusun kebijakan yaitu ramah lingkungan, kebersamaan gotong royong, peningkatan industri dan tidak menyisakan limbah.",
+      "subjects": [
+        "SH"
+      ],
+      "status_changed": "2017-06-02 06:10:56",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 2672,
+      "refereed": "FALSE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2672",
+      "documents": [
+          {
+            "docid": 2541,
+            "main": 18795,
+            "files": [
+                {
+                  "fileid": 18404,
+                  "mime_type": "application\/xml",
+                  "mtime": "2017-05-31 15:09:37",
+                  "hash_type": "MD5",
+                  "filename": 18795,
+                  "hash": "e1abe6df4a35c6ba102b0503385bebbd",
+                  "datasetid": "document",
+                  "filesize": 44973,
+                  "objectid": 2541,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18404"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2541",
+            "rev_number": 3,
+            "eprintid": 2672,
+            "placement": 1,
+            "security": "validuser",
+            "mime_type": "application\/xml",
+            "language": "id",
+            "content": "published"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2017-06-02 06:10:56",
+      "userid": 315,
+      "lastmod": "2017-06-02 06:10:56",
+      "date": "2016-07-11",
+      "dir": "disk0\/00\/00\/26\/72",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "purbani",
+            "lineage": null,
+            "given": "dini"
+          }
+        },
+        {
+          "name": {
+            "given": "abdulah aman",
+            "honourific": null,
+            "family": "damai",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "yulius",
+            "lineage": null,
+            "given": "yulius"
+          }
+        },
+        {
+          "name": {
+            "given": "eva",
+            "lineage": null,
+            "family": "mustikasari",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "hadiwijaya lesmana",
+            "family": "salim",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "aida",
+            "family": "heriati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Manusia dan lingkungan",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article"
+    }
+]
+

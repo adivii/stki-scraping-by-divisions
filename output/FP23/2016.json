@@ -1,0 +1,2368 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 5159,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Buku Selektivitas Erosi dan Nisbah Pengayaan",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-11-10 14:16:25",
+      "id_number": 4235,
+      "dir": "disk0\/00\/00\/51\/59",
+      "date": "2016-02-10",
+      "creators": [
+        {
+          "id": "irwanbanuwa@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Banuwa",
+            "lineage": null,
+            "given": "Irwan Sukri"
+          }
+        }
+      ],
+      "patent_applicant": "Irwan Sukri Banuwa",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "patent",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5159",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "format": "image",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18079",
+            "rev_number": 1,
+            "main": "Haki Isb.jpeg",
+            "docid": 18079,
+            "files": [
+                {
+                  "fileid": 49123,
+                  "mime_type": "image\/jpeg",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-10 10:11:03",
+                  "filename": "Haki Isb.jpeg",
+                  "hash": "d022dad0a61732fc32239e4ee509399f",
+                  "datasetid": "document",
+                  "filesize": 140203,
+                  "objectid": 18079,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/49123"
+                }
+            ],
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "eprintid": 5159,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2017-11-10 14:16:25",
+      "lastmod": "2017-11-10 14:16:25",
+      "userid": 1074
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "publication": "Journal of Tropical Soils",
+      "creators": [
+        {
+          "id": "irwanbanuwa@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Banuwa",
+            "lineage": null,
+            "given": "Irwan Sukri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Tika",
+            "lineage": null,
+            "family": "Mutiasari",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Henrie",
+            "lineage": null,
+            "honourific": null,
+            "family": "Buchari"
+          }
+        },
+        {
+          "name": {
+            "given": "Muhajir",
+            "lineage": null,
+            "honourific": null,
+            "family": "Utomo"
+          },
+          "id": "muhajir.utomo@fp.unila.ac.id"
+        }
+      ],
+      "issn": "0852-257X",
+      "date": "2016-05-01",
+      "dir": "disk0\/00\/00\/14\/56",
+      "id_number": "10.5400\/jts.2016.21.2.9",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1055,
+      "lastmod": "2017-03-14 03:08:44",
+      "datestamp": "2017-03-14 03:08:44",
+      "pagerange": "91-97",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "eprintid": 1456,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "main": "Irwan SB - JTT 2016.pdf",
+            "docid": 1329,
+            "files": [
+                {
+                  "mtime": "2017-03-12 14:07:17",
+                  "hash_type": "MD5",
+                  "filename": "Irwan SB - JTT 2016.pdf",
+                  "hash": "769357e7ccc41eb5576aae67bc20b509",
+                  "fileid": 9864,
+                  "mime_type": "application\/pdf",
+                  "filesize": 211507,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9864",
+                  "objectid": 1329
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1329",
+            "rev_number": 2
+          }
+      ],
+      "publisher": "University of Lampung",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1456",
+      "refereed": "TRUE",
+      "eprintid": 1456,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2017-03-14 03:08:44",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "This study aimed to determine the amount of carbon stock and CO2 plant uptake in the Integrated Field Laboratory (IFL) Faculty of Agriculture University of Lampung. The research was conducted from April to November 2015. The study was arranged in a completely randomized block design (CRBD), consisting of five land units as treatment with four replications for each treatment. Biomass of woody plants was estimated using allometric equation, biomass of understorey plants was estimated using plant dry weight equation, and organic C content in plants and soils were analyzed using a Walkey and Black method. The results showed that land unit consisting of densely woody plants significantly affects total biomass of woody plants, organic C content in woody plants and total carbon content (above and below ground). The highest amount of woody plant biomass was observed in land unit 5, i.e. 1,196.88 Mg ha-1, and above ground total carbon was 437.19 Mg ha-1. IFL Faculty of Agriculture University of Lampung has a total carbon stock of 2,051.90 Mg and capacity to take up total CO2 of 6,656.88 Mg.",
+      "title": "Carbon Stock in Integrated Field Laboratory Faculty of Agriculture University of Lampung",
+      "official_url": "http:\/\/journal.unila.ac.id\/index.php\/tropicalsoil\/article\/view\/1025",
+      "volume": 21,
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2016-11-15 03:05:50",
+      "userid": 1045,
+      "datestamp": "2016-11-15 03:05:50",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "image",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1044",
+            "docid": 1044,
+            "main": "Buku Dermiyati.jpg",
+            "files": [
+                {
+                  "objectid": 1044,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7764",
+                  "mime_type": "image\/jpeg",
+                  "fileid": 7764,
+                  "filename": "Buku Dermiyati.jpg",
+                  "hash": "bee74bab75e80f1860c8ec795c960f33",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-14 16:27:44",
+                  "datasetid": "document",
+                  "filesize": 92706
+                }
+            ],
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "content": "coverimage",
+            "eprintid": 1165,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Plantaxia",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1165",
+      "type": "book",
+      "divisions": [
+        "FP23"
+      ],
+      "creators": [
+        {
+          "id": "dermiyati.1963@fp.unila.ac.id",
+          "name": {
+            "family": "Dermiyati",
+            "honourific": null,
+            "lineage": null,
+            "given": "-"
+          }
+        }
+      ],
+      "pages": 978,
+      "date": 2016,
+      "dir": "disk0\/00\/00\/11\/65",
+      "eprint_status": "archive",
+      "status_changed": "2016-11-15 03:05:50",
+      "abstract": "Sistem pertanian konvensional yang membutuhkan in-put berupa pupuk dan pestisida kimia dalam jumlah yang banyak akhir-akhir ini semakin ditinggalkan karena dampak yang ditimbulkan oleh pemakaian bahan-bahan kimia tersebut dalam jangka panjang terhadap lingkungan dan kesehatan manusia. Sebagai akibatnya, masyarakat petani kembali menggunakan sistem pertanian organik yang dulu telah dilakukan (back to nature). Pengkajian dampak perubahan dari sistem pertanian konvensional menjadi sistem pertanian organik dalam jangka waktu panjang perlu untuk dilakukan dalam rangka pengembangan ilmu pengetahuan dan memperluas khasanah pengetahuan petani. Buku ini menyajikan studi kasus terkait hal tersebut pada sistem budidaya padi sawah di Kecamatan Pagelaran, Kabupaten Tanggamus, Provinsi Lampung.",
+      "subjects": [
+        "S1"
+      ],
+      "title": "Sistem Pertanian Organik Berkelanjutan",
+      "place_of_pub": "Jakarta",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "eprintid": 1165,
+      "date_type": "published",
+      "isbn": "978-602-6912-01-5"
+    },
+    {
+      "event_location": "Lhokseumawe",
+      "event_title": "Prosiding Seminar Nasional BKS PTN Wilayah Barat Bidang Ilmu Pertanian 2016",
+      "eprintid": 3889,
+      "date_type": "published",
+      "event_dates": "5-6 Agustus 2016",
+      "title": "Pengaruh Pemberian Kombinasi Pupuk Organonitrofos dan Pupuk Kimia sertaBiocharterhadap Total Fungi Mikoriza Arbuskula selama Pertumbuhan Tanaman Jagung",
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-09-15 01:16:55",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "atau mencari kombinasi antara pupuk organik dan pupuk anorganik, serta penggunaan bahan pembenah tanah, seperti biochar.Selain itu, adanyaFungi Mikoriza Arbuskula(FMA) di dalam tanah juga akan menguntungkan bagi tanaman yang terinfeksi.Penelitian ini bertujuan untuk mempelajari pengaruh kombinasi pupuk Organonitrofos dan pupuk kimia serta biochar terhadap jumlah FMA selama pertumbuhan tanaman jagung. Rancangan yang digunakan adalah Rancangan Acak Kelompok (RAK) dalam faktorial.Faktor pertama adalah kombinasi pupuk Organonitrofos(OP) dan pupuk kimia (NPK) dengan 6 level (P0: 0% OP dan 0% NPK; P1: 0% OP dan 100% NPK; P2: 25% OP dan 75% NPK; P3: 50% OP dan 50% NPK; P4: 75% OP dan 25% NPK; P5: 100% OP dan 0% NPK). Dosis 100% OP adalah 5 tha-1, dan dosis 100% NPK adalah 600 kg Urea ha-1, 250 kg SP-36 ha-1dan 200 kg KCl ha-1.Sedangkan faktor kedua adalah pemberian biochar dengan 2 level (B0: 0 tha-1dan B1: 5 tha-1).Hasil penelitian menunjukkan bahwa jumlah spora FMA selama pertumbuhan tanaman jagung tidak dipengaruhi olehperlakuankombinasi pupuk Organonitrofos dan kimia, pemberian biochar, dan",
+      "creators": [
+        {
+          "id": "dermiyati.1963@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Dermiyati",
+            "honourific": null,
+            "given": "-"
+          }
+        },
+        {
+          "name": {
+            "given": "Desna",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herawati"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rini",
+            "honourific": null,
+            "lineage": null,
+            "given": "Maria Viva"
+          }
+        },
+        {
+          "name": {
+            "given": "Ainin",
+            "family": "Niswati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Lumbanraja",
+            "given": "Jamalam"
+          },
+          "id": "jamalam.lumbanraja@fp.unila.ac.id"
+        },
+        {
+          "id": "sugeng.triyono@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Triyono",
+            "lineage": null,
+            "given": "Sugeng"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/38\/89",
+      "date": "2016-08-06",
+      "type": "conference_item",
+      "divisions": [
+        "FP23"
+      ],
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3748",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27239",
+                  "objectid": 3748,
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-05 16:08:01",
+                  "filename": "Extracted pages from Dermi-Ainin dkk proseding 2016.pdf",
+                  "hash": "370898ae788ba8a259a9cbfb964fece1",
+                  "fileid": 27239,
+                  "mime_type": "application\/pdf",
+                  "filesize": 40554175,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Extracted pages from Dermi-Ainin dkk proseding 2016.pdf",
+            "docid": 3748,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3889
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3889",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Fakultas Pertanian Unila"
+      ],
+      "lastmod": "2017-09-15 01:16:55",
+      "userid": 1055,
+      "datestamp": "2017-09-15 01:16:55",
+      "pagerange": "135-143"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 1455,
+      "official_url": "http:\/\/journal.unila.ac.id\/index.php\/tropicalsoil",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Intergrated Forest for Conservation Education of Wan Abdul Rachman (IFCE WAR) Great Forest Park is a conservation forest zone which has natural area and cultivated area.  The natural area in Wan Abdul Rachman Great Forest Park consists of secondary forest, whereas the cultivated area consists of agroforestry with cacao plants and agroforestry with coffee plants. The different land use in both areas caused the difference in carbon sink specifically in litter and soil. The research was aimed to study the difference of litter and soil carbon stock in natural and cultivated area in IFCE WAR Great Forest Park.  The observation plots included in the current study was determined using purposive sampling method. The research was conducted in June until August 2015. Data was analyzed using analysis of variance and continued with honestly significant difference test. The results showed that there was no difference of litter carbon stock in cultivated area and natural area in IFCE WAR Great Forest Park, whereas the soil carbon stock in natural area was higher than that in cultivated area.",
+      "eprint_status": "archive",
+      "date": "2016-09-01",
+      "id_number": "10.5400\/jts.2016.21.3.171",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "University of Lampung",
+      "datestamp": "2017-03-14 03:08:15",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-03-14 03:08:15",
+      "rev_number": 7,
+      "volume": 21,
+      "metadata_visibility": "show",
+      "title": "Analysis of Litter and Soil Carbon Stock In Cultivated and Natural Area Of Intergrated Forest for Conservation Education of Wan Abdul Rachman Great Forest Park",
+      "status_changed": "2017-03-14 03:08:15",
+      "dir": "disk0\/00\/00\/14\/55",
+      "publication": "Journal of Tropical Soils",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ellannia",
+            "given": "Leoni Dellta"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiawan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati",
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        }
+      ],
+      "issn": "0852-257X",
+      "contact_email": "ainin.niswati@fp.unila.ac.id",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1455",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 1455,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1328",
+            "rev_number": 2,
+            "main": "Ainin - JTT 2016.pdf",
+            "docid": 1328,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 9857,
+                  "filename": "Ainin - JTT 2016.pdf",
+                  "hash": "4858a516557de37b8bfb0d8c99c29b92",
+                  "mtime": "2017-03-12 13:58:14",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 312509,
+                  "objectid": 1328,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9857"
+                }
+            ]
+          }
+      ],
+      "pagerange": "171-178",
+      "userid": 1055
+    },
+    {
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Phosphorus Adsorption Behavior as Affected by Compost, Iron ion, and Iron Concretion in a Highly Wheathered Soil",
+      "event_dates": "2-3 March 2016",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "It is to be concerned that because of the high content of  free iron (Fe) and (Fe) concretion,ph osphorus (P) is generally tighly bound as Fe-P compounds in soil system found in the humid tropical region and, therefore,  the available P for plant growth is very low. Beside as a source of complete essential nutrients for plant, source of energy and nutrients for soil organism, and for soil structure improvements, the use of organic compost would be able to inactivate the free iron and iron concretion in the soil so that the applied P from fertilizers would be available for plant. The objective of this study is to determine the effect of free Fe, iron concretion and  compost materials on the P sorption behavior in a highly wheathered (Ultisols) soil. The study consists of five reatments: S (soil), SF(soil+FeCl ), SC (soil+concretion), SFO (soil+FeCl3+compost), and SCO (soil+concretion+compost). The organic compost has been developed from the mixed of fresh cow dung, coconut fine fiber waste, air dried solid waste powder of the monosodium glutamat (MSG) processing (about 9.5% of P), husk, and chicken manure being composted for 30 days. The air dried sub-soil sample, iron concretion and compost had been grinded and passed through 0.5 mm sieve.  The P sorption behavior of the treatments were constructed using Langmuir Plots. The results showed that the free Fe drastically increased the maximum adsorption-P and relative P-binding energy in to the soil colloid and reduce the amount of  available P followed by  iron concretion treatment. While the organic compost reduced the maximum adsorption-P and relative P-binding energy and the increased the available P. The highest maximum adsorption-P and relative binding energy were found in the SF (soil+FeCl3 treatment), whereas the lowest value of maximum P adsorption and binding energy were in the SCO (soil+iron concretion+compost) treatment.",
+      "status_changed": "2016-11-01 04:12:11",
+      "eprint_status": "archive",
+      "event_location": "Niigata University, Japan",
+      "date_type": "published",
+      "event_title": "The 6  International Symposium for the Development of Integrated Pest Management (IPM) in Asia and Africa",
+      "eprintid": 1011,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1011",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "main": "Jamalam IPM 2016.pdf",
+            "docid": 906,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 6512,
+                  "hash": "fa7d3b27daff3ebc6689fd53281d451c",
+                  "filename": "Jamalam IPM 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-31 04:34:05",
+                  "datasetid": "document",
+                  "filesize": 8859319,
+                  "objectid": 906,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6512"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/906",
+            "eprintid": 1011,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published"
+          }
+      ],
+      "pagerange": "29-35",
+      "datestamp": "2016-11-01 04:12:11",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "userid": 1072,
+      "lastmod": "2016-11-01 04:12:11",
+      "dir": "disk0\/00\/00\/10\/11",
+      "date": "2016-03-03",
+      "creators": [
+        {
+          "name": {
+            "given": "Jamalam",
+            "honourific": null,
+            "family": "Lumbanraja",
+            "lineage": null
+          },
+          "id": "jamalam.lumbanraja@fp.unila.ac.id"
+        },
+        {
+          "id": "hery.novpriansyah@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Novpriansyah",
+            "given": "Hery"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati",
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Sari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Tri Purnama"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "eprintid": 1151,
+      "isbn": "978-602-262-301-4",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2016-11-14 00:48:04",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Agropolitan merupakan salah satu teori dalam pengembangan wilayah, di samping teori-teori lain seperti teori lokasi dan teori pusat pertumbuhan (growth pole). Salah satu ciri dalam pengembangan wilayah dengan menggunakan teori agropolitan yaitu yang menjadi central place-nya adalah perdagangan dan jasa, sehingga alih fungsi lahan pertanian lebih dapat dikendalikan. Pengembangan wilayah dengan prinsip agropolitan pada dasarnya adalah pengembangan perkotaan yang diintegrasikan dengan pengembangan pertanian, sehingga dikenal adanya kawasan agropolitan atau kota di tengah kebun. Di dalam kawasaan agropolitan, pengembangan pertanian dilakukan dengan berbasis agribisnis, oleh karena itu di dalam buku agropolitan ini dibahas pula tentang agribisnis sebagai fondasi pengembangan kawasan agropolitan, di samping keperluan sarana-prasarana kota lainnya. Pengembangan agropolitan dikenal pula sebagai salah satu cara dalam proses mempercepat pembangunan perdesaan. Oleh karena itu dalam pengembangan agropolitan harus ada komoditas unggulannya.\r\nPengenalan dan pembahasan sistem agribisnis yang dikemukakan dalam buku ini dimaksudkan untuk melengkapi dasar penyusunan rencana penggunaan lahan secara ekonomi. Karena dengan perhitungan finansial, hasil analisis secara biofisik dapat digabungkan dengan analisis ekonomi, sehingga keuntungan secara ekonomi telah dapat diprediksi. Hal ini juga ditujukan untuk mengetahui apakah penggunaan lahan untuk suatu komoditas tertentu layak dapat dilakukan atau menunggu harga yang memungkinkan. Kalau satu komoditas tidak layak saat ini maka dapat dipilih komoditas lain yang lebih layak. Khusus untuk penggunaan lahan yang jangka waktu lama baru dapat dilakukan perubahan, seperti pengusahaan tanaman tahunan atau penggunaan lahan non-pertanian lainnya, maka perhitungan jangka panjang sangat diperlukan untuk menentukan kelayakan kegiatan tersebut. Dengan analisis sistem agribisnis untuk usaha pertanian maka keperluan tersebut dapat dipenuhi. Untuk melengkapi hal tersebut, di dalam buku ini dibahas juga perhitungan kriteria investasi, untuk melengkapi apakah pengembangan suatu komoditi layak atau tidak untuk dilaksanakan, serta usaha-usaha yang harus dilakukan dalam pengembangan wilayah bertumpu pada pengembangan pertanian disatu pihak dan ingin mengembangkan sistem perkotaan di lain pihak. Buku ini sangat bermanfaat bagi para perencana pembangunan yang berhubungan dengan pengembangan wilayah dan atau bagi yang ingin menanamkan modalnya di bidang pertanian.",
+      "title": "Agropolitan; Teori dan Aplikasi",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "type": "book",
+      "divisions": [
+        "FP23"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Ali Kabul",
+            "lineage": null,
+            "family": "Mahi",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2016,
+      "dir": "disk0\/00\/00\/11\/51",
+      "pages": 0,
+      "lastmod": "2016-11-14 00:48:04",
+      "userid": 1086,
+      "datestamp": "2016-11-14 00:48:04",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 1151,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "content": "coverimage",
+            "main": "Buku Agropolitan.jpg",
+            "docid": 1029,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 31308,
+                  "fileid": 7632,
+                  "mime_type": "image\/jpeg",
+                  "mtime": "2016-11-13 15:24:16",
+                  "hash_type": "MD5",
+                  "filename": "Buku Agropolitan.jpg",
+                  "hash": "251feff9d490909c32d9dcddae49a044",
+                  "objectid": 1029,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7632"
+                }
+            ],
+            "pos": 1,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1029",
+            "rev_number": 2
+          }
+      ],
+      "publisher": "Graha Ilmu",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1151",
+      "refereed": "TRUE"
+    },
+    {
+      "status_changed": "2016-11-18 06:21:50",
+      "eprint_status": "archive",
+      "abstract": "Tujuan utama pengembangnan wilayah adalah pemerataan pengembangan antarwilayah baik secara fisik maupun sosial ekonomi wilayah. Dalam perencanaan pengembangan wilayah perlu didukung ilmu lain yang berhubungan dengan pengembangan fisik dan ekonomi wilayah, seperti ilmu evaluasi dan perencanaan penggunaan sumber daya lahan, ilmu penataan ruang dan pengembangan kawasan, ilmu pengembangan wilayah perdesaan dan perkotaan, ilmu pengembangan wilayah pesisir dan pulau-pulau kecil, serta ilmu pemekaran wilayah administrasi. Di dalam buku ini membahas berbagai konsep perencanaan pendukung pengembangan wilayah, dimulai dari konsep tipologi dan teori pengembangan wilayah, seperti teori lokasi, pusat pertumbuhan, dan agropolitan. Di dalam perencanaan pengembangan wilayah perlu didukung evaluasi dan perencanaan penggunaan lahan baik secara fisik maupun sosial ekonomi, perencanaan pengembangan kawasan dan penataan ruang, agar pengembangan wilayah yang direncanakan dapat saling bersinergi bukan saling berantagonis. Perencanaan pengembangan wilayah perkotaan dan perdesaan sangat diperlukan dalam perencanaan pengembangan wilayah yang banyak berhubungan dengan pengelolaan lahan perkotaan dan prasarana kota. Pengembangan wilayah pesisir juga termasuk dalam perencanaan pengembangan wdayah yang membahas pengembangan potensi dan ekosistem wilayah pesisir dan pulau-pulau kecil, yang sangat berpotensi dalam pengembangan fisik maupun sosial ekonomi wilayah. Fenomena pemekaran wilayah yang banyak dilakukan saat ini perlu pula dicermati karena fenomena ini juga termasuk dalam ranah pengembangan wilayah, yaitu pengembangan wilayah administrasi. Kelayakan Pemekaran Wilayah juga dibahas dalam buku ini karena berhubungan dengan pengembangan wilayah administrasi, yang membahas dan mengevaluasi berbagai faktor penunjang pemekaran wilayah seperti kependudukan, kemampuan ekonomi daerah, potensi daerah, kemampuan keuangan daerah, kondisi Polbudhankam, kesejahteraan, luas daerah dan rentang kendali, untuk mengetahui apakah pemekaran wilayah yang dimaksud sudah layak atau belum.",
+      "subjects": [
+        "S1"
+      ],
+      "title": "Pengembangan Wilayah: Teori dan Aplikasi",
+      "metadata_visibility": "show",
+      "place_of_pub": "Jakarta",
+      "rev_number": 8,
+      "eprintid": 1214,
+      "date_type": "published",
+      "isbn": 9786020895628,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2016-11-18 06:21:50",
+      "userid": 1086,
+      "datestamp": "2016-11-18 06:21:50",
+      "publisher": "Kencana, Prenada Media Group",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "content": "coverimage",
+            "eprintid": 1214,
+            "security": "public",
+            "placement": 1,
+            "format": "image",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1091",
+            "rev_number": 2,
+            "docid": 1091,
+            "main": "Bukul - Pengembangan Wilayah.jpg",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8122",
+                  "objectid": 1091,
+                  "filesize": 55770,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-18 02:45:16",
+                  "hash": "1680075882f0bfbf609f20d729262f5b",
+                  "filename": "Bukul - Pengembangan Wilayah.jpg",
+                  "fileid": 8122,
+                  "mime_type": "image\/jpeg"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1214",
+      "type": "book",
+      "divisions": [
+        "FP23"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Ali Kabul",
+            "honourific": null,
+            "family": "Mahi",
+            "lineage": null
+          }
+        }
+      ],
+      "pages": 322,
+      "dir": "disk0\/00\/00\/12\/14",
+      "date": "2016-09-01"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "id_number": "10.1007\/s00374-015-1077-1",
+      "date": "2016-04-01",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-10-03 01:18:06",
+      "datestamp": "2016-10-03 01:18:06",
+      "publisher": "Springer",
+      "number": 3,
+      "ispublished": "pub",
+      "eprintid": 313,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "This study examined the effect of conversion from a conventional tillage (CT) to a no-tillage (NT) practice and of bagasse mulching (M) on soil microbial community composition and potential functions, using phospholipid fatty acid (PLFA) analysis and shotgun metagenome sequencing. Our results showed that both the NT and the M treatment increased microbial PLFAs. The shotgun sequencing results suggested that the functional profiles are more resistant to agricultural managements than to community compositions, which supports the hypothesis of the functional redundancy of soil microbial communities. However, some metabolism-related sequences were significantly affected by different treatments. The percentage of sequences related to metabolism of carbohydrates, especially saccharide groups, was significantly higher in the CT soils than in NT and M soils, which may be linked to lower carbon (C) availability in CT soils. Compared with CT, the NT had higher alpha diversity and more sequences related to DNA metabolism, which may be associated with higher nutrient availability. On the other hand, the M treatment decreased the percentages of sequences related to the metabolism of amino acids and derivatives, which may be due to the limited nitrogen (N) because of the high C\/N ratio of bagasse. We also observed interaction effects of the NT and M treatments; although both the NT and M treatments increased the relative abundance of Proteobacteria, this variable in NT + M soils was not higher than in each single treatment. Overall, our findings suggest that the microbial communities change their composition and functionality in response to the NT and M treatments, and these shifts have the potential to affect important soil processes that sustain crop productivity, such as C sequestration and major nutrient cycles.",
+      "subjects": [
+        "S1"
+      ],
+      "official_url": "http:\/\/link.springer.com",
+      "contact_email": "ainin.niswati@fp.unila.ac.id",
+      "issn": "0178-2762",
+      "creators": [
+        {
+          "id": "t.miura716@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Miura",
+            "lineage": null,
+            "given": "Toshiko"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null,
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Swibawa",
+            "honourific": null,
+            "lineage": null,
+            "given": "I Gede"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Haryani"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Heru",
+            "lineage": null,
+            "honourific": null,
+            "family": "Gunito"
+          }
+        },
+        {
+          "name": {
+            "given": "Miwa",
+            "lineage": null,
+            "family": "Arai",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yamada",
+            "given": "Kenta"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Satoshi",
+            "family": "Shimano",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kaneko",
+            "given": "Nabuhiro"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fujie",
+            "given": "Koichi"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Biology and Fertility of Soil",
+      "dir": "disk0\/00\/00\/03\/13",
+      "userid": 1055,
+      "pagerange": "307-322",
+      "documents": [
+          {
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 313,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1789",
+                  "objectid": 306,
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-17 07:12:17",
+                  "filename": "Ainin - BSF 2016 Research gate.pdf",
+                  "hash": "7ec39fb36fe3cbe7eba6d5b90408531d",
+                  "fileid": 1789,
+                  "mime_type": "application\/pdf",
+                  "filesize": 800588,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 306,
+            "main": "Ainin - BSF 2016 Research gate.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/306",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/313",
+      "full_text_status": "restricted",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/link.springer.com\/article\/10.1007%2Fs00374-015-1077-1"
+        }
+      ],
+      "status_changed": "2016-10-03 01:18:06",
+      "referencetext": "Anderson MJ (2001) A new method for non-parametric multivariate analysis of variance. Austral Ecol 26:32–46\r\n    Blagodatsky SA, Richter O (1998) Microbial growth in soil and nitrogen turnover: a theoretical model considering the activity state of microorganisms. Soil Biol Biochem 30:1743–1755CrossRef\r\n    Bossuyt H, Denef K, Six J, Frey S, Merckx R, Paustian K (2001) Influence of microbial populations and residue quality on aggregate stability. Appl Soil Ecol 16:195–208CrossRef\r\n    Burkepile DE, Parker JD, Woodson CB, Mills HJ, Kubanek J, Sobecky PA, Hay ME (2006) Chemically mediated competition between microbes and animals: microbes as consumers in food webs. Ecology 87:2821–2831CrossRefPubMed\r\n    Ceja-Navarro JA, Rivera FN, Patiño-Zúñiga L, Govaerts B, Marsch R, Vila-Sanjurjo A, Dendooven L (2009) Molecular characterization of soil bacterial communities in contrasting zero tillage systems. Plant Soil 329:127–137CrossRef\r\n    Chandel AK, da Silva SS, Carvalho W, Singh OV (2012) Sugarcane bagasse and leaves: foreseeable biomass of biofuel and bio-products. J Chem Technol Biotechnol 87:11–20CrossRef\r\n    Cheshire MV (1977) Origins and stability of soil polysaccharide. J Soil Sci 28:1–10CrossRef\r\n    Conant RT, Easter M, Paustian K, Swan A, Williams S (2007) Impacts of periodic tillage on soil C stocks: a synthesis. Soil Tillage Res 95:1–10CrossRef\r\n    Crawford DL, Floyd S, Pometto AL III, Crawford RL (1977) Degradation of natural and Kraft lignins by the microflora of soil and water. Can J Microbiol 23:434–440CrossRefPubMed\r\n    Delmont TO, Francioli D, Jacquesson S, Laoudi S, Mathieu A, Nesme J, Ceccherini MT, Nannipieri P, Simonet P, Vogel TM (2014) Microbial community development and unseen diversity recovery in inoculated sterile soil. Biol Fertil Soils 50:1069–1076CrossRef\r\n    Dorr de Quadros P, Zhalnina K, Davis-Richardson A, Fagen JR, Drew J, Bayer C, Camargo FAO, Triplett EW (2012) The effect of tillage system and crop rotation on soil microbial diversity and composition in a subtropical acrisol. Divers 4:375–395CrossRef\r\n    FAO (2001) Lecture notes on the major soils of the world. In: Driessen PM, Deckers JA, Spaargaren OC, Nachtergaele FO (eds) World Soil Resources Reports 94. Food and Agriculture Organization of the United Nations, Rome, pp 334\r\n    Feng Y, Motta AC, Reeves DW, Burmester CH, van Santen E, Osborne JA (2003) Soil microbial communities under conventional-till and no-till continuous cotton systems. Soil Biol Biochem 35:1693–1703CrossRef\r\n    Fernandes ECM, Motavalli PP, Castilla C, Mukurumbira L (1997) Management control of soil organic matter dynamics in tropical land-use systems. Geoderma 79:49–67CrossRef\r\n    Fierer N, Bradford MA, Jackson RB (2007) Toward an ecological classification of soil bacteria. Ecology 88:1354–1364CrossRefPubMed\r\n    Fierer N, Lauber CL, Ramirez KS, Zaneveld J, Bradford MA, Knight R (2012) Comparative metagenomic, phylogenetic and physiological analyses of soil microbial communities across nitrogen gradients. ISME J 6:1007–1017CrossRefPubMedPubMedCentral\r\n    Frostegård A, Bååth E (1996) The use of phospholipid fatty acid analysis to estimate bacterial and fungal biomass in soil. Biol Fertil Soils 22:59–65CrossRef\r\n    Frostegård Å, Tunlid A, Bååth E (1991) Microbial biomass measured as total lipid phosphate in soils of different organic content. J Microbiol Methods 14:151–163CrossRef\r\n    Frostegård Å, Tunlid A, Bååth E (2011) Use and misuse of PLFA measurements in soils. Soil Biol Biochem 43:1621–1625CrossRef\r\n    Giardina CP, Sanford RL, Døckersmith IC, Jaramillo VJ (2000) The effects of slash burning on ecosystem nutrients during the land preparation phase of shifting cultivation. Plant Soil 220:247–260CrossRef\r\n    Gihring TM, Green SJ, Schadt CW (2012) Massively parallel rRNA gene sequencing exacerbates the potential for biased community diversity comparisons due to variable library sizes. Environ Microbiol 14:285–290CrossRefPubMed\r\n    He Z, Xu M, Deng Y, Kang S, Kellogg L, Wu L, Van Nostrand JD, Hobbie SE, Reich PB, Zhou J (2010) Metagenomic analysis reveals a marked divergence in the structure of belowground microbial communities at elevated CO2. Ecol Lett 13:564–575CrossRefPubMed\r\n    Holland JM (2004) The environmental consequences of adopting conservation tillage in Europe: reviewing the evidence. Agric Ecosyst Environ 103:1–25CrossRef\r\n    Kandeler E, Tscherko D, Spiegel H (1999) Long-term monitoring of microbial biomass, N mineralisation and enzyme activities of a Chernozem under different tillage management. Biol Fertil Soils 28:343–351CrossRef\r\n    Kauffman JB, Cummings DL, Ward DE, Babbitt R (1995) Fire in the Brazilian Amazon: 1. Biomass, nutrient pools, and losses in slashed primary forests. Oecologia 104:397–408CrossRef\r\n    Kiem R, Kögel-Knabner I (2003) Contribution of lignin and polysaccharides to the refractory carbon pool in C-depleted arable soils. Soil Biol Biochem 35:101–118CrossRef\r\n    Kimetu JM, Lehmann J, Ngoze SO, Mugendi DN, Kinyangi JM, Riha S, Verchot L, Recha JW, Pell AN (2008) Reversibility of soil productivity decline with organic matter of differing quality along a degradation gradient. Ecosystems 11:726–739CrossRef\r\n    Kirkby CA, Richardson AE, Wade LJ, Batten GD, Blanchard C, Kirkegaard JA (2013) Carbon-nutrient stoichiometry to increase soil carbon sequestration. Soil Biol Biochem 60:77–86CrossRef\r\n    Kladivko EJ (2001) Tillage systems and soil ecology. Soil Tillage Res 61:61–76CrossRef\r\n    Kramer C, Gleixner G (2006) Variable use of plant- and soil-derived carbon by microorganisms in agricultural soils. Soil Biol Biochem 38:3267–3278CrossRef\r\n    Labrière N, Locatelli B, Laumonier Y, Freycon V, Bernoux M (2015) Soil erosion in the humid tropics: a systematic quantitative review. Agric Ecosyst Environ 203:127–139CrossRef\r\n    Lal R (2006) Enhancing crop yields in the developing countries through restoration of the soil organic carbon pool in agricultural lands. L Degrad Dev 17:197–209CrossRef\r\n    Lau MCY, Aitchison JC, Pointing SB (2009) Bacterial community composition in thermophilic microbial mats from five hot springs in central Tibet. Extremophiles 13:139–149CrossRefPubMed\r\n    Margono BA, Turubanova S, Zhuravleva I, Potapov P, Tyukavina A, Baccini A, Goetz S, Hansen MC (2012) Mapping and monitoring deforestation and forest degradation in Sumatra (Indonesia) using Landsat time series data sets from 1990 to 2010. Environ Res Lett 7:034010CrossRef\r\n    Melero S, López-Garrido R, Murillo JM, Moreno F (2009) Conservation tillage: short- and long-term effects on soil carbon fractions and enzymatic activities under Mediterranean conditions. Soil Tillage Res 104:292–298CrossRef\r\n    Meyer F, Paarmann D, D’Souza M, Olson R, Glass EM, Kubal M, Paczian T, Rodriguez A, Stevens R, Wilke A, Wilkening J, Edwards RA (2008) The metagenomics RAST server—a public resource for the automatic phylogenetic and functional analysis of metagenomes. BMC Bioinf 9:386CrossRef\r\n    Miura T, Niswati A, Swibawa IG, Haryani S, Gunito H, Kaneko N (2013) No tillage and bagasse mulching alter fungal biomass and community structure during decomposition of sugarcane leaf litter in Lampung Province, Sumatra, Indonesia. Soil Biol Biochem 58:27–35CrossRef\r\n    Miura T, Niswati A, Swibawa IG, Haryani S, Gunito H, Shimano S, Fujie K, Kaneko N (2015) Diversity of fungi on decomposing leaf litter in a sugarcane plantation and their response to tillage practice and bagasse mulching: implications for management effects on litter decomposition. Microb Ecol 70:646–658CrossRefPubMed\r\n    Myrold D, Nannipieri P (2014) Classical techniques versus omics approaches. In: Nannipieri P, Pietramellara G, Renella G (eds) Omics in Soil Science. Caister Academic Press, Norfolk, UK, pp 179–187\r\n    Oksanen J, Blanchet FG, Kindt R, Legendre P, Minchin PR, O’Hara RB, Simpson GL, Solymos P, Stevens MHH, Helene Wagner (2013) Vegan: Community Ecology Package, http:\/\/CRAN.R-project.org\/package=vegan\r\n    Pan Y, Cassman N, de Hollander M, Mendes LW, Korevaar H, Geerts RHEM, van Veen JA, Kuramae EE (2014) Impact of long-term N, P, K, and NPK fertilization on the composition and potential functions of the bacterial community in grassland soil. FEMS Microbiol Ecol 90:195–205CrossRefPubMed\r\n    Park HJ, Chae N, Sul WJ, Lee BY, Lee YK, Kim D (2015) Temporal changes in soil bacterial diversity and humic substances degradation in subarctic tundra soil. Microb Ecol 69:668–675CrossRefPubMed\r\n    Pietra F (2002) Life under extreme conditions. Biodiversity and Natural Product Diversity, Tetrahedron Organic Chemistry Series, vol 21. Elsevier, Oxford, UK, pp 97–98CrossRef\r\n    Piña RG, Cervantes C (1996) Microbial interactions with aluminium. BioMetals 9:311–316CrossRefPubMed\r\n    Potthast K, Hamer U, Makeschin F (2012) Land-use change in a tropical mountain rainforest region of southern Ecuador affects soil microorganisms and nutrient cycling. Biogeochemistry 111:151–167CrossRef\r\n    R Development Core Team (2009) A language and environment for statistical computing, Vienna, Austria. http:\/\/www.R-project.org\r\n    Ransom-Jones E, Jones DL, McCarthy AJ, McDonald JE (2012) The Fibrobacteres: an important phylum of cellulose-degrading bacteria. Microb Ecol 63:267–281CrossRefPubMed\r\n    Sanchez PA, Palm CA, Buol SW (2003) Fertility capability soil classification: a tool to help assess soil quality in the tropics. Geoderma 114:157–185CrossRef\r\n    Schippers B, Bakker AW, Bakker PAHM (1987) Interactions of deleterious and beneficial rhizosphere microorganisms and the effect of cropping practices. Annu Rev Phytopathol 25:339–358CrossRef\r\n    Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, Lesniewski RA, Oakley BB, Parks DH, Robinson CJ, Sahl JW, Stres B, Thallinger GG, Van Horn DJ, Weber CF (2009) Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol 75:7537–7541CrossRefPubMedPubMedCentral\r\n    Scopel E, Triomphe B, Affholder F, Da Silva FAM, Corbeels M, Xavier JHV, Lahmar R, Recous S, Bernoux M, Blanchart E, de Carvalho MI, De Tourdonnet S (2012) Conservation agriculture cropping systems in temperate and tropical conditions, performances and impacts. A review. Agron Sustain Dev 33:113–130CrossRef\r\n    Sengupta A, Dick WA (2015) Bacterial community diversity in soil under two tillage practices as determined by pyrosequencing. Microb Ecol 70:853–859CrossRefPubMed\r\n    Silvia S, Miura T, Nobuhiro K, Fujie K, Hasanuddin U, Niswati A, Haryani S (2014) Soil microbial biomass and diversity amended with bagasse mulch in tillage and no-tillage practices in the sugarcane plantation. Procedia Environ Sci 20:410–417CrossRef\r\n    Smith RJ, Jeffries TC, Roudnew B, Fitch AJ, Seymour JR, Delpin MW, Newton K, Brown MH, Mitchell JG (2012) Metagenomic comparison of microbial communities inhabiting confined and unconfined aquifer ecosystems. Environ Microbiol 14:240–253CrossRefPubMed\r\n    Souza RC, Hungria M, Cantão ME, Vasconcelos ATR, Nogueira MA, Vicente VA (2015) Metagenomic analysis reveals microbial functional redundancies and specificities in a soil under different tillage and crop-management regimes. Appl Soil Ecol 86:106–112CrossRef\r\n    Stahl P, Klug M (1996) Characterization and differentiation of filamentous fungi based on fatty acid composition. Appl Environ Microbiol 62:4136–4146PubMedPubMedCentral\r\n    Taja H, Vanderzaag P (1991) Organic residue management in the hot tropics: influence on the growth and yield of Solanum potato and maize. Trop Agric 68:111–118\r\n    Tian B, Hua Y (2010) Carotenoid biosynthesis in extremophilic Deinococcus-Thermus bacteria. Trends Microbiol 18:512–520CrossRefPubMed\r\n    Tiessen H, Cuevas E, Chacon P (1994) The role of soil organic matter in sustaining soil fertility. Nature 371:783–785CrossRef\r\n    Utomo M (2014) Conservation tillage assessment for mitigating greenhouse gas emission in rainfed agro-ecosystems. In: Kaneko N, Yoshiura S, Kobayashi M (eds) Sustainable Living with Environmental Risks. Springer, Tokyo, pp 35–44CrossRef\r\n    van Veen JA, Paul EA (1978) The use of tracers to determine the dynamic nature of organic matter. Trans. 11th Int Congr Soil Sci, Edmonton, AB. pp 6l–102\r\n    Vining LC (1990) Functions of Secondary Metabolites. Annu Rev Microbiol 44:395–427CrossRefPubMed\r\n    Wang XB, Cai DX, Hoogmoed WB, Oenema O, Perdok UD (2007) Developments in conservation tillage in rainfed regions of North China. Soil Tillage Res 93:239–250CrossRef\r\n    Wardle DA (1995) Impacts of disturbance on detritus food webs in agro-ecosystems of contrasting tillage and weed management practices. Adv Ecol Res 26:105–185CrossRef\r\n    Wood SA, Bradford MA, Gilbert JA, McGuire KL, Palm CA, Tully KL, Zhou J, Naeem S (2015) Agricultural intensification and the functional capacity of soil microbes on smallholder African farms. J Appl Ecol 52:744–752CrossRef\r\n    Zelles L (1999) Fatty acid patterns of phospholipids and lipopolysaccharides in the characterisation of microbial communities in soil: a review. Biol Fertil Soils 29:111–129CrossRef\r\n    Zhang B, Li Y, Ren T, Tian Z, Wang G, He X, Tian C (2014) Short-term effect of tillage and crop rotation on microbial community structure and enzyme activities of a clay loam soil. Biol Fertil Soils 50:1077–1085CrossRef",
+      "title": "Shifts in the composition and potential functions of soil microbial communities responding to a no-tillage practice and bagasse mulching on a sugarcane plantation",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "volume": 52
+    },
+    {
+      "dir": "disk0\/00\/00\/07\/03",
+      "issn": "0038-075X",
+      "creators": [
+        {
+          "name": {
+            "given": "Toshiko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Miura"
+          },
+          "id": "toshikom@cc.tuat.ac.jp"
+        },
+        {
+          "name": {
+            "given": "Kento",
+            "honourific": null,
+            "family": "Owada",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Kazuya",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nishina"
+          },
+          "id": null
+        },
+        {
+          "id": "muhajir.utomo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null,
+            "given": "Muhajir"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Niswati",
+            "honourific": null,
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "id": "kanekono@ynu.ac.jp",
+          "name": {
+            "family": "Kaneko",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nobuhiro"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Fujie",
+            "lineage": null,
+            "given": "Koichi"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Soil Science",
+      "pagerange": "68-74",
+      "userid": 1055,
+      "refereed": "TRUE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/703",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 703,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/602",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 3988,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-10-01 07:03:17",
+                  "hash_type": "MD5",
+                  "filename": "Ainin - SS 2016.pdf",
+                  "hash": "7c4b6f09ff279c2cd1b5d5d9b1ab2fbb",
+                  "datasetid": "document",
+                  "filesize": 501116,
+                  "objectid": 602,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3988"
+                }
+            ],
+            "docid": 602,
+            "main": "Ainin - SS 2016.pdf"
+          }
+      ],
+      "status_changed": "2016-10-03 01:23:06",
+      "metadata_visibility": "show",
+      "volume": 181,
+      "rev_number": 10,
+      "referencetext": "Allison V. J., R. M. Miller, J. D. Jastrow, R. Matamala, and D. R. Zak. 2005. Changes in soil microbial community structure in a tallgrass prairie chronosequence. Soil Sci. Soc. Am. J. 69:1412.\r\nBeare M. H., S. Hu, D. C. Coleman, and P. F. Hendrix. 1997. Influences of mycelial fungi on soil aggregation and organic matter storage in conventional and no-tillage soils. Appl. Soil Ecol. 5:211–219.\r\nBobbink R., M. Hornung, and J. G. M. Roelofs. 1998. The effects of air-borne nitrogen pollutants on species diversity in natural and semi-natural European vegetation. J. Ecol. 86:717–738.\r\nBossio D. A., and K. M. Scow. 1998. Impacts of carbon and flooding on soil microbial communities: Phospholipid fatty acid profiles and substrate utilization patterns. Microb. Ecol. 35:265–278.\r\nCrawford D. L., S. Floyd, A. L. Pometto III, and R. L. Crawford. 1977. Degradation of natural and Kraft lignins by the microflora of soil and water. Can. J. Microbiol. 23:434–440.\r\nCurtin D., and S. Trolove. 2013. Predicting pH buffering capacity of New Zealand soils from organic matter content and mineral characteristics. Soil Res. 51:494.\r\nCusack D. F., M. S. Torn, W. H. McDowell, and W. L. Silver. 2010. The response of heterotrophic activity and carbon cycling to nitrogen additions and warming in two tropical soils. In:Glob. Chang. Biol. 16, pp. 2555–2572.\r\nFernandes E. C. M., P. P. Motavalli, C. Castilla, and L. Mukurumbira. 1997. Management control of soil organic matter dynamics in tropical land-use systems. Geoderma. 79:49–67.\r\nFierer N., J. P. Schimel, and P. A. Holden. 2003. Variations in microbial community composition through two soil depth profiles. Soil Biol. Biochem. 35:167–176.\r\nFog K. 1988. The effect of added nitrogen on the rate of decomposition of organic matter. Biol. Rev. 63:433–462.\r\nFrey S. D., J. Six, and E. T. Elliott. 2003. Reciprocal transfer of carbon and nitrogen by decomposer fungi at the soil-litter interface. Soil Biol. Biochem. 35:1001–1004.\r\nFrostegård A., and E. Bååth. 1996. The use of phospholipid fatty acid analysis to estimate bacterial and fungal biomass in soil. Biol. Fertil. Soils. 22:59–65.\r\nFrostegård Å., A. Tunlid, and E. Bååth. 1991. Microbial biomass measured as total lipid phosphate in soils of different organic content. J. Microbiol. Methods. 14:151–163.\r\nFrostegård Å., A. Tunlid, and E. Bååth. 2011. Use and misuse of PLFA measurements in soils. Soil Biol. Biochem. 43:1621–1625.\r\nGeisseler D., and K. M. Scow. 2014. Long-term effects of mineral fertilizers on soil microorganisms—A review. Soil Biol. Biochem. 75:54–63.\r\nGriffiths R. I., A. S. Whiteley, A. G. O’Donnell, and M. J. Bailey. 2003. Influence of depth and sampling time on bacterial community structure in an upland grassland soil. FEMS Microbiol. Ecol. 43:35–43.\r\nHaider K., and J. P. Martin. 1967. Synthesis and  ransformation of phenolic compounds by Epicoccum nigrum in relation to humic acid formation. Soil Sci. Soc. Am. J. 31:766.\r\nHelling C. S., G. Chesters, and R. B. Corey. 1964. Contribution of organic matter and clay to soil cation-exchange capacity as affected by the pH of the saturating solution. Soil Sci. Soc. Am. J. 28:517.\r\nKiers E. T., S. A. West, and R. F. Denison. 2002. Mediating mutualisms: Farm management practices and evolutionary changes in symbiont co-operation. J. Appl. Ecol. 39:745–754.\r\nKirkby C. A., A. E. Richardson, L. J. Wade, G. D. Batten, C. Blanchard, and J. A. Kirkegaard. 2013. Carbon-nutrient stoichiometry to increase soil carbon sequestration. Soil Biol. Biochem. 60:77–86.\r\nKlamer M., and E. Bååth. 1998. Microbial community dynamics during composting of straw material studied using  phospholipid fatty acid analysis. FEMS Microbiol. Ecol. 27:9–20.\r\nKramer C., and G. Gleixner. 2008. Soil organic matter in soil depth profiles: Distinct carbon preferences of microbial groups during carbon transformation. Soil Biol. Biochem. 40:425–433.\r\nMcKinley V. L., A. D. Peacock, and D. C. White. 2005. Microbial community PLFA and PHB responses to ecosystem restoration in tallgrass prairie soils. Soil Biol. Biochem. 37:1946–1958.\r\nMummey D. L., and P. D. Stahl. 2004. Analysis of soil whole- and innermicroaggregate bacterial communities. Microb. Ecol. 48:41–50.\r\nOmar S. A., and M. A. Ismail. 1999. Microbial populations, ammonification and nitrification in soil treated with urea and inorganic salts. Folia. Microbiol. (Praha). 44:205–212.\r\nR Development Core Team. 2009. A language and environment for statistical computing.\r\nRahman M., and Y. Koentjoro. 2011. Genetic variation and agronomic traits associated with nitrogen use efficiency in maize. J. Nat. Stud. 9(2)\/10 (1):47–52.\r\nRamirez K. S., J. M. Craine, and N. Fierer. 2012. Consistent effects of nitrogen amendments on soil microbial communities and processes across biomes.\r\nGlob. Chang. Biol. 18:1918–1927.\r\nSoil Survey Staff. 2014. Keys to Soil Taxonomy. 12th ed. Washington, DC: USDA-Natural Resources Conservation Service.\r\nStahl P. D., and M. j. Klug. 1996. Characterization and differentiation of filamentous fungi based on fatty acid composition. Appl. Envir. Microbiol. 62:4136–4146.\r\nTiessen H., E. Cuevas, and P. Chacon. 1994. The role of soil organic matter in sustaining soil fertility. Nature. 371:783–785.\r\nTreseder K. K. 2004. A meta-analysis of mycorrhizal responses to nitrogen, phosphorus, and atmospheric CO2 in field studies. New Phytol. 164:347–355.\r\nTreseder K. K. 2008. Nitrogen additions and microbial biomass: A metaanalysis of ecosystem studies. Ecol. Lett. 11:1111–20.\r\nUtomo M. 2014. Conservation tillage assessment for mitigating greenhouse gas emission in rainfed agro-ecosystems. In: Sustain Living With Environ Risks. Kaneko N, S Yoshiura, and M Kobayashi (eds.). Springer, Tokyo, Japan, pp. 35–44.\r\nVitousek P. M., J. D. Aber, R. W. Howarth, G. E. Likens, P. A. Matson, D. W. Schindler, W. H. Schlesinger, and D. G. Tilman. 1997. Human alteration of the global nitrogen cycle: Sources and consequences. Ecol. Appl. 7:737–750.\r\nWang S.-G., Y.-L. Hou, and W. Guo. 2010. Responses of nitrogen transformation and microbial community composition to nitrogen enrichment patch. Pedobiologia (Jena). 54:9–17.\r\nYevdokimov I., A. Gattinger, F. Buegger, J. C. Munch, and M. Schloter. 2008. Changes in microbial community structure in soil as a result of different amounts of nitrogen fertilization. Biol. Fertil. Soils. 44:1103–1106.\r\nYevdokimov I. V., A. Gattinger, F. Buegger, M. Schloter, and J. C. Munch. 2012. Changes in the structure and activity of a soil microbial community caused by inorganic nitrogen fertilization. Microbiology. 81:743–749.\r\nZelles L. 1999. Fatty acid patterns of phospholipids and lipopolysaccharides in the characterisation of microbial communities in soil: A review. Biol. Fertil. Soils. 29:111–129. Zelles L., Q. Y. Bai, T. Beck, and F. Beese. 1992. Signature fatty acids in phospholipids and lipopolysaccharides as indicators of microbial biomass\r\nand community structure in agricultural soils. Soil Biol. Biochem. 24:317–323.\r\nZhang S., Q. Li, Y. Lü, X. Zhang, and W. Liang. 2013. Contributions of soil biota to C sequestration varied with aggregate fractions under different tillage systems. Soil Biol. Biochem. 62:147–156.",
+      "title": "The Effects of Nitrogen Fertilizer on Soil Microbial\r\nCommunities Under Conventional and Conservation\r\nAgricultural Managements in a Tropical Clay-Rich Ultiso",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "id_number": "10.1097\/SS.0000000000000140",
+      "date": "2016-02-01",
+      "datestamp": "2016-10-03 01:23:06",
+      "lastmod": "2016-11-04 03:25:08",
+      "publisher": "Wolters Kluwer Health, Inc.",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Ainin",
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 703,
+      "abstract": "The response of microbial communities to N fertilizer varies depending on environmental and management-related factors. However, few studies have compared the effects of N fertilization on microbial communities under different agricultural management. We thus compared the biomass\r\nand composition of microbial communities in N-fertilized and unfertilized long-term (25 years) fields managed under conventional tillage with crop residue removal (CTR) and no-tillage with crop residue mulch (NTM) systems. Soil samples were taken in January 2011 and July 2012 at a depth of 0 to 10 cm, and phospholipid fatty acid (PLFA) profiles were measured. Fungal abundance was lower in N-fertilized soils than in unfertilized soils under both management systems at both sampling times. Bacterial abundance\r\nwas lower in N-fertilized soils than in unfertilized soils under the CTR system, whereas no difference was observed between N-fertilized and unfertilized soils under the NTM system in January 2011. However, in July 2012, bacterial abundance was lower in N-fertilized soils than in  N fertilized soils under both management systems. Principal component analysis of the PLFA profiles showed that N fertilizer had a significant effect on the PLFA composition under the CTR system but had less impact under the\r\nNTM system. These results suggest that (i) fungal biomass is negatively affected by N fertilizer regardless of  management system; (ii) bacterial response to N fertilizer differs temporally between management systems, reflecting temporal changes in soil C content; and (iii) the NTM system\r\nmitigates N effects on the composition of soil microbial communities.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/www.soilsci.com"
+    },
+    {
+      "rev_number": 10,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "event_dates": "22-24 May 2016",
+      "official_url": "https:\/\/confit.atlas.jp\/guide\/event\/jpgu2016\/subject\/MIS06-P08\/programpage",
+      "title": "Conservation of Soil Physical Properties by No-tillage Management in Tropical Sugarcane -Evaluation of Infiltration Characteristics with Artificial Aggregates-",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Artificial maropores were installed at subtropical red soils to reduce surface flow at sugarcane fields. The fields were suffering from heavy rain which is increasing these days because of climate change. Surface flow causes soil erosion which soil particles were directly delivered into sea with coral leaf. Soil particles would shade the sun and also nutrient rich water damage the coral leaf. Therefore, reducing surface flow with soil particles is crucial for protecting subtropical natural environment. However, conventional sugarcane employs cultivation and fresh planting every year. Agriculture soils are soft with cultivation and fresh planting needs bare soils. In that situation bare soil easily causes surface flow and soil particle loss. Non tillage or reduced tillage are strong countermeasures for those situation, however, agricultural farmers shows little appreciation for non-tillage management probably because it seems like uncontrolled or abandoned.\r\nTherefore in this research, we installed artificial macropores into the fields as an option for these situation. Artificial macropores with bamboo fibers were installed 1-m interval for conventional tillage field and non-tillage field. Soil moisture sensors were also installed at 10 and 30-cm deep soil. Rainfall was measured with tipping bucket and surface flow was measured with partial flume.\r\nResults showed that at conventional tillage field, soil moisture sensors at 30cm showed higher water content than 10cm after heavy rain. Surface flow was reduced after macropore installation at tillage field, while non tillage field did not show the effect. This results show that installation of macropore to tillage field reduce the surface flow while enhancing vertical infiltration. However, tubular macropore installation was tedious and time consuming. Here we installed another artificial macropore, namely “linear macropore ” for which macropores were created by subsoiler and fibrous materials were filled to reinforce the structure. The first result with heavy rain showed surface flow was reduced compare with bare soil. Its structure was also resistible for clogging when compared with liner macropore without fillings. We are planning to observe field condition next several months to evaluate this technique.",
+      "status_changed": "2017-01-06 01:26:45",
+      "eprint_status": "archive",
+      "event_location": "Makuhari, Japan",
+      "date_type": "published",
+      "event_title": "Japan Geoscience Union Meeting 2016",
+      "eprintid": 1372,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1372",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "poster",
+      "documents": [
+          {
+            "eprintid": 1372,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "presentation",
+            "docid": 1248,
+            "main": "MIS06-P08.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 48710,
+                  "mime_type": "application\/pdf",
+                  "fileid": 9248,
+                  "filename": "MIS06-P08.pdf",
+                  "hash": "b7f5a8fa4687245d8cd7cc3e32652491",
+                  "hash_type": "MD5",
+                  "mtime": "2017-01-04 14:04:57",
+                  "objectid": 1248,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9248"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1248"
+          }
+      ],
+      "pagerange": "MIS06-P08",
+      "datestamp": "2017-01-06 01:26:45",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2017-01-06 01:26:45",
+      "userid": 1055,
+      "dir": "disk0\/00\/00\/13\/72",
+      "date": "2016-05-22",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Mori",
+            "honourific": null,
+            "given": "Yasushi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Miwa",
+            "family": "Arai",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Swibawa",
+            "lineage": null,
+            "given": "I Gede"
+          },
+          "id": "gede.swibawa@fp.unila.ac.id"
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null,
+            "given": "Ainin"
+          }
+        },
+        {
+          "id": "kanekono@ynu.ac.jp",
+          "name": {
+            "given": "Nobuhiro",
+            "family": "Kaneko",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Fujie",
+            "lineage": null,
+            "given": "Koichi"
+          }
+        }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "conference_item"
+    },
+    {
+      "datestamp": "2017-06-02 20:49:50",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1055,
+      "lastmod": "2017-06-02 20:49:50",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2870",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "formatdesc": "No. BRP510\/X\/2016",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2742",
+            "rev_number": 4,
+            "format": "other",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 2742,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19724",
+                  "datasetid": "document",
+                  "filesize": 50995,
+                  "mime_type": "application\/pdf",
+                  "fileid": 19724,
+                  "hash": "a19fac9c6734664140b228ae1a5930ce",
+                  "filename": "Berita resmi HAKI Ainin Niswati, Sri Yusnaini, Sarno.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 15:44:51"
+                }
+            ],
+            "main": "Berita resmi HAKI Ainin Niswati, Sri Yusnaini, Sarno.pdf",
+            "docid": 2742,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2870
+          }
+      ],
+      "publisher": "DIREKTORAT PATEN, DTLST DAN RD DIREKTORAT JENDERAL KEKAYAAN INTELEKTUAL KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA",
+      "funders": [
+        "BERITA RESMI PATEN SERI-A"
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "patent",
+      "date": "2016-10-01",
+      "dir": "disk0\/00\/00\/28\/70",
+      "id_number": "P00201507742",
+      "pages": 295,
+      "publication": "BERITA RESMI PATEN SERI-A",
+      "patent_applicant": "Ainin Niswati, Sri Yusnaini, Sarno",
+      "creators": [
+        {
+          "name": {
+            "given": "Ainin",
+            "lineage": null,
+            "family": "Niswati",
+            "honourific": null
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Yusnaini",
+            "lineage": null,
+            "given": "Sri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": ".",
+            "lineage": null,
+            "family": "Sarno",
+            "honourific": null
+          }
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Proses pembuatan pupuk fosfat dengan bahan baku batuan fosfat dan limbah cair agroindustri telah dilakukan. Batuan fosfat dapat dari sumber lokal maupun impor sedangkan limbah cair agroindustri menggunakan bahan yang melimbah di pabrik sekitar kita. Pemanfaatan limbah cair agroindustri untuk membuat pupuk fosfat sangat bermanfaat untuk mengurangi polusi lingkungan, murah, dan terjangkau oleh masyarakat. Pupuk fosfat super memiliki kelarutan fosfat relatif tinggi dan berpengaruh dalam meningkatkan pertumbuhan tanaman jagung dan kedelai. Invensi ini membuktikan bahwa limbah cair agroindustri yang melimpah dan sering menjadi masalah dapat dimanfaatkan untuk membuat pupuk fosfat super yang tidak kalah kemampuannya dengan asam-asam konvensional yang harganya mahal. Invensi ini dapat mengatasi mahalnya harga pupuk dan seringnya beredarnya pupuk palsu.",
+      "status_changed": "2017-06-02 20:49:50",
+      "eprint_status": "archive",
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.dgip.go.id",
+      "title": "FORMULASI PUPUK FOSFAT DARI BATUAN FOSFAT DAN LIMBAH CAIR AGROINDUSTRI",
+      "date_type": "published",
+      "eprintid": 2870
+    },
+    {
+      "date": "2016-05-01",
+      "dir": "disk0\/00\/00\/35\/47",
+      "issn": "2337-4993",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Nur Mutiara",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pauza"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati",
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yusnaini",
+            "given": "Sri"
+          }
+        },
+        {
+          "name": {
+            "given": "-",
+            "family": "Dermiyati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dermiyati.1963@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Agrotek Tropika",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3547",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3547,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 24641,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-09 07:42:32",
+                  "hash": "d314887868a8f5b565f90cf203a2817a",
+                  "filename": "JAT Vol.4(2) 2016 Pauza dkk.pdf",
+                  "datasetid": "document",
+                  "filesize": 297322,
+                  "objectid": 3417,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24641"
+                }
+            ],
+            "docid": 3417,
+            "main": "JAT Vol.4(2) 2016 Pauza dkk.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3417",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2017-06-12 01:53:56",
+      "pagerange": "158-163",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-06-12 01:53:56",
+      "userid": 1055,
+      "date_type": "published",
+      "eprintid": 3547,
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 7,
+      "title": "PENGARUH SISTEM OLAH TANAH DAN APLIKASI MULSA BAGAS\r\nTERHADAP BIOMASSA KARBON MIKROORGANISME TANAH (C-MIK)\r\nPADA LAHAN PERTANAMAN TEBU (Saccharum officinarum L.)\r\nTAHUN KE-5",
+      "abstract": "Upaya yang dilakukan untuk memperbaiki kualitas lahan yang telah terdegradasi antara lain dengan penerapan sistem tanpa\r\nolah tanah (TOT) dan pemberian mulsa bagas. Penelitian ini bertujuan untuk Penelitian ini bertujuan untuk mengetahui\r\npengaruh olah tanah dan aplikasi mulsa bagas terhadap biomassa karbon mikroorganisme tanah (C-mik). Penelitian ini\r\ndilakukan dengan menggunakan rancangan petak terbagi dan disusun secara split plot dengan 5 ulangan. Sebagai petak\r\nutama adalah perlakuan sistem olah tanah (T) yaitu: T0\r\n = tanpa olah tanah; T1\r\n = olah tanah intensif dan anak petak dalam\r\npenelitian ini adalah penggunaan limbah pabrik gula (M) yaitu: M0= tanpa mulsa ; M1= mulsa bagas 80 ton ha-1. Semua\r\nperlakuan diaplikasikan pupuk anorganik NPK, dan aplikasi bahan organik BBA 80 t ha-1. Data yang diperoleh diuji\r\nhomogenitasnya dengan Uji Bartlet dan aditivitasnya dengan Uji Tukey, serta uji lanjut dengan Uji Beda Nyata Terkecil (BNT).\r\nHasil penelitian menunjukkan bahwa, sistem olah tanah tidak berpengaruh terhadap C-mik tanah, pada perlakuan aplikasi mulsa bagas hasil C-mik tanah lebih tinggi dibandingkan dengan perlakuan tanpa mulsa bagas pada waktu pengamatan 0, 3, dan 9 BST dan tidak terdapat interkasi antara sistem olah tanah dan aplikasi mulsa bagas terhadap C-mik tanah. Terdapat korelasi antara pH tanah dan suhu tanah dengan C-mik tanah, namun C-organik tanah dan kadar air tanah tidak berkorelasi nyata dengan C-mik tanah.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 01:53:56"
+    },
+    {
+      "status_changed": "2017-06-12 01:47:52",
+      "eprint_status": "archive",
+      "abstract": "Mikoriza vesikular arbuskular (MVA) merupakan fungi yang mampu bersimbiosis mutualisme dengan akar tanaman. Keberadaan MVA di dalam tanah dipengaruhi oleh beberapa kegiatan pertanian seperti pengolahan tanah dan pemupukan. Tujuan dari penelitian ini adalah untuk mempelajari pengaruh sistem pengolahan tanah terhadap jumlah spora MVA dan infeksi akar tanaman padi gogo, mempelajari pengaruh aplikasi pupuk N terhadap jumlah spora MVA dan infeksi akar tanaman padi gogo,\r\nmempelajari pengaruh interaksi antara sistem olah tanah dan aplikasi pupuk N terbaik terhadap jumlah spora MVA dan infeksi\r\nakar tanaman padi gogo, dan mempelajari korelasi antara beberapa variabel pertumbuhan tanaman dan sifat-sifat tanah dengan jumlah spora MVA dan infeksi akar tanaman padi gogo. Penelitian ini menggunakan rancangan acak kelompok (RAK), yang disusun secara faktorial (2x3), dengan 4 ulangan. Faktor pertama adalah olah tanah intensif (T1), olah tanah minimum (T2) dan tanpa olah tanah (T3); dan faktor kedua adalah tanpa pupuk N (N0) dan pemberian pupuk 100 kg N ha-1 (N1). Homogenitas ragam diuji dengan uji Bartlet dan Additifitas ragam dengan uji Tukey. Data yang diperoleh, dianalisis ragam dan dilanjutkan dengan menggunakan uji beda nyata terkecil (BNT) pada taraf 5%. Uji korelasi dilakukan terhadap variabel utama dan variabel pendukung. Hasil penelitian menunjukkan bahwa perlakuan T2 dan T3memiliki persen infeksi akar lebih tinggi dibandingkan dengan T1 . Perlakuan N0memiliki jumlah spora MVA lebih tinggi dibandingkan dengan pemberian pupuk N1, serta tidak terjadi interaksi antara sistem olah tanah dengan pemupukan N terhadap jumlah spora MVA dan persen infeksi akar. Tidak terjadi korelasi antara jumlah spora MVA dan persen infeksi akar dengan variabel pendukung, kecuali kadar air tanah yang memiliki berkorelasi positif dengan persen infeksi akar",
+      "subjects": [
+        "S1"
+      ],
+      "title": "PENGARUH SISTEM OLAH TANAH DAN PEMUPUKAN NITROGEN\r\nJANGKA PANJANG TERHADAP JUMLAH SPORA MIKORIZA VESIKULAR\r\nARBUSKULAR DAN INFEKSI AKAR TANAMAN PADI GOGO VARIETAS\r\nINPAGO-8 PADA MUSIM TANAM KE-46",
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 7,
+      "eprintid": 3552,
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1055,
+      "lastmod": "2017-06-12 01:47:52",
+      "pagerange": "164-171",
+      "datestamp": "2017-06-12 01:47:52",
+      "publisher": "Jurnal Agrotek Tropika",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3421",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 24670,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-09 08:25:45",
+                  "filename": "JAT Vol.4(2) 2016 Ratnawati.pdf",
+                  "hash": "af9f7d26d6672feb9e981f6ede4c419c",
+                  "datasetid": "document",
+                  "filesize": 335515,
+                  "objectid": 3421,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24670"
+                }
+            ],
+            "docid": 3421,
+            "main": "JAT Vol.4(2) 2016 Ratnawati.pdf",
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3552
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3552",
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ratnawati",
+            "given": "Lilis"
+          },
+          "id": null
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yusnaini"
+          }
+        },
+        {
+          "id": "muhajir.utomo@fp.unila.ac.id",
+          "name": {
+            "given": "Muhajir",
+            "lineage": null,
+            "honourific": null,
+            "family": "Utomo"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null,
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2337-4993",
+      "publication": "Jurnal Agrotek Tropika",
+      "date": "2016-05-01",
+      "dir": "disk0\/00\/00\/35\/52"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2799",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "accepted",
+            "eprintid": 2799,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2653",
+            "rev_number": 2,
+            "main": "JAT 4(1) 70-74 Januari 2016.pdf",
+            "docid": 2653,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 19148,
+                  "filename": "JAT 4(1) 70-74 Januari 2016.pdf",
+                  "hash": "26263160d4eeed46ef5bece75f4d1f79",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 08:06:43",
+                  "datasetid": "document",
+                  "filesize": 339974,
+                  "objectid": 2653,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19148"
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "pagerange": "70-74",
+      "datestamp": "2017-06-02 12:12:18",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1055,
+      "lastmod": "2017-06-02 12:12:18",
+      "dir": "disk0\/00\/00\/27\/99",
+      "date": "2016-01-01",
+      "publication": "Jurnal Agrotek Tropika",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Rosi",
+            "honourific": null,
+            "given": "Aulia"
+          }
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "given": "Ainin",
+            "lineage": null,
+            "family": "Niswati",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "family": "Yusnaini",
+            "lineage": null
+          },
+          "id": "sri.yusnaini@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Salam",
+            "honourific": null,
+            "given": "Abdul Kadir"
+          },
+          "id": "ak.salam@ymail.com"
+        }
+      ],
+      "issn": "2337-4993",
+      "divisions": [
+        "FP23"
+      ],
+      "contact_email": "ainin.niswati@fp.unila.ac.id",
+      "type": "article",
+      "volume": 4,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Penentuan Dosis dan Ukuran Butir Pupuk Fosfat Super Terbaik untuk Mendukung Pertumbuhan dan Serapan P Tanaman Kedelai (Glycine max[L.] Merril)",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Pemupukan merupakan cara yang dilakukan dalam pemberian unsur hara ke tanah sesuai yang dibutuhkan tanaman.  Salah satu unsur hara makro yang dibutuhkan tanaman yaitu fosfor. Umumnya fosfor ditambahkan dari pupuk fosfat industri dengan harga yang semakin meningkat sehingga dicari pupuk yang berasal dari batuan fosfat yang ditambah limbah cair tahu dan asam sulfat untuk meningkatkan kelarutan fosfor. Pupuk tersebut dinamakan Fosfat super, merupakan hasil asidulasi batuan fosfat dengan kombinasi antara 85% limbah cair tahu dan 15% H2SO41 N.Pupuk Fosfatsuper akan diuji kelarutannya dalam menyediakan unsur hara bagi tanaman kedelai.  Penelitian ini bertujuan untuk menentukan dosis dan ukuran butir pupuk Fosfatsuper yang tepat dalam pertumbuhan dan serapan P tanaman kedelai.  Penelitian dilaksanakan di rumah kaca Ilmu Tanah, Laboratorium Teknologi Pertanian dan Laboratorium Ilmu Tanah Fakultas Pertanian Universitas Lampung dari bulan September 2014 sampai dengan April 2015. Penelitian disusun  secara faktorial 2x4 dalam Rancangan Acak Kelompok (RAK) dengan 3 ulangan.  Faktor pertama adalah dosis pupuk Fosfatsuper (360 kg ha-1; 720 kg ha-1) dan faktor kedua adalah ukuran butir pupuk Fosfatsuper (1 mm; 2-3 mm; 3-4 mm; >5 mm).  Hasil penelitian menunjukkan bahwa dosis dan ukuran butir pupuk Fosfatsuper tidak mempengaruhi tinggi tanaman, jumlah daun, bobot akar kering, bobot tajuk kering, P-tersedia, serapan P, dan pH tanah fase vegetatif akhir.  Namun demekian, uji korelasi menunjukkan korelasi nyata positif terjadi antara serapan unsur hara P dengan jumlah daun, bobot akar kering, dan bobot tajuk kering tanaman kedelai.",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 12:12:18",
+      "date_type": "published",
+      "eprintid": 2799
+    },
+    {
+      "pagerange": "222-227",
+      "datestamp": "2017-06-12 01:53:47",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-06-12 01:53:47",
+      "userid": 1055,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3549",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "Jurnal Agrotek Tropika",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3418",
+            "rev_number": 2,
+            "main": "JAT Vol.4(3) 2016 Salamah dkk.pdf",
+            "docid": 3418,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 24649,
+                  "filename": "JAT Vol.4(3) 2016 Salamah dkk.pdf",
+                  "hash": "c61964b0f5ef216cc7cf5f0936ceef09",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-09 08:10:26",
+                  "datasetid": "document",
+                  "filesize": 306289,
+                  "objectid": 3418,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24649"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "submitted",
+            "eprintid": 3549,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "date": "2016-09-01",
+      "dir": "disk0\/00\/00\/35\/49",
+      "publication": "Jurnal Agrotek Tropika",
+      "issn": "2337-4993",
+      "creators": [
+        {
+          "name": {
+            "given": "Mufli Hatus",
+            "honourific": null,
+            "family": "Salamah",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Ainin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dermiyati",
+            "honourific": null,
+            "given": "-"
+          },
+          "id": "dermiyati.1963@fp.unila.ac.id"
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yusnaini"
+          }
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mempelajari pengaruh sistem olah tanah dan aplikasi mulsa bagas terhadap populasi dan biomassa cacing tanah pada lahan pertanaman tebu tahun Ke-5. Penelitian ini dilaksanakan pada bulan Januari - Oktober 2015, di lahan pertanaman tebu PT GMP dengan perlakuan sistem olah tanah dan aplikasi mulsa bagas. Analisis cacing tanah dilakukan di Laboratorium Biologi Ilmu Tanah dan analisis contoh tanah dilakukan di Laboratorium Ilmu Tanah, Fakultas Pertanian, Universitas Lampung. Penelitian disusun secara split plot dalam rancangan acak kelompok terdiri dari 4 perlakuan\r\ndengan 5 ulangan atau 20 satuan percobaan. Data yang diperoleh dianalisis dengan sidik ragam yang sebelumnya telah diuji homogenitas ragamnya dengan Uji Bartlett dan aditivitasnya dengan Uji Tukey. Rata-rata nilai tengah diuji dengan uji BNT pada taraf 5%. Untuk mengetahui hubungan antara populasi dan biomassa cacing tanah dengan C-organik, pH, kadar air, dan suhu tanah dilakukan uji korelasi. Cacing tanah diamati dengan metode hand sorting dengan membuat monolith dengan ukuran 50 cm x 50 cm sedalam 30 cm dengan cara digali. Hasil penelitian pada pertanaman tebu tahun ke-5 menunjukan bahwa perlakuan tanpa olah tanah populasi cacing tanah pada pengamatan 9 BST dan biomassa cacing tanah pada pengamatan 3 BST lebih tinggi dibandingkan dengan perlakuan olah tanah intensif pada lahan pertanaman tebu tahun ke-5, sedangkan pemberian mulsa bagas populasi cacing tanah lebih tinggi dibandingkan dengan tanpa mulsa bagas pada pengamatan 3 BST. Tidak terdapat interaksi antara sistem olah tanah dan aplikasi mulsa bagas terhadap populasi dan biomassa cacing tanah. Terdapat 2 famili cacing tanah yang didapat yaitu famili Lumbricidae dan Glossoscolecidae.",
+      "status_changed": "2017-06-12 01:53:47",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "volume": 4,
+      "metadata_visibility": "show",
+      "title": "PENGARUH SISTEM OLAH TANAH DAN PEMBERIAN MULSA BAGAS\r\nTERHADAP POPULASI DAN BIOMASSA CACING TANAH PADA LAHAN\r\nPERTANAMAN TEBU TAHUN KE-5",
+      "date_type": "published",
+      "eprintid": 3549
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Jamal Hamdan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sanjaya"
+          },
+          "id": "jamalhsanjaya@gmail.com"
+        },
+        {
+          "id": "afandi.1964@fp.unila.ac.id",
+          "name": {
+            "given": ".",
+            "family": "Afandi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Afrianti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nur Afni"
+          },
+          "id": "nur_afnii@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Hery",
+            "honourific": null,
+            "family": "Novpriansyah",
+            "lineage": null
+          },
+          "id": "hery.novpriansyah@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2337-4993",
+      "publication": "Jurnal Agrotek Tropika",
+      "date": "2016-01-01",
+      "dir": "disk0\/00\/01\/21\/95",
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25177",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 72092,
+                  "fileid": 109019,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-09 04:35:01",
+                  "hash": "e61db610d8ca8d588074c1b656bfedee",
+                  "filename": "JAT Vol 4 No 1 hal 105-110 tahun 2016.pdf",
+                  "objectid": 25177,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/109019"
+                }
+            ],
+            "docid": 25177,
+            "main": "JAT Vol 4 No 1 hal 105-110 tahun 2016.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12195
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12195",
+      "userid": 1098,
+      "lastmod": "2019-05-09 08:15:37",
+      "datestamp": "2019-05-09 08:15:37",
+      "pagerange": "105-110",
+      "eprintid": 12195,
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JA\/article\/view\/1913",
+      "title": "PENGARUH EFFLUENT SAPI TERHADAP BEBERAPA SIFAT FISIK DAN\r\nKIMIA TANAH PADA LAHAN ULTISOL DI PT GREAT GIANT PINEAPPLE\r\nLAMPUNG TENGAH",
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 8,
+      "status_changed": "2019-05-09 08:15:37",
+      "eprint_status": "archive",
+      "abstract": "Effluent sapi adalah pupuk organik tanah yang berasal dari limbah cair campuran kotoran sapi padat, urin, air dan sisa kandang lainnya. Kandungan unsur kimia yang terdapat pada effluent sapi diharapkan dapat memperbaiki sifat fisik dan kimia tanah. Penelitian ini bertujuan untuk mengetahui pengaruh pemberian effluent sapi terhadap beberapa sifat fisik dan kimia tanah pada ultisol di PT Great Giant Pineapple. Hipotesis yang diajukan yaitu pemberian effluent sapi memberikan pengaruh positif\r\ndan semakin tinggi taraf perlakuan yang diberikan semakin besar pengaruhnya dalam memperbaiki sifat fisik dan kimia tanah. Penelitian dilaksanakan pada bulan September hingga bukan November 2014 pada lahan Ultisol di PT Great Giant Pineapple lokasi 90A. Penelitian ini menggunakan Rancangan Acak Lengkap dengan faktor perlakuan penelitian yaitu effluent sapi dengan taraf perlakuan 0 lha-1, 200.000 lha-1, 300.000 lha-1, dan 450.000 lha.  Variabel pengamatan sifat fisik meliputi stabilitas agregat tanah dan kekuatan tanah, sedangkan sifat kimia meliputi pH tanah H-1O, C-Organik, N-Total serta Nisbah C\/N.  Data yang diperoleh dari hasil analisis laboratorium kemudian dianalisis menggunakan Analisis Ragam dan dilanjutkan dengan Uji BNT pada taraf = 0,05. Data tersebut kemudian juga diharkatkan berdasarkan kriteria tertentu.  Hasil penelitian menunjukkan bahwa aplikasi effluent sapi berpengaruh positif dalam memperbaiki stabilitas agregat tanah dan pH tanah, namun tidak berpengaruh terhadap C-Organik, N-Total, maupun nisbah C\/N tanah.  Aplikasi effluent sapi sampai dengan taraf 450.000 lha-1 masih cukup rendah dan belum efisien untuk meningkatkan C-Organik, N-Total, maupun nisbah C\/N tanah.",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "abstract": "Sumber P yang saat ini digunakan dalam pertanian umumnya adalah pupuk kimia seperti   SP-36 dan TSP, dengan ditiadakannya subsidi pupuk P ini maka harga pupuk meningkat di pasaran karena semua bahan baku pembuatan pupuk tersebut berasal dari impor sehingga harga pupuk menjadi mahal.  Oleh karena itu perlu dicari alternatif untuk mengatasinya, yaitu dengan menggunakan batuan fosfat yang dicampur limbah cair tahu dan asam sulfat.  Pupuk tersebut dinamakan Fosfatsuper, yang merupakan hasil asidulasi batuan fosfat dengan kombinasi antara 85% limbah cair tahu dan 15% H2SO41 N. Pupuk Fosfatsuper akan diuji kelarutannya dalam menyediakan unsur hara bagi tanaman jagung.  Penelitian ini bertujuan mencari dosis dan ukuran butir pupuk Fosfatsuper yang terbaik dalam pertumbuhan dan serapan P tanaman jagung.  Penelitian dilaksanakan di Rumah Kaca Ilmu Tanah, Laboratorium Ilmu Tanah dan Laboratorium Teknologi Pertanian Universitas Lampung bulan Agustus 2014 sampai April 2015.  Penelitian disusun secara faktorial 2x4 dalam Rancangan Acak Kelompok (RAK) dengan 3  kelompok. Faktor pertama adalah dosis pupuk Fosfatsuper (360 kg ha-1; 720 kg ha-1) dan faktor kedua adalah ukuran butiran pupuk fosfat super (1 mm, 2 3 mm, 3 5 mm, > 5mm).  Hasil penelitian menunjukkan bahwa  P-tersedia terbaik pada dosis 50% (setara dengan dosis SP-36 360 kg ha-1) pada ukuran butir 1 mm dan jumlah daun terbaik pada dosis 50% pada ukuran butir 1 mm.  Berdasarkan hasil uji korelasi menunjukkan korelasi nyata antara serapan P dengan bobot berangkasan kering, P-tersedia dengan bobot berangkasan kering, dan pH dengan bobot akar kering tanaman jagung.",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2017-06-02 01:20:59",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 7,
+      "title": "Pengaruh Dosis dan Ukuran Butir Pupuk Fosfat Super yang Diasidulasi Limbah Cair Tahu terhadap Serapan P dan Pertumbuhan Tanaman Jagung (Zea mays L.)",
+      "date_type": "published",
+      "eprintid": 2795,
+      "datestamp": "2017-06-02 01:20:59",
+      "pagerange": "81-85",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-06-02 01:20:59",
+      "userid": 1055,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2795",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2652",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 238226,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 08:03:07",
+                  "hash": "e2af51686caa01978d2d34b3dbbe7338",
+                  "filename": "JAT 4(1) 81-85 Januari 2016.pdf",
+                  "fileid": 19121,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19121",
+                  "objectid": 2652
+                }
+            ],
+            "main": "JAT 4(1) 81-85 Januari 2016.pdf",
+            "docid": 2652,
+            "content": "submitted",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2795
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/27\/95",
+      "date": "2016-01-01",
+      "issn": "2337-4993",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Debby Novita",
+            "honourific": null,
+            "family": "Sari",
+            "lineage": null
+          }
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "family": "Yusnaini",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri"
+          }
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null,
+            "given": "Ainin"
+          }
+        },
+        {
+          "id": "sarno.1957@fp.unila.ac.id",
+          "name": {
+            "given": "-",
+            "lineage": null,
+            "family": "Sarno",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Jurnal Agrotek Tropika"
+    },
+    {
+      "documents": [
+          {
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2793,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2649",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 2649,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19093",
+                  "mime_type": "application\/pdf",
+                  "fileid": 19093,
+                  "filename": "JAT 4(1) 99-104 Januari 2016.pdf",
+                  "hash": "467475b0471988a23baf0dae004faad6",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 07:56:03",
+                  "datasetid": "document",
+                  "filesize": 79077
+                }
+            ],
+            "main": "JAT 4(1) 99-104 Januari 2016.pdf",
+            "docid": 2649
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2793",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-06-02 02:05:46",
+      "userid": 1055,
+      "datestamp": "2017-06-02 02:05:46",
+      "pagerange": "99-104",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Deni",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "given": "Ainin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati"
+          }
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "family": "Yusnaini",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "2337-4993",
+      "publication": "Jurnal Agrotek Tropika",
+      "date": "2016-01-01",
+      "dir": "disk0\/00\/00\/27\/93",
+      "type": "article",
+      "contact_email": "ainin.niswati@fp.unila.ac.id",
+      "divisions": [
+        "FP23"
+      ],
+      "title": "Pengaruh Sistem Olah Tanah dan Aplikasi Mulsa Bagas terhadap Respirasi Tanah pada Pertanaman Tebu (Saccharum officanarum L) Tahun ke-5 Plant Cane di PT Gunung Madu Plantations",
+      "metadata_visibility": "show",
+      "volume": 4,
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 02:05:46",
+      "abstract": "Respirasi tanah merupakan suatu proses yang terjadi di dalam tanah karena adanya kehidupan dan aktivitas dari mikroorganisme di dalam tanah yang dalam aktivitasnya membutuhkan O2 dan mengeluarkan CO2. Respirasi tanah juga merupakan suatu indikator yang baik terhadap mutu tanah. Sistem olah tanah pada tanah yang diolah mampu meningkatkan respirasi tanah dibandingkan tanah yang tidak diolah (TOT) karena tanah yang diolah mempunyai aerasi yang lebih baik dibandingkan tanah yang tidak diolah (TOT) dan tanah yang diaplikasi kan mulsa bagas mampu meningkatkan respirasi tanah dibandingkan tanpa aplikasi mulsa bagas karena pemberian bahan organik akan meningkatkan aktivitas mikroorganisme, mikroorganisme menggunakan bahan organik sebagai sumber energinya.oleh karena itu perlakuan sistem olah tanah dan pemberian mulsa bagas akan mempengaruhi aktivitas mikroorganisme tanah yang dapat diukur dengan respirasi tanah. Penelitian dilaksanakan bulan September 2014 hingga Januari 2015. Penelitian ini dirancang secara split plot dalam rancangan acak kelompok (RAK) dengan 5 kali ulangan.  Petak utama yaitu sistem olah tanah yang terdiri dari dari tanpa olah tanah (T0) dan olah tanah intensif (T1).  Anak petak adalah aplikasi mulsa bagas, yang terdiri dari tanpa mulsa bagas (M0) dan mulsa bagas 80 t ha-1 (M1).  Data yang diperoleh dianalisis dengan sidik ragam pada taraf 5%, yang sebelumnya telah diuji homogenitas ragamnya dengan uji Bartlett dan aditivitasnya dengan uji Tukey, dan dilanjutkan dengan uji BNT pada taraf 1% dan 5%.  Hasil penelitian menunjukkan bahwa sistem olah tanah dan aplikasi mulsa bagas memberikan pengaruh yang nyata terhadap respirasi tanah  pada 0 BSP dan 3 BSP namun tidak ada interaksi antara pengolahan tanah dan aplikasi mulsa bagas. Hasil uji BNT 5% menunjukan respirasi pada tanah yang diolah lebih tinggi dibandingkan tanah yang tidak diolah dan tanah yang diaplikasikan mulsa lebih tinggi dibandingkan tanpa aplikasi mulsa. Rata-rata respirasi tanah tertinggi pada olah tanah pada pengamatan 0 BSP dan 3 BSP berturut-turut yaitu 41,92 mg jam-1 m-2  dan 45,62 mg jam-1 m-2sedangkan yang terendah yaitu 36,46 mg jam-1 m-2dan 40,55 mg jam-1 m-2 dan rata-rata respirasi tanah tertinggi yang diaplikasi mulsa  pada pengamatan 0 BSP dan 3 BSP berturut-turut yaitu 42,11 mg jam-1 m-2 dan 46,40 mg jam-1 m-2 dan respirasi tanah terendah yang tanpa aplikasi mulsa yaitu 36,26 mg jam-1 m-2 dan 39,77 mg jam-1 m-2. Hasil  uji korelasi menunjukkan tinggi rendahnya C-Organik tanah, pH tanah, kelembaban tanah  dan suhu tanah tidak berpengaruh nyata terhadap respirasi tanah.",
+      "subjects": [
+        "S1"
+      ],
+      "eprintid": 2793,
+      "date_type": "published"
+    },
+    {
+      "id_number": "10.1007\/s11104-016-2900-7",
+      "dir": "disk0\/00\/00\/38\/21",
+      "date": "2016-11-01",
+      "creators": [
+        {
+          "id": "supriatin.1979@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Supriatin",
+            "lineage": null,
+            "given": "Supriatin"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Liping",
+            "lineage": null,
+            "honourific": null,
+            "family": "Weng"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rob",
+            "family": "Comans",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1573-5036",
+      "publication": "Plant and Soil",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3821",
+      "full_text_status": "public",
+      "publisher": "Springer",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 3821,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3679",
+            "main": "Supriatin Supriatin 2016.pdf",
+            "docid": 3679,
+            "files": [
+                {
+                  "filesize": 1317554,
+                  "datasetid": "document",
+                  "mtime": "2017-08-10 09:05:25",
+                  "hash_type": "MD5",
+                  "filename": "Supriatin Supriatin 2016.pdf",
+                  "hash": "8c6ce9a49260b303a697ad5e8ef03266",
+                  "fileid": 26742,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26742",
+                  "objectid": 3679
+                }
+            ]
+          }
+      ],
+      "number": "1-2",
+      "ispublished": "pub",
+      "pagerange": "73-94",
+      "datestamp": "2017-08-14 06:38:01",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2017-08-14 06:38:01",
+      "userid": 5,
+      "date_type": "published",
+      "eprintid": 3821,
+      "metadata_visibility": "show",
+      "volume": 408,
+      "rev_number": 8,
+      "official_url": "https:\/\/link.springer.com\/article\/10.1007\/s11104-016-2900-7",
+      "title": "Selenium-rich dissolved organic matter determines selenium uptake in wheat grown on low-selenium arable land soils",
+      "abstract": "The study aimed to find soil parameters that are best related to Se plant uptake for low Se soils with predominantly organic Se, and to explore the mechanisms that control Se bioavailability in the soils under study. A pot experiment using nineteen soil samples taken from different fields of arable land (potato fields) in the Netherlands was conducted on summer wheat (Triticum aestivum L.). Selenium in wheat shoots and soil parameters, including basic soil properties, C:N ratio, inorganic selenite content, and Se and organic C in different soil extractions (0.01 M CaCl2, 0.43 M HNO3, hot water, ammonium oxalate, aqua regia) were analysed. Regression analysis was performed to identify soil parameters that determine Se content in wheat shoots. The regression model shows that Se:DOC ratio in 0.01 M CaCl2 soil extraction explained about 88% of the variability of Se uptake in wheat shoots. Selenium uptake increased with Se:DOC ratio in CaCl2 extraction, which can be interpreted as a measure of the content of soluble Se-rich organic molecules. Selenium:DOC ratio in CaCl2 extraction and Se uptake increased towards higher soil pH and lower soil C:N ratio. The soil C:N ratio is also negatively correlated to Se:organic C ratio in other extractions (0.43 M HNO3, hot water, ammonium oxalate, aqua regia), indicating that at low soil C:N ratio soil organic matter is richer in Se. Contrarily, the soil pH is positively and strongly correlated to Se:organic C ratio in CaCl2 and hot water extractions, but only weakly correlated to Se:organic C ratio in other extractions. Selenium-rich dissolved organic matter is the source of bioavailable Se in low Se soils with predominantly organic Se. The soil pH and quality of soil organic matter (i.e. soil C:N ratio) are the main soil properties determining Se bioavailability in these soil types.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-08-14 06:38:01"
+    },
+    {
+      "isbn": 9786020895925,
+      "date_type": "published",
+      "eprintid": 1152,
+      "rev_number": 10,
+      "place_of_pub": "Jakarta",
+      "metadata_visibility": "show",
+      "official_url": "http:www.prenadamediagroup.com",
+      "title": "Ilmu Tanah: Dasar-dasar dan Pengelolaan",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Dengan makin meningkatnya penduduk dunia, kebutuhan akan pangan dan energi pun semakin meningkat. Dengan demikian tugas pertanian akan semakin berat, karena bukan hanya harus menyediakan pangan, tetapi juga menyediakan bio-energi untuk mengantisipasi makin menipisnya ketersediaan energi fosil. Ini berarti kebutuhan lahan (tanah) untuk pertanian dan pembangunan sektor lain juga akan semakin meningkat. Namun pertanian saat ini dan ke depan menghadapi tantangan yang lebih kompleks, yaitu makin meningkatnya degradasi lahan, terbatasnya lahan pertanian produktif akibat alih fungsilahan, dan menyusutnya ketersediaan air akibat dampak perubahan iklim. Oleh karena itu, diperlukan konsep dan tindakan pengelolaan yang mampu memberdayakan sumber daya tanah untuk pembangunan berkelanjutan.   \r\n\r\nDalam mendukung pembangunan dan peradaban manusia, minimal ada enam fungsi ekosistem tanah yang harus diperhatikan, yaitu tanah sebagai (1) medium tumbuh, (2) pengendali pasokan air, (3) habitat organisme tanah, (4) pendaur ulang alami, (5) pengatur komposisi atmosfer, dan (6) medium untuk keteknikan. Demikian pentingnya fungsi ekosistem tanah dalam mendukung kehidupan manusia, maka diperlukan ilmu pengetahuan dan teknologi yang mampu memberdayakannya secara berkelanjutan. Dengan mempelajari dan memahami sifat dan ciri sumber daya tanah secara komprehensif khususnya untuk para mahasiswa calon pelaku pembangunan pertanian dan pemimpin bangsa, diharapkan mereka kelak dapat mengelola tanah secara berkelanjutan dalam rangka membangun peradaban baru umat manusia.\r\n\r\nBuku Ilmu Tanah: Dasar-dasay dan Pengelolaan ini berisi tentang konsep mutakhir tentang sifat, ciri, dan proses dalam tanah sebagai dasar untuk penggunaan dan pengelolaan tanah berkelanjutan. Buku pegangan Ilmu Tanah Dasar untuk mahasiswa Fakultas Pertanian, disiplin terkait, dan praktisi ini merupakan penjabaran dari fungsi ekosistem tanah yangtertuang dalam 12 babyaitu (1) Sumber daya Tanah dan Kehidupan di Muka Bumi ; (2) Proses Pembentukan Tanah; (3) Sifat Fisik Tanah; (4) Sifat dan Perilaku Air Tanah; (5) Ekologi Tanah; (6) Siklus Karbon dan Bahan Organik Tanah; (7) Sifat dan Proses Kimia; (8) Tanah dan Hara Tanaman; (9) Pengelolaan Kesuburan Tanah; (10) Klasifikasi Tanah, Survei dan Evaluasi Lahan; Degradasi Tanah dan Konservasi Tanah; (12) Tanah dan Kualitas Lingkungan. Buku ini ditulis oleh para senior di bidang Ilmu Tanah yaitu Prof. I r, Muhajir Utomo, M.Sc., Ph.D. (Unila), Prof. Dr. Ir. Sudarsono, M.Sc, (IPB), Prof. Dr. Ir. Bujang Rusman, M.S. (Unand); Prof. Ir.Tengku Sabrina, M.Sc., Ph.D. (USU), Prof. Ir. Jamalam Lumbanraja, M.Sc., Ph.D. (Unila), dan Prof. Dr. lr. Wawan, M.P. (Unri).",
+      "status_changed": "2016-11-14 09:17:46",
+      "eprint_status": "archive",
+      "date": 2016,
+      "dir": "disk0\/00\/00\/11\/52",
+      "pages": 367,
+      "creators": [
+        {
+          "id": "muhajir.utomo@fp.unila.ac.id",
+          "name": {
+            "given": "Muhajir",
+            "lineage": null,
+            "honourific": null,
+            "family": "Utomo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Tengku",
+            "lineage": null,
+            "family": "Sabrina",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Sudarsono",
+            "honourific": null,
+            "given": "-"
+          }
+        },
+        {
+          "id": "jamalam.lumbanraja@fp.unila.ac.id",
+          "name": {
+            "given": "Jamalam",
+            "lineage": null,
+            "honourific": null,
+            "family": "Lumbanraja"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Bujang",
+            "honourific": null,
+            "family": "Rusman",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wawan",
+            "honourific": null,
+            "given": "-"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "book",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1152",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Kencana, Prenada Media Group",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1152,
+            "content": "coverimage",
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "files": [
+                {
+                  "objectid": 1030,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7645",
+                  "mime_type": "image\/jpeg",
+                  "fileid": 7645,
+                  "filename": "Buku Ilmu Tanah 2016.jpg",
+                  "hash": "2abd5c4b180008bb57ac9830950d47be",
+                  "mtime": "2016-11-14 04:44:59",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 29646
+                }
+            ],
+            "docid": 1030,
+            "main": "Buku Ilmu Tanah 2016.jpg",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1030",
+            "rev_number": 2,
+            "format": "image",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2016-11-14 09:17:46",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1068,
+      "lastmod": "2016-11-14 09:17:46"
+    },
+    {
+      "issn": "2337-4993",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Widodo",
+            "given": "Eko Ari"
+          },
+          "id": null
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Niswati",
+            "honourific": null,
+            "given": "Ainin"
+          }
+        },
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yusnaini",
+            "given": "Sri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Henrie",
+            "family": "Buchari",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Agrotek Tropika",
+      "dir": "disk0\/00\/00\/35\/51",
+      "date": "2016-09-01",
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 3551,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3420",
+            "rev_number": 2,
+            "docid": 3420,
+            "main": "JAT Vol.4(3) 2016 Widodo dkk.pdf",
+            "files": [
+                {
+                  "fileid": 24663,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-09 08:20:58",
+                  "filename": "JAT Vol.4(3) 2016 Widodo dkk.pdf",
+                  "hash": "474779894f5bb835530cf6ce7c15d68f",
+                  "datasetid": "document",
+                  "filesize": 314505,
+                  "objectid": 3420,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24663"
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurnal Agrotek Tropika",
+      "ispublished": "pub",
+      "number": 3,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3551",
+      "userid": 1055,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-06-12 01:48:28",
+      "datestamp": "2017-06-12 01:48:28",
+      "pagerange": "228-232",
+      "eprintid": 3551,
+      "date_type": "published",
+      "title": "PENGARUH PENGOLAHAN TANAH DAN PEMBERIAN MULSA BAGAS\r\nTERHADAP BIOMASSA KARBON MIKROORGANISME TANAH (C-MIK)\r\nPADA LAHAN PERTANAMAN TEBU PT GMP TAHUN KETIGA",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 4,
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 01:48:28",
+      "abstract": "Penelitian ini bertujuan untuk mempelajari pengaruh aplikasi mulsa bagas dan sistem pengolahan tanah pada lahan pertanaman tebu (Saccharum officinarum L.) terhadap biomasa karbon mikroorganisme tanah (C-mik) di PT Gunung Madu Plantations, Lampung Tengah tahun ketiga. Penelitian ini dilaksanakan pada bulan Maret 2014. Percobaan dilakukan di lahan pertanaman tebu PT Gunung Madu Plantations dengan perlakuan sistem olah tanah dan aplikasi limbah pabrik gula jangka panjang dari\r\ntahun 2010 sampai dengan tahun 2020. Analisis biomassa karmon mikroorganisme (C-mik) dilakukan di Laboratorium Biologi Ilmu Tanah dan analisis contoh tanah dilakukan di Laboratorium Ilmu Tanah, Fakultas Pertanian, Unversitas Lampung. Penelitian ini dilakukan dengan menggunakan rancangan petak terbagi dan disusun secara split plot dengan 5 ulangan dan 4 perlakuan.\r\nSebagai petak utama adalah perlakuan sistem olah tanah (T) yaitu: T0  = tanpa olah tanah, T1\r\n = olah tanah intensif. Sedangkan anak petak dalam penelitian ini adalah penggunaan limbah pabrik gula (M) yaitu: M0= tanpa mulsa, M1= mulsa bagas 80 ton ha- 1\r\n. Data yang diperoleh dianalisis dengan sidik ragam yang sebelumnya telah diuji homogenitas ragamnya dengan Uji Bartlett dan aditivitasnya dengan Uji Tukey. Rata-rata nilai tengah diuji dengan uji BNT pada taraf 1% dan 5%. Untuk mengetahui hubungan antara biomassa karbon mikroorganisme tanah dengan C-organik, pH, kadar air tanah, dan suhu tanah dilakukan uji korelasi. Hasil penelitian menunjukkan bahwa perlakuan sistem olah tanah dan pemberian mulsa bagas tidak berpengaruh nyata pada biomassa karbon mikroornisme tanah (C-mik) pada masing – masing waktu pengamatan",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "title": "Peningkatan Kualitas Limbah Cair Agroindustri Nanas dengan\r\nPenambahan Limbah Kepala Udang Sebagai Bahan Dasar  \r\nPembuatan Pupuk Organik Cair",
+      "event_dates": "16-17 September 2016",
+      "rev_number": 9,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "status_changed": "2016-10-13 15:36:49",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Penelitian ini dilakukan untuk mendapatkan campuran limbah cair agroindustri nanas dan kepala udang serta ukuran butiran limbah kepala udang terbaik dalam menghasilkan ekstrak campuran yang memiliki pH netral, serta mempunyai kandungan N, P, dan K tinggi. Penelitian dirancang dengan rancangan acak kelompok lengkap (RAKL) dengan pola  faktorial.  Faktor pertama adalah dosis pencampuran limbah kepala udang: 0%, 15%, 30%, dan 45 %, dan faktor ke 2 adalah\r\nukuran butir limbah kepala udang : halus (lolos ayakan 0,5 mm), sedang (lolos ayakan 1 mm), dan kasar (lolos ayakan 3 mm). Perlakuan diulang 3 kali dan data (pH, N,P, dan K) dianalisis dengan sidik ragam dan dilanjutkan dengan uji BNT pada taraf nyata 5%. Hasil Penelitian menunjukkan bahwa semakin tinggi dosis pencampuran limbah kepala udang maka semakin tinggi pula pH kandungan unsur N,P, dan K limbah cair agroindustri nanas.  Sedangkan ukuran butir limbah kepala udang tidak berpengaruh terhadap pH, N, P, dan K limbah cair agroindustri nanas.",
+      "event_location": "FAKULTAS PERTANIAN UNIVERSITAS SYIAH KUALA, BANDA ACEH",
+      "event_title": "SEMINAR NASIONAL PENGELOLAAN LAHAN BERKELANJUTAN UNTUK MENDUKUNG KETAHANAN PANGAN NASIONAL",
+      "eprintid": 745,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/644",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4342",
+                  "objectid": 644,
+                  "filesize": 8953695,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-11 05:10:01",
+                  "filename": "(Sri Yusnaini) Prosiding_SEMNAS HITI_16 - 17 Sept 14_Banda Aceh.pdf",
+                  "hash": "ebc502424e4d45ad177e52d4227ec981",
+                  "fileid": 4342,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "(Sri Yusnaini) Prosiding_SEMNAS HITI_16 - 17 Sept 14_Banda Aceh.pdf",
+            "docid": 644,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 745
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/745",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-10-13 15:36:49",
+      "userid": 1055,
+      "datestamp": "2016-10-13 15:36:49",
+      "pagerange": "256-261",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yusnaini",
+            "honourific": null,
+            "given": "Sri"
+          },
+          "id": "sri.yusnaini@fp.unila.ac.id"
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "family": "Niswati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ainin"
+          }
+        },
+        {
+          "name": {
+            "given": "Udin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasanudin"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/07\/45",
+      "date": 2016,
+      "type": "conference_item",
+      "divisions": [
+        "FP23"
+      ]
+    }
+]
+

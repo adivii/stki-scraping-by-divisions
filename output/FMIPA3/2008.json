@@ -1,0 +1,512 @@
+[
+    {
+      "datestamp": "2020-09-03 07:28:32",
+      "pagerange": "II-266-II-278",
+      "userid": 725,
+      "lastmod": "2020-09-03 07:28:32",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23880",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 23880,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37555",
+            "docid": 37555,
+            "main": "SN_17_SATEK_2008_Ketua - Conference.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217820",
+                  "objectid": 37555,
+                  "filesize": 7751292,
+                  "datasetid": "document",
+                  "mtime": "2020-09-03 07:19:27",
+                  "hash_type": "MD5",
+                  "hash": "128439ae9aad0daf9c9156b5ec816a77",
+                  "filename": "SN_17_SATEK_2008_Ketua - Conference.pdf",
+                  "fileid": 217820,
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "conference_item",
+      "date": "2008-11-18",
+      "dir": "disk0\/00\/02\/38\/80",
+      "creators": [
+        {
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "abstract": "Adalah hal yang lazim, ketika kita ingin mengunjungi beberapa kota, kita berupaya mencari rute yang harus dilalui dengan total jarak tempuh terpendek. Persoalan ini dikenal dengan Traveling Salesman Problem (TSP). Untuk persoalan yang relatif kecil, TSP sepertinya mudah diselesaikan. Namun demikian untuk persoalan dengan jumlah kota yang besar, TSP sangat sulit untuk diselesaikan. Sepengetahuan kami, hingga kini belum ada peneliti yang dapat melaporkan metode yang menjamin menghasilkan nilai optimal untuk sembarang masalah dalam waktu secara polynomial. TSP dikenal sebagai salah satu persoalan NP-complete. Pada penelitian ini h-GA akan juga dikombinasikan dengan Fuzzy Logic Controller untuk melakukan auto-tuning parameter. Selanjutnya akan dilakukan penerapan metode ini pada aplikasi dunia nyata yaitu penentuan rute pengangkut sampah yang ada di kota Bandar Lampung.",
+      "subjects": [
+        "QA75"
+      ],
+      "succeeds": 23609,
+      "eprint_status": "archive",
+      "status_changed": "2020-09-03 07:28:32",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "event_dates": "17-18 Nov 2008",
+      "title": "Aplikasi Hybrid Genetic Algorithm Dengan Fuzzy Logic Controller: Pada Traveling Salesman Problem (Studi Kasus: Rute Truk Sampah Di Kota Bandar Lampung)",
+      "date_type": "completed",
+      "eprintid": 23880,
+      "event_title": "Prosiding Seminar Nasional Sains dan Teknologi-II 2008",
+      "event_location": "Universitas Lampung"
+    },
+    {
+      "eprintid": 37485,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Suplemen Hibah Penelitian - Kontrak & Laporan Penelitian - PDPT 2008 - Revitalisasi Budaya Lampung Berbasis Multimedia dan Teknologi Informasi",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-12-29 04:09:33",
+      "date": 2008,
+      "dir": "disk0\/00\/03\/74\/85",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Admi Syarif",
+            "lineage": null,
+            "given": "AS"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37485",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "LPPM Unila",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158426",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/428359",
+                  "objectid": 158426,
+                  "filename": "Kontrak & Laporan Penelitian - PDPT 2008 - Revitalisasi Budaya Lampung Berbasis Multimedia dan Teknologi Informasi.pdf",
+                  "hash": "b33d822dd051949ae0b965d1a55c37b8",
+                  "mtime": "2021-12-29 00:54:36",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 428359,
+                  "filesize": 5032968,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 158426,
+            "main": "Kontrak & Laporan Penelitian - PDPT 2008 - Revitalisasi Budaya Lampung Berbasis Multimedia dan Teknologi Informasi.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 37485
+          }
+      ],
+      "datestamp": "2021-12-29 04:09:33",
+      "lastmod": "2021-12-29 04:09:33",
+      "userid": 725
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "family": "Wamiliana",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wijaya",
+            "given": "Yasir"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/83\/69",
+      "date": "2008-01",
+      "type": "other",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "Fakultas MIPA Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 6102049,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-31 19:51:04",
+                  "filename": "14. jsmipa08_nilai.pdf",
+                  "hash": "f02793fc9735123d0fd7cf738d8b859d",
+                  "fileid": 255537,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255537",
+                  "objectid": 42887
+                }
+            ],
+            "main": "14. jsmipa08_nilai.pdf",
+            "docid": 42887,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42887",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28369,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28369",
+      "userid": 725,
+      "lastmod": "2021-04-01 01:47:05",
+      "datestamp": "2021-04-01 01:47:05",
+      "eprintid": 28369,
+      "title": "Peer Review: Evaluasi Kinerja Metode Metode Heuristik Untuk Penyelesaian Travelling Salesman Problem",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/sains\/article\/view\/322",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2021-04-01 01:47:05",
+      "eprint_status": "archive",
+      "abstract": "Traveling Salesman Problem (TSP) is known as one of optimization problems that has taken great attention of researchers in this last two decades. SinceTSP is included as an NP-Complete problems,most researchers researched on the development of heuristic method to get optimal\/near optimal solutions of the problem. In this research, we developed and compared the effectiveness and the efficiency of several heuristic methods given in the literature. We tested those heuristics methods by using Benchmark test problems. It is shown that heuristic methods can give the optimal\/near optimal solution of the problemwithin reasonable time. It is also shown, for relatively large size problems, that Lin-Kernighan is the most effective algorithm followed by Hybrid Genetic Algorithm (HGA)",
+      "subjects": [
+        "T1"
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6587,
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "The rapid growth of internet causes the abudance of textual information. It is neccesary to have smart tools and methods that can access text content as needed.  One of the success methods is support Vector Machine (SVM).  In this paper we will discuss SVM-GATE performance in extracting  information on Bahasa Indonesia Corpus.  The experimental results show that SVM-GATE performance increases as the training sample number grows.  The best performace is shown when tau margin is 0.3 and window size is 4.  In this composition F-measure are 49.64% (strict) and 58.45% (lenient).",
+      "status_changed": "2018-04-25 08:29:18",
+      "eprint_status": "archive",
+      "volume": 13,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Evaluasi  Kinerja Algoritma Suport Vector Machine Dalam Ekstraksi Informasi Korpus Berbahasa Indonesia",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "date": "2008-12",
+      "dir": "disk0\/00\/00\/65\/87",
+      "publication": "Jurnal Penelitian dan Pengembangan Telekomunikasi",
+      "issn": "1410-7066",
+      "creators": [
+        {
+          "name": {
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Kuspriyanto",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kuspriyanto"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Santoso",
+            "honourific": null,
+            "lineage": null,
+            "given": "Oerip"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Widyantoro",
+            "lineage": null,
+            "given": "Dwi Hendratmo"
+          },
+          "id": null
+        }
+      ],
+      "datestamp": "2018-04-25 08:29:18",
+      "pagerange": "87-91",
+      "userid": 883,
+      "lastmod": "2018-04-25 08:29:18",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6587",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 12,
+      "publisher": "Institur Teknologi Telkom",
+      "documents": [
+          {
+            "main": "jurnal-telekomunikasi-2008.pdf",
+            "docid": 19538,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-03-12 04:30:41",
+                  "filename": "jurnal-telekomunikasi-2008.pdf",
+                  "hash": "cb7c802442edae06bee1341dcb42e879",
+                  "fileid": 60789,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1797180,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60789",
+                  "objectid": 19538
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19538",
+            "rev_number": 1,
+            "eprintid": 6587,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6591,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19546",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 60828,
+                  "filename": "admi.pdf",
+                  "hash": "b60039323534e32d3c6da9aa4dbc0103",
+                  "hash_type": "MD5",
+                  "mtime": "2018-03-12 06:59:30",
+                  "datasetid": "document",
+                  "filesize": 3263796,
+                  "objectid": 19546,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60828"
+                }
+            ],
+            "docid": 19546,
+            "main": "admi.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6591",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2018-04-25 02:29:18",
+      "userid": 883,
+      "pagerange": "6-9",
+      "datestamp": "2018-04-25 02:29:18",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "Admi",
+            "honourific": null,
+            "family": "Syarif",
+            "lineage": null
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Gen",
+            "lineage": null,
+            "given": "Mitsuo"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/65\/91",
+      "date": "2008-08-03",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "title": "Implemetation of Hybridized Genetic Algorithm for Fuzzy Travelling Salesman Problem",
+      "event_dates": "3-8 August 2014",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2018-04-25 02:29:18",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "The Traveling Salesman Problem (TSP) is known as one of NP-complete optimization problems that has taken great interest of the researchers.  The common objective is to determine route throug some cities facilities in order to minimize travel distance.  The classic TSP usually assumes that the travel cost are deterministic.  In the real world applications, due to complexity of social and economic factors, it is often difficult to have deterministic value of travel costs (i.e travel time).  One way of handling such uncertainty in decision making is by introducing fuzzy programming approach.  In this paper, we consider a more realistic model called fuzzy TSP.  By assuning that the travel costs between cities are represented by triangular fuzzy number, we examine how the route should be designed.  We devlope a Genetic Algorithm hybridized with local approach to solve problem.  Several numerical experiments are done to show the effectiveness of the proposed method.\r\nKeywords:  fuzzy number, logistic, Traveling Salesman Problem, genetic Algorithm, Local search",
+      "event_location": "Zhangjiajie, China",
+      "event_title": "Thirteenth International Conference  on Information and Management Sciences",
+      "eprintid": 6591,
+      "date_type": "published"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23906",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 37585,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217989",
+                  "datasetid": "document",
+                  "filesize": 1216799,
+                  "mime_type": "application\/pdf",
+                  "fileid": 217989,
+                  "hash": "1a4ff6148a0225cf61c07c4f6496a561",
+                  "filename": "JN_8_JSMIPA_Anggota_2008 - Vol 14_No_1.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-07 04:40:52"
+                }
+            ],
+            "docid": 37585,
+            "main": "JN_8_JSMIPA_Anggota_2008 - Vol 14_No_1.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37585",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23906,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2020-09-07 07:59:22",
+      "pagerange": "12-16",
+      "lastmod": "2020-09-07 07:59:22",
+      "userid": 725,
+      "dir": "disk0\/00\/02\/39\/06",
+      "date": 2008,
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "name": {
+            "given": "AS",
+            "honourific": null,
+            "family": "Admi Syarif",
+            "lineage": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Akmal",
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fitriani",
+            "family": "Fitriani",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "issn": "1978-1873",
+      "publication": "Jurnal Sains MIPA",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 14,
+      "rev_number": 6,
+      "title": "Comb Inequaities  for the degree Constrained Minimum Spanning Tree Problem",
+      "abstract": "The Degree Constrained Minimum Spanning Tree Problem (DCST) is a problem of finding the minimum spanning tree in a given weighted  graph  (all weights  are non negative), whilst also satisfies the degree requirement  in every vertex. Since the DOST can be formulated as MLP, then all constraints are valid  inequalities,  and among those constraints some are facets defining.  In this paper we will discuss  how to find constraints that constitut e conb inequalities for the DCM ST for vertex order 5 to 15 with increments 1.",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2020-09-07 07:59:22",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 23906
+    }
+]
+

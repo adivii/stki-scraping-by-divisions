@@ -1,0 +1,581 @@
+[
+    {
+      "volume": 183,
+      "rev_number": 5,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.sensorsportal.com",
+      "title": "Calibration and Digital Linearization of Ultrasonic\r\nTransducer Response",
+      "abstract": "This paper discusses the calibration and digital linearization method of ultrasonic transducer\r\nresponses. The system consists of a power supply circuit, a pair of series HC-SR04 ultrasonic transducers\r\n(transmitter and receiver), a digital signal conditioning circuit using ATmega16 microcontroller and output\r\nmonitor using a 16×2 LCD screen. The calibration is done by measuring the water level, and the nonlinearity of\r\nultrasonic transducer responses has been obtained during calibration steps. For linearizing the response, we have\r\nperformed the segment linearization method and finally we have obtained the fixed nonlinearity equation of\r\ntransducer responses for all range measurements. The equation of nonlinearity responses is then stored in the\r\nmicrocontroller as a base to respond to the physics input that means the water level. Each physics input that is\r\nread by the ultrasonic transducer is further processed digitally by a microcontroller and the results are displayed\r\non the LCD screen. The water level displayed on the LCD screen shows a linear response and is in conformity\r\nwith the actual value of water level and the theoretical calculation. The average error of calibration and digital\r\nlinearization compared with the theoretical calculation is 0.299 %. With the system, we can then use directly the\r\ntransducer to measure and control the water level system. Copyright © 2014 IFSA Publishing, S. L.\r\nKeywords: Linearization methods, Ultrasonic transducer, Microcontroller",
+      "status_changed": "2016-08-11 02:49:30",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 294,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/294",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 12,
+      "publisher": "IFSA Publishing, S. L.",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/287",
+            "docid": 287,
+            "main": "Calibration and Digital Linearization of Ultrasonic Transducer Response.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 309778,
+                  "fileid": 1656,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-08-10 04:47:41",
+                  "hash_type": "MD5",
+                  "hash": "65cc24d185dc3aadafd72b3727cc9ead",
+                  "filename": "Calibration and Digital Linearization of Ultrasonic Transducer Response.pdf",
+                  "objectid": 287,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1656"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 294,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pagerange": "48-52",
+      "datestamp": "2016-08-11 02:49:30",
+      "lastmod": "2016-08-11 02:49:30",
+      "userid": 10,
+      "dir": "disk0\/00\/00\/02\/94",
+      "date": "2014-12",
+      "publication": "SSeennssoorrss && TTrraannssdduucceerrss",
+      "creators": [
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "family": null,
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Pauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gurum Ahmad"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article"
+    },
+    {
+      "eprintid": 2295,
+      "date_type": "published",
+      "status_changed": "2017-05-31 08:30:06",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "The aim of this research is to improve the sensitivity of ammonia gas sensor (hereafter referred to as sensor) based on poly(3,4ethylenedioxythiophene):poly(styrenesulfonate)\r\n(PEDOT:PSS) by employing the doping dye of bromocresol green (BCG). The\r\ndoping process was carried out by mixing the BCG and the PEDOT:PSS in a solution with an optimum ratio of 1 : 1 in volume.\r\nThe sensor was fabricated by using spin-coating technique followed by annealing process. For comparison, the BCG thin film and\r\nthe PEDOT:PSS thin film were also deposited with the same method on glass substrates. For optical characterization, a red-light\r\nlaser diode with a 650 nm wavelength was used as light source. Under illumination with the laser diode, the bare glass substrate\r\nand BCG film showed no absorption. The sensor exhibited linear response to ammonia gas for the range of 200 ppm to 800 ppm. It increased the sensitivity of sensor based on PEDOT:PSS with BCG doping being about twofold higher compared to that of without BCG doping. Furthermore, the response time and the recovery time of the sensor were found very fast. It suggests that the optical sensor based on BCG-doped PEDOT:PSS is promising for application as ammonia gas sensor.",
+      "title": "Sensitivity Improvement of Ammonia Gas Sensor Based on\r\nPoly(3,4-ethylenedioxythiophene):Poly(styrenesulfonate) by\r\nEmploying Doping of Bromocresol Green",
+      "official_url": "http:\/\/dx.doi.org\/10.1155\/2014\/864274",
+      "volume": 2014,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Journal of Nanotechnology",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Aba",
+            "lineage": null,
+            "given": "La"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yusuf",
+            "honourific": null,
+            "given": "Yusril"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Siswanta",
+            "given": "Dwi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Kuwat",
+            "lineage": null,
+            "family": "Triyana",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/22\/95",
+      "date": "2014-01",
+      "lastmod": "2017-05-31 08:30:06",
+      "userid": 181,
+      "datestamp": "2017-05-31 08:30:06",
+      "number": 864274,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2171",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 15867,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 01:27:29",
+                  "hash": "334628d5fece7988f929ea8cbee4201b",
+                  "filename": "Junaidi-2014-Sensitivity Improvement of Ammonia Gas Sensor Based on.pdf",
+                  "datasetid": "document",
+                  "filesize": 1625518,
+                  "objectid": 2171,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15867"
+                }
+            ],
+            "main": "Junaidi-2014-Sensitivity Improvement of Ammonia Gas Sensor Based on.pdf",
+            "docid": 2171,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2295
+          }
+      ],
+      "publisher": "Hindawi",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2295",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 6,
+      "title": "Rancang Bangun Sistem Akuisisi Data Resonansi gelombang Bunyi Menggunakan Transduser Ultrasonik Berbasis Mikrokontroler ATmega8535",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1271",
+      "abstract": "Telah dilakukan penelitian dengan merancang suatu sistem akuisisi data pada alat ukur resonansi gelombang bunyi melalui komunikasi serial USB dengan menggunakan tranduser PING. Penelitian ini bertujuan untuk menentukan besarnya cepat rambat bunyi di udara. Tranduser ultrasonik PING digunakan untuk mengukur ketinggian air. Tranduser ini memiliki range ketinggian 2 - 500 cm dengan resolusi 0,5 cm. Pendeteksi ketinggian muka air ini menggunakan catu daya sebesar 5 volt. Alat ini akan mengukur ketinggian muka air saat terjadi resonansi dan dideteksi oleh sensor mikrofon yang akan dikirimkan ke mikrokontroler. Penelitian ini menggunakan variasi frekuensi garputala (288, 341, 426 dan 512) Hz untuk menentukan nilai cepat rambat bunyi di udara. Cepat rambat bunyi di udara pada suhu ruangan dengan menggunakan frekuensi 341 Hz adalah 341 ± 0,634 m\/s dan memiliki ketelitian tertinggi dengan error 0,2%.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-05-31 08:31:29",
+      "date_type": "published",
+      "eprintid": 2298,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2298",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2298,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2182",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 642020,
+                  "fileid": 15924,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-05-31 01:44:58",
+                  "hash_type": "MD5",
+                  "hash": "8ab1dc2b8387df513a0a525dcf49697f",
+                  "filename": "Junaidi-2014-Rancang Bangun Sistem Akuisisi Data Resonansi gelombang.pdf",
+                  "objectid": 2182,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15924"
+                }
+            ],
+            "docid": 2182,
+            "main": "Junaidi-2014-Rancang Bangun Sistem Akuisisi Data Resonansi gelombang.pdf"
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 2,
+      "pagerange": "165-169",
+      "datestamp": "2017-05-31 08:31:29",
+      "userid": 181,
+      "lastmod": "2017-05-31 08:31:29",
+      "date": "2014-07",
+      "dir": "disk0\/00\/00\/22\/98",
+      "creators": [
+        {
+          "name": {
+            "given": "N",
+            "family": "Nurkholis",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "J",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Surtono",
+            "honourific": null,
+            "given": "Arif"
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article"
+    },
+    {
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "docid": 2181,
+            "main": "Junaidi-2014-Pengukuran Panjang Gelombang Sumber Lampu.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15911",
+                  "objectid": 2181,
+                  "hash": "a5de835949bdfcad252bb268107510c9",
+                  "filename": "Junaidi-2014-Pengukuran Panjang Gelombang Sumber Lampu.pdf",
+                  "mtime": "2017-05-31 01:39:39",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 15911,
+                  "filesize": 586111,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2181",
+            "eprintid": 2296,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2296",
+      "lastmod": "2017-05-31 08:31:01",
+      "userid": 181,
+      "datestamp": "2017-05-31 08:31:01",
+      "pagerange": "199-204",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sariyanto",
+            "honourific": null,
+            "given": "Eko"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sri Wahyu",
+            "family": "Suciyati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pauzi",
+            "honourific": null,
+            "given": "Gurum A."
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/00\/22\/96",
+      "date": "2014-07",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1276",
+      "title": "Pengukuran Panjang Gelombang Sumber Lampu Monokromatis dari Pola Difraksi Cahaya Berbasis Webcam dan Borland Delphi",
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 6,
+      "status_changed": "2017-05-31 08:31:01",
+      "eprint_status": "archive",
+      "abstract": "Telah dilakukan penelitian untukpengukuran panjang gelombang dari pola difraksi cahaya yang terbentuk ketika melewati sebuah celah tunggal. Penelitian dilakukan dengan memanfaatkan alat ukur pola difraksi cahaya yang terintegrasi langsung dengan sebuah kamera sebagai pengindra. Hasil penelitianmenunjukkan bahwapanjang gelombang dari sumber diperoleh sebesar 583-589 nm. Proses pengukuranpola difraksi dilakukan dengan menggunakan kisi 100 celah\/mm, 300 celah\/mm, dan 600 celah\/mm dengan variasi jarak 50-100 cm. Nilai akurasi pengukuran diperoleh sebesar 99,45-99.59% dengan error sebesar 0,04-0,55%. Sistem yang dibangun telah mampu pula untuk mengukur panjang gelombang cahaya monokromatis denganrange panjang gelombang 450-630 nm.",
+      "subjects": [
+        "QC"
+      ],
+      "eprintid": 2296,
+      "date_type": "published"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "publication": "science direct",
+      "dir": "disk0\/00\/01\/35\/92",
+      "date": 2014,
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 118730,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-07-17 08:36:49",
+                  "hash_type": "MD5",
+                  "hash": "14636fb3012655484ac4b5f464096256",
+                  "filename": "Simon Sembiring - IS22% - Synthesis and characterisation of gel-derived mullite precursors from rice husk silica -.pdf",
+                  "datasetid": "document",
+                  "filesize": 3881481,
+                  "objectid": 26606,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118730"
+                }
+            ],
+            "main": "Simon Sembiring - IS22% - Synthesis and characterisation of gel-derived mullite precursors from rice husk silica -.pdf",
+            "docid": 26606,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26606",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13592,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13592",
+      "full_text_status": "public",
+      "userid": 1042,
+      "lastmod": "2019-07-17 08:48:07",
+      "datestamp": "2019-07-17 08:48:07",
+      "eprintid": 13592,
+      "date_type": "published",
+      "title": "Synthesis and characterisation of gel-derived mullite precursors from rice husk silica -",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2019-07-17 08:48:07",
+      "abstract": "similarity",
+      "subjects": [
+        "QC"
+      ]
+    },
+    {
+      "publication": "Ceramic Internasional",
+      "issn": "0272-8842",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/35\/19",
+      "date": 2014,
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "number": 5,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 13519,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26528",
+            "rev_number": 1,
+            "docid": 26528,
+            "main": "Synthesis and Characteristics of Gel-derived Mullite Precusors from Rice Husk Silica.pdf",
+            "files": [
+                {
+                  "filesize": 582177,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-15 04:06:11",
+                  "hash": "27597058e13962d97133197d70f3c4dc",
+                  "filename": "Synthesis and Characteristics of Gel-derived Mullite Precusors from Rice Husk Silica.pdf",
+                  "fileid": 118164,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118164",
+                  "objectid": 26528
+                }
+            ]
+          }
+      ],
+      "publisher": "Elsevier",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13519",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2019-07-15 07:29:44",
+      "userid": 1042,
+      "pagerange": "7067-7072",
+      "datestamp": "2019-07-15 07:29:44",
+      "eprintid": 13519,
+      "date_type": "published",
+      "title": "Synthesis in Characterisation of gel-derived mullite precusors from rice husk silica",
+      "rev_number": 6,
+      "volume": 40,
+      "metadata_visibility": "show",
+      "status_changed": "2019-07-15 07:29:44",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Hasil penilaian sejawat sebidang atau per review karya ilmiah: jurnal internasional"
+    },
+    {
+      "abstract": "We present experimental results on the controlled bubble generation from a single PTFE (polytetrafluoroethylene) spot—with diameter varying from 2 mm to 6 mm—deposited on a flat polished copper surface that was submersed in subcooled pure water. The static contact angle of the PTFE coating was measured to be over 120°, which conveniently produced a clear contrast with the copper substrate in terms of wettability that ensured controlled bubble nucleation. By making use of a high-speed camera, statistical details about the bubble formation that include the departure frequency and diameter have been obtained at various surface temperatures. An interesting observation was made of repeated cycles of bubble nucleation and detachment at nominally negative surface superheats (i.e., the wall temperature being below the saturation temperature at the system pressure), which featured particularly long bubble growth time and seemingly no waiting time. The vertical temperature distribution inside the bubble, which was measured by a micro-thermocouple of about 250 μm in diameter, suggests a relatively stable bubble composition of water vapor and dissolved air. A heat-pipe analogy was drawn to describe the internal heat transfer mechanism of bubble growth on a mixed wettability surface under subcooled conditions.\r\nKeywords :Bubble dynamics; Mixed wettability; Single bubble; Dissolve air; Subcooling",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-22 02:19:50",
+      "metadata_visibility": "show",
+      "rev_number": 5,
+      "volume": 88,
+      "title": "Bubble activation from a hydrophobic spot at “negative” surface superheats in subcooled boiling",
+      "date_type": "published",
+      "eprintid": 326,
+      "pagerange": "1-7",
+      "datestamp": "2016-08-22 02:19:50",
+      "lastmod": "2016-08-22 02:19:50",
+      "userid": 10,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/326",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 326,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/316",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1091869,
+                  "mime_type": "application\/pdf",
+                  "fileid": 1853,
+                  "hash": "4354f8d5af679b6602dc3a5a16e84785",
+                  "filename": "Bubble Activation From A Hydrophobic Spot at “Negative” Surface Superheats in Subcooled Boiling.pdf",
+                  "mtime": "2016-08-19 05:12:52",
+                  "hash_type": "MD5",
+                  "objectid": 316,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1853"
+                }
+            ],
+            "docid": 316,
+            "main": "Bubble Activation From A Hydrophobic Spot at “Negative” Surface Superheats in Subcooled Boiling.pdf"
+          }
+      ],
+      "publisher": "Elsevier",
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": 2014,
+      "dir": "disk0\/00\/00\/03\/26",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suroto",
+            "given": "Bambang Joko"
+          }
+        }
+      ],
+      "issn": "1359-4311",
+      "publication": "Applied Thermal Engineering"
+    }
+]
+

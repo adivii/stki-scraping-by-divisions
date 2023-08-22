@@ -1,0 +1,92 @@
+[
+    {
+      "abstract": "Recognizing a chord of a music is not an easy task to do, but it can be done easier using digital signal processing in computer system. This research implements pitch class profile (PCP) method in recognizing chord from audio signal. The audio signals are converted from time domain into frequency domain using Fast Fourier Transform (FFT). In this research, signals are processed using various frame blocking width in order to find out the most optimal width in frame blocking using Hamming window. This research implements chord recognition method in Python programming to process guitar chord recording. The purpose of this research is to find out the accuracy of chord recognition using PCP method. \r\n\r\nKeywords: Chord; Guitar; Pitch Class Profile; Fast Fourier Transform.",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2018-03-20 08:36:49",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 8,
+      "official_url": "http:\/\/www.ijcsi.org\/contents.php?volume=11&&issue=3",
+      "title": "Chord Identification Using Pitch Class Profile Method with Fast Fourier Transform Feature Extraction",
+      "date_type": "published",
+      "eprintid": 2596,
+      "datestamp": "2018-03-20 08:36:49",
+      "lastmod": "2018-03-20 08:36:49",
+      "userid": 883,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2596",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2478",
+            "rev_number": 3,
+            "docid": 2478,
+            "main": "ijcsi-2014.pdf",
+            "files": [
+                {
+                  "hash": "aa8b259be7a87d166019eaa1b8ac814b",
+                  "filename": "ijcsi-2014.pdf",
+                  "mtime": "2017-05-31 09:04:00",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17934,
+                  "filesize": 715164,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17934",
+                  "objectid": 2478
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 2596,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "number": 3,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "date": 2014,
+      "dir": "disk0\/00\/00\/25\/96",
+      "creators": [
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "aristoteles.1981@fmipa.unila.ac.id",
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Abe Frank SFB",
+            "honourific": null,
+            "family": "Loupatty",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "International Journal of Computer Science Issues"
+    }
+]
+

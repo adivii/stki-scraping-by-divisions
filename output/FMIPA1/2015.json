@@ -1,0 +1,543 @@
+[
+    {
+      "official_url": "http:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4917108",
+      "title": "An Automatic Data Acquisition System for Optical Characterization of  Polymer-Based Gas Sensor",
+      "rev_number": 9,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 01:47:10",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "A measurement system that consists of a pair of laser diode and photodiode coupled with an automatic data acquisition system based on microcontroller of AVR ATMega16 (hereafter to be called DAQ MA-16) has been developed for measuring optical response of polymer-based gas sensor. In this case, the optical response was represented by the voltage output of the photodiode. The polymer-based gas sensor was a thin film of polymer of Poly(3,4-ethylenedioxythiophene): poly(styrenesulfonate) or PEDOT:PSS deposited on a glass substrate. For measurement, the sensor was placed in the chamber, and then the gas ammonia with a fix flow rate was flowed into the chamber. The opposite part of the chamber was installed a pump to throw the gas. The National Instrument Data Acquisition (NI DAQ) BNC-2110 has been used to calibrate the DAQ MA-16 system. From the calibration, it can be estimated that the accuracy of DAQ MA-16 is about 99.4%.",
+      "event_title": "Asian Physics Symposium\/ AIP Conference Proceedings",
+      "eprintid": 2299,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 2299,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2184",
+            "rev_number": 2,
+            "main": "Junaidi-2015-An automatic data acquisition system for optical characterization of PEDOTPSS-based.pdf",
+            "docid": 2184,
+            "files": [
+                {
+                  "filesize": 688776,
+                  "datasetid": "document",
+                  "hash": "85804f75ef60ba34f83b95862ae5beb6",
+                  "filename": "Junaidi-2015-An automatic data acquisition system for optical characterization of PEDOTPSS-based.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 01:48:52",
+                  "mime_type": "application\/pdf",
+                  "fileid": 15932,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15932",
+                  "objectid": 2184
+                }
+            ]
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 2299,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2185",
+            "rev_number": 1,
+            "docid": 2185,
+            "main": "Junaidi-2015-An automatic data acquisition system for optical characterization of PEDOTPSS-based.pdf",
+            "files": [
+                {
+                  "filesize": 688776,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 01:50:02",
+                  "filename": "Junaidi-2015-An automatic data acquisition system for optical characterization of PEDOTPSS-based.pdf",
+                  "hash": "85804f75ef60ba34f83b95862ae5beb6",
+                  "fileid": 15935,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15935",
+                  "objectid": 2185
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2299",
+      "refereed": "TRUE",
+      "lastmod": "2017-06-02 01:47:10",
+      "userid": 181,
+      "pagerange": "0-40001-1-0-40001-5",
+      "datestamp": "2017-06-02 01:47:10",
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "J",
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "La",
+            "family": "Aba",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Kuwat",
+            "honourific": null,
+            "family": "Triyana",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/22\/99",
+      "date": 2015,
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA1"
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2186",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2017-05-31 01:56:28",
+                  "hash_type": "MD5",
+                  "filename": "Junaidi-2015-Effect of Temperature on Silver Nanorods Synthesized by Polyol Method.pdf",
+                  "hash": "e66e70eed264d740bf71daf04702e849",
+                  "fileid": 15945,
+                  "mime_type": "application\/pdf",
+                  "filesize": 485454,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15945",
+                  "objectid": 2186
+                }
+            ],
+            "main": "Junaidi-2015-Effect of Temperature on Silver Nanorods Synthesized by Polyol Method.pdf",
+            "docid": 2186,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2301
+          }
+      ],
+      "publisher": "Trans Tech Publication inc.",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2301",
+      "refereed": "TRUE",
+      "lastmod": "2017-06-02 02:03:33",
+      "userid": 181,
+      "pagerange": "256-259",
+      "datestamp": "2017-06-02 02:03:33",
+      "publication": "Advanced Materials Research",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "J"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Triyana",
+            "given": "Kuwat"
+          }
+        },
+        {
+          "name": {
+            "family": "Sosiati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Harini"
+          }
+        },
+        {
+          "name": {
+            "given": "E",
+            "family": "Suharyadi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "H",
+            "family": "Harsojo",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1662-8985",
+      "date": "2015-03",
+      "dir": "disk0\/00\/00\/23\/01",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "title": "Effect of Temperature on Silver Nanorods Synthesized by Polyol Method",
+      "official_url": "http:\/\/www.ttp.net\/978-3-03835-561-8\/6.html",
+      "volume": 1123,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 02:03:33",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Effect of temperature on the formation of silver nanorods (AgNRs) synthesized using\r\npolyol method has been investigated. In this experiment, materials were used silver nitrate (AgNO\r\n)\r\nas main raw material, ethylene glycol (EG) as a solvent, small amount of sodium chloride (NaCl) as\r\na mediated agent, while polyvinyl alcohol (PVA) as a capping agent to assist the growth of AgNRs.\r\nTo apply a constant temperature at each synthesis process, an Erlenmeyer flask containing the\r\nsample was immersed in a controllable magnetic stirrer oil bath.  It is found that the presence of\r\nheat as represented by the temperature of oil bath has been shown to have a strong impact on the\r\nAgNRs formation. The scanning electron microscope (SEM) confirmed uniform and high density of AgNRs when the oil bath temperature during polyol process was 140°C. In the same condition, the UV-vis spectra also confirmed formation process of AgNRs with appearance of the transverse plasmon peak about 350 nm. Finally, the X-ray diffraction (XRD) pattern represented that the final product of AgNRs was highly crystallized.",
+      "eprintid": 2301,
+      "date_type": "published"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-11-06 03:06:34",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "This article describes the synthesis of titania-silica composites by a sol-gel method using a mixture of silica of\r\nrice husk and titanium butoxide sols. Microstructures were examined at calcination temperature in the range of 500\r\nto 700 °C, with temperatures interval of 50 °C. The sintered catalysts were subsequently tested for photodegradation\r\nof methylene blue (MB) under ultraviolet and sunlight rays. Physical characteristics were analyzed using X-ray\r\ndiffraction (XRD), scanning electron microscopy (SEM)\/energy dispersive X-ray spectroscopy (EDS), and BrunauerEmmett-Teller (BET). The XRD results did not show the presence of silica crystal phase in each sample. The results\r\nshowed that the highest BET surface area of samples was obtained at the temperature of 650 °C. In sample\r\ncalcined 500 °C, the activity of the catalyst on MB was relatively similar in both sunlight and ultraviolet rays.",
+      "title": "SYNTHESIS AND CHARACTERIZATION OF TITANIA-RICE HUSK SILICA COMPOSITES AS PHOTOCATALYST",
+      "official_url": "http:\/\/pdm-mipa.ugm.ac.id\/ojs\/index.php\/ijc\/article\/view  dan  DOI: http:\/\/dx.doi.org\/10.22146\/ijc.21221",
+      "volume": 15,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 9518,
+      "date_type": "published",
+      "userid": 882,
+      "lastmod": "2018-11-06 03:06:34",
+      "pagerange": "36-42",
+      "datestamp": "2018-11-06 03:06:34",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Chemistry Department, UGM",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 9518,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22559",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/90661",
+                  "objectid": 22559,
+                  "filesize": 482219,
+                  "datasetid": "document",
+                  "hash": "f36d43290117095348be46afe41174e6",
+                  "filename": "SYNTHESIS AND CHARACTERIZATION OF TITANIA-RICE HUSK SILICA COMPOSITES AS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-05 03:18:57",
+                  "mime_type": "application\/pdf",
+                  "fileid": 90661
+                }
+            ],
+            "docid": 22559,
+            "main": "SYNTHESIS AND CHARACTERIZATION OF TITANIA-RICE HUSK SILICA COMPOSITES AS.pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9518",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Indonesian Journal of Chemistry",
+      "issn": "1411 9420",
+      "creators": [
+        {
+          "name": {
+            "given": "Posman",
+            "honourific": null,
+            "family": "Manurung",
+            "lineage": null
+          },
+          "id": "reip65@yahoo.com"
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rudy T.M",
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Ginting",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ediman"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Pardede",
+            "lineage": null,
+            "given": "Indra"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/95\/18",
+      "date": 2015
+    },
+    {
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Hasil penilaian sejawat sebidang atau per review karya ilmiah: jurnal ilmiah internasional",
+      "status_changed": "2019-07-15 07:30:45",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Sol-Gel Method for Preparation Of Nanosize NiFe2-XCoxO4 Using Egg White",
+      "date_type": "published",
+      "eprintid": 13522,
+      "datestamp": "2019-07-15 07:30:45",
+      "lastmod": "2019-07-15 07:30:45",
+      "userid": 1042,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13522",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 13522,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 26531,
+            "main": "Sol-Gel Method for Preparation of Nanosize NiFe2-XCoxO4 Using Egg White.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118183",
+                  "objectid": 26531,
+                  "filesize": 601003,
+                  "datasetid": "document",
+                  "filename": "Sol-Gel Method for Preparation of Nanosize NiFe2-XCoxO4 Using Egg White.pdf",
+                  "hash": "1d72b9ec095077b9a4ed5bec6050bbfd",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-15 04:20:49",
+                  "mime_type": "application\/pdf",
+                  "fileid": 118183
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26531"
+          }
+      ],
+      "publisher": "Elsevier",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2015-02",
+      "dir": "disk0\/00\/01\/35\/22",
+      "publication": "asian jour",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring",
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "issn": "0975-427X"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2019-07-17 08:44:38",
+      "abstract": "similarity",
+      "subjects": [
+        "QC"
+      ],
+      "title": "Sol-Gel Method for Preparation of Nanosize NiFe2-xCo3O4 Using Egg White",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "eprintid": 13587,
+      "date_type": "published",
+      "lastmod": "2019-07-17 08:44:38",
+      "userid": 1042,
+      "datestamp": "2019-07-17 08:44:38",
+      "publisher": "Asian Publication Corporation",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13587,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2019-07-17 08:14:49",
+                  "hash_type": "MD5",
+                  "filename": "Simon Sembiring - IS11% - Sol-Gel Method for Preparation of Nanosize NiFe2-xCo3O4 Using Egg White.pdf",
+                  "hash": "44156bfa7576de8f6bc8ee4146225d99",
+                  "fileid": 118696,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2693629,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118696",
+                  "objectid": 26599
+                }
+            ],
+            "main": "Simon Sembiring - IS11% - Sol-Gel Method for Preparation of Nanosize NiFe2-xCo3O4 Using Egg White.pdf",
+            "docid": 26599,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26599",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13587",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "issn": "ISSN: 0975-427X (Online)",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "family": "Sembiring",
+            "honourific": null,
+            "lineage": null,
+            "given": "Simon"
+          }
+        }
+      ],
+      "publication": "Asian Journal of Chemistry",
+      "dir": "disk0\/00\/01\/35\/87",
+      "date": 2015
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10683",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 10683,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23689",
+            "rev_number": 1,
+            "docid": 23689,
+            "main": "Simon Sembiring Buku1.pdf",
+            "files": [
+                {
+                  "objectid": 23689,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98709",
+                  "datasetid": "document",
+                  "filesize": 523226,
+                  "fileid": 98709,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-02-01 02:05:00",
+                  "filename": "Simon Sembiring Buku1.pdf",
+                  "hash": "aa9779bafbf1c36811102cc3238db0f4"
+                }
+            ]
+          }
+      ],
+      "publisher": "plantaxia",
+      "ispublished": "pub",
+      "datestamp": "2019-02-01 02:14:01",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-02-01 02:14:01",
+      "userid": 1042,
+      "pages": 115,
+      "date": 2015,
+      "dir": "disk0\/00\/01\/06\/83",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Simon"
+          }
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "given": "Wasinton",
+            "lineage": null,
+            "family": "Simanjuntak",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "series": 1,
+      "type": "book",
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "silika sekam padi potensinya sebagai bahan baku keramik industri",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2019-02-01 02:14:01",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "isbn": "978-602-691 2-00-8",
+      "eprintid": 10683
+    }
+]
+

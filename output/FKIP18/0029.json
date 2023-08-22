@@ -1,0 +1,69 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 50992,
+      "subjects": [
+        "G1"
+      ],
+      "status_changed": "2023-05-03 06:57:19",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Hak Cipta: Peta Lokasi Alokasi Fasilitas Pendidikan Negeri SD, SMP, Dan SMA\/SMK Di Kota Yogyakarta Tahun 2022",
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "patent",
+      "dir": "disk0_bak\/00\/05\/09\/92",
+      "date": "0029-11-29",
+      "id_number": "EC00202296773",
+      "patent_applicant": "Rahma Kurnia Sri Utami, S.Si., M.Pd.,Dr. Nurul Khakhim, M.Si. dkk",
+      "creators": [
+        {
+          "id": "rahma.kurnia@fkip.unila.ac.id",
+          "name": {
+            "given": "Sri Utami",
+            "lineage": null,
+            "family": "Rahma Kurnia",
+            "honourific": null
+          }
+        }
+      ],
+      "datestamp": "2023-05-03 06:57:19",
+      "lastmod": "2023-05-03 06:57:19",
+      "userid": 65,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50992",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 50992,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 190703,
+            "main": "2022-Peta Lokasi Alokasi Fasilitas Pendidikan di Kota Yogyakarta.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548568",
+                  "objectid": 190703,
+                  "filesize": 251026,
+                  "datasetid": "document",
+                  "mtime": "2023-05-03 03:26:52",
+                  "hash_type": "MD5",
+                  "hash": "d2ce37b7ac6807ca60739bd7aa3332b2",
+                  "filename": "2022-Peta Lokasi Alokasi Fasilitas Pendidikan di Kota Yogyakarta.pdf",
+                  "fileid": 548568,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190703"
+          }
+      ]
+    }
+]
+

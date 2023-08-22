@@ -1,0 +1,238 @@
+[
+    {
+      "datestamp": "2022-06-21 01:19:52",
+      "lastmod": "2022-06-21 01:19:52",
+      "userid": 181,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42663",
+      "full_text_status": "public",
+      "publisher": "MDPI AG",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164384",
+            "rev_number": 1,
+            "docid": 164384,
+            "main": "molecules-26-02167-v2.pdf",
+            "files": [
+                {
+                  "objectid": 164384,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/468068",
+                  "datasetid": "document",
+                  "filesize": 17777409,
+                  "mime_type": "application\/pdf",
+                  "fileid": 468068,
+                  "filename": "molecules-26-02167-v2.pdf",
+                  "hash": "14307164a28ef328a02c9226a0d482e9",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-20 08:32:28"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 42663,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "number": 8,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "type": "article",
+      "id_number": "https:\/\/doi.org\/10.3390\/molecules26082167",
+      "dir": "disk0\/00\/04\/26\/63",
+      "date": 2022,
+      "issn": "1420-3049",
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "roniyus",
+            "honourific": null,
+            "lineage": null,
+            "given": "marjunus"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Simon",
+            "honourific": null,
+            "given": "Sembiring"
+          },
+          "id": "dsimon.sembiring@fmipa.unila.ac.id"
+        },
+        {
+          "id": "sutopohadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Hadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sutopo"
+          }
+        }
+      ],
+      "publication": "Molecules",
+      "abstract": "This study aims to determine the effect of fast cooling (quenching) on thermal properties, mechanical strength, morphology and size of the AgNWs. The synthesis of AgNWs was carried out at three different quenching-medium temperatures as follows: at 27 °C (ambient temperature), 0 °C (on ice), and −80 °C (in dry ice) using the polyol method at 130 °C. Furthermore, the AgNWs were sonified for 45 min to determine their mechanical strength. Scanning electron microscopy analysis showed that the quenched AgNWs had decreased significantly; at 27 °C, the AgNWs experienced a change in length from (40 ± 10) to (21 ± 6) µm, at 0 °C from (37 ± 8) to (24 ± 8) µm, and at −80 °C from (34 ± 9) to (29 ± 1) µm. The opposite occurred for their diameter with an increased quenching temperature: at 27 °C from (200 ± 10) to (210 ± 10) nm, at 0 °C from (224 ± 4) to (239 ± 8) nm, and at −80 °C from (253 ± 6) to (270 ± 10) nm. The lower the temperature of the quenching medium, the shorter the length and the higher the mechanical strength of AgNWs. The UV-Vis spectra of the AgNWs showed peak absorbances at 350 and 411 to 425 nm. Thermogravimetric analysis showed that AgNWs quenched at −80 °C have better thermal stability as their mass loss was only 2.88%, while at the quenching temperatures of 27 °C and 0 °C the mass loss was of 8.73% and 4.17%, respectively. The resulting AgNWs will then be applied to manufacture transparent conductive electrodes (TCEs) for optoelectronic applications",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2022-06-21 01:19:52",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 26,
+      "title": "The Quenching and Sonication Effect on the Mechanical Strength of Silver Nanowires Synthesized Using the Polyol Method",
+      "official_url": "https:\/\/www.mdpi.com\/1420-3049\/26\/8\/2167",
+      "date_type": "published",
+      "eprintid": 42663
+    },
+    {
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 483617,
+                  "filename": "Nilai_ Produksi Gula.pdf",
+                  "hash": "2cc81e72947e936c19901006151f303d",
+                  "mtime": "2022-09-06 01:45:54",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1393190,
+                  "objectid": 166685,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483617"
+                }
+            ],
+            "main": "Nilai_ Produksi Gula.pdf",
+            "docid": 166685,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166685",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 44699,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Unsyiah",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44699",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1168,
+      "lastmod": "2022-09-06 06:20:36",
+      "datestamp": "2022-09-06 06:20:36",
+      "creators": [
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Riyanto",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/04\/46\/99",
+      "date": "2022-07-18",
+      "type": "other",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "title": "Nilai review artikel: Produksi Gula Reduksi dari Batang Ubi Kayu dengan Hidrolisis Menggunakan Asam Encer dan Induksi Medan Elektromagnetik",
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-09-06 06:20:36",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Batang ubi kayu yang dihasilkan dari limbah pertanian merupakan biomassa lignoselulosa dengan komposisi selulosa 39,30%, hemiselulosa 24,34% dan lignin 13,42%. Penelitian ini bertujuan untuk mengkonversi limbah batang ubi kayu menjadi gula reduksi. Proses konversi lignoselulosa menjadi gula reduksi secara hidrolisis umumnya dilakukan pada temperatur dan tekanan tinggi dengan menggunakan katalis asam. Pada penelitian ini, digunakan induksi medan elektromagnetik pada proses hidrolisis lignoselulosa dengan menggunakan asam encer sehingga proses hidrolisis dapat berlangsung pada kondisi yang rendah. Hasil penelitian menunjukkan komponen gula reduksi yang dihasilkan berupa xylosa, arabinosa dan glukosa. Kadar gula reduksi sebesar 10 mg\/ml menggunakan pelarut HCl 5%, induksi medan elektromagnetik sebesar 7,18×10-4 Tesla, pada temperature 100°C selama 60 menit. Hasil ini sebanding dengan penelitian serupa yang berlangsung pada suhu lebih tinggi dengan menggunakan asam kuat.  Parameter operasi yang lunak dapat mengatasi degradasi gula reduksi menjadi komponen HMF dan furfural, sehingga proses hidrolisis menjadi lebih efektif.",
+      "eprintid": 44699
+    },
+    {
+      "divisions": [
+        "FMIPA6"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/48\/13",
+      "date": "2022-07-18",
+      "creators": [
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Riyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "agus.riyanto@fmipa.unila.ac.id"
+        }
+      ],
+      "datestamp": "2022-09-06 06:21:21",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-09-06 06:21:21",
+      "userid": 1168,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44813",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 44813,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166709",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 483760,
+                  "hash": "34da0237f7b9960aebe3cc9b410937a7",
+                  "filename": "Nilai_ Bituminous.pdf",
+                  "mtime": "2022-09-06 05:50:25",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1130852,
+                  "objectid": 166709,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483760"
+                }
+            ],
+            "main": "Nilai_ Bituminous.pdf",
+            "docid": 166709
+          }
+      ],
+      "publisher": "Institute of Rock Structure and Mechanics of the CAS & University of Chemistry and Technology, Prague",
+      "eprintid": 44813,
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-09-06 06:21:21",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Nilai review: BITUMINOUS COMPOSITE COMPRISING AMORPHOUS SILICA FROM RICE HUSKS"
+    }
+]
+

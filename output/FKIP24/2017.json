@@ -1,0 +1,73 @@
+[
+    {
+      "isbn": "978-602-61902-8-4",
+      "eprintid": 7792,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "place_of_pub": "Indonesia",
+      "title": "MITOS MASYARAKAT LAMPUNG",
+      "subjects": [
+        "L1",
+        "LA"
+      ],
+      "abstract": "Mitos kadang kala diartikan sebagai tradisi dari zaman prasejarah, yang biasanya berhubungan dengan salah satu dewa atau suatu kekuatan alam yang dipersonifikasikan, atau cerita yang tidak mengandung kebenaran dan diperlakukan kadang kala sebagai kebenaran.",
+      "eprint_status": "archive",
+      "status_changed": "2018-06-26 02:50:02",
+      "dir": "disk0\/00\/00\/77\/92",
+      "date": 2017,
+      "pages": 62,
+      "creators": [
+        {
+          "id": "syaifulm50@gmail.com",
+          "name": {
+            "given": "Drs. syaiful. M., M.Si.",
+            "honourific": null,
+            "family": "Drs. syaiful. M., M.Si.",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP24"
+      ],
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7792",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 7792,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20832",
+            "rev_number": 1,
+            "main": "buku syaiful.pdf",
+            "docid": 20832,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69724",
+                  "objectid": 20832,
+                  "filesize": 857039,
+                  "datasetid": "document",
+                  "hash": "ae68c671c499e5558c027cd497ed43cb",
+                  "filename": "buku syaiful.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-26 02:19:10",
+                  "mime_type": "application\/pdf",
+                  "fileid": 69724
+                }
+            ]
+          }
+      ],
+      "publisher": "histokultura",
+      "datestamp": "2018-06-26 02:50:02",
+      "lastmod": "2018-06-26 02:50:02",
+      "userid": 342
+    }
+]
+

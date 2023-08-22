@@ -1,0 +1,561 @@
+[
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/209",
+      "publisher": "University of Lampung",
+      "documents": [
+          {
+            "eprintid": 209,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "main": "Vol 10(2)127-130.pdf",
+            "docid": 1016,
+            "files": [
+                {
+                  "filesize": 456139,
+                  "datasetid": "document",
+                  "filename": "Vol 10(2)127-130.pdf",
+                  "hash": "7a9c2d196c13943883458244f4dbe16f",
+                  "mtime": "2016-11-11 01:34:13",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 7517,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7517",
+                  "objectid": 1016
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1016"
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2016-11-11 02:36:44",
+      "pagerange": "103-112",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-11-11 02:36:44",
+      "userid": 1045,
+      "dir": "disk0\/00\/00\/02\/09",
+      "date": "2005-06-01",
+      "creators": [
+        {
+          "id": "dermiyati.1963@fp.unila.ac.id",
+          "name": {
+            "given": "-",
+            "family": "Dermiyati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "0852-257X",
+      "publication": "Journal of Tropical Soils",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 10,
+      "title": "Perubahan Aktivitas Mikroorganisme Tanah Akibat Pemberian Herbisida Diuron dan Amelioran",
+      "official_url": "http:\/\/journal.unila.ac.id",
+      "abstract": "The expriment aimed to study effect of  diuron herbicide and amellioran (lime or chicken manure) applications on soil microorganism activities, total bacteri and total fungi.  A Completely Randomized Design with four replications were applied.  The treatments are control, diuron only, lime (CaCO3) only, chicken manure only, diuron + lime, and diuron + chicken manure.  Dosage of diuron was 5 mg.kg-1  and dosage of amellioran was 5 t ha-1.  The soil used was Ultisol soil that was taken from Taman Bogo, East Lampung.  The treatments were incubated in a dark room at 25oC.  Soil microorganism activities, total bacteri and total fungi were measured  at  0, 1, 3, 5, 8, 11 and 13 weeks after diuron application.  The results showed that application of diuron only, amellioran only or diuron + amellioran increased soil microorganism activities and total bacteri compared to control (without diuron and amelioran); however, it decreased total fungi in the first three weeks after diuron application.  It was likely that application of diuron did not affect soil microorganism activities, total bacteri, and total fungi.",
+      "subjects": [
+        "S1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-11-11 02:36:44",
+      "date_type": "published",
+      "eprintid": 209
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/732",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 3,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 732,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4228",
+                  "objectid": 632,
+                  "filesize": 945499,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-07 15:34:48",
+                  "hash": "211a634592a6728a32495cc4c96eacb5",
+                  "filename": "Ainin-SSPN 2004.pdf",
+                  "fileid": 4228,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 632,
+            "main": "Ainin-SSPN 2004.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/632",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Taylor & Francis Group",
+      "datestamp": "2016-10-11 03:39:54",
+      "pagerange": "447-455",
+      "lastmod": "2016-10-11 03:39:54",
+      "userid": 1055,
+      "dir": "disk0\/00\/00\/07\/32",
+      "date": "2005-05-01",
+      "id_number": "http:\/\/dx.doi.org\/10.1080\/00380768.2004.10408499",
+      "publication": "Soil Science and Plant Nutrition",
+      "creators": [
+        {
+          "name": {
+            "given": "Ainin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Murase",
+            "honourific": null,
+            "given": "Jun"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Asakawa",
+            "honourific": null,
+            "given": "Susumu"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kimura",
+            "honourific": null,
+            "given": "Makoto"
+          },
+          "id": null
+        }
+      ],
+      "issn": "0038-0768",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "rev_number": 7,
+      "volume": 50,
+      "metadata_visibility": "show",
+      "title": "Analysis of communities of ammonia oxidizers, methanotrophs, and methanogens associated with microcrustaceans in the floodwater of a rice field microcosm",
+      "official_url": "http:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/00380768.2004.10408499",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Ammonia-oxidizing bacteria (AOB), methanotrophs (MOB), and methanogens that were associated with Moina sp., Mesocyclops sp., Heterocypris sp. in the floodwater of a rice field microcosm were studied by using DGGE and sequence analysis with amoA \/ pmoA and methanogen-specific primer sets. Only one AOB and two MOB DGGE bands with the same mobility were detected, irrespective of the microcrustaceans. Effect of the incubation period was observed only in the AOB community associated with Moina sp., and an additional AOB clone appeared in the late period of incubation. Sequence analysis of the bands revealed that both of the closest relatives of the AOB clones belonged to uncultured ammonium monooxygenase genes of α-Proteobacteria, while those of the MOB clones to Methylomicrobium buryatense, an uncultured methanotroph bacterium, and Methylococcus capsulatus within type I methanotrophs belonging to γ-Proteobacteria. In contrast, no amplification products of 16S rDNA of the methanogenic archaea were obtained from any of the microcrustacean samples, indicating the absence or very small populations of methanogens.",
+      "status_changed": "2016-10-11 03:39:54",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/www.tandfonline.com\/",
+          "type": "pub"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 732
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Bacterial communities associated with five kinds of microcrustaceans (Tanycypris sp., Moina sp., Mesocyclops sp., Cypretta sp. and Heterocypris sp.) from the floodwater of a paddy field microcosm were examined by the application of denaturing gradient gel electrophoresis (DGGE) to PCR-amplified 16S rDNA products with universal bacterial primers and by sequencing of characteristic DGGE bands. The number of DGGE bands of the associated bacteria was small, indicating the association of specific bacterial members with the microcrustaceans studied, among which Tanycypris sp. showed the smallest number of bands. Principal component analysis (PCA) demonstrated that the community structure of the associated bacteria could be divided into three groups: Podocopida (Tanycypris sp., Cypretta sp. and Heterocypris sp.), Moina sp. and Mesocyclops sp., and further analysis separated Tanycypris sp. and Heterocypris sp. into different clusters. The duration of the incubation period affected the bacteria associated with Tanycypris sp., Moina sp. and Cypretta sp. only. Nearly all of the associated bacteria belonged to Gram-negative bacteria, especially the Cytophaga-Flavobacterium-Bacteroides (CFB) group. Closest relatives of the DGGE bands common to three Podocopida and Mesocyclops sp. belonged to an invertebrate endosymbiont.",
+      "eprint_status": "archive",
+      "status_changed": "2016-10-11 03:39:57",
+      "related_url": [
+        {
+          "url": "http:\/\/www.tandfonline.com\/"
+        }
+      ],
+      "volume": 51,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.tandfonline.com\/",
+      "title": "Comparison of Bacterial Communities Associated with Microcrustaceans from the Floodwater of a Paddy Field Microcosm: Estimation Based on DGGE Pattern and Sequence Analyses",
+      "date_type": "published",
+      "eprintid": 733,
+      "datestamp": "2016-10-11 03:39:57",
+      "pagerange": "281-290",
+      "lastmod": "2016-10-11 03:39:57",
+      "userid": 1055,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/733",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "eprintid": 733,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Ainin-SSPN 2005-1.pdf",
+            "docid": 633,
+            "files": [
+                {
+                  "objectid": 633,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4235",
+                  "fileid": 4235,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-10-07 15:46:58",
+                  "hash_type": "MD5",
+                  "filename": "Ainin-SSPN 2005-1.pdf",
+                  "hash": "10ebf98fa4d600a7589106980d5131d9",
+                  "datasetid": "document",
+                  "filesize": 1034322
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/633"
+          }
+      ],
+      "publisher": "Taylor & Francis Group",
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/07\/33",
+      "date": "2005-03-01",
+      "id_number": "http:\/\/dx.doi.org\/10.1111\/j.1747-0765.2005.tb00032.x",
+      "publication": "Soil Science and Plant Nutrition i",
+      "creators": [
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "given": "Ainin",
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Jun",
+            "family": "Murase",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kimura",
+            "given": "Makoto"
+          },
+          "id": null
+        }
+      ],
+      "issn": "0038-0768"
+    },
+    {
+      "status_changed": "2016-10-11 03:40:00",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/www.tandfonline.com\/"
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Bacterial communities associated with Moina sp. in the floodwater of a paddy field microcosm were examined by denaturing gradient gel electrophoresis (DGGE) of PCR-amplified 16S rDNA. Eighteen out of 20 eubacterial DGGE bands were sequenced. The associated eubacterial communities mainly consisted of the Cytophaga-Flavobacterium-Bacteroides group and α-, β-, and γ-Proteobacterial groups, irrespective of the application of rice straw and rice straw compost. The effect of the application of rice straw and compost on the communities was not appreciable, compared with host specificity. An uncultured Cytophagales bacterium was estimated to be specifically associated with Moina sp. Presence of bacteria that are specific to rice straw treatment was also estimated.",
+      "title": "Effect of Application of Rice Straw and Compost on the Bacterial Communities Associated with Moina sp. in the Floodwater of a Paddy Soil Microcosm: Estimation Based on DGGE Pattern and Sequence Analyses",
+      "official_url": "http:\/\/www.tandfonline.com\/",
+      "rev_number": 7,
+      "volume": 52,
+      "metadata_visibility": "show",
+      "eprintid": 734,
+      "date_type": "published",
+      "userid": 1055,
+      "lastmod": "2016-10-11 03:40:00",
+      "datestamp": "2016-10-11 03:40:00",
+      "pagerange": "565-571",
+      "ispublished": "pub",
+      "number": 4,
+      "documents": [
+          {
+            "eprintid": 734,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "Ainin-SSPN 2005-2.pdf",
+            "docid": 634,
+            "files": [
+                {
+                  "objectid": 634,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4241",
+                  "datasetid": "document",
+                  "filesize": 652028,
+                  "mime_type": "application\/pdf",
+                  "fileid": 4241,
+                  "hash": "63b01de1b943f8b3835b803aa5e64688",
+                  "filename": "Ainin-SSPN 2005-2.pdf",
+                  "mtime": "2016-10-07 15:53:14",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/634"
+          }
+      ],
+      "publisher": "Taylor & Francis Group",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/734",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "publication": "Soil Science and Plant Nutrition i",
+      "creators": [
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "given": "Ainin",
+            "lineage": null,
+            "honourific": null,
+            "family": "Niswati"
+          }
+        },
+        {
+          "name": {
+            "given": "Jun",
+            "lineage": null,
+            "honourific": null,
+            "family": "Murase"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Makoto",
+            "lineage": null,
+            "family": "Kimura",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "0038-0768",
+      "date": "2005-08-01",
+      "dir": "disk0\/00\/00\/07\/34",
+      "id_number": "http:\/\/dx.doi.org\/10.1111\/j.1747-0765.2005.tb00065.x"
+    },
+    {
+      "creators": [
+        {
+          "id": "ak.salam@ymail.com",
+          "name": {
+            "family": "Salam",
+            "honourific": null,
+            "lineage": null,
+            "given": "Abdul Kadir"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bakri",
+            "lineage": null,
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Prihatin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Fajar"
+          }
+        }
+      ],
+      "issn": "0852-257X",
+      "publication": "Journal of Tropical Soils",
+      "dir": "disk0\/00\/00\/11\/34",
+      "date": 2005,
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 1017,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7525",
+                  "datasetid": "document",
+                  "filesize": 560025,
+                  "mime_type": "application\/pdf",
+                  "fileid": 7525,
+                  "hash": "35766310a393302938b2c8cc0a1ab1c1",
+                  "filename": "Vol 11(1)9-14.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-11 01:50:29"
+                }
+            ],
+            "docid": 1017,
+            "main": "Vol 11(1)9-14.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1017",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1134,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "University of Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1134",
+      "full_text_status": "public",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-11-11 02:36:46",
+      "userid": 1056,
+      "datestamp": "2016-11-11 02:36:46",
+      "pagerange": "9-14",
+      "eprintid": 1134,
+      "date_type": "published",
+      "official_url": "http:\/\/journal.unila.ac.id",
+      "title": "Depth-Wise Distribution of Extracted Cu and Zn in Cultivated Field-Plots Three Years After Treatment with A Cu- and Zn-Containing Waste, Lime, and Cassava-Leaf Compost",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 7,
+      "status_changed": "2016-11-11 02:36:46",
+      "eprint_status": "archive",
+      "abstract": "Cation retention by soil colloid adsorptive surfaces is believed to inhibit the movement of heavy metal cations in soils.  This research was to investigate the movement of Cu and Zn in cultivated field-plots 3 years after treatment with an industrial waste containing considerable Cu and Zn, lime, and organic compost.  Three levels of industrial waste (0, 15, and 60 ton ha-1) were mixed with field topsoils of 0-15 cm one week after treatment with lime and organic compost.  Extracted Cu and Zn were measured in soil samples collected depth-wise from 0 to 75 cm in field-plots 3 years after treatments.  Copper and Zn only from high-level waste-treatments were observed to have significantly moved from topsoils to subsoils of 30 – 75 cm.  Unlike that of Zn, the movement of Cu was also shown to be significantly lowered by topsoil treatment with lime and\/or compost, suggesting that the increase in soil adsorption capacity inhibited the movement of Cu cations.  Most Cu and Zn were retained in topsoils.",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "eprintid": 37931,
+      "event_title": "Seminar Hari Air Sedunia",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-17 01:33:07",
+      "abstract": "Way Sekampung merupakan salah satu daerah aliran sungai besar di Provinsi Lampung, dengan debit air lebih besar 100 m3\/dt. DAS Sekampung melintasi Kabupaten Tanggamus bagian hulu, KOta Metro dan Kabupaten Metro bagian tengah dan Kabupaten Lampung Selatan dan Timur Bagian Hilir, masing-masing daerah ini mempunyai kondisi lingkungan yang berbeda yang semua berpotensi sebagai pemasok bahan pencemar atau limbah yang akan berpengaruh terhadap kualitas air SUngai Way Sekampung. Berdasarkan Surat Keputusan Gubernur Kepala Daerah Tingkat I Lampung Nomor: G\/625\/B.VII\/Hk\/1990, yang menempatkan SUngai Way Sekampung bagi peruntukan Golongan B (berdasarkan Peraturan Pemerintah Republik Indonesia Nomor: 20 Tahun 1990) atau setara dengan Kelas I (berdasarkan Peraturan Pemerintah Republik Indonesia Nomor 82 Tahun 2001).",
+      "subjects": [
+        "S1"
+      ],
+      "title": "Klasifikasi Air Sungai Daerah Aliran Sungai (DAS) Way Sekampung Provinsi Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "type": "conference_item",
+      "divisions": [
+        "FP23"
+      ],
+      "creators": [
+        {
+          "id": "tugiyono.1964@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tugiyono",
+            "lineage": null,
+            "family": "Tugiyono",
+            "honourific": null
+          }
+        },
+        {
+          "id": "henrie.buchari@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Buchari",
+            "honourific": null,
+            "given": "Henrie"
+          }
+        }
+      ],
+      "date": "2005-03-31",
+      "dir": "disk0\/00\/03\/79\/31",
+      "lastmod": "2022-01-17 01:33:07",
+      "userid": 691,
+      "datestamp": "2022-01-17 01:33:07",
+      "pagerange": "101-109",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158871",
+            "rev_number": 1,
+            "main": "Prosiding Seminar Hemat Air 2005-compressed.pdf",
+            "docid": 158871,
+            "files": [
+                {
+                  "fileid": 431573,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-16 07:50:15",
+                  "filename": "Prosiding Seminar Hemat Air 2005-compressed.pdf",
+                  "hash": "c62c5b8fd0b4292b7cf5f5ad6efbebff",
+                  "datasetid": "document",
+                  "filesize": 1768913,
+                  "objectid": 158871,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/431573"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 37931,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37931",
+      "full_text_status": "public"
+    }
+]
+

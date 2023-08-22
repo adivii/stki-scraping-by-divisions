@@ -1,0 +1,106 @@
+[
+    {
+      "divisions": [
+        "FKIP7"
+      ],
+      "type": "article",
+      "date": "2011-04-01",
+      "dir": "disk0\/00\/03\/07\/67",
+      "issn": "2087-9849",
+      "creators": [
+        {
+          "name": {
+            "family": "Ujang Suparman",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suparman"
+          }
+        }
+      ],
+      "publication": "JPP Jurnal Pendidikan Progresif",
+      "datestamp": "2021-05-27 02:32:11",
+      "pagerange": "94-100",
+      "lastmod": "2021-05-27 02:32:11",
+      "userid": 783,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30767",
+      "full_text_status": "public",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Unila",
+      "documents": [
+          {
+            "docid": 138766,
+            "main": "7..pdf",
+            "files": [
+                {
+                  "fileid": 364871,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-25 07:51:23",
+                  "hash": "ebaa3c34bf76e3f453dbd9c9101041c7",
+                  "filename": "7..pdf",
+                  "datasetid": "document",
+                  "filesize": 2058296,
+                  "objectid": 138766,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364871"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138766",
+            "formatdesc": "Artikel",
+            "eprintid": 30767,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 30767,
+            "formatdesc": "Reviewer",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138768",
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 1056328,
+                  "fileid": 364876,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-05-25 07:51:38",
+                  "hash_type": "MD5",
+                  "filename": "7.pdf",
+                  "hash": "16bdd112ad6c0a714996ad83e187583e",
+                  "objectid": 138768,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364876"
+                }
+            ],
+            "main": "7.pdf",
+            "docid": 138768
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "date_type": "published",
+      "eprintid": 30767,
+      "abstract": "Penelitian ini mengkaji komponen-komponen penting tentang RSNBI yang mencerminkan pelaksanaan program pemerintah. Penelitian ini difokuskan pada kajian desain kurikulum dan silabus Bahasa Inggris di tingkat SMP di Provinsi Lampung. Penelitian ini bersilat kualitatif. Hasil penelitian menunjukkan bahwa kurikulum yang diterapkan di RSNBI Lampung masih perlu dikembangkan. Secara umum, kurikulum tersebut masih sulit untuk diterapkan karena faktor sumber daya manusianya belum siap. Mayoritas guru (75%) masih sangat lemah dalam penguasaan Bahasa Inggris yang merupakan bahasa pengantarnya. Hanya satu dari empat orang guru yang memiliki nilai TOEIC yang tinggi. Direkomendasikan bahwa pemerintah hendaknya mengembangkan kualitas SDM-nya, terutama dalam penguasaan Bahasa Inggris para guru",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "status_changed": "2021-05-27 02:32:11",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "volume": 1,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/article\/view\/22289",
+      "title": "Desain Kurikulum dan Silabus Bahasa Inggris untuk RSNBI di Provinsi Lampung."
+    }
+]
+

@@ -1,0 +1,274 @@
+[
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 1072,
+      "lastmod": "2016-11-01 04:12:57",
+      "pagerange": "698-705",
+      "datestamp": "2016-11-01 04:12:57",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "Lumbanraja SSSAJ 1990.pdf",
+            "docid": 915,
+            "files": [
+                {
+                  "objectid": 915,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6604",
+                  "fileid": 6604,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-11-01 01:49:21",
+                  "hash_type": "MD5",
+                  "filename": "Lumbanraja SSSAJ 1990.pdf",
+                  "hash": "593a7369e650b5e2474f4808aebf6ead",
+                  "datasetid": "document",
+                  "filesize": 267536
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/915",
+            "rev_number": 3,
+            "eprintid": 1024,
+            "security": "staffonly",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published"
+          }
+      ],
+      "publisher": "Soil Science Society of America",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1024",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "publication": "Soil Science Society American Journal",
+      "creators": [
+        {
+          "id": "jamalam.lumbanraja@fp.unila.ac.id",
+          "name": {
+            "family": "Lumbanraja",
+            "honourific": null,
+            "lineage": null,
+            "given": "Jamalam"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Evangelou",
+            "honourific": null,
+            "given": "V.P."
+          },
+          "id": null
+        }
+      ],
+      "issn": "0361-5995",
+      "date": 1990,
+      "dir": "disk0\/00\/00\/10\/24",
+      "eprint_status": "archive",
+      "status_changed": "2016-11-01 04:12:57",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Potassium-Ca and NH4-Ca exchange reactions in soils are often investigated in laboratory-type studies. In these studies, it is assumed that the results from the binary exchange systems can be extrapolated to ternary (three ion) exchange systems using appropriate models. This, however, is rarely evaluated. This study deals with K-Ca exchange in the presence and absence of added NH4 and NHj-Ca exchange in the presence and absence of added K on the subsoil of three Kentucky soils, Eden clay loam (fine, mixed mesic\r\nTypic Hapludalf). Lowell clay loam (fine, mixed, mesic Typic Hapludalf), and Nicholson silt loam (fine-silly, mixed, mesic Typic Fragiudalf).\r\nThe experimental approach is based on the quantity\/intensity\r\nconcept in order to make the findings relevant to field\r\nconditions. The added NH4 decreased the linear potential buffering capacity for the K (PBCK) more than expected and increased the equilibrium activity ratio of K (AR£) more than expected. The addition of K stimulated the adsorption of NH4 on high-affinity sites.\r\nAdded NH4 induced expansion, rather than collapse, of the vermiculitic interlayer. This suggests that the NH4 was not occluded or trapped, but rather specifically adsorbed in the vermiculitic interlayer. In essence, the added NH4 permits a greater fraction of the total surface charge to be available for exchanging cations due to the interlayer expansion. The soil that demonstrated the greatest\r\npotential for specific adsorption of NH4 was the Eden, followed by the Lowell and the Nicholson. The same order exists with respect to intensity of interlayer expansion. The above suggest that the simultaneous addition of K and NH4 in soil systems may influence the fate of NH4, such as, for example, the quantities leached as NH4,volatilized as NH3, and oxidized to NO3.",
+      "official_url": "https:\/\/dl.sciencesocieties.org\/publications\/sssaj",
+      "title": "Binary and Ternary Exchange Behavior of Potassium and Ammonium on Kentucky Subsoils",
+      "rev_number": 8,
+      "volume": 54,
+      "metadata_visibility": "show",
+      "eprintid": 1024,
+      "date_type": "published"
+    },
+    {
+      "pagerange": "215-224",
+      "datestamp": "2016-11-22 01:02:56",
+      "lastmod": "2016-11-22 01:02:56",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "userid": 1072,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1247",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Taylor & Francis",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1247,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-21 13:03:13",
+                  "filename": "SG Nugroho SSPN 1990.pdf",
+                  "hash": "009ba22b9dd5ebac8ad74baf2df939d1",
+                  "fileid": 8352,
+                  "mime_type": "application\/pdf",
+                  "filesize": 711948,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8352",
+                  "objectid": 1125
+                }
+            ],
+            "main": "SG Nugroho SSPN 1990.pdf",
+            "docid": 1125,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1125",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/12\/47",
+      "date": "1990-04-01",
+      "id_number": "10.1080\/00380768.1990.10414986",
+      "publication": "Soil Science and Plant Nutrition",
+      "creators": [
+        {
+          "name": {
+            "family": "Nugroho",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sutopo Ghani"
+          }
+        },
+        {
+          "name": {
+            "given": "Shozo",
+            "lineage": null,
+            "honourific": null,
+            "family": "Kuwatsuka"
+          }
+        }
+      ],
+      "issn": "0038-0768",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Under aerobic and anaerobic conditions, the concurrent ammonification, nitrification, denitrification, and N2 fixation activities in soils treated with several organic materials were determined. All activities were apparently observed only under aerobic conditions, particularly in the soils treated with organic materials with a low C\/N ratio. In the case of a high C\/N ratio, several processes were delayed due to the high activity of N immobilization, while under anaerobic conditions, the nitrification activity for the supply of NO3-N was so limited that the occurrence of denitrification was inhibited.  The apparent ratio of nitrification to ammonification was higher under aerobic than anaerobic conditions. The ratio of nitrification to denitrification was also higher under aerobic than anaerobic conditions due to the complete inhibition of the nitrification process under anaerobic conditions. The ratio of denitrification to N2 fixation was higher under aerobic than anaerobic conditions. It was shown that it is difficult to predict the ratios of these processes only based on the soil C content or the C\/N ratio of amended materials. These ratios are controlled by the C\/N ratio of amended materials, as well as by the constituents of amended materials and the levels of NH4-N and NO3-N.",
+      "eprint_status": "archive",
+      "status_changed": "2016-11-22 01:02:56",
+      "rev_number": 7,
+      "volume": 36,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.tandfonline.com\/",
+      "title": "-Concurrent observation of several processes of nitrogen metabolism in soil amended with organic materials. I. Effect of different organic materials on ammonification, nitrification, denitrification, and N2fixation under aerobic and anaerobic conditions",
+      "date_type": "published",
+      "eprintid": 1247
+    },
+    {
+      "status_changed": "2016-11-03 04:34:44",
+      "title": "Sustaining Soil Nitrogen for Corn Using Hairy Vetch Cover Crop",
+      "rev_number": 11,
+      "volume": 82,
+      "metadata_visibility": "show",
+      "publication": "Agronomy Journal",
+      "issn": "1435-0645",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhajir",
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null
+          },
+          "id": "muhajir.utomo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "W W",
+            "honourific": null,
+            "family": "Frye",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Blevins",
+            "lineage": null,
+            "given": "R L"
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/00\/03\/32",
+      "userid": 1068,
+      "pagerange": "979-983",
+      "documents": [
+          {
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 332,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2016-11-03 01:29:38",
+                  "hash_type": "MD5",
+                  "hash": "0715144c65168b8930a02f5325e08936",
+                  "filename": "Utomo et al 1990-.pdf",
+                  "fileid": 6751,
+                  "mime_type": "application\/pdf",
+                  "filesize": 477041,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6751",
+                  "objectid": 933
+                }
+            ],
+            "main": "Utomo et al 1990-.pdf",
+            "docid": 933,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/933",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/332",
+      "full_text_status": "restricted",
+      "refereed": "TRUE",
+      "eprintid": 332,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Nitrogen fertility management is often complicated by inadequate supply, low efficiency, high losses, and the potential of polluting water resources. This study was conducted in 1984 and 1985 on a Maury soil (fine, mixed, mesic Typic Paleudalfs) in Kentucky to determine the role of a hairy vetch (Vicia villosa Roth) cover crop in sustaining soil N for corn (Zea mays L.) under no-tillage and conventional tillage. Winter cover treatments of hairy vetch, rye (Secale cereal L.), and corn residue were combined factorially with N rates of 0, 85, and 170 kg ha−1 in the two tillage systems. Total soil C and N in the 0- to 7.5-cm depth, averaged across treatments and sampling dates, were 21.8 and 2.07 g kg−1, respectively, in no-tillage and 16.6 and 1.70 g kg−1 in conventional tillage. Values were 19.8 and 1.99 g kg−1, respectively, with hairy vetch and 18.8 and 1.80 g kg−1 with rye. Conventional tillage caused rapid mineralization of soil N, as indicated by greater inorganic N approximately 6 wk after plowing. Nitrate apparently leached deeper into the soil under no-tillage than conventional tillage. Grain yield without N on the vetch treatment was essentially equal to yields with 170 kg N ha−1 on the rye or corn residue treatments—6.75, 6.75, and 6.65 Mg ha−1, respectively. Grain yield with vetch and 170 kg N ha−1 was 7.85 Mg ha−1. Although vetch provided a substantial amount of N, results suggested that to obtain optimum corn yields N fertilization should be reduced little, if any, with a vetch cover crop. Vetch appeared to add grain yield instead of reduce the need for N fertilizer.",
+      "official_url": "https:\/\/dl.sciencesocieties.org\/publications\/aj\/abstracts\/82\/5\/AJ0820050979",
+      "type": "article",
+      "divisions": [
+        "FP23"
+      ],
+      "date": 1990,
+      "id_number": "doi:10.2134\/agronj1990.00021962008200050028x",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-11-04 03:24:53",
+      "datestamp": "2016-11-03 04:34:44",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 5,
+      "ispublished": "pub",
+      "publisher": "American Society of Agronomy"
+    }
+]
+

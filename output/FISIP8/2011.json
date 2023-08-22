@@ -1,0 +1,73 @@
+[
+    {
+      "place_of_pub": "Padang",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Mimpi Buruk Plagiarisme",
+      "subjects": [
+        "JZ"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-03-06 01:55:44",
+      "eprintid": 48721,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48721",
+      "documents": [
+          {
+            "eprintid": 48721,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Mimpi Buruk Plagiarisme (Harian Umum Haluan, 24 Oktober 2011).pdf",
+            "docid": 188098,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 530907,
+                  "hash": "9e39c0efeb8dab8f751d1e9757f9542c",
+                  "filename": "Mimpi Buruk Plagiarisme (Harian Umum Haluan, 24 Oktober 2011).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-04 08:59:42",
+                  "datasetid": "document",
+                  "filesize": 805026,
+                  "objectid": 188098,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530907"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188098"
+          }
+      ],
+      "publisher": "Harian Umum Haluan",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2023-03-06 01:55:44",
+      "lastmod": "2023-03-06 01:55:44",
+      "userid": 1187,
+      "date": "2011-10-24",
+      "dir": "disk0_bak\/00\/04\/87\/21",
+      "creators": [
+        {
+          "id": "iwsulistyo@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistyo",
+            "given": "Iwan"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP8"
+      ],
+      "type": "other"
+    }
+]
+

@@ -1,0 +1,85 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 40814,
+      "subjects": [
+        "H1"
+      ],
+      "status_changed": "2022-03-31 02:38:16",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "similarity_THE INFLUENCE OF INTERNAL CONTROL",
+      "divisions": [
+        "FEB1"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/04\/08\/14",
+      "creators": [
+        {
+          "name": {
+            "given": "melati hati",
+            "lineage": null,
+            "family": "megawati",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "rindu.gamayuni@yahoo.com",
+          "name": {
+            "family": "Gamayuni",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rindu Rika"
+          }
+        },
+        {
+          "name": {
+            "family": "Ribhan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ribhan"
+          },
+          "id": null
+        }
+      ],
+      "datestamp": "2022-03-31 02:38:16",
+      "userid": 404,
+      "lastmod": "2022-03-31 02:38:16",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40814",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 162203,
+            "main": "Similarity_THE INFLUENCE OF INTERNAL CONTROL.pdf",
+            "files": [
+                {
+                  "mtime": "2022-03-30 15:32:17",
+                  "hash_type": "MD5",
+                  "filename": "Similarity_THE INFLUENCE OF INTERNAL CONTROL.pdf",
+                  "hash": "176a18b6da730439b68087bd8b1db701",
+                  "fileid": 454055,
+                  "mime_type": "application\/pdf",
+                  "filesize": 2247919,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454055",
+                  "objectid": 162203
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162203",
+            "eprintid": 40814,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "The 2018 Fifth International Conference on Governance and Accountability"
+    }
+]
+

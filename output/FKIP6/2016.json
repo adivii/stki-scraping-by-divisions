@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Kepemimpinan Kepala sekolah",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-07-25 01:56:12",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "eprintid": 33968,
+      "isbn": "978-602-6435-25-5",
+      "date_type": "published",
+      "ispublished": "pub",
+      "publisher": "Media Akademi",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154216",
+            "main": "Buku Kepemimpinan Kepsek.pdf",
+            "docid": 154216,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/401352",
+                  "objectid": 154216,
+                  "filesize": 707237,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-18 10:42:19",
+                  "filename": "Buku Kepemimpinan Kepsek.pdf",
+                  "hash": "48a28aca1832e02efd0e3c65aa206623",
+                  "fileid": 401352,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33968,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33968",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-07-25 01:56:12",
+      "userid": 968,
+      "datestamp": "2022-07-25 01:56:12",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sowiyah",
+            "given": "Sowiyah"
+          },
+          "id": "Sowiyah.unila@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/03\/39\/68",
+      "date": 2016,
+      "pages": 80,
+      "type": "book",
+      "divisions": [
+        "FKIP6"
+      ]
+    }
+]
+

@@ -1,0 +1,478 @@
+[
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12279",
+      "full_text_status": "public",
+      "publisher": "FKIP UNILA",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25259",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/109562",
+                  "objectid": 25259,
+                  "filename": "17352-40852-1-PB.pdf",
+                  "hash": "dccf6155805aa381fdc385f7b239970a",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-09 06:59:44",
+                  "mime_type": "application\/pdf",
+                  "fileid": 109562,
+                  "filesize": 1577072,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "17352-40852-1-PB.pdf",
+            "docid": 25259,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 12279
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "datestamp": "2019-05-09 08:20:59",
+      "pagerange": "50-58",
+      "lastmod": "2019-05-09 08:20:59",
+      "userid": 980,
+      "date": 2019,
+      "dir": "disk0\/00\/01\/22\/79",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Risma M Sinaga",
+            "given": "RMS"
+          },
+          "id": "risma_msinaga@gmail.com"
+        },
+        {
+          "id": "trisna_unila@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Trisnaningsih",
+            "given": "Trisna"
+          }
+        },
+        {
+          "name": {
+            "given": "P",
+            "family": "Pujiati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "pujiatifkipunila@gmail.com"
+        },
+        {
+          "id": "didisudarmansyah77@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "didi",
+            "lineage": null,
+            "given": "sudarmansyah"
+          }
+        }
+      ],
+      "issn": "2087-9849",
+      "publication": "Jurnal Pendidikan Progresif",
+      "divisions": [
+        "FKIP10"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 9,
+      "title": "Development of Learning Media Based on Mobile Learning Applications",
+      "abstract": "Abstract: Development of mobile learning application-based media. Objectives: The purpose of this study is to develop a more dynamic learning media by utilizing technology in the form of applications onsmartphone devices to improve student learning outcomes. Methods: This study uses research  and development methods with data collection techniques in the form of questionnaires, feasibility tests and effectiveness of mobile learning applications developed as learning media through stages design edaccording to the ADDHIE model. Findings: Product development in the form  of mobile\r\nlearning applications is feasible as a learning medium and effective for improving  student  learning outcomes with an increase in the average value of 28 students from 57.32 to 81.43. Conclusion: Mobile learning application is a good choice as a learning media.\r\n\r\nKeywords: Learning media, mobile learning application, research and development",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-05-09 08:20:59",
+      "eprintid": 12279
+    },
+    {
+      "ispublished": "pub",
+      "number": 14,
+      "publisher": "http:\/\/www.iiste.org",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 15205,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28344",
+            "rev_number": 1,
+            "docid": 28344,
+            "main": "09. Publikasi Jurnal.pdf",
+            "files": [
+                {
+                  "objectid": 28344,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130879",
+                  "mime_type": "application\/pdf",
+                  "fileid": 130879,
+                  "filename": "09. Publikasi Jurnal.pdf",
+                  "hash": "0e346715df41abd34676977cbe02fb38",
+                  "mtime": "2019-11-04 03:27:03",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 406925
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15205",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2019-11-04 08:09:58",
+      "userid": 1087,
+      "pagerange": "18-27",
+      "datestamp": "2019-11-04 08:09:58",
+      "publication": "Journal of Education and Practice",
+      "issn": "2222-288X",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "SUDJARWO",
+            "honourific": null,
+            "given": "SUDJARWO"
+          },
+          "id": "profdrsudjarwo@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/01\/52\/05",
+      "date": "2019-05-31",
+      "type": "article",
+      "divisions": [
+        "FKIP10"
+      ],
+      "official_url": "http:\/\/www.iiste.org",
+      "title": "Development of Android-Based Mobile Learning: Answering the\r\nChallenges of the Industrial Revolution 4.0",
+      "rev_number": 7,
+      "volume": 10,
+      "metadata_visibility": "show",
+      "status_changed": "2019-11-04 08:09:58",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/www.iiste.org"
+        }
+      ],
+      "subjects": [
+        "H1",
+        "L1"
+      ],
+      "abstract": "Economic Learning in the Social Sciences Department at Al-Kautsar High School in Bandar Lampung is more\r\nteacher-oriented. The use of media is only limited to the use of powerpoint. In addition, the low percentage of\r\nKKM achievement (minimum completeness criteria) of students in several daily tests. Learning that uses mobile learning media is an alternative learning to increase student academic achievement in formative and summative tests as well. This development research aims to produce products that is mobile learning android-based in economic learning in order to answer the challenges of the industrial revolution 4.0. This study uses the Research and Development method with the ADDIE model (analysis, design, development, implementation and\r\nevaluation). The results of the study show that mobile learning has a significant influence on student academic\r\nachievement.\r\nKeywords: mobile learning, academic achievement, android, economic learning.",
+      "eprintid": 15205,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 15195,
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 12,
+      "title": "Relationships between Organizational Climate and\r\nOrganizational Commitment: A Literature Review in the Asian Context",
+      "official_url": "http:\/\/www.rsisinternational.org",
+      "abstract": "The importance of organizational climate in an organization attracts researchers to investigate it, and this paper is to examine the relationship between organizational climate and organizational commitment. There are a few articles about review of the relationship between organizational climate and organizational commitment, especially in Asia context, that can be found. The purpose of this review is to examine the\r\nrelationship between organizational climate and organizational commitment in Asia. Based on the results of literature review from various countries and organizations in Asia, we found that organizational climate and organizational commitment has a positive and significant relationship.",
+      "subjects": [
+        "H1",
+        "L1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/www.rsisinternational.org"
+        }
+      ],
+      "status_changed": "2019-11-04 08:09:49",
+      "eprint_status": "archive",
+      "id_number": 5,
+      "date": "2019-05",
+      "dir": "disk0\/00\/01\/51\/95",
+      "issn": "2454-6186",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "SUDJARWO",
+            "given": "SUDJARWO"
+          },
+          "id": "profdrsudjarwo@gmail.com"
+        }
+      ],
+      "publication": "International Journal of Research and Innovation in Social Science (IJRISS)",
+      "divisions": [
+        "FKIP10"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15195",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15195,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28336",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "3591ba32a2d2f2d2523d4d814213cf08",
+                  "filename": "Relationships between Organizational Climate and organizational commitment A literature review in the asian context.pdf",
+                  "mtime": "2019-11-04 03:03:00",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 130789,
+                  "filesize": 439851,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130789",
+                  "objectid": 28336
+                }
+            ],
+            "main": "Relationships between Organizational Climate and organizational commitment A literature review in the asian context.pdf",
+            "docid": 28336
+          }
+      ],
+      "publisher": "www.rsisinternational.org",
+      "ispublished": "pub",
+      "number": 5,
+      "pagerange": "167-171",
+      "datestamp": "2019-11-04 08:09:49",
+      "lastmod": "2019-11-04 08:09:49",
+      "userid": 1087
+    },
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "FKIP Unila",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13659,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3859332,
+                  "mime_type": "application\/pdf",
+                  "fileid": 119204,
+                  "filename": "SINAGA_R_MARGARETHA_DEVELOPMENT_OF_MOBILE.pdf",
+                  "hash": "ee195da0893fac6a90f6f8b04afa18e9",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-25 04:55:38",
+                  "objectid": 26672,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119204"
+                }
+            ],
+            "docid": 26672,
+            "main": "SINAGA_R_MARGARETHA_DEVELOPMENT_OF_MOBILE.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26672",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13659",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila"
+      ],
+      "lastmod": "2019-08-01 07:28:22",
+      "userid": 820,
+      "datestamp": "2019-08-01 07:28:22",
+      "pagerange": "50-58",
+      "publication": "Jurnal Pendidikan Progresif",
+      "creators": [
+        {
+          "id": "sinaga_rmargaretha@yahoo.com",
+          "name": {
+            "given": "Risma Margaretha",
+            "family": "Sinaga",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Trisna",
+            "honourific": null,
+            "family": "Trisnaningsih",
+            "lineage": null
+          },
+          "id": "trisna_unila@yahoo.co.id"
+        },
+        {
+          "id": "pujiatifkipunila@gmail.com",
+          "name": {
+            "given": "P",
+            "honourific": null,
+            "family": "Pujiati",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Sudarmansyah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Didi"
+          }
+        }
+      ],
+      "issn": "2087-9849",
+      "dir": "disk0\/00\/01\/36\/59",
+      "date": 2019,
+      "type": "article",
+      "divisions": [
+        "FKIP10"
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/",
+      "title": "Development of Learning Media Based on Mobile Learning Applications",
+      "volume": 9,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2019-08-01 07:28:22",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Objectives: The purpose\r\nof this study is to develop a more dynamic learning media by utilizing technology in the form of\r\napplications on smartphone devices to improve student learning outcomes. Methods: This study uses\r\nresearch and development methods with data collection techniques in the form of questionnaires,\r\nfeasibility tests and effectiveness of mobile learning applications developed as learning media through\r\nstages designed accordingto theADDHIEmodel. Findings: Product development intheform of mobile\r\nlearning applications is feasible as a learning medium and effective for improving student learning\r\noutcomes with an increase in the average value of 28 students from 57.32 to 81.43. Conclusion:\r\nMobile learning application is a good choice as a learning media.\r\nKeywords: Learning media, mobile learning application, research and development",
+      "eprintid": 13659
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Abstract: Soft skills in the teachers’ professional development perspective. Objectives: This study aims to determine the role of soft skills in teacher professional development. Methods: This study used a survey method for a number of Social Sciences Education teachers in junior high\r\nschools. Data was collected using a questionnaire regarding teacher identity and soft skill instruments as a result of development that had been expertly tested and small group tests according to the Borg and Galls design. Findings: There was a significant relationship between age and the quality of soft skills scores (r = -0.292, p < 0.05.). In line with that, a negative correlation was also obtained between age and personal attributes (r = -0.287, p < 0.05. Conclusions: Soft skills tended to decrease for\r\nteachers as they grew older, the soft skills the teachers had differed in terms of rank and class and\r\nSoft skills were closely related to teacher professional development.",
+      "eprint_status": "archive",
+      "status_changed": "2019-05-09 08:15:42",
+      "volume": 9,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/issue\/view\/972",
+      "title": "Soft Skills In The Teachers’ Professional Development Perspective",
+      "eprintid": 12266,
+      "pagerange": "40-49",
+      "datestamp": "2019-05-09 08:15:42",
+      "lastmod": "2019-05-09 08:15:42",
+      "userid": 980,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12266",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 12266,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25249",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/109488",
+                  "objectid": 25249,
+                  "filesize": 984974,
+                  "datasetid": "document",
+                  "filename": "17351-40795-1-PB.pdf",
+                  "hash": "2b6ec4888102bfbbc67109b48fd3590f",
+                  "mtime": "2019-05-09 06:34:38",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 109488
+                }
+            ],
+            "docid": 25249,
+            "main": "17351-40795-1-PB.pdf"
+          }
+      ],
+      "publisher": "FKIP UNILA",
+      "divisions": [
+        "FKIP10"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/22\/66",
+      "date": 2019,
+      "publication": "Jurnal Pendidikan Progresif",
+      "creators": [
+        {
+          "name": {
+            "given": "Trisna",
+            "family": "Trisnaningsih",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "trisna_unila@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "RMS",
+            "lineage": null,
+            "honourific": null,
+            "family": "Risma M Sinaga"
+          },
+          "id": "risma_msinaga@gmail.com"
+        },
+        {
+          "id": "pujiatifkipunila@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Pujiati",
+            "honourific": null,
+            "given": "P"
+          }
+        },
+        {
+          "name": {
+            "given": "Buchori",
+            "lineage": null,
+            "family": "Buchori asyik",
+            "honourific": null
+          },
+          "id": "buchoriasyik@yahoo.co.id"
+        }
+      ],
+      "issn": "2087-9849"
+    }
+]
+

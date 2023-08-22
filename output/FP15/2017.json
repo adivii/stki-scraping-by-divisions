@@ -1,0 +1,808 @@
+[
+    {
+      "divisions": [
+        "FP15"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/55\/84",
+      "date": "2017-08-15",
+      "creators": [
+        {
+          "id": "harun.alrasyid@fp.unila.ac.id",
+          "name": {
+            "given": "Harun",
+            "lineage": null,
+            "family": "Al Rasyid",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "subeki",
+            "honourific": null,
+            "family": "subeki",
+            "lineage": null
+          },
+          "id": "subeki1968@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Wisnu",
+            "lineage": null,
+            "family": "Satyajaya",
+            "honourific": null
+          },
+          "id": "wisnu.satyajaya@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Saptomi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "datestamp": "2017-11-16 07:49:11",
+      "userid": 460,
+      "lastmod": "2017-11-16 07:49:11",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5584",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/msword",
+            "eprintid": 5584,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18531",
+            "main": "APTA 2017 an Harun Al Rasyid dkk.doc",
+            "docid": 18531,
+            "files": [
+                {
+                  "objectid": 18531,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52279",
+                  "mime_type": "application\/msword",
+                  "fileid": 52279,
+                  "hash": "50c971ee4eb4fd080f43d877d62d984e",
+                  "filename": "APTA 2017 an Harun Al Rasyid dkk.doc",
+                  "mtime": "2017-11-15 07:41:16",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 372736
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "inpress",
+      "date_type": "submitted",
+      "eprintid": 5584,
+      "event_title": "Seminar nasional APTA 2017 Bengkulu",
+      "event_location": "bengkulu",
+      "abstract": "ABSTRAK\r\n\r\nBeras siger merupakan beras analog yang terbuat dari ubi kayu. Tujuan penelitian ini untuk mengetahui pengaruh penambahan asam askorbat sebagai bahan fortifikasi beras siger. Penelitian dilakukan dengan menggunakan Rancangan Acak Kelompok Lengkap (RAKL) faktorial dengan tiga ulangan. Faktor pertama yaitu penambahan asam askorbat 0% (A1), 0,1% (A2), 0,15% (A3), 0,2% (A4), 0,25% (A5), dan 0,3% (A6). Faktor kedua yaitu lama pengukusan 25 menit (L1), 30 menit (L2), dan 35 menit (L3). Data dianalisis dengan sidik ragam dan diuji lanjut dengan uji Beda Nyata Terkecil (BNT) dengan Taraf nyata 1% dan 5%. Hasil penelitian menunjukkan bahwa penambahan asam askorbat 0,2% dengan pengukusan selama 35 menit menghasilkan kualitas beras siger terbaik dengan karakteristik warna cenderung putih, agak mirip beras padi, agak pulen, kadar air 10,62%, abu 0,88%, protein 3,82%, lemak 2,42%, serat kasar 1,13%, karbohidrat 81,12 %, dan vitamin C 0,61 mg\/g.\r\n\r\nKata kunci : Asam askorbat, lama pengukusan, beras siger, ubi kayu",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2017-11-16 07:49:11",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "event_dates": "14 – 15 Agustus 2017",
+      "title": "KAJIAN PENGGUNAAN ASAM ASKORBAT UNTUK FORTIFIKASI BERAS SIGER"
+    },
+    {
+      "publisher": "Japan Society on Water Environment",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "content": "published",
+            "eprintid": 5496,
+            "placement": 1,
+            "security": "validuser",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18437",
+            "rev_number": 3,
+            "formatdesc": "International Journal",
+            "main": "JWET-2017.pdf",
+            "docid": 18437,
+            "files": [
+                {
+                  "filesize": 1913774,
+                  "datasetid": "document",
+                  "mtime": "2017-11-14 02:10:00",
+                  "hash_type": "MD5",
+                  "hash": "74de99a6c816b5b025eed66eda6d41c4",
+                  "filename": "JWET-2017.pdf",
+                  "fileid": 51618,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51618",
+                  "objectid": 18437
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "J.R.",
+            "family": "Amelia",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Suprihatin",
+            "honourific": null,
+            "family": "Suprihatin",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "N.S.",
+            "lineage": null,
+            "family": "Indrasti",
+            "honourific": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Fujie",
+            "honourific": null,
+            "lineage": null,
+            "given": "Koichi"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5496",
+      "userid": 1048,
+      "lastmod": "2017-11-16 04:50:57",
+      "datestamp": "2017-11-16 04:50:57",
+      "pagerange": "77-85",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hasanudin",
+            "lineage": null,
+            "given": "Udin"
+          },
+          "id": "udinha65@gmail.com"
+        }
+      ],
+      "issn": "1348-2165",
+      "publication": "Journal of Water and Environmental Technology",
+      "dir": "disk0\/00\/00\/54\/96",
+      "date": "2017-06-10",
+      "type": "article",
+      "divisions": [
+        "FP15"
+      ],
+      "official_url": "https:\/\/www.jstage.jst.go.jp\/browse\/jwet",
+      "title": "Effects of Treated Palm Oil Mill Efﬂuent Application\r\non the Soil Microbial Community Structure\r\nand Oil Palm Plantation Productivity",
+      "metadata_visibility": "show",
+      "volume": 15,
+      "rev_number": 3,
+      "succeeds": 5438,
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 04:50:57",
+      "abstract": "The palm oil mill efﬂuent (POME) is generally treated using biological anaerobic treatment and then\r\nutilized for POME land application. This research aimed to study the effect of treated POME land\r\napplication on soil microbial community structure in oil palm plantation and their impact to the oil\r\npalm productivity. The results showed that ubiquinone (UQ) and menaquinone (MK) contents in soils\r\nwithout treated POME application were 0.045 and 0.204 μmol\/kg-dry soils, respectively. These were\r\nmuch lower than the UQ and MK contents in soils with treated POME application which were 0.074\r\nand 0.301 μmol\/ kg-dry soils, respectively. The diversity quinone (DQ) and bioenergetic divergence\r\nquinone (BDq) in soils without treated POME application were 11.21 and 0.86, respectively, while in\r\nsoils with treated POME application were 11.32 and 0.87, respectively. These results indicate that the\r\ntreated POME application increased the amount of microorganisms but did not change the diversity of\r\nmicroorganisms. Treated POME application also increased the domination of aerobic bacteria in soils.\r\nThe total UQ, MK, and UQ\/MK ratio of soils with treated POME application are higher than those of\r\nsoils without treated POME application and the application of POME is generally able to increase oil\r\npalm productivity.",
+      "subjects": [
+        "S1"
+      ],
+      "eprintid": 5496,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 5490,
+      "date_type": "published",
+      "title": "Performance evaluation of integrated solid-liquid\r\nwastes treatment technology in palm oil industry",
+      "official_url": "http:\/\/iopscience.iop.org\/issue\/1755-1315\/65\/1",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 65,
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 04:50:37",
+      "abstract": "The oil palm industry significantly contributes to environmental degradation if\r\nwithout waste management properly. The newest alternative waste management that might be\r\ndeveloped is by utilizing the effluent of POME anaerobic digestion with EFB through\r\nintegrated anaerobic decomposition process. The aim of this research was to examine and\r\nevaluate the integrated solid-liquid waste treatment technology in the view point of greenhouse\r\ngasses emission, compost, and biogas production. POME was treated in anaerobic digester with\r\nloading rate about 1.65 gCOD\/L\/day. Treated POME with dosis of 15 and 20 L\/day was\r\nsprayed to the anaerobic digester that was filled of 25 kg of EFB. The results of research\r\nshowed that after 60 days, the C\/N ratio of EFB decreased to 12.67 and 10.96 for dosis of\r\ntreated POME 15 and 20 L\/day, respectively. In case of 60 day decomposition, the integrated\r\nwaste treatment technology could produce 51.01 and 34.34 m3\/Ton FFB which was equivalent\r\nwith 636,44 and 466,58 kgCO2e\/ton FFB for dosis of treated POME 15 and 20 L\/day,\r\nrespectively. The results of research also showed that integrated solid-liquid wastes treatment\r\ntechnology could reduce GHG emission about 421.20 and 251.34 kgCO2e\/ton FFB for dosis of\r\ntreated POME 15 and 20 L\/day, respectively.",
+      "subjects": [
+        "TD"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Udin",
+            "honourific": null,
+            "family": "Hasanudin",
+            "lineage": null
+          },
+          "id": "udinha65@gmail.com"
+        }
+      ],
+      "issn": "1755-1315",
+      "publication": "IOP Conf. Series: Earth and Environmental Science",
+      "date": "2017-06-02",
+      "dir": "disk0\/00\/00\/54\/90",
+      "type": "article",
+      "divisions": [
+        "FP15"
+      ],
+      "documents": [
+          {
+            "eprintid": 5490,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 18432,
+            "main": "Amelia_2017_IOP_Conf._Ser.-_Earth_Environ._Sci._65_012036.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 333740,
+                  "mime_type": "application\/pdf",
+                  "fileid": 51578,
+                  "hash": "0eb8ed3803746462da78b2f33d90d6ca",
+                  "filename": "Amelia_2017_IOP_Conf._Ser.-_Earth_Environ._Sci._65_012036.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-14 07:20:12",
+                  "objectid": 18432,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51578"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18432",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "IOP Publishing",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5490",
+      "userid": 1048,
+      "lastmod": "2017-11-16 04:50:37",
+      "datestamp": "2017-11-16 04:50:37"
+    },
+    {
+      "official_url": "http:\/\/iopscience.iop.org\/issue\/1755-1315\/65\/1",
+      "title": "Preparation and evaluation adsorption capacity of\r\ncellulose xanthate of sugarcane bagasse for removal\r\nheavy metal ion from aqueous solutions",
+      "rev_number": 8,
+      "volume": 65,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 04:50:16",
+      "subjects": [
+        "TD"
+      ],
+      "abstract": "The discharge of heavy metals from industrial effluents into aquatic system in\r\nsurrounding area of Lampung bay become a serious problem today. The data shows that the\r\nconcentrations of heavy metals in this area are above allowable limits for the discharge of\r\ntoxic heavy metals in the aquatic systems. The most common of heavy metal pollutant is\r\ndivalent metal ions. Cellulose xanthate is one of the selective adsorbent to solve this problem,\r\nsince xanthate contains two negative sulfur atoms that is capable to catch divalent metal ions.\r\nPreparation of cellulose xanthate was conducted by reacting carbon disulfide (CS2) and\r\ncellulose from sugarcane bagasse. The morphological characteristics of cellulose xanthate were\r\nvisualized via Scanning Electron Microscope (SEM) and the presence of sulfur groups on\r\nsugarcane bagasse xanthate were identified by FTIR spectroscopic study. The degree of\r\nsubstitution (DS), degree of polymerization (DP), and adsorption capacities of cellulose\r\nxanthate for Cu2+ and Pb2+ metal were studied. The results of study reveals that the maximum\r\nadsorption capacities of Cu2+ and Pb2+ metal on cellulose xanthate are 54.226 mg Cu2+\/g, and\r\n51.776 mg Pb2+\/g, respectively. This study reveals that cellulose xanthate could be a solution to\r\nreduce environmental pollution caused by industrial wastewater.",
+      "eprintid": 5483,
+      "date_type": "published",
+      "number": "-",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 18424,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51544",
+                  "datasetid": "document",
+                  "filesize": 684243,
+                  "fileid": 51544,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-14 06:56:57",
+                  "hash_type": "MD5",
+                  "filename": "Iryani_2017_IOP_Conf._Ser.-_Earth_Environ._Sci._65_012039.pdf",
+                  "hash": "50fa4776e7af79edab5207ddcdc04266"
+                }
+            ],
+            "main": "Iryani_2017_IOP_Conf._Ser.-_Earth_Environ._Sci._65_012039.pdf",
+            "docid": 18424,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18424",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 5483,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "IOP Publishing",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5483",
+      "refereed": "TRUE",
+      "lastmod": "2017-11-16 04:50:16",
+      "userid": 1048,
+      "datestamp": "2017-11-16 04:50:16",
+      "publication": "IOP Conf. Series: Earth and Environmental Science",
+      "creators": [
+        {
+          "id": "udinha65@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Hasanudin",
+            "honourific": null,
+            "given": "Udin"
+          }
+        }
+      ],
+      "issn": "1755-1315",
+      "dir": "disk0\/00\/00\/54\/83",
+      "date": "2017-06-02",
+      "type": "article",
+      "divisions": [
+        "FP15"
+      ]
+    },
+    {
+      "abstract": "Siger rice is a Lampung community term for mentioning analog rice made from cassava. Siger rice has characteristics grain such as rice, white, sticky, sweeling power (6.35%), glycemic index (31), with water content (10.19%), ash (0.31%), protein (2, 69%), fat (0,56%), carbohydrate (81,75%), and amylose (18,91%). This product has a low glycemic index so it is very good consumed for diabetics. This study aims to determine the effect of giving siger rice to human blood glucose level 2 hours post prandial. The study was conducted using 44 people divided into 2 groups. Each group consists of 22 people. One group was given siger rice and the other group was given white rice each of 150 g. After 2 hours each participant measured blood glucose level. The data obtained were analyzed by t-test to know the effect of the increase of blood glucose level between siger rice and white rice. The results showed that blood glucose levels of 2 hours post prandial humans who consumed siger rice of 89 mg \/ dL lower than with white rice 95 mg \/ dL.\r\n\r\nKeywords: rice siger, blood glucose, post prandial, cassava\r\n\r\n\r\n\r\n\r\nBeras siger adalah istilah masyarakat Lampung untuk menyebutkan beras analog yang terbuat dari ubikayu. Beras siger mempunyai karakteristik butiran seperti beras padi, berwarna putih, nasi yang dihasilkan pulen, sweeling power 6,35%, indek glikemik 31, dengan kandungan air (10,19%), abu (0,31%), protein (2,69%), lemak (0,56%), karbohidrat (81,75%) dan amilosa (18,91%). Produk ini memiliki indeks glikemik rendah sehingga baik sekali dikonsumsi bagi penderita diabetes. Penelitian ini bertujuan untuk mengetahui pengaruh pemberian beras siger terhadap kadar glukosa darah manusia 2 jam post prandial. Penelitian dilakukan menggunakan 44 orang yang dibagi menjadi 2 kelompok. Masing-masing kelompok terdiri dari 22 orang. Satu kelompok diberikan makan nasi siger dan kelompok lainnya diberikan nasi putih masing-masing sebanyak 150 g. Setelah 2 jam masing-masing peserta diukur kadar glukosa darahnya. Data yang diperoleh dianalisis dengan uji t untuk melihat perbandingan pengaruh kenaikan kadar glukosa darah antara nasi siger dan nasi putih. Hasil penelitian menunjukkan bahwa kadar glukosa darah 2 jam post prandial manusia yang mengkonsumsi nasi siger sebesar 89 mg\/dL lebih rendah dibandingkan dengan nasi putih 95 mg\/dL.\r\n\r\nKata kunci : beras siger, glukosa darah, post prandial, ubikayu",
+      "subjects": [
+        "Q1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 07:51:52",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "event_type": "workshop",
+      "event_dates": "14 – 15 Agustus 2017",
+      "title": "PENGARUH KONSUMSI BERAS SIGER DARI UBIKAYU TERHADAP KADAR GLUKOSA DARAH MANUSIA \r\n\r\nEFFECT OF SIGER RICE CONSUMPTION FROM CASSAVA AGAINST BLOOD GLUCOSE LEVEL OF DIABETIC IN BANDARLAMPUNG",
+      "date_type": "submitted",
+      "eprintid": 5604,
+      "event_title": "Seminar nasional APTA 2017 Bengkulu",
+      "event_location": "bengkulu",
+      "datestamp": "2017-11-16 07:51:52",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-11-16 07:51:52",
+      "userid": 288,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5604",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5604,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18554",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filename": "FULL PAPER - WISNU-APTA-Beras Siger pada Glukosa Darah.pdf",
+                  "hash": "7fe49d989cef4567cfddba7585e3c9c1",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-15 09:13:27",
+                  "mime_type": "application\/pdf",
+                  "fileid": 52412,
+                  "filesize": 198168,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52412",
+                  "objectid": 18554
+                }
+            ],
+            "docid": 18554,
+            "main": "FULL PAPER - WISNU-APTA-Beras Siger pada Glukosa Darah.pdf"
+          }
+      ],
+      "ispublished": "submitted",
+      "divisions": [
+        "FP15"
+      ],
+      "type": "conference_item",
+      "date": "2017-08-14",
+      "dir": "disk0\/00\/00\/56\/04",
+      "creators": [
+        {
+          "id": "wisnu.satyajaya@fp.unila.ac.id",
+          "name": {
+            "given": "Wisnu",
+            "family": "Satyajaya",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "subeki",
+            "honourific": null,
+            "lineage": null,
+            "given": "subeki"
+          },
+          "id": "subeki1968@fp.unila.ac.id"
+        },
+        {
+          "id": "tanto.utomo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null,
+            "given": "tanto Pratondo"
+          }
+        },
+        {
+          "id": "harun.alrasyid@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Al Rasyid",
+            "honourific": null,
+            "given": "Harun"
+          }
+        },
+        {
+          "id": "subeki1968@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Diniarti",
+            "honourific": null,
+            "given": "Septriana"
+          }
+        }
+      ]
+    },
+    {
+      "corp_creators": [
+        "Lampung University",
+        "Lampung University",
+        "Lampung University"
+      ],
+      "lastmod": "2017-05-29 08:20:03",
+      "datestamp": "2017-05-29 08:20:03",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "University of Lampung",
+      "type": "article",
+      "divisions": [
+        "FP15"
+      ],
+      "date": "2017-04",
+      "eprint_status": "archive",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The objective of this research was to examine the feasibility of liquid smoke production from palm ail empty fruit bunch (EFB). This research was a survey with expert respondents to collect primary data while literatures and reports study as secondary data. The result of study showed that the liquid smoke industry from EFB was feasible to be developed with eligibility criteria Rp. 991,486,765 of NPV ; 2.50 of Net B\/C; 36.59 % of IRR ; and 2.83years of PBP. The result of sensitivity analysis showed that the\r\nliquid smoke industry from EFB more sensitive for liquid smoke price decerasing than raw material and other inputs price increasing.\r\nKeywords— Financial Feasibility, Liquid Smoke, EFB.",
+      "official_url": "http:\/\/insist.unila.ac.id",
+      "eprintid": 1874,
+      "date_type": "published",
+      "userid": 288,
+      "pagerange": "23-26",
+      "documents": [
+          {
+            "eprintid": 1874,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Cover Insist.pdf",
+            "docid": 1731,
+            "files": [
+                {
+                  "mtime": "2017-05-29 07:53:21",
+                  "hash_type": "MD5",
+                  "hash": "c0b1de64425984673b409434d081628e",
+                  "filename": "Cover Insist.pdf",
+                  "fileid": 13074,
+                  "mime_type": "application\/pdf",
+                  "filesize": 76368,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13074",
+                  "objectid": 1731
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1731",
+            "rev_number": 1
+          },
+          {
+            "security": "public",
+            "placement": 2,
+            "eprintid": 1874,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 217396,
+                  "datasetid": "document",
+                  "hash": "73b2acf9f43af4707316d3231ebc0a8e",
+                  "filename": "28-134-1-PB (2).pdf",
+                  "mtime": "2017-05-29 07:53:36",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 13076,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13076",
+                  "objectid": 1732
+                }
+            ],
+            "main": "28-134-1-PB (2).pdf",
+            "docid": 1732,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1732",
+            "format": "text",
+            "pos": 2
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1874",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "contact_email": "erdi.suroso@fp.unila.ac.id",
+      "publication": "INSIST",
+      "creators": [
+        {
+          "name": {
+            "given": "Erdi",
+            "lineage": null,
+            "family": "Suroso",
+            "honourific": null
+          },
+          "id": "erdi.suroso@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Satyajaya",
+            "honourific": null,
+            "given": "Wisnu"
+          },
+          "id": "wisnu.satyajaya@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Utomo",
+            "honourific": null,
+            "lineage": null,
+            "given": "tanto Pratondo"
+          },
+          "id": "tanto.utomo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Laila",
+            "lineage": null,
+            "honourific": null,
+            "family": "Julianti"
+          }
+        }
+      ],
+      "issn": "2502-8588",
+      "dir": "disk0\/00\/00\/18\/74",
+      "status_changed": "2017-05-29 08:20:03",
+      "related_url": [
+        {
+          "url": "http:\/\/insist.unila.ac.id\/index.php\/ojs"
+        }
+      ],
+      "title": "Financial Feasibility Study of Liquid Smoke Industry from Palm Oil Empty Fruit Bunch in Mesuji Regency, Lampung Province",
+      "rev_number": 7,
+      "volume": 2,
+      "metadata_visibility": "show"
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FP15"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suroso",
+            "given": "Erdi"
+          },
+          "id": "erdi.suroso@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Utomo",
+            "given": "Tanto Pratondo"
+          },
+          "id": "tanto.utomo@fp.unila.ac.id"
+        },
+        {
+          "id": "harun.alrasyid@fp.unila.ac.id",
+          "name": {
+            "given": "Harun",
+            "lineage": null,
+            "honourific": null,
+            "family": "Al Rasyid"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Zendya",
+            "lineage": null,
+            "given": "Varga"
+          },
+          "id": null
+        }
+      ],
+      "date": "2017-08-15",
+      "dir": "disk0\/00\/00\/55\/93",
+      "userid": 389,
+      "lastmod": "2017-11-16 07:49:17",
+      "datestamp": "2017-11-16 07:49:17",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 252422,
+                  "fileid": 52333,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "mtime": "2017-11-15 08:31:23",
+                  "hash_type": "MD5",
+                  "hash": "3cf513d80a11db7ce0b8170d71693e40",
+                  "filename": "APTA 2017 Erdi Suroso dkk UNILA.docx",
+                  "objectid": 18543,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52333"
+                }
+            ],
+            "docid": 18543,
+            "main": "APTA 2017 Erdi Suroso dkk UNILA.docx",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18543",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 5593,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en"
+          }
+      ],
+      "ispublished": "inpress",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5593",
+      "full_text_status": "public",
+      "eprintid": 5593,
+      "event_title": "Seminar nasional APTA 2017 Bengkulu",
+      "date_type": "submitted",
+      "event_location": "bengkulu",
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 07:49:17",
+      "abstract": "ABSTRACT \r\n\r\n The aims of this study were to identify the strengths, weaknesses, opportunities and threats of nutmeg essential oil agroindustry, and to formulate the development strategies for nutmeg essential oil agroindustry in Wira Karya Sejahtera Farmers Groups Union, Tanggamus Regency. This research used descriptive analytical approach for SWOT analysis to identify the internal and the eksternal factors, the IFE and EFE matrix, and the SWOT matrix, then to formulate the alternative strategies in business development of nutmeg essential oil. The results showed that of the internal factors the greater strengths were the business permit and certificate whereas the bigger drawback was the fund. The external factors indicated that the greater opportunity was the safe environmental conditions, whereas the bigger threat was the increase in the price of the production fasilities. The alternative strategies are utilizing legality and supporting certificates and improve production management to obtain safe environmental conditions and maintain good relationships with distributor, agent and customers; and take advantage of the product price to maintain good relationships with customers and agent.\r\n \r\nKeywords: SWOT ana;ysis, agroindustrial development, essential oil, nutmeg",
+      "subjects": [
+        "S1"
+      ],
+      "title": "STRATEGI PENGEMBANGAN MINYAK ATSIRI PALA STUDI KASUS GABUNGAN KELOMPOK TANI WIRA KARYA SEJAHTERA, KABUPATEN TANGGAMUS",
+      "event_dates": "14 – 15 Agustus 2017",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference"
+    },
+    {
+      "event_dates": "4 November 2017",
+      "title": "Pelatihan Pembuatan Berbagai produk olahan buah coklat pada kelompok masyarakat desa Durian, Padang Cermin, Kabupaten Pesawaran Provinsi Lampung",
+      "event_type": "conference",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-06-13 03:46:04",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Sebagai salah satu produsen kakao, masyarakat desa Durian, Kabupaten Pesawaran perlu memperolah pengetahuan dan ketrampilan terkait produk olahan kako dan turunannya. Pelatihan pembuatan produk olahan buah coklat telah dilakukan pada kelompok masyarakat yang  tergabung dalam ibu ibu PKK Desa Durian, Padang Cermin, Kabupaten Pesawaran, Provinsi Lampung. Metode pelaksanaan pengabdian terdiri dari a. Ceramah dan Diskusi, b.Praktek dan Pendampingan Pembuatan Produk Olahan Coklat: pemisahan pulpa coklat, selai, pembuatan minuman fermentasi, pembuatan sabun dari lemak coklat, pembuatan coklat batangan dalam katagori “dark chocolate”, permen coklat dan minuman panas. c. Pameran Produk dan d. Evaluasi. Hasil pengabdian menunjukkan bahwa pelatihan pengolahan produk produk coklat ini telah meningkatkan pengetahuan dan ketrampilan peserta (kelompok PKK) desa Durian. Sebagian besar peserta menyatakan bahwa pengolahan produk coklat yang disuluhkan termasuk mudah dilaksanakan, bahan bakunya murah, waktu proses pengolahan singkat kecuali minuman fermentasi, namun peralatan ada yang termasuk mahal sehingga menjadi kendala untuk produksi. Namun demikian, sebanyak 80 persen peserta tergerak dan berkeinginan untuk mencoba mempraktekkan dan memproduksinya. Pengetahuan dan ketrampilan serta keinginan tersebut diharapkan kedepannya akan berdampak pada peningkatan pendapatan masyarakat desa Durian",
+      "event_location": "Bandar Lampung",
+      "event_title": "Seminar Nasional Pengabdian kepada Masyarakat Universitas Lampung",
+      "eprintid": 6956,
+      "date_type": "published",
+      "ispublished": "pub",
+      "publisher": "LPPM Universitas Lampung",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 6956,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "SEMNAS PKM 2017_NETI YULIANA DKK.pdf",
+            "docid": 19926,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63757",
+                  "objectid": 19926,
+                  "mtime": "2018-05-29 16:58:05",
+                  "hash_type": "MD5",
+                  "filename": "SEMNAS PKM 2017_NETI YULIANA DKK.pdf",
+                  "hash": "6969d2e3367aec4c6c1b960a8439110f",
+                  "fileid": 63757,
+                  "mime_type": "application\/pdf",
+                  "filesize": 497200,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19926"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6956",
+      "refereed": "TRUE",
+      "lastmod": "2018-06-13 03:46:04",
+      "userid": 1082,
+      "datestamp": "2018-06-13 03:46:04",
+      "pagerange": "63-66",
+      "publication": "Seminar Nasional Pegabdian Kepada Masyarakat \"Berkaya dan Berinovasi untuk Bangsa",
+      "creators": [
+        {
+          "name": {
+            "family": "Yuliana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Neti"
+          },
+          "id": "neti.yuliana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "E.L.",
+            "honourific": null,
+            "family": "Widiastuti",
+            "lineage": null
+          },
+          "id": "elwidi@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Salman",
+            "lineage": null,
+            "family": "Alfarizi",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Teguh",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiawan"
+          }
+        }
+      ],
+      "date": "2017-11-04",
+      "dir": "disk0\/00\/00\/69\/56",
+      "type": "article",
+      "divisions": [
+        "FP15"
+      ]
+    }
+]
+

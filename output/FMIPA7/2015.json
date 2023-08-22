@@ -1,0 +1,264 @@
+[
+    {
+      "divisions": [
+        "FMIPA7"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "type": "book",
+      "editors": [
+        {
+          "id": "info@grahailmu.co.id",
+          "name": {
+            "given": "Graha Ilmu",
+            "lineage": null,
+            "honourific": null,
+            "family": "Graha Ilmu"
+          }
+        }
+      ],
+      "pages": 92,
+      "date": "2015-12-15",
+      "dir": "disk0\/00\/00\/61\/49",
+      "creators": [
+        {
+          "name": {
+            "given": "Suharso",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": "suharso_s@yahoo.com"
+        },
+        {
+          "id": "buhani_s@yahoo.co.id",
+          "name": {
+            "family": ".",
+            "honourific": null,
+            "lineage": null,
+            "given": "Buhani"
+          }
+        }
+      ],
+      "datestamp": "2017-12-07 04:07:08",
+      "lastmod": "2017-12-07 04:07:08",
+      "corp_creators": [
+        "Graha Ilmu Yogyakarta"
+      ],
+      "userid": 1094,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6149",
+      "publisher": "Graha Ilmu",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19066",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 1545819,
+                  "datasetid": "document",
+                  "filename": "PENANGGULANGAN KERAK Dari Penerbit.pdf",
+                  "hash": "d2638962f884d08e7ee2ab0153973186",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-29 22:03:13",
+                  "mime_type": "application\/pdf",
+                  "fileid": 56530,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/56530",
+                  "objectid": 19066
+                }
+            ],
+            "docid": 19066,
+            "main": "PENANGGULANGAN KERAK Dari Penerbit.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6149
+          }
+      ],
+      "ispublished": "pub",
+      "isbn": "978-602-262-509-4",
+      "eprintid": 6149,
+      "abstract": "Permasalahan serius yang sering dijumpai pada sebagaian besar peralatan industri yang melibatkan air garam adalah terjadinya penumpukan material anorganik pada dinding-dinding peralatan industri. Terakumulasinya endapan tersebut mengakibatkan terbentuknya kerak, dan kasus ini umum terjadi pada industri yang melibatkan air, seperti proses desalinasi dan ketel, industri minyak dan gas, serta industri kimia. Akibat penumpukan kerak tersebut umur sumur pipa pada industri panas bumi pembangkit tenaga listrik (PLTP) hanya berumur 10 tahun, kemudian harus dibuat baru dengan biaya 6-7 juta dolar per sumur.  Hal tersebut mengakibatkan terjadinya inefesiensi pada industri dari sisi waktu, energi, dan biaya.\r\n        Buku ini menyajikan hasil-hasil penelitian terkait penanggulangan kerak, baik menggunakan senyawa hasil sintesis maupun ekstrak tanaman yang digunakan sebagai inhibitor dalam menghambat pertumbuhan kerak. Tentunya buku ini layak dibaca bagi para peneliti dan mahasiswa untuk menambah khasanah pengetahuan atau ingin lebih mendalami penelitian terkait penanggulangan kerak.",
+      "subjects": [
+        "QD"
+      ],
+      "succeeds": 3720,
+      "eprint_status": "archive",
+      "status_changed": "2017-12-07 04:07:08",
+      "metadata_visibility": "show",
+      "place_of_pub": "Yogyakarta",
+      "rev_number": 7,
+      "official_url": "http:\/\/www.grahailmu.co.id",
+      "title": "Penanggulangan Kerak"
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sulistiyo",
+            "given": "Septian Tri"
+          }
+        },
+        {
+          "name": {
+            "given": "Rudy T.M",
+            "lineage": null,
+            "honourific": null,
+            "family": "Situmeang"
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2015-11",
+      "dir": "disk0\/00\/00\/94\/99",
+      "lastmod": "2018-11-06 03:07:26",
+      "userid": 882,
+      "pagerange": "122-128",
+      "datestamp": "2018-11-06 03:07:26",
+      "ispublished": "pub",
+      "pres_type": "speech",
+      "documents": [
+          {
+            "eprintid": 9499,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Rudy and Septhian.pdf",
+            "docid": 22539,
+            "files": [
+                {
+                  "objectid": 22539,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/90531",
+                  "datasetid": "document",
+                  "filesize": 2685831,
+                  "fileid": 90531,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-05 00:18:04",
+                  "hash": "c967a749da75e5a123e9ca4ff1139e02",
+                  "filename": "Rudy and Septhian.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22539",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9499",
+      "refereed": "TRUE",
+      "event_title": "The 1st International Conference on Sciences and Science Education",
+      "eprintid": 9499,
+      "date_type": "published",
+      "event_location": "Salatiga",
+      "status_changed": "2018-11-06 03:07:26",
+      "eprint_status": "archive",
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "Ni0.9Fe2Co0.1O4 nanomaterial has been prepared using a sol -gel method. Preparation of material was carried out by dissolving nitrate salts of iron, cobalt and nickel, in pectin solution and then the sample was stirred thoroughly using magnetic stirrer while adjusting pH to  11. After freeze-drying process, the sample was subjected to calcination treatment and subsequently characterized using the techniques of X-ray diffraction(XRD), Scherrer Methods, FTIR and DT-TG analysis. The results of XRD characterization\r\nindicated that materials consist of two crystalline phases, such as CoFe2O4 and NiFe2O4. These two crystalline phases are superimposed. DT-TGA result showed that spinel\r\nNi0.9Fe2Co0.1O4formed above 400oC. Then, PSA determination proved that the grain size of spinel ferrites is a range of 30–95.2 nm as much as 21%. Crystallite size calculation\r\nusing the Scherrer equation, proved that the size is 31.95 nm. Its size increased as temperature calcination augmaunted.",
+      "event_dates": "November 2015",
+      "official_url": "http:\/\/fsm.uksw.edu\/iconsee",
+      "title": "Characteristics of nanosize spinel Ni0.9Fe2Co0.1O4\r\nprepared by a sol-gel method using pectin as an emulsifying agent",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show"
+    },
+    {
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6548,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19498",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 747329,
+                  "datasetid": "document",
+                  "hash": "9e9328a2b10411bf97373c228785f4a2",
+                  "filename": "75 Yudiyansyah_Rinawati.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-27 10:04:17",
+                  "mime_type": "application\/pdf",
+                  "fileid": 60504,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60504",
+                  "objectid": 19498
+                }
+            ],
+            "docid": 19498,
+            "main": "75 Yudiyansyah_Rinawati.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6548",
+      "full_text_status": "public",
+      "lastmod": "2018-02-28 08:24:56",
+      "userid": 489,
+      "datestamp": "2018-02-28 08:24:56",
+      "pagerange": "748-761",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yudiyansyah",
+            "honourific": null,
+            "given": "Yudiyansyah"
+          },
+          "id": null
+        },
+        {
+          "id": "rinawati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rinawati",
+            "family": "Rinawati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/65\/48",
+      "date": "2015-11",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "title": "ANALISIS KUALITAS PERAIRAN MUARA SUNGAI WAY TULANG\r\nBAWANG DENGAN PARAMETER TSS DAN KIMIA NON LOGAM",
+      "official_url": "http:\/\/satek.unila.ac.id\/wp-content\/uploads\/2015\/08\/75-Yudiyansyah.pdf",
+      "event_dates": "3 November 2015",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "status_changed": "2018-02-28 08:24:56",
+      "eprint_status": "archive",
+      "abstract": "Estuary of Way Tulang Bawang which located in Dente Teladas subdistrict on Tulang Bawang district is rural area while high amout of people, the usage of river current area (DAS) of Tulang Bawang river area a lots, sorts of plantations activities, industries, cattle breeding, fish farming by using floating net system, meanwhile the river current area are also used not only as solid or liquid of industry activities and domestic wastes, but also as a place where the remains of errotions flows as the impact of forest expansion around river current area. As a result, the water with all of the wastes and sea water will flow into the same estuary whisch will decrease the water quality itself. The objectives of this thesis was to find out the quality of water by using Total Suspended\r\nSolid (TSS) and Non Metal chemistry parameter. The result of the research showed the parameter measurement of COD, DO Nitrat, anda Fosfat in the water of river, estuary and also sea didn’t fulfill the quality standard based on the Degree of The Minister of Environment for Marine Biota (PP No 51 Tahun 2004) it had 3,42 – 4,85 ppm DO, 16,4 – 198,2 ppm, COD, 0,0022 – 0,129 ppm nitrat, and 0,007 – 0,017 ppm fosfat.",
+      "subjects": [
+        "QD"
+      ],
+      "event_location": "Unila",
+      "eprintid": 6548,
+      "event_title": "Seminar Sains dan Teknologi VI Unila",
+      "date_type": "published"
+    }
+]
+

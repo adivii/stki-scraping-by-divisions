@@ -1,0 +1,99 @@
+[
+    {
+      "datestamp": "2023-04-27 00:59:13",
+      "userid": 1027,
+      "lastmod": "2023-04-27 00:59:13",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50775",
+      "full_text_status": "public",
+      "ispublished": "inpress",
+      "publisher": "Faculty of Forestry and Wood Technology, University of Zagreb.",
+      "documents": [
+          {
+            "eprintid": 50775,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 190482,
+            "main": "6_Drv Ind Vol 74 1.pdf similarity DRVN.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 883001,
+                  "mime_type": "application\/pdf",
+                  "fileid": 546994,
+                  "filename": "6_Drv Ind Vol 74 1.pdf similarity DRVN.pdf",
+                  "hash": "bce34596c2664f77f5c057bddaf200e8",
+                  "mtime": "2023-04-26 10:51:04",
+                  "hash_type": "MD5",
+                  "objectid": 190482,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546994"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190482",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FP15"
+      ],
+      "type": "other",
+      "dir": "disk0_bak\/00\/05\/07\/75",
+      "date": "2023-03",
+      "id_number": "https:\/\/doi.org\/10.5552\/drvind.2023.0015",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hidayati",
+            "lineage": null,
+            "given": "Sri"
+          },
+          "id": "srihidayati.unila@gmail.com"
+        },
+        {
+          "id": "subeki1968@fp.unila.ac.id",
+          "name": {
+            "family": "subeki",
+            "honourific": null,
+            "lineage": null,
+            "given": "subeki"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "perdiansyah",
+            "honourific": null,
+            "given": "muhammad"
+          }
+        },
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Sutopo",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hadi"
+          }
+        }
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Waste is generated in the form of black liquor during pulp processing. Furthermore, lignin, the main ingredient of black liquor, contains a phenylpropanoid compound with prebiotic and Antimicrobial Activity. Also, it is a component of lignocelluloseis which is known to have prebiotic and antimicrobial activity effects due to its indigestible nature and it comprises of phenylpropanoid components. Therefore, this study aims to examine and identify the lignin purification and activity test results as a prebiotic. The technique used to identify lingin fraction is called Thin Layer Chromatography (TLC) and Gas Chromatography-Mass Spectrometry (GC-MS) plates. Prebiotic activity tests were performed using the calculation of total bacteria on the growth of Lactobacillus casei. The results showed that the purification process using CHCl3, 3% MeOH:CHCl3, 20% MeOH:CHCl3, and MeOH yielded 10.68%, 6.34%, 11.38% 44.85%, respectively. The 3% MeOH:CHCl3 fraction contained benzaldehyde, 4- hydroxy-3,5-dimethoxy, 1-methtylbutyl hexadecanoate, oleic acid, and di-2- Ethylhexyl phthalate. The 3% MeOH:CHCl3 fractionate with a concentration of 15% also showed a prebiotic activity for L. casei at 6.1 x 102 colonies\/mL",
+      "status_changed": "2023-04-27 00:59:13",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "place_of_pub": "Kroasia",
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.drvnaindustrija.com\/site\/assets\/files\/3373\/6_drv_ind_vol_74_1.pdf",
+      "title": "Similarity DRVN Industrija: The Utilization of Lignin Monomer Isolation Results from Black Liquor of Empty Palm Oil Bunches as A Prebiotic",
+      "date_type": "published",
+      "eprintid": 50775
+    }
+]
+

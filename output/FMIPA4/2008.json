@@ -1,0 +1,319 @@
+[
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1125",
+      "full_text_status": "public",
+      "publisher": "Canadian Center of Science and Education",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 1125,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1007",
+            "main": "MAS_2008_2_6.pdf",
+            "docid": 1007,
+            "files": [
+                {
+                  "objectid": 1007,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7451",
+                  "datasetid": "document",
+                  "filesize": 233994,
+                  "mime_type": "application\/pdf",
+                  "fileid": 7451,
+                  "filename": "MAS_2008_2_6.pdf",
+                  "hash": "97f3a23b8d94c33af99d2c091824d163",
+                  "mtime": "2016-11-10 07:53:44",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "number": 6,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Sutopo",
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null,
+          "name": {
+            "family": "Appleton",
+            "honourific": null,
+            "lineage": null,
+            "given": "T.G."
+          }
+        }
+      ],
+      "pagerange": "30-36",
+      "datestamp": "2016-11-10 09:20:47",
+      "corp_creators": [
+        "Department of Chemistry, University of Lampung",
+        "Department of Chemistry, University of Queensland, Australia"
+      ],
+      "userid": 1093,
+      "lastmod": "2016-11-10 09:20:47",
+      "dir": "disk0\/00\/00\/11\/25",
+      "date": "2008-11-01",
+      "issn": "1913-1844",
+      "creators": [
+        {
+          "name": {
+            "given": "Sutopo",
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "T.G.",
+            "lineage": null,
+            "family": "Appleton",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Modern Applied Science",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 6,
+      "title": "Reactions of trans-[Pt(15NH3)2(H2O)2]\r\n2+ with Glutathione",
+      "official_url": "http:\/\/ccsenet.org\/journal\/index.php\/mas\/index",
+      "abstract": "A study of the reaction between trans-[Pt(15NH3)2(H2O)2](NO3)2 and glutathione (GSH) was undertaken to confirm the\r\nidentity of the products formed. In alkaline solution, the platinum products observed were mononuclear species, while\r\nin acidic solution, the oligomeric products were products obtained. The mass spectrometry of the reaction in alkaline\r\nsolution showed a sulfur-bridged dinuclear platinum(II) species, trans-[{Pt(SG)2(\r\n15NH3)2}2(SG)]+\r\n giving m\/z 1380 and\r\nthe lost of two ammines was observed.",
+      "subjects": [
+        "QD"
+      ],
+      "status_changed": "2016-11-10 09:20:47",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 1125
+    },
+    {
+      "eprintid": 1568,
+      "date_type": "published",
+      "title": "Synthesis, Characterization and Thermal Stability\r\nof Complex cis�[Co(bipy)2(CN)2] and Its Interaction with NO2 Gas",
+      "official_url": "http:\/\/link.springer.com\/article\/10.1134\/S0036023611030181",
+      "volume": 56,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-04-28 06:56:18",
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "Abstract—cis�[Co(bipy)2(CN)2] complex was successfully prepared from the reaction of [Co(CN)2] with 2,2'�\r\nbipyridine in ethanol 96%. The product of complex synthesized was light brown crystal with percent yield of\r\n75.86%. The IR spectrum of this complex showed strong characteristics vibration band at 1471.9 and\r\n1442.75 cm–1 for C=N stretching, 1664.57 cm–1 for C=C aromatic, 1600.9 cm–1 1 for HC=CH aromatic, 653.87 cm–1 for pyridine ring on 2,2'�bipyridine ligand, 3109.25 and 3080.32 cm–1 for C–H of aromatic ring. The thermogram of DTA–TG analysis showed 4 endothermic peaks at temperature of 53.4, 323.2, 444.2, and 526.4°C, where the bond breaking of the complex occurred at different temperatures. The result of moment magnet measurement of the complex showed that it was a high spin complex with moment magnet value of 3.68 BM, so it is a paramagnetic complex.",
+      "publication": "Russian Journal of Inorganic Chemistry,",
+      "issn": "0036�0236",
+      "creators": [
+        {
+          "name": {
+            "given": "Mita",
+            "family": "Rilyanti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "mita_rilyanti@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Hadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sutopo"
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2008-10-09",
+      "dir": "disk0\/00\/00\/15\/68",
+      "type": "article",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Pleiades Publishing",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1568,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1441",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 239066,
+                  "fileid": 10898,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-04-28 00:15:54",
+                  "hash": "9764eee2ad30e24be5afe6a7b087f90f",
+                  "filename": "RJIC418mita.pdf",
+                  "objectid": 1441,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10898"
+                }
+            ],
+            "main": "RJIC418mita.pdf",
+            "docid": 1441
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1568",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "lastmod": "2017-04-28 06:56:18",
+      "userid": 682,
+      "pagerange": "418-421",
+      "datestamp": "2017-04-28 06:56:18"
+    },
+    {
+      "status_changed": "2018-02-28 08:25:04",
+      "title": "PROFIL LOGAM BERAT (Cd, Co, Cr, Cu, Fe, Mn, Pb dan Zn) DI PERAIRAN SUNGAI KURIPAN MENGGUNAKAN ICP-OES",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "funders": [
+        "Direktorat Jenderal Pendidikan Tinggi Depdiknas",
+        "Lembaga Penelitian Universitas Lampung",
+        "Pemprov Lampung"
+      ],
+      "creators": [
+        {
+          "id": "rinawati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rinawati",
+            "family": "Rinawati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "r.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null,
+            "given": "Supriyanto"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Widya S",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dewi"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/65\/50",
+      "userid": 489,
+      "pagerange": "357-365",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19500",
+            "rev_number": 1,
+            "docid": 19500,
+            "main": "PROFIL LOGAM BERAT (Cd, Co, Cr, Cu, Fe, Mn, Pb dan Zn) DI PERAIRAN SUNGAI KURIPAN.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60516",
+                  "objectid": 19500,
+                  "filesize": 690305,
+                  "datasetid": "document",
+                  "filename": "PROFIL LOGAM BERAT (Cd, Co, Cr, Cu, Fe, Mn, Pb dan Zn) DI PERAIRAN SUNGAI KURIPAN.pdf",
+                  "hash": "bd68f5245f34517ca9d7da88bce82d80",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-28 07:41:44",
+                  "mime_type": "application\/pdf",
+                  "fileid": 60516
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6550,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6550",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "event_title": "Seminar Nasional Sains dan Teknologi-II",
+      "eprintid": 6550,
+      "date_type": "published",
+      "projects": [
+        "Peran Strategis Sains dan Teknologi Pasca 100 Tahun Kebangkitan Nasional"
+      ],
+      "event_location": "Universitas Lampung",
+      "eprint_status": "archive",
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "Sungai Kuripan merupakan sumber utama air bersih bagi sebagian besar warga Bandar Lampung. Adanya berbagai aktivitas masyarakat di sekitar sungai tersebut menimbulkan\r\npotensi pencemaran diantaranya pencemaran logam berat. Selama ini data kadar logam berat pada perairan sebagai bagian dari parameter fisik dan kimia suatu perairan, ditentukan langsung dari perairannya. Namun sering data kadar logam berat tersebut tidak mencerminkan tingkat\r\npencemaran dan bahaya yang sesungguhnya pada makhluk hidup. Untuk menjaga kualitas air minum sungai tersebut diperlukan dukungan monitoring lingkungan yang terus menerus degnan\r\nadanya data pada air, sedimen dan bioindikator. Dalam penelitian ini telah dilakukan penentuan logam berat Cd, Co, Cr, Cu, Fe, Mn, Pb dan Zn pada air, sedimen dan remis (Eremopyrgus eganensis) di perairan sungai Kuripan. Penentuan logam berat dilakukan dengan menggunakan\r\nmetode analisis secara simultan dengan Inductively Coupled Plasma-Optical Emission Spectrofotometry (ICP-OES). Hasil penelitian menunjukkan kadar rerata logam berat yang\r\nterdeteksi di air yaitu Fe, Mn dan Co pada sampling 1 berturut-turut sebesar 11.835; 1,312; dan 0.049 ppm. Hasil analisis juga menunjukkan terjadinya bioakumulasi logam berat pada sedimen dan remis yang terlihat dengan kadar logam berat yang lebih tinggi pada kedua matriks tersebut.\r\nKualitas air pada sungai Kuripan berdasarkan pH, DO, dan suhu masih tergolong baik.",
+      "event_dates": "17-18 November 2008",
+      "event_type": "conference",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "date": "2008-11-17",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "lastmod": "2018-02-28 08:25:04",
+      "datestamp": "2018-02-28 08:25:04",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ]
+    }
+]
+

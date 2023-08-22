@@ -1,0 +1,103 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ranti Vidia",
+            "lineage": null,
+            "honourific": null,
+            "family": "Mahyunis"
+          }
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nuryaman",
+            "given": "Aang"
+          },
+          "id": "aang.nuryaman@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "2406-7857",
+      "publication": "Kumpulan JurnaL Ilmu Komputer (KLIK)",
+      "dir": "disk0_bak\/00\/04\/96\/01",
+      "date": "0223-02-01",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 49601,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189234",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537842",
+                  "objectid": 189234,
+                  "filesize": 522296,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-03 22:50:33",
+                  "filename": "Implementation of ANN Using BP Algorithm by Comparing Four Activation Function in Predicting Gold Prices.pdf",
+                  "hash": "780d2f6218dc7167527af04e2e4b3703",
+                  "fileid": 537842,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Implementation of ANN Using BP Algorithm by Comparing Four Activation Function in Predicting Gold Prices.pdf",
+            "docid": 189234
+          }
+      ],
+      "publisher": "the Computer Science Study Program at the University of Lambung Mangkurat",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49601",
+      "full_text_status": "public",
+      "lastmod": "2023-04-04 00:56:38",
+      "userid": 752,
+      "pagerange": "93-105",
+      "datestamp": "2023-04-04 00:56:38",
+      "eprintid": 49601,
+      "date_type": "published",
+      "official_url": "http:\/\/klik.ulm.ac.id\/index.php\/klik\/index",
+      "title": "IMPLEMENTATION OF ARTIFICIAL NEURAL NETWORK (ANN) USING BACKPROPAGATION ALGORITHM BY COMPARING FOUR ACTIVATION FUNCTIONS IN PREDICTING GOLD PRICES",
+      "metadata_visibility": "show",
+      "volume": 10,
+      "rev_number": 7,
+      "status_changed": "2023-04-04 00:56:38",
+      "eprint_status": "archive",
+      "abstract": "The trend in global currency values is speedy and fluctuating due to the recession caused\tby the Covid-19 pandemic. That causes investors\tto flock to buy gold assets.\tTherefore, it is necessary to predict the price\tof gold\tfrom\ta business and academic\tperspective to obtain a\treasonable gold price prediction model. This study applies\tthe Backpropagation\tAlgorithm by determining the best ANN model\tstructure based on four activation functions: Sigmoid, Tanh, ReLU, and Linear, as well as learning rate values, namely 0.01 and 0.001. The results are\tthe best ANN model structure with four nodes in the input layer, four nodes in the hidden layer and the output layer using the Linear activation function and a learning rate of 0.01. Based on the structure\tof the model, the MSE value is 0.00051, the MAPE value is 1.9798%, and the accuracy is 98%.\r\nKeywords: Artificial Neural Network, Backpropagation, Gold Price Prediction, Activation Function, Model Structure.",
+      "subjects": [
+        "QA76"
+      ]
+    }
+]
+

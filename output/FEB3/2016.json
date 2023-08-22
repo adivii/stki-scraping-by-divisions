@@ -1,0 +1,118 @@
+[
+    {
+      "divisions": [
+        "FEB3",
+        "FEB6"
+      ],
+      "series": "Edisi Pertama",
+      "type": "book",
+      "pages": 0,
+      "date": "2016-11",
+      "datestamp": "2017-11-07 08:06:44",
+      "corp_creators": [
+        "expert"
+      ],
+      "lastmod": "2017-11-07 08:06:44",
+      "publisher": "expert",
+      "number": 1,
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 4739,
+      "abstract": "Ilmu keuangan keperilakuan (behavior finance) merupakan cabang ilmu keuangan yang mempelajari perilaku investor tidak rasional di bursa saham. Salah satu bahasan dalam behavior finance adalah perilaku overconfident. Perilaku overconfident mencerminkan perilaku penipuan diri (self deception) karena investor overconfident biasanya memberi penilaian yang berlebih pada ketepatan pengetahuan dan  informasi yang dimiliki dan mengabaikan informasi lain yang tersedia sehingga \tmenimbulkan persepsi bahwa investor memiliki kemampuan diatas rata-rata. Fakta menunjukkan bahwa perilaku overconfident menghasilkan keputusan yang bias dan tidak akurat. Keputusan yang tidak akurat menyebabkan kerugian karena saham dibeli lebih tinggi atau  saham dijual lebih rendah dari harga fundamentalnya.",
+      "subjects": [
+        "H1",
+        "HB",
+        "HC",
+        "HJ"
+      ],
+      "eprint_status": "archive",
+      "place_of_pub": "Bandar Lampung",
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "contact_email": "mahapaksi@yahoo.com",
+      "dir": "disk0\/00\/00\/47\/39",
+      "creators": [
+        {
+          "name": {
+            "given": "Mahatma",
+            "lineage": null,
+            "family": "Kufepaksi",
+            "honourific": null
+          },
+          "id": "mahapaksi@yahoo.com"
+        }
+      ],
+      "userid": 1084,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4739",
+      "documents": [
+          {
+            "eprintid": 4739,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 17656,
+            "main": "PERILAKU PENIPUAN DIRI DI BURSA SAHAM.docx",
+            "files": [
+                {
+                  "objectid": 17656,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46289",
+                  "datasetid": "document",
+                  "filesize": 14724,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 46289,
+                  "hash": "0085a7726fd437513e40520b6529534c",
+                  "filename": "PERILAKU PENIPUAN DIRI DI BURSA SAHAM.docx",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 08:19:12"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17656"
+          },
+          {
+            "format": "image",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17657",
+            "rev_number": 1,
+            "docid": 17657,
+            "main": "cover.jpg",
+            "files": [
+                {
+                  "mime_type": "image\/jpeg",
+                  "fileid": 46292,
+                  "hash": "33b022fe78b6d861c0eb26a4399d9ec6",
+                  "filename": "cover.jpg",
+                  "mtime": "2017-11-06 08:19:31",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 4092906,
+                  "objectid": 17657,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46292"
+                }
+            ],
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "eprintid": 4739,
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "isbn": "978-602-18166-1-5",
+      "related_url": [
+        {
+          "url": "http:\/\/www.mediaakademi.com",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2017-11-07 08:06:44",
+      "metadata_visibility": "show",
+      "rev_number": 16,
+      "volume": "25 cm",
+      "title": "PERILAKU PENIPUAN DIRI DI BURSA SAHAM"
+    }
+]
+

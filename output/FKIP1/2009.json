@@ -1,0 +1,151 @@
+[
+    {
+      "datestamp": "2019-01-29 04:18:31",
+      "pagerange": "75-83",
+      "lastmod": "2019-01-29 04:18:31",
+      "userid": 76,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10512",
+      "full_text_status": "public",
+      "publisher": "Balai Bahasa Lampung",
+      "documents": [
+          {
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10512,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23527",
+            "format": "image",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "image\/jpeg",
+                  "fileid": 97440,
+                  "filename": "kelasa.jpg",
+                  "hash": "2a2b19c463f055a0e38fc8eb6c0da7bc",
+                  "hash_type": "MD5",
+                  "mtime": "2019-01-02 07:53:18",
+                  "datasetid": "document",
+                  "filesize": 1347043,
+                  "objectid": 23527,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97440"
+                }
+            ],
+            "main": "kelasa.jpg",
+            "docid": 23527
+          }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP1"
+      ],
+      "type": "article",
+      "date": "2009-06-01",
+      "dir": "disk0\/00\/01\/05\/12",
+      "issn": "1907-7165",
+      "creators": [
+        {
+          "name": {
+            "given": "Feni",
+            "family": "Munifatullah",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Kelasa",
+      "abstract": "This paper describes how employees choose the term of address among the employees at the same work position to the employees who have a lower or higher position. Data are gained from open-ended questionnaires distributed to ten offices from different fields. Each office provides ten respondents. Analysisi is conducted from pragmatic and sociolinguistic point of views.",
+      "subjects": [
+        "LB2300"
+      ],
+      "status_changed": "2019-01-29 04:18:31",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 4,
+      "title": "Sapaan Antar Karyawan Instansi: Kajian Sosiolinguistik",
+      "official_url": "http:\/\/english.fkip.unila.ac.id\/",
+      "date_type": "published",
+      "eprintid": 10512
+    },
+    {
+      "divisions": [
+        "FKIP1"
+      ],
+      "contact_email": "ujang.suparman@fkip.unila.ac.id",
+      "type": "article",
+      "dir": "disk0\/00\/02\/86\/84",
+      "date": "2009-06-01",
+      "publication": "Jurnal Pendidikan Bahasa Edu-Lingua",
+      "creators": [
+        {
+          "name": {
+            "given": "Ujang",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suparman"
+          },
+          "id": "ujang.suparman@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "1979-5718",
+      "datestamp": "2021-03-29 09:03:46",
+      "pagerange": "1-32",
+      "userid": 783,
+      "lastmod": "2021-03-29 09:03:46",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28684",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 42739,
+            "main": "Increasing Students' Reafing Achievement Using Collaborative Reading Strategy (CRS) at Second Year Students of Onr of State SMPS in Lampung Province.pdf",
+            "files": [
+                {
+                  "filesize": 11601102,
+                  "datasetid": "document",
+                  "mtime": "2021-03-29 08:22:35",
+                  "hash_type": "MD5",
+                  "hash": "3efaf7939a631e01441af1315d95d7b5",
+                  "filename": "Increasing Students' Reafing Achievement Using Collaborative Reading Strategy (CRS) at Second Year Students of Onr of State SMPS in Lampung Province.pdf",
+                  "fileid": 254508,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254508",
+                  "objectid": 42739
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42739",
+            "rev_number": 1,
+            "eprintid": 28684,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date_type": "completed",
+      "eprintid": 28684,
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-03-29 09:03:46",
+      "volume": 2,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Increasing Students' Reafing Achievement Using Collaborative Reading Strategy (CRS) at Second Year Students of Onr of State SMPS in Lampung Province"
+    }
+]
+

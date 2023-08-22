@@ -1,0 +1,216 @@
+[
+    {
+      "divisions": [
+        "FMIPA4"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/05\/10\/39",
+      "date": "2023-04-30",
+      "publication": "Analit: Analytical and Environmental Chemistry",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Zipora"
+          },
+          "id": "zipora_sembiring@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ambarwati",
+            "honourific": null,
+            "given": "Yuli"
+          },
+          "id": "yuli.ambarwati@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "2540-8267",
+      "datestamp": "2023-05-04 01:37:34",
+      "pagerange": "21-32",
+      "lastmod": "2023-05-04 01:37:34",
+      "userid": 1114,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51039",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "eprintid": 51039,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 190754,
+            "main": "Artikel terbit 1 april2023.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 271669,
+                  "mime_type": "application\/pdf",
+                  "fileid": 548914,
+                  "filename": "Artikel terbit 1 april2023.pdf",
+                  "hash": "991ba822ffaa36129650a99c625b2d9f",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-03 22:14:12",
+                  "objectid": 190754,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548914"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190754"
+          }
+      ],
+      "publisher": "Jurusan Kimia FMIPA Universitas Lampung",
+      "date_type": "published",
+      "eprintid": 51039,
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "ABSTRACT\r\nSynthesis and characterization of Fe(II) complex with Schiff base ligand of 4-dimethylamino \r\nbenzaldehyde and aniline has been carried out with a concentration ratio of 1:1. The resulting \r\nSchiff base crystal is orange with a yield of 78%. The synthesis of Fe(II) complex compound\r\nproducing yellow crystals with a yield of 86%. Analysis using UV-Vis spectrophotometer \r\nshowed a maximum wavelength in the transition region π* from basic azometina group of \r\nSchiff by 355 to 565 nm after complexing. DTA TGA analysis showed three times the weight \r\nloss, the first mass loss at a temperature of 200-276.7oC of 10.09%, the second mass loss occurs \r\nat a temperature of 276.7-379oC by 85% which, and mass loss occurs at a temperature of 389.4 \r\n– 600.4oC by 15% which loses one molecule of Fe2O3 which is a residue of 17.29% , DSSC \r\ntest results obtained strong current and the voltage has the highest efficiency of 2.086%.\r\nKeyword: Synthesis, characterization, Fe(II) complex, azomethine, crystal.",
+      "status_changed": "2023-05-04 01:37:34",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/dx.doi.org\/10.23960%2Faec.v8i01.2023.p21-32.",
+          "type": "author"
+        }
+      ],
+      "volume": 8,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Synthesis and Characterization of Fe(II) Complex Compounds with \r\nSchiff Base Ligands of 4-Dimethylamino Benzaldehyde and Aniline \r\nas Dye Sensitized in Dye Sensitized Solar Cell (DSSC)",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/analit\/issue\/view\/149"
+    },
+    {
+      "eprintid": 51013,
+      "date_type": "published",
+      "status_changed": "2023-05-03 08:53:49",
+      "eprint_status": "archive",
+      "abstract": "The low cost and ease of production have led to widespread adoption of dye-sensitized solar cells (DSSCs). Therefore, this study aims to\r\nsynthesize Schiff base compounds from salicylaldehyde and ethylenediamine as a sensitizer in DSSC. The Shiff base compound was\r\nsynthesized using the condensation method with mol ratio of 1:1 and the results showed yellow crystals with a yield of 81.14%. Furthermore,\r\nthe UV-Vis spectrometer analysis showed that the Schiff base compound has bathochromic shift with a maximum wavelength change from\r\n324 and 328 nm to 335 nm with transition n→π, while the IR spectrum at wavenumber of 1610 cm-1 indicated the presence of an azomethine\r\ngroup (–C=N–). The TG-DTA analysis showed a mass loss stage of the Schiff base molecule at 97.2% in the temperature range of 180-\r\n300 ºC. Based on UV-Vis, IR and TG-DTA data, the synthesized Schiff base has the potential to be used as a sensitizer in DSSC. The\r\nfabrication was then carried out using two variations of semiconductor namely TiO2 and ZnO, three variations of PEG gel electrolyte with\r\n0.05 M, 0.1 M and 0.15 M, as well as three counter electrodes including graphite from a pencil, candle flame and a combination of both.\r\nBased on the results, DSSC based on TiO2 semiconductor with 0.15 M PEG gel electrolyte and candle flame counter electrode produced\r\nthe highest efficiency of 0.29 % with maximum voltage (Vmax) of 370 mV and maximum current strength (Imax) of 0.8 mA.\r\nKeywords: Counter electrode, DSSC, Schiff base, Sensitizer",
+      "subjects": [
+        "QD"
+      ],
+      "title": "Effect of Gel Electrolyte, Paste and Electrode on the Efficiency of\r\nDye-Sensitized Solar Cell using Schiff Base Dye Compound",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 35,
+      "type": "article",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "issn": "ISSN: 0975-427X (Online)",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Zipora"
+          },
+          "id": "zipora_sembiring@yahoo.com"
+        },
+        {
+          "id": "syaiful.bahri@fmipa.unila.ac.id",
+          "name": {
+            "given": "Syaiful",
+            "honourific": null,
+            "family": "Bahri",
+            "lineage": null
+          }
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "given": "Wasinton",
+            "lineage": null,
+            "family": "Simanjuntak",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Rinawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rinawati"
+          },
+          "id": "rinawati@fmipa.unila.ac.id"
+        },
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Sutopo"
+          }
+        }
+      ],
+      "publication": "https:\/\/doi.org\/10.14233\/ajchem.2023.24039",
+      "date": "2023-01-30",
+      "dir": "disk0_bak\/00\/05\/10\/13",
+      "lastmod": "2023-05-03 08:53:49",
+      "userid": 1114,
+      "pagerange": "316-320",
+      "datestamp": "2023-05-03 08:53:49",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548730",
+                  "objectid": 190725,
+                  "filesize": 593892,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-03 07:33:20",
+                  "filename": "Artikel Internasional terbit penulis I 2023.pdf",
+                  "hash": "d6a96a1316c72267f98f334d169a7d1c",
+                  "fileid": 548730,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Artikel Internasional terbit penulis I 2023.pdf",
+            "docid": 190725,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190725",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51013,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Asian Publication Corporation",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51013",
+      "full_text_status": "public"
+    }
+]
+

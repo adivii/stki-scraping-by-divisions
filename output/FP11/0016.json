@@ -1,0 +1,114 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 40924,
+      "subjects": [
+        "SD"
+      ],
+      "abstract": "Hasil Penilaian Peer Riview Pengalaman Baik Mengelola Rusa Di Universitas Lampung",
+      "status_changed": "2022-04-01 01:04:09",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Hasil Penilaian Peer Riview Pengalaman Baik Mengelola Rusa Di Universitas Lampung",
+      "divisions": [
+        "FP11"
+      ],
+      "type": "other",
+      "date": "0016-03-22",
+      "dir": "disk0\/00\/04\/09\/24",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Dewi",
+            "lineage": null,
+            "given": "Bainah Sari"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fitriana",
+            "honourific": null,
+            "given": "Yulia Rahma"
+          },
+          "id": "yulia.fitriana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Asep",
+            "honourific": null,
+            "family": "Sukohar",
+            "lineage": null
+          },
+          "id": "asepsukohar@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Harianto",
+            "honourific": null,
+            "given": "Sugeng Prayitno"
+          },
+          "id": "sugeng.prayitno@fp.unila.ac.id"
+        },
+        {
+          "id": "irwanbanuwa@yahoo.com",
+          "name": {
+            "given": "Irwan Sukri",
+            "family": "Banuwa",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Maritona",
+            "lineage": null,
+            "given": "Santa Togi"
+          },
+          "id": null
+        }
+      ],
+      "datestamp": "2022-04-01 01:04:09",
+      "lastmod": "2022-04-01 01:04:09",
+      "userid": 469,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40924",
+      "ispublished": "pub",
+      "publisher": "Kemenkumham RI",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 40924,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162319",
+            "docid": 162319,
+            "main": "Peer Pengalaman Baik Mengelola Rusa.pdf",
+            "files": [
+                {
+                  "objectid": 162319,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454919",
+                  "fileid": 454919,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-03-31 10:13:40",
+                  "hash_type": "MD5",
+                  "hash": "d5f0c3eea3dd592150cec60543aeffd9",
+                  "filename": "Peer Pengalaman Baik Mengelola Rusa.pdf",
+                  "datasetid": "document",
+                  "filesize": 464859
+                }
+            ]
+          }
+      ]
+    }
+]
+

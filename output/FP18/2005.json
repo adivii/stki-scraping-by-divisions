@@ -1,0 +1,106 @@
+[
+    {
+      "publication": "Energy and Fuels",
+      "creators": [
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Fernando",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sandun D."
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Naveen",
+            "family": "Murali",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sushil",
+            "lineage": null,
+            "family": "Adhikari",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2005,
+      "dir": "disk0\/00\/00\/07\/40",
+      "id_number": "10.1021\/ef0500538",
+      "type": "article",
+      "divisions": [
+        "FP18"
+      ],
+      "ispublished": "pub",
+      "number": 5,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 740,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/637",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 637,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4265",
+                  "datasetid": "document",
+                  "filesize": 146733,
+                  "fileid": 4265,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-11 03:29:38",
+                  "filename": "Paper 01 EF ETHANOL STEAM REFORMING.pdf",
+                  "hash": "751f5b896bbcbed9be6774f648e726d2"
+                }
+            ],
+            "main": "Paper 01 EF ETHANOL STEAM REFORMING.pdf",
+            "docid": 637
+          }
+      ],
+      "publisher": "American Chemical Society",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/740",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "University of Lampung",
+        "Mississippi State University"
+      ],
+      "lastmod": "2016-11-04 03:23:48",
+      "userid": 988,
+      "datestamp": "2016-10-13 15:35:18",
+      "pagerange": "2098-2106",
+      "eprintid": 740,
+      "date_type": "published",
+      "title": "Current Status of Hydrogen Production Techniques by Steam Reforming of Ethanol: A Review",
+      "rev_number": 12,
+      "volume": 19,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-10-13 15:35:18",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "Hydrogen is considered to be the most viable energy carrier for the future. Producing hydrogen from ethanol steam reforming would not only be environmentally friendly but also would open new opportunities for utilization of renewable resources, which are globally available. This paper reviews the current state of the steam reforming process of ethanol, examines different catalysts, and, finally, makes a comparative analysis. Different catalysts have been used for the steam reforming of ethanol. Depending on the type of catalysts, reaction conditions, and the catalyst preparation method, ethanol conversion and hydrogen production vary greatly. It was observed that Co\/ZnO, ZnO, Rh\/Al2O3, Rh\/CeO2, and Ni\/La2O3-Al2O3 performed the best, in regard to the steam reforming of ethanol. Currently, hydrogen production from ethanol steam reforming is still in the research and development stage."
+    }
+]
+

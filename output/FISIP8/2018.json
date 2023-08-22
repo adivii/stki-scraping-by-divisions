@@ -1,0 +1,181 @@
+[
+    {
+      "divisions": [
+        "FISIP8"
+      ],
+      "funders": [
+        "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung"
+      ],
+      "type": "conference_item",
+      "date": "2018-09-09",
+      "dir": "disk0\/00\/01\/02\/61",
+      "creators": [
+        {
+          "name": {
+            "given": "Gita Paramita",
+            "honourific": null,
+            "family": "Djausal",
+            "lineage": null
+          },
+          "id": "gitadjausal@gmail.com"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "honourific": null,
+            "family": "."
+          }
+        }
+      ],
+      "datestamp": "2018-11-19 04:17:02",
+      "lastmod": "2018-11-19 04:17:02",
+      "userid": 1199,
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10261",
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 10261,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23262",
+            "rev_number": 1,
+            "main": "Meizano_A_Muhammad-UX-Aksara-Lampung.pdf",
+            "docid": 23262,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/95772",
+                  "objectid": 23262,
+                  "filesize": 412191,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-18 02:57:17",
+                  "filename": "Meizano_A_Muhammad-UX-Aksara-Lampung.pdf",
+                  "hash": "7fed3d3ca22c317ee4e622921c58950b",
+                  "fileid": 95772,
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 10261,
+      "event_title": "International Indonesia Conference on Interdisciplinary Studies (IICIS) FISIP UNILA",
+      "event_location": "Novotel, Bandar Lampung",
+      "projects": [
+        "Prototype R&D Unila: Purwarupa Papan Kunci Mekanik Aksara Lampung"
+      ],
+      "abstract": "Ancient lampungnese used Lampung character to write. Nowadays, although lampungnese still use lampung languange to communicate, lampung character role became smaller, used only as a cultural ornament. Development of Lampung character font (Meizano & Martinus, 2015) were meant to rejuvenate people interest, specially lampungnese, in using lampung character as a way to communicate using computer based media. The font were tested in against expert, and received favorable review. But, to make the font available conveniently for public, it must be put on computer based system such as desktop pc, smartphone and tablet from the get go. One way to provide this convenient is by proposing the font to the Unicode standard. If the Lampung character included in Unicode standard, the font can be used directly without having to install a separate font file. Character included in Unicode standard should be the best version because once it's included, it is hard to revise. To create the best version of Lampung character, user experience (UX) must be measured, to make sure there are no liability in Lampung character that will be proposed to Unicode standard. Method in designing UX used to create a better UX for lampung character. There are four step in designing UX, first: Requirement Gathering, second: Alternative Design, third: Prototyping, and, last: Evaluation. After the evaluation, if the targeted UX still not achieved, the process iterate. The evaluation shows there are room for improvement. Based on data, there are some refinement need to be done to achieve a better UX. A larger default character and some refinement on typography. The font itself manage to achieve a favorable review on usable and useful aspect of UX. On it's own, user mostly agreed this lampung character have to be spread out more, in order to support the local value and uniqueness of Lampung.",
+      "subjects": [
+        "PI",
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-11-19 04:17:02",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "official_url": "http:\/\/iicis.fisip.unila.ac.id\/",
+      "title": "Lampung Character as Culture Preservation in Digital Era",
+      "event_dates": "9-10 September 2018"
+    },
+    {
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 43925,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 1262002,
+                  "datasetid": "document",
+                  "mtime": "2022-08-04 13:04:28",
+                  "hash_type": "MD5",
+                  "hash": "df008ff45978b02860335e5314331dfb",
+                  "filename": "Prosiding IICIS ISIS Contruction.pdf",
+                  "fileid": 478132,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/478132",
+                  "objectid": 165906
+                }
+            ],
+            "main": "Prosiding IICIS ISIS Contruction.pdf",
+            "docid": 165906,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165906",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43925",
+      "refereed": "TRUE",
+      "lastmod": "2022-08-05 02:11:15",
+      "userid": 1185,
+      "pagerange": "256-266",
+      "datestamp": "2022-08-05 02:11:15",
+      "creators": [
+        {
+          "id": "gita.karisma@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Gita Karisma",
+            "lineage": null,
+            "given": "GK"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Tety Rachmawati",
+            "honourific": null,
+            "given": "Tety"
+          },
+          "id": "tety.rachmawati@fisip.unila.ac.id"
+        }
+      ],
+      "date": "2018-08-08",
+      "dir": "disk0\/00\/04\/39\/25",
+      "type": "conference_item",
+      "divisions": [
+        "FISIP8"
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/23637\/1\/Prosiding%20IICIS%20Children%20Rights.pdf",
+      "title": "ISIS’s IDENTITY CONSTRUCTION THROUGH \"YOUTUBE\"\r\n(Case Study in Indonesia)",
+      "referencetext": "Does ISIS Really Follow the Salafi Version of Islamic Law and Ideology, followed by\r\nhttps:\/\/www.washingtoninstitute.org\/policy-analysis\/view\/does-isis-really-follow-the-salafiversion-of-islamic-law -and-theology, accessed on August 19, 2018\r\nEfraim Benmelech And Estaban S Chlor, What Explains The Flow Of Foreign Fighters To Isis?,\r\nNational Bureau Of Economic Research 1050 Massachusetts Avenue Cambridge, p. 1\r\nHumphrey Wangke, 2017, pp. 6-8 downloaded from\r\nhttp:\/\/berkas.dpr.go.id\/puslit\/files\/info_singkat\/Info%20Singkat-IX-12-II-P3DI-Juni-2017-\r\n170.pdf, on August 23, 2018\r\nIndonesia and Islamic State Threat, downloaded from\r\nhttps:\/\/thediplomat.com\/2017\/03\/indonesia-and-the-islamic-state-threat\/, on August 11,\r\n2018\r\nInstitute for Policy Analysis of conflicting (IPAC) Report. 2015. Accessible through\r\nhttp:\/\/file.understandingconflict.org\/file\/2015\/10\/IPAC_24_Online_Activism_Social_Media.pd\r\nf. Page 1\r\nInternational terrorism, downloaded from\r\nhttp:\/\/repository.unpar.ac.id\/bitstream\/handle\/123456789\/823\/LPD_Sukawarsini%20Djelanti\r\nSTATE AND DIGITAL SOCIETY\r\n266\r\nk_Terorisme%20Internasional%20dan%20Fen-p.pdf?seque n ce = 1 & isAllowed = y , on\r\nAugust 22, 2018\r\nISIS Origin Ideology and Responses by Mainstream Muslim Scholars, downloaded from\r\nhttps:\/\/static1.squarespace.com\/static\/55120ecae4b01593abadc441\/t\/58fe89feff7c5003d9ac\r\nbd86\/1493076481168\/ISIS_Origins%2C-Ideology%2C-and-Responses-by-MainstreamMuslim- S cholars.pdf. P. 15\r\nJames. D. Fearon. 1999. What is Identity: As We Know Use the World is accessed through\r\nhttps:\/\/web.stanford.edu\/group\/fearon-research\/cgi-bin\/wordpress\/wpcontent\/uploads\/2013\/10\/What-is- Identity-as-we-now-use-the-word-.pdf, p.8-9.\r\nJulian Richards. 2017. Extremism, Radicalization and Security: An Identity Theory Approach. United\r\nKingdom: University of Buckingham Buckingham, p.36\r\nKate Miriam Loewenthai in Rusi Jaspal and Glynis M. Breakwell. 2014. Identity Process Theory:\r\nIdentity, Social Action and Social Change. New York: Cambridge University Press. p. 316.\r\nMajid Alfifi, Parisa Kaghazgaran, and James Caverlee, Measuring the Impact of ISIS Social Media\r\nStrategy, downloaded from http:\/\/snap.stanford.edu\/mis2\/files\/MIS2_paper_23.pdf, on\r\nAugust 10, 2018\r\nMartin Evans, May 5, 2018, Facebook Accused of Introducing Extremists To One Another Through\r\n'Suggested Friends' Feature, downloaded from\r\nhttps:\/\/www.telegraph.co.uk\/news\/2018\/05\/05\/facebook-accused-introducing-e xtremistsone-another-suggested \/ on August 9, 2018\r\nPeter J. Burke and Jan E. Stets. 2009. Identity Theory. New York: Oxford University Press, p.3\r\nPoltak Partogi Nainggolan. The threat of ISIS \/ IS in Indonesia, downloaded from\r\nhttp:\/\/berkas.dpr.go.id\/puslit\/files\/hasil_peneliti\/hasil-peneliti-92.pdf, on 11 August 2018\r\nSheldrake, 2007, pp. 1–2 in Op, .cit, Kate Miriam Loewenthai in Rusi Jaspal and Glynis M.\r\nBreakwell., P. 317.\r\nStefano Tijerina, The Role of The Media in Global Politics, 4 February 2017, downloaded from\r\nhttp:\/\/glocal.bangordailynews.com\/2017\/02\/04\/home\/the-role-of-the-media-in-globalpolitics \/ accessed on 8 August 2018\r\nTen Terrorist Groups Are Responsible For The Highest Number Of Attacks In 2015 Worldwide,\r\ndownloaded from https:\/\/www.statista.com\/statistics\/517683\/ten-most-violent-terroristgroups-2015-by-number-of-attacks\/ , on August 8, 2018\r\nTim Lister, et al, ISIS Goes Global: 143 Attacks in 29 Countries Have Killed 2,043, downloaded from\r\nhttps:\/\/edition.cnn.com\/2015\/12\/17\/world\/mapping-isis-attacks-around-the -world \/\r\nindex.html on August 10, 2018\r\nThe Children of ISIS, The Indonesian of Minors In ISIS Held Territory, is downloaded from\r\nhttps:\/\/english.nctv.nl\/...\/WEB_102525_The_Children_of_ISIS_tcm32-257646.pdf, on August\r\n19, 2018",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-08-05 02:11:15",
+      "subjects": [
+        "JZ"
+      ],
+      "abstract": "The Post-Cold War turning to globalizations era, evokes a variety of issues, particularly, identity\r\nand religion. Some scholars state strongly the relations between religion and identity. Some, not\r\nall, religious actors demonstrate terrorism trait and performed symbol which is identically close to\r\nIslam. One of the phenomenons of Islamist terrorism is Islamic State in Iraq and Syria (ISIS). ISIS\r\nwas known as terrorist bringing Islamic doctrine that has mission to jihad (holy struggle). Islam is\r\nnot different with other religions; it promotes peace and harmony in the world. On the contrary,\r\nISIS spreads fear and intimidation. ISIS has been using digital media such as Youtube to spread its\r\nidea and doctrine. This article attempted to describes ISISs identity construction through Youtube.\r\nThe method was using qualitative approach and data collection technique was literature study.\r\nThe result of this paper described a process of building up ISIS identity cross national border and\r\nexplained how could ISIS convince and recruit member beyond the state through Youtube.\r\nKeyword: Identity, ISIS, Youtube, Indonesia",
+      "event_title": "International Indonesia Conference on Interdisciplinary Studies Lampung University, Indonesia, 9 - 12 September 2018",
+      "eprintid": 43925,
+      "date_type": "published"
+    }
+]
+

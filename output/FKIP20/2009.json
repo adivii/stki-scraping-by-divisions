@@ -1,0 +1,113 @@
+[
+    {
+      "datestamp": "2022-01-20 07:31:00",
+      "pagerange": "42-82",
+      "lastmod": "2022-01-20 07:31:00",
+      "userid": 982,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38106",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "Sport Science, jurnal Kajian Ilmu Keolahragaan",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 38106,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432882",
+                  "objectid": 159088,
+                  "hash": "b3bfda5b87aac2656897cc3415cd4a03",
+                  "filename": "Sport Science.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-03 14:54:11",
+                  "mime_type": "application\/pdf",
+                  "fileid": 432882,
+                  "filesize": 4784562,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Sport Science.pdf",
+            "docid": 159088,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159088",
+            "pos": 1,
+            "format": "text"
+          },
+          {
+            "pos": 2,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159089",
+            "formatdesc": "Reviewer",
+            "main": "peer review JN Kemampuan Fisik S1 Penjaskes.pdf",
+            "docid": 159089,
+            "files": [
+                {
+                  "filesize": 1245804,
+                  "datasetid": "document",
+                  "filename": "peer review JN Kemampuan Fisik S1 Penjaskes.pdf",
+                  "hash": "3fbb5724d28b7cf1145e02df9debc70c",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 05:01:12",
+                  "mime_type": "application\/pdf",
+                  "fileid": 432884,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432884",
+                  "objectid": 159089
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 38106,
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "divisions": [
+        "FKIP20"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/81\/06",
+      "date": "2009-12",
+      "id_number": 19075111,
+      "publication": "Kemampuan Fisik dan Akademik Mahasiswa S1 Penjaskes yang Diterima Melalui Jalur PKAB dan SPMB Tahun 2005",
+      "issn": 19075111,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmat",
+            "lineage": null,
+            "given": "Hermawan"
+          },
+          "id": "nugafik@yahoo.co.id"
+        }
+      ],
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC",
+        "Q1"
+      ],
+      "abstract": "Abstract: This study aimed to examine the physical ability (physical fitness) and academic (grade) students of Physical Education and Health FKIP Lampung University received through channels and SPMB PKAB force in 2005 The method used in this research is descriptive through tests and documentation The results showed (1) the physical ability of students accepted through SPMB point average higher than the students accepted through PKAB point, either at the beginning of ac ceptance or at the end of the semester with a difference of 1 0142 and (2) academic ability PKAB higher than SPMB students, but the difference is relatively small that is equal to 0 5676\r\n\r\nKey words: physical ability, academic ability, SPMB, and PKAB",
+      "status_changed": "2022-01-20 07:31:00",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/journal.um.ac.id\/index.php\/sport-science\/"
+        }
+      ],
+      "succeeds": 37584,
+      "rev_number": 9,
+      "volume": 2,
+      "metadata_visibility": "show",
+      "title": "Kemampuan Fisik dan Akademik Mahasiswa S1 Penjaskes yang Diterima Melalui Jalur PKAB dan SPMB Tahun 2005",
+      "official_url": "http:\/\/journal.um.ac.id\/index.php\/sport-science\/",
+      "eprintid": 38106
+    }
+]
+

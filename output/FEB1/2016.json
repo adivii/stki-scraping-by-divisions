@@ -1,0 +1,79 @@
+[
+    {
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-05 02:13:30",
+                  "hash": "77bb86597bdb6b8d30e6cbed43c75b67",
+                  "filename": "sarumpaet 2005 JAK Petra.pdf",
+                  "fileid": 10954,
+                  "mime_type": "application\/pdf",
+                  "filesize": 59270,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10954",
+                  "objectid": 1450
+                }
+            ],
+            "main": "sarumpaet 2005 JAK Petra.pdf",
+            "docid": 1450,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1450",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1574,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "The Institute of Research & Community Outreach - Petra Christian University",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1574",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-05-05 02:56:41",
+      "userid": 790,
+      "datestamp": "2017-05-05 02:56:41",
+      "publication": "Jurnal Akuntansi dan Keuangan Petra Christian University",
+      "creators": [
+        {
+          "id": "ssarum@yahoo.com",
+          "name": {
+            "family": "Sarumpaet",
+            "honourific": null,
+            "lineage": null,
+            "given": "Susi"
+          }
+        }
+      ],
+      "issn": 14110288,
+      "dir": "disk0\/00\/00\/15\/74",
+      "date": "2016-11",
+      "contact_email": "ssarum@yahoo,com",
+      "type": "article",
+      "divisions": [
+        "FEB1"
+      ],
+      "title": "The Relationship between Environmental Performance and Financial Performance of Indonesian Companies",
+      "official_url": "http:\/\/jurnalakuntansi.petra.ac.id\/",
+      "rev_number": 7,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-05 02:56:41",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "This study examined the relationship between environmental performance and financial performance amongst Indonesian companies. The environmental performance is measured by corporate environmental ratings provided by Bapedal\/ the Ministry of Environment RI, through a program, called PROPER, while the financial performance is measured by return on assets (ROA). Some control variables are also included in this analysis, namely: total sales, industry sector, stock exchange listing, and ISO 14001 certification. The study revealed while financial performance is not significantly associated with environmental performance, company size, stock exchange listing and ISO 14001 are significantly associated with environmental performance. This finding\r\nalso indicates that the government environmental rating is highly consistent with international environmental certification.",
+      "eprintid": 1574,
+      "date_type": "published"
+    }
+]
+

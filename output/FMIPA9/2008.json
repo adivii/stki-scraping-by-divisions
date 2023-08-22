@@ -1,0 +1,908 @@
+[
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Rietje",
+            "lineage": null,
+            "honourific": null,
+            "family": "Bokau"
+          }
+        },
+        {
+          "name": {
+            "family": "Wamiliana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sutikno",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sutikno"
+          }
+        }
+      ],
+      "issn": "1978-1873",
+      "publication": "Jurnal Sains MIPA",
+      "dir": "disk0\/00\/00\/67\/49",
+      "date": "2008-01-01",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 6749,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Pemodelan Program Linier untuk Optimisasi Industri pakan Udang.pdf",
+            "docid": 19718,
+            "files": [
+                {
+                  "objectid": 19718,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61945",
+                  "fileid": 61945,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-19 05:17:39",
+                  "filename": "Pemodelan Program Linier untuk Optimisasi Industri pakan Udang.pdf",
+                  "hash": "2baab9e7697da13acc3d7c849d731172",
+                  "datasetid": "document",
+                  "filesize": 732900
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19718"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6749",
+      "full_text_status": "public",
+      "lastmod": "2018-04-25 08:00:04",
+      "userid": 791,
+      "pagerange": "59-64",
+      "datestamp": "2018-04-25 08:00:04",
+      "eprintid": 6749,
+      "date_type": "published",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "title": "PEMODELAN PROGRAM LINIER UNTUK OPTIMASI AGROINDUSTRI PAKAN UDANG",
+      "metadata_visibility": "show",
+      "volume": 14,
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:00:04",
+      "abstract": "Feedmill has become very important in the intensive fisheries production due to high demand which can be up to 60-70% of the production cost and also the problem with raw materials. The fish lour as the main material of protein sources need to be anticipated for its replacement with other commodities. There are some materials which can be used as shrimp feedmill flour, so that there will be a various composition which can be developed to a standard shrimp feedmill. However, the optimal formulation of the feedmill causes sime problems as the usage of materials which a variety of nutrition composition. In this paper will be discussed an optimization model for shrimp feedmill which can be developed based in the available material sources and the standard of the feedmill required. To solve problem arising from this model, a linear program has been used. This problem functions were the feedmill quality (based on the SNI standard of 02-2724-2002). The materials propotion and the demand of shrimp feedmill itself.",
+      "subjects": [
+        "QA"
+      ]
+    },
+    {
+      "corp_creators": [
+        "Politeknik Negeri Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-03-24 15:04:40",
+      "userid": 7,
+      "pagerange": "59-64",
+      "datestamp": "2017-03-24 15:04:40",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 1354,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10077",
+                  "mime_type": "application\/pdf",
+                  "fileid": 10077,
+                  "filename": "Dengan keterangan -Pemodelan Program Linear untuk Optimisasi Agroindustri Pakan Udang.pdf",
+                  "hash": "ce2b32d0c68121ab3ff855c8d77c4f06",
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-24 14:57:39",
+                  "datasetid": "document",
+                  "filesize": 1309622
+                }
+            ],
+            "main": "Dengan keterangan -Pemodelan Program Linear untuk Optimisasi Agroindustri Pakan Udang.pdf",
+            "docid": 1354,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1354",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1483,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1483",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Jurnal Sains MIPA",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Rietje",
+            "family": "Bokau",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana",
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Sutikno",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sutikno"
+          }
+        }
+      ],
+      "issn": "1978-1873",
+      "date": 2008,
+      "dir": "disk0\/00\/00\/14\/83",
+      "eprint_status": "archive",
+      "status_changed": "2017-03-24 15:04:40",
+      "subjects": [
+        "QA"
+      ],
+      "title": "Pemodelan Program Linear untuk Optimisasi Agroindustri\r\nPakan Udang",
+      "volume": 14,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 1483,
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2018-10-29 04:15:42",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "REGULARISASI METODE SIMPLEKTIK STUDI KASUS PADA MASALAH KEPLER",
+      "pagerange": "70-77",
+      "userid": 845,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8738",
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 8738,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21823",
+            "docid": 21823,
+            "main": "SUHARSONO DKK REGULARISASI.pdf",
+            "files": [
+                {
+                  "filesize": 848580,
+                  "datasetid": "document",
+                  "mtime": "2018-08-24 02:14:12",
+                  "hash_type": "MD5",
+                  "filename": "SUHARSONO DKK REGULARISASI.pdf",
+                  "hash": "d25a6015216aaddf1d80207ba551cff0",
+                  "fileid": 85210,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85210",
+                  "objectid": 21823
+                }
+            ]
+          }
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "dir": "disk0\/00\/00\/87\/38",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suharsono",
+            "honourific": null,
+            "given": "Suharsono"
+          },
+          "id": "suharsono.1962@fmipa.unila.ac.id"
+        },
+        {
+          "id": "dorrah.aziz@fmipa.unila.ac.i",
+          "name": {
+            "given": "Dorrah",
+            "lineage": null,
+            "family": "Azis",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Tiryono",
+            "honourific": null,
+            "family": "Tiryono",
+            "lineage": null
+          }
+        }
+      ],
+      "abstract": "Regularization procedure is utilized when particle approaches very closely (collision) the central mass and produces large gravitational forces, and sharp bends of orbit. The regularization originates from the singularity given by the Hamiltonian function for q = 0. In\r\nthis respect, we use the coordinate transformation\r\n( ) (2 3 1 1 2 2 1S = p f Q ,Q + p g Q ,Q )\r\nwhere f and g are conjugate harmonic functions and ( )\r\nare the new conjugate coordinates. We have the result that the orbit like a torus.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "event_type": "conference",
+      "event_dates": "17-18",
+      "date_type": "published",
+      "eprintid": 8738,
+      "event_title": "Seminar Nasional Sains dan Teknologi-II",
+      "event_location": "Universitas Lampung",
+      "projects": [
+        "Seminar Nasional"
+      ],
+      "datestamp": "2018-10-29 04:15:42",
+      "corp_creators": [
+        "Jurusan Matematika FMIPA Unila",
+        "Jurusan Matematika FMIPA Unila",
+        "Jurusan Matematika FMIPA Unila"
+      ],
+      "lastmod": "2018-10-29 04:15:42",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "conference_item",
+      "date": "2008-12-07"
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 14,
+      "title": "Evaluasi Kinerja Metode Metode Heuristik Untuk\r\nPenyelesaian Travelling Salesman Problem",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-03-24 14:49:56",
+      "date_type": "published",
+      "eprintid": 1482,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1482",
+      "documents": [
+          {
+            "docid": 1353,
+            "main": "Dengan keterangan -Evaluasi Kinerja Metode Metode Heuristik Untuk  Penyelesaian TSP.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10070",
+                  "objectid": 1353,
+                  "filesize": 1283881,
+                  "datasetid": "document",
+                  "mtime": "2017-03-24 14:47:18",
+                  "hash_type": "MD5",
+                  "hash": "6cbdc5d1c31091a35bc4e34a92d459bc",
+                  "filename": "Dengan keterangan -Evaluasi Kinerja Metode Metode Heuristik Untuk  Penyelesaian TSP.pdf",
+                  "fileid": 10070,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1353",
+            "rev_number": 1,
+            "eprintid": 1482,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2017-03-24 14:49:56",
+      "pagerange": "7-11",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-03-24 14:49:56",
+      "userid": 7,
+      "date": 2008,
+      "dir": "disk0\/00\/00\/14\/82",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Syarif",
+            "lineage": null,
+            "given": "Admi"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wijaya",
+            "given": "Yasir"
+          }
+        }
+      ],
+      "issn": "1978-1873",
+      "publication": "Jurnal Sains MIPA",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/206",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "main": "Open Queeing Networks and Applications.pdf",
+            "docid": 207,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1217",
+                  "objectid": 207,
+                  "filesize": 1411103,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-20 03:42:01",
+                  "filename": "Open Queeing Networks and Applications.pdf",
+                  "hash": "3d4f9eb27c72c4cad234e459d8bba587",
+                  "fileid": 1217,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/207",
+            "eprintid": 206,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "pagerange": "353-357",
+      "datestamp": "2016-07-20 03:52:24",
+      "userid": 7,
+      "lastmod": "2016-07-20 03:52:24",
+      "date": 2008,
+      "dir": "disk0\/00\/00\/02\/06",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana",
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "conference_item",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "title": "OPEN QUEUING NETWORKS AND APPLICATIONS",
+      "event_dates": "15-17 Oktober 2008",
+      "abstract": "Queuing phenomenon occurs in many situations in daily life. Waiting to be served in the restaurants, banks; or waiting for paying road toll, etc, Queuing also can be applied on goods, for example, commodity that need to be loaded on the ship, data that need to be processed on the central computer, cars that need to be served and so on. in this paper we will discuss one type of queuing models that occurs in deity life that is open queuing networks, and give some of its applications.",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-07-20 03:52:24",
+      "event_location": "Bandar Lampung",
+      "eprintid": 206,
+      "event_title": "Universitas Malahayati International Conference Quantitative Methods"
+    },
+    {
+      "volume": 1,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/lemlit.unila.ac.id",
+      "title": "THE TREE T_n,k CONFIGURATIONS USING POLYA'S POLYNOMIAL OF ORDER 2 AND 3",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "In graph theory, tree plays an important role because it used to represent many problems such as in desain the telecommunication networks, distribution network and so on. The T_n,k, is the tree with n vertex and k branches and polya's polynomial is a polynomial in the form of cycle index. In this papes we will discuss the configuration of T_n,k using Polya's polynomial for order 2 and 3.",
+      "status_changed": "2018-04-25 07:57:57",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 6752,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6752",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62074",
+                  "objectid": 19740,
+                  "filesize": 723159,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 03:25:46",
+                  "hash": "39e070344fac3da66506f1d358db7a4c",
+                  "filename": "The Tree Configuration Using Polya olynomial order 2 and 3.pdf",
+                  "fileid": 62074,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "The Tree Configuration Using Polya olynomial order 2 and 3.pdf",
+            "docid": 19740,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19740",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6752,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "LEMBAGA PENELITIAN UNIVERSITAS LAMPUNG",
+      "datestamp": "2018-04-25 07:57:57",
+      "pagerange": "258-262",
+      "userid": 791,
+      "lastmod": "2018-04-25 07:57:57",
+      "date": "2008-09-22",
+      "dir": "disk0\/00\/00\/67\/52",
+      "publication": "PROSIDING Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat UNIVERSITAS LAMPUNG",
+      "issn": "978-979-18755-0-9",
+      "creators": [
+        {
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "asmiati308@yahoo.com",
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article"
+    },
+    {
+      "abstract": "The Degree Constrained Minimum Spanning Tree Problem (DCMST) is a problem of finding the minimum spanning tree in a given wighted graph (all weights are non negative), whilst also satisfies the degree requirement in every vertex. Since the DCMST can be formulated as MILP, then all constraints are valid inequalities, and among those constraints some are facets defining. In this paper we will discuss how to find constraints that constitute comb inequalities for the DCMST for vertex order 5 to 15 with increments 1.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:01:57",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 14,
+      "title": "COMB INEQUALITIES FOR THE DEGREE CONSTRAINED MINIMUM SPANNING TREE PROBLEM",
+      "date_type": "published",
+      "eprintid": 6742,
+      "pagerange": "1-6",
+      "datestamp": "2018-04-25 08:01:57",
+      "lastmod": "2018-04-25 08:01:57",
+      "userid": 163,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6742",
+      "documents": [
+          {
+            "eprintid": 6742,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Comb inequalities for DCMST ....pdf",
+            "docid": 19709,
+            "files": [
+                {
+                  "fileid": 61894,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-04-19 02:38:42",
+                  "hash_type": "MD5",
+                  "hash": "c9950ab868e3f972916621ab01f38139",
+                  "filename": "Comb inequalities for DCMST ....pdf",
+                  "datasetid": "document",
+                  "filesize": 731522,
+                  "objectid": 19709,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61894"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19709"
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "date": "2008-01-01",
+      "dir": "disk0\/00\/00\/67\/42",
+      "issn": "1978-1873",
+      "creators": [
+        {
+          "name": {
+            "family": "Wamiliana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "Admi",
+            "lineage": null,
+            "family": "Syarif",
+            "honourific": null
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Akmal",
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fitriani",
+            "family": "Fitriani",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "publication": "Jurnal Sains MIPA"
+    },
+    {
+      "eprintid": 1481,
+      "date_type": "published",
+      "status_changed": "2017-03-24 14:46:32",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "title": "Comb Inequalities for The Degree Constrained\r\nMinimum Spanning Tree Problem",
+      "rev_number": 8,
+      "volume": 14,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Jurnal Sains MIPA",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif",
+            "given": "Admi"
+          }
+        },
+        {
+          "name": {
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Akmal"
+          },
+          "id": "."
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Fitriani",
+            "honourific": null,
+            "family": "Fitriani",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1978-1873",
+      "date": 2008,
+      "dir": "disk0\/00\/00\/14\/81",
+      "lastmod": "2017-03-24 14:46:32",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 7,
+      "pagerange": "12-16",
+      "datestamp": "2017-03-24 14:46:32",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1481,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1352",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 10061,
+                  "filename": "Dengan keterangan -Comb Inequalities for The Degree Constrained MST.pdf",
+                  "hash": "fdcce333ac6564129cb8d146948eac37",
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-24 14:41:35",
+                  "datasetid": "document",
+                  "filesize": 1218267,
+                  "objectid": 1352,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10061"
+                }
+            ],
+            "main": "Dengan keterangan -Comb Inequalities for The Degree Constrained MST.pdf",
+            "docid": 1352
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1481",
+      "refereed": "TRUE"
+    },
+    {
+      "status_changed": "2018-04-25 08:01:34",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "In graph theory, tree plays an important role due to its structure that can be used to represent many problems such as in desain the telecommunication networks, distribution networks and so on. There are some type of tree representations such as vector representation, adjacency list, permutation, and Prufer’s numbers. For problems that use tree as the key structure, like the DCMST problem, the tree representation by Prufer number is an advantage because in the Prufer number representation we can get information about the degree of the vertex in the tree. The vertex in the tree that has degree r, in the Prufer number representation will appear r-1 times. In this paper we will propose an alternative method for representing degree restricted tree, that is the augmented adjacency matrix.",
+      "title": "REPRESENTING DEGREE RESTRICTED TREE USINGAUGMENTED ADJACENCY MATRIX",
+      "official_url": "http:\/\/unila.ac.id\/",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 6744,
+      "date_type": "published",
+      "lastmod": "2018-04-25 08:01:34",
+      "userid": 791,
+      "pagerange": "125-130",
+      "datestamp": "2018-04-25 08:01:34",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6744,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19716",
+            "main": "I-13 Satek Wamiliana, Admi, Didik.pdf",
+            "docid": 19716,
+            "files": [
+                {
+                  "fileid": 61936,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-19 05:05:39",
+                  "filename": "I-13 Satek Wamiliana, Admi, Didik.pdf",
+                  "hash": "aad581b4cda679c1657a7d775d74fe65",
+                  "datasetid": "document",
+                  "filesize": 204163,
+                  "objectid": 19716,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61936"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6744",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "PROSIDING Seminar Nasional Sains dan Teknologi II",
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Syarif",
+            "lineage": null,
+            "given": "Admi"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": "didikunila@gmail.com",
+          "name": {
+            "given": "Didik",
+            "lineage": null,
+            "family": "Kurniawan",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "978-979-1165-74-7",
+      "date": "2008-11-17",
+      "dir": "disk0\/00\/00\/67\/44"
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6748",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19714",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 61926,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-04-19 04:34:23",
+                  "hash_type": "MD5",
+                  "hash": "2ee9b287af7b4ee9bc2201bb900f971f",
+                  "filename": "I-12, Satek Wamiliana dan Attiya.pdf",
+                  "datasetid": "document",
+                  "filesize": 451688,
+                  "objectid": 19714,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61926"
+                }
+            ],
+            "docid": 19714,
+            "main": "I-12, Satek Wamiliana dan Attiya.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6748
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "datestamp": "2018-04-25 08:00:27",
+      "pagerange": "112-124",
+      "lastmod": "2018-04-25 08:00:27",
+      "userid": 791,
+      "date": "2008-11-17",
+      "dir": "disk0\/00\/00\/67\/48",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yuliana",
+            "given": "Attiya"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Wamiliana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        }
+      ],
+      "issn": "978-979-1165-74-7",
+      "publication": "PROSIDING Seminar Nasional Sains dan Teknologi II",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "official_url": "http:\/\/unila.ac.id\/",
+      "title": "PENENTUAN INTERVAL SEIMBANG DARI HIMPUNAN TITIK TITIK DENGAN DUA WARNA",
+      "abstract": "Misalkan n,m adalah jumlah titik merah dan biru pada bidang. Diberikan titik P pada bidang untuk setiap bilangan bulat 1≤ k ≤ n, sehingga terdapat dua rays r1 dan r2 yang berasal dari titik, dimana kedua rays tersebut diasumsikan sebagai dua buah garis paralel sedemikian sehingga daerah yang terbentuk terdapat tepat k titik merah dan infrimum(kλ) titik biru. Daerah yang terbentuk akan menjadi sebuah daerah konveks. Kemudian, titik-titik yang ada akan disusun untuk menentukan apakah ada interval seimbang dari suatu susunan n titik merah dan m titik biru pada garis dalam posisi umum. Penyusunan titik merah dan biru pada garis dasari oleh proyeksi orthogonal titik merah dan biru pada bidang kepada garis orthogonal.Untuk memperoleh interval tersebut maka harus memenuhi syarat perlu dan cukupnya. Dari hasil penelitian dan pembahasan syarat perlu dan cukup suatu susunan n titik merah dan m titik biru pada garis untuk kasus m < n adalah kebalikan dari syarat perlu dan cukup untuk kasus m ≥ n.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:00:27",
+      "date_type": "published",
+      "eprintid": 6748
+    }
+]
+

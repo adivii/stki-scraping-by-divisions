@@ -1,0 +1,309 @@
+[
+    {
+      "eprintid": 2291,
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/472",
+      "title": "Komputerisasi Alat Ukur V-R Meter untuk Karakterisasi Sensor Gas Terkalibrasi NI DAQ BNC-2110",
+      "rev_number": 8,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "status_changed": "2017-05-31 08:28:40",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Telah dikembangkan sebuah alat ukur dengan biaya rendah berbasis mikrokontroler untuk mengukur parameter secara optik dari sensor gas amonia berbasis polimer. Dalam penelitian ini, parameter secara optik ditampilkan dalam bentuk tegangan keluaran dari sebuah fotodioda dan hambatan sensor gas. Tujuan dalam penelitian ini adalah membuat alat ukur secara otomatis dan real time untuk mengkarakteristik sensor gas yang terkalibrasi dengan National Instrument Data Acquisition (NI DAQ) tipe BNC-2110. Hasil validasi menunjukkan bahwa tingkat akurasi dari alat ukur V-R meter sangat tinggi dengan ralat pengukuran sebesar -0,6%. Alat ukur V-R meter memiliki range pengukuran 0-4,96 volt untuk tegangan dan 0 – 20 Mohm untuk resistansi dengan toleransi\/tingkat ketelitian ±0,005 volt. Alat ukur V-R meter yang dibuat dapat mengukur tegangan dan hambatan listrik dengan sangat baik seperti NI DAQ tipe BNC-2110.\r\n\r\nKata kunci: alat ukur, mikrokontroler, sensor gas, NI DAQ",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Junaidi"
+          }
+        }
+      ],
+      "date": "2013-01",
+      "dir": "disk0\/00\/00\/22\/91",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 2291,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2170",
+            "rev_number": 1,
+            "docid": 2170,
+            "main": "Junaidi-2013-Komputerisasi Alat Ukur V-R Meter untuk Karakterisasi.pdf",
+            "files": [
+                {
+                  "objectid": 2170,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15840",
+                  "datasetid": "document",
+                  "filesize": 751678,
+                  "fileid": 15840,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 01:17:26",
+                  "filename": "Junaidi-2013-Komputerisasi Alat Ukur V-R Meter untuk Karakterisasi.pdf",
+                  "hash": "caa79072599c5a93d6fa531c0ba18bbd"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2291",
+      "refereed": "TRUE",
+      "lastmod": "2017-05-31 08:28:40",
+      "userid": 181,
+      "datestamp": "2017-05-31 08:28:40",
+      "pagerange": "59-64"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 45547,
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Dokumen Abstrak",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-06 02:24:59",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Komposisi Kimia, Struktur Mikro, Holding Time dan Sifat Ketangguhan Baja Karbon Medium pada Suhu 780 0C",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "other",
+      "date": 2013,
+      "dir": "disk0\/00\/04\/55\/47",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Karo Karo",
+            "honourific": null,
+            "given": "Pulung"
+          },
+          "id": "pulung.karokaro@gmail.com"
+        }
+      ],
+      "datestamp": "2022-10-06 02:24:59",
+      "lastmod": "2022-10-06 02:24:59",
+      "userid": 949,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45547",
+      "ispublished": "pub",
+      "publisher": "Jurnal Teori dan Aplikasi Fisika",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184326",
+            "rev_number": 1,
+            "main": "6. KOMPOSISI KIMIA STRUKTUR MIKRO.pdf",
+            "docid": 184326,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 191338,
+                  "mime_type": "application\/pdf",
+                  "fileid": 505701,
+                  "hash": "a662b2ac37907ee2d6757abfaa0f2d13",
+                  "filename": "6. KOMPOSISI KIMIA STRUKTUR MIKRO.pdf",
+                  "mtime": "2022-10-06 02:22:09",
+                  "hash_type": "MD5",
+                  "objectid": 184326,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505701"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 45547,
+            "security": "public",
+            "placement": 1
+          }
+      ]
+    },
+    {
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Characteristics of aluminosilicates prepared from rice husk silica and aluminum metal",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "similarity",
+      "status_changed": "2019-07-17 08:47:24",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 13590,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13590",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13590,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26603",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 26603,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118716",
+                  "mime_type": "application\/pdf",
+                  "fileid": 118716,
+                  "hash": "3f037b8b15e031a33e6e961f8cdcb96e",
+                  "filename": "Simon Sembiring - IS19% - Characteristics of aluminosilicates prepared from rice husk silica and aluminum metal.pdf",
+                  "mtime": "2019-07-17 08:28:20",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 4237811
+                }
+            ],
+            "main": "Simon Sembiring - IS19% - Characteristics of aluminosilicates prepared from rice husk silica and aluminum metal.pdf",
+            "docid": 26603
+          }
+      ],
+      "publisher": "Institute of Rock Structure and Mechanics AS CR, v.v.i. & University of Chemistry and Technology, Prague",
+      "datestamp": "2019-07-17 08:47:24",
+      "lastmod": "2019-07-17 08:47:24",
+      "userid": 1042,
+      "dir": "disk0\/00\/01\/35\/90",
+      "date": 2013,
+      "publication": "Ceramics-Silik�ty",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "given": "Simon",
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "ISSN 0862-5468 (Print), ISSN 1804-5847 (online)",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article"
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2013-01",
+      "dir": "disk0\/00\/00\/01\/26",
+      "creators": [
+        {
+          "id": "fietadeas@yahoo.com",
+          "name": {
+            "given": "Yori Elisabhet",
+            "family": "Vitariasni",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Arif",
+            "family": "Surtono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ahmad Gurum",
+            "lineage": null,
+            "honourific": null,
+            "family": "P"
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "datestamp": "2016-07-12 04:55:26",
+      "lastmod": "2016-07-14 05:31:25",
+      "userid": 9,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/126",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 232824,
+                  "fileid": 743,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-12 03:57:18",
+                  "filename": "Publikasi_Jurnal(178).pdf",
+                  "hash": "b9f07043fbc0e2e9ad58e1484cea6199",
+                  "objectid": 139,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/743"
+                }
+            ],
+            "docid": 139,
+            "main": "Publikasi_Jurnal(178).pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 126,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "eprintid": 126,
+      "abstract": "Abstrak.\r\nTelah dilakukan perbandingan kinerja filter IIR dan FIR dalam mereduksi interferensi jaringan listrik 60 Hz pada sinyal EKG. Penelitian ini bertujuan untuk mengetahui kinerja filter IIR dan FIR serta membandingkan secara kualitatif dan kuantitatif. Data EKG yang mengandung noise difilter sehingga didapatkan data EKG yang bebas derau. Filter IIR menggunakan metode pole Zero sedangkan filter FIR menggunakan metode windowing. Hasil penelitian menunjukkan bahwa filter IIR memiliki kinerja lebih baik dibandingkan filter FIR dalam mereduksi derau inteferensi jaringan listrik 60Hz. kinerja tersebut dapat diketahui dari nilai SNR filter IIR rata-rata sebesar 32.2008 dan SNR filter FIR metode rectangular windowing rata-rata sebesar 15.6812 ,SNR metode bartlet windowing rata-rata sebesar 19.1354 , SNR metode hunning windowing sebesar 23,2296.\r\nKata kunci : IIR, FIR,Filtering, EKG.",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2016-07-12 04:55:26",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 7,
+      "title": "Perbandingan Kinerja Filter Digital IIR dan FIR untuk \r\nMereduksi Derau Interferensi \r\nJaringan Listrik 60 Hz pada \r\nSinyal EK"
+    }
+]
+

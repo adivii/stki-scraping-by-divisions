@@ -1,0 +1,165 @@
+[
+    {
+      "event_location": "Jakarta, Indonesia",
+      "date_type": "published",
+      "event_title": "Seminar Nasional Matematika dan Pendidikan Matematika",
+      "eprintid": 1094,
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_dates": "27 Juni 2003",
+      "title": "ANALISIS BEBERAPA MODEL REGRESI LINEAR",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Pada paper ini akan dibahas analisis beberapa model regresi. Dari parameter model-model regresi akan ditunjukkan bagaimana membentuk selang dugaan ratio beberapa parameter model regresi dengan menggunakan Teorema Fieller. Kemudian uji hipotesis untuk kesamaan parameter model regresi akan disajikan, beta hat model (Milliken dan Johnson, 2002) akan digunakan dalam pembentukan uji statistik.",
+      "status_changed": "2016-11-09 05:13:20",
+      "eprint_status": "archive",
+      "date": "2003-06-01",
+      "dir": "disk0\/00\/00\/10\/94",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Herawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sari"
+          }
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1094",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 1094,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 982,
+            "main": "PAPER (18)PROCEEDINGS_MUSTOFA (UNILA).pdf",
+            "files": [
+                {
+                  "objectid": 982,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7246",
+                  "mime_type": "application\/pdf",
+                  "fileid": 7246,
+                  "hash": "3260c3240854781bce9d03e146da7c50",
+                  "filename": "PAPER (18)PROCEEDINGS_MUSTOFA (UNILA).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-09 04:26:14",
+                  "datasetid": "document",
+                  "filesize": 14594090
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/982",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2016-11-09 05:13:20",
+      "pagerange": "298-303",
+      "lastmod": "2016-11-09 05:13:20",
+      "userid": 701
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Mustofa",
+            "family": "Usman",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono"
+          },
+          "id": "chacho81@yahoo.com"
+        }
+      ],
+      "date": "2003-05",
+      "dir": "disk0\/00\/00\/10\/93",
+      "lastmod": "2016-11-09 05:13:17",
+      "userid": 701,
+      "datestamp": "2016-11-09 05:13:17",
+      "pagerange": "157-162",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 1093,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/981",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 19596046,
+                  "fileid": 7239,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2016-11-09 04:13:05",
+                  "hash_type": "MD5",
+                  "filename": "PAPER (17) PROCEEDINGS_MUSTOFA (UNILA).pdf",
+                  "hash": "a94b1ca35e6caffd759d47574006dca8",
+                  "objectid": 981,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7239"
+                }
+            ],
+            "main": "PAPER (17) PROCEEDINGS_MUSTOFA (UNILA).pdf",
+            "docid": 981
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1093",
+      "full_text_status": "public",
+      "eprintid": 1093,
+      "event_title": "Conference on Statistical and Mathematical of Islamic Society in South East Asia Region",
+      "date_type": "published",
+      "event_location": "Bandung",
+      "status_changed": "2016-11-09 05:13:17",
+      "eprint_status": "archive",
+      "abstract": "Dalam model desain eksperimen atau pada analisis varians, apabila terjadi beberapa data hilang, maka analisis data terkadang menjadi sangat kompleks. Atau bahkan data tidak dapat dianalisis. Pengkajian atau penelitian mengenai data hilang telah menjadi topik yang sangat menarik bagi banyak peneliti statistika. Idea dasar mula-mula yang membahas data hilang adalah Yates (1933), sejak itu idea ini terus berkembang dan masih mengilhami banyak penelitian tentang data hilang pada model desain eksperimen.  Dalam penelitian pada tulisan ini akan mencoba membahas perkembangan analisis data hilang, bias yang terjadi dan uji hipotesis yang dilakukan untuk mengatasi bias yang terjadi.",
+      "subjects": [
+        "QA"
+      ],
+      "title": "ANALISIS DATA HILANG PADA MODEL DESAIN EKSPERIMEN",
+      "event_dates": "25-26 April 2003",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7
+    }
+]
+

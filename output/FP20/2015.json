@@ -1,0 +1,1301 @@
+[
+    {
+      "dir": "disk0\/00\/00\/04\/18",
+      "date": "2015-08",
+      "publication": "Jurnal Mitra Bahari",
+      "creators": [
+        {
+          "id": "indra.yudha@fp.unila.ac.id",
+          "name": {
+            "family": "Gumay Yudha",
+            "honourific": null,
+            "lineage": null,
+            "given": "Indra"
+          }
+        }
+      ],
+      "issn": "0216-4841",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/418",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Kementerian Kelautan dan Perikanan RI",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 418,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/377",
+            "rev_number": 1,
+            "main": "jurnal mitra bahari vol 5 no 2 thn 2011 IGY.pdf",
+            "docid": 377,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 2308,
+                  "filename": "jurnal mitra bahari vol 5 no 2 thn 2011 IGY.pdf",
+                  "hash": "4710988d363030a3f7dfaa73fb3ae8b3",
+                  "mtime": "2016-08-27 04:44:36",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 4316001,
+                  "objectid": 377,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2308"
+                }
+            ]
+          }
+      ],
+      "pagerange": "70-87",
+      "datestamp": "2016-08-28 13:14:37",
+      "lastmod": "2016-08-28 13:14:37",
+      "userid": 509,
+      "date_type": "published",
+      "eprintid": 418,
+      "rev_number": 6,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/perpustakaan.kkp.go.id\/",
+      "title": "Kajian penggunaan kamuflase buatan pada bubu karang untuk mengurangi kerusakan terumbu karang",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Penelitian ini dilakukan pada Juni-Oktober 2007 di perairan Pulau Puhawang,Kabupaten Pesawaran, Lampung.  Penelitian ini bertujuan untuk mempelajari penggunaan kamuflase buatan pada bubu karang yang berupa karung goni, jaring bagan, daun kelapa, dan bongkahan karang sebagai kontrol, terhadap jumlah, bobot, dan jenis ikan yang tertangkap.  Hasil penelitian menunjukkan bahwa keempat perlakuan tidak berbeda nyata dalam hal jumlah dan bobot ikan yang tertangkap. Ikan-ikan yang tertangkap didominasi oleh famili Nemipteridae, terutama ikan kuniran (Nemipterus isacantus). Penggunaan daun kelapa sebagai kamuflase pada bubu karang dapat disarankan sebagai salah satu alternatif untuk menggantikan\r\ncara pengoperasian bubu karang yang merusak terumbu karang.",
+      "status_changed": "2016-08-28 13:14:37",
+      "eprint_status": "archive"
+    },
+    {
+      "eprintid": 416,
+      "date_type": "published",
+      "status_changed": "2016-08-28 13:13:49",
+      "eprint_status": "archive",
+      "subjects": [
+        "QL",
+        "SH"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk menganalisis pola pertumbuhan dan faktor kondisi relatif (Kn) ikan\r\nLabiobarbus ocellatus di Sungai Tulang Bawang, Lampung.  Ikan contoh dikumpulkan setiap bulan menggunakan jaring insang dari April 2013 hingga Maret 2014.  Spesimen terdiri dari 690 ikan jantan dan 651 ikan betina. Ikan lumo jantan dan betina memiliki pertumbuhan allometrik positif. Persamaan hubungan panjang bobot ikan lumo jantan adalah log W= -5,652 + 3,284 log L, sedangkan ikan lumo betina memiliki persamaan log W = -5,607 + 3,272 log L.  Persamaan pertumbuhan von Bertalanffy untuk ikan\r\nlumo jantan adalah Lt = 265,65*[1-e^(-0,14(t+0,67))] dan pada ikan lumo betina Lt=255,15*[1-e^(-0,23(t+0,405))].  Nilai rata-rata Kn ikan lumo adalah 1,02±0,03 (jantan) dan 1,02±0,04 (betina) yang mengindikasikan bahwa ikan-ikan tersebut dalam kondisi yang baik.",
+      "official_url": "http:\/\/e-journal.biologi.lipi.go.id\/index.php\/zoo_indonesia\/article\/view\/2333",
+      "title": "POLA PERTUMBUHAN DAN FAKTOR KONDISI IKAN LUMO Labiobarbus ocellatus (Heckel, 1843) DI SUNGAI TULANG BAWANG,LAMPUNG",
+      "volume": 24,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "article",
+      "divisions": [
+        "FP20"
+      ],
+      "publication": "Zoo Indonesia",
+      "issn": "0215-191X",
+      "creators": [
+        {
+          "name": {
+            "given": "Indra",
+            "honourific": null,
+            "family": "Gumay Yudha",
+            "lineage": null
+          },
+          "id": "indra.yudha@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "M_Fadjar",
+            "given": "Rahardjo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Setiyanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Djoko"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Djamar T.F",
+            "family": "Lumban Batu",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/04\/16",
+      "date": "2015-07",
+      "userid": 509,
+      "lastmod": "2016-08-28 13:13:49",
+      "pagerange": "29-39",
+      "datestamp": "2016-08-28 13:13:49",
+      "number": 1,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 416,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 375,
+            "main": "04.Indra Gumay_Pola pertumbuhan ikan lumo lampung_29-_090715.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2295",
+                  "objectid": 375,
+                  "filesize": 1493549,
+                  "datasetid": "document",
+                  "hash": "8b408fe33416af64c0811dd6b30fe236",
+                  "filename": "04.Indra Gumay_Pola pertumbuhan ikan lumo lampung_29-_090715.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-27 03:58:24",
+                  "mime_type": "application\/pdf",
+                  "fileid": 2295
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/375",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Masyarakat Zoologi Indonesia-LIPI",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/416",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Water quality becomes the critical factor of successfully aqua culture process; especially this is in aquaculture of ﬂoating cages. Otherwise, unstable water quality could impact the negative eﬀect toward aquatic ecosystem such as the large explosion of harmful phytoplankton population (HABs). The objective of this research is to analyze a relation between the water quality of ﬂoating cages and the growth of harmful phytoplankton population by using canocial corelation analysis. Water quality research includes its brightness, the deepness, disolved oxygen, salinity, pH, value of NO2, NO3, NH3, and PO4 and toxic phytoplankton obtained during the study also indicate the amount of phytoplankton growth The results were obtained 14 species of toxic phytoplankton in the study sites. Overall abundance of phytoplankton dominated by Choclodinium, Trichodesmium Erythraeum, Nitzschia Lanceolata dan Pseudo Nitzschia, where Choclodinium an abundance of phytoplankton with the highest density of 63 739 cells\/l. Canonical correlation analysis on triplot diagram showed water quality includes : brightness, disolved oxygen, pH, NO2, NO3 and PO4 together to give eﬀect to toxic phytoplankton abundance. Canonical correlation analysis also speciﬁcally indicate the abundance Choclodinium and Trichodesmium Erythraeum in ﬂoating nets of Ringgung Marines predominantly inﬂuenced by brightness, pH, value of NO3, and PO4.",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-11 01:58:51",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/article\/view\/725\/667",
+          "type": "org"
+        }
+      ],
+      "volume": 3,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Hubungan Perubahan Kualitas Air dan Pertumbuhan Fitoplankton Berbahaya pada Lingkungan Budidaya Ikan di Perairan Ringgung Teluk Lampung",
+      "date_type": "published",
+      "eprintid": 47693,
+      "pagerange": "289-296",
+      "datestamp": "2023-01-11 01:58:51",
+      "userid": 535,
+      "lastmod": "2023-01-11 01:58:51",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47693",
+      "refereed": "TRUE",
+      "number": 2,
+      "contributors": [
+        {
+          "id": "agussolihin1989@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Sholihin",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Qadar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Herman",
+            "lineage": null,
+            "family": "Yulianto",
+            "honourific": null
+          },
+          "id": "herman.yulianto@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "publisher": "Jurusan Perikanan dan Kelautan, Fakultas Pertanian, Universitas Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47693,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 186786,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522387",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522387,
+                  "filename": "2014. 725-1978-1-SM A.Solihin (S4).pdf",
+                  "hash": "8e9122a18b3ad96a1a0d8fc435fc0551",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-10 14:40:53",
+                  "datasetid": "document",
+                  "filesize": 891174
+                }
+            ],
+            "main": "2014. 725-1978-1-SM A.Solihin (S4).pdf",
+            "docid": 186786,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186786",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/04\/76\/93",
+      "date": 2015,
+      "publication": "Aquasains",
+      "creators": [
+        {
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "id": "agussolihin1989@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sholihin",
+            "lineage": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "id": "herman.yulianto@fp.unila.ac.id",
+          "name": {
+            "given": "Herman",
+            "family": "Yulianto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2301-816X"
+    },
+    {
+      "date": "2015-01",
+      "id_number": "https:\/\/doi.org\/10.25181\/jppt.v15i1.111",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Ade",
+            "lineage": null,
+            "honourific": null,
+            "family": "Irawan"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Qadar",
+            "lineage": null,
+            "family": "Hasani",
+            "honourific": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yulianto.herman@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yulianto",
+            "given": "Herman"
+          }
+        }
+      ],
+      "publisher": "Poloiteknik Negeri Lampung",
+      "datestamp": "2023-01-11 01:59:08",
+      "lastmod": "2023-01-11 01:59:08",
+      "date_type": "published",
+      "eprintid": 47698,
+      "official_url": "https:\/\/jurnal.polinela.ac.id\/jppt\/article\/view\/111",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Fish mortality in the Bay of Lampung not only wild fish, but also fish farmed in cages, especially Ringgung Beach. One which caused by harmful algal abundance that occur was increased input contaminants by both natural and anthropogenic sources. This study aims to analyze the influence of harmful algal blooms (HABs) the amount and frequency of fish mortality in cage Ringgung Lampung Bay. The study was conducted at three research stations based KJA density. The results of the study found 33 species of phytoplankton, 14 species have potential as HABs can cause the death of fish. The highest abundance was kind Cochlodinium that reach 63.738 cells\/liter. Phytoplankton diversity index value with the lowest value occurred at station 3 on June 19, 2013 ie the date of 0705. The highest phytoplankton diversity values occurred at Station 2 on June 12, 2013 is 2,451. Uniformity values of phytoplankton in the waters of Beach Ringgung obtained in the high category with a value above 0.5 or close to 1, which indicates that the spread of the individual any kind of relatively evenly. Except at station 3 which has a relatively low value (0.228 on June 19, 2013, 0291 on June 26, 2013, and 0446 on July 3, 2013). Effect of HABs on the fishing mortality rate is indicated by regression analysis. Correlation coefficient at station 1 shows the value of 0.5208. While on station 2 shows 0.6937. Harmful algal blooms shown to affect mortality rates of fish in floating net Ringgung Beach. They have triggered reduced oxygen levels in the water that could potentially cause the death of wild fish and farmed in floating net.",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/76\/98",
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Irawan",
+            "honourific": null,
+            "given": "Ade"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "id": "yulianto.herman@fp.unila.ac.id",
+          "name": {
+            "given": "Herman",
+            "honourific": null,
+            "family": "Yulianto",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1410-5020",
+      "contact_email": "masqod@fp.unila.ac.id",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47698",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186791",
+            "docid": 186791,
+            "main": "2015. 153-407-1-PB  Ade Irawan Pertanian Terapan (Sinta 3).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 235424,
+                  "fileid": 522418,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-01-11 00:14:01",
+                  "hash_type": "MD5",
+                  "hash": "78d5b65bfcc23b6108dfb0660a4f0ef5",
+                  "filename": "2015. 153-407-1-PB  Ade Irawan Pertanian Terapan (Sinta 3).pdf",
+                  "objectid": 186791,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522418"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 47698,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pagerange": "48-53",
+      "userid": 535,
+      "volume": 15,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Fenomena Harmful Algal Blooms (HABs) di Pantai Ringgung Teluk Lampung, Pengaruhnya dengan Tingkat Kematian Ikan yang Dibudidayakan pada Karamba Jaring Apung",
+      "status_changed": "2023-01-11 01:59:08",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.polinela.ac.id\/jppt\/article\/view\/111\/82"
+        }
+      ]
+    },
+    {
+      "eprintid": 47848,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-16 06:37:51",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Fish mortality in the Bay of Lampung not only wild fish, but also fish farmed in cages, especially Ringgung Beach. One which caused by harmful algal abundance that occur was increased input contaminants by both natural and anthropogenic sources. This study aims to analyze the influence of harmful algal blooms (HABs) the amount and frequency of fish mortality in cage Ringgung Lampung Bay. The study was conducted at three research stations based KJA density. The results of the study found 33 species of phytoplankton, 14 species have potential as HABs can cause the death of fish. The highest abundance was kind Cochlodinium that reach 63.738 cells\/liter. Phytoplankton diversity index value with the lowest value occurred at station 3 on June 19, 2013 ie the date of 0705. The highest phytoplankton diversity values occurred at Station 2 on June 12, 2013 is 2,451. Uniformity values of phytoplankton in the waters of Beach Ringgung obtained in the high category with a value above 0.5 or close to 1, which indicates that the spread of the individual any kind of relatively evenly. Except at station 3 which has a relatively low value (0.228 on June 19, 2013, 0291 on June 26, 2013, and 0446 on July 3, 2013). Effect of HABs on the fishing mortality rate is indicated by regression analysis. Correlation coefficient at station 1 shows the value of 0.5208. While on station 2 shows 0.6937. Harmful algal blooms shown to affect mortality rates of fish in floating net Ringgung Beach. They have triggered reduced oxygen levels in the water that could potentially cause the death of wild fish and farmed in floating net",
+      "title": "Fenomena Harmful Algal Blooms (HABs) di Pantai Ringgung Teluk Lampung, Pengaruhnya dengan Tingkat Kematian Ikan yang Dibudidayakan pada Karamba Jaring Apung (Cek Similarity)",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "type": "other",
+      "divisions": [
+        "FP20"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Ade",
+            "family": "Irawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hasani",
+            "honourific": null,
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "id": "herman.yulianto@fp.unila.ac.id",
+          "name": {
+            "given": "Herman",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yulianto"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/78\/48",
+      "date": "2015-01",
+      "lastmod": "2023-01-16 06:37:51",
+      "userid": 535,
+      "datestamp": "2023-01-16 06:37:51",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Ade",
+            "family": "Irawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Qadar",
+            "family": "Hasani",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Yulianto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Herman"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        }
+      ],
+      "publisher": "Poloiteknik Negeri Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186949",
+            "main": "5. Cek Similarity Jurnal Pertanian Terapan vol 15. no. 1 Januari 2015 (S2) - Copy-3-9.pdf.pdf",
+            "docid": 186949,
+            "files": [
+                {
+                  "objectid": 186949,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523663",
+                  "datasetid": "document",
+                  "filesize": 382554,
+                  "mime_type": "application\/pdf",
+                  "fileid": 523663,
+                  "filename": "5. Cek Similarity Jurnal Pertanian Terapan vol 15. no. 1 Januari 2015 (S2) - Copy-3-9.pdf.pdf",
+                  "hash": "e709fd25063c9e1901922ab14c1e1cf2",
+                  "mtime": "2023-01-16 05:00:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 47848,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47848",
+      "full_text_status": "public"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47847",
+      "publisher": "Fakultas Pertanian Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47847,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186948",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 523655,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-16 04:55:26",
+                  "filename": "4. Cek Similarity JRTBP Vol 4 No 1 2015-7-12.pdf.pdf",
+                  "hash": "a2d52d5076894a0af80a42b559defa1d",
+                  "datasetid": "document",
+                  "filesize": 436190,
+                  "objectid": 186948,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523655"
+                }
+            ],
+            "main": "4. Cek Similarity JRTBP Vol 4 No 1 2015-7-12.pdf.pdf",
+            "docid": 186948
+          }
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Fitri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Norjana"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Afendi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani"
+          }
+        }
+      ],
+      "datestamp": "2023-01-16 06:37:48",
+      "lastmod": "2023-01-16 06:37:48",
+      "userid": 535,
+      "dir": "disk0_bak\/00\/04\/78\/47",
+      "date": "2015-10",
+      "creators": [
+        {
+          "name": {
+            "family": "Norjanna",
+            "honourific": null,
+            "lineage": null,
+            "given": "Fitri"
+          },
+          "id": null
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Efendi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani",
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FP20"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "REDUKSI AMONIA PADA SISTEM RESIRKULASI  DENGAN PENGUNAAN FILTER YANG BERBEDA (Cek sumilarity)",
+      "abstract": "Amonia merupakan parameter kualitas air yang berperan penting pada budidaya ikan. Ikan mengeluarkan limbah dari sisa pakan dan metabolisme yang banyak mengandung amonia. Permasalahan yang biasa dihadapi adalah cepatnya akumulasi limbah dari residu pakan dan hasil metabolisme ikan. Amonia akan terakumulasi dalam sistem resirkulasi dan dapat mencapai konsentrasi yang merugikan ikan jika terlalu berlebihan. Untuk mengurangi amonia pada sistem resirkulasi dapat di lakukan dengan penambahan filter. Penelitian ini bertujuan untuk mengetahui laju pengurangan amonia dan menguji jenis filter yang efektif dalam penurunan amonia pada sistem resirkulasi. Penelitian ini menggunakan rancangan acak lengkap dengan empat perlakuan dan tiga ulangan (kontrol, zeolit, arang, dan pecahan karang). Penelitian dilakukan menggunakan benih lele (Clarias sp.) 4-5 cm dalam kolam terpal berukuran 1 x 1 x 2 m dengan kepadatan 200 ekor\/m2. Parameter utama dalam penelitian ini adalah amonia, dengan parameter pendukung yakni suhu, pH, dan oksigen terlarut. Hasil penelitian ini menunjukan bahwa penambahan filter berupa pecahan karang  memberikan pengaruh nyata terhadap penurunan amonia pada sistem resirkulasi.",
+      "subjects": [
+        "SH"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-01-16 06:37:48",
+      "date_type": "published",
+      "eprintid": 47847
+    },
+    {
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/article\/view\/1351"
+        }
+      ],
+      "status_changed": "2023-01-11 01:59:18",
+      "eprint_status": "archive",
+      "abstract": "Ikan patin membutuhkan pakan dengan kandungan protein 28-30%, dan Feeding rate berkisar antara 2–5% perhari. Namun keseluhuran pakan yang diberikan hanya 25% dikonversi sebagai biomasa dan sisanya terbuang sebagai limbah (amoniak dan feses). Hal ini mengakibatkan penurunan kualitas air sehingga pertumbuhan ikan terganggu. Bioflok salah satu alternatif mengatasi masalah kualitas air. Dengan memanfaatkan kemampuan bakteri heterotrof untuk memanfaatkan limbah dalam air budidaya diubah menjadi pakan alami tambahan yang bermanfaat sebagai sumber energi dan meningkatkan pertumbuhan ikan. Perbedaan jumlah pakan yang diberikan diduga mengakibatkan perbedaan jumlah kepadatan bioflok dalam suatu perairan. Penelitian ini bertujuan untuk mengetahui pengaruh Feeding Rate yang berbeda terhadap pertumbuhan ikan patin siam yang dipelihara dalam sistem bioflok. Rancangan penelitian yang digunakan adalah rancangan acak lengkap dengan empat perlakuan dan tiga kali ulangan. Perlakuan berupa pemberian pakan dengan FR yang berbeda (1%, 3%, 5%, 5% + non bioflok). Hasil penelitian menunjukkan bahwa pemberian FR yang berbeda berpengaruh terhadap pertumbuhan ikanpatin siam. Pertumbuhan ikan tertinggi ditunjukkan pada pemeliharaan dengan menggunakan sistem bioflok pada FR 5% dan pertumbuhan ikan terendah diperoleh pada pemeliharaan ikan menggunakan sistem bioflok dengan FR 1%.",
+      "subjects": [
+        "SH"
+      ],
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/article\/view\/1351\/1242",
+      "title": "PERTUMBUHAN IKAN PATIN SIAM (Pangasianodon hypopthalmus) YANG DIPELIHARA DENGAN SISTEM BIOFLOK PADA Feeding Rate YANG BERBEDA",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 4,
+      "eprintid": 47700,
+      "date_type": "published",
+      "lastmod": "2023-01-11 01:59:18",
+      "userid": 535,
+      "datestamp": "2023-01-11 01:59:18",
+      "pagerange": "453-460",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47700,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 186794,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522435",
+                  "fileid": 522435,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-11 00:32:15",
+                  "filename": "2015. 1351-3547-1-SM Anggun Safitri (S4).pdf",
+                  "hash": "5837ad94b338db1162033c61c67d6c37",
+                  "datasetid": "document",
+                  "filesize": 476001
+                }
+            ],
+            "main": "2015. 1351-3547-1-SM Anggun Safitri (S4).pdf",
+            "docid": 186794,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186794",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Jurusan Budidaya Perairan, Fakultas Pertanian Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Anggun",
+            "honourific": null,
+            "family": "Savitri",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null,
+            "given": "Qadar"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Tarsim",
+            "lineage": null,
+            "honourific": null,
+            "family": "Tarsim"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47700",
+      "type": "article",
+      "divisions": [
+        "FP20"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Savitri",
+            "honourific": null,
+            "given": "Anggun"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani",
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Tarsim",
+            "honourific": null,
+            "lineage": null,
+            "given": "Tarsim"
+          },
+          "id": "tarsimlampung@gmail.com"
+        }
+      ],
+      "issn": "p-ISSN: 2302-3600, e-ISSN: 2597-5315",
+      "publication": "E Jurnal Rekayasa dan Teknologi Budidaya Perairan",
+      "date": "2015-10",
+      "dir": "disk0_bak\/00\/04\/77\/00"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2023-01-16 06:38:08",
+      "abstract": "Ikan patin membutuhkan pakan dengan kandungan protein 28-30%, dan Feeding rate berkisar antara 2–5% perhari. Namun keseluhuran pakan yang diberikan hanya 25% dikonversi sebagai biomasa dan sisanya terbuang sebagai limbah (amoniak dan feses). Hal ini mengakibatkan penurunan kualitas air sehingga pertumbuhan ikan terganggu. Bioflok salah satu alternatif mengatasi masalah kualitas air. Dengan memanfaatkan kemampuan bakteri heterotrof untuk memanfaatkan limbah dalam air budidaya diubah menjadi pakan alami tambahan yang bermanfaat sebagai sumber energi dan meningkatkan pertumbuhan ikan. Perbedaan jumlah pakan yang diberikan diduga mengakibatkan perbedaan jumlah kepadatan bioflok dalam suatu perairan. Penelitian ini bertujuan untuk mengetahui pengaruh Feeding Rate yang berbeda terhadap pertumbuhan ikan patin siam yang dipelihara dalam sistem bioflok. Rancangan penelitian yang digunakan adalah rancangan acak lengkap dengan empat perlakuan dan tiga kali ulangan. Perlakuan berupa pemberian pakan dengan FR yang berbeda (1%, 3%, 5%, 5% + non bioflok). Hasil penelitian menunjukkan bahwa pemberian FR yang berbeda berpengaruh terhadap pertumbuhan ikanpatin siam. Pertumbuhan ikan tertinggi ditunjukkan pada pemeliharaan dengan menggunakan sistem bioflok pada FR 5% dan pertumbuhan ikan terendah diperoleh pada pemeliharaan ikan menggunakan sistem bioflok dengan FR 1%.",
+      "subjects": [
+        "SH"
+      ],
+      "title": "PERTUMBUHAN IKAN PATIN SIAM (Pangasianodon hypopthalmus) YANG DIPELIHARA DENGAN SISTEM BIOFLOK PADA Feeding Rate YANG BERBEDA (Cek Similarity)",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 47850,
+      "date_type": "published",
+      "lastmod": "2023-01-16 06:38:08",
+      "userid": 535,
+      "datestamp": "2023-01-16 06:38:08",
+      "publisher": "Jurusan Perikanan dan Kelautan, Fakultas Pertanian, Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filename": "7. Cek Similarity JRTPB vol 4 no 1 2015-4-10.pdf.pdf",
+                  "hash": "63339b2d8d163b4fcdf70cab82512344",
+                  "mtime": "2023-01-16 05:08:43",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 523677,
+                  "filesize": 524194,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523677",
+                  "objectid": 186951
+                }
+            ],
+            "main": "7. Cek Similarity JRTPB vol 4 no 1 2015-4-10.pdf.pdf",
+            "docid": 186951,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186951",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47850,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "contributors": [
+        {
+          "name": {
+            "given": "Anggun",
+            "family": "Savitri",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "Tarsim",
+            "honourific": null,
+            "given": "tarsim"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani",
+            "given": "Qadar"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "masqod@fp.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47850",
+      "type": "other",
+      "divisions": [
+        "FP20"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Savitri",
+            "honourific": null,
+            "given": "Anggun"
+          }
+        },
+        {
+          "id": "tarsimlampung@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tarsim",
+            "given": "Tarsim"
+          }
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "family": "Hasani",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/78\/50",
+      "date": "2015-10"
+    },
+    {
+      "lastmod": "2023-01-11 01:58:54",
+      "userid": 535,
+      "datestamp": "2023-01-11 01:58:54",
+      "pagerange": "289-296",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sholihin",
+            "given": "Agus"
+          },
+          "id": "agussolihin1989@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": null,
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani",
+            "given": "Qadar"
+          }
+        },
+        {
+          "name": {
+            "given": "Herman",
+            "family": "Yulianto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "herman.yulianto@fp.unila.ac.id",
+          "type": null
+        }
+      ],
+      "publisher": "Jurusan Perikanan dan Kelautan, Fakultas Pertanian, Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 47694,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186787",
+            "rev_number": 1,
+            "docid": 186787,
+            "main": "2014. 725-1978-1-SM A.Solihin (S4).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522393",
+                  "objectid": 186787,
+                  "filename": "2014. 725-1978-1-SM A.Solihin (S4).pdf",
+                  "hash": "8e9122a18b3ad96a1a0d8fc435fc0551",
+                  "mtime": "2023-01-10 15:01:18",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522393,
+                  "filesize": 891174,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47694",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FP20"
+      ],
+      "publication": "Aquasains",
+      "creators": [
+        {
+          "id": "agussolihin1989@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sholihin",
+            "lineage": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Qadar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Herman",
+            "honourific": null,
+            "family": "Yulianto",
+            "lineage": null
+          },
+          "id": "yulianto.herman@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2301-816X",
+      "date": "2015-01",
+      "dir": "disk0_bak\/00\/04\/76\/94",
+      "status_changed": "2023-01-11 01:58:54",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/article\/view\/725"
+        }
+      ],
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Water quality becomes the critical factor of successfully aqua culture process; especially this is in aquaculture of ﬂoating cages. Otherwise, unstable water quality could impact the negative eﬀect toward aquatic ecosystem such as the large explosion of harmful phytoplankton population (HABs). The objective of this research is to analyze a relation between the water quality of ﬂoating cages and the growth of harmful phytoplankton population by using canocial corelation analysis. Water quality research includes its brightness, the deepness, disolved oxygen, salinity, pH, value of NO2, NO3, NH3, and PO4 and toxic phytoplankton obtained during the study also indicate the amount of phytoplankton growth The results were obtained 14 species of toxic phytoplankton in the study sites. Overall abundance of phytoplankton dominated by Choclodinium, Trichodesmium Erythraeum, Nitzschia Lanceolata dan Pseudo Nitzschia, where Choclodinium an abundance of phytoplankton with the highest density of 63 739 cells\/l. Canonical correlation analysis on triplot diagram showed water quality includes : brightness, disolved oxygen, pH, NO2, NO3 and PO4 together to give eﬀect to toxic phytoplankton abundance. Canonical correlation analysis also speciﬁcally indicate the abundance Choclodinium and Trichodesmium Erythraeum in ﬂoating nets of Ringgung Marines predominantly inﬂuenced by brightness, pH, value of NO3, and PO4.",
+      "title": "HUBUNGAN PERUBAHAN KUALITAS AIR DAN PERTUMBUHAN FITOPLANKTON BERBAHAYA PADA LINGKUNGAN BUDIDAYA IKAN DI PERAIRAN RINGGUNG TELUK LAMPUNG",
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/article\/view\/725\/667",
+      "rev_number": 6,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "eprintid": 47694,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 47696,
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Tembakang Fish (Helostoma temminckii) is one of the fish that have high economic value in Rawa Bawang Latak. Overfishing and the introduction of fish resulted tembakang number of fish populations decline, so it takes the efforts of domestication. This study aims to determine the growth pattern that includes tembakang fish length and weight relationships, growth parameters, and factor conditions. Research carried out for four months, ie in October 2013 - January 2014. Tembakang fishing done at two stations in Rawa Bawang Latak. The sampling frequency of fish is done only once a month using Sero. The results showed that the pattern of growth tembakang fish is allometric positive, condition factor values male and female fish were not significantly different, female tembakang fish growth faster than the male fish, fish tembakang males on the size of 180.6 mm was 21 months, while females in size 191.1 mm 8 months old.",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/jurnal.polinela.ac.id\/jppt\/article\/view\/115",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "date": 2015,
+      "id_number": "https:\/\/doi.org\/10.25181\/jppt.v15i2.115",
+      "datestamp": "2023-01-11 01:59:00",
+      "lastmod": "2023-01-11 01:59:00",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ubamnata",
+            "honourific": null,
+            "given": "Bintang"
+          },
+          "id": "Ubamnata.bintang@yahoo.com"
+        },
+        {
+          "id": "rara.diantari@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Diantari",
+            "lineage": null,
+            "given": "Rara"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasani",
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        }
+      ],
+      "publisher": "Poloiteknik Negeri Lampung",
+      "status_changed": "2023-01-11 01:59:00",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.polinela.ac.id\/jppt\/article\/view\/115\/86"
+        }
+      ],
+      "rev_number": 7,
+      "volume": 15,
+      "metadata_visibility": "show",
+      "title": "Kajian Pertumbuhan Ikan Tembakang (Helostoma temminckii) Di Rawa Bawang Latak Kabupaten Tulang Bawang, Lampung",
+      "dir": "disk0_bak\/00\/04\/76\/96",
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ubamnata",
+            "honourific": null,
+            "given": "Bintang"
+          },
+          "id": "Ubamnata.bintang@yahoo.com"
+        },
+        {
+          "id": "rara.diantari@fp.unila.ac.id",
+          "name": {
+            "family": "Diantari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rara"
+          }
+        },
+        {
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          },
+          "id": "masqod@fp.unila.ac.id"
+        }
+      ],
+      "issn": "1410-5020",
+      "pagerange": "90-99",
+      "userid": 535,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47696",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 47696,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186789",
+            "docid": 186789,
+            "main": "2015. 115-223-2-PB Bintang Ubamnata (Sinta3).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522402",
+                  "objectid": 186789,
+                  "filesize": 400787,
+                  "datasetid": "document",
+                  "mtime": "2023-01-10 15:12:39",
+                  "hash_type": "MD5",
+                  "filename": "2015. 115-223-2-PB Bintang Ubamnata (Sinta3).pdf",
+                  "hash": "54daa4ff2b4409d0cf7a2b01a95a2f0a",
+                  "fileid": 522402,
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 47849,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Kajian Pertumbuhan Ikan Tembakang (Helostoma temminckii) Di Rawa Bawang Latak Kabupaten Tulang Bawang, Lampung (Cek Similarity)",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Tembakang Fish (Helostoma temminckii) is one of the fish that have high economic value in Rawa Bawang Latak. Overfishing and the introduction of fish resulted tembakang number of fish populations decline, so it takes the efforts of domestication. This study aims to determine the growth pattern that includes tembakang fish length and weight relationships, growth parameters, and factor conditions. Research carried out for four months, ie in October 2013 - January 2014. Tembakang fishing done at two stations in Rawa Bawang Latak. The sampling frequency of fish is done only once a month using Sero. The results showed that the pattern of growth tembakang fish is allometric positive, condition factor values male and female fish were not significantly different, female tembakang fish growth faster than the male fish, fish tembakang males on the size of 180.6 mm was 21 months, while females in size 191.1 mm 8 months old.",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-16 06:38:49",
+      "date": "2015-05",
+      "dir": "disk0_bak\/00\/04\/78\/49",
+      "creators": [
+        {
+          "id": "Ubamnata.bintang@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Ubamnata",
+            "lineage": null,
+            "given": "Bintang"
+          }
+        },
+        {
+          "name": {
+            "given": "Rara",
+            "honourific": null,
+            "family": "Diantari",
+            "lineage": null
+          },
+          "id": "rara.diantari@fp.unila.ac.id"
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hasani",
+            "honourific": null,
+            "given": "Qadar"
+          }
+        }
+      ],
+      "divisions": [
+        "FP20"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47849",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ubamnata",
+            "given": "Bintang"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Diantari",
+            "lineage": null,
+            "given": "Rara"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47849,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186950",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-16 05:04:51",
+                  "hash": "4d535bde17c02f1af5ee37354a26f27b",
+                  "filename": "6. Cek Similarity Jurnal Pertanian Terapan vol 15. no. 2 Januari 2015 (S2)-3-12.pdf.pdf",
+                  "fileid": 523670,
+                  "mime_type": "application\/pdf",
+                  "filesize": 475352,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523670",
+                  "objectid": 186950
+                }
+            ],
+            "docid": 186950,
+            "main": "6. Cek Similarity Jurnal Pertanian Terapan vol 15. no. 2 Januari 2015 (S2)-3-12.pdf.pdf"
+          }
+      ],
+      "publisher": "Poloiteknik Negeri Lampung",
+      "datestamp": "2023-01-16 06:38:49",
+      "lastmod": "2023-01-16 06:38:49",
+      "userid": 535
+    }
+]
+

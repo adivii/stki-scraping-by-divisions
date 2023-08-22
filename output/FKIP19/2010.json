@@ -1,0 +1,73 @@
+[
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14033",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 122156,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-09-02 07:54:04",
+                  "hash_type": "MD5",
+                  "hash": "8e96ca27fcde0fedbf65d1dbaa1215ec",
+                  "filename": "Proceeding International Seminar.pdf",
+                  "datasetid": "document",
+                  "filesize": 4237124,
+                  "objectid": 27065,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122156"
+                }
+            ],
+            "main": "Proceeding International Seminar.pdf",
+            "docid": 27065,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27065",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14033,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "datestamp": "2019-09-02 08:22:40",
+      "pagerange": "132-137",
+      "userid": 758,
+      "lastmod": "2019-09-02 08:22:40",
+      "dir": "disk0\/00\/01\/40\/33",
+      "date": 2010,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sabdaningtyas",
+            "lineage": null,
+            "given": "Lilik"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP19"
+      ],
+      "type": "conference_item",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "title": "Factors Supporting Dezentralization Policy Implementation Performance in Schools",
+      "abstract": "Prosiding",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-09-02 08:22:40",
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "eprintid": 14033,
+      "event_title": "International Seminar In Education 2010"
+    }
+]
+

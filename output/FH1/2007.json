@@ -1,0 +1,209 @@
+[
+    {
+      "datestamp": "2019-11-14 10:11:20",
+      "lastmod": "2019-11-14 10:11:20",
+      "userid": 366,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16105",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 16105,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29199",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 137943,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-11-12 07:12:39",
+                  "hash_type": "MD5",
+                  "hash": "b5f8c60138481d9f1924a7612ec3094e",
+                  "filename": "Review Candra Penerapan Kebijakan Sanksi Pidana.pdf",
+                  "datasetid": "document",
+                  "filesize": 749244,
+                  "objectid": 29199,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/137943"
+                }
+            ],
+            "main": "Review Candra Penerapan Kebijakan Sanksi Pidana.pdf",
+            "docid": 29199
+          }
+      ],
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/61\/05",
+      "date": "2007-01",
+      "publication": "Fiat Justisia",
+      "creators": [
+        {
+          "id": "perbawaticandra@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Candra Perbawati",
+            "given": "Candra"
+          }
+        }
+      ],
+      "subjects": [
+        "K1"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "status_changed": "2019-11-14 10:11:20",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Penerapan Kebijakan Sanksi Pidana Dalam Peraturan Daerah Sebagai Upaya Penanggulangan Kejahatan",
+      "eprintid": 16105
+    },
+    {
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2019-07-01 03:01:03",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 7,
+      "title": "Kajian Terhadap No. 147\/Pdt.G\/2006\/PA.Tnk. Tentang Putusan Verstek : Solusi Hukum Kasus Perceraian di Pengadilan Agama",
+      "date_type": "published",
+      "eprintid": 13431,
+      "datestamp": "2019-07-01 03:01:03",
+      "pagerange": "125-134",
+      "userid": 987,
+      "lastmod": "2019-07-01 03:01:03",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13431",
+      "publisher": "Komisi Yudisial Republik Indonesia",
+      "documents": [
+          {
+            "eprintid": 13431,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 26442,
+            "main": "Wahyu Sasongko = Jurnal Yudisial Vol.I.No.2 November 2007.pdf",
+            "files": [
+                {
+                  "objectid": 26442,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117557",
+                  "fileid": 117557,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-06-27 06:44:44",
+                  "hash_type": "MD5",
+                  "filename": "Wahyu Sasongko = Jurnal Yudisial Vol.I.No.2 November 2007.pdf",
+                  "hash": "75b0010f0d8426a6d337b08e2ab71266",
+                  "datasetid": "document",
+                  "filesize": 11570850
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26442"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "divisions": [
+        "FH1"
+      ],
+      "type": "article",
+      "date": "2007-11-01",
+      "dir": "disk0\/00\/01\/34\/31",
+      "creators": [
+        {
+          "name": {
+            "family": "Wahyu Sasongko",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wahyu"
+          }
+        }
+      ],
+      "issn": "1978-6506",
+      "publication": "Yudisial"
+    },
+    {
+      "eprintid": 10724,
+      "eprint_status": "archive",
+      "status_changed": "2019-02-11 12:21:06",
+      "subjects": [
+        "K1"
+      ],
+      "title": "Kajian Terhadap Putusan Perkara No. 159\/Pdt.G\/2006\/PA.Tnk Tentang Perbedaan Agama Faktor Determinan Terjadinya Perceraian",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 8,
+      "type": "article",
+      "divisions": [
+        "FH1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Wahyu",
+            "family": "Wahyu Sasongko",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1978-6505",
+      "publication": "Jurnal Yudisial",
+      "dir": "disk0\/00\/01\/07\/24",
+      "date": "2007-12",
+      "lastmod": "2019-02-11 12:21:06",
+      "userid": 987,
+      "datestamp": "2019-02-11 12:21:06",
+      "pagerange": "1978-6505",
+      "documents": [
+          {
+            "eprintid": 10724,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 23736,
+            "main": "wahyu sasongko. jurnal yudisial. kajian terhadap putusan perkar.pdf",
+            "files": [
+                {
+                  "objectid": 23736,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98999",
+                  "datasetid": "document",
+                  "filesize": 6872761,
+                  "mime_type": "application\/pdf",
+                  "fileid": 98999,
+                  "filename": "wahyu sasongko. jurnal yudisial. kajian terhadap putusan perkar.pdf",
+                  "hash": "331a8fa554137ee3ad4f5759a09a69ef",
+                  "mtime": "2019-02-11 07:17:21",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23736",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Komisi Yudisial Republik Indonesia",
+      "ispublished": "pub",
+      "number": 3,
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10724",
+      "full_text_status": "public"
+    }
+]
+

@@ -1,0 +1,3772 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 6767,
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "title": "PEMBENTUKAN HAMILTONIAN CYCLE PADA DOUBLE LOOP NETWORKS",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "abstract": "Graf Hamiltonian merupakan salah satu jenis graf dimana graf tersebut mengandung graf sirkuit yang tiap vertex-nya berderajat dua. Loop Networks adalah jaringan yang memiliki paling sedikit satu struktur Ring (cycle atau sirkuit). Double Loop Network, dinotasikan G (n;s1,s2) yaitu digraph atau graf berarah dengan n vertex { 0, 1, 2, …, n − 1} dan 2n edge dengan arah i menuju i+s1(mod n) dan dan i menuju i+s2(mod n) dimana dan vertex yang dipilih. Pada penelitian ini akan didiskusikan tentang pembentukan dua sifat Hamiltonian cycle pada Double Loop Network",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2018-04-25 07:52:51",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/67\/67",
+      "date": "2013-05-10",
+      "creators": [
+        {
+          "name": {
+            "family": "Aliana",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dina Fitri"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriani",
+            "given": "Fitriani"
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6767",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6767,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 19734,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62039",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62039,
+                  "hash": "9d06149c73cc3fded3e9e7dc1ca8c78c",
+                  "filename": "Prisiding BKS PTN B 2013_Dina_Wamiliana_Fitriani.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 03:08:15",
+                  "datasetid": "document",
+                  "filesize": 1024858
+                }
+            ],
+            "docid": 19734,
+            "main": "Prisiding BKS PTN B 2013_Dina_Wamiliana_Fitriani.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19734",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "pagerange": "1-8",
+      "datestamp": "2018-04-25 07:52:51",
+      "userid": 791,
+      "lastmod": "2018-04-25 07:52:51"
+    },
+    {
+      "eprintid": 6825,
+      "date_type": "published",
+      "title": "Pembentukan Hamiltonian Cycle pada Double Loop Networks",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 06:37:01",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Graf Hamiltonian merupakan salah satu jenis graf dimana graf tersebut mengandung graf sirkuit yang tiap vertex-nya berderajat dua. Loop Networks adalah jaringan yang memiliki paling sedikit satu struktur Ring (cycle atau sirkuit). Double Loop Network, dinotasikan G (n; s1, s2 ) yaitu digraph atau graf berarah dengan n vertex { 0, 1, 2, …, n − 1} dan 2n edge dengan arah i menuju i+s1 (mod n) dan i menuju i+s2 (mod n) dan dimana s1 dan s2 vertex yang dipilih. Pada penelitian ini akan didiskusikan tentang pembentukan dua sifat Hamiltonian cycle pada Double Loop Network",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Dina Fitri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Allana"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Fitriani",
+            "lineage": null,
+            "given": "Fitriani"
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/68\/25",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "FMIPA Unila",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6825,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19798",
+            "rev_number": 1,
+            "docid": 19798,
+            "main": "Prisiding BKS PTN B 2013_Dina_Wamiliana_Fitriani.pdf",
+            "files": [
+                {
+                  "objectid": 19798,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62516",
+                  "fileid": 62516,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-25 04:43:52",
+                  "hash": "9d06149c73cc3fded3e9e7dc1ca8c78c",
+                  "filename": "Prisiding BKS PTN B 2013_Dina_Wamiliana_Fitriani.pdf",
+                  "datasetid": "document",
+                  "filesize": 1024858
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6825",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2018-04-25 06:37:01",
+      "userid": 263,
+      "pagerange": "1-8",
+      "datestamp": "2018-04-25 06:37:01"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6733,
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "title": "GRAF LOBSTER BERBILANGAN KROMATIK LOKASI EMPAT",
+      "abstract": "Misalkan G=(V,E) adalah graf terhubung dan c suatu pewarnaan-k sejati dari G . Misal-kan pula Π={C1,C2,...,C3} merupakan partisi dari V(G) yang diinduksi oleh pewarnaan c. Kode warna, cΠ(v) dari v adalah koordinat (d(v,C1),d(v,C2),...,d(v,Ck)) dengan d(v,Ci)=min{d(v,x)|x∈Ci} untuk 1 <= i <= k. Jika semua titik di G mempunyai kode warna berbeda, maka c disebut pewarnaan lokasi . Bilangan kromatik lokasi dari G ,\r\ndinotasikan dengan XL(G), adalah bilangan terkecil k sehingga G mempunyai pewarnaan-k lokasi. Pada paper ini akan dibahas sebuah graf lobster berbilangan kromatik lokasi empat.",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2018-04-25 08:03:01",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/67\/33",
+      "date": "2013-05-10",
+      "creators": [
+        {
+          "id": "asmiati308@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati",
+            "given": "Asmiati"
+          }
+        }
+      ],
+      "publication": "GRAF LOBSTER BERBILANGAN KROMATIK LOKASI EMPAT",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6733",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6733,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 19702,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61847",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61847,
+                  "filename": "Prosiding Seminar BKS PTN B 2013 Asmiati.pdf",
+                  "hash": "55d9250b08f8ca53f832d4c9bb21d91f",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-17 07:43:06",
+                  "datasetid": "document",
+                  "filesize": 95419
+                }
+            ],
+            "main": "Prosiding Seminar BKS PTN B 2013 Asmiati.pdf",
+            "docid": 19702,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19702",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat",
+      "number": 1,
+      "ispublished": "pub",
+      "pagerange": "1-3",
+      "datestamp": "2018-04-25 08:03:01",
+      "userid": 821,
+      "lastmod": "2018-04-25 08:03:02"
+    },
+    {
+      "rev_number": 6,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "title": "Aplikasi Homotopy Analysis Method (HAM) pada PDB Sederhana",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Ide dasar teknik analitik HAM didasarkan pada deret Taylor. Validitas HAM tidak bergantung pada ada tidaknya parameter kecil pada persamaan diferensial taklinear. Karena itu teknik analitik ini lebih baik bila digunakan untuk menyelesaikan masalah– masalah tak linear.",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 04:26:04",
+      "date_type": "published",
+      "eprintid": 6806,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6806",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 41692,
+                  "mime_type": "application\/pdf",
+                  "fileid": 62298,
+                  "hash": "02e6ea043706dd71dfd2befd094577d9",
+                  "filename": "Prosiding BKS PTN B 2013 Dorrah Azis.pdf",
+                  "mtime": "2018-04-24 06:47:43",
+                  "hash_type": "MD5",
+                  "objectid": 19778,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62298"
+                }
+            ],
+            "main": "Prosiding BKS PTN B 2013 Dorrah Azis.pdf",
+            "docid": 19778,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19778",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6806,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "1-5",
+      "datestamp": "2018-04-25 04:26:04",
+      "userid": 996,
+      "lastmod": "2018-04-25 04:26:04",
+      "dir": "disk0\/00\/00\/68\/06",
+      "date": "2013-05-10",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN 2013",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aziz",
+            "lineage": null,
+            "given": "Dorrah"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 3904,
+      "abstract": "Let c be a proper k-coloring of a connected graph G. Let � = fS1; S2; : : : ; Skg be the induced\r\npartition of V (G) by c, where Si is the partition class having all vertices with color i. The color\r\ncode c�(v) of vertex v is the ordered k-tuple (d(v; S1); d(v; S2); : : : ; d(v; Sk)), where d(v; Si) =\r\nminfd(v; x)jx 2 Sig, for 1 � i � k. If all vertices of G have distinct color codes, then c is called a\r\nlocating-coloring of G. The locating-chromatic number of G, denoted by �L(G), is the smallest k\r\nsuch that G posses a locating k-coloring. Clearly, any graph of order n � 2 has locating-chromatic\r\nnumber k, where 2 � k � n. Characterizing all graphs with a certain locating-chromatic number\r\nis a difficult problem. Up to now, all graphs of order n with locating chromatic number 2; n",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2017-09-15 01:19:36",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "official_url": "http:\/\/ejgta.org\/index.php\/ejgta",
+      "title": "Characterizing all trees with locating-chromatic\r\nnumber 3",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "date": 2013,
+      "dir": "disk0\/00\/00\/39\/04",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Baskoro",
+            "given": "Edy Tri"
+          },
+          "id": null
+        },
+        {
+          "id": "asmiati308@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asmiati",
+            "given": "Asmiati"
+          }
+        }
+      ],
+      "issn": "2338-2287",
+      "publication": "Electronic Journal of Graph Theory and Applications",
+      "datestamp": "2017-09-15 01:19:36",
+      "pagerange": "109-117",
+      "lastmod": "2017-09-15 01:19:36",
+      "userid": 821,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3904",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3765",
+            "docid": 3765,
+            "main": "Characterizing all trees with locating-chromatic 3.pdf",
+            "files": [
+                {
+                  "objectid": 3765,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27335",
+                  "fileid": 27335,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-13 00:50:05",
+                  "hash": "7327dbf296171b80183da2934b7e1b10",
+                  "filename": "Characterizing all trees with locating-chromatic 3.pdf",
+                  "datasetid": "document",
+                  "filesize": 420479
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 3904,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Indonesian Combinatorics",
+      "ispublished": "pub",
+      "number": 2
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurniasari",
+            "honourific": null,
+            "family": "Dian",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/01\/86\/73",
+      "lastmod": "2020-03-13 08:49:54",
+      "userid": 752,
+      "datestamp": "2020-03-13 08:49:54",
+      "ispublished": "pub",
+      "publisher": "The First International Confrence on Law, Bussiness & Governance",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 18673,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31846",
+            "docid": 31846,
+            "main": "IS23% - A19 - APPLICATION_OF_FACTOR_ANALYSIS_TO_PUBLIC_SECTOR_IN.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 4736583,
+                  "mime_type": "application\/pdf",
+                  "fileid": 156845,
+                  "filename": "IS23% - A19 - APPLICATION_OF_FACTOR_ANALYSIS_TO_PUBLIC_SECTOR_IN.pdf",
+                  "hash": "f9f672565a805277ab389cf6c96ced04",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-13 04:34:55",
+                  "objectid": 31846,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/156845"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18673",
+      "full_text_status": "public",
+      "eprintid": 18673,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2020-03-13 08:49:54",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peereveview Karya Ilmiah: Jurnal Ilmiah Internasional",
+      "title": "Application of factor analysis to public sector integrity  in Indonesia",
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "event_location": "FMIPA Universitas Lampung",
+      "event_title": "Semirata FMIPA 2013",
+      "eprintid": 1319,
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/semirata\/article\/view\/698",
+      "title": "Pembentukan Ring Faktor Pada Ring Deret Pangkat Teritlak \r\nMiring",
+      "event_dates": "10-12 Mei 2013",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-12-16 01:17:57",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Misalkan  R  ring  dengan  elemen  satuan,(S, . , ≤)  monoid  terurut  tegas,  dan ω:S→End(R) homomorfisma monoid.  Himpunan semua fungsi dari S ke R dengan support  Artin  dan  narrow  yang  dilengkapi  dengan  operasi  penjumlahan  dan  pergandaan, merupakan suatu ring yang disebut Ring Deret Pangkat Teritlak Miring (RDPTM) dan  dinotasikan  dengan  R[[S, ω,≤]]  atauR[[S, ω]]. Jika  I  ideal  dari  R,  maka  dapat  dibentuk  himpunan R\/I yang  merupakan  ring  yang  disebut  dengan  ring  faktor.  Dalam  tulisan  ini dibahas  tentang  pembentukan  ring  faktor  pada  RDPTM,  yaitu  ring  faktor  \r\nR[[S, ω]]\/ I[[S, ω]]  dengan  I[[S, ω]]  adalah  ideal  di  RDPTM  R[[S, ω]]. Selanjutnya, ditunjukkan juga bahwa ring faktor pada RDPTM isomorfik dengan RDPTM atas ring  faktor  R\/I  , yaitu  (R[[S,ω]])⁄(I[[S,ω]])≅(R⁄I)[[S,μ]].",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Faisol",
+            "lineage": null,
+            "given": "Ahmad"
+          },
+          "id": "faisol_mathunila@yahoo.co.id"
+        }
+      ],
+      "dir": "disk0\/00\/00\/13\/19",
+      "date": "2013-05",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 1319,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1193",
+            "rev_number": 1,
+            "docid": 1193,
+            "main": "Pembentukan Ring Faktor Pada Ring Deret Pangkat Teritlak Prosiding semirata 2013.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8847",
+                  "objectid": 1193,
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-15 03:33:34",
+                  "hash": "2a84c8182fb4ed899a5913f0cd8e6863",
+                  "filename": "Pembentukan Ring Faktor Pada Ring Deret Pangkat Teritlak Prosiding semirata 2013.pdf",
+                  "fileid": 8847,
+                  "mime_type": "application\/pdf",
+                  "filesize": 690960,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1319",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 300,
+      "lastmod": "2016-12-16 01:17:57",
+      "datestamp": "2016-12-16 01:17:57",
+      "pagerange": "1-5"
+    },
+    {
+      "status_changed": "2018-05-28 03:38:10",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Misalkan R adalah ring dengan elemen satuan 1 ≠ 0 dan M adalah R-modul. Submodul U dikatakan submodul distributif lemah dari M jika U=U∩X+U∩Y untuk setiap submodul X,Y⊆M sedemikian sehingga X+Y=M ܺ  R-modul M dikatakan modul distributif lemah jika setiap submodulnya merupakan submodul distributif lemah. Modul distributif lemah merupakan generalisasi dari modul distributif. Salah satu contoh modul distributif lemah adalah modul duo. Dalam tulisan ini akan dibahas mengenai syarat perlu suatu modul merupakan modul distributif lemah dan sifat ring endomorfisma dari modul distributif lemah",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "title": "Syarat Perlu Suatu Modul Merupakan Modul Distributif Lemah dan Ring Endomorfisma dari Modul Distributif Lemah",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 6833,
+      "date_type": "published",
+      "lastmod": "2018-05-28 03:38:10",
+      "userid": 263,
+      "datestamp": "2018-05-28 03:38:10",
+      "pagerange": "1-6",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19807",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62569",
+                  "objectid": 19807,
+                  "filesize": 179928,
+                  "datasetid": "document",
+                  "hash": "ed27c6b243d5798b70fdbc6c83d09fa7",
+                  "filename": "Prosiding BKS PTN B 2013 Fitriani.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-25 05:54:21",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62569
+                }
+            ],
+            "docid": 19807,
+            "main": "Prosiding BKS PTN B 2013 Fitriani.pdf",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6833
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6833",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "name": {
+            "given": "Fitriani",
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/68\/33"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2016-12-15 01:06:22",
+      "abstract": "Misalkan  R  adalah  ring  dengan  elemen  satuan dan M adalah  R-modul. Submodul  U  dikatakan  submodul  distributif  lemah  dari  M  jika U=U∩X+U∩Y  untuk setiap submodul X,Y di M sedemikian sehingga  X + Y = M. R-modul M dikatakan modul distributif lemah jika setiap submodulnya merupakan submodul distributif lemah. Modul distributif lemah merupakan generalisasi dari modul distributif. Salah satu contoh modul  distributif  lemah  adalah  modul  duo.  Dalam  tulisan  ini  akan  dibahas  mengenai  syarat perlu suatu modul merupakan modul distributif lemah dan sifat ring endomorfisma dari modul distributif lemah.",
+      "subjects": [
+        "QA"
+      ],
+      "event_dates": "10-12 Mei 2013",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/semirata\/article\/view\/883",
+      "title": "yarat Perlu Suatu Modul Merupakan Modul Distributif \r\nLemah dan Ring Endomorfisma dari Modul Distributif \r\nLemah",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "eprintid": 1317,
+      "event_title": "Semirata FMIPA 2013",
+      "date_type": "published",
+      "event_location": "FMIPA Universitas Lampung",
+      "lastmod": "2016-12-15 01:06:22",
+      "userid": 263,
+      "datestamp": "2016-12-15 01:06:22",
+      "pagerange": "239-245",
+      "documents": [
+          {
+            "eprintid": 1317,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 1191,
+            "main": "yarat Perlu Suatu Modul Merupakan Modul Distributif Prosiding semirata 2013.pdf",
+            "files": [
+                {
+                  "objectid": 1191,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8831",
+                  "fileid": 8831,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-14 06:25:45",
+                  "filename": "yarat Perlu Suatu Modul Merupakan Modul Distributif Prosiding semirata 2013.pdf",
+                  "hash": "98921dbbe811c9374f300ef5dfda7140",
+                  "datasetid": "document",
+                  "filesize": 554120
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1191",
+            "rev_number": 1
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1317",
+      "full_text_status": "public",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Fitriani",
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriani"
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/00\/13\/17"
+    },
+    {
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6773,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19743",
+            "rev_number": 1,
+            "main": "Prosiding BKS PTN B 2013 Novenza Harisman_Wamiliana_Fitriani.pdf",
+            "docid": 19743,
+            "files": [
+                {
+                  "objectid": 19743,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62089",
+                  "datasetid": "document",
+                  "filesize": 584114,
+                  "mime_type": "application\/pdf",
+                  "fileid": 62089,
+                  "hash": "fab8bf33e9c712f3515309bc63ebbaa2",
+                  "filename": "Prosiding BKS PTN B 2013 Novenza Harisman_Wamiliana_Fitriani.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 03:38:07"
+                }
+            ]
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6773",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2018-04-25 07:56:26",
+      "userid": 791,
+      "datestamp": "2018-04-25 07:56:26",
+      "pagerange": "1-8",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "id": "novenzaharisman@yahoo.com",
+          "name": {
+            "given": "Novenza",
+            "honourific": null,
+            "family": "Harisman",
+            "lineage": null
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fitriani",
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "dir": "disk0\/00\/00\/67\/73",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "title": "Representasi Turnamen Round-Robin Dengan Menggunakan Graf Hamiltonian dan Matriks",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "rev_number": 8,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 07:56:26",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Turnamen Round-Robin adalah turnamen yang memiliki sistem pertandingan dimana setiap tim dalam turnamen akan bertanding dengan tim lainnya sebanyak satu kali. Turnamen Round-Robin akan direpresentasikan ke dalam bentuk graf lengkap berarah dengan orde 10 dan11 dengan menggunakan dua metode, yaitu untuk turnamen dengan jumlah vertex genap digunakan Metode Penjadwalan dengan menggunakan Kongruen Modulo, dan turnamen\r\ndengan jumlah vertex ganjil digunakan Metode Rotational Turnament. Penelitian ini bertujuan untuk mengkaji aplikasi graf Hamiltonian dan merepresentasikan turnamen Round-Robin dalam bentuk matriks turnamen. Dari hasil penelitian ini dapat disimpulkan bahwa bentuk graf turnamen yang diperoleh dengan jumlah vertex genap yaitu 10 vertex, sirkuit Hamiltonian yang terbentuk sebanyak 3 buah, sedangkan untuk turnamen dengan jumlah vertex ganjil yaitu 11 vertex, sirkuit Hamiltonian yang terbentuk sebanyak 5 buah.",
+      "eprintid": 6773,
+      "date_type": "published"
+    },
+    {
+      "rev_number": 6,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "title": "Representasi Turnamen Round-Robin dengan Menggunakan Graf Hamiltonian dan Matriks",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Turnamen Round-Robin adalah turnamen yang memiliki sistem pertandingan dimana setiap tim dalam turnamen akan bertanding dengan tim lainnya sebanyak satu kali. Turnamen Round-Robin akan direpresentasikan ke dalam bentuk graf lengkap berarah dengan orde 10 dan11 dengan menggunakan dua metode, yaitu untuk turnamen dengan jumlah vertex genap digunakan Metode Penjadwalan dengan menggunakan Kongruen Modulo, dan turnamen dengan jumlah vertex ganjil digunakan Metode Rotational Turnament. Penelitian ini bertujuan untuk mengkaji aplikasi graf Hamiltonian dan merepresentasikan turnamen Round-Robin dalam bentuk matriks turnamen. Dari hasil penelitian ini dapat disimpulkan bahwa bentuk graf turnamen yang diperoleh dengan jumlah vertex genap yaitu 10\r\nvertex, sirkuit Hamiltonian yang terbentuk sebanyak 3 buah, sedangkan untuk turnamen dengan jumlah vertex ganjil yaitu 11 vertex, sirkuit Hamiltonian yang terbentuk sebanyak 5 buah.",
+      "status_changed": "2018-04-25 06:38:19",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 6821,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6821",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "eprintid": 6821,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Novenza Harisman_Wamiliana_Fitriani.pdf",
+            "docid": 19794,
+            "files": [
+                {
+                  "objectid": 19794,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62493",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62493,
+                  "filename": "Novenza Harisman_Wamiliana_Fitriani.pdf",
+                  "hash": "fab8bf33e9c712f3515309bc63ebbaa2",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-25 04:36:57",
+                  "datasetid": "document",
+                  "filesize": 584114
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19794",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "FMIPA Unila",
+      "datestamp": "2018-04-25 06:38:19",
+      "pagerange": "1-8",
+      "lastmod": "2018-04-25 06:38:19",
+      "userid": 263,
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/68\/21",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "name": {
+            "given": "Novenza",
+            "honourific": null,
+            "family": "Harisman",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana"
+          }
+        },
+        {
+          "id": "fitriani_mathunila@yahoo.co.id",
+          "name": {
+            "given": "Fitriani",
+            "honourific": null,
+            "family": "Fitriani",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Mutiara",
+            "honourific": null,
+            "family": "Hati Agustia",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Usman",
+            "given": "Mustofa"
+          }
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Widiarti"
+          },
+          "id": "widiarti08@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/00\/63\/36",
+      "date": "2013-05-10",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6336,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19261",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "fabdae852f4814e1c1b7962dc0579579",
+                  "filename": "Mutiara Hati.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-11 05:07:48",
+                  "mime_type": "application\/pdf",
+                  "fileid": 58934,
+                  "filesize": 2829379,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/58934",
+                  "objectid": 19261
+                }
+            ],
+            "docid": 19261,
+            "main": "Mutiara Hati.pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6336",
+      "refereed": "TRUE",
+      "lastmod": "2018-01-11 05:33:24",
+      "userid": 33,
+      "datestamp": "2018-01-11 05:33:24",
+      "event_location": "Bandar Lampung",
+      "event_title": "SEMINAR DAN RAPAT TAHUNAN (SEMIRATA) BIDANG ILMU MIPA 2013 BKS PTN BARAT (10 - 12 Mei) Universitas Lampung, Bandar Lampung",
+      "eprintid": 6336,
+      "date_type": "published",
+      "event_dates": "10 - 12 Mei 2013",
+      "title": "Analisis Profil Populasi Penduduk Pulau Jawa Berdasarkan Kelompok Umur",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2018-01-11 05:33:24",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Analisis profil merupakan salah satu teknik analisis peubah ganda yang telah diaplikasikan ke berbagai bidang, salah satunya bidang pemerintahan yang biasanya digunakan untuk mengetahui karakteristik kesamaan beberapa kota atau negara. Penelitian ini bertujuan untuk mengetahui kesamaan karakteristik populasi pada masing-masing provinsi di Pulau Jawa berdasarkan enam belas kelompok umur. Pulau Jawa\r\nterdiri dari empat provinsi, yaitu Jawa Barat, Jawa Tengah, Jawa Timur, dan Banten, serta dua wilayah khusus, yaitu DKI Jakarta dan DI Yogyakarta. Pada penelitian ini, analisis profil digunakan untuk membandingkan profil populasi penduduk keenam provinsi di Pulau Jawa berdasarkan enam belas kelompok umur. Berdasarkan uji kesejajaran profil, diketahui bahwa profil keenam provinsi tidak sejajar atau dengan kata lain proporsi penduduk berdasarkan kelompok umur pada beberapa provinsi berbeda. Perbandingan berpasangan dengan metode Tukey juga menunjukkan bahwa ada beberapa perbedaan yang nyata pada beberapa provinsi pada masing-masing kelompok umur."
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19189",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 19189,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32426",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-15 03:25:16",
+                  "hash": "5aef8e7b6cb8e4e3125d1215fdbd8896",
+                  "filename": "19. Application of factor analysis to public sector integrity  in Indonesia.pdf",
+                  "fileid": 160824,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1074401,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160824",
+                  "objectid": 32426
+                }
+            ],
+            "docid": 32426,
+            "main": "19. Application of factor analysis to public sector integrity  in Indonesia.pdf"
+          }
+      ],
+      "publisher": "The First International Confrence on Law, Bussiness & Governance",
+      "datestamp": "2020-04-15 04:06:43",
+      "lastmod": "2020-04-15 04:06:43",
+      "userid": 752,
+      "date": 2013,
+      "dir": "disk0\/00\/01\/91\/89",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Application of factor analysis to public sector integrity  in Indonesia",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Prosiding dan Makalah yang di Presentasikan",
+      "status_changed": "2020-04-15 04:06:43",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 19189
+    },
+    {
+      "dir": "disk0\/00\/01\/91\/86",
+      "date": 2013,
+      "creators": [
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "other",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19186",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 19186,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 160803,
+                  "hash": "f0cf7d58bd70970b27b52be8e4579194",
+                  "filename": "16. Implementasi Algoritma Backtrack untuk Pencarian Solusi Knight's Tour Problem pada Papan Catur m x n.pdf",
+                  "mtime": "2020-04-15 03:19:59",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 520973,
+                  "objectid": 32423,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160803"
+                }
+            ],
+            "docid": 32423,
+            "main": "16. Implementasi Algoritma Backtrack untuk Pencarian Solusi Knight's Tour Problem pada Papan Catur m x n.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32423",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Jurnal Komputasi",
+      "ispublished": "pub",
+      "datestamp": "2020-04-15 04:02:41",
+      "userid": 752,
+      "lastmod": "2020-04-15 04:02:41",
+      "date_type": "published",
+      "eprintid": 19186,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Implementasi Algoritma Backtrack untuk Pencarian Solusi Knight's Tour Problem pada Papan Catur m x n",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "subjects": [
+        "AC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-04-15 04:02:41"
+    },
+    {
+      "eprintid": 19185,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2020-04-15 04:02:29",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Implementasi Metode Dynamic Programming pada Aplikasi Penentuan Jarak Minimum",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/91\/85",
+      "date": 2013,
+      "lastmod": "2020-04-15 04:02:29",
+      "userid": 752,
+      "datestamp": "2020-04-15 04:02:29",
+      "documents": [
+          {
+            "docid": 32422,
+            "main": "15. Implementasi Metode Dynamic Programming pada Aplikasi Penentuan Jarak Minimum.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 513731,
+                  "fileid": 160796,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-15 03:17:59",
+                  "filename": "15. Implementasi Metode Dynamic Programming pada Aplikasi Penentuan Jarak Minimum.pdf",
+                  "hash": "e28db2441ef9b10bd369883072df1fc7",
+                  "objectid": 32422,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160796"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32422",
+            "rev_number": 1,
+            "eprintid": 19185,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Jurnal Komputasi",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19185"
+    },
+    {
+      "title": "Karakteristik Pendugaan Empirical Best Linear Unbased Prediction (EBLUP) pada Pendugaan Area Kecil",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "status_changed": "2020-04-15 04:08:03",
+      "eprint_status": "archive",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Prosiding dan Makalah yang di Presentasikan",
+      "subjects": [
+        "AC"
+      ],
+      "eprintid": 19195,
+      "date_type": "published",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 19195,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32431",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 595258,
+                  "mime_type": "application\/pdf",
+                  "fileid": 160861,
+                  "hash": "1ab2db476b4ace3ca67047044a18fea8",
+                  "filename": "24. Karakteristik Pendugaan Empirical Best Linear Unbased Prediction (EBLUP) pada Pendugaan Area Kecil.pdf",
+                  "mtime": "2020-04-15 03:38:43",
+                  "hash_type": "MD5",
+                  "objectid": 32431,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160861"
+                }
+            ],
+            "docid": 32431,
+            "main": "24. Karakteristik Pendugaan Empirical Best Linear Unbased Prediction (EBLUP) pada Pendugaan Area Kecil.pdf"
+          }
+      ],
+      "publisher": "Prosiding Seminar Nasional dalam rangka SEMIRATA BKS-PTN wilayah Barat",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19195",
+      "lastmod": "2020-04-15 04:08:03",
+      "userid": 752,
+      "datestamp": "2020-04-15 04:08:03",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/01\/91\/95",
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2020-04-15 04:02:16",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Pembuatan Media Pembelajaran Pengenalan Tata Surya dan Exoplanet Dengan Mengunakan Unity untuk Sekolah Menengah Pertama",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprintid": 19184,
+      "date_type": "published",
+      "userid": 752,
+      "lastmod": "2020-04-15 04:02:16",
+      "datestamp": "2020-04-15 04:02:16",
+      "publisher": "Jurnal Komputasi",
+      "documents": [
+          {
+            "eprintid": 19184,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 32421,
+            "main": "14. Pembuatan Media Pembelajaran Pengenalan Tata Surya dan Exoplanet Dengan Mengunakan Unity untuk Sekolah Menengah Pertama.pdf",
+            "files": [
+                {
+                  "filename": "14. Pembuatan Media Pembelajaran Pengenalan Tata Surya dan Exoplanet Dengan Mengunakan Unity untuk Sekolah Menengah Pertama.pdf",
+                  "hash": "60600051b57a89345e4ae12cc8735538",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-15 03:16:10",
+                  "mime_type": "application\/pdf",
+                  "fileid": 160789,
+                  "filesize": 518457,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160789",
+                  "objectid": 32421
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32421"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19184",
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniasari",
+            "given": "Dian"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/01\/91\/84",
+      "date": 2013
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6709,
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "title": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori Pada Metode Pendugaan Kuadrat Terkecil Tak Terboboti (Unweighted Least Square) Untuk Data Ordinal",
+      "abstract": "Dalam penelitian di bidang ilmu-ilmu sosial sering kali peneliti dihadapkan pada permasalahan tentang\r\nhubungan kausal yang melibatkan faktor yang tidak dapat diukur secara langsung (unobservable factor), maka dapat\r\ndilakukan dengan menggunakan Analisis Faktor Konfirmatori. Bagi pengguna kadang kala mengabaikan ketakbiasan,\r\npadahal hal ini adalah hal terpenting dalam penelitian. Untuk itu dilakukan metode pendugaan Kuadrat Terkecil Tak\r\nTerboboti atau metode Unweighted Least Square (ULS) dengan kelebihan Metode ULS tidak memerlukan asumsi\r\nkhusus dari sebaran peubah yang diamati sepanjang parameternya teridentifikasi. Metode ULS merupakan penduga\r\nyang konsisten. Sehingga pada ukuran sampel yang bertambah besar, maka θ head umumnya konvergen ke θ. Sifat\r\npenduga ULS yaitu tak bias dan konsisten. Penelitian ini bertujuan untuk melihat ketakbiasan pada sampel berukuran\r\n150, 200, 250 dan 300 menggunakan metode ULS dan membuktikan dalil limit pusat yang mengatakan ukuran\r\nsampel semakin besar maka akan semakin normal pada data ordinal. Dari hasil penelitian ini dapat disimpulkan\r\nbahwa pendugaan parameter dengan menggunakan metode kuadrat terkecil tak terboboti (ULS) sesuai dengan dalil\r\nlimit pusat yang menyatakan bahwa semakin besar ukuran sampel, maka sebaran dari parameter dugaan akan\r\nmendekati normal. Sehingga parameter hasil dugaan mendekati parameter model. Ketakbiasan dengan menggunakan\r\nmetode kuadrat terkecil tak terboboti (ULS) pada analisis faktor konfirmatori tidak dipengaruhi oleh besarnya ukuran\r\nsampel. Karena pada ukuran sampel 150, 200, 250, dan 300 grafik ketakbiasan mendekati linear, maka bias semakin\r\nkecil.",
+      "subjects": [
+        "QA"
+      ],
+      "status_changed": "2018-04-25 08:18:16",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/67\/09",
+      "date": "2013-05-10",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Sinda",
+            "honourific": null,
+            "family": "Maryamma",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Eri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiawan"
+          },
+          "id": null
+        },
+        {
+          "id": "Nusyirwan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Nusyirwan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nusyirwan"
+          }
+        }
+      ],
+      "publication": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori Pada Metode Pendugaan Kuadrat Terkecil Tak Terboboti (Unweighted Least Square) Untuk Data Ordinal",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6709",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6709,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61706",
+                  "objectid": 19678,
+                  "filesize": 782958,
+                  "datasetid": "document",
+                  "hash": "05c46aa34319c3e094e78f521c259ca8",
+                  "filename": "Prosiding BKS PTN B 2013 SINDA MARYAMA_ERI SETIAWAN_Nusyirwan.pdf",
+                  "mtime": "2018-04-16 05:43:51",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61706
+                }
+            ],
+            "docid": 19678,
+            "main": "Prosiding BKS PTN B 2013 SINDA MARYAMA_ERI SETIAWAN_Nusyirwan.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19678",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "ispublished": "pub",
+      "datestamp": "2018-04-25 08:18:16",
+      "pagerange": "1-8",
+      "lastmod": "2018-04-25 08:18:16",
+      "userid": 713
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6799",
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6799,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19771",
+            "rev_number": 1,
+            "main": "Prosiding BKS PTN B 2013 SINDA MARYAMA_ERI SETIAWAN_Nusyirwan.pdf",
+            "docid": 19771,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 62256,
+                  "filename": "Prosiding BKS PTN B 2013 SINDA MARYAMA_ERI SETIAWAN_Nusyirwan.pdf",
+                  "hash": "05c46aa34319c3e094e78f521c259ca8",
+                  "mtime": "2018-04-24 06:06:37",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 782958,
+                  "objectid": 19771,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62256"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "pagerange": "1-8",
+      "datestamp": "2018-04-25 04:35:45",
+      "lastmod": "2018-04-25 04:35:45",
+      "userid": 433,
+      "dir": "disk0\/00\/00\/67\/99",
+      "date": "2013-05-10",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Sinda",
+            "lineage": null,
+            "family": "Maryamma",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null,
+            "given": "Eri"
+          }
+        },
+        {
+          "id": "Nusyirwan@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nusyirwan",
+            "given": "Nusyirwan"
+          }
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "title": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori Pada Metode Pendugaan Kuadrat Terkecil Tak Terboboti (Unweighted Least Square) Untuk Data Ordinal",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "abstract": "Dalam penelitian di bidang ilmu-ilmu sosial sering kali peneliti dihadapkan pada permasalahan tentang hubungan kausal yang melibatkan faktor yang tidak dapat diukur secara langsung (unobservable factor), maka dapat dilakukan dengan menggunakan Analisis Faktor Konfirmatori. Bagi pengguna kadang kala mengabaikan ketakbiasan, padahal hal ini adalah hal terpenting dalam penelitian. Untuk itu dilakukan metode pendugaan Kuadrat Terkecil Tak Terboboti atau metode Unweighted Least Square (ULS) dengan kelebihan Metode ULS tidak memerlukan asumsi khusus dari sebaran peubah yang diamati sepanjang parameternya teridentifikasi. Metode ULS merupakan penduga yang konsisten. Sehingga pada ukuran sampel yang bertambah besar, maka penduga θ umumnya konvergen ke θ. Sifat penduga ULS yaitu tak bias dan konsisten. Penelitian ini bertujuan untuk melihat ketakbiasan pada sampel berukuran 150, 200, 250 dan 300 menggunakan metode ULS dan membuktikan dalil limit pusat yang mengatakan ukuran sampel semakin besar maka akan semakin normal pada data ordinal. Dari hasil penelitian ini dapat disimpulkan bahwa pendugaan parameter dengan menggunakan metode kuadrat terkecil tak terboboti (ULS) sesuai dengan dalil limit pusat yang menyatakan bahwa semakin besar ukuran sampel, maka sebaran dari parameter dugaan akan mendekati normal. Sehingga parameter hasil dugaan mendekati parameter model. Ketakbiasan dengan menggunakan metode kuadrat terkecil tak terboboti (ULS) pada analisis faktor konfirmatori tidak dipengaruhi oleh besarnya ukuran sampel. Karena pada ukuran sampel 150, 200, 250, dan 300 grafik ketakbiasan mendekati linear, maka bias semakin kecil.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 04:35:45",
+      "date_type": "published",
+      "eprintid": 6799
+    },
+    {
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "main": "Selvi Nila.pdf",
+            "docid": 19262,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 58941,
+                  "hash": "7908bcad32538522dd28bf36bdcac0b2",
+                  "filename": "Selvi Nila.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-11 05:15:45",
+                  "datasetid": "document",
+                  "filesize": 2812184,
+                  "objectid": 19262,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/58941"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19262",
+            "rev_number": 1,
+            "eprintid": 6337,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6337",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 33,
+      "lastmod": "2018-01-11 05:33:34",
+      "datestamp": "2018-01-11 05:33:34",
+      "creators": [
+        {
+          "name": {
+            "given": "Selvi",
+            "honourific": null,
+            "family": "Nila Puspita",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono",
+            "given": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "family": "Widiarti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "widiarti08@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/00\/63\/37",
+      "date": "2013-05-10",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "title": "Identifikasi Karakteristik Hazard Rate Distribusi Gamma Dengan\r\nMenggunakan Teorema Glaser",
+      "event_dates": "10 - 12 Mei 2013",
+      "rev_number": 7,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "status_changed": "2018-01-11 05:33:34",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Waktu kelangsungan hidup adalah data yang mengukur waktu untuk kejadian tertentu. Distribusi dari waktu\r\nkelangsungan hidup biasanya digambarkan atau digolongkan oleh tiga fungsi yaitu : fungsi kelangsungan hidup(Survival\r\nFunction), fungsi kepekatan peluang (fkp) dan fungsi Hazard. Laju kegagalan (hazard rate) mempunyai bentuk-bentuk kurva\r\nyang telah diketahui, yaitu Increasing (I), Decreasing (D), Bathtub (∪),Upside-down Bathtub (∩) dan konstan. Dengan demikian tujuan dari penelitian ini adalah mengkaji karakteristik laju kegagalan (hazard rate) pada distribusi Gamma dengan menggunakan Teorema Glaser.",
+      "event_location": "Bandar Lampung",
+      "event_title": "SEMINAR DAN RAPAT TAHUNAN (SEMIRATA) BIDANG ILMU MIPA 2013 BKS PTN BARAT (10 - 12 Mei) Universitas Lampung, Bandar Lampung",
+      "eprintid": 6337,
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2018-04-25 08:10:09",
+      "eprint_status": "archive",
+      "abstract": "Waktu kelangsungan hidup adalah data yang mengukur waktu untuk kejadian tertentu. Distribusi dari waktu kelangsungan hidup biasanya digambarkan atau digolongkan oleh tiga fungsi yaitu : fungsi kelangsungan hidup(Survival Function), fungsi kepekatan peluang (fkp) dan fungsi Hazard. Laju kegagalan (hazard rate) mempunyai bentuk-bentuk kurva yang telah diketahui, yaitu Increasing (I), Decreasing (D), Bathtub (∪),Upside-down Bathtub (∩) dan konstan. Dengan demikian tujuan dari penelitian ini adalah mengkaji karakteristik laju kegagalan (hazard rate) pada distribusi Gamma dengan menggunakan Teorema Glaser. Hasil dari penelitian ini menunjukkan bahwa pola atau bentuk laju hazard dapat diduga oleh ߟ′(ݐ) = 0 dan tanda dari koefisien-koefisiennya dan karakteristik hazard rate distribusi gamma adalah konstan, Increasing, dan Decreasing.\r\n\r\nKata kunci: Distribusi Gamma, Survival Function, Hazard Rate.",
+      "subjects": [
+        "QA"
+      ],
+      "title": "Identifikasi Karakteristik Hazard Rate Distribusi Gamma Dengan Menggunakan Teorema Glaser",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprintid": 6700,
+      "date_type": "published",
+      "lastmod": "2018-04-25 08:10:09",
+      "userid": 33,
+      "datestamp": "2018-04-25 08:10:09",
+      "pagerange": "1-4",
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "documents": [
+          {
+            "main": "Prosiding BKS BTN B 2013 Selvi Nila P_Warsono_Widiarti.pdf",
+            "docid": 19667,
+            "files": [
+                {
+                  "objectid": 19667,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61649",
+                  "datasetid": "document",
+                  "filesize": 209297,
+                  "fileid": 61649,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-04-16 03:24:11",
+                  "hash_type": "MD5",
+                  "hash": "52bcec2b91c5fa371b0fd47ec56dc5a9",
+                  "filename": "Prosiding BKS BTN B 2013 Selvi Nila P_Warsono_Widiarti.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19667",
+            "rev_number": 1,
+            "eprintid": 6700,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6700",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Selvi Nila",
+            "lineage": null,
+            "family": "Puspita",
+            "honourific": null
+          }
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono"
+          }
+        },
+        {
+          "id": "widiarti08@gmail.com",
+          "name": {
+            "given": "Widiarti",
+            "lineage": null,
+            "family": "Widiarti",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Identifikasi Karakteristik Hazard Rate Distribusi Gamma Dengan Menggunakan Teorema Glaser",
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/67\/00"
+    },
+    {
+      "title": "Identifikasi Karakteristik Hazard Rate Distribusi Gamma Dengan Menggunakan Teorema Glaser",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:05:28",
+      "abstract": "Waktu kelangsungan hidup adalah data yang mengukur waktu untuk kejadian tertentu. Distribusi dari waktu kelangsungan hidup biasanya digambarkan atau digolongkan oleh tiga fungsi yaitu : fungsi kelangsungan hidup(Survival Function), fungsi kepekatan peluang (fkp) dan fungsi Hazard. Laju kegagalan (hazard rate) mempunyai bentuk-bentuk kurva yang telah diketahui, yaitu Increasing (I), Decreasing (D), Bathtub (∪),Upside-down Bathtub (∩) dan konstan. Dengan demikian tujuan dari penelitian ini adalah mengkaji karakteristik laju kegagalan (hazard rate) pada distribusi Gamma dengan menggunakan Teorema Glaser. Hasil dari penelitian ini menunjukkan bahwa pola atau bentuk laju hazard dapat diduga oleh Ƞ'(t)= 0 dan tanda dari koefisien-koefisiennya dan karakteristik hazard rate distribusi gamma adalah konstan, Increasing, dan Decreasing.",
+      "subjects": [
+        "QA"
+      ],
+      "eprintid": 6723,
+      "date_type": "published",
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6723,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-24 05:53:32",
+                  "filename": "Prosiding BKS BTN B 2013 Selvi Nila P_Warsono_Widiarti.pdf",
+                  "hash": "52bcec2b91c5fa371b0fd47ec56dc5a9",
+                  "fileid": 62247,
+                  "mime_type": "application\/pdf",
+                  "filesize": 209297,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62247",
+                  "objectid": 19769
+                }
+            ],
+            "docid": 19769,
+            "main": "Prosiding BKS BTN B 2013 Selvi Nila P_Warsono_Widiarti.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19769",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6723",
+      "lastmod": "2018-04-25 08:05:28",
+      "userid": 516,
+      "datestamp": "2018-04-25 08:05:28",
+      "pagerange": "1-4",
+      "creators": [
+        {
+          "id": "cime_raykad@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Puspita",
+            "honourific": null,
+            "given": "Selvi Nila"
+          }
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "id": "widiarti08@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Widiarti",
+            "lineage": null,
+            "given": "Widiarti"
+          }
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/67\/23",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/67\/20",
+      "date": "2013-12-10",
+      "publication": "Identifikasi Karakteristik Hazard Rate Distribusi Gamma Dengan Menggunakan Teorema Glaser",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Puspita",
+            "given": "Selvi Nila"
+          },
+          "id": null
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono"
+          }
+        },
+        {
+          "id": "widiarti08@gmail.com",
+          "name": {
+            "family": "Widiarti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Widiarti"
+          }
+        }
+      ],
+      "datestamp": "2018-04-25 08:05:56",
+      "pagerange": "1-4",
+      "lastmod": "2018-04-25 08:05:56",
+      "userid": 516,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6720",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19689",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 209297,
+                  "datasetid": "document",
+                  "filename": "Prosiding BKS BTN B 2013 Selvi Nila P_Warsono_Widiarti.pdf",
+                  "hash": "52bcec2b91c5fa371b0fd47ec56dc5a9",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-16 08:07:34",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61773,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61773",
+                  "objectid": 19689
+                }
+            ],
+            "docid": 19689,
+            "main": "Prosiding BKS BTN B 2013 Selvi Nila P_Warsono_Widiarti.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6720
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 6720,
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Waktu kelangsungan hidup adalah data yang mengukur waktu untuk kejadian tertentu. Distribusi dari waktu kelangsungan hidup biasanya digambarkan atau digolongkan oleh tiga fungsi yaitu : fungsi kelangsungan hidup(Survival Function), fungsi kepekatan peluang (fkp) dan fungsi Hazard. Laju kegagalan (hazard rate) mempunyai bentuk-bentuk kurva yang telah diketahui, yaitu Increasing (I), Decreasing (D), Bathtub (∪),Upside-down Bathtub (∩) dan konstan. Dengan demikian tujuan dari penelitian ini adalah mengkaji karakteristik laju kegagalan (hazard rate) pada distribusi Gamma dengan menggunakan Teorema Glaser. Hasil dari penelitian ini menunjukkan bahwa pola atau bentuk laju hazard dapat diduga oleh ߟ′(ݐ) = 0 dan tanda dari koefisien-koefisiennya dan karakteristik hazard rate distribusi gamma adalah konstan, Increasing, dan Decreasing.",
+      "status_changed": "2018-04-25 08:05:56",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Identifikasi Karakteristik Hazard Rate Distribusi Gamma Dengan Menggunakan Teorema Glaser"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Rizky",
+            "lineage": null,
+            "given": "Rachmah Cahaya"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiawan",
+            "given": "Eri"
+          },
+          "id": null
+        },
+        {
+          "id": "Nusyirwan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Nusyirwan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nusyirwan"
+          }
+        }
+      ],
+      "publication": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori (CFA) Pada Metode Pendugaan Kuadrat Terkecil Terboboti (Weighted Least Square) Untuk Data Ordinal",
+      "dir": "disk0\/00\/00\/67\/11",
+      "date": "2013-05-10",
+      "lastmod": "2018-04-25 08:10:00",
+      "userid": 713,
+      "pagerange": "1-6",
+      "datestamp": "2018-04-25 08:10:00",
+      "documents": [
+          {
+            "eprintid": 6711,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 19680,
+            "main": "Prosiding BKS PTN B 2013_Rachmah cahaya rizky_Eri S_Nusyirwan.pdf",
+            "files": [
+                {
+                  "filesize": 585536,
+                  "datasetid": "document",
+                  "hash": "735f67270d9a5e5a8fa48f97890d8491",
+                  "filename": "Prosiding BKS PTN B 2013_Rachmah cahaya rizky_Eri S_Nusyirwan.pdf",
+                  "mtime": "2018-04-16 05:57:27",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61718,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61718",
+                  "objectid": 19680
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19680",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6711",
+      "full_text_status": "public",
+      "eprintid": 6711,
+      "date_type": "published",
+      "status_changed": "2018-04-25 08:10:00",
+      "eprint_status": "archive",
+      "abstract": "Dalam penelitian bidang ilmu sosial sering kali peneliti dihadapkan pada suatu permasalahan yang\r\nmelibatkan data peubah ganda, terutama melibatkan faktor yang tidak dapat diukur secara langsung\r\n(unobservable factor) atau disebut dengan peubah laten. Karena itu digunakan Analisis Faktor Konfirmatori\r\nuntuk mengkonfirmasikan model yang dihipotesiskan. Kadang kala dalam penelitian ketakbiasan diabaikan,\r\npadahal ketakbiasan merupakan hal terpenting. Untuk itu dilakukan pendugaan dengan metode pendugaan\r\nKuadrat Terkecil Terboboti atau Weighted Least Square (WLS). Penelitian ini bertujuan untuk melihat\r\nketakbiasan pada sampel berukuran 150, 200, 250 dan 300 menggunakan metode WLS dan sebagai ukuran\r\npembanding menggunakan indeks kecocokan model dalam CFA pada data ordinal dan membuktikan dalil\r\nlimit pusat yang mengatakan ukuran sampel semakin besar maka akan semakin normal pada data ordinal. Kelebihan WLS adalah tidak bergantung pada asumsi normalitas data dan memiliki sifat tak bias juga statistik cukup. Dari hasil penelitian ini dapat disimpulkan bahwa pendugaan parameter dengan metode WLS sesuai dengan dalil limit pusat, pola nilai pada setiap uji kecocokan model pada analisis faktor konfirmatori yang diperoleh semakin menghasilkan nilai terbaik ketika ukuran sampel semakin besar, dan pada sampel 300 memiliki bias yang lebih kecil dari pada sampel ukuran 150, 200, dan 250.",
+      "subjects": [
+        "QA"
+      ],
+      "title": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori (CFA) Pada Metode Pendugaan Kuadrat Terkecil Terboboti (Weighted Least Square) Untuk Data Ordinal",
+      "metadata_visibility": "show",
+      "rev_number": 6
+    },
+    {
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "title": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori (CFA) Pada Metode Pendugaan Kuadrat Terkecil Terboboti (Weighted Least Square) Untuk Data Ordinal",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 04:33:47",
+      "abstract": "Dalam penelitian bidang ilmu sosial sering kali peneliti dihadapkan pada suatu permasalahan yang melibatkan data peubah ganda, terutama melibatkan faktor yang tidak dapat diukur secara langsung (unobservable factor) atau disebut dengan peubah laten. Karena itu digunakan Analisis Faktor Konfirmatori untuk mengkonfirmasikan model yang dihipotesiskan. Kadang kala dalam penelitian ketakbiasan diabaikan, padahal ketakbiasan merupakan hal terpenting. Untuk itu dilakukan pendugaan dengan metode pendugaan Kuadrat Terkecil Terboboti atau Weighted Least Square (WLS). Penelitian ini bertujuan untuk melihat ketakbiasan pada sampel berukuran 150, 200, 250 dan 300 menggunakan metode WLS dan sebagai ukuran pembanding menggunakan indeks kecocokan model dalam CFA pada data ordinal dan membuktikan dalil limit pusat yang mengatakan ukuran sampel semakin besar maka akan semakin normal pada data ordinal. Kelebihan WLS adalah tidak bergantung pada asumsi normalitas data dan memiliki sifat tak bias juga statistik cukup. Dari hasil penelitian ini dapat disimpulkan bahwa pendugaan parameter dengan metode WLS sesuai dengan dalil limit pusat, pola nilai pada setiap uji kecocokan model pada analisis faktor konfirmatori yang diperoleh semakin menghasilkan nilai terbaik ketika ukuran sampel semakin besar, dan pada sampel 300 memiliki bias yang lebih kecil dari pada sampel ukuran 150, 200, dan 250.",
+      "subjects": [
+        "QA"
+      ],
+      "eprintid": 6801,
+      "date_type": "published",
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6801,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-24 06:22:34",
+                  "filename": "Prosiding BKS PTN B 2013_Rachmah cahaya rizky_Eri S_Nusyirwan.pdf",
+                  "hash": "735f67270d9a5e5a8fa48f97890d8491",
+                  "fileid": 62268,
+                  "mime_type": "application\/pdf",
+                  "filesize": 585536,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62268",
+                  "objectid": 19773
+                }
+            ],
+            "main": "Prosiding BKS PTN B 2013_Rachmah cahaya rizky_Eri S_Nusyirwan.pdf",
+            "docid": 19773,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19773",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6801",
+      "full_text_status": "public",
+      "lastmod": "2018-04-25 04:33:47",
+      "userid": 433,
+      "datestamp": "2018-04-25 04:33:47",
+      "pagerange": "1-6",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Rizky",
+            "honourific": null,
+            "given": "Rachmah Cahaya"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Eri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiawan"
+          }
+        },
+        {
+          "id": "Nusyirwan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Nusyirwan",
+            "lineage": null,
+            "family": "Nusyirwan",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "dir": "disk0\/00\/00\/68\/01",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "title": "Teorema Jacobson Density",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 06:35:36",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Misalkan R adalah ring (tidak harus komutatif) dan A adalah R-modul. R-modul A dikatakan sederhana jika modul tersebut hanya memiliki submodul {0} dan A. Dengan demikian, R-modul A siklik, indecomposable, dan memiliki length tepat 1. Salah satu Teorema terkait dengan modul sederhana adalah Teorema Jacobson Density dimana misalkan R ring primitif dan R-modul A sederhana. Jika A adalah ruang vektor atas ring divisi D=Hom R (A,A), maka R isomorfis pada suatu dense endomorfisma D-ruang vektor A.",
+      "eprintid": 6830,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6830,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-25 05:00:28",
+                  "hash": "bdbeeb683f3a4d73f7b4378da9f35926",
+                  "filename": "Prosiding BKS PTN B 2013 Budi Santoso.pdf",
+                  "fileid": 62549,
+                  "mime_type": "application\/pdf",
+                  "filesize": 187728,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62549",
+                  "objectid": 19803
+                }
+            ],
+            "main": "Prosiding BKS PTN B 2013 Budi Santoso.pdf",
+            "docid": 19803,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19803",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "FMIPA Unila",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6830",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2018-04-25 06:35:36",
+      "userid": 263,
+      "pagerange": "1-8",
+      "datestamp": "2018-04-25 06:35:36",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Budi",
+            "lineage": null,
+            "family": "Santoso",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Fitriani",
+            "lineage": null,
+            "given": "Fitriani"
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "family": "Faisol",
+            "lineage": null
+          },
+          "id": "faisol_mathunila@yahoo.co.id"
+        }
+      ],
+      "dir": "disk0\/00\/00\/68\/30",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "eprintid": 6802,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 04:33:25",
+      "abstract": "Dalam penelitian sosial seringkali dijumpai masalah hubungan kausal apalagi peubah hubungan tersebut bersifat unobservable factor dan dilakukan dengan analisis faktor konfirmatori (CFA). Bagi pengguna kadangkala ketakbiasan sering diabaikan, padahal hal ini adalah hal yang terpenting dalam penelitian untuk itu dilakukan penelitian metode pendugaan kuadrat terkecil terboboti diagonal (DWLS) dengan kelebihannya metode ini tidak bergantung pada distribusi data dan mempunyai sifat penduga yang tak bias dan statistik lengkap. Penelitian ini digunakan untuk mengkaji dan mengetahui ketakbiasan metode kuadrat terkecil terboboti diagonal (Diagonally Weighted Least Squares, DWLS) pada ukuran sampel 150, 200, 250, dan 300 dalam model CFA untuk data ordinal dan membuktikan kebenaran dalil limit pusat. Berdasarkan hasil penelitian diperoleh bahwa dalil limit pusat pada metode ini terbukti, jika n cukup besar maka data akan menyebar normal (μ,σ^2) dan dari penelitian ini didapat nilai bias dan keragaman dugaan parameter yang relatif kecil dari metode, ini menunjukkan kekonsistenan metode. Semakin besar ukuran sampel, maka estimasi yang dihasilkan semakin baik dan konsisten.",
+      "subjects": [
+        "QA"
+      ],
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "title": "Ketakbiasan Dalam Model CFA (Confirmatory Factor Analysis) Pada Metode Estimasi DWLS (Diagonally Weighted Least Squares) Untuk Data Ordinal",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": "dava_cheers@yahoo.co.id",
+          "name": {
+            "given": "Indah Permata",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sari"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null,
+            "given": "Eri"
+          }
+        },
+        {
+          "name": {
+            "given": "Nusyirwan",
+            "honourific": null,
+            "family": "Nusyirwan",
+            "lineage": null
+          },
+          "id": "Nusyirwan@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "dir": "disk0\/00\/00\/68\/02",
+      "date": "2013-05-10",
+      "userid": 433,
+      "lastmod": "2018-04-25 04:33:25",
+      "pagerange": "1-8",
+      "datestamp": "2018-04-25 04:33:25",
+      "documents": [
+          {
+            "eprintid": 6802,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Prosiding BKS PTN B Indah Permata Sari_Eri S_Nusyirwan.pdf",
+            "docid": 19774,
+            "files": [
+                {
+                  "fileid": 62274,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-24 06:27:11",
+                  "hash": "a28f1f5f113379899b2fdbbf60add1f5",
+                  "filename": "Prosiding BKS PTN B Indah Permata Sari_Eri S_Nusyirwan.pdf",
+                  "datasetid": "document",
+                  "filesize": 795007,
+                  "objectid": 19774,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62274"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19774",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6802",
+      "full_text_status": "public"
+    },
+    {
+      "eprintid": 6712,
+      "date_type": "published",
+      "title": "Ketakbiasan Dalam Model CFA (Confirmatory Factor Analysis) Pada Metode Estimasi DWLS (Diagonally Weighted Least Squares) Untuk Data Ordinal",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:09:49",
+      "abstract": "Dalam penelitian sosial seringkali dijumpai masalah hubungan kausal apalagi peubah hubungan tersebut bersifat nobservable factor dan dilakukan dengan analisis faktor konfirmatori (CFA). Bagi pengguna kadangkala ketakbiasan sering diabaikan, padahal hal ini adalah hal yang terpenting dalam penelitian untuk itu dilakukan penelitian metode pendugaan kuadrat terkecil terboboti diagonal (DWLS) dengan kelebihannya metode ini tidak bergantung pada distribusi data dan mempunyai sifat penduga yang tak bias dan statistik lengkap. Penelitian ini digunakan untuk mengkaji dan mengetahui ketakbiasan metode kuadrat terkecil terboboti diagonal (Diagonally Weighted Least Squares, DWLS) pada ukuran sampel 150, 200, 250, dan 300 dalam model CFA untuk data ordinal dan membuktikan kebenaran dalil limit pusat. Berdasarkan hasil penelitian diperoleh bahwa dalil limit pusat pada metode ini terbukti, jika n cukup besar maka data akan menyebar normal (μ,σ2) dan dari penelitian ini didapat nilai bias dan keragaman dugaan parameter yang relatif kecil dari metode, ini menunjukkan kekonsistenan metode.\r\nSemakin besar ukuran sampel, maka estimasi yang dihasilkan semakin baik dan konsisten.",
+      "subjects": [
+        "QA"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sari",
+            "given": "Indah permata"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Setiawan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Eri"
+          }
+        },
+        {
+          "name": {
+            "given": "Nusyirwan",
+            "lineage": null,
+            "family": "Nusyirwan",
+            "honourific": null
+          },
+          "id": "Nusyirwan@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Ketakbiasan Dalam Model CFA (Confirmatory Factor Analysis) Pada Metode Estimasi DWLS (Diagonally Weighted Least Squares) Untuk Data Ordinal",
+      "dir": "disk0\/00\/00\/67\/12",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "documents": [
+          {
+            "docid": 19681,
+            "main": "Prosiding BKS PTN B Indah Permata Sari_Eri S_Nusyirwan.pdf",
+            "files": [
+                {
+                  "filesize": 795007,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-16 06:02:54",
+                  "filename": "Prosiding BKS PTN B Indah Permata Sari_Eri S_Nusyirwan.pdf",
+                  "hash": "a28f1f5f113379899b2fdbbf60add1f5",
+                  "fileid": 61724,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61724",
+                  "objectid": 19681
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19681",
+            "eprintid": 6712,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6712",
+      "full_text_status": "public",
+      "lastmod": "2018-04-25 08:09:49",
+      "userid": 713,
+      "pagerange": "1-8",
+      "datestamp": "2018-04-25 08:09:49"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Sari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Lina Ardila"
+          }
+        },
+        {
+          "id": "suharsono.1962@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suharsono",
+            "given": "Suharsono"
+          }
+        },
+        {
+          "name": {
+            "given": "Muslim",
+            "honourific": null,
+            "family": "Ansori",
+            "lineage": null
+          },
+          "id": "ansomath@yahoo.com"
+        }
+      ],
+      "publication": "Hubungan Kekongruenan Dalam Geometri Terhingga",
+      "dir": "disk0\/00\/00\/67\/29",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19698",
+            "rev_number": 1,
+            "docid": 19698,
+            "main": "Prosiding BKS PTN B 2013 Lina Ardila Sari_Suharsono_Muslim A.pdf",
+            "files": [
+                {
+                  "objectid": 19698,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61823",
+                  "datasetid": "document",
+                  "filesize": 133085,
+                  "mime_type": "application\/pdf",
+                  "fileid": 61823,
+                  "hash": "dfdf1082e817e4278df1f66886c46bd8",
+                  "filename": "Prosiding BKS PTN B 2013 Lina Ardila Sari_Suharsono_Muslim A.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-17 07:00:23"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6729,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6729",
+      "full_text_status": "public",
+      "lastmod": "2018-04-25 08:03:42",
+      "userid": 1012,
+      "pagerange": "1-5",
+      "datestamp": "2018-04-25 08:03:42",
+      "eprintid": 6729,
+      "date_type": "published",
+      "title": "Hubungan Kekongruenan Dalam Geometri Terhingga",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 6,
+      "status_changed": "2018-04-25 08:03:42",
+      "eprint_status": "archive",
+      "abstract": "Aksioma – aksioma terkait untuk geometri insidensi Euclid berdimensi n dapat dipenuhi dengan model – model berhingga, yaitu model – model yang memuat hanya sejumlah hingga titik, garis, bidang dll. Model – model ini adalah ruang vektor linier berdimensi n atas Lapangan hingga GFq dengan q = p^h.\r\nMasalahnya adalah aksioma – aksioma urutan dan aksioma – aksioma kekongruenan dapat dipenuhi dalam geometri berhingga. Untuk kasus h ≠ 1, penggantian aksioma 3 dalam paper ini memberikan hasil yang lebih baik dibandingkan dengan hasil sebelumnya.",
+      "subjects": [
+        "QA"
+      ]
+    },
+    {
+      "eprintid": 6771,
+      "date_type": "published",
+      "title": "Keterhubungan Suatu Graf Dipandang Dari Teorema Whitney dan Teorema Menger",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "status_changed": "2018-04-25 07:52:07",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Connectivity dalam graf terbagi menjadi 2, yaitu vertex-connectivity dan edge-connectivity. Penelitian ini bertujuan untuk membahas Teorema Whitney pada graf 2-connected dan Teorema Menger pada connectivity. Dari hasil penelitian ini didapat bahwa graf 2-connected minimal mempunyai tiga vertex dengan satu pasang internally disjoint path, sedangkan dalam teorema Menger yang akan didiskusikan kesetaraan\r\njumlah maksimum dari pasangan internally disjoint path dengan jumlah minimum vertex connectivity dalam suatu graf k-connected.",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "id": "devi_vio9@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Siahaan",
+            "honourific": null,
+            "given": "Devi Octaria"
+          }
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "fitriani_mathunila@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null,
+            "given": "Fitriani"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/67\/71",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19738",
+            "docid": 19738,
+            "main": "Prosiding BKS PTN B 2013 Devi Octaria_Wamiliana_Fitriani.pdf",
+            "files": [
+                {
+                  "objectid": 19738,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62066",
+                  "datasetid": "document",
+                  "filesize": 357931,
+                  "mime_type": "application\/pdf",
+                  "fileid": 62066,
+                  "filename": "Prosiding BKS PTN B 2013 Devi Octaria_Wamiliana_Fitriani.pdf",
+                  "hash": "611490f11aad0936dd3e598e9bbc8dd4",
+                  "mtime": "2018-04-20 03:21:26",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6771,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6771",
+      "refereed": "TRUE",
+      "userid": 791,
+      "lastmod": "2018-04-25 07:52:07",
+      "datestamp": "2018-04-25 07:52:07",
+      "pagerange": "1-7"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 06:33:40",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Connectivity dalam graf terbagi menjadi 2, yaitu vertex-connectivity dan edge-connectivity. Penelitian ini bertujuan untuk membahas Teorema Whitney pada graf 2-connected dan Teorema Menger pada connectivity. Dari hasil penelitian ini didapat bahwa graf 2-connected minimal mempunyai tiga vertex dengan satu pasang internally disjoint path, sedangkan dalam teorema Menger yang akan didiskusikan kesetaraan jumlah maksimum dari pasangan internally disjoint path dengan jumlah minimum vertex connectivity dalam suatu graf k-connected.",
+      "title": "Keterhubungan Suatu Graf Dipandang dari Teorema Whitney dan Teorema Menger",
+      "rev_number": 6,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "eprintid": 6832,
+      "date_type": "published",
+      "lastmod": "2018-04-25 06:33:40",
+      "userid": 263,
+      "pagerange": "1-7",
+      "datestamp": "2018-04-25 06:33:40",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 19805,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62558",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62558,
+                  "filename": "Prosiding BKS PTN B 2013 Devi Octaria_Wamiliana_Fitriani.pdf",
+                  "hash": "611490f11aad0936dd3e598e9bbc8dd4",
+                  "mtime": "2018-04-25 05:10:35",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 357931
+                }
+            ],
+            "docid": 19805,
+            "main": "Prosiding BKS PTN B 2013 Devi Octaria_Wamiliana_Fitriani.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19805",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6832,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "FMIPA Unila",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6832",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "name": {
+            "given": "Devi Octaria",
+            "honourific": null,
+            "family": "Siahaan",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana",
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Fitriani",
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "dir": "disk0\/00\/00\/68\/32",
+      "date": "2013-05-10"
+    },
+    {
+      "date": "2013-05-12",
+      "dir": "disk0\/00\/00\/34\/75",
+      "creators": [
+        {
+          "name": {
+            "given": "M. Adi",
+            "honourific": null,
+            "family": "Sidauruk",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "honourific": null,
+            "family": "Widiarti",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3475",
+      "documents": [
+          {
+            "eprintid": 3475,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Prosiding BKS PTN B 2013 Matheus Adi Sidauruk_Dian Kurniasari_Widiarti.pdf",
+            "docid": 3346,
+            "files": [
+                {
+                  "objectid": 3346,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24091",
+                  "datasetid": "document",
+                  "filesize": 2593377,
+                  "fileid": 24091,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-06-06 08:54:34",
+                  "hash_type": "MD5",
+                  "hash": "8bb4bd1027943bba3e8da6fe85648e1a",
+                  "filename": "Prosiding BKS PTN B 2013 Matheus Adi Sidauruk_Dian Kurniasari_Widiarti.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3346",
+            "rev_number": 1
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "pagerange": "339-343",
+      "datestamp": "2017-06-12 02:03:29",
+      "lastmod": "2017-06-12 02:03:29",
+      "userid": 752,
+      "event_location": "Universitas Lampung, Bandar Lampung",
+      "date_type": "published",
+      "eprintid": 3475,
+      "event_title": "SEMINAR DAN RAPAT TAHUNAN (SEMIRATA) BIDANG ILMU MIPA 2013 BKS PTN BARAT",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "title": "Karakteristik Pendugaan Emperical Best Linear Unbiased\r\nPrediction (EBLUP) Pada Pendugaan Area Kecil",
+      "event_dates": "10-12 Mei 2015",
+      "abstract": "Pendugaan langsung pada parameter area kecil yang heterogen akan menghasilkan pendugaan yang tidak\r\nbias namun keragamannya sangat besar sehingga mengakibatkan pendugaan ini kurang valid. Untuk mengatasi\r\nmasalah ini, Pendugaan pada area kecil dapat diduga dengan menggunakan pendugaan tidak langsung. Tujuannya\r\nadalah untuk menekan keragaman yang besar pada area kecil. Pendugaan tidak langsung pada area kecil\r\nmemanfaatkan informasi dari area sekitarnya yang berhubungan dengan parameter yang menjadi perhatian. Ada\r\nbeberapa metode pada pendugaan tidak langsung yaitu Empirical Bayes (EB), Empirical Best Linear Unbiased\r\nPrediction (EBLUP), dan Hierarchical Bayes (HB). Penelitian ini dilakukan pada data kontinu dengan metode\r\nEBLUP yang mengaplikasikan metode GLS sebagai metode penduga parameternya. Kajian secara teori menunjukkan\r\nbahwa penduga parameter yang dihasilkan oleh metode GLS merupakan penduga tak bias dengan varians minimum.\r\nHasil yang sama juga diperoleh secara empiris melalui simulasi dengan software R.2.10.1.\r\n\r\nKata Kunci: Pendugaan Area Kecil, EBLUP, Tak-bias, Varians minimum",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-06-12 02:03:29"
+    },
+    {
+      "datestamp": "2018-04-25 08:07:21",
+      "pagerange": "1-5",
+      "userid": 33,
+      "lastmod": "2018-04-25 08:07:21",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6701",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6701,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19668",
+            "rev_number": 1,
+            "docid": 19668,
+            "main": "Prosiding BKS PTN B 2013 Matheus Adi Sidauruk_Dian K_Widiarti.pdf",
+            "files": [
+                {
+                  "filesize": 151000,
+                  "datasetid": "document",
+                  "filename": "Prosiding BKS PTN B 2013 Matheus Adi Sidauruk_Dian K_Widiarti.pdf",
+                  "hash": "f8d16b9ce5865402f8cebd590c8fbac4",
+                  "mtime": "2018-04-16 03:31:58",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61655,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61655",
+                  "objectid": 19668
+                }
+            ]
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/67\/01",
+      "publication": "Karakteristik Pendugaan Emperical Best Linear Unbiased Prediction (EBLUP) Pada Pendugaan Area Kecil",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "M. Adi",
+            "family": "Sidauruk",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "honourific": null,
+            "family": "Widiarti",
+            "lineage": null
+          },
+          "id": "widiarti08@gmail.com"
+        }
+      ],
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Pendugaan langsung pada parameter area kecil yang heterogen akan menghasilkan pendugaan yang tidak\r\nbias namun keragamannya sangat besar sehingga mengakibatkan pendugaan ini kurang valid. Untuk mengatasi\r\nmasalah ini, Pendugaan pada area kecil dapat diduga dengan menggunakan pendugaan tidak langsung. Tujuannya\r\nadalah untuk menekan keragaman yang besar pada area kecil. Pendugaan tidak langsung pada area kecil\r\nmemanfaatkan informasi dari area sekitarnya yang berhubungan dengan parameter yang menjadi perhatian. Ada\r\nbeberapa metode pada pendugaan tidak langsung yaitu Empirical Bayes (EB), Empirical Best Linear Unbiased\r\nPrediction (EBLUP), dan Hierarchical Bayes (HB). Penelitian ini dilakukan pada data kontinu dengan metode\r\nEBLUP yang mengaplikasikan metode GLS sebagai metode penduga parameternya. Kajian secara teori menunjukkan\r\nbahwa penduga parameter yang dihasilkan oleh metode GLS merupakan penduga tak bias dengan varians minimum.\r\nHasil yang sama juga diperoleh secara empiris melalui simulasi dengan software R.2.10.1.",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 08:07:21",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Karakteristik Pendugaan Emperical Best Linear Unbiased Prediction (EBLUP) Pada Pendugaan Area Kecil",
+      "date_type": "published",
+      "eprintid": 6701
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6785,
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Pendugaan langsung pada parameter area kecil yang heterogen akan menghasilkan pendugaan yang tidak bias namun keragamannya sangat besar sehingga mengakibatkan pendugaan ini kurang valid. Untuk mengatasi masalah ini, Pendugaan pada area kecil dapat diduga dengan menggunakan pendugaan tidak langsung. Tujuannya adalah untuk menekan keragaman yang besar pada area kecil. Pendugaan tidak langsung pada area kecil\r\nmemanfaatkan informasi dari area sekitarnya yang berhubungan dengan parameter yang menjadi perhatian. Ada beberapa metode pada pendugaan tidak langsung yaitu Empirical Bayes (EB), Empirical Best Linear Unbiased Prediction (EBLUP), dan Hierarchical Bayes (HB). Penelitian ini dilakukan pada data kontinu dengan metode EBLUP yang mengaplikasikan metode GLS sebagai metode penduga parameternya. Kajian secara teori menunjukkan bahwa penduga parameter yang dihasilkan oleh metode GLS merupakan penduga tak bias dengan varians minimum. Hasil yang sama juga diperoleh secara empiris melalui simulasi dengan software R.2.10.1.",
+      "status_changed": "2018-04-25 07:46:43",
+      "eprint_status": "archive",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Karakteristik Pendugaan Emperical Best Linear Unbiased Prediction (EBLUP) Pada Pendugaan Area Kecil",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/67\/85",
+      "date": "2013-05-10",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Sidauruk",
+            "lineage": null,
+            "given": "M. Adi"
+          }
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Widiarti"
+          },
+          "id": "widiarti08@gmail.com"
+        }
+      ],
+      "datestamp": "2018-04-25 07:46:43",
+      "pagerange": "1-5",
+      "lastmod": "2018-04-25 07:46:43",
+      "userid": 752,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6785",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6785,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19754",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 19754,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62159",
+                  "datasetid": "document",
+                  "filesize": 151000,
+                  "fileid": 62159,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 05:51:23",
+                  "filename": "Prosiding BKS PTN B 2013 Matheus Adi Sidauruk_Dian Kurniasari_Widiarti.pdf",
+                  "hash": "f8d16b9ce5865402f8cebd590c8fbac4"
+                }
+            ],
+            "docid": 19754,
+            "main": "Prosiding BKS PTN B 2013 Matheus Adi Sidauruk_Dian Kurniasari_Widiarti.pdf"
+          }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 6710,
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Dalam penelitian ilmu bidang sosial terdapat permasalahan dalam hubungan antar peubah dan peubah yang diteliti umumnya tidak dapat diobservasi secara langsung tetapi diukur melalui idikator-indikator (observed indicators). Analisis Faktor Konfirmatori merupakan salah satu metode yang dapat mengatasi permasalahan tersebut . Pada penelitian ini yang\r\nakan dikaji adalah ketakbiasan dan uji kesesuaian pada model analisis faktor konfirmatori dengan menggunakan metode maximum likelihood dari ukuran sampel 150, 200, 250, dan 300. Maximum likelihood merupakan metode penduga terbaik yang memiliki sifat tak bias dan variansi minimum. Dari hasil penelitian menunjukan bahwa pada sampel tebesar yaitu pada sampel 300 diperoleh nilai ketakbiasan dan uji kesesuaian model yang baik dibandingkan dengan sampel yang lain. Hal ini menunjukan bahwa dalil limit pusat yang menyatakan semakin besar ukuran sampel, maka sebaran dari parameter dugaan akan mendekati normal terpenuhi.",
+      "status_changed": "2018-04-25 08:06:49",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori Pada Metode Pendugaan Maximum Likelihood Untuk Data Ordinal",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/67\/10",
+      "date": "2013-05-10",
+      "publication": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori Pada Metode Pendugaan Maximum Likelihood Untuk Data Ordinal",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Wiwik",
+            "family": "Sudestri",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Eri",
+            "family": "Setiawan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nusyirwan",
+            "family": "Nusyirwan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "Nusyirwan@fmipa.unila.ac.id"
+        }
+      ],
+      "datestamp": "2018-04-25 08:06:49",
+      "pagerange": "1-6",
+      "userid": 713,
+      "lastmod": "2018-04-25 08:06:49",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6710",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61712",
+                  "objectid": 19679,
+                  "hash": "c91337c9b02a1aacd38c3c94db27316e",
+                  "filename": "Prosiding BKS PTN B 2013 Wiwik Sudestri_Eri S_Nusyirwan.pdf",
+                  "mtime": "2018-04-16 05:49:50",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 61712,
+                  "filesize": 844717,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 19679,
+            "main": "Prosiding BKS PTN B 2013 Wiwik Sudestri_Eri S_Nusyirwan.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19679",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6710,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Lampung"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013 FMIPA Universitas",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Wiwik",
+            "honourific": null,
+            "family": "Sudestri",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Eri",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Nusyirwan",
+            "lineage": null,
+            "family": "Nusyirwan",
+            "honourific": null
+          },
+          "id": "Nusyirwan@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/68\/00",
+      "lastmod": "2018-04-25 04:34:25",
+      "userid": 433,
+      "pagerange": "1-6",
+      "datestamp": "2018-04-25 04:34:25",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6800,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19772",
+            "rev_number": 1,
+            "main": "Prosiding BKS PTN B 2013 Wiwik Sudestri_Eri S_Nusyirwan.pdf",
+            "docid": 19772,
+            "files": [
+                {
+                  "fileid": 62262,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2018-04-24 06:10:23",
+                  "hash_type": "MD5",
+                  "hash": "c91337c9b02a1aacd38c3c94db27316e",
+                  "filename": "Prosiding BKS PTN B 2013 Wiwik Sudestri_Eri S_Nusyirwan.pdf",
+                  "datasetid": "document",
+                  "filesize": 844717,
+                  "objectid": 19772,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62262"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6800",
+      "refereed": "TRUE",
+      "eprintid": 6800,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 04:34:25",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Dalam penelitian ilmu bidang sosial terdapat permasalahan dalam hubungan antar peubah dan peubah yang diteliti umumnya tidak dapat diobservasi secara langsung tetapi diukur melalui idikator-indikator (observed indicators). Analisis Faktor Konfirmatori merupakan salah satu metode yang dapat mengatasi permasalahan tersebut . Pada penelitian ini yang akan dikaji adalah ketakbiasan dan uji kesesuaian pada model analisis faktor konfirmatori dengan menggunakan metode maximum likelihood dari ukuran sampel 150, 200, 250, dan 300 . Maximum likelihood merupakan metode penduga terbaik yang memiliki sifat tak bias dan variansi minimum. Dari hasil penelitian menunjukan bahwa pada sampel tebesar yaitu pada sampel 300 diperoleh nilai ketakbiasan dan uji kesesuaian model yang baik dibandingkan dengan sampel yang lain. Hal ini menunjukan bahwa dalil limit pusat yang menyatakan semakin besar ukuran sampel, maka sebaran dari parameter dugaan akan mendekati normal terpenuhi.",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "title": "Ketakbiasan Dalam Model Analisis Faktor Konfirmatori Pada Metode Pendugaan Maximum Likelihood Untuk Data Ordinal",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show"
+    },
+    {
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Hamiltonian graf merupakan salah satu jenis graf yang banyak diobservasi, dimana Hamiltonianian graf merupakan graf yang memuat Hamiltonian sirkuit. Jika salah satu vertex atau edge di Hamiltonian graf tersebut dibuang dan graf tersebut masih memuat Hamiltonian sirkuit, maka graf tersebut adalah 1-fault-tolerant Hamiltonian. Pada penelitian ini akan didiskusikan tentang operator 3-join pada dua graf yang masing-masing graf adalah 1-edge-fault tolerant Hamiltonian graf, teorema-teorema, bukti-bukti, serta contoh-contoh yang berkaitan dengan sifat operator tersebut.",
+      "status_changed": "2018-04-25 06:36:23",
+      "eprint_status": "archive",
+      "volume": 1,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Operator 3-Join pada Dua Graf yang Masing-masing Adalah 1-Edge Fault-Tolerant Hamilton Graf",
+      "date_type": "published",
+      "eprintid": 6827,
+      "datestamp": "2018-04-25 06:36:23",
+      "pagerange": "1-4",
+      "lastmod": "2018-04-25 06:36:23",
+      "userid": 263,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6827",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "FMIPA Unila",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6827,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "4bbe56e26ab312d62eb746e2961a7e04",
+                  "filename": "Prosiding BKS BTN B 2013 Perti Susanti_Wamiliana_Fitriani.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-25 04:50:02",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62531,
+                  "filesize": 399203,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62531",
+                  "objectid": 19800
+                }
+            ],
+            "main": "Prosiding BKS BTN B 2013 Perti Susanti_Wamiliana_Fitriani.pdf",
+            "docid": 19800,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19800",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/68\/27",
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Susanti",
+            "given": "Perti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "fitriani_mathunila@yahoo.co.id",
+          "name": {
+            "given": "Fitriani",
+            "family": "Fitriani",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "eprintid": 6769,
+      "date_type": "published",
+      "title": "Operator 3-Join pada Dua Graf yang Masing-masing adalah 1-edge fault- tolerant Hamiltonian graf",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "status_changed": "2018-04-25 07:52:30",
+      "eprint_status": "archive",
+      "abstract": "Hamiltonian graf merupakan salah satu jenis graf yang banyak diobservasi, dimana Hamiltonianian graf merupakan graf yang memuat Hamiltonian sirkuit. Jika salah satu vertex atau edge di Hamiltonian graf tersebut dibuang dan graf tersebut masih memuat Hamiltonian sirkuit, maka graf tersebut adalah 1-fault-tolerant Hamiltonian. Pada penelitian ini akan didiskusikan tentang operator 3-join pada dua graf yang masing-masing graf adalah 1-edge-fault tolerant Hamiltonian graf, teorema-teorema, bukti-bukti, serta contoh-contoh yang berkaitan dengan sifat operator tersebut.",
+      "subjects": [
+        "QA"
+      ],
+      "creators": [
+        {
+          "id": "perti_s@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Susanti",
+            "honourific": null,
+            "given": "Perti"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana"
+          }
+        },
+        {
+          "id": "fitriani_mathunila@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fitriani",
+            "given": "Fitriani"
+          }
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "dir": "disk0\/00\/00\/67\/69",
+      "date": "2013-05-10",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19736",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62051",
+                  "objectid": 19736,
+                  "filesize": 399203,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 03:14:51",
+                  "hash": "4bbe56e26ab312d62eb746e2961a7e04",
+                  "filename": "Prosiding BKS BTN B 2013 Perti Susanti_Wamiliana_Fitriani.pdf",
+                  "fileid": 62051,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Prosiding BKS BTN B 2013 Perti Susanti_Wamiliana_Fitriani.pdf",
+            "docid": 19736,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6769
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6769",
+      "lastmod": "2018-04-25 07:52:30",
+      "userid": 791,
+      "datestamp": "2018-04-25 07:52:30",
+      "pagerange": "1-4"
+    },
+    {
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "IDOSI Publications",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6822,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19795",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 19795,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62496",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62496,
+                  "filename": "MEJSR_MUSTOFA Paper(02).pdf",
+                  "hash": "aa733abc13d2292bebcc633e670bda2e",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-25 04:37:42",
+                  "datasetid": "document",
+                  "filesize": 734048
+                }
+            ],
+            "main": "MEJSR_MUSTOFA Paper(02).pdf",
+            "docid": 19795
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6822",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2018-04-25 06:38:04",
+      "userid": 701,
+      "datestamp": "2018-04-25 06:38:04",
+      "pagerange": "116-123",
+      "publication": "Middle-East Journal of Scientific Research 13 (Mathematical Applications in Engineering)",
+      "issn": "1990-9233",
+      "creators": [
+        {
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "id": "yusuf.barusman@ubl.ac.id",
+          "name": {
+            "family": "Barusman",
+            "honourific": null,
+            "lineage": null,
+            "given": "M Yusuf S"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Elfaki",
+            "honourific": null,
+            "lineage": null,
+            "given": "Faiz A. M."
+          }
+        },
+        {
+          "id": "jamalidus@yahoo.com",
+          "name": {
+            "given": "Jamal I",
+            "lineage": null,
+            "honourific": null,
+            "family": "Daoud"
+          }
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/00\/68\/22",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "title": "Profile Analysis of Population Based on Age-Group in Sumatra",
+      "rev_number": 6,
+      "volume": 13,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 06:38:04",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "The aims of this study is going to analyze the profile of the population in Sumatra based on the age-groups of the population. The Sumatra Island was divided into ten provinces. The profile analysis is going to use to compare the profile of the proportion of age-groups population among the ten provinces. The test of parallel for the profiles, some provinces are significantly different. The variations of the age-goup1 to age-group8 are more variation than the age-group9 to age-group16. The multiple comparison by Tukey’s LSD methods also shows that there are significant difference of proportion of age-groups for some provinces.",
+      "eprintid": 6822,
+      "date_type": "published"
+    },
+    {
+      "datestamp": "2018-04-25 06:37:16",
+      "pagerange": "109-115",
+      "lastmod": "2018-04-25 06:37:16",
+      "userid": 701,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6824",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6824,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 497387,
+                  "datasetid": "document",
+                  "filename": "MEJSR_MUSTOFA Paper(01).pdf",
+                  "hash": "61a2f68228a706342fac3f3e9e8020c0",
+                  "mtime": "2018-04-25 04:43:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 62514,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62514",
+                  "objectid": 19797
+                }
+            ],
+            "main": "MEJSR_MUSTOFA Paper(01).pdf",
+            "docid": 19797,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19797",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "IDOSI Publications",
+      "ispublished": "pub",
+      "number": 1,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "type": "article",
+      "date": 2013,
+      "dir": "disk0\/00\/00\/68\/24",
+      "creators": [
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "family": "Usman",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Elfaki",
+            "honourific": null,
+            "given": "Faiz A. M."
+          },
+          "id": null
+        },
+        {
+          "id": "jamalidus@yahoo.com",
+          "name": {
+            "given": "Jamal I",
+            "family": "Daoud",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1990-9233",
+      "publication": "Middle-East Journal of Scientific Research 13 (Mathematical Applications in Engineering)",
+      "abstract": "The aim of this paper is going to analyze comparison of ratio of parameters and testing various hypotheses of the combination two split plot designs. The combination of two fixed effect split plot designs have constrains on its parameter and the model is non full rank model. First we transform the model into two models, one model related to whole plots and the other model related to split plot. By Model reduction Methods, we transform each model into unconstraint model with full column rank. Based on these unconstraint models estimation, ratio of linear function of parameters by using Fieller’s Theorem and testing various hypotheses will be developed.",
+      "subjects": [
+        "QA"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 06:37:16",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 13,
+      "title": "Ratio of Linear Function of Parameters and Testing Hypothesis of the Combination Two Split Plot Designs",
+      "date_type": "published",
+      "eprintid": 6824
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        }
+      ],
+      "date": "2013-06",
+      "dir": "disk0\/00\/00\/01\/85",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190",
+            "main": "Computational Aspects of Modified Kruskal Algorithm for Diameter Restricted MST.pdf",
+            "docid": 190,
+            "files": [
+                {
+                  "mtime": "2016-07-18 07:58:32",
+                  "hash_type": "MD5",
+                  "hash": "d0023c2b59c0c06c42aefb8d95b39c2e",
+                  "filename": "Computational Aspects of Modified Kruskal Algorithm for Diameter Restricted MST.pdf",
+                  "fileid": 1073,
+                  "mime_type": "application\/pdf",
+                  "filesize": 3578628,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1073",
+                  "objectid": 190
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 185,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/185",
+      "full_text_status": "public",
+      "userid": 7,
+      "lastmod": "2016-07-20 04:18:13",
+      "datestamp": "2016-07-18 08:07:11",
+      "pagerange": "135-142",
+      "event_location": "Aceh Besar",
+      "eprintid": 185,
+      "event_title": "The Fifth International Conference on Numerical Optimization and Operations Research",
+      "event_dates": "26 — 27 June 2013",
+      "title": "COMPUTATIONAL ASPECTS OF MODIFIED KRUSKAL ALGORITHM FOR DIAMETER RESTRICTED MINIMUM SPANNING TREE PROBLEM",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "eprint_status": "archive",
+      "status_changed": "2016-07-18 08:07:11",
+      "abstract": "The Diameter Restricted Minimum Spanning Tree Problem (DRMST) is\r\na problem of finding a minimum weight spanning tree (where every edge\r\nhas associated weight\tand a positive integer d ), having diameter at\r\nmost d. Typically this problem arises when we are seeking the minimum length (for instance: cable or distance needed to connect between to terminals or cities, etc). In this paper we will discuss the modification of Kruskal' algorithm applied to DRMST and show the results.\r\nKeywords: diameter restricted, minimum spanning tree, Kruskal's algorithm.",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "status_changed": "2017-03-24 15:14:29",
+      "eprint_status": "archive",
+      "subjects": [
+        "QA"
+      ],
+      "title": "Comparative Analysis for The Multi Period Degree\r\nMinimum Spanning Tree Problem",
+      "event_dates": "27-29 Agustus 2013",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_title": "2nd International Conference on Engineering and Technology Development (ICETD 2013)",
+      "eprintid": 1485,
+      "date_type": "published",
+      "event_location": "Lampung",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-03-24 15:14:29",
+      "userid": 7,
+      "datestamp": "2017-03-24 15:14:29",
+      "pagerange": "27-29",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1356",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 1356,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10092",
+                  "datasetid": "document",
+                  "filesize": 3055870,
+                  "fileid": 10092,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-03-24 15:08:28",
+                  "hash_type": "MD5",
+                  "filename": "Comparative Analysis for The  Multi Period Degree Constrained MST.pdf",
+                  "hash": "1812855e6c19da0380631e1628001d82"
+                }
+            ],
+            "main": "Comparative Analysis for The  Multi Period Degree Constrained MST.pdf",
+            "docid": 1356,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1485
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1485",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Amanto",
+            "honourific": null,
+            "given": "Amanto"
+          },
+          "id": null
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "family": "Usman",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mustofa"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/14\/85",
+      "date": 2013
+    },
+    {
+      "title": "Application of factor analysis to public sector integrity  in Indonesia",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-06-05 04:18:15",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sebidang atau Peer Review Karya Ilmiah Prosiding dan Makalah yang dipresentasikan (similarity)",
+      "eprintid": 21953,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/202674",
+                  "objectid": 35367,
+                  "filesize": 1763103,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-05 03:46:54",
+                  "filename": "A17 - IS23% - Application_of_factor_analysis_to_public_sec.pdf",
+                  "hash": "3953a24fbe894af4a3373c9d167f7e56",
+                  "fileid": 202674,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 35367,
+            "main": "A17 - IS23% - Application_of_factor_analysis_to_public_sec.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35367",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 21953,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "The First International Confrence on Law, Bussiness & Governance 2013",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21953",
+      "full_text_status": "public",
+      "lastmod": "2020-06-05 04:18:15",
+      "userid": 516,
+      "datestamp": "2020-06-05 04:18:15",
+      "creators": [
+        {
+          "name": {
+            "family": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "given": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        }
+      ],
+      "date": 2013,
+      "dir": "disk0\/00\/02\/19\/53",
+      "type": "other",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "title": "Application of Factor Analysis to Public Sector Integrity in Indonesia",
+      "official_url": "http:\/\/artikel.ubl.ac.id\/index.php\/",
+      "event_dates": "23-24 Oktober 2013",
+      "rev_number": 10,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "status_changed": "2017-06-12 02:13:04",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/artikel.ubl.ac.id\/index.php\/",
+          "type": "pub"
+        }
+      ],
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "The main purpose of this study is to analyze interrelationships among variables used on the survey of public sector integrity by IndonesiaÃ¢Â�Â�s Corruption Eradication Commission (Komisi Pemberantasan Korupsi, KPK). The nine variables include corruption experiences, corruption perceptions, working environments, administration systems, the behavior of individuals, corruption prevention efforts, integrity experiences, integrity potencies, and integrity total. Using factor analysis, the approach is to explain these variables in terms of their common underlying dimensions, well-known as factors. Technically, factor analysis involves condensing the information contained in a number of original variables into a smaller set of new composite factors with a minimum loss of information. The results show that based on eigen values the first factor alone accounts for 70.7% of the common variance. The second factor alone accounts for 13,4%. The common variance of the nine variables explained by two factors is 84.1%. Using the varimax rotation and based on values of factor loadings the first factor makes high contribution to the variance of corruption experiences, corruption perceptions, working environments, the behavior of individuals, integrity experiences, and integrity total variables. The second factor makes high contribution to the variance of corruption prevention efforts and integrity potencies variables. Similar results, also, are obtained by quartimax rotation and equamax rotation",
+      "event_location": "Universitas Bandar Lampung, Lampung",
+      "event_title": "International Conference on Law, Business and Governance (ICon-LBG)",
+      "eprintid": 3431,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23740",
+                  "objectid": 3289,
+                  "filesize": 1203989,
+                  "datasetid": "document",
+                  "filename": "_Proseding Internasional.pdf",
+                  "hash": "5c35886c140142325bbed73fc1cc4a4e",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-05 09:37:24",
+                  "mime_type": "application\/pdf",
+                  "fileid": 23740
+                }
+            ],
+            "docid": 3289,
+            "main": "_Proseding Internasional.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3289",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3431,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3431",
+      "refereed": "TRUE",
+      "lastmod": "2017-06-12 02:13:04",
+      "userid": 752,
+      "pagerange": "69-75",
+      "datestamp": "2017-06-12 02:13:04",
+      "creators": [
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yasir",
+            "given": "Armen"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Kurniasari",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "dksari13@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Widiarti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Widiarti"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Saifuddin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ridwan"
+          }
+        }
+      ],
+      "date": "2013-10-24",
+      "dir": "disk0\/00\/00\/34\/31",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "lastmod": "2018-04-25 07:52:18",
+      "userid": 791,
+      "datestamp": "2018-04-25 07:52:18",
+      "pagerange": "1-6",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6770,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19737",
+            "rev_number": 1,
+            "main": "Prosiding BKS BTN B 2013 Yudi PM_Wamiliana_Fitriani.pdf",
+            "docid": 19737,
+            "files": [
+                {
+                  "objectid": 19737,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/62058",
+                  "fileid": 62058,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-20 03:17:38",
+                  "hash": "3d95bd0ebc2563b15f0cdbb81002c3de",
+                  "filename": "Prosiding BKS BTN B 2013 Yudi PM_Wamiliana_Fitriani.pdf",
+                  "datasetid": "document",
+                  "filesize": 955031
+                }
+            ]
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6770",
+      "type": "article",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Yudhi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yudhi"
+          },
+          "id": "Yudhi_pm@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Fitriani",
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "publication": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "date": "2013-05-10",
+      "dir": "disk0\/00\/00\/67\/70",
+      "status_changed": "2018-04-25 07:52:18",
+      "eprint_status": "archive",
+      "abstract": "Permasalahan Chinese Postman Problem adalah bagaimana seorang tukang pos akan mengantarkan surat ke alamat-alamat sepanjang jalan di suatu daerah dan bagaimana ia merencanakan rute perjalanannya supaya ia melewati setiap jalan tepat sekali dan kembali lagi ke tempat awal keberangkatannya dengan jarak \/ waktu \/ ongkos seminimal mungkin. Lintasan dan sirkuit yang digunakan dalam penelitian ini adalah lintasan dan sirkuit Euler. Pada penelitian ini algoritma Greedy dibandingkan dengan Program Dinamis untuk menyelesaikan permasalahan Chinese\r\nPostman dengan menggunakan peta wilayah kelurahan Kedaton Bandar Lampung sebagai contoh. Hasil penelitian menunjukan bahwa metode Program Dinamis menghasilkan nilai yang lebih baik.",
+      "subjects": [
+        "QA"
+      ],
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "title": "PERBANDINGAN PROGRAM DINAMIS DAN ALGORITMA GREEDY DALAM MENYELESAIKAN MASALAH CHINESE POSTMAN PROBLEM",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "eprintid": 6770,
+      "date_type": "published"
+    }
+]
+

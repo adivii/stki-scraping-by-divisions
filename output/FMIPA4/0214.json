@@ -1,0 +1,138 @@
+[
+    {
+      "funders": [
+        "Dikti"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yandri",
+            "honourific": null,
+            "given": "Yandri"
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suhartati"
+          }
+        },
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Sutopo"
+          }
+        }
+      ],
+      "issn": "Online ISSN: 2581-690X",
+      "publication": "JOURNAL OF PURE AND APPLIED MICROBIOLOGY",
+      "dir": "disk0\/00\/02\/82\/99",
+      "userid": 1047,
+      "pagerange": "3675-3680",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 28299,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42343",
+            "rev_number": 1,
+            "main": "JPAMVO8N5P3675-3680.pdf",
+            "docid": 42343,
+            "files": [
+                {
+                  "fileid": 251665,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-03-09 04:24:21",
+                  "hash_type": "MD5",
+                  "hash": "e127e8a7b5c254234b099c4d9fd9e158",
+                  "filename": "JPAMVO8N5P3675-3680.pdf",
+                  "datasetid": "document",
+                  "filesize": 103686,
+                  "objectid": 42343,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251665"
+                }
+            ]
+          }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28299",
+      "full_text_status": "public",
+      "status_changed": "2021-03-09 07:10:40",
+      "title": "The Chemical Modification of Cellulase from Locale Bacteria\r\nIsolate Bacillus subtilis ITBCCB148 with Glyoxylic Acid",
+      "metadata_visibility": "show",
+      "volume": 8,
+      "rev_number": 6,
+      "type": "article",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "id_number": "Prefix 10.22207",
+      "date": "0214-10-15",
+      "lastmod": "2021-03-09 07:10:40",
+      "corp_creators": [
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA"
+      ],
+      "datestamp": "2021-03-09 07:10:40",
+      "publisher": "Publisher: Dr. M.N. Khan",
+      "number": 5,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "name": {
+            "given": "Y",
+            "family": "Yandri",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "T",
+            "honourific": null,
+            "family": "Suhartati",
+            "lineage": null
+          },
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hadi",
+            "honourific": null,
+            "given": "S"
+          }
+        }
+      ],
+      "eprintid": 28299,
+      "date_type": "published",
+      "projects": [
+        "Hibah Kompetensi"
+      ],
+      "eprint_status": "archive",
+      "abstract": "This research aims to increase the stability of cellulase obtained from Bacillus subtilis ITBCCB148 using glyoxylic acid as modifier. To achieve this aim, the research phases performed were production, isolation, purification and chemical modification on cellulase and were followed by characterization of the purified (native) and modified enzyme to know the stability increase of the enzyme. The result showed that the purified enzyme has optimum pH 6, temperature optimum 60oC ; ki  = 0,066 min.-1 ;   t1\/2 = 10.50 min.; and delta G  = 100.7330 kJ\/mol, while the modified enzymes with glyoxylic acid with modification degree of   70.54; 78.68; 86.43% have similar optimum pH and temperature with the native enzyme, but the thermal stability of the three modified enzymes were ki  = 0.031; 0.033; and 0.037 min.-1, t1\/2  = 22.35; 21.00; and 18.72 minutes, and delta G = 102.8253; 102.6522; and 102.3354 kJ mol , respectively.  The chemical modification has been able to increase the thermal stability of the modified enzymes 1.8 – 2.1 times more than the native one.",
+      "subjects": [
+        "QD"
+      ],
+      "official_url": "https:\/\/microbiologyjournal.org\/about-jpam\/"
+    }
+]
+

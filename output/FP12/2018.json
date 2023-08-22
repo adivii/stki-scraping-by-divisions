@@ -1,0 +1,579 @@
+[
+    {
+      "eprintid": 47969,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-24 01:42:40",
+      "abstract": "ABSTRACT: Normally, a rural region in the developing countries, which is undergoing\r\ntransformation process from agricultural economy to industrial economy, is followed by\r\nenvironmental degradation such as deforestation, deterioration of air quality and micro-climate.\r\nBesides, it is also acompanied by the change in family behavior in relation to their adaptaion\r\nwhich also leads to the prevalence of various diseases including Dengue Hemorrhagic Fever\r\n(DHF). These phenomena are being experienced by many villages in South Lampung Regency\r\nespecially in the suburban area of the capital city, Bandar Lampung. This research aims to\r\ninvestigate the influence of environmental factors, sex, the age of toddlers and the family’s habit\r\non toddlers’ immunity against DHF. The research was conducted from July to October 2016 in\r\nSouth Lampung Regency especially in the 7 districts with a relatively high number of DHF cases\r\non toddlers namely Natar Agung Jati, Bakauheni, Ketapang, Tanjung Sari, Sidomulyo, and\r\nKatibung. The data analysis was conducted at the Forest Resource Inventory Laboratory,\r\nFaculty of Agriculture, The University of Lampung, Indonesia. The macro environmental\r\nvariables investigated are the level of regional urbanism, the amplitude (maximum-minimum)\r\nof air temperature [TEMP_AM], average rainfall [RAIN], forest and agroforestry acreage\r\n[RTH_AGRF] as well as fishpond and other water bodies such as dyke, pond, retention basin\r\nand the like [RTH_POND]. The [RTH_AGRF] and [RTH_POND] data are provided through\r\nthe record of Landsat satellite image interpretation that recorded on June 21, 2016, on\r\npath123\/row 064 segment followed by field validation. The climate data are obtained from the\r\nBoard of Climatology, Meteorology and Geophysics of Lampung especially from Branti,\r\nPanjang and Bakauheni Stations. Case data on toddlers who have been medical tested as positive\r\nfor DHF on the basis of laboratory tests for the period of January 2015 to June 2016 were\r\nobtained from Health Department of South Lampung. Each case was surveyed to conduct\r\nobservation on the family’s habit. The same observation was also conducted on 1 –3 families\r\nwith uninfected (immune) toddlers who lived around the case location. To test the hypothesis,\r\nthe log-linear model postulate is used, whose the resistant toddlers are scored by Y=1 and the\r\naffected ones are scored by Y=0. Optimization of 15 model parameters was done with Minitab\r\n17 software at 15% of the real level. The conclusions of the variables that significantly influence\r\nare air temperature amplitude (every increase of 10\r\nC the resistance decreased to 1\/1000); the\r\narea of green open space (each 1,000 ha reforestation, the resistance increased 25.05 times); the area of fishponds and ponds (every increase of 1,000 ha, the resistance increased 24.03 times),\r\ntoddlers’ sex (male is 2.21 times more resistant than female); inner family’s habits: (a) using\r\nmosquitoes repellent, (b) cultivating fish, and (c) not hanging clothes where the toddlers of those\r\nwho have mentioned habits are more resitant consecutively 11:48; 2.95; and 10.62 times than\r\nthose who do not do the habits. It is suggested that to conduct research in other regencies as\r\nwell as integrate the nutritional status and another disease history before the toddlers are affected\r\nby dengue hemorrhagic fever (DHF).",
+      "subjects": [
+        "GE",
+        "RA0421"
+      ],
+      "title": "25 overall Similiraty the paper of \"TODDLER’S IMMUNITY AGAINST DENGUE HEMORRAGHIC\r\nFEVER BASED ON SEX AND AGE: THE ROLE OF\r\nENVIRONMENT AND FAMILY’S HABITUAL VARIABLES\"",
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "type": "other",
+      "divisions": [
+        "FP12"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bakri",
+            "lineage": null,
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Agustinawati",
+            "lineage": null,
+            "family": "Raya",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Indriani",
+            "lineage": null,
+            "given": "Yaktiworo"
+          },
+          "id": "yakti_indriani@yahoo.com"
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suwandi",
+            "given": "Jhons Fatriyadi"
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/79\/69",
+      "date": 2018,
+      "lastmod": "2023-01-24 01:42:40",
+      "userid": 753,
+      "datestamp": "2023-01-24 01:42:40",
+      "publisher": "LPPM Unila",
+      "documents": [
+          {
+            "eprintid": 47969,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "13. Toddlers_Shield_2%.pdf",
+            "docid": 187082,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 524636,
+                  "filename": "13. Toddlers_Shield_2%.pdf",
+                  "hash": "adab478f5572e37a0aa3a264ca723ee2",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-23 06:34:19",
+                  "datasetid": "document",
+                  "filesize": 1415659,
+                  "objectid": 187082,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524636"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187082"
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47969"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 11733,
+      "abstract": "In general, tropical soil is characterized by low Cation Exchange Capacity of clay mineral, low base saturation, high aluminum solubility, low pH and low organic matter content.\r\nThis characteristics resulted in the low ability of the soil to carry electrons. For this reason, it is necessary to additive treatment to the soil which will be used as grounding media. This research aims to compare the effect of soil resistance decrease between soil mixing with bentonite, lime and building waste debris. The direct measurements were conducted by using Earth Ground Resistance Tester tool. It can be concluded that the addition of additives has an effect on the decrease of grounding resistance value. The best response to the decrease in resistance consecutively was in the mixture of soil with debris, then followed by soil with lime and soil with bentonite. This finding was prospective for the development of artificial grounding media to reduce the risk of lightning hazards in dense residential areas while reducing the burden and\r\nutilizing debris waste from negative externalities of development.",
+      "subjects": [
+        "TD"
+      ],
+      "status_changed": "2019-05-08 07:22:26",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "official_url": "http:\/\/shieldproceeding.uprci.com\/journal\/list_journal\/3rd-shield-proceeding#",
+      "title": "TO REDUCE TROPICAL SOIL RESISTANCE GROUNDING BY\r\nMIXING ADDITIVE MATRIALS OF BENTONITE, LIME, AND\r\nBUILDING DEBRIS: A PROSPECT OF SECURITY IMPROVEMENT\r\nTOWARDS LIGHTNING STRIKE IN URBAN ENVIRONMENT",
+      "divisions": [
+        "FP12"
+      ],
+      "type": "article",
+      "date": "2018-11",
+      "dir": "disk0\/00\/01\/17\/33",
+      "issn": "978-602-51393-3-8",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Kusrini",
+            "lineage": null,
+            "given": "Neneng"
+          }
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "family": "Bakri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Samsul"
+          }
+        },
+        {
+          "id": "yulmartin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Martin",
+            "lineage": null,
+            "given": "Yul"
+          }
+        },
+        {
+          "id": "melya.riniarti@fp.unila.ac.id",
+          "name": {
+            "given": "Melya",
+            "honourific": null,
+            "family": "Riniarti",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Proceeding of the 3rd Shield International Conference Bandar Lampung",
+      "pagerange": "185-189",
+      "datestamp": "2019-05-08 07:22:26",
+      "lastmod": "2019-05-08 07:22:26",
+      "userid": 753,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11733",
+      "full_text_status": "public",
+      "publisher": "Pascasarjana Unila",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24721",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 175745,
+                  "datasetid": "document",
+                  "hash": "1691471a7f89342643da802d6f7479b8",
+                  "filename": "TO_REDUCE_TROPICAL_SOIL_RESISTANCE_GROUNDING_BY_MIXING_ADDITIVE_MATRIALS_OF_BENTONITE,_LIME,_AND_BUILDING_DEBRIS__A_PROSPECT_OF_SECURITY_IMPROVEMENT_TOWARDS_L.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-06 04:10:14",
+                  "mime_type": "application\/pdf",
+                  "fileid": 105863,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105863",
+                  "objectid": 24721
+                }
+            ],
+            "main": "TO_REDUCE_TROPICAL_SOIL_RESISTANCE_GROUNDING_BY_MIXING_ADDITIVE_MATRIALS_OF_BENTONITE,_LIME,_AND_BUILDING_DEBRIS__A_PROSPECT_OF_SECURITY_IMPROVEMENT_TOWARDS_L.pdf",
+            "docid": 24721,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 11733
+          }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11777",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Pascasarjana Unila",
+      "documents": [
+          {
+            "eprintid": 11777,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "[1] THE 3RD_SHIELD_Rohayati et al.pdf",
+            "docid": 24767,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 417304,
+                  "mime_type": "application\/pdf",
+                  "fileid": 106139,
+                  "hash": "127ca4286789c1ed8db5f5a3144e4120",
+                  "filename": "[1] THE 3RD_SHIELD_Rohayati et al.pdf",
+                  "mtime": "2019-05-06 07:03:47",
+                  "hash_type": "MD5",
+                  "objectid": 24767,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106139"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24767"
+          }
+      ],
+      "pagerange": "221-228",
+      "datestamp": "2019-05-08 07:24:43",
+      "userid": 753,
+      "lastmod": "2019-05-08 07:24:43",
+      "date": "2018-11",
+      "dir": "disk0\/00\/01\/17\/77",
+      "publication": "Proceeding of the 3rd Shield International Conforence",
+      "issn": "987-602-51393-3-8",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Rohayati",
+            "lineage": null,
+            "given": "Rohayati"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Muhtarudin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhtarudin"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bakri",
+            "lineage": null,
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Jhons Fatriyadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suwandi"
+          }
+        }
+      ],
+      "divisions": [
+        "FP12"
+      ],
+      "type": "article",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "THE IMPACT OF CLIMATE CHANGE AND LAND COVER ON\r\nAVIAN INFLUENZA (AI) INCIDENCE IN SECTOR 4 LIVESTOCK\r\nPOULTRY (TRADITIONAL POULTRY) IN LAMPUNG PROVINCE",
+      "official_url": "http:\/\/shieldproceeding.uprci.com\/journal\/list_journal\/3rd-shield-proceeding#",
+      "subjects": [
+        "SD"
+      ],
+      "abstract": "Indonesia is one of the developing countries that is currently being transformed into an industrial country, and its current transformation is especially characterized by the increasing amount of various human activities in agriculture and agro-industry. The increasing demands of various human needs have resulted in the exploitation of natural resources and forced changes in land use for settlements, agriculture areas and industry which ultimately lead to environmental damage. On the other hand, the world is currently facing climate change, a\r\nphenomenon that is characterized by a notable increase in air temperatures and fluctuations in\r\nrainfalls. Climate change could interfere with the environmental state so that it affects the\r\nresistance of the majority of living things in the world, both humans and animals to climatebased disease infections such as Avian Influenza (AI). The purpose of this study (1) is to build a causal relationship between climate change and land cover on the incidence of AI in livestock poultry sector 4 in Lampung Province and (2) to determine the impact of climate change and land cover on the incidence of AI in poultry in sector 4 livestock in the Lampung province. This\r\nresearch was conducted in August - October 2018 with the scope of the research area of Lampung Province in 2009-2015. The dynamics of land cover change and land use per\r\ndistrict\/city are identified through geographic information systems and interpretation of landsat images in 2009, 2012 and 2015 and other secondary data, producing a percentage of land cover area and land use. The results showed that there was a significant relationship between changes in water body -3,016 (p = 0,071), Shrub 0,5511 (p = 0.005), settlement 0,03662 (p = 0,472),open land -1,4706 (p = 0.027), swamp body - 0.35421 (p = 0.001), mixed dryland 0.02408 (p =0.142), rice fields -0.05455 (p = 0.338), sea banks 2.6071 (p = 0.008), mangrove -5,473 (p = 0,436), temperature 2,3496 (p = 0,009), rainfall -0,03007 (p = 0,056) and secondary forest covers -0,2289 (p = 0,056",
+      "status_changed": "2019-05-08 07:24:43",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 11777
+    },
+    {
+      "eprintid": 21120,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/3rdshieldproceeding.uprci.org",
+      "title": "TEST OF PROTEIN CONTENT IN PASTA OF Nannochloropsis sp. ISOLATED FROM LAMPUNG MANGROVE CENTER IN INTERMEDIATE SCALE CULTURE",
+      "subjects": [
+        "Q1"
+      ],
+      "abstract": "ABSTRACT: Nannochloropsis sp. is a phytoplankton required in the ocean culture activities as living feed for fish larva. One of ocean with abundant Nannochloropsis sp. is the Lampung Mangrove Center. The objective of this research was to find out the protein content from Nannochloropsis sp. paste of isolate from Lampung Mangrove Center in the intermediate scale culture that was administered with combined fertilizer and different doses of NaOH as coagulant agent. This research used factorial completely random design with two treatments and each treatment was repeated three times. The first treatment was by seeing differences of fertilizer combination administrations between agricultural fertilizer (Urea 40 ppm, Za 20 ppm and TSP 5 ppm) and Conwy fertilizer 1 ml\/L. The second treatment was paste making by administering different NaOH doses (100 ppm, 125 ppm, 150 ppm and 175 ppm). Data were analyzed by using analysis of variance (ANOVA), and whenever any significant difference result was obtained, then Least Significant Different test with α = 0.05 was conducted. The research result showed that the highest protein content (15.73%) was produced by Nannochloropsis sp. paste in the Conwy fertilizer treatment combined with NaOH dose of 175 ppm.\r\nKeywords: Nannochloropsis sp., protein, combination of fertilizer and NaOH dose",
+      "eprint_status": "archive",
+      "status_changed": "2020-05-29 19:11:25",
+      "dir": "disk0\/00\/02\/11\/20",
+      "date": 2018,
+      "publication": "Proceeding of the 3rd SHIELD International Conference of 2018",
+      "creators": [
+        {
+          "name": {
+            "given": "Tugiyono",
+            "lineage": null,
+            "family": "Tugiyono",
+            "honourific": null
+          },
+          "id": "tugiyono.1964@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Setiawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "aslulila@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Emy",
+            "lineage": null,
+            "family": "Rusyani",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ika",
+            "family": "Widyawati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FP12"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21120",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 21120,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34505",
+            "rev_number": 1,
+            "main": "Proceeding of the 3rd SHIELD International Conference of 2018.pdf",
+            "docid": 34505,
+            "files": [
+                {
+                  "fileid": 196869,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-05-29 15:16:40",
+                  "hash_type": "MD5",
+                  "filename": "Proceeding of the 3rd SHIELD International Conference of 2018.pdf",
+                  "hash": "359d92ff88391fbd90ac776d2db0865c",
+                  "datasetid": "document",
+                  "filesize": 319832,
+                  "objectid": 34505,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/196869"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2020-05-29 19:11:25",
+      "lastmod": "2020-05-29 19:11:25",
+      "userid": 826
+    },
+    {
+      "datestamp": "2019-07-02 03:10:48",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-07-02 03:10:48",
+      "userid": 379,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13438",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26447",
+            "rev_number": 1,
+            "docid": 26447,
+            "main": "4_EKSAKTA-2-1.pdf",
+            "files": [
+                {
+                  "fileid": 117611,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-07-02 03:06:49",
+                  "hash_type": "MD5",
+                  "filename": "4_EKSAKTA-2-1.pdf",
+                  "hash": "85308a4c2949f405ea9b8492c5f50db5",
+                  "datasetid": "document",
+                  "filesize": 222506,
+                  "objectid": 26447,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117611"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 13438,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "divisions": [
+        "FP12"
+      ],
+      "type": "article",
+      "date": 2018,
+      "dir": "disk0\/00\/01\/34\/38",
+      "creators": [
+        {
+          "id": "dyah.wulan@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Wardani",
+            "honourific": null,
+            "given": "Dyah Wulan"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suroso",
+            "given": "Erdi"
+          },
+          "id": "erdi.suroso@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bakri",
+            "lineage": null,
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        }
+      ],
+      "publication": "Diaspora: Eksakta",
+      "abstract": "Urbanism that may cause with an increase in human activity have an impact on the increase of\r\ntemperature and precipitation fluctuation as an indication the climate change. Climate change\r\nreduced the level of comfort the environment so it influenced immune system of society toward\r\nthe diseases including Dengue Hemorrhagic Fever (DHF), whereas it has a big impacted to\r\nsocio economic. The objective of the research was to determine the correlation of causality\r\nchange urbanism areas, elevation, and climate variable toward DHF incident and predict\r\nallocation of total medical expenses DHF incident under urbanisms area and climate change.\r\nThis research has conducted December to June 2018. The result of statistic analysis found that\r\nprecipitation has significant correlation toward DHF incident was (β=0,003916; p=0,008). Air\r\ntemperature has significant correlation toward DHF incident was (β=0,8172; p=0,000).\r\nUrbanisms area has significant correlation toward DHF incident was (β=4,6308; p=0,000).\r\nElevation has significant correlation toward DHF incident was (β=0,002155; p=0,036). Total \r\nopportunity cost DHF was 28.507.258.122 IDR a year, meanwhile the result of simulation of\r\ntotal opportunity cost DHF based on scenarioif there were urbanisms area followed with\r\nclimate change was  58.609.000.861 IDR a year.\r\n\r\nKeywords:Dengue Hemorrhagic Fever, urbanisms area, climate change, opportunity cost.",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2019-07-02 03:10:48",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "title": "DAMPAK PERUBAHAN IKLIM DAN TINGKAT URBANISME WILAYAH TERHADAP BIAYA KORBANAN DEMAM BERDARAH DENGUE",
+      "date_type": "published",
+      "eprintid": 13438
+    },
+    {
+      "date": "2018-05",
+      "dir": "disk0\/00\/03\/73\/27",
+      "id_number": "http:\/\/dx.doi.org\/10.25181\/jppt.v18i2.684",
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "issn": "1410-5020",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Rama",
+            "lineage": null,
+            "honourific": null,
+            "family": "Wicaksana"
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Setiawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "aslulila@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yuwono",
+            "lineage": null,
+            "given": "Slamet Budi"
+          },
+          "id": "sbyuwono_unila@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Samsul",
+            "family": "Bakri",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FP12"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37327",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 37327,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 637456,
+                  "fileid": 427131,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-12-15 22:52:25",
+                  "filename": "Rama Wicaksana 684-Article Text-2641-1-10-20190515 (1).pdf",
+                  "hash": "7a1baaa0509c9a38f1a98a182f32381a",
+                  "objectid": 158231,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427131"
+                }
+            ],
+            "main": "Rama Wicaksana 684-Article Text-2641-1-10-20190515 (1).pdf",
+            "docid": 158231,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158231",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Poloiteknik Negeri Lampung",
+      "datestamp": "2021-12-16 01:02:56",
+      "pagerange": "64-72",
+      "userid": 753,
+      "lastmod": "2021-12-16 01:02:56",
+      "date_type": "published",
+      "eprintid": 37327,
+      "rev_number": 6,
+      "volume": 18,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/jurnal.polinela.ac.id\/index.php\/JPPT",
+      "title": "Identification of Thermal Metal Content (Pb) on Restricted Art (Artocarpus heterophyllus) In The Media City Of Bandar Lampun",
+      "subjects": [
+        "SD"
+      ],
+      "abstract": "Lead (Pb) is a heavy metal that naturally exists in the earth's crust and diffuses in small \r\namounts through natural and artificial processes. This study aims to determine the amount of \r\nlead contained in the fruit jackfruit (Artocarpus heterophyllus) in the median street Bandar\r\nLampung City. To know the factors that affect the lead content of jackfruit (Artocarpus \r\nheterophyllus) is done regression analysis. Research shows that the lead content of the \r\njackfruit (Artocarpus heterophyllus) in the median of Bandar Lampung City road has exceeded \r\nthe consumption limit, besides the factors affecting the lead content of the jackfruit \r\n(Artocarpus heterophyllus) to be the tree season, the geometry of the bend, the topography of \r\nthe incline and the derivative.",
+      "status_changed": "2021-12-16 01:02:56",
+      "eprint_status": "archive"
+    }
+]
+

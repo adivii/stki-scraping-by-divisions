@@ -1,0 +1,73 @@
+[
+    {
+      "eprintid": 48724,
+      "eprint_status": "archive",
+      "status_changed": "2023-03-06 01:55:50",
+      "subjects": [
+        "JZ"
+      ],
+      "title": "Komponen Cadangan untuk Pertahanan Indonesia",
+      "metadata_visibility": "show",
+      "place_of_pub": "Padang",
+      "rev_number": 7,
+      "type": "other",
+      "divisions": [
+        "FISIP8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Sulistyo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Iwan"
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "date": "2013-06-29",
+      "dir": "disk0_bak\/00\/04\/87\/24",
+      "lastmod": "2023-03-06 01:55:50",
+      "userid": 1187,
+      "datestamp": "2023-03-06 01:55:50",
+      "documents": [
+          {
+            "docid": 188101,
+            "main": "Komponen Cadangan untuk Pertahanan Indonesia (Harian Umum Haluan, 29 Juni 2013).pdf",
+            "files": [
+                {
+                  "filesize": 1314867,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-04 09:10:25",
+                  "filename": "Komponen Cadangan untuk Pertahanan Indonesia (Harian Umum Haluan, 29 Juni 2013).pdf",
+                  "hash": "89f1ac0083aefd70a5d6e477c8f18ea4",
+                  "fileid": 530926,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530926",
+                  "objectid": 188101
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188101",
+            "rev_number": 1,
+            "eprintid": 48724,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "harian Umum Haluan",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48724",
+      "full_text_status": "public"
+    }
+]
+

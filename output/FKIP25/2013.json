@@ -1,0 +1,75 @@
+[
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23675",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 23675,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37306",
+            "rev_number": 1,
+            "main": "prosiding. AFAS.pdf",
+            "docid": 37306,
+            "files": [
+                {
+                  "objectid": 37306,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216168",
+                  "datasetid": "document",
+                  "filesize": 6444264,
+                  "mime_type": "application\/pdf",
+                  "fileid": 216168,
+                  "filename": "prosiding. AFAS.pdf",
+                  "hash": "6337cd8122c531e5364d5d5de5a96d8e",
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-19 07:34:46"
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "pagerange": "92-99",
+      "datestamp": "2020-08-19 08:04:43",
+      "lastmod": "2020-08-19 08:04:43",
+      "userid": 225,
+      "dir": "disk0\/00\/02\/36\/75",
+      "date": "2013-04-27",
+      "creators": [
+        {
+          "id": "Dwiyana.Habsary@fkip.unila.ac,id",
+          "name": {
+            "given": "Dwiyana",
+            "honourific": null,
+            "family": "Dwiyana Habsary",
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP25"
+      ],
+      "type": "conference_item",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 7,
+      "event_dates": "27 April 2013",
+      "title": "Education Dance Between Hope and Reality",
+      "abstract": "Interaction is key element in the formation of identity. Through the process of interaction, a person will be able to knows his character. Individuals in the gorup knowing the process will be easier than removing members from the group. In line with this arguments, the paper describes how it is applied to the process of learning, espeacially dance. Learning through dance is expected to bring together with integrated cognitive, motor, and afective. Efforts to integrate the three domains should be assisted with a concept, while the concept is ever emerging education dance. During this dance leasons emphasize on dance form that are sometime incompatible with the childs age. This can lead to selfisness and selfconfidance in children. Unlike the education dance that gives student to opportunity to be creative and get to know the environment. Through edocation dance, teachers and student are requared to be active and creative.",
+      "subjects": [
+        "NX"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-08-19 08:04:43",
+      "event_location": "Bangkok, Thailand",
+      "date_type": "published",
+      "eprintid": 23675,
+      "event_title": "ASEAN Fine Arts Symposium"
+    }
+]
+

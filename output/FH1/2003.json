@@ -1,0 +1,71 @@
+[
+    {
+      "book_title": "Kontroversi Pemilihan Gubernur Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "type": "book_section",
+      "date": "2003-02",
+      "dir": "disk0\/00\/01\/07\/59",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wahyu Sasongko",
+            "given": "Wahyu"
+          }
+        }
+      ],
+      "pagerange": "98-110",
+      "datestamp": "2019-04-09 06:59:40",
+      "lastmod": "2019-04-09 06:59:40",
+      "userid": 987,
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10759",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 10759,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23773",
+            "rev_number": 1,
+            "main": "wahyu sasongko. Pola Money 2019.pdf",
+            "docid": 23773,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 8911127,
+                  "fileid": 99261,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-02-14 04:02:37",
+                  "hash_type": "MD5",
+                  "hash": "af740330a5fcaf509335b38ed8bbd2f4",
+                  "filename": "wahyu sasongko. Pola Money 2019.pdf",
+                  "objectid": 23773,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99261"
+                }
+            ]
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "isbn": "979-8287-48-7",
+      "eprintid": 10759,
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2019-04-09 06:59:40",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "rev_number": 7,
+      "title": "Mengapa Money Politics Sulit Dibuktikan"
+    }
+]
+

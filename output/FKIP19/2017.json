@@ -1,0 +1,585 @@
+[
+    {
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48138,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187349",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 187349,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526171",
+                  "fileid": 526171,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-01-29 04:49:24",
+                  "hash_type": "MD5",
+                  "filename": "33-7324.pdf",
+                  "hash": "72a4910b4b95281b6f4ea54973ab6c83",
+                  "datasetid": "document",
+                  "filesize": 262441
+                }
+            ],
+            "docid": 187349,
+            "main": "33-7324.pdf"
+          },
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 48138,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187350",
+            "formatdesc": "Cek similaritas turnitin",
+            "docid": 187350,
+            "main": "33-7324.pdf.pdf",
+            "files": [
+                {
+                  "objectid": 187350,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526173",
+                  "datasetid": "document",
+                  "filesize": 345996,
+                  "mime_type": "application\/pdf",
+                  "fileid": 526173,
+                  "hash": "b4c81fdffcb151018e3b7124a8b828d7",
+                  "filename": "33-7324.pdf.pdf",
+                  "mtime": "2023-01-29 04:49:33",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48138",
+      "userid": 868,
+      "pagerange": "1-12",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Semi",
+            "lineage": null,
+            "family": "Amsiah",
+            "honourific": null
+          }
+        },
+        {
+          "id": "chandra.ertikanto@fkip.unila.ac.id",
+          "name": {
+            "given": "Chandra",
+            "honourific": null,
+            "family": "Ertikanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nurlaksana",
+            "lineage": null,
+            "family": "Eko",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "2807-1735",
+      "publication": "Pedagogi: jurnal pendidikan dasar",
+      "dir": "disk0_bak\/00\/04\/81\/38",
+      "contact_email": "chandra.ertikanto@fkip.unila.ac.id",
+      "referencetext": "Arum, Wibowo 2013Peningkatan Kualitas \r\nPembelajaran Pkn Melalui Model \r\nTime Token Arends Dengan Media \r\nAudio Visual Pada Siswa Kelas V SDN Kandri 01 Kota Semarang \r\nJurnal pendidikan Indonesia. (JPII) \r\nNo.5 VolIX Hal 41-52. Diperoleh \r\ndari \r\nhttp:\/\/digilib.unnes.ac.id\/17516\/. \r\nDiakses 15 Maret 2017.\r\nBuck, and Gayle A. 2007. “Learning How \r\nMake inquiry into Science \r\nDiscernible to Middle Level \r\nTeachers”. Journal for Science \r\nTeacher Education.for the \r\nscholarship of teaching and \r\nlearning.Vol.5 No.1 Hal 1-11. \r\nDiperoleh dari \r\nwww.springer.com\/ Science \r\nEducation Diakses 15 November \r\n2016.\r\nDimyati dan Mudjiono.2009. Belajar dan \r\nPembelajaran. Jakarta: PT Rineka \r\nCipta.\r\nGulo.2008. Strategi Belajar dan \r\nPembelajaran. Jakarta: PT. \r\nGrasindo.\r\nMajid. 2008. Perencanaan Pembelajaran, \r\nMengembangkan Standar. \r\nKompetensi Guru. Jakarta: PT. \r\nRosda Karya.\r\nMudyahardjo, 2008Menjadi Guru \r\nProfesional. Bandung: Remaja\r\nRosdakarya.\r\nNasution, S. 2008. Berbagai Pendekatan \r\ndalam Proses Belajar dan \r\nmengajar. Jakarta: Bumi aksara.\r\nNRC. 2000 . Inquiry and The National \r\nScience Education Standarts.A \r\nGuide for Teaching ang Learning.\r\nWashington DC: National \r\nAcademic Press.\r\nPrastowo, Andi. 2011. Panduan Kreatif \r\nMembuat Bahan Ajar Inovasi: \r\nMenciptakan Metode \r\nPembelajaran yang Menarik dan \r\nMenyenangkan. Yogyakarta: Diva \r\nPress.\r\nRatna, Nyoman Kutha. 2013. Teori, \r\nMetode, dan Teknik \r\nPembelajaran Yogyakarta: \r\nPustaka Pelajar.\r\nSugiyono. 2014. Metode Penelitian \r\nPendidikan. Bandung: Alfabeta.\r\nSani Ridwan. 2014. Pembelajaran saintifik \r\nuntuk kurikulum 2013. Jakarta: \r\nBumi Aksara.",
+      "title": "Pengembangan Modul Pembelajaran IPA Berbasis Inkuiri \r\nTerbimbing pada Materi Gaya Magnet",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 9,
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2023-01-30 01:47:06",
+      "publisher": "Jurusan Ilmu Pendidikan, FKIP UNILA",
+      "number": 19,
+      "ispublished": "pub",
+      "lastmod": "2023-01-30 01:47:06",
+      "datestamp": "2023-01-30 01:47:06",
+      "date": "2017-09",
+      "type": "article",
+      "divisions": [
+        "FKIP19"
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd\/article\/view\/14201",
+      "eprint_status": "archive",
+      "abstract": "Module Development Based Learning IPA Guided Inquiry Material Magnet. This \r\nstudy aimed to produce a product in the formof inquiry-based IPA learning module on \r\nthe magnetic material that is interesting, easy to use, and effective. The type of research \r\nused was Research and Development (R&D). The population was a grade V students of \r\nSDN I Sidodadi. Sample was 40 people. Data collection techniques used observation \r\nand questionnaires. The results showed that the inquiry-based IPA learning module \r\nmaterial is proper to be used based on material test and design expert soit car be \r\ninteresting , easy to use, and effective as media learning based on normalized gain \r\ncalculation, equal to 0,67 with medium category",
+      "subjects": [
+        "LB",
+        "LB1501"
+      ],
+      "eprintid": 48138,
+      "date_type": "published"
+    },
+    {
+      "lastmod": "2023-01-30 01:46:01",
+      "userid": 868,
+      "datestamp": "2023-01-30 01:46:01",
+      "pagerange": "1-14",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187328",
+            "rev_number": 1,
+            "docid": 187328,
+            "main": "40-7330.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526064",
+                  "objectid": 187328,
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-29 00:21:58",
+                  "filename": "40-7330.pdf",
+                  "hash": "cf653eaabe00ec8083c605581ec45dab",
+                  "fileid": 526064,
+                  "mime_type": "application\/pdf",
+                  "filesize": 329985,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 48127,
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 48127,
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "cek similaritas turnitin",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187329",
+            "rev_number": 2,
+            "docid": 187329,
+            "main": "40-7330.pdf.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526066",
+                  "objectid": 187329,
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-29 00:22:08",
+                  "filename": "40-7330.pdf.pdf",
+                  "hash": "2d7d2e8d850ccccad473e3980350be86",
+                  "fileid": 526066,
+                  "mime_type": "application\/pdf",
+                  "filesize": 415715,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurusan Ilmu Pendidikan, FKIP UNILA",
+      "ispublished": "pub",
+      "number": 10,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48127",
+      "full_text_status": "public",
+      "type": "article",
+      "contact_email": "chandra.ertikanto@fkip.unila.ac.id",
+      "divisions": [
+        "FKIP19"
+      ],
+      "issn": "2807-1735",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "rohmaddi",
+            "honourific": null,
+            "family": "Rohmaddi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Chandra",
+            "honourific": null,
+            "family": "Ertikanto",
+            "lineage": null
+          },
+          "id": "chandrafkipunila@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suwarjo",
+            "given": "Suwarjo"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Pedagogi: jurnal pendidikan dasar",
+      "dir": "disk0_bak\/00\/04\/81\/27",
+      "date": "2017-04",
+      "eprint_status": "archive",
+      "status_changed": "2023-01-30 01:46:01",
+      "abstract": "Developing of Student Work Sheet (LKS) Inquiry Guiding Model Of \r\nIPA Subject In Material The Characteristic of Light Theme My Hero Grade IV\r\nElementary School. The purpose of this research is (1) analyze the potential for \r\ndeveloping student work sheet; (2) describe the attractiveness, easiness, and \r\nexpediency of developing student work sheet. The research used research and \r\ndevelopment approach with step including research and collect information, \r\nplanning, preliminary product development, preliminary trial, revise first product, \r\nfirst trial, and revise operational product. The collected data uses test and \r\nquestionnaire. The research data was analyzed as descriptive and T-Test. The \r\nresult of the research show that 1) the student work sheet is effective to be used as \r\nthe guide of IPA student work sheet in material the characteristic of light by \r\nseeing the improving the result of student learning, with gain average 0,58, 2) \r\nthe student work sheet is efficiency to be used by looking at the less time that was \r\nused in this learning than the time that was needed with the efficiency value 1,4, \r\nand 3) the student work sheet is interesting to be used by looking at the result of \r\ninteresting test the student work sheet with percentages average 81%.",
+      "subjects": [
+        "LB1501"
+      ],
+      "referencetext": "Agustiningsih. 2010. Pengambangan \r\nPerangkat Pembelajaran \r\nMulimetode IPA SD Kelas V \r\nPada Pokok Bahasan Sistem \r\nPernapasan Manusia. Jurnal \r\nPendidikan Sekolah Dasar. \r\nVolume 1. No.1 Hal 120-130.\r\nArtana I Made Ari, Dantes Nyoman, \r\nLasmawan I Wayan, 2015. \r\nPengaruh Model Pembelajaran \r\nInkuiri Terbimbing Terhadap Hasil Belajar IPA Ditinjau Dari \r\nMinat Belajar Siswa Kelas V \r\nSD Negeri di Gugus VI \r\nKecamatan Abang Kabupaten \r\nKarangasem Tahun Pelajaran \r\n2014\/2015”. e- Journal \r\nProgram Pascasarjana \r\nUniversitas Pendidikan \r\nGanesha Program Studi \r\nPendidikan Dasar. Volume 5. \r\nNo 1. Hal 1-12.\r\nBorg, W dan Gall, M. 1983. \r\nEducational Research: An \r\nIntroduction (4th ed.). New \r\nYork & London: Longman. \r\nBSNP. 2007. Standar Kompetensi dan \r\nKompetensi Dasar Kelas III. \r\nDepdiknas. Jakarta.\r\nDepdiknas Ditjen Manajemen \r\nDikdasmen Ditjen Pembinaan \r\nTK dan SD, 2007: 13-14 \r\nKurikulum Mata pelajaran IPA \r\nSD\/MI (online). \r\nhttp:\/\/IPA.blogspot.com. \r\nDiakses tanggal 14 Maret 2016 \r\njam 20.15.\r\nDewi, Narni L., N. Dantes., & I. W. \r\nSadia. 2013. Pengaruh Model \r\nPem-belajaran Inkuiri \r\nTerbimbing Terhadap Sikap \r\nIlmiah Dan Hasil Belajar IPA. \r\nJurnale-Journal Program \r\nPasca-sarjana Universitas \r\nPendidikan Ganesha. Vol 3, No \r\n1. Hal 1-10. \r\nLee, C.D. 2014. Worksheet Usage, \r\nReading Achievement, Cllasses’ \r\nLack Of Readinnes, And Science \r\nAchievement: A Cross-Country \r\nComparison. International \r\nJournal of Education in \r\nMathematics, Science and \r\nTecnology. Volume 2. No.2 Hal \r\n97-105.\r\nMajid Abdul. 2008. Perencanaan \r\nPembelajaran. PT Remaja \r\nRosdakarya. Bandung.\r\nMaria, Budi Koestoro, Sugeng \r\nSutiarso. 2016. Pengembangan \r\nLembar Kerja Siswa \r\nMatematika Berbasis Belajar \r\nMandiri Kelas V di SD Negeri \r\nKecamatan Adiluwih \r\nKabupaten Pringsewu. \r\nhttp:\/\/www.e�jurnal.com\/2016\/05\/pengemban\r\ngan-lembar-kerja-siswa.html. \r\ndiakses 3 Juni 2017)\r\nMariamah & Nanang Diana. 2015. \r\nPengembangan Buku Ajar Mata \r\nKuliah Teori Bilangan Pada \r\nMahasiswa Semester III Jurusan \r\nPendidikan Matematika STKIP \r\nTaman Siswa Bimatahun \r\nAkademik 2014\/2015. Jurnal \r\nPendidikan MIPA, Vol. 5. No. \r\n2. Hal 1-12.\r\nNgalimun. 2012. Strategi dan Model \r\nPembelajaran. Aswaja \r\nPressindo. Banjarmasin.\r\nPermendiknas. 2006. No 22 Tentang \r\nStandar Isi. Kemendiknas. \r\nJakarta.\r\nRahayu P, S. Mulyani, S.S. Miswadi. \r\n2012. Pengembangan \r\nPembelajaran IPA Terpadu \r\nDengan Menggunakan Model \r\nPembelajaran Problem Base \r\nMelalui Lesson Study. Jurnal \r\nPendidikan IPA Indonesia.\r\nVolume 1. No. 1. Hal 64-65.\r\nRozie Fachrur. 2013. Pengembangan \r\nMedia Video Pembelajaran \r\nDaur Air untuk Meningkatkan \r\nProses dan Hasil Belajar IPA \r\nSiswa SD. Jurnal Pendidikan \r\nSains, Vol 1, No. 4. Hal 413-\r\n424.\r\nSabmei Sukamsyah, 2011. Upaya \r\nPeningkatan Hasil Belajar \r\nDengan Penerapan Metode \r\nInkuiri Terbimbing Tipe A Pada \r\nKonsep Kalor Siswa Kelas VII \r\nSMP N 5 Seluma. Jurnal Exacta, Volume 9. No. 1. Hal \r\n39.\r\nSanjaya Wina. 2010. Strategi \r\nPembelajaran Berorientasi \r\nStandar Proses Pendidikan. \r\nKencana Prenada Grup. Jakarta.\r\nSuhariyanto, Caswita, Lilik \r\nSabdaningtyas. 2013. \r\nPengembangan Bahan Ajar \r\nLembar Kerja Siswa \r\nMatematika Kelas VII SMPN 4 \r\nTulang Bawang Tengah. \r\nTrianto. 2012. Model Pembelajaran \r\nterpadu. Bumi Aksara. Jakarta.\r\nTöman, Ufuk.,dkk. 2013. Extended \r\nWorksheet Developed \r\nAccording to 5E Model Based \r\non Constructivist Learning \r\nAproach. International Journal \r\non New Trends in Education \r\nand Their Implication. Volume \r\n4. No. 4. Hal 173-183.\r\nTursinawati. 2013. Analisis \r\nKemunculan Sikap Ilmiah \r\nSiswa Dalam Pelaksanaan \r\nPercobaan Pada Pembelajaran \r\nIPA di SDN Kota Banda Aceh.\r\nJurnal Pionir, Volume 1, No. 1. \r\nHal 67-68.\r\nWahyuningsih Fitri, Sulistyo Saputro, \r\ndan Sri Mulyani. 2014. Model \r\nPengembangan LKS Berbasis \r\nInkuiri Terbimbing Pada Materi \r\nPokok Hidrolis Garam Untuk \r\nSMA\/MA. Jurnal Paedagogia. \r\nVolume 17 No.1 Hal 94-103.\r\nYildirim, N., Kurt, S. & Ayas, A. \r\n2011. The Effect of The \r\nWorksheet on Student’s \r\nAchievement in Chemical \r\nEquilibrium. Journal of Turkish \r\nScience Education. Vol. 8 No. 3 \r\nHal 44-58.\r\nZawadzki,R. 2010. Asian Journal On \r\nEducation and Learning. \r\nIs Process Oriented Guided \r\nInquiry Learning (POGIL) \r\nSuitble As A Teaching Method \r\nin Thailand’s Higher \r\nEducation? No.1(2) 66 -74",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd\/article\/view\/13079",
+      "title": "Pengembangan Lembar Kerja Siswa (LKS) Model Inkuiri \r\nTerbimbing Pelajaran IPA Materi Sifat-Sifat Cahaya Tema Pahlawanku Kelas IV SD",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 5,
+      "eprintid": 48127,
+      "date_type": "published"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FKIP19"
+      ],
+      "publication": "jurnal pedagogi",
+      "creators": [
+        {
+          "name": {
+            "given": "Malinda Eli",
+            "honourific": null,
+            "family": "Sabet",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Lilik",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sabdaningtyas"
+          }
+        },
+        {
+          "name": {
+            "given": "Cut",
+            "lineage": null,
+            "family": "Rohani",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2017,
+      "dir": "disk0\/00\/00\/45\/78",
+      "lastmod": "2017-11-16 03:14:43",
+      "userid": 511,
+      "datestamp": "2017-11-16 03:14:43",
+      "number": 6,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17482",
+            "rev_number": 4,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/45049",
+                  "objectid": 17482,
+                  "filesize": 19062,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-03 16:46:04",
+                  "filename": 12825,
+                  "hash": "3ed22655ac5c2d6db708952409e42a5e",
+                  "fileid": 45049,
+                  "mime_type": "application\/xml"
+                }
+            ],
+            "main": 12825,
+            "docid": 17482,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/xml",
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 4578
+          }
+      ],
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4578",
+      "refereed": "TRUE",
+      "eprintid": 4578,
+      "status_changed": "2017-11-16 03:14:43",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The problems in this study is the low scores on Social Science subject students of Elementary School 1 Rajabasa Raya. This study aims to determine the correlation between school environments towards Social Science subject learning outcome. The method used in this research was quantitative research with correlational research as its research type. The sample of the study consisted of 50 students. Proportional random sampling was used as the sampling technique. The data collection techniques were done through observation, questionnaires, and documentation. The data analysis was carried out using serial correlation formula. The results obtained that r-calculation = 0.831 with the percentage of determination coefficient = 69.05%. The rests were determined by other factors. The result of r-calculation was equal to 0,831, it was bigger than r-table which was equal to 0,2353, in which there is a correlation between the school environment towards learning outcome on Social Science subject.\r\n\r\n \r\n\r\nMasalah dalam penelitian ini  masih rendahnya hasil belajar IPS siswa SD Negeri 1 Rajabasa Raya.Tujuan penelitian mengetahui hubungan antara lingkungan belajar di sekolah dengan hasil belajar IPS siswa. Metode yang digunakan kuantitatif, jenis penelitiannya penelitian korelasional. Populasi berjumlah 99 siswa dengan sampel berjumlah 50 siswa. Teknik pengambilan sampel proportional random sampling. Teknik pengumpulan data observasi, angket,dokumentasi. Teknik Analisis data menggunakan rumus korelasi serial. Hasil Analisis diperoleh r hitung = 0,831dengan Presentase Koefisien Determinasi menunjukkan hasil 69,05%. Adapun sisanya ditentukan oleh faktor lain. Hasil r hitung sebesar 0,831 lebih besar dari r tabel yaitu 0,2353, sehingga terdapat hubungan antara lingkungan Belajar di sekolah dengan hasil belajar ips siswa.\r\n\r\nKata Kunci: hasil belajar, IPS, lingkungan belajar di sekolah.",
+      "title": "HUBUNGAN LINGKUNGAN BELAJAR DI SEKOLAH DENGAN HASIL BELAJAR IPS SISWA KELAS IV",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd",
+      "rev_number": 11,
+      "volume": 5,
+      "metadata_visibility": "show"
+    },
+    {
+      "divisions": [
+        "FKIP19"
+      ],
+      "type": "article",
+      "date": "2017-08-22",
+      "datestamp": "2023-01-30 01:47:08",
+      "lastmod": "2023-01-30 01:47:08",
+      "number": 15,
+      "ispublished": "pub",
+      "publisher": "Jurusan Ilmu Pendidikan, FKIP UNILA",
+      "date_type": "published",
+      "eprintid": 48139,
+      "subjects": [
+        "LB",
+        "LB1501"
+      ],
+      "abstract": "The Development Of Science Learning Material Based On Discovery At Light \r\nStudy. The aim of this research were to produce an interesting and a beneficial learning \r\nmaterial based on discovery for the fourth grade of elementary school and also to know\r\neffectively can to increase their science learning’s outcome. The method that used in this study \r\nwas Reasearch and Development (R&D) method. The instruments that used in collecting data \r\nwere a questionnaire and multiple choice test. Data were taken from the population and sample \r\nin Central Metro 4th Elementary School, 5th Elementary School, and 6th Elementary School with \r\nthe total number of students as much as 96 students. The data were analyzed by using a Gain�Test. The result of this research showed that the developed learning material was valid, \r\ninteresting, and beneficial to the fourth grade of elementary school students and the developed \r\nlearning material based discovery effectively can to increase their science learning’s outcome.",
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd\/article\/view\/13873",
+      "contact_email": "chandra.ertikanto@fkip.unila.ac.id",
+      "dir": "disk0_bak\/00\/04\/81\/39",
+      "publication": "Pedagogi: jurnal pendidikan dasar",
+      "issn": "2807-1735",
+      "creators": [
+        {
+          "name": {
+            "given": "Metri Setyaning Komala",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sari"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Chandra",
+            "honourific": null,
+            "family": "Ertikanto",
+            "lineage": null
+          },
+          "id": "chandrafkipunila@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Suwarjo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suwarjo"
+          }
+        }
+      ],
+      "pagerange": "1-13",
+      "userid": 868,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48139",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "eprintid": 48139,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "34-7326.pdf",
+            "docid": 187351,
+            "files": [
+                {
+                  "fileid": 526181,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-01-29 04:55:44",
+                  "hash_type": "MD5",
+                  "filename": "34-7326.pdf",
+                  "hash": "51a62c46a30144e0466bac85b4eda22a",
+                  "datasetid": "document",
+                  "filesize": 281398,
+                  "objectid": 187351,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526181"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187351",
+            "rev_number": 1
+          },
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 48139,
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "cek similaritas turnitin",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187352",
+            "main": "34-7326.pdf.pdf",
+            "docid": 187352,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526183",
+                  "objectid": 187352,
+                  "filesize": 376954,
+                  "datasetid": "document",
+                  "hash": "9901183dde73f52da6cd6ff5d2e116d1",
+                  "filename": "34-7326.pdf.pdf",
+                  "mtime": "2023-01-29 04:55:52",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 526183
+                }
+            ]
+          }
+      ],
+      "status_changed": "2023-01-30 01:47:08",
+      "related_url": [
+        {
+          "url": "https:\/\/garuda.kemdikbud.go.id\/documents\/detail\/579404",
+          "type": "pub"
+        }
+      ],
+      "volume": 5,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "Pengembangan Bahan Ajar Berbasis Discovery Pada Pembelajaran IPA Materi Cahaya",
+      "referencetext": "Arikunto, Suharsimi. 2013. Prosedur \r\nPenelitian: Suatu Pendekatan \r\nPraktik. Jakarta: PT. Rineka \r\nCipta. \r\nBalım, Ali Günay. 2009. The Effects of \r\nDiscovery Learning on \r\nStudents’ Success and Inquiry \r\nLearning Skills. Eurasian \r\nJournal of Educational \r\nResearch. Issue 35 Hal. 1-20.\r\nBorg, R Walter & Gall, D Meredith. \r\n1983. Educational Research An \r\nIntroduction. Fourth Edition. \r\nNew York: Longman.\r\nDick Walter, Carey Lou., and Carey, \r\nJ.O. 2009. The Systematic \r\nDesign of Instruction. \r\nUpper Saddler River, New \r\nJersey : Pearson Education, Inc.\r\nErtikanto, Chandra, Herpratiwi, Tina \r\nYunarti & Andrian Saputra. \r\n2017. Development Of \r\nEvaluation Of a Model�Supported Sciencetific Inquiry \r\nTraining Program For \r\nElementary Teacher In \r\nIndonesian. International Jounal \r\nOf Instruction. Vol. 10 No. 3. \r\nHal. 93-108.\r\nErtikanto, Chandra, Viyanti & Ismu \r\nWahyudi. 2014. Potret \r\nKemampuan Mengajar Sains \r\nSecara Inkuiri di Sekolah Dasar. \r\nSNPS. Tersedia dalam: \r\njurnal.fkip.uns.ac.id\/index.php\/s\r\nnps\/article\/view\/5050106-116 \r\nakses 28 Juli 2017 @ 22.11 \r\nWIB.\r\n. 2015. Improvement Of Teacher \r\nInquiry Capacity Through \r\nTeacher Training Program \r\nBased On Inquiry and Science \r\nTeaching. Indonesian Journal \r\nOf Science Education. Vol. 4 \r\nNo. 2. Hal. 142-148.\r\n.. 2015. Keefektifan \r\nPengetahuan Inkuiri Guru \r\nSekolah Dasar Kota Bandar \r\nLampung dalam Pembelajaran \r\nSains. Seminar Nasional \r\nPendidikan Sains V. Vol. 1 No. \r\n2. Hal. 106-116\r\nIllahi, Mohammad Takdir. 2012. \r\nPembelajaran Discovery \r\nStrategy & Mental \r\nVocational Skill. Jogjakarta: \r\nDIVA Press.\r\nJoy, Anyafulude. 2014. Impact of \r\nDiscovery-Based Learning \r\nMethod on Senior Secondary \r\nSchool Physics. IOSR Journal of \r\nResearch & Method in \r\nEducation. Vol. 4, Issue. 3 Ver. \r\nV Hal. 32-36.\r\nKamel, A & Mahmoud, A. 2014. The \r\nEffect of Using Discovery \r\nLearning Strategy in Teaching \r\nGrammatical Rules to First Year \r\nGeneral Secondary Student on \r\nDeveloping Their Achievement \r\nand Metacognitive Skills. \r\nInternational Journal of \r\nInnovation and Scientific \r\nResearch. Volume 5. No. 2. Hal. \r\n146-153.\r\nPermendikbud. 2013. Permendikbud \r\nNo. 54 tentang Standar \r\nKompetensi Lulusan Pendidikan \r\nDasar dan Mengengah. Jakarta: \r\nKementerian Pendidikan dan \r\nKebudayaan. \r\nPrastowo, Andi. 2014. Pengembangan \r\nBahan Ajar Tematik: Tinjauan \r\nTeoretis dan Praktis.\r\nJogjakarta: Kencana. \r\nSuharsaputra, Uhar. 2012. Metode \r\nPenelitian Kuantitatif Kualitatif \r\ndan Tindakan. Bandung: Radika \r\nAditama. \r\nTran, T. 2014. Discovery Learning \r\nWith The Help of The Geogebra \r\nDynamic Geometry Sofware.\r\nInternational Journal Of \r\nLearning Teaching And \r\nEducational Research. Volume \r\n7. No.1. Hal. 44-57.\r\nWidoyoko, Ekoputro . 2015. Teknik \r\nPenyususnan Instrumen \r\nPenelitian. Yogyakarta: Pustaka \r\nPelajar. \r\nWinataputra, Udin. 2008. Teori Belajar \r\ndan Pembelajaran. Jakarta: \r\nUniversitas Terbuka"
+    },
+    {
+      "divisions": [
+        "FKIP19"
+      ],
+      "type": "article",
+      "contact_email": "chandra.ertikanto@fkip.unila.ac.id",
+      "date": "2017-03",
+      "dir": "disk0_bak\/00\/04\/81\/26",
+      "issn": "2807-1735",
+      "creators": [
+        {
+          "name": {
+            "given": "kikin",
+            "family": "nurfitri",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Chandra",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ertikanto"
+          },
+          "id": "chandra.ertikanto@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "rochmiyati",
+            "honourific": null,
+            "lineage": null,
+            "given": "rochmiyati"
+          },
+          "id": "rochmiyatiazwardi@yahoo.co.id"
+        }
+      ],
+      "publication": "Pedagogi: jurnal pendidikan dasar",
+      "datestamp": "2023-01-30 01:45:57",
+      "pagerange": "1-13",
+      "userid": 868,
+      "lastmod": "2023-01-30 01:45:57",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48126",
+      "publisher": "Jurusan Ilmu Pendidikan, FKIP UNILA",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 48126,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187326",
+            "rev_number": 1,
+            "docid": 187326,
+            "main": "39-7323.pdf",
+            "files": [
+                {
+                  "filesize": 444441,
+                  "datasetid": "document",
+                  "hash": "201723e081cb726002d6f8eb6612edd5",
+                  "filename": "39-7323.pdf",
+                  "mtime": "2023-01-29 00:07:38",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 526055,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526055",
+                  "objectid": 187326
+                }
+            ]
+          },
+          {
+            "pos": 2,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187327",
+            "formatdesc": "cek similaritas turnitin",
+            "main": "39-7323.pdf.pdf",
+            "docid": 187327,
+            "files": [
+                {
+                  "filesize": 550543,
+                  "datasetid": "document",
+                  "mtime": "2023-01-29 00:07:53",
+                  "hash_type": "MD5",
+                  "filename": "39-7323.pdf.pdf",
+                  "hash": "bffcd1a69d6c4bae74c96851a0c7637f",
+                  "fileid": 526057,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526057",
+                  "objectid": 187327
+                }
+            ],
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "eprintid": 48126,
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "number": 15,
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 48126,
+      "abstract": "The Development of Teaching Materials with Sub Theme of My Meal is Healthy And \r\nNutritious Based on PBL For Grade IV Students In Elementary School. The objective of this \r\nresearch and development was to develop valid, practical, and effective teaching materials. \r\nThe test was conducted to 30 students from total population of 58 of grade IV elementary \r\nschool students. This research used observation, test, and questionnaire technique to collect \r\ndata. Data were analyzed with quantitative and qualitative analyses. The research results \r\nshowed that the teaching material with sub theme of ‘my meal is healthy and nutritious’ \r\nteaching material based on problem based learning was valid, practical, and effective to use.",
+      "subjects": [
+        "LB1501"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-01-30 01:45:57",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 8,
+      "referencetext": "Abidin, Yunus. 2014. Desain Sistem \r\nPembelajaran dalam Konteks \r\nKurikulum 2013. Bandung: PT Refika \r\naditama\r\nAhlam, EL-Shaer and Hala Gaber 2014 “Impact \r\nof Problem-Based Learning on \r\nStudents Critical Thinking \r\nDispositions, Knowledge Acquisition \r\nand Retention”. Journal of Education \r\nand Practice\r\nBarniol, Pablo 2016. A Tutorial Worksheet to \r\nHelp Students Develop the Ability to \r\nInterpret the Dot Product as a \r\nProjection.Eurasia Journal of \r\nMathematics, Science & Technology \r\nEducation, vol.12, No. 9, Hal. 2387-\r\n2398.\r\nCemal. 2013. The Effect of Problem Based \r\nLearning on Metacognitive Awareness \r\nand Attitudes toward Chemistry of \r\nProspective Teacher with Different \r\nAcademic Backgrounds. Australian \r\nJournal of Teacher Education. Vol. 2 \r\nNo. 3 Hal. 34-46\r\nhttp:\/\/ \r\nro.ecu.edu.au\/cgi\/viewcontent.cgi?artic\r\nle=1969&context=ajte\r\nDiakses tanaggal 15 Desember 2016\r\nChiang, C. L and Lee H. 2016. The Effect of \r\nProject-Based Learning on Learning \r\nMotivation and Problem-Solving \r\nAbility of Vocational High School \r\nStudents. International Journal of \r\nInformation and Education \r\nTechnology, Vol. 6, No. 9, Hal 709-712 \r\nhttp:\/\/www.ijiet.org\/vol6\/779-\r\nEP00028.pdf\r\nDiakses tanggal 10 Desember 2016\r\nChuen Yeh, Ron. 2011. The effect of problem�based learning on enhancing students, \r\nworkforce competence. World \r\nTransactions on Engineering and \r\nTechnology Education. Vol.9, No.4 Hal \r\n239-245\r\nhttp:\/\/www.wiete.com.au\/journals\/WTE\r\n&TE\/Pages\/Vol.9,%20No.4%20(2011)\/0\r\n6-09-Yeh-R-C.pdf\r\nDiakses tanggal 23 Januari 2017\r\nErtikanto, C. Viyanti, dan Ismu. W. (2014). \r\nPotret kemampuan guru mengajar sains \r\nsecara inkuiri di sekolah dasar kota Bandar \r\nLampung. Prosiding seminar nasional \r\npendidikan sains Fkip Uns, vol 1, no 1.\r\nErtikanto, Chandra, Viyanti, & Wahyudi, Ismu. \r\n2015. Keefektifan Pengetahuan Inkuiri \r\nGuru Sekolah Dasar Kota Bandar \r\nLampung Dalam Pembelajaran Sains. \r\nSeminar Nasional Pendidikan Sains V, \r\nFakultas Keguruan Dan Ilmu Pendidikan \r\nUniversitas Lampung. Lampung:Prosiding\r\nISBN: 978-979-8510-32-8\r\nErtikanto, C., Herpratiwi, Tina Yunarti, & \r\nSaputra, Andrian. 2017. Development And \r\nEvaluation Of A Model-Supported \r\nScientific Inquiry Training Program For \r\nElementary Teachers In Indonesia. \r\nInternational Journal Of Instruction July \r\n2017 Vol.10, No.3 Pp. 93-108\r\nErtikanto, C., Wahyudi, I,. & Viyanti. 2015. \r\nInmprovement Of Teacher Inquiry \r\nCapacity Through Teacher Training \r\nProgram Based On Inquiry And Science \r\nTeaching. Jurnal Pendidikan IPA \r\nIndonesia Indonesian Journal Of Science \r\nEducation. Vol. 4 No. 2 Hal 142-148\r\nFatade, Alfred Olufemi. 2013. Effect of Problem�Based Learning on Senior Secondary \r\nSchool Students‟ Achievements in \r\nFurther Mathematics. Acta Didactica \r\nNapocensia. Vol. 6, No. 3, Hal. 163-176.\r\nhttp:\/\/padi.psiedu.ubbcluj.ro\/adn\/article_\r\n6_3_4.pdf\r\nDiakses tanggal 29 Desember 2016\r\nJohn, J Yvonne. 2015. A “New” Thematic, \r\nIntegrated Curriculum for Primary \r\nSchools of Trinidad and Tobago: A \r\nParadigm Shift International Journal \r\nof Higher Education Vol. 4, No. 1; Hal \r\n1-15, \r\nhttp:\/\/files.eric.ed.gov\/fulltext\/EJ108873\r\n0.pdf\r\nDiakses tanggal 30 Januari 2017\r\nMeltzer, D. E. . 2002. The Relationship Between \r\nMathematics Preparation and Conceptual \r\nLearning Gains in Phisycn: A possible \r\n“hidden variabel” in diagnostic pretes \r\nscores”. American Journal of Physics. \r\nVol 7 No 1 Hal 1-11. \r\nhttp:\/\/www.physicseducation.net\/docs\/A\r\nJP-Dec-2002-Vol.70-1259-\r\n1268.pdfDiakses tanggal 18 Desember \r\n2016\r\nMurray, acqueline dan Summerlee, Alastair. \r\n2007. The Impact of Problem-Based \r\nLearning in an Interdisciplinary First�Year Program on Student Learning \r\nBehaviour. Canadian Journal of \r\nHigher Education Revue canadienne \r\nd’enseignement supérieur Vol 37, No. \r\n3, 2007, Hal 87-107.\r\nhttp:\/\/files.eric.ed.gov\/fulltext\/EJ79970\r\n7.pdf\r\ndiakses tanggal 23 November 2016\r\nOzmen, Haluk dan Yildirim, Nagihan. \r\n2005.Effect Of Work Sheets On \r\nStudent‟s Success: Acids And Bases \r\nSample. Journal Of Turkish Science \r\nEducation, Vol. 2, No. 1, Hal. 1-14\r\nhttp:\/\/www.tused.org\/internet\/tused\/tus\r\nedv2i2s4.pdf\r\nDiakses tanggal 10 November 2016\r\nPrastowo, A. 2014. Pengembangan Bahan \r\nAjar Tematik. Jakarta: Kencana \r\nPredanamedia Group.\r\nRusman. 2010. Model-model pembelajaran.\r\nJakarta: PT Raja Grafindo\r\n . 2012 . Model\r\n-model Pembelajaran: \r\nMengembangkan Profesionalisme \r\nGuru Edisi 2. PT Raja Grafindo \r\nPersada: Jakarta\r\nSavery, J. R. 2006. Overview of Problem\r\n-\r\nbased Learning: Definitions and \r\nDistinctions. Interdisciplinary \r\nJournal of Problem\r\n-Based \r\nLearning. Vol. 1. No. 1. Hal 1\r\n-13. \r\n(online).\r\nhttp:\/\/docs.lib.purdue.edu\/cgi\/viewc\r\nontent.cgi?article=1002&context=ij\r\npbl\r\nDiakses tanggal 15 November 2016\r\nSugiyono. 2009. Metode Penelitian Kualitatif \r\ndan Kuantitatif dilengkapi dengan \r\nMetode R & D\r\n. Bandung: Alfabeta\r\nSugiyono. 2008.Metode Penelitian Bisnis. \r\nAlfabeta\r\nSujadi.2002.Metodologi Penelitian Kualitatif \r\nKuantitatif. Bandung: UPI Press\r\nSusanto, Ahma\r\nd. 2013. Teori Belajar dan \r\nPembelajaran di Sekolah Dasar. \r\nJakarta: Kencan Prenada",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/pgsd\/article\/view\/13786",
+      "title": "Pengembangan Bahan Ajar Makananku Sehat dan Bergizi Berbasis PBL pada Siswa Kelas IV SD"
+    }
+]
+

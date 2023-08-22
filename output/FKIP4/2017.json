@@ -1,0 +1,862 @@
+[
+    {
+      "divisions": [
+        "FKIP4"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/02\/86\/75",
+      "date": "2017-11-13",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Susana",
+            "lineage": null,
+            "honourific": null,
+            "family": "Afria"
+          }
+        },
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sunyono",
+            "honourific": null,
+            "given": "Sunyono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Tri Jamo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Tri Jalmo"
+          }
+        }
+      ],
+      "datestamp": "2021-03-29 09:03:34",
+      "lastmod": "2021-03-29 09:03:34",
+      "userid": 1028,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28675",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "University of Medan",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28675,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 42731,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254403",
+                  "fileid": 254403,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-29 07:23:34",
+                  "hash": "71b75e45ad73589323ed0781ba58b2de",
+                  "filename": "The Application of Discovery Learning Using Interactive Multimedia to Enhance Students Metacognition on the Content Area of Biological Inheritance.pdf",
+                  "datasetid": "document",
+                  "filesize": 2737495
+                }
+            ],
+            "main": "The Application of Discovery Learning Using Interactive Multimedia to Enhance Students Metacognition on the Content Area of Biological Inheritance.pdf",
+            "docid": 42731,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42731",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "eprintid": 28675,
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-03-29 09:03:34",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "the Application of Discovery Learning Using Interactive Multimedia to Enhance Students' Metacognition on the Content Area of Biological Inheritance."
+    },
+    {
+      "lastmod": "2023-04-25 11:24:04",
+      "userid": 986,
+      "datestamp": "2023-04-25 11:24:04",
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AFT"
+        }
+      ],
+      "publisher": "Faculty of Teacher Training and Education, University of Lampung",
+      "documents": [
+          {
+            "eprintid": 50730,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "LapAkhirPPT_2017_Neni Hasnunidah.pdf",
+            "docid": 190435,
+            "files": [
+                {
+                  "filesize": 3022338,
+                  "datasetid": "document",
+                  "filename": "LapAkhirPPT_2017_Neni Hasnunidah.pdf",
+                  "hash": "43b176e7358ab0868faa4c5aa9361e0e",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-24 11:21:29",
+                  "mime_type": "application\/pdf",
+                  "fileid": 546572,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546572",
+                  "objectid": 190435
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190435",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50730",
+      "type": "other",
+      "divisions": [
+        "FKIP4"
+      ],
+      "creators": [
+        {
+          "id": "nenihasnunidah@gmail.com",
+          "name": {
+            "given": "Neni",
+            "family": "Hasnunidah",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "undangros@yahoo.com",
+          "name": {
+            "family": "Rosidin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Undang"
+          }
+        },
+        {
+          "name": {
+            "family": "Kadaritna",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nina"
+          },
+          "id": "kadaritna@yahoo.com"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/30",
+      "date": 2017,
+      "status_changed": "2023-04-25 11:24:04",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "title": "Pengembangan Perangkat Pembelajaran Dengan Model Argument-Driven Inquiry dan Pengaruhnya Terhadap Keterampilan Argumentasi, Keterampilan Berpikir Kritis, dan Pemahaman Konsep IPA SMP Siswa Berkemampuan Akademik Berbeda di Kota Bandar Lampung. Laporan Penelitian Produk Terapan Tahun 2017.",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprintid": 50730
+    },
+    {
+      "pagerange": "1-12",
+      "datestamp": "2020-08-02 19:39:57",
+      "userid": 1028,
+      "lastmod": "2020-08-02 19:39:57",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23479",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37104",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 812782,
+                  "fileid": 214721,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-01 15:41:24",
+                  "filename": "Jurnal 2017_4_J.Fisika.pdf",
+                  "hash": "d5bff2ed6694610dcdd958c82d1b2988",
+                  "objectid": 37104,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214721"
+                }
+            ],
+            "docid": 37104,
+            "main": "Jurnal 2017_4_J.Fisika.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 23479
+          }
+      ],
+      "divisions": [
+        "FKIP4"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/34\/79",
+      "date": "2017-06",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jpf",
+      "publication": "Jurnal Pembelajaran Fisika",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Maryani",
+            "lineage": null,
+            "given": "Lili"
+          },
+          "id": null
+        },
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "given": "Sunyono",
+            "family": "Sunyono",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Abdurrahman",
+            "honourific": null,
+            "given": "Abdurrahman"
+          },
+          "id": "abdurrahman.1968@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "2302-0105",
+      "subjects": [
+        "LB",
+        "LB1603"
+      ],
+      "abstract": "Penelitian ini bertujuan mendeskripsikan keefektifan LKPD berbasis Project Based Learning untuk meningkatkan keterampilan proses sains siswa. Pemilihan sampel penelitian dilakukan secara random dari populasi siswa kelas VII SMPN 31 Bandar lampung tahun ajaran 2016-2017, sehingga diperoleh kelas VII B dan VII I sebagai sampel. Metode penelitian yang digunakan adalah kuasi eksperimen dengan desain preposttest. Analisis data meliputi hasil pretes, postes dan n-Gain untuk mengetahui peningkatan keterampilan proses sains siswa secara deskriptif. Keterlaksanaan pembelajaran dan aktivitas siswa pada kelas eksperimen 1 dan 2 diobservasi oleh dua guru sains. Hasil penelitian diperoleh rata-rata n-gain masing-masing kelas eksperimen 0,70 dengan kriteria tinggi. Berdasarkan rata-rata n-Gain disimpulkan bahwa LKPD berbasis Project Based Learning sangat efektif untuk meningkatkan keterampilan proses sains siswa.",
+      "status_changed": "2020-08-02 19:39:57",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPF\/article\/view\/12964"
+        }
+      ],
+      "rev_number": 7,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "title": "Efektivitas LKPD Berbasis Project Based Learning untuk\r\nMeningkatkan Keterampilan Proses Sains Siswa",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPF",
+      "eprintid": 23479
+    },
+    {
+      "lastmod": "2018-06-28 02:03:57",
+      "userid": 812,
+      "datestamp": "2018-06-28 02:03:57",
+      "pagerange": "217-225",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 7921,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20949",
+            "rev_number": 1,
+            "main": "26 Mutmainah, Sunyono, Tri Jalmo.pdf",
+            "docid": 20949,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 70663,
+                  "hash": "920350f426c854dedb29d86f87ce0cf7",
+                  "filename": "26 Mutmainah, Sunyono, Tri Jalmo.pdf",
+                  "mtime": "2018-06-26 08:56:30",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 269050,
+                  "objectid": 20949,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/70663"
+                }
+            ]
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7921",
+      "full_text_status": "public",
+      "type": "conference_item",
+      "divisions": [
+        "FKIP4"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Mutmainah",
+            "lineage": null,
+            "family": "Mutmainah",
+            "honourific": null
+          },
+          "id": "mutmainah59@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Sunyono",
+            "family": "Sunyono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "jalmotri@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Jalmo",
+            "given": "Tri"
+          }
+        }
+      ],
+      "date": "2017-11-14",
+      "dir": "disk0\/00\/00\/79\/21",
+      "status_changed": "2018-06-28 02:03:57",
+      "eprint_status": "archive",
+      "abstract": "This study aims to determine the effectiveness of the use of interactive media on SiMaYang learning model in improving the skill of the science process. The research method used is quasi experiment with pre test-post test design. The sample selection is conducted randomly from the population of the students of grade VIII SMP I Sukoharjo Pringsewu in the academic year 2016-1017, so that the class VIIIA is obtained as experimental class and VIIIB as the control class.  Quantitative data are pretest, post test, and n-Gain results. Qualitative data is in the form of observation result of learning implementation.  The results show that the use of interactive media of SiMaYang model is effective to improve students science skill.  This shown by the high n-Gain in the experimental class that is 0,71.  The implementation of learning is also very high.",
+      "subjects": [
+        "L1",
+        "LB1603"
+      ],
+      "title": "The Effectiveness of Interactive Media Simayang Model to Increase The Skill of Science Process",
+      "event_dates": "14-15 November 2018",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 8,
+      "eprintid": 7921,
+      "event_title": "The 4th Annual International Seminar on Trencs in Science and Science Education",
+      "date_type": "published",
+      "event_location": "Grand Mercure Hotel - Medan. Indonesia"
+    },
+    {
+      "eprintid": 28915,
+      "date_type": "published",
+      "title": "The Effectiveness of Interactive Media Simayang Model to Increase the Skill of Science Process.",
+      "place_of_pub": "Medan",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "status_changed": "2021-04-06 07:10:46",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB2300"
+      ],
+      "creators": [
+        {
+          "id": "mutmainah59@yahoo.co.id",
+          "name": {
+            "given": "Mutmainah",
+            "lineage": null,
+            "family": "Mutmainah",
+            "honourific": null
+          }
+        },
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sunyono",
+            "honourific": null,
+            "given": "Sunyono"
+          }
+        },
+        {
+          "id": "jalmotri@yahoo.com",
+          "name": {
+            "given": "Tri",
+            "lineage": null,
+            "honourific": null,
+            "family": "Jalmo"
+          }
+        }
+      ],
+      "date": "2017-11-13",
+      "dir": "disk0\/00\/02\/89\/15",
+      "type": "other",
+      "divisions": [
+        "FKIP4"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28915,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43010",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 2294047,
+                  "fileid": 256554,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-04-06 06:16:09",
+                  "hash_type": "MD5",
+                  "filename": "THE_EFFECTIVENESS_OF_INTERACTIVE_MEDIA_SIMAYANG_MO.pdf",
+                  "hash": "40d53a777c5323f566a25dd94bab6948",
+                  "objectid": 43010,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/256554"
+                }
+            ],
+            "docid": 43010,
+            "main": "THE_EFFECTIVENESS_OF_INTERACTIVE_MEDIA_SIMAYANG_MO.pdf"
+          }
+      ],
+      "publisher": "Universitas Negeri Medan",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28915",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Prodi S2 Keguruan IPA",
+        "Prodi S2 Keguruan IPA",
+        "Prodi S2 Keguruan IPA"
+      ],
+      "lastmod": "2021-04-06 07:10:46",
+      "userid": 1028,
+      "datestamp": "2021-04-06 07:10:46"
+    },
+    {
+      "abstract": "Penelitian ini bertujuan untuk mengetahui efektifitas iklim kelas Berbasis kooperatif untuk meningkatkan model mental dan penguasaan konsep. Metode yang digunakan dalam penelitian ini adalah kuasi eksperimen dengan desain pree-post test dilaksanakan pada Tahun Ajaran 2016-2017 di SMPN 31 Bandar Lampung. Pengumpulan data menggunakan tehnik observasi untuk kemampuan guru dalam pembelajaran dan aktifitas siswa, angket untuk respon siswa. Data model mental dan penguasaan konsep diperoleh dengan test. Hasil penelitian menunjukan bahwa iklim kelas yang digunakan memiliki: Keefektifitasan yang tinggi dari kemampuan guru dalam pengelolaan pembelajaran, aktifitas siswa dan respon siswa, model mental siswa yang dapat ditingkatkan kearah model mental “baik” dan “baik sekali”, penguasaan konsep siswa meningkat dengan n-Gain berkatagori “sedang”.",
+      "subjects": [
+        "LB",
+        "LB1603"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPF\/article\/view\/12967"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2020-08-02 19:40:02",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 5,
+      "title": "Efektivitas Iklim Kelas Berbasis Koopertif untuk Meningkatkan\r\nModel Mental dan Penguasaan Konsep",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPF",
+      "eprintid": 23480,
+      "pagerange": "1-13",
+      "datestamp": "2020-08-02 19:40:02",
+      "lastmod": "2020-08-02 19:40:02",
+      "userid": 1028,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23480",
+      "documents": [
+          {
+            "eprintid": 23480,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Jurnal 2017_5_J.Fisika.pdf",
+            "docid": 37105,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 470770,
+                  "fileid": 214728,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-08-01 15:55:39",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal 2017_5_J.Fisika.pdf",
+                  "hash": "f303137f7496efd258d779babb14b6bd",
+                  "objectid": 37105,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214728"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37105"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "number": 3,
+      "divisions": [
+        "FKIP4"
+      ],
+      "type": "article",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jpf",
+      "dir": "disk0\/00\/02\/34\/80",
+      "date": "2017-06",
+      "creators": [
+        {
+          "name": {
+            "given": "Nurhayati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Nurhayati"
+          },
+          "id": "nurhayati28091998@gmail.com"
+        },
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sunyono",
+            "given": "Sunyono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Jalmo",
+            "honourific": null,
+            "given": "Tri"
+          },
+          "id": "jalmotri@yahoo.com"
+        }
+      ],
+      "issn": "2302-0105",
+      "publication": "Jurnal Pembelajaran Fisika"
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FKIP4"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Sunyono",
+            "family": "Sunyono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sunyono.1965@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Tasviri Efkar",
+            "honourific": null,
+            "lineage": null,
+            "given": "TE"
+          }
+        },
+        {
+          "name": {
+            "family": "Munifatullah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Feni"
+          },
+          "id": "feni.munifatullah@fkip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/02\/89\/03",
+      "date": "2017-12",
+      "corp_creators": [
+        "Prodi S2 Keguruan IPA",
+        "Prodi S1 Pendidikan Kimia",
+        "Prodi S1 Pendidikan Kimia`"
+      ],
+      "lastmod": "2021-04-06 06:36:43",
+      "userid": 1028,
+      "datestamp": "2021-04-06 06:36:43",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 42997,
+            "main": "THE_INFLUENCE_OF_MULTIPLE_REPRESENTATION_STRATEGIE.pdf",
+            "files": [
+                {
+                  "objectid": 42997,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/256459",
+                  "datasetid": "document",
+                  "filesize": 2661830,
+                  "fileid": 256459,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-04-06 04:44:58",
+                  "hash_type": "MD5",
+                  "hash": "536f4aa94ba387143408bfb533735b8c",
+                  "filename": "THE_INFLUENCE_OF_MULTIPLE_REPRESENTATION_STRATEGIE.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42997",
+            "eprintid": 28903,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "Sakarya University",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28903",
+      "eprintid": 28903,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2021-04-06 06:36:43",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB2300"
+      ],
+      "title": "The Influence Of Multiple Representation Strategies To Improve The Mental Model Of 10Th Grade Students On The Concept Of Chemical Bonding.`",
+      "official_url": "http:\/\/www.tojet.net\/",
+      "rev_number": 9,
+      "metadata_visibility": "show"
+    },
+    {
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43009",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 1618453,
+                  "datasetid": "document",
+                  "hash": "ef02e73d5ac6af0fb50bbb8972675ce4",
+                  "filename": "THE_APPLICATION_OF_DISCOVERY_LEARNING_USING_INTERA.pdf",
+                  "mtime": "2021-04-06 06:08:05",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 256546,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/256546",
+                  "objectid": 43009
+                }
+            ],
+            "docid": 43009,
+            "main": "THE_APPLICATION_OF_DISCOVERY_LEARNING_USING_INTERA.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 28914
+          }
+      ],
+      "publisher": "Universitas Negeri Medan",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28914",
+      "lastmod": "2021-04-06 07:10:44",
+      "corp_creators": [
+        "Prodi S2 Keguruan IPA",
+        "Prodi S2 Keguruan IPA",
+        "Prodi S2 Keguruan IPA"
+      ],
+      "userid": 1028,
+      "datestamp": "2021-04-06 07:10:44",
+      "creators": [
+        {
+          "id": "afria.susana@yahoo.co.id",
+          "name": {
+            "given": "Afria",
+            "honourific": null,
+            "family": "Susana",
+            "lineage": null
+          }
+        },
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sunyono",
+            "given": "Sunyono"
+          }
+        },
+        {
+          "id": "jalmotri@yahoo.com",
+          "name": {
+            "family": "Jalmo",
+            "honourific": null,
+            "lineage": null,
+            "given": "Tri"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/89\/14",
+      "date": "2017-11-13",
+      "id_number": "ISBN 978-602-9115-38-3",
+      "type": "other",
+      "divisions": [
+        "FKIP4"
+      ],
+      "title": "the Application of Discovery Learning Using Interactive Multimedia to Enhance Students' Metacognition on the Content Area of Biological Inheritance.",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "place_of_pub": "Medan",
+      "eprint_status": "archive",
+      "status_changed": "2021-04-06 07:10:44",
+      "subjects": [
+        "L1",
+        "LB2300"
+      ],
+      "eprintid": 28914,
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FKIP4"
+      ],
+      "type": "conference_item",
+      "date": "2017-11-14",
+      "dir": "disk0\/00\/00\/79\/04",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Susana",
+            "honourific": null,
+            "given": "Afria"
+          },
+          "id": "afria.susana@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sunyono",
+            "given": "Sunyono"
+          },
+          "id": null
+        },
+        {
+          "id": "jalmotri@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Jalmo",
+            "lineage": null,
+            "given": "Tri"
+          }
+        }
+      ],
+      "datestamp": "2018-06-26 08:36:48",
+      "pagerange": "112-118",
+      "lastmod": "2018-06-26 08:36:48",
+      "userid": 812,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7904",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 7904,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20933",
+            "rev_number": 1,
+            "docid": 20933,
+            "main": "artikel seminar Afria Susana, Sunyno, Tri Jalmo.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/70523",
+                  "objectid": 20933,
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-26 08:09:43",
+                  "filename": "artikel seminar Afria Susana, Sunyno, Tri Jalmo.pdf",
+                  "hash": "9b341421aca8fd81fe038d4645a321bf",
+                  "fileid": 70523,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1398762,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "date_type": "published",
+      "event_title": "The 4th Annual International Seminar on Trends In Science and Science Education",
+      "eprintid": 7904,
+      "event_location": "Grand Mercure Hotel - Medan. Indonesia",
+      "subjects": [
+        "L1",
+        "LB1603"
+      ],
+      "abstract": "The purpose of this research is to describe the students’ metacognition characteristics after learning using discovery-based interactive multimedia.   The research employed experimental design with a pretest-posttest control group design which compries one experimental group and one control group.  This research involved 54 grade nine students at SMPN 4 Gadingreji, in Pringsewu regency in the academic year 2016\/2017.  The questionares used to measure students’ metacognition are adapted from the Scraw and Dennison (1994) in the journal entitled “Assessing Metacognition Awareness with Metacognitive Awareness Inventory (MAI)”. The intrumental questions comprised knowledge pretest dan posttest questions had been aligned with the phases of discovery learning and metacognition strategy.  The result showed that discovery-based interactive multimedia had a significant effect on the students’ improved metacognition evidenced by the increase in the learning outcome which is represented by the effect size or 0,74. Therefore, the interactive multimedia as the learning media contributes positively to student’ enhanced learning outcome.",
+      "status_changed": "2018-06-26 08:36:48",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "title": "The Application of Discovery Learning Using Interactive Multimedia to Enhance Students’ Metacognition on The Content Area of Biological Inheritance",
+      "event_dates": "14-15 November 2018"
+    }
+]
+

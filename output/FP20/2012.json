@@ -1,0 +1,90 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 421,
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "Kajian tentang hubungan panjang-bobot dan faktor kondisi relatif suatu jenis ikan sangat diperlukan dalam rangka pengelolaan sumber daya ikan tersebut.  Sehubungan dengan hal itu, telah dilakukan kajian hubungan panjang-bobot dan faktor kondisi relatif terhadap ikan lumo (L.ocel-latus) yang berasal dari Way Tulang Bawang, Lampung.  Pertumbuhan ikan lumo bersifat isometrik dengan persamaan hubungan panjang-bobot W=6.26x10^(-6)xTL^(3.05) dan nilai Kn mendekati 1 (kondisi rata-rata).  Sebagian besar ikan-ikan yang tertangkap oleh nelayan berukuran panjang total rata-rata antara 115,46-125,51 mm dan diperkirakan belum mencapai ukuran dewasa seksual. Sebagai pemakan plankton dan detritus, ikan lumo dapat tumbuh dengan baik di per-airan Way Tulang Bawang.",
+      "status_changed": "2016-08-28 13:15:25",
+      "eprint_status": "archive",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Hubungan panjang-bobot dan faktor kondisi relatif ikan lumo (Labiobarbus ocellatus) di Way Tulang Bawang, Kabupaten Tulang Bawang, Lampung",
+      "divisions": [
+        "FP20"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/04\/21",
+      "date": "2012-09",
+      "publication": "Prosiding Seminar Hasil-Hasil Penelitian dan Pengabdian Kepada Masyarakat Universitas Lampung 2012",
+      "issn": "ISBN 978-979-8510-56-4",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Suparmono",
+            "honourific": null,
+            "given": "Suparmono"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Gumay Yudha",
+            "lineage": null,
+            "given": "Indra"
+          },
+          "id": "indra.yudha@fp.unila.ac.id"
+        }
+      ],
+      "datestamp": "2016-08-28 13:15:25",
+      "pagerange": "102-107",
+      "lastmod": "2016-08-28 13:15:25",
+      "userid": 509,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/421",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "documents": [
+          {
+            "eprintid": 421,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "IGY 2012 Prosiding Dies Unila 2012.pdf",
+            "docid": 380,
+            "files": [
+                {
+                  "filesize": 357048,
+                  "datasetid": "document",
+                  "filename": "IGY 2012 Prosiding Dies Unila 2012.pdf",
+                  "hash": "b07406e8ac7fdf81e7e77d16dbb834de",
+                  "mtime": "2016-08-27 15:47:23",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 2328,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2328",
+                  "objectid": 380
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/380"
+          }
+      ]
+    }
+]
+

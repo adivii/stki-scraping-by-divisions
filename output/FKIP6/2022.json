@@ -1,0 +1,292 @@
+[
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44818",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166716",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483826",
+                  "objectid": 166716,
+                  "filesize": 1272627,
+                  "datasetid": "document",
+                  "hash": "59c6facd2ef6552e89a1188d6dfe69fd",
+                  "filename": "5. 24608-62725-1-PB_Digital Literacy Ability__.pdf",
+                  "mtime": "2022-09-07 02:22:41",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 483826
+                }
+            ],
+            "main": "5. 24608-62725-1-PB_Digital Literacy Ability__.pdf",
+            "docid": 166716,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44818
+          }
+      ],
+      "publisher": "Database and Scientific Publication Unit (Unit Database dan Publikasi              Ilmiah) Faculty of Teacher Training and Education University of Lampung",
+      "ispublished": "pub",
+      "number": 3,
+      "datestamp": "2022-09-07 07:14:04",
+      "pagerange": "1311-1321",
+      "lastmod": "2022-09-07 07:14:04",
+      "userid": 998,
+      "date": "2022-07-13",
+      "dir": "disk0\/00\/04\/48\/18",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rini",
+            "given": "Riswanti"
+          }
+        },
+        {
+          "name": {
+            "given": "Nurain",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suryadinata"
+          },
+          "id": "nurain.suryadinata@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ujang",
+            "lineage": null,
+            "honourific": null,
+            "family": "efendi"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2087-9849",
+      "publication": "Jurnal Pendidikan Progresif (Journal of Progressive Education)",
+      "divisions": [
+        "FKIP6"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 12,
+      "rev_number": 6,
+      "title": "Digital Literacy Ability towards Curiosity Level and Student Self-Determination",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/article\/view\/24608",
+      "abstract": "Digital Literacy Ability towards Curiosity Level and Student Self-Determination The\r\npurpose of this study was to analyze digital literacy skills on the level of curiosity and self-determination\r\nof students. This study uses a quantitative approach with statistical methods. The type of research\r\nused in this research is ex-post facto. The population in this study were students in Indonesia aged 17-\r\n22 years with a sample of 723 selected randomly. The instruments used are digital literacy measurement,\r\nthe Curiosity measurement scale, and the self-determination measurement scale. Data analysis used\r\nstatistical tests, namely the Mann-Whitney test and simple linear regression. The main result of this\r\nresearch is that there are differences in digital literacy and self-determination in terms of gender, but in\r\nthe aspect of Curiosity there is no difference. Furthermore, there is a positive effect of digital literacy\r\non curiosity and self-determination. The digital literacy prediction model for curiosity is Y=11.28+0.38X\r\nand the digital literacy prediction model for self-determination is Y=25.77+0.57X.\r\nKeywords: curiosity, self-determination, digital literacy, college students.",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2022-09-07 07:14:04",
+      "date_type": "published",
+      "eprintid": 44818
+    },
+    {
+      "publication": "Jurnal Kreativitas Pengabdian Kepada Masyarakat (PKM)",
+      "issn": "2615-0921",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Riswanti",
+            "lineage": null,
+            "given": "Rini"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Hasan",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hariri"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Eis",
+            "honourific": null,
+            "family": "Eis Nurbanati",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Karwan",
+            "lineage": null,
+            "family": "Dedi Hermanto",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ujang",
+            "lineage": null,
+            "given": "Efendi"
+          },
+          "id": "ujang.efendi@fkip.unila.ac.id"
+        }
+      ],
+      "date": "2022-03",
+      "dir": "disk0\/00\/04\/13\/02",
+      "type": "article",
+      "divisions": [
+        "FKIP6"
+      ],
+      "number": 3,
+      "ispublished": "pub",
+      "publisher": "Universitas Malahayati Lampung",
+      "documents": [
+          {
+            "main": "5619-24751-1-PB_Sistem Informasi Manajemen Berbasis Android_Dr Riswanti Rini.pdf",
+            "docid": 162888,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458000",
+                  "objectid": 162888,
+                  "filesize": 714180,
+                  "datasetid": "document",
+                  "mtime": "2022-04-13 00:53:05",
+                  "hash_type": "MD5",
+                  "filename": "5619-24751-1-PB_Sistem Informasi Manajemen Berbasis Android_Dr Riswanti Rini.pdf",
+                  "hash": "ed1a76a78593cfd4b61aa9e11c76a96a",
+                  "fileid": 458000,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162888",
+            "eprintid": 41302,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41302",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "riswanti.rini@gmail.com"
+      ],
+      "lastmod": "2022-04-13 01:04:18",
+      "userid": 998,
+      "pagerange": "688-698",
+      "datestamp": "2022-04-13 01:04:18",
+      "eprintid": 41302,
+      "title": "Sistem Informasi Manajemen Berbasis Android Di SMK Kabupaten Peringsewu",
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/kreativitas\/article\/view\/5619",
+      "volume": 5,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2022-04-13 01:04:18",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Sistem  Informasi  Manajemen  adalah  seperangkat  prosedur  gabungan  yang\r\nmengumpulkan  dan  menghasilkan  data  yang  andal,  relevan,  dan  terorganisir\r\ndengan  baik  yang  mendukung  proses  pengambilan  keputusan  suatu  organisasi. Tujuan\r\nSistem   informasi  manajemen  (SIM)   digunakan  oleh   sekolah   untuk mendukung serangkaian kegiatan administarasi termasuk pemantauan kehadiran, catatan  penilaian,  pelaporan,  manajemen\r\nkeuangan,  dan  alokasi  sumber  daya dan staf. SIM memberikan informasi yang dibutuhkan manajer untuk mengelola organisasi  secara  efisien  dan  eefektif.\r\n\r\nMetode dalam  penelitian  ini  adalah metode praktek   pelatihan   dan   diskusi   sosialisasi.   Hasil\r\nnya   meningkatkan pemahaman   tentang   SIM   Berbasis   Android   dengan   meniingkatan   layanan\r\npendidikan  yang  efektif  dan  efesian.  Saran  kedepannya  dengan  pelatihan  SIM Android yang sudah diaplikasikan dapat digunakan di skeolah lainnya."
+    },
+    {
+      "status_changed": "2022-08-15 01:33:19",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Principals and teachers are the most important actors in school. Teacher \r\npedagogical competence is very important to develop teacher \r\nprofessionalism. And also, principal performance has a substantial \r\nimpact on teacher pedagogical competence. This can be seen in how the principal handles interpersonal conflicts. The objectives of this paper is to describe and find out the link between a teacher's pedagogical and interpersonal conflict management of principals. The result of this study is the way the principal handles conflicts that occur in schools can increase harmony between school members, especially teachers. A harmonious relationship between teachers will be created by the principal who can handle conflict in their school",
+      "title": "How Do Interpersonal Conflict Management of Principal Develop \r\nTeacher Pedagogical Competence: Literature Review",
+      "official_url": "https:\/\/ejournal.isimupacitan.ac.id\/index.php\/tajdid\/article\/view\/253",
+      "volume": 11,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "eprintid": 44002,
+      "date_type": "published",
+      "lastmod": "2022-08-15 01:33:19",
+      "userid": 998,
+      "datestamp": "2022-08-15 01:33:19",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Institut Studi Islam Muhammadiyah (ISIMU) Pacitan",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 44002,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166002",
+            "rev_number": 1,
+            "main": "document_At Tajdid_How Do Interpersonal Conflict___Dr Riswanti rini.pdf",
+            "docid": 166002,
+            "files": [
+                {
+                  "objectid": 166002,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/478738",
+                  "datasetid": "document",
+                  "filesize": 596855,
+                  "mime_type": "application\/pdf",
+                  "fileid": 478738,
+                  "hash": "887332540351157eede9cacb3f1efe9b",
+                  "filename": "document_At Tajdid_How Do Interpersonal Conflict___Dr Riswanti rini.pdf",
+                  "mtime": "2022-08-13 07:47:38",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44002",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FKIP6"
+      ],
+      "publication": "At-Tajdid: Jurnal Ilmu Tarbiyah",
+      "creators": [
+        {
+          "name": {
+            "given": "amini",
+            "lineage": null,
+            "honourific": null,
+            "family": "zelda"
+          }
+        },
+        {
+          "name": {
+            "family": "Riswanti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rini"
+          }
+        },
+        {
+          "name": {
+            "family": "Hariri",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hasan"
+          }
+        }
+      ],
+      "issn": "2089-9165",
+      "dir": "disk0\/00\/04\/40\/02",
+      "date": "2022-06"
+    }
+]
+

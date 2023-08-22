@@ -1,0 +1,4147 @@
+[
+    {
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "validuser",
+            "date_embargo": 2020,
+            "eprintid": 6038,
+            "content": "published",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 18954,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55777",
+                  "mime_type": "application\/pdf",
+                  "fileid": 55777,
+                  "hash": "74e6b50de9ca8b8640512b2f44db0fbf",
+                  "filename": "Jurnal Alfi H (1361-3136-1-PB).pdf",
+                  "mtime": "2017-11-18 15:54:26",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 368026
+                }
+            ],
+            "main": "Jurnal Alfi H (1361-3136-1-PB).pdf",
+            "docid": 18954,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18954",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6038",
+      "refereed": "TRUE",
+      "userid": 949,
+      "lastmod": "2018-04-25 09:15:23",
+      "pagerange": "65-69",
+      "datestamp": "2018-04-25 09:15:23",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hamidah",
+            "honourific": null,
+            "given": "Alfi"
+          }
+        },
+        {
+          "name": {
+            "given": "Pulung",
+            "honourific": null,
+            "family": "Karo Karo",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Joko  Suroto",
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "issn": "2549-1156",
+      "dir": "disk0\/00\/00\/60\/38",
+      "date": 2017,
+      "contact_email": "alfihamidah7@gmail.com",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "title": "Kajian Konduktivitas Listrik Zeolit pada Perlakuan Termal\r\n150 ◦C, 250 ◦C, 350 ◦C dan Potensinya sebagai  Elektrode\r\nSuperkapasitor",
+      "rev_number": 7,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "status_changed": "2018-04-25 09:15:23",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Zeolite  based  silica rice husk  has been prepared and  analyzed with  thermal treatment 150 ◦ C,\r\n250 ◦ C, and  350 ◦ C. This research  was conducted to study the effect of thermal treatment with a variety  temperature to particle  size and electrical conductivity of zeolite.  In thermal treatment at\r\n350 ◦ C was obtained the smallest particle size, amounted to 15.396 µm, meanwhile the highest electrical conductivity values was  obtained at 250 ◦ C,amounted to 1.5540×10−4 S\/cm.  This is caused by the  phase structure changes and  particle agglomeration. Based  on the  result of electrical conductivity values, zeolite  is included in semiconductor and  has  a potential as a supercapacitor electrode.",
+      "eprintid": 6038,
+      "date_type": "published"
+    },
+    {
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "full_text_status": "none",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4198",
+      "refereed": "TRUE",
+      "lastmod": "2017-11-02 03:07:58",
+      "userid": 387,
+      "datestamp": "2017-11-02 03:07:58",
+      "pagerange": "25-30",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null,
+            "given": "Duwi"
+          },
+          "id": "duwi@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Pauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gurum A."
+          },
+          "id": "gurum4in@yahoo.com"
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supriyanto",
+            "given": "Amir"
+          }
+        }
+      ],
+      "date": "2017-02-03",
+      "dir": "disk0\/00\/00\/41\/98",
+      "id_number": "E-ISSN 2549-1156.",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1355\/1186",
+      "title": "Deteksi Letak Kebocoran Pipa Berdasarkan Analisis Debit\r\nAir Menggunakan Teknologi Sensor Flowmeter Berbasis\r\nTCP\/IP",
+      "rev_number": 5,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "status_changed": "2017-11-02 03:07:58",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article",
+          "type": "author"
+        }
+      ],
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Pipeline leaks can cause major ﬁnancial losses for users of pipeline system. Perusahaan Daerah\r\nAir Minum (PDAM) generally uses manual methods to detect leak location, such as by looking\r\npuddle above the pipeline. The research proposed to produce a method that can detect pipeline\r\nleak location quickly and accurately. The method use water ﬂow sensors that are placed before\r\nand after the leak. The water ﬂow sensors are used to record data of the difference between\r\nincoming and outgoing water ﬂow (DQ). The data are transmitted to a computer using a network\r\nbased on TCP\/IP. The results showed that the smaller value of the difference between incoming\r\nand outgoing water ﬂow (DQ), the farther distance leak location (X). If diameter hole (D) had\r\ndecreased by 43%, the value of the difference between incoming and outgoing water ﬂow (DQ)\r\nwould have decreased by 21%. Based on these results, the method for detecting pipeline leak\r\nlocation with technology water ﬂow sensors can distinguish pipeline leak location quickly and\r\naccurately.",
+      "eprintid": 4198,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 1789,
+      "date_type": "published",
+      "status_changed": "2017-05-29 05:53:11",
+      "eprint_status": "archive",
+      "abstract": "Pipeline leaks can cause major financial losses for the users of pipeline system. Perusahaan Daerah Air Minum (PDAM) generally uses manual methods to detect leak location, such as by looking puddle above the pipeline. The research proposed to produce a method that can detect pipeline leak location quickly and accurately. The method use water flow sensors that are placed before and after the leak. The water flow sensors are used to record data of the difference between incoming and outgoing water flow (ΔQ). The data are transmitted to a computer using a network based on TCP\/IP. The results showed that the smaller value of the difference between incoming and outgoing water flow (ΔQ), the farther distance leak location (X). If diameter hole (D) had decreased by 43%, the value of the difference between incoming and outgoing water flow (ΔQ) would have decreased by 21%. Based on these results, the method for detecting pipeline leak location with technology water flow sensors can distinguish pipeline leak location quickly and accurately.",
+      "subjects": [
+        "QC"
+      ],
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf",
+      "title": "Deteksi Letak Kebocoran Pipa Berdasarkan Analisis Debit Air Menggunakan Teknologi Sensor Flowmeter Berbasis TCP\/IP",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 5,
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "duwi@yahoo.com",
+          "name": {
+            "given": "Duwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Haryanto"
+          }
+        },
+        {
+          "name": {
+            "given": "Gurum A.",
+            "honourific": null,
+            "family": "Pauzi",
+            "lineage": null
+          },
+          "id": "gurum4in@yahoo.com"
+        },
+        {
+          "id": "amirsp@gmail.com",
+          "name": {
+            "given": "Amir",
+            "family": "Supriyanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/00\/17\/89",
+      "date": "2017-01-01",
+      "corp_creators": [
+        "Fisika FMIPA Unila",
+        "Fisika FMIPA Unila",
+        "Fisika FMIPA Unila"
+      ],
+      "lastmod": "2017-05-29 05:53:11",
+      "userid": 434,
+      "datestamp": "2017-05-29 05:53:11",
+      "pagerange": "25-30",
+      "documents": [
+          {
+            "eprintid": 1789,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 1652,
+            "main": "aliran pipa.pdf",
+            "files": [
+                {
+                  "filesize": 619059,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 03:42:11",
+                  "filename": "aliran pipa.pdf",
+                  "hash": "55da2aecd7e03cd9dedc61e33b2fb054",
+                  "fileid": 12425,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12425",
+                  "objectid": 1652
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1652"
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "number": 1,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1789",
+      "full_text_status": "public"
+    },
+    {
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7739",
+      "full_text_status": "public",
+      "publisher": "Atlantis Press",
+      "documents": [
+          {
+            "eprintid": 7739,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 20786,
+            "main": "BUKTI JURNAL.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 345592,
+                  "mime_type": "application\/pdf",
+                  "fileid": 69441,
+                  "hash": "9f042c92d46fb5de442b7b3b8515bfee",
+                  "filename": "BUKTI JURNAL.pdf",
+                  "mtime": "2018-06-25 08:55:41",
+                  "hash_type": "MD5",
+                  "objectid": 20786,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69441"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20786"
+          },
+          {
+            "files": [
+                {
+                  "objectid": 20787,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69445",
+                  "fileid": 69445,
+                  "mime_type": "text\/html",
+                  "mtime": "2018-06-25 08:56:55",
+                  "hash_type": "MD5",
+                  "hash": "50f3fd4d724897535c5d7ee9f1d230e6",
+                  "filename": 25869928,
+                  "datasetid": "document",
+                  "filesize": 14367
+                }
+            ],
+            "main": 25869928,
+            "docid": 20787,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20787",
+            "rev_number": 4,
+            "format": "text",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 7739,
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM"
+        }
+      ],
+      "pagerange": "53-59",
+      "datestamp": "2018-06-26 02:42:36",
+      "lastmod": "2018-06-26 02:42:36",
+      "userid": 884,
+      "id_number": "10.2991\/icmsed-16.2017.12",
+      "date": "2017-01",
+      "dir": "disk0\/00\/00\/77\/39",
+      "issn": "2352-5398",
+      "creators": [
+        {
+          "id": "el_qolibry2@yahoo.co.id",
+          "name": {
+            "given": "Kartini",
+            "honourific": null,
+            "family": "Herlina",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nur",
+            "given": "Muhamad"
+          }
+        },
+        {
+          "name": {
+            "given": "Wahono",
+            "lineage": null,
+            "family": "Widodo",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "Advances in Social Science, Education and Humanities Research (ASSEHR)",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 57,
+      "rev_number": 8,
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/icmsed-16\/25869928",
+      "title": "Development of Optics Learning Model to Build\r\nMental Models and Problem Solving Ability",
+      "abstract": "One of the goals of physics instruction should be to\r\nenable the students to solve problems in a flexibly way. This\r\nrequires the students to consider and to use multirepresentations as a natural part of the way they solve\r\nproblems. This paper presents the results of our research on the\r\ndevelopment of optics learning model that was designed for the\r\npurpose of building mental models and problem solving ability,\r\nespecially in the topic of light refraction. The learning model is\r\ncalled “ExPRession” model, developed based on one model of\r\nPBL namely the Illinois Mathematics and Science Academy\r\n(IMSA) model. Furthermore, we integrated the Polya’s and\r\nHeller & Heller problem solving strategies to IMSA PBL. We\r\nimplemented our model in a limited test that conducted to 16\r\nstudents of the 5th semester in physics education at Lampung\r\nUniversity who were enrolled in an optics course. The learning\r\nmodel was implemented in three topics such as rectilinear\r\npropagation of light, refraction of light on a flat surface, and\r\nrefraction of light on a curved surface. The results showed that\r\n“ExPRression” learning models could be categorized as “valid\r\nin contents” and as “valid in constructions”, categorized as\r\n\"practical\", and categorized as “effective”. The developed\r\nlearning tools can be classified as a valid and could be used to\r\nsupport the implementation of the \"Expression\" learning\r\nmodel. The results in limited test showed that “ExPRression”\r\nlearning model was effective in building mental model and\r\nimproving aspects of problem solving ability.\r\nKeywords—“ExPRession”model; problem solving ability;\r\nmental model",
+      "subjects": [
+        "LB2300"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/www.atlantis-press.com\/proceedings\/icmsed-16\/25869928"
+        }
+      ],
+      "status_changed": "2018-06-26 02:42:36",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 7739
+    },
+    {
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4203,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17097",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42462",
+                  "objectid": 17097,
+                  "hash": "da97b19c01a52f756489bc3c6f7092ee",
+                  "filename": "1353-3123-1-PB.pdf",
+                  "mtime": "2017-10-31 03:47:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 42462,
+                  "filesize": 2520262,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "1353-3123-1-PB.pdf",
+            "docid": 17097
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4203",
+      "lastmod": "2017-11-02 03:08:09",
+      "userid": 387,
+      "datestamp": "2017-11-02 03:08:09",
+      "pagerange": "9-18",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "given": "Irsan",
+            "family": "Irsan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supriyanto",
+            "given": "Amir"
+          }
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Surtono",
+            "given": "Arif"
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "id_number": "E-ISSN 2549-1156.",
+      "dir": "disk0\/00\/00\/42\/03",
+      "date": "2017-01-03",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1353\/1179",
+      "title": "Analisis Karakteristik Elektrik Limbah Kulit Singkong\r\n(Manihot esculenta Crantz) sebagai Sumber Energi Listrik\r\nAlternatif Terbarukan untuk Mengisi Baterai Telepon\r\nGenggam",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 8,
+      "related_url": [
+        {
+          "type": "author",
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/index"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-11-02 03:08:09",
+      "abstract": "The electrical characteristics of cassava peeled could be determined by using electrode, a pair of\r\nelectrode that used in this research is Cu-Zn. The measurement of the electrical characteristics\r\nof cassava peeled had been done using a 1.2 Watt LED load and when the load is released.\r\nVarieties of cassava which used are White cassava, Genjah Urang cassava and Bassiro cassava.\r\nElectrolyte cell that used consists of 20 cells, which were arranged in series with volume 200 ml\r\nfor one cell. The maximum voltage when the load is removed generated white cassava peeled\r\nis 12.38 V, Genjah Urang cassava peel is 14.36 V, and Bassiro cassava peeled is 13.81 V. Type\r\nof cassava peeled that has the best electrical characteristics to charge phone battery is Genjah\r\nUrang cassava peeled. The test of cell phone battery charging had been done when cell phone\r\nwas empty or couldn’t be turned on and when cell phone battery had charged for two hours, it\r\nmade the cell phone on for 15 seconds after removed from the circuit.",
+      "subjects": [
+        "QC"
+      ],
+      "eprintid": 4203,
+      "date_type": "published"
+    },
+    {
+      "lastmod": "2019-01-02 07:59:45",
+      "userid": 181,
+      "datestamp": "2019-01-02 07:59:45",
+      "pagerange": "174-180",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 10511,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 1216154,
+                  "datasetid": "document",
+                  "filename": "Junaidi-2017-JNANOR.pdf",
+                  "hash": "16c07a6c73054e11abadb702fd23950a",
+                  "hash_type": "MD5",
+                  "mtime": "2019-01-02 06:38:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 97434,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97434",
+                  "objectid": 23526
+                }
+            ],
+            "main": "Junaidi-2017-JNANOR.pdf",
+            "docid": 23526,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23526",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Trans Tech Publications",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10511",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "issn": "1661-9897",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi",
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Journal of Nano Research",
+      "dir": "disk0\/00\/01\/05\/11",
+      "date": 2017,
+      "status_changed": "2019-01-02 07:59:45",
+      "eprint_status": "archive",
+      "abstract": "We report our investigation of roles of polyvinyl alcohol (PVA) as a high-performance capping agent in synthesizing silver nanowires (AgNWs) using polyol method. For this purpose, we varied the concentration of silver nitrate (AgNO ), from 0.3 M to 1.0 M, and molar ratios of [PVA:AgNO 3 3 ] from 2 to 6. The UV-vis spectra show the AgNWs growth optimally at a molar ratio of 4.5 with the absorbance peaks of 378 nm and 380 nm. Meanwhile, from XRD patterns, it was found that the crystal structure of the AgNWs can be identified as a face-centered cubic (fcc) with a lattice constant according to the spacing distance between the {111} planes of 4.087 Å. Finally, scanning electron microscopy (SEM) and transmission electron microscopy TEM images show the diameter and length of the AgNRs are 150 to 230 nm and 50 to 120 µm, respectively. These results show that the AgNWs synthesized using PVA having a long size.",
+      "subjects": [
+        "QC"
+      ],
+      "official_url": "https:\/\/www.scientific.net\/JNanoR.49.174",
+      "title": "The Roles of Polyvinyl Alcohol (PVA) as the Capping Agent on the Polyol Method for Synthesizing Silver Nanowires",
+      "metadata_visibility": "show",
+      "volume": 49,
+      "rev_number": 6,
+      "eprintid": 10511
+    },
+    {
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "We present a simple technique to estimate the size of silver nanoparticles (AgNPs) based on uv-vis spectra computationally. To have the nanoparticles, the AgNPs colloid was prepared by chemical reduction technique using 40 mM of tri-sodium citrate dihydrate (Na-O)\r\nand silver nitrate (AgNO3) at different concentrations of 2.5 and 5.0 mM. The colloid was then analyzed by using UV-Vis spectrophotometer. For comparison of the size estimation, a small amount of AgNPs was also analyzed using transmission electron microscopy (TEM). By ﬁtting the model and the UV-Vis spectra of these colloids, the set ﬁtting parameters can be obtained including the absorption coefﬁcient, the full width at half maximum (FWHM), the wavelength and absorbance of peaks. It is assumed that the shape of nanoparticle is spherical, so that its diameter can be estimated using the values of scattered absorbance and FWHM. Based on the model it is found that the size of AgNPs are (28 ±8) nm and (15 ±7) nm for samples prepared with concentration of 2.5 and 5.0 mM, respectively. On the other hand, from statistically estimation using images from TEM, it is found that the size of AgNPs are (17 ±4)nm and (8 ±3) nm for samples prepared with concentration of 2.5 and 5.0 mM, respectively. This discrepancy occurs may be due to non-homogenous of the particles. It indicates, however, this\r\ncomputationally simple method can be used as a ﬁrst step to estimate size of the AgNPs colloid prior to measurement and calculation using advanced equipments and techniques.",
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 02:26:03",
+      "rev_number": 6,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1366\/1181",
+      "title": "Spektrofotometer UV-Vis untuk Estimasi Ukuran\r\nNanopartikel Perak",
+      "date_type": "published",
+      "eprintid": 4862,
+      "pagerange": "97-102",
+      "datestamp": "2017-11-16 02:26:03",
+      "lastmod": "2017-11-16 02:26:03",
+      "userid": 181,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4862",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17785",
+            "main": "junaidi_jtaf_2017.pdf",
+            "docid": 17785,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 3317731,
+                  "mime_type": "application\/pdf",
+                  "fileid": 47215,
+                  "filename": "junaidi_jtaf_2017.pdf",
+                  "hash": "dbb2f38f8395cad842f1dcd2b85b6b38",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-08 07:28:29",
+                  "objectid": 17785,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47215"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 4862,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/48\/62",
+      "date": 2017,
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "Junaidi",
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "status_changed": "2017-11-16 03:31:09",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.indjst.org\/index.php"
+        }
+      ],
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Background\/Objectives: To synthesis silver nanowires with Polyvinyl Alcohol (PVA) and Polyvinyl Pyrrolidone (PVP)\r\nas a capping agent by the polyol method. Methods\/Statistical Analysis: Synthesis of silver nanowires was done by adding PVA and PVP for controlling of Multi-Twinned Particles seeds (MTPs) before grown to silver nanowires. The silver nanowires were characterized by UV-vis, SEM and XRD techniques. PVA and PVP is to be absorbed on the surface of the Ag seeds through Ag-O bond to form silver nanowires. Reaction time and temperature, as well as the kind of capping agent, affected the morphologies and sizes of the silver nanowires. Findings: The UV-vis spectra of silver nanowires show that the absorbance peaks at a wavelength of 350 to 390 nm. SEM images showed the selective absorption of PVA and PVP on\r\nthe side surfaces of {100} and {111} facets plays an important role in the growth of anisotropic silver nanostructures. The diameter and length of silver nanowires of PVA were (190 ± 10) nm and (80 ± 10) µm. The addition of PVP as a capping agent can decrease the diameter and length of silver nanowires about 100 nm and 10 to 20 µm, resfectively. XRD pattern of silver nanowires represented that the final product was highly crystallized. The crystal structurecan be identified as a\r\nface-centered cubic (fcc) with lattice constant according to the spacing distance between the {111} planes was 4.1454 Å for PVA and 4.0756 Å for PVP. \r\nApplications\/Improvements: PVA can be used as a capping agent for the synthesis of silver nanowires with high aspect ratio. The silver nanowires are synthesized with PVA longer than PVP.",
+      "title": "Controlling Shapes and Sizes of Synthesis Silver\r\nNanowires by Polyol Method using PolyvinylAlcohol and Polyvinyl Pyrrolidone",
+      "official_url": "http:\/\/www.indjst.org\/index.php\/indjst\/article\/view\/93895\/0",
+      "rev_number": 6,
+      "volume": 10,
+      "metadata_visibility": "show",
+      "eprintid": 4860,
+      "date_type": "published",
+      "userid": 181,
+      "lastmod": "2017-11-16 03:31:09",
+      "datestamp": "2017-11-16 03:31:09",
+      "pagerange": "1-8",
+      "number": 27,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17782",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 4861947,
+                  "fileid": 47198,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-08 06:51:52",
+                  "hash": "fa3074440dda5bcb15b60f43b508ea1b",
+                  "filename": "JUNAIDI_IPII_2017.pdf",
+                  "objectid": 17782,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47198"
+                }
+            ],
+            "main": "JUNAIDI_IPII_2017.pdf",
+            "docid": 17782,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4860
+          }
+      ],
+      "publisher": "Informatics Publishing Limited",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4860",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Indian Journal of Science and Technology",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Triyana",
+            "honourific": null,
+            "given": "K"
+          },
+          "id": "triyana@ugm.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Harsojo",
+            "given": "H"
+          }
+        },
+        {
+          "name": {
+            "given": "Edi",
+            "lineage": null,
+            "family": "Suharyadi",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "issn": "0974-5645",
+      "dir": "disk0\/00\/00\/48\/60",
+      "date": "2017-07-15",
+      "id_number": "DOI: 10.17485\/ijst\/2017\/v10i27\/93895"
+    },
+    {
+      "rev_number": 7,
+      "volume": 49,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/www.scientific.net\/JNanoR.49.174",
+      "title": "The Roles of Polyvinyl Alcohol (PVA) as the Capping Agent \r\non the Polyol Method for Synthesizing Silver Nanowires",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "We report our investigation of roles of polyvinyl alcohol (PVA) as a high-performance\r\ncapping agent in synthesizing silver nanowires (AgNWs) using polyol method. For this purpose, we\r\nvaried the concentration of silver nitrate (AgNO\r\n), from 0.3 M to 1.0 M, and molar ratios of\r\n[PVA:AgNO\r\n3\r\n3\r\n] from 2 to 6.  The UV-vis spectra show the AgNWs growth optimally at a molar ratio\r\nof 4.5 with the absorbance peaks of 378 nm and 380 nm. Meanwhile, from XRD patterns, it was\r\nfound that the crystal structure of the AgNWs can be identified as a face-centered cubic (fcc) with a\r\nlattice constant according to the spacing distance between the {111} planes of 4.087 Å. Finally,\r\nscanning electron microscopy (SEM) and transmission electron microscopy TEM images show the\r\ndiameter and length of the AgNRs are 150 to 230 nm and 50 to 120 µm, respectively. These results\r\nshow that the AgNWs synthesized using PVA having a long size.",
+      "status_changed": "2017-11-16 03:31:22",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 4861,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4861",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17783",
+            "rev_number": 1,
+            "main": "JUNAIDI_IPII_UNILA_2017.pdf",
+            "docid": 17783,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47204",
+                  "objectid": 17783,
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-08 07:09:37",
+                  "filename": "JUNAIDI_IPII_UNILA_2017.pdf",
+                  "hash": "e4e8c885a8de541ecc31153165e72947",
+                  "fileid": 47204,
+                  "mime_type": "application\/pdf",
+                  "filesize": 4226375,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 4861,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Trans Tech Publications",
+      "datestamp": "2017-11-16 03:31:22",
+      "pagerange": "174-180",
+      "userid": 181,
+      "lastmod": "2017-11-16 03:31:22",
+      "dir": "disk0\/00\/00\/48\/61",
+      "date": "2017-09-13",
+      "id_number": "doi:10.4028\/www.scientific.net\/JNanoR.49.174",
+      "publication": "Journal of Nano Research",
+      "issn": "1661-9897",
+      "creators": [
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Kuwat",
+            "lineage": null,
+            "honourific": null,
+            "family": "Triyana"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Edi",
+            "honourific": null,
+            "family": "Suharyadi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "H",
+            "family": "Harsojo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "LYL",
+            "lineage": null,
+            "family": "Wu",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 5860,
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 6,
+      "title": "Studi Luas Permukaan Spesifik Zeolit Akibat Pengaruh\r\nMikrostruktur dan Potensinya Sebagai Elektrode\r\nSuperkapasitor",
+      "abstract": "The synthesis of zeolite based rice husk silica by using sol-gel method with heat treatment 450oC, 550oC, dan 650oC has been investigated. This research was conducted to study the effect of particle size and pore size to specific surface area of zeolite. The characteristics of sample were observed byX-Ray Diffraction (XRD), Scanning Electron Microscopy (SEM), and specific surface area with Branauer Emmet Teller (BET). The research result showed that the structure was amorf with cristobalite, corundum, and delta-Al2O3 phase. The heat treatment of 450 C showed the smallest particle size amounted to 16.322 mm and the largest pore size amounted to 5.786 mm with the highest specific surface area amounted to 216.250 m2\/g, so it is potential to be used as a super capacitor electrode",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2017-11-17 04:26:36",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/58\/60",
+      "date": 2017,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kapriati Pakpahan",
+            "given": "Jennifer"
+          }
+        },
+        {
+          "name": {
+            "given": "Pulung",
+            "honourific": null,
+            "family": "Karo Karo",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Joko Suroto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "contact_email": "pakpahanjennifer@yahoo.co.id",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5860",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 54606,
+                  "filename": "Jurnal Jennifer KP (1354-3130-1-PB).pdf",
+                  "hash": "d3d6842b25b4db35221d1d865089f626",
+                  "mtime": "2017-11-17 04:01:28",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 377863,
+                  "objectid": 18783,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54606"
+                }
+            ],
+            "docid": 18783,
+            "main": "Jurnal Jennifer KP (1354-3130-1-PB).pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18783",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 5860,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "pagerange": "19-24",
+      "datestamp": "2017-11-17 04:26:36",
+      "lastmod": "2017-11-17 04:26:36",
+      "userid": 949
+    },
+    {
+      "datestamp": "2017-07-31 07:37:02",
+      "lastmod": "2017-07-31 07:37:02",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Riyanto",
+            "honourific": null,
+            "given": "Agus"
+          },
+          "id": "arfi2208@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "Simon",
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null
+          },
+          "id": "simon.sembiring@fmipa.",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Junaidi",
+            "given": "Junaidi"
+          }
+        }
+      ],
+      "publisher": "Departemen teknik Kimia Undip",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2017-06",
+      "subjects": [
+        "QC",
+        "QD"
+      ],
+      "abstract": "The study aims to investigate\r\nthe effect of calcination temperatures on the phase formation and electrical properties of\r\naluminosilicate geopolymer prepared from rice husk silica and sodium aluminate. The samples were\r\ncalcined at temperature from 150 to 550oC, the development of structures was characterized using xray\r\ndifraction (XRD) and the electrical properties were measured by LCR meter. The result obtained\r\nindicated the significant role of calcining temperature on phase transformation of boehmite and quartz\r\ninto aluminosilicate geopolymer, in which at calcining temperatures from 450 to 550oC, and the\r\nsamples were dominated by semicrystal to amorphous phase which indicated that the aluminosilicate\r\ngeoplymer has been formed. The presence of aluminosilicate geopolymer resulted in increased ionic electrical conductivity and dielectric loss factor as well as decrease dielectric constant. Ionic electrical conductivity of the calcined sample at 450oC is 4.49x10-5 S\/cm at frequancy of 5x106 Hz, and XRD analysis demonstrated that the main structure is phase of semicrystal aluminosilicate geopolymer. Based on these character, the sample was considered is very suitable used to the fast ionic conductor\r\nmaterials.",
+      "eprint_status": "archive",
+      "official_url": "http:\/\/ejournal.undip.ac.id\/index.php\/reaktor\/article\/view\/14538",
+      "date_type": "published",
+      "eprintid": 3726,
+      "projects": [
+        "Hibah BLU Fakultas MIPA"
+      ],
+      "pagerange": "96-103",
+      "userid": 1168,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3726",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3589",
+            "docid": 3589,
+            "main": "REAKTOR.pdf",
+            "files": [
+                {
+                  "filesize": 1194338,
+                  "datasetid": "document",
+                  "mtime": "2017-07-25 22:41:54",
+                  "hash_type": "MD5",
+                  "filename": "REAKTOR.pdf",
+                  "hash": "7c559ff28d5bb0b61ab9f820caef255e",
+                  "fileid": 26175,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26175",
+                  "objectid": 3589
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 3726,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "funders": [
+        "LPPM Universitas Lampung"
+      ],
+      "dir": "disk0\/00\/00\/37\/26",
+      "publication": "Reaktor",
+      "creators": [
+        {
+          "id": "arfi2208@gmail.com",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto"
+          }
+        },
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Simon"
+          }
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "p-ISSN 0852 – 0798 e-ISSN 2407 – 5973",
+      "status_changed": "2017-07-31 07:37:02",
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.undip.ac.id\/index.php\/reaktor\/article\/view\/14538"
+        }
+      ],
+      "rev_number": 7,
+      "volume": 17,
+      "metadata_visibility": "show",
+      "title": "Karakteristik Fisis Aluminosilikat Geopolimer Berbasis Silika\r\nSekam Padi untuk Aplikasi Fast Ionic Conductor"
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2017-06",
+      "dir": "disk0\/00\/00\/74\/87",
+      "issn": "0852-0798",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto",
+            "given": "Agus"
+          },
+          "id": "arfi2208@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring"
+          },
+          "id": "simon.sembiring@fmipa."
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Reaktor",
+      "pagerange": "96-103",
+      "datestamp": "2018-06-22 03:53:36",
+      "lastmod": "2018-06-22 03:53:36",
+      "userid": 181,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7487",
+      "full_text_status": "public",
+      "publisher": "Jurusan Teknik Kimia, Universitas Diponegoro",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 7487,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20525",
+            "main": "Jurnal Reaktor.pdf",
+            "docid": 20525,
+            "files": [
+                {
+                  "mtime": "2018-06-22 01:16:38",
+                  "hash_type": "MD5",
+                  "hash": "57c823178753473a98109f6d1fb0e56d",
+                  "filename": "Jurnal Reaktor.pdf",
+                  "fileid": 67583,
+                  "mime_type": "application\/pdf",
+                  "filesize": 404339,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67583",
+                  "objectid": 20525
+                }
+            ]
+          }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 7487,
+      "abstract": "PHYSICAL C HARACTERISTIC OF ALUMI NOSICA TE GEOPOLYMER  BASED ON RICE HUSK  SILICA FO R FA ST I ONIC  C ONDUCTOR  A PPLICATIO N. The study aims to investigate the effect of calcination temperatures on the phase formation and electrical properties of aluminosilicate geopolymer prepared from rice husk silica and sodium aluminate. The samples were calcined at temperature from 150 to 550\r\nC, the development of structures was characterized using xray difraction (XRD) and the electrical properties were measured by LCR meter. The result obtained indicated the significant role of calcining temperature on phase transformation of boehmite and quartz into aluminosilicate geopolymer, in which at calcining temperatures from 450 to 550 oC, and the samples were dominated by semicrystal to amorphous phase which indicated that the aluminosilicate geoplymer has been formed. The presence of aluminosilicate geopolymer resulted in increased ionic electrical conductivity and dielectric loss factor as well as decrease dielectric constant. Ionic electrical conductivity of the calcined sample at 450 oC is 4.49x10-5 S\/cm at frequancy of 5x106 Hz, and XRD analysis demonstrated that the main structure is phase of semicrystal aluminosilicate geopolymer. Based on these character, the sample was considered is very suitable used to the fast ionic conductor materials.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-06-22 03:53:36",
+      "metadata_visibility": "show",
+      "volume": 17,
+      "rev_number": 6,
+      "official_url": "https:\/\/ejournal.undip.ac.id\/index.php\/reaktor\/article\/view\/14538",
+      "title": "Karakteristik Fisis Aluminosilikat Geopolimer Berbasis Silika Sekam Padi untuk Aplikasi Fast Ionic Conductor"
+    },
+    {
+      "type": "article",
+      "contact_email": "linarosa908@yahoo.co.id",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Rosalina",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rosalina"
+          }
+        },
+        {
+          "name": {
+            "given": "Suprihatin",
+            "lineage": null,
+            "family": "Suprihatin",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Pulung",
+            "lineage": null,
+            "family": "Karo karo",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/00\/58\/41",
+      "date": 2017,
+      "userid": 490,
+      "lastmod": "2017-11-17 04:20:40",
+      "pagerange": "37-42",
+      "datestamp": "2017-11-17 04:20:40",
+      "documents": [
+          {
+            "eprintid": 5841,
+            "date_embargo": "2020-01-03",
+            "security": "validuser",
+            "placement": 1,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "Jurnal Rosalina (1357-3108-1-PB).pdf",
+            "docid": 18767,
+            "files": [
+                {
+                  "filesize": 133666,
+                  "datasetid": "document",
+                  "filename": "Jurnal Rosalina (1357-3108-1-PB).pdf",
+                  "hash": "03bd9b8fa6b1601d4b8718bc6a881225",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-17 03:21:29",
+                  "mime_type": "application\/pdf",
+                  "fileid": 54506,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54506",
+                  "objectid": 18767
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18767"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5841",
+      "eprintid": 5841,
+      "date_type": "published",
+      "status_changed": "2017-11-17 04:20:40",
+      "eprint_status": "archive",
+      "abstract": "Theeffectofspeciﬁcsurfaceareatothespeciﬁccapacitanceofelectrodezeolitewithvariation\r\nofcalcintiontemperatures.Thisstudydescribesthepotentialofzeoliteasasupercapacitor\r\nelectrodewhichaimstodeterminetheeffectofsurfaceareaonthespeciﬁccapacitanceof\r\nthezeolite.Zeoliteswassynthesizedfromamixtureofsilicabasedricehuskandalumina\r\nusingsolgelmethodeandwascalcinedat150,250,350,450,550,and650◦C.TheXRDresult\r\nshowedalreadyformedaluminaandsilicaphasesforeachcalcinationstemperatureandthe\r\ntemperatureof350◦Chasformedgmelinitephasewhichmarkshavebeenformedzeolite.The\r\nspeciﬁccapacitanceincreaseinthespeciﬁcsurfaceareaat90.69-150.01m2\/g,andoccurred\r\nsaturationofspeciﬁccapacitanceataspeciﬁcsurfaceareaof150.01m2\/g.Thehighestofspeciﬁc\r\ncapacitanceisatspeciﬁcsurfaceareaof150.01m2\/gisequalto8.13×10−3F\/gobtainedfrom\r\nzeoliteswithcalcinationtemperatureof650◦C.Basedonthisvalue,thezeolitecanbeusedasa",
+      "subjects": [
+        "QC"
+      ],
+      "title": "Pengaruh Luas Permukaan Spesiﬁk terhadap Spesiﬁk Elektrode Zeolit Akibat Variasi Suhu Kalsinasi",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 5
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2017-11-02 02:09:03",
+      "abstract": "This study acquires the potential of rice husk silica for production forsterite precursors using\r\nsol-gel method. The samples preparation were conducted by mixing magnesium oxide sol fromMg(NO3)2.6.12HO with silica sol extracted from rice husk, with three different composition ratios ofMgO to SiO22 are 1:1, 2:3 and 3:2 by weight and sintered at 900 C. The samples were characterized using Fourier transform infrared (FTIR) spectroscopy, x-ray diffraction (XRD),differential thermal analysis (DTA), followed by scanning electron microscopy (SEM). The FTIR results showed the presence of Si-O-Si, Mg-O and Mg-O-Si functional groups, which were associated with forsterite, enstatite, cristobalite and periclase, according to the XRD analysis. The formation of forsterite (Mg2SiO4o) is composition-dependent as revealed the increase of forsterite intensity after sintered at 900 C in ratio 3:2. The surface morphology of non-sintered samples shows that particle and grain size were larger than particle and grain size of sintered samples. Also, SEM analysis of sintered samples clearly shows the presence of regular particle size with smaller grain size was found in ratioof MgO to SiO2 is 3:2. DTA analysis revealed that the formation of forsterite increased with increasingtemperature. In addition, the electrical resistivities of the samples were found in the range of 0.75 x 1013 -cm to 3.30 x 1013 -cm, demonstrating that the samples exhibit good potential as isolator.",
+      "subjects": [
+        "QC"
+      ],
+      "title": "Effect of MgO-SiO2 Ratio on the Forsterite (Mg2SiO4)) Precursors Characteristics Derived from  Amorphous Rice Husk Silica",
+      "metadata_visibility": "show",
+      "rev_number": 11,
+      "volume": 33,
+      "eprintid": 4066,
+      "date_type": "published",
+      "lastmod": "2017-11-02 02:09:03",
+      "userid": 1042,
+      "datestamp": "2017-11-02 02:09:03",
+      "pagerange": "1828-1836",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/16928",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 16928,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/41457",
+                  "fileid": 41457,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-10-18 06:21:44",
+                  "filename": "oriental of chemistry journal 2017.pdf",
+                  "hash": "81fc319e8a08942c62daaa217467a9d5",
+                  "datasetid": "document",
+                  "filesize": 990328
+                }
+            ],
+            "docid": 16928,
+            "main": "oriental of chemistry journal 2017.pdf",
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 4066
+          },
+          {
+            "pos": 2,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/16929",
+            "docid": 16929,
+            "main": "JASCER (12) 2017.pdf",
+            "files": [
+                {
+                  "objectid": 16929,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/41459",
+                  "datasetid": "document",
+                  "filesize": 1422666,
+                  "mime_type": "application\/pdf",
+                  "fileid": 41459,
+                  "hash": "76d2b55f61a5ab50801e6e0aee09fed5",
+                  "filename": "JASCER (12) 2017.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-10-18 06:22:38"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 4066,
+            "placement": 2,
+            "security": "public"
+          },
+          {
+            "eprintid": 4066,
+            "placement": 3,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "docid": 17098,
+            "main": "oriental of chemistry journal 2017.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 990328,
+                  "fileid": 42464,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-10-31 03:51:25",
+                  "hash_type": "MD5",
+                  "hash": "81fc319e8a08942c62daaa217467a9d5",
+                  "filename": "oriental of chemistry journal 2017.pdf",
+                  "objectid": 17098,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42464"
+                }
+            ],
+            "pos": 3,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17098"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 4,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4066",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "SIMON",
+            "honourific": null,
+            "family": "SEMBIRING",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "arfi2208@gmail.com",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto"
+          }
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Simanjuntak",
+            "given": "Wasinton"
+          }
+        },
+        {
+          "name": {
+            "given": "Rudy T.M",
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "0970-020 X",
+      "publication": "ORIENTAL JOURNAL OF CHEMISTRY",
+      "dir": "disk0\/00\/00\/40\/66",
+      "date": 2017
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 5,
+      "volume": 5,
+      "title": "Perancangan Alat Ukur Kadar Gula pada Produk Pangan\r\nMenggunakan Sensor Kapasitor Keping Sejajar Berbasis\r\nMikrokontroler ATMega8535",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1364\/1194",
+      "abstract": "It has been realizeda instrument measuring of sugar content using sensor chip capasitors parallel\r\nbased on microcontroller ATMega8535. The research objective design and realize a detector\r\nsugar in food product. The design of study was conducted by placing the sensor chip capasitors\r\nparallel as input voltage, then the signal will be condition by the Wheatstone Bridge which\r\nwill be forwarded to the microcontrollel ATMega8535 and displayed on the LCD. The result of\r\nmeasurements performed on the percentage of food product with sugar content of the ﬂour by\r\n4,77%, tapioca starch 33,33%, ﬂour maizeaku 40,69%, tepung ketan putih 32,74%, tepung beras\r\nputih 36,96%, sagu 49,46% and beras merah 20,32%. The data were analyzed and obtained the\r\nstandard deviation by the change of voltage.",
+      "subjects": [
+        "QC"
+      ],
+      "related_url": [
+        {
+          "type": "author",
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1364\/1194"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-11-02 03:07:44",
+      "date_type": "published",
+      "eprintid": 4207,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4207",
+      "full_text_status": "none",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "pagerange": "83-89",
+      "datestamp": "2017-11-02 03:07:44",
+      "lastmod": "2017-11-02 03:07:44",
+      "userid": 387,
+      "id_number": "E-ISSN 2549-1156.",
+      "date": "2017-01-03",
+      "dir": "disk0\/00\/00\/42\/07",
+      "issn": "2303-016X",
+      "creators": [
+        {
+          "name": {
+            "family": "Sajnaya",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hardanius"
+          },
+          "id": "email: dany.sanjaya2@gmail.com"
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Amir",
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "gurum4in@yahoo.com",
+          "name": {
+            "family": "Pauzi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Gurum A."
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article"
+    },
+    {
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Simon"
+          }
+        }
+      ],
+      "issn": "0970-020 X",
+      "publication": "Oriental Journal of Chemistry",
+      "date": 2017,
+      "dir": "disk0\/00\/01\/35\/91",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26605",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118724",
+                  "objectid": 26605,
+                  "filesize": 3883208,
+                  "datasetid": "document",
+                  "mtime": "2019-07-17 08:33:25",
+                  "hash_type": "MD5",
+                  "filename": "Simon Sembiring - IS22% - Effect of MgO-SiO2 Ratio on the Forsterite (Mg2SiO4) Precursors Characteristics Derived from Amorphous Rice Husk Silica.pdf",
+                  "hash": "7afad6d461f5ab6f378b84beb4e84292",
+                  "fileid": 118724,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Simon Sembiring - IS22% - Effect of MgO-SiO2 Ratio on the Forsterite (Mg2SiO4) Precursors Characteristics Derived from Amorphous Rice Husk Silica.pdf",
+            "docid": 26605,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13591
+          }
+      ],
+      "publisher": "Oriental Scientific Publishing Company",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13591",
+      "full_text_status": "public",
+      "lastmod": "2019-07-17 08:47:43",
+      "userid": 1042,
+      "datestamp": "2019-07-17 08:47:43",
+      "eprintid": 13591,
+      "date_type": "published",
+      "title": "Effect of MgO-SiO2 Ratio on the Forsterite (Mg2SiO4) Precursors Characteristics Derived from Amorphous Rice Husk Silica",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2019-07-17 08:47:43",
+      "abstract": "similarity",
+      "subjects": [
+        "QC"
+      ]
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": 2017,
+      "dir": "disk0\/00\/01\/35\/25",
+      "creators": [
+        {
+          "name": {
+            "given": "Simon",
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "issn": "0970-020 X",
+      "publication": "Oriental Journal of Chemistry",
+      "datestamp": "2019-07-15 07:31:06",
+      "pagerange": "1828-1836",
+      "lastmod": "2019-07-15 07:31:06",
+      "userid": 1042,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13525",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 608304,
+                  "fileid": 118202,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-15 04:34:56",
+                  "hash": "5a8183c733e70e2d9378676eacc48f69",
+                  "filename": "Effect of MgO-SiO Ratio on the Forsterite (Mg2SiO4) Precusors Characteristics Derived from Amorphous Rice Husk Silica.pdf",
+                  "objectid": 26534,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118202"
+                }
+            ],
+            "docid": 26534,
+            "main": "Effect of MgO-SiO Ratio on the Forsterite (Mg2SiO4) Precusors Characteristics Derived from Amorphous Rice Husk Silica.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26534",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 13525,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Oriental Scientific Publishing Company",
+      "ispublished": "pub",
+      "number": 4,
+      "date_type": "published",
+      "eprintid": 13525,
+      "abstract": "Hasil penilaian sejawat sebidang atau per review karya ilmiah: jurnal ilmiah internasional",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2019-07-15 07:31:06",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "volume": 33,
+      "rev_number": 6,
+      "title": "Effect of MgO-SiO2 Ratio on the Forsterite (Mg2SiO4)) Precursors Characteristics Derived from Amorphous Rice Husk Silica"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Journal of Asian Ceramic Societies",
+      "issn": "2187-0764",
+      "creators": [
+        {
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "date": 2017,
+      "dir": "disk0\/00\/01\/35\/24",
+      "userid": 1042,
+      "lastmod": "2019-07-15 07:30:59",
+      "datestamp": "2019-07-15 07:30:59",
+      "pagerange": "186-192",
+      "ispublished": "pub",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13524,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 557082,
+                  "fileid": 118195,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-07-15 04:31:45",
+                  "hash_type": "MD5",
+                  "filename": "Effect of Alumina Addition on the Phase Transformation and Crystallisation Properties of Refractory Cordierite Prepared from Amorphous Rice Husk Silica.pdf",
+                  "hash": "d1bfcd564e155e0ba95f78a8286da943",
+                  "objectid": 26533,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118195"
+                }
+            ],
+            "docid": 26533,
+            "main": "Effect of Alumina Addition on the Phase Transformation and Crystallisation Properties of Refractory Cordierite Prepared from Amorphous Rice Husk Silica.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26533",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13524",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 13524,
+      "date_type": "published",
+      "status_changed": "2019-07-15 07:30:59",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Hasil penilaian sejawat sebidang atau per review karya ilmiah: jurnal ilmiah internasional",
+      "title": "Effect of alumina addition on the phase transformation and crystallisation properties of refractory cordierite prepared from amorphous rice husk silica",
+      "rev_number": 7,
+      "volume": 2,
+      "metadata_visibility": "show"
+    },
+    {
+      "datestamp": "2019-07-17 08:46:31",
+      "lastmod": "2019-07-17 08:46:31",
+      "userid": 1042,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13589",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Elsevier",
+      "documents": [
+          {
+            "main": "Simon Sembiring - IS17% - Effect of alumina addition on the phase transformation and crystallisation properties of refractory cordierite prepared from amorphous rice husk silica.pdf",
+            "docid": 26601,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 118708,
+                  "hash": "a812dfd5d7e3b61f3b3aea57143715ac",
+                  "filename": "Simon Sembiring - IS17% - Effect of alumina addition on the phase transformation and crystallisation properties of refractory cordierite prepared from amorphous rice husk silica.pdf",
+                  "mtime": "2019-07-17 08:25:37",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 4020743,
+                  "objectid": 26601,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118708"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26601",
+            "eprintid": 13589,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": 2017,
+      "dir": "disk0\/00\/01\/35\/89",
+      "publication": "Journal of Asian Ceramic Societies",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring",
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "issn": "2187-0764",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "similarity",
+      "eprint_status": "archive",
+      "status_changed": "2019-07-17 08:46:31",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Effect of alumina addition on the phase transformation and crystallisation properties of refractory cordierite prepared from amorphous rice husk silica",
+      "date_type": "published",
+      "eprintid": 13589
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10684",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "publisher": "Teknosain",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10684,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98716",
+                  "objectid": 23690,
+                  "filename": "Simon Sembiring-Buku2.pdf",
+                  "hash": "dc9aaf241d46d897de7cc45d792998bf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-02-01 02:10:00",
+                  "mime_type": "application\/pdf",
+                  "fileid": 98716,
+                  "filesize": 909160,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 23690,
+            "main": "Simon Sembiring-Buku2.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23690",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2019-02-01 02:14:07",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-02-01 02:14:07",
+      "userid": 1042,
+      "date": 2017,
+      "dir": "disk0\/00\/01\/06\/84",
+      "pages": 159,
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring",
+            "given": "Simon"
+          }
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "series": 1,
+      "type": "book",
+      "rev_number": 7,
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "title": "Potensi Silika Sekam  sebagai bahan keramik refraktori tahan pada suhu tinggi",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-02-01 02:14:07",
+      "isbn": "978-602-6324-79-5",
+      "date_type": "published",
+      "eprintid": 10684
+    },
+    {
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Per Review karya ilmiah: Buku Ilmiah",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2019-07-15 07:31:18",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Silika sekam padi potensinya sebagai bahan baku keramik industri.",
+      "date_type": "published",
+      "isbn": "978-602-6912-00-8",
+      "eprintid": 13526,
+      "datestamp": "2019-07-15 07:31:18",
+      "lastmod": "2019-07-15 07:31:18",
+      "userid": 1042,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13526",
+      "publisher": "Plantaxia",
+      "documents": [
+          {
+            "eprintid": 13526,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "SILIKA SEKAM PADI POTENDINYA SEBAGAI BAHAN KERAMIK INDUSTRI.pdf",
+            "docid": 26535,
+            "files": [
+                {
+                  "objectid": 26535,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118209",
+                  "datasetid": "document",
+                  "filesize": 99035,
+                  "mime_type": "application\/pdf",
+                  "fileid": 118209,
+                  "hash": "bad4a3ccd629bde5f694a71a18f4b93c",
+                  "filename": "SILIKA SEKAM PADI POTENDINYA SEBAGAI BAHAN KERAMIK INDUSTRI.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-15 04:38:28"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26535"
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "book",
+      "pages": 113,
+      "date": 2017,
+      "dir": "disk0\/00\/01\/35\/26",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null,
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ]
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/www.orientjchem.org\/vol33no4\/effect-of-mgo-sio2-ratio-on-the-forsterite-mg2sio4-precursors-characteristics-derived-from-amorphous-rice-husk-silica\/"
+        }
+      ],
+      "status_changed": "2017-11-10 15:29:22",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 33,
+      "title": "Effect of MgO-SiO2Ratio on the Forsterite (Mg2SiO4) Precursors Characteristics Derived from Amorphous Rice Husk Silica",
+      "pagerange": "1828-1836",
+      "userid": 1168,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4270",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4270,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 17164,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42920",
+                  "datasetid": "document",
+                  "filesize": 1318977,
+                  "fileid": 42920,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-01 07:14:06",
+                  "filename": "OJC 2017.pdf",
+                  "hash": "45f34f839499fa86dfae802d7a52cca2"
+                }
+            ],
+            "main": "OJC 2017.pdf",
+            "docid": 17164,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17164",
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "funders": [
+        "The Directorate of Higher Education, The Ministry of Research, Technology, and Higher Education, Republic of Indonesia"
+      ],
+      "dir": "disk0\/00\/00\/42\/70",
+      "issn": "0970-020 X",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring",
+            "given": "Simon"
+          }
+        },
+        {
+          "id": "arfi2208@gmail.com",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Riyanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "family": "Simanjuntak",
+            "honourific": null,
+            "lineage": null,
+            "given": "Wasinton"
+          }
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null,
+            "given": "Rudy T.M"
+          }
+        }
+      ],
+      "publication": "ORIENTAL JOURNAL OF CHEMISTRY",
+      "abstract": "This study acquires the potential of rice husk silica for production forsterite precursors using sol-gel method. The samples preparation were conducted by mixing magnesium oxide sol from Mg(NO3)2.6.12H2O with silica sol extracted from rice husk, with three different composition ratios of MgO to SiO2 are 1:1, 2:3 and 3:2 by weight and sintered at 900oC. The samples were characterized using Fourier transform infrared (FTIR) spectroscopy, x-ray diffraction (XRD),differential thermal analysis (DTA), followed by scanning electron microscopy (SEM). The FTIR results showed the presence of Si-O-Si, Mg-O and Mg-O-Si functional groups, which were associated with forsterite, enstatite, cristobalite and periclase, according to the XRD analysis. The formation of forsterite (Mg2SiO4) is composition-dependent as revealed the increase of forsterite intensity after sintered at 900oC in ratio 3:2. The surface morphology of non-sintered samples shows that particle and grain size were larger than particle and grain size of sintered samples. Also, SEM analysis of sintered samples clearly shows the presence of regular particle size with smaller grain size was found in ratio of MgO to SiO2 is 3:2. DTA analysis revealed that the formation of forsterite increased with increasing temperature. In addition, the electrical resistivities of the samples were found in the range of 0.75 x 1013 to 3.30 x 1013W-cm, demonstrating that the samples exhibit good potential as isolator.\r\n\r\nKEYWORDS:\r\nForsterite; rice husk; sintering; structure; microstructure",
+      "subjects": [
+        "QC",
+        "QD"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/www.orientjchem.org\/vol33no4\/effect-of-mgo-sio2-ratio-on-the-forsterite-mg2sio4-precursors-characteristics-derived-from-amorphous-rice-husk-silica\/",
+      "date_type": "published",
+      "eprintid": 4270,
+      "projects": [
+        "Fundamental Research Grant Program, 2017, with contract: 610\/\/UN26.21\/KU\/20017."
+      ],
+      "datestamp": "2017-11-10 15:29:22",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-11-10 15:29:22",
+      "publisher": "ORIENTAL JOURNAL OF CHEMISTR",
+      "ispublished": "pub",
+      "number": 4,
+      "divisions": [
+        "FMIPA1",
+        "FMIPA4"
+      ],
+      "type": "article",
+      "id_number": "http:\/\/dx.doi.org\/10.13005\/ojc\/330427",
+      "date": "2017-07-14"
+    },
+    {
+      "official_url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S218707641730012X",
+      "abstract": "The effect of alumina addition of 5–30% by weight on phase transformation and crystallisation properties of refractory cordierite ceramics prepared from amorphous rice husk silica followed by sintering treatment at temperature of 1230 ◦C was studied. The crystallinity and microstructure of the samples were characterised using X-ray diffraction (XRD) coupled with Rietveld analysis, scanning electron microscopy\r\n(SEM), respectively. Some physical properties include density, porosity, hardness, bending strength, and\r\nthermal expansion coefficient of the samples with different alumina additions were measured. The results show that addition of alumina promoted crystallisation of cordierite into crystalline spinel, corundum, cristobalite, in which with addition of 10–30% alumina, the cordierite phase was practically undetected. Addition of alumina was also found to increase the amount of spinel, while corundum and cristobalite decreased following alumina addition of 10–30%. The presence of spinel, corundum, and cristobalite\r\nresulted in increased of density, hardness, bending strength and thermal expansion coefficient, while for porosity, the opposite was observed. Thermal expansion coefficient of the samples with alumina addition of 15–30% reach the relatively constant value of 9.5×10−6\/◦C, with the main crystalline phase was spinel,accompanied by corundum and cristobalite in smaller quantities.",
+      "subjects": [
+        "QC",
+        "QD"
+      ],
+      "eprint_status": "archive",
+      "projects": [
+        "Competency Research Grant Program, Batch II, 2016"
+      ],
+      "date_type": "published",
+      "eprintid": 3725,
+      "publisher": "Elsevier",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "given": "Wasinton",
+            "honourific": null,
+            "family": "Simanjuntak",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Rudy T.M",
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto"
+          },
+          "id": "arfi2208@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Karo Karo",
+            "given": "Pulung"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2017-07-31 07:37:23",
+      "lastmod": "2017-07-31 07:37:23",
+      "date": "2017-06",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 10,
+      "title": "Effect of alumina addition on the phase transformation and crystallisation properties of refractory cordierite prepared from amorphous rice husk silica",
+      "related_url": [
+        {
+          "url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S218707641730012X"
+        }
+      ],
+      "status_changed": "2017-07-31 07:37:23",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3725",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "1313b708451ee50fd58dbe65699390a7",
+                  "filename": "JACER 2017 (full).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-25 15:26:59",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26165,
+                  "filesize": 4279552,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26165",
+                  "objectid": 3588
+                }
+            ],
+            "docid": 3588,
+            "main": "JACER 2017 (full).pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3588",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 3725,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pagerange": "186-192",
+      "userid": 1168,
+      "dir": "disk0\/00\/00\/37\/25",
+      "issn": "2187-0764",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sembiring",
+            "given": "Simon"
+          }
+        },
+        {
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Simanjuntak",
+            "lineage": null,
+            "given": "Wasinton"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null,
+            "given": "Rudy T.M"
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Riyanto",
+            "given": "Agus"
+          },
+          "id": "arfi2208@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Karo Karo",
+            "honourific": null,
+            "given": "Pulung"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Journal of Asian Ceramic Societies",
+      "funders": [
+        "Directorate General of Higher Education (DIKTI), Ministry of Research, Technology, and Higher Education, Republic of Indonesia"
+      ]
+    },
+    {
+      "dir": "disk0\/00\/00\/42\/10",
+      "date": "2017-08",
+      "creators": [
+        {
+          "id": "simonsembiring2@gmail.com",
+          "name": {
+            "family": "Sembiring",
+            "honourific": null,
+            "lineage": null,
+            "given": "simon"
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Riyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arfi2208@gmail.com"
+        },
+        {
+          "id": "waso59@yahoo.com.au",
+          "name": {
+            "given": "Wasinton",
+            "honourific": null,
+            "family": "Simanjuntak",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null,
+            "given": "Rudy T.M"
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "0970-020 X",
+      "publication": "ORIENTAL JOURNAL OF CHEMISTRY",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "contact_email": "simonsembiring2@gmail.com",
+      "refereed": "TRUE",
+      "full_text_status": "none",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4210",
+      "publisher": "Oriental Scientific Publishing Company",
+      "ispublished": "pub",
+      "number": 4,
+      "pagerange": "1828-1836",
+      "datestamp": "2018-06-25 02:22:31",
+      "lastmod": "2018-06-25 02:22:31",
+      "userid": 1042,
+      "date_type": "published",
+      "eprintid": 4210,
+      "metadata_visibility": "show",
+      "volume": 33,
+      "rev_number": 10,
+      "title": "Effect of MgO-SiO2 Ratio on the Forsterite (Mg2SiO4) Precursors Characteristics Derived from\r\nAmorphous Rice Husk Silica",
+      "abstract": "This study acquires the potential of rice husk silica for production forsterite precursors using sol-gel method. The samples preparation were conducted by mixing magnesium oxide sol from Mg(NO3)2.6.12H2O with silica sol extracted from rice husk, with three different composition ratios of MgO to SiO2 are 1:1, 2:3 and 3:2 by weight and sintered at 900oC. The samples were characterized using Fourier transform infrared (FTIR) spectroscopy, x-ray diffraction (XRD),differential thermal analysis (DTA), followed by scanning electron microscopy (SEM). The FTIR results showed the presence of Si-O-Si, Mg-O and Mg-O-Si functional groups, which were associated with forsterite, enstatite, cristobalite and periclase, according to the XRD analysis. The formation of forsterite (Mg2SiO4) is composition-dependent as revealed the increase of forsterite intensity after sintered at 900oC in ratio 3:2. The surface morphology of non-sintered samples shows that particle and grain size were larger than particle and grain size of sintered samples. Also, SEM analysis of sintered samples clearly shows the presence of regular particle size with smaller grain size was found in ratio of MgO to SiO2 is 3:2. DTA analysis revealed that the formation of forsterite increased with increasing temperature. In addition, the electrical resistivities of the samples were found in the range of 0.75 x 1013 to 3.30 x 1013Ω-cm, demonstrating that the samples exhibit good potential as isolator.",
+      "subjects": [
+        "QC",
+        "QD"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-06-25 02:22:31"
+    },
+    {
+      "title": "VARIASI TEMPERATUR, KECEPATAN ANGIN DAN TINGGI EFEKTIF\r\nPADA PROSES DILUSI POLUTAN UDARA",
+      "volume": 1,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2017-11-14 02:46:45",
+      "related_url": [
+        {
+          "url": "http:\/\/semirata2017.mipa.unja.ac.id"
+        }
+      ],
+      "publication": "PROSIDING SEMIRATA 2017 BIDANG MIPA BKS-PTN WILAYAH BARAT",
+      "issn": "978-602-50593-0-8",
+      "creators": [
+        {
+          "name": {
+            "given": "sw suciyati",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sri Wahyu Suciyati"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/43\/22",
+      "contact_email": "sri.wahyu@fmipa.unila.ac.id",
+      "funders": [
+        "DIPA BLU Universitas Lampung"
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17211",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 1101900,
+                  "datasetid": "document",
+                  "filename": "Semirata-2017_Prosiding-Fisika mixing height.pdf",
+                  "hash": "b7dd27596bce556151ccf93f1a527856",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-03 03:47:10",
+                  "mime_type": "application\/pdf",
+                  "fileid": 43269,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/43269",
+                  "objectid": 17211
+                }
+            ],
+            "main": "Semirata-2017_Prosiding-Fisika mixing height.pdf",
+            "docid": 17211,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4322
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4322",
+      "refereed": "TRUE",
+      "userid": 672,
+      "pagerange": "262-269",
+      "projects": [
+        "DIPA BLU SENIOR"
+      ],
+      "eprintid": 4322,
+      "date_type": "published",
+      "official_url": "http:\/\/semirata2017.mipa.unja.ac.id\/2017\/10\/26\/prosiding-semirata-bks-mipa-ptn-wilayah-barat-2017\/",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Air pollution in urban areas has increased, it was characterized by a growing number of transportations, industrials and power plants. This study has calculated exposure concentrations were received in an area within 500 m of the emission source using analytical formulas Gaussian Plume. Further studies on the relationship between mixing height and dilution of air pollutants at a certain height from the surface has been done. Outcomes of the research is the effective stack height data, ambient air temperature data, and the data pollutant concentration at a height of 200 m, 300 m, 400 m and 500 m. Description of analysis shows the behavior of pollutants after coming out from the stack is able to reach the area mixing height and perfectly diluted pollutants.",
+      "date": "2017-05-14",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "ispublished": "pub",
+      "number": "buku 2",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Fakultas Keguruan dan Ilmu Pendidikan (FKIP) bekerjasama dengan Fakultas Sains dan Teknologi (FST) Universitas Jambi",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-11-14 02:46:45",
+      "datestamp": "2017-11-14 02:46:45"
+    },
+    {
+      "eprintid": 7858,
+      "event_title": "Seminar Nasional Fisika (SENAFIS) ke-II 2017",
+      "event_location": "Universitas Jember",
+      "abstract": "Elektrolit alam seperti air payau dan air sungai berpotensi sebagai sumber energi alternatif terbaharui.\r\nAnalisis kelistrikan air payau dan air sungai dilakukan dengan membuat media uji berupa kotak yang berisi 20\r\nsel pasangan elektroda tersusun seri. Elektroda yang dipakai adalah tembaga (Cu), dan seng (Zn) dengan\r\nkombinasi Cu-Zn, sedangkan sebagai elektrolit adalah larutan air payau dan air sungai. Karakteristik sel\r\nelektroda diketahui dengan memberi sel elektroda beban, yaitu LED 1,2 watt, kemudian diukur tegangan dan\r\narus. Pengambilan data pengukuran dilakukan selama 3 hari dengan selang 2 jam. Hasil pengukuran dan analisis\r\nmenunjukkan pada kombinasi elektroda Cu-Zn, air payau menunjukkan daya kelistrikannya lebih besar daripada\r\nair sungai yaitu rasio 12,008 : 5,84 (hari pertama) dan 1,752 : 0,572 (hari ketiga). Air payau sebagai larutan\r\nelektrolit menghasilkan energi yang cukup untuk menghidupkan LED 1,2 watt selama 72 jam, ditandai dengan\r\nnilai intensitas terukur LED rata-rata 322,8 lux.",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2018-06-26 08:08:19",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 10,
+      "event_dates": "18 November 2017",
+      "title": "Potensi Kelistrikan Air Payau dan Air Sungai sebagai bahan Elektrolit",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "conference_item",
+      "dir": "disk0\/00\/00\/78\/58",
+      "date": "2017-11-18",
+      "creators": [
+        {
+          "id": "sri.wahyu@fmipa.unila.ac.id",
+          "name": {
+            "given": "sw suciyati",
+            "lineage": null,
+            "family": "Sri Wahyu Suciyati",
+            "honourific": null
+          }
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "family": "Warsito",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "AMIR SUPRIYANTO",
+            "honourific": null,
+            "family": "AMIR SUPRIYANTO",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Arif S",
+            "family": "Arif S",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "GURUM A. PAUZI",
+            "honourific": null,
+            "given": "GURUM A. PAUZI"
+          },
+          "id": null
+        }
+      ],
+      "datestamp": "2018-06-26 08:08:19",
+      "lastmod": "2018-06-26 08:08:19",
+      "userid": 672,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7858",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 70220,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-26 06:55:15",
+                  "filename": "sertifikat senafis.pdf",
+                  "hash": "224783dbcf1e35917b8b23f7994a76e6",
+                  "datasetid": "document",
+                  "filesize": 954100,
+                  "objectid": 20896,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/70220"
+                }
+            ],
+            "main": "sertifikat senafis.pdf",
+            "docid": 20896,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20896",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7858,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "SW Suciyati",
+            "honourific": null,
+            "given": "SW Suciyati"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito",
+            "given": "Warsito"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Amir Supriyanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amir Supriyanto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arif S",
+            "honourific": null,
+            "given": "Arif S"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Gurum Ahmad Pauzi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Gurum Ahmad Pauzi"
+          }
+        }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/semirata2017.mipa.unja.ac.id"
+        }
+      ],
+      "status_changed": "2017-11-10 16:43:31",
+      "title": "VISUALISASI DISTRIBUSI SUHU PADA BAHAN HOMOGEN DAN MULTILAYER MENGGUNAKAN METODE BEDA HINGGA",
+      "metadata_visibility": "show",
+      "volume": 1,
+      "rev_number": 11,
+      "userid": 672,
+      "pagerange": "276-288",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17197",
+            "main": "Semirata-2017_Prosiding-Fisika heat transfer.pdf",
+            "docid": 17197,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 939249,
+                  "fileid": 43191,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-03 03:13:12",
+                  "filename": "Semirata-2017_Prosiding-Fisika heat transfer.pdf",
+                  "hash": "e9732868e08a53db38dc6450ad642d0c",
+                  "objectid": 17197,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/43191"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "eprintid": 4311,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4311",
+      "full_text_status": "public",
+      "contact_email": "sri.wahyu@fmipa.unila.ac.id",
+      "funders": [
+        "swadaya"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sri Wahyu Suciyati",
+            "honourific": null,
+            "given": "sw suciyati"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito",
+            "given": "warsito"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Fahad Almafakir",
+            "lineage": null,
+            "given": "Fahad"
+          }
+        }
+      ],
+      "issn": "978-602-50593-0-8",
+      "publication": "PROSIDING SEMIRATA 2017 BIDANG MIPA BKS-PTN WILAYAH BARAT",
+      "dir": "disk0\/00\/00\/43\/11",
+      "eprint_status": "archive",
+      "abstract": "Temperature distribution is a physical phenomenon of energy transfer that can be visualized using mathematical models. The solution of a time-dependent mathematical model such as the temperature distribution of homogeneous and multilayer materials can not be solved analytically, so numerical methods are required. This paper aims to visualize the relation of material properties to the process of temperature distribution using the diffusion and Laplace equations. The system model is a homogeneous material (aluminum and silver) and multilayer (aluminum-silver-aluminum) which are aplicated by heat source in the center of the material. Furthermore, time-dependent numerical solutions of systems has been given by finite difference schemes. The results show that visualization of temperature distribution of Ag materials is faster than Al material, and the temperature distribution of multilayer Al-Ag-Al material is faster than Ag-Al-Ag. This condition was caused by coefficient diffusivity of Ag materials is greater than Al material, so that the temperature of the Ag material is more quickly distributed to other parts of the material.",
+      "subjects": [
+        "QC"
+      ],
+      "official_url": "http:\/\/semirata2017.mipa.unja.ac.id\/2017\/10\/26\/prosiding-semirata-bks-mipa-ptn-wilayah-barat-2017\/",
+      "eprintid": 4311,
+      "date_type": "published",
+      "projects": [
+        "DIPA Fakultas"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-11-10 16:43:31",
+      "datestamp": "2017-11-10 16:43:31",
+      "publisher": "Fakultas Keguruan dan Ilmu Pendidikan (FKIP) bekerjasama dengan Fakultas Sains dan Teknologi (FST) Universitas Jambi",
+      "number": "buku 2",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "date": "2017-05-14"
+    },
+    {
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 18719,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54181",
+                  "fileid": 54181,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-16 16:53:49",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal Apriyanto S G (1358-3133-1-PB).pdf",
+                  "hash": "e06a5261571f15387309af3b822598c9",
+                  "datasetid": "document",
+                  "filesize": 273012
+                }
+            ],
+            "main": "Jurnal Apriyanto S G (1358-3133-1-PB).pdf",
+            "docid": 18719,
+            "rev_number": 6,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18719",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "validuser",
+            "date_embargo": "2018-01",
+            "eprintid": 5785,
+            "content": "draft",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5785",
+      "lastmod": "2017-11-17 04:18:21",
+      "userid": 490,
+      "datestamp": "2017-11-17 04:18:21",
+      "pagerange": "43-48",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supriyo Giri",
+            "given": "Apriyanto"
+          }
+        },
+        {
+          "name": {
+            "family": "Ginting",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ediman"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "-",
+            "given": "Suprihatin"
+          }
+        }
+      ],
+      "issn": "2549-1156",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/00\/57\/85",
+      "date": 2017,
+      "type": "article",
+      "contact_email": "giri10133@gmail.com",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "title": "Efektifitas Ekstrak Daun  Sirsak sebagai  Inhibitor  pada Baja Karbon Api 5L dalam Larutan NaCl 3%",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "volume": 5,
+      "eprint_status": "archive",
+      "status_changed": "2017-11-17 04:18:21",
+      "abstract": "The effectiveness of soursop leaves  extract  as inhibitor on carbon  steel API 5L in NaCl  3% had been researched. Carbon steel API 5L submersion used  NaCl  3% had  been done  for 144 hours with  various concentrations of soursop leaves  extract  inhibitor adding 0%, 5%, 10%, 15%, 20%,\r\n25%, 30%, and 35%. The research  of corrosion  rate was done by weight  loss and electrochemistry methods. The result  showed that  the higher  percentage of soursop leaves extract  inhibitor used, the corrosion rate  will decrease and  capability of inhibit corrosion will increase. The greatest effectiveness of corrosion occurred at concentration of 35% in NaCl  3% and  the effectiveness is 86.16%. The X-Ray Diffraction (XRD) characterization result showed that  the phase formed is pure Fe. Scanning Electron  Microscopy (SEM) characterization showed uneven clusters and smaller  size, fewer  holes and  cracks too with  soursop leaves extract  inhibitor 35% than  soursop leaves  extract  inhibitor 0%. Energy Dispersive Spectroscopy (EDS) characterization on sample with  inhibitor 0% obtained Cl element.",
+      "subjects": [
+        "QC"
+      ],
+      "eprintid": 5785,
+      "date_type": "published"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5877",
+      "full_text_status": "restricted",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 5877,
+            "date_embargo": 2020,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18797",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filename": "Jurnal Apriyanto S G (1358-3133-1-PB).pdf",
+                  "hash": "e06a5261571f15387309af3b822598c9",
+                  "mtime": "2017-11-17 06:01:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 54755,
+                  "filesize": 273012,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54755",
+                  "objectid": 18797
+                }
+            ],
+            "main": "Jurnal Apriyanto S G (1358-3133-1-PB).pdf",
+            "docid": 18797
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "pagerange": "43-48",
+      "datestamp": "2018-04-25 06:40:33",
+      "lastmod": "2018-04-25 06:40:33",
+      "userid": 490,
+      "date": 2017,
+      "dir": "disk0\/00\/00\/58\/77",
+      "issn": "ISSN 2549-1156",
+      "creators": [
+        {
+          "name": {
+            "given": "Apriyanto",
+            "honourific": null,
+            "family": "Supriyo Giri",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ediman",
+            "honourific": null,
+            "family": "Ginting",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Suprihatin",
+            "family": "Suprihatin",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika, Vol. 5, No. 1, 2017: 43-48",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "contact_email": "giri10133@gmail.com",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 5,
+      "title": "Efektifitas Ekstrak Daun Sirsak sebagai Inhibitor pada Baja Karbon Api 5L dalam Larutan NaCl 3%",
+      "abstract": "The effectiveness of soursop leaves extract as inhibitor on carbon steel API 5L in NaCl 3% had\r\nbeen researched. Carbon steel API 5L submersion used NaCl 3% had been done for 144 hours\r\nwith various concentrations of soursop leaves extract inhibitor adding 0%, 5%, 10%, 15%, 20%,\r\n25%, 30%, and 35%. The research of corrosion rate was done by weight loss and electrochemistry\r\nmethods. The result showed that the higher percentage of soursop leaves extract inhibitor used,\r\nthe corrosion rate will decrease and capability of inhibit corrosion will increase. The greatest\r\neffectiveness of corrosion occurred at concentration of 35% in NaCl 3% and the effectiveness\r\nis 86.16%. The X-Ray Diffraction (XRD) characterization result showed that the phase formed\r\nis pure Fe. Scanning Electron Microscopy (SEM) characterization showed uneven clusters and\r\nsmaller size, fewer holes and cracks too with soursop leaves extract inhibitor 35% than soursop\r\nleaves extract inhibitor 0%. Energy Dispersive Spectroscopy (EDS) characterization on sample\r\nwith inhibitor 0% obtained Cl element.",
+      "subjects": [
+        "QC"
+      ],
+      "status_changed": "2018-04-25 06:40:33",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 5877
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Syafriadi",
+            "lineage": null,
+            "given": "Syafriadi"
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/52",
+      "date": 2017,
+      "lastmod": "2023-03-08 06:14:35",
+      "userid": 583,
+      "datestamp": "2023-03-08 06:14:35",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 48852,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188294",
+            "rev_number": 1,
+            "main": "8.pdf",
+            "docid": 188294,
+            "files": [
+                {
+                  "objectid": 188294,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531945",
+                  "fileid": 531945,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-03-08 04:00:29",
+                  "hash_type": "MD5",
+                  "hash": "b55fd6889f5d70659a3c26691c81ec78",
+                  "filename": "8.pdf",
+                  "datasetid": "document",
+                  "filesize": 1125412
+                }
+            ]
+          }
+      ],
+      "publisher": "Jurnal Teori dan Aplikasi Fisika",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48852",
+      "eprintid": 48852,
+      "eprint_status": "archive",
+      "status_changed": "2023-03-08 06:14:35",
+      "abstract": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW KARYA ILMIAH : JURNAL ILMIAH NASIONAL",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Peer Review Variasi Doping Pb terhadap Pertumbuhan Fase Bahan Superkonduktor Bi-2212 pada Kadar Ca 1,10 dan Suhu Sintering 830C",
+      "metadata_visibility": "show",
+      "rev_number": 7
+    },
+    {
+      "date": 2017,
+      "dir": "disk0\/00\/04\/57\/70",
+      "creators": [
+        {
+          "name": {
+            "family": "Syafriadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Syafriadi"
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45770",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45770,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2022-10-18 03:19:25",
+                  "hash_type": "MD5",
+                  "filename": "Variasi Doping Pb terhadap Pertumbuhan Fase Bahan Superkonduktor Bi-2212 pada Kadar Ca 1,10 dan Suhu Sintering 830C.pdf",
+                  "hash": "a79ea607d2f777ceb58093b97ee098c4",
+                  "fileid": 507375,
+                  "mime_type": "application\/pdf",
+                  "filesize": 395662,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/507375",
+                  "objectid": 184584
+                }
+            ],
+            "docid": 184584,
+            "main": "Variasi Doping Pb terhadap Pertumbuhan Fase Bahan Superkonduktor Bi-2212 pada Kadar Ca 1,10 dan Suhu Sintering 830C.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184584",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "Fakultas MIPA Universitas Lampung",
+      "datestamp": "2022-10-18 06:51:52",
+      "lastmod": "2022-10-18 06:51:52",
+      "userid": 583,
+      "date_type": "published",
+      "eprintid": 45770,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Variasi Doping Pb terhadap Pertumbuhan Fase Bahan Superkonduktor Bi-2212 pada Kadar Ca 1,10 dan Suhu Sintering 830C",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Jurnal Teori dan Aplikasi Fisika",
+      "eprint_status": "archive",
+      "status_changed": "2022-10-18 06:51:52"
+    },
+    {
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "ABSTRACT\r\nZeolite based silica rice husk has been prepared at temperature of 450, 550, and 650\r\nC. This\r\nresearch was conducted to study the effect of calcination temperature in forming of crystalline\r\nphases and standard electron rate constant (k\r\n). The zeolite K450 was formed quartz and bohmite\r\nphases, zeolite K550 and K650 was formed cristobalite, stishovite, gamma-alumina, and natrolite\r\nphases. Electrochemical reaction of zeolite K450, K550 and K650 are irreversible. Peak potential\r\noxidation-reduction is between 240 mV and 390 mV. The higher value of calcination, the higher\r\nvalue of k\r\n0\r\n. The k\r\n0\r\n0\r\nvalue of zeolite K450, K550, K650 at scan rate of 1 V\/s are 29.658�10\r\n;\r\n36.,398�10\r\n9\r\n; 77.110�10\r\n9\r\ncm\/s respectively. Natrolite phase of zeolite K550 and K650 have\r\nchanged zeolite charge be netral. Based on these result, value k\r\nof zeolite K550 and K650 are\r\ngoing to be a reversible.\r\n0\r\n\r\n�\r\n\r\n8",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 12:12:35",
+      "rev_number": 11,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "title": "Reversibilitas Reaksi Elektrokimia pada Elektroda\r\nSuperkapasitor Zeolit Berbasis Silika Sekam Padi\r\nyang Dikalsinasi pada Suhu 450, 550, dan 650\r\n�\r\n\r\nC",
+      "date_type": "published",
+      "eprintid": 2798,
+      "datestamp": "2017-06-02 12:12:35",
+      "lastmod": "2017-11-17 03:12:17",
+      "userid": 781,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2798",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2798,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2656",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 233534,
+                  "mime_type": "application\/pdf",
+                  "fileid": 19158,
+                  "hash": "8a1f911e4d82dea2a3ba69347641f0e7",
+                  "filename": "Posman_penelitian1.pdf",
+                  "mtime": "2017-06-01 08:09:06",
+                  "hash_type": "MD5",
+                  "objectid": 2656,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19158"
+                }
+            ],
+            "main": "Posman_penelitian1.pdf",
+            "docid": 2656
+          }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/27\/98",
+      "date": 2017,
+      "publication": "Reversibilitas Reaksi Elektrokimia pada Elektroda Superkapasitor Zeolit Berbasis Silika Sekam Padi yang Dikalsinasi pada Suhu 450, 550, dan 650 C",
+      "issn": "2549-1156",
+      "creators": [
+        {
+          "id": "fatiaulfah8@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Ulfah",
+            "lineage": null,
+            "given": "Fatia"
+          }
+        },
+        {
+          "id": "suprihatin@fmipa.unila.ac.id",
+          "name": {
+            "family": "Suprihatin",
+            "honourific": null,
+            "lineage": null,
+            "given": "Suprihatin"
+          }
+        },
+        {
+          "id": "reip65@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Manurung",
+            "honourific": null,
+            "given": "Posman"
+          }
+        }
+      ]
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "contact_email": "fatiaulfah8@gmail.com",
+      "dir": "disk0\/00\/00\/58\/52",
+      "date": 2017,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ulfah",
+            "honourific": null,
+            "given": "Fatia"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suprihatin",
+            "honourific": null,
+            "given": "Suprihatin"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Manurung",
+            "lineage": null,
+            "given": "Posman"
+          }
+        }
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "datestamp": "2017-11-17 04:26:27",
+      "pagerange": "31-36",
+      "lastmod": "2017-11-17 04:26:27",
+      "userid": 490,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5852",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 5852,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18776",
+            "docid": 18776,
+            "main": "Jurnal Fatia Ulfah (1356-3132-1-PB).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54570",
+                  "objectid": 18776,
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-17 03:46:10",
+                  "hash": "b7cf39b9a5f91d11a584ab395d9bfa1f",
+                  "filename": "Jurnal Fatia Ulfah (1356-3132-1-PB).pdf",
+                  "fileid": 54570,
+                  "mime_type": "application\/pdf",
+                  "filesize": 219874,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 5852,
+      "abstract": "Zeolite based silica rice husk has been prepared at temperature of 450, 550, and 6500C. This research was conducted to study the effect of calcination temperature in forming of crystalline phases  and standard electron rate constant (k0). The zeolite K450 was formed quartz and bohmite phases, zeolite K550 and K650 was formed cristobalite, stishovite, gamma-alumina, and natrolite phases. Electrochemical reaction of zeolite K450, K550 and K650 are irreversible. Peak potential oxidation-reduction is between 240 mV and 390 mV. The higher value of calcination, the higher value of k0. The k0 value of zeolite K450, K550, K650 at scan rate of 1 V\/s are 29.658x10-8; 36.,398x10-9; 77.110x10-9 cm\/s respectively. Natrolite phase of zeolite K550 and K650 have changed zeolite charge be netral. Based on these result, value k0 of zeolite K550 and K650 are going to be a reversible",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-11-17 04:26:27",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 8,
+      "title": "Reversibilitas Reaksi Elektrokimia pada Elektroda Superkapasitor Zeolit Berbasis Silika Sekam Padi yang Dikalsinasi pada Suhu 450, 550, dan 650oC"
+    },
+    {
+      "publication": "Journal of Theoretical and Applied Information Technology",
+      "creators": [
+        {
+          "name": {
+            "given": "Warsito",
+            "family": "Warsito",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "1992-8645",
+      "dir": "disk0\/00\/00\/56\/55",
+      "contact_email": "warsito@fmipa.unila.ac.id",
+      "funders": [
+        "DRPM DIKTI"
+      ],
+      "keywords": "Data Acquisition, Water Level, Real Time, On Line, Sms Gateway",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18598",
+            "main": "4Vol95No20_jatit.pdf",
+            "docid": 18598,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52990",
+                  "objectid": 18598,
+                  "filesize": 512407,
+                  "datasetid": "document",
+                  "filename": "4Vol95No20_jatit.pdf",
+                  "hash": "f14d0c71e16b48236f39d553782b5a71",
+                  "mtime": "2017-11-16 04:02:55",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 52990
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 5655,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5655",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 1061,
+      "pagerange": "5340-5347",
+      "title": "ANALYSIS AND REDUCTION OF TIME SHIFT BETWEEN\r\nSENDING AND RECEIVING ON DATA ACQUISITION\r\nUSING SMS GATEWAY SYSTEM",
+      "volume": 95,
+      "rev_number": 13,
+      "metadata_visibility": "show",
+      "status_changed": "2017-11-16 06:48:32",
+      "related_url": [
+        {
+          "url": "http:\/\/www.jatit.org\/"
+        }
+      ],
+      "date": "2017-10-31",
+      "id_number": "http:\/\/www.jatit.org\/volumes\/Vol95No20\/4Vol95No20.pdf",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "ispublished": "pub",
+      "number": 20,
+      "contributors": [
+        {
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito"
+          },
+          "id": "warsito@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pauzi",
+            "lineage": null,
+            "given": "Gurum A."
+          },
+          "id": "gurum4in@yahoo.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "amir.supriyanto@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supriyanto",
+            "given": "Amir"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Putra",
+            "given": "Berli"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null,
+          "name": {
+            "given": "Lazuardi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Umar"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suciyati",
+            "given": "Sri Wahyu"
+          },
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Little Lion Scientific Jatit",
+      "corp_creators": [
+        "Jurusan Fisika FMIPA Unila"
+      ],
+      "lastmod": "2017-11-16 06:48:32",
+      "datestamp": "2017-11-16 06:48:32",
+      "projects": [
+        "Hibah Kompetensi"
+      ],
+      "eprintid": 5655,
+      "date_type": "published",
+      "official_url": "http:\/\/www.jatit.org\/volumes\/Vol95No20\/4Vol95No20.pdf",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "This paper presents the data acquisition system of water level measurements using short message service\r\n(SMS) gateway at frequency of Global System for Mobile communication (GSM) ranging from 900 MHz\r\nto 907.5 MHz. We use the HC-SR04 ultrasonic transducer with a frequency of 40 kHz and a measurement\r\nrange up to 5 m for water level detection. The output of the water level measurement are shown in LCD\r\nmonitor, stored in microSD, and transferred to mobile phone by SMS gateway system. The data\r\ntransmission using SMS gateway is realized using two models, namely the scheduled and requested\r\ntransmission. The analysis of the data transmission using SMS gateway shows the time shift due to the\r\ntransmission process for about 25 seconds. The modem processing time called the time-shift occurs due to\r\nthe processing, transmition, and receiving data into information. To reduce this time-shift, we designed the\r\ncommands in the program by creating and transmitting to a single information model. The average time\r\nreduction of time-shift decreases to about 4.15 seconds for 30 mobile phone number. The overall analysis\r\nof data acquisition system shows good results and efficient."
+    },
+    {
+      "eprintid": 5664,
+      "date_type": "published",
+      "official_url": "https:\/\/www.journals.elsevier.com\/results-in-physics",
+      "eprint_status": "archive",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "An enhancement in the secondary battery safety demands the optimum synthesis of glass-ceramics electrolytes\r\nwith modified ionic conductivity. To achieve improved ionic conductivity and safer operation of\r\nthe battery, we synthesized Li2O included zinc-tellurite glass-ceramics based electrolytes of chemical\r\ncomposition (85-x)TeO2�xLi2O�15ZnO, where x = 0, 5, 10, 15 mol%. Samples were prepared using the melt\r\nquenching method at 800 �C followed by thermal annealing at 320 �C for 3 h and characterized. The\r\neffects of varying temperature, alternating current (AC) frequency and Li2O concentration on the structure\r\nand ionic conductivity of such glass-ceramics were determined. The SEM images of the annealed\r\nglass-ceramic electrolytes displayed rough surface with a uniform distribution of nucleated crystal flakes\r\nwith sizes less than 1 lm. X-ray diffraction analysis confirmed the well crystalline nature of achieved\r\nelectrolytes. Incorporation of Li2O in the electrolytes was found to generate some new crystalline phases\r\nincluding hexagonal Li6(TeO6), monoclinic Zn2Te3O8 and monoclinic Li2Te2O5. The estimated crystallite\r\nsize of the electrolyte was ranged from �40 to 80 nm. AC impedance measurement revealed that the variation\r\nin the temperatures, Li2O contents, and high AC frequencies have a significant influence on the ionic\r\nconductivity of the electrolytes. Furthermore, electrolyte doped with 15 mol% of Li2O exhibited the optimum\r\nperformance with an ionic conductivity �2.4 � 10�7 S cm�1 at the frequency of 54 Hz and in the\r\ntemperature range of 323–473 K. This enhancement in the conductivity was attributed to the sizable\r\nalteration in the ions vibration and ruptures of covalent bonds in the electrolytes network structures.",
+      "date": "2017-07-04",
+      "id_number": "http:\/\/dx.doi.org\/10.1016\/j.rinp.2017.07.003",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "family": "Warsito",
+            "honourific": null
+          },
+          "id": "warsito@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": null,
+            "honourific": null,
+            "family": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        }
+      ],
+      "publisher": "Elsevier",
+      "corp_creators": [
+        "Jurusan Fisika FMIPA Unila"
+      ],
+      "lastmod": "2017-11-16 06:48:42",
+      "datestamp": "2017-11-16 06:48:42",
+      "title": "Improved ionic conductivity of lithium-zinc-tellurite glass-ceramic electrolytes",
+      "rev_number": 6,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2017-11-16 06:48:42",
+      "publication": "Results in Physics",
+      "creators": [
+        {
+          "name": {
+            "given": "Warsito",
+            "honourific": null,
+            "family": "Warsito",
+            "lineage": null
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        }
+      ],
+      "issn": "2211-3797",
+      "dir": "disk0\/00\/00\/56\/64",
+      "keywords": "Zinc-tellurite\r\nGlass-ceramics\r\nX-ray diffraction\r\nIonic conductivity\r\nLithium oxide",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 5664,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18610",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 849507,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-16 04:31:05",
+                  "filename": "warsito.pdf",
+                  "hash": "6f50c86676daf44f80fd3e6c297b8465",
+                  "fileid": 53082,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/53082",
+                  "objectid": 18610
+                }
+            ],
+            "docid": 18610,
+            "main": "warsito.pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5664",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 1061,
+      "pagerange": "2277-2280"
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "keywords": "Acquisition, Water Level, Real Time, On Line, Sms Gateway",
+      "type": "article",
+      "dir": "disk0\/00\/00\/71\/24",
+      "date": "2017-10-31",
+      "publication": "Journal of Theoretical and Applied Information Technology",
+      "issn": "1992-8645",
+      "creators": [
+        {
+          "name": {
+            "given": "Warsito",
+            "honourific": null,
+            "family": "Warsito",
+            "lineage": null
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pauzi",
+            "given": "Gurum A."
+          },
+          "id": "gurum4in@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Supriyanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amir"
+          },
+          "id": "amir.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Berli L",
+            "lineage": null,
+            "honourific": null,
+            "family": "Putra"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Lazuaardi",
+            "honourific": null,
+            "family": "Umar",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Suciyati",
+            "lineage": null,
+            "given": "Sri Wahyu"
+          }
+        }
+      ],
+      "pagerange": "5340-5347",
+      "datestamp": "2018-06-21 02:25:06",
+      "userid": 387,
+      "lastmod": "2018-06-21 02:25:06",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7124",
+      "refereed": "TRUE",
+      "number": 20,
+      "ispublished": "pub",
+      "publisher": "Little Lion Scientific Jatit",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 7124,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20119",
+            "docid": 20119,
+            "main": "AmirSupriyanto_Jurnal_Internasional.pdf",
+            "files": [
+                {
+                  "filesize": 1347331,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-09 06:09:33",
+                  "filename": "AmirSupriyanto_Jurnal_Internasional.pdf",
+                  "hash": "58cb8863375d7ef1e4cc3c7b2d59b3d9",
+                  "fileid": 64890,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/64890",
+                  "objectid": 20119
+                }
+            ]
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 7124,
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "This paper presents the data acquisition system of water level measurements using short message service (SMS) gateway at frequency of Global System for Mobile communication (GSM) ranging from 900 MHz to 907.5 MHz. We use the HC-SR04 ultrasonic transducer with a frequency of 40 kHz and a measurement range up to 5 m for water level detection. The output of the water level measurement are shown in LCD monitor, stored in microSD, and transferred to mobile phone by SMS gateway system. The data transmission using SMS gateway is realized using two models, namely the scheduled and requested transmission. The analysis of the data transmission using SMS gateway shows the time shift due to the transmission process for about 25 seconds. The modem processing time called the time-shift occurs due to the processing, transmition, and receiving data into information. To reduce this time-shift, we designed the commands in the program by creating and transmitting to a single information model. The average time reduction of time-shift decreases to about 4.15 seconds for 30 mobile phone number. The overall analysis of data acquisition system shows good results and efficient",
+      "status_changed": "2018-06-21 02:25:06",
+      "eprint_status": "archive",
+      "rev_number": 9,
+      "volume": 95,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.jatit.org\/volumes\/ninetyfive20.php",
+      "title": "ANALYSIS AND REDUCTION OF TIME SHIFT BETWEEN\r\nSENDING AND RECEIVING ON DATA ACQUISITION\r\nUSING SMS GATEWAY SYSTEM"
+    },
+    {
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "date": "2017-10-31",
+      "dir": "disk0\/00\/00\/78\/04",
+      "creators": [
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito",
+            "given": "Warsito"
+          }
+        },
+        {
+          "id": "gurum4in@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Pauzi",
+            "honourific": null,
+            "given": "Gurum A."
+          }
+        },
+        {
+          "id": "r.supriyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Supriyanto",
+            "given": "Supriyanto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Putra",
+            "given": "Berli L"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Lazuaardi",
+            "lineage": null,
+            "family": "Umar",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Suciyati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Wahyu"
+          }
+        }
+      ],
+      "issn": "1992-8645",
+      "publication": "Journal of Theoretical and Applied Information Technology",
+      "pagerange": "5340-5347",
+      "datestamp": "2018-06-26 08:02:22",
+      "lastmod": "2018-06-26 08:02:22",
+      "userid": 434,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7804",
+      "publisher": "Little Lion Scientific Jatit",
+      "documents": [
+          {
+            "main": "4Vol95No20.pdf",
+            "docid": 20844,
+            "files": [
+                {
+                  "objectid": 20844,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69876",
+                  "fileid": 69876,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-26 02:58:14",
+                  "filename": "4Vol95No20.pdf",
+                  "hash": "b6ac1d9cf7f0dea406c2af779a9c6571",
+                  "datasetid": "document",
+                  "filesize": 512331
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20844",
+            "eprintid": 7804,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 20,
+      "date_type": "published",
+      "eprintid": 7804,
+      "abstract": "This paper presents the data acquisition system of water level measurements using short message service (SMS) gateway at frequency of Global System for Mobile communication (GSM) ranging from 900 MHz to 907.5 MHz. We use the HC-SR04 ultrasonic transducer with a frequency of 40 kHz and a measurement range up to 5 m for water level detection. The output of the water level measurement are shown in LCD monitor, stored in microSD, and transferred to mobile phone by SMS gateway system. The data transmission using SMS gateway is realized using two models, namely the scheduled and requested transmission. The analysis of the data transmission using SMS gateway shows the time shift due to the transmission process for about 25 seconds. The modem processing time called the time-shift occurs due to the processing, transmition, and receiving data into information. To reduce this time-shift, we designed the commands in the program by creating and transmitting to a single information model. The average time reduction of time-shift decreases to about 4.15 seconds for 30 mobile phone number. The overall analysis of data acquisition system shows good results and efficient.",
+      "subjects": [
+        "QC"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-06-26 08:02:22",
+      "metadata_visibility": "show",
+      "volume": 95,
+      "rev_number": 15,
+      "official_url": "http:\/\/www.jatit.org\/volumes\/Vol95No20\/4Vol95No20.pdf",
+      "title": "ANALYSIS AND REDUCTION OF TIME SHIFT BETWEEN \r\nSENDING AND RECEIVING ON DATA ACQUISITION \r\nUSING SMS GATEWAY SYSTEM"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27319",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41325",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/244487",
+                  "objectid": 41325,
+                  "filesize": 1362537,
+                  "datasetid": "document",
+                  "hash": "5a4cf1d0881773f03e6183a4dbb3e584",
+                  "filename": "Ciptaan SISA dan lampiran.pdf",
+                  "mtime": "2021-01-15 02:21:18",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 244487
+                }
+            ],
+            "main": "Ciptaan SISA dan lampiran.pdf",
+            "docid": 41325,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 27319
+          }
+      ],
+      "datestamp": "2021-01-18 01:05:51",
+      "lastmod": "2021-01-18 01:05:51",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "userid": 586,
+      "dir": "disk0\/00\/02\/73\/19",
+      "date": "2017-09-06",
+      "id_number": "EC00201826248",
+      "patent_applicant": "LPPM Universitas Lampung",
+      "creators": [
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito",
+            "given": "Warsito"
+          }
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri Ratna",
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Gurum Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pauzi"
+          },
+          "id": "gurum.ahmadpauzi@fmipa.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "patent",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Surat Catatan Penciptaan EC00201826248 dan Lampiran karyanya",
+      "subjects": [
+        "TK"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-01-18 01:05:51",
+      "date_type": "published",
+      "eprintid": 27319
+    },
+    {
+      "eprintid": 27306,
+      "date_type": "published",
+      "title": "Surat Pencatatan Ciptaan dan dokumen karya yag dinilai",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "status_changed": "2021-01-14 03:08:24",
+      "eprint_status": "archive",
+      "subjects": [
+        "TK"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Warsito",
+            "honourific": null,
+            "family": "Warsito",
+            "lineage": null
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Junaidi"
+          }
+        },
+        {
+          "id": "gurum.ahmadpauzi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Gurum Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pauzi"
+          }
+        }
+      ],
+      "patent_applicant": "LPPM Universitas Lampung",
+      "id_number": "EC00201826248",
+      "date": "2017-09-06",
+      "dir": "disk0\/00\/02\/73\/06",
+      "type": "patent",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "documents": [
+          {
+            "eprintid": 27306,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Ciptaan SISA dan lampiran.pdf",
+            "docid": 41315,
+            "files": [
+                {
+                  "mtime": "2021-01-13 08:40:33",
+                  "hash_type": "MD5",
+                  "hash": "5a4cf1d0881773f03e6183a4dbb3e584",
+                  "filename": "Ciptaan SISA dan lampiran.pdf",
+                  "fileid": 244411,
+                  "mime_type": "application\/pdf",
+                  "filesize": 1362537,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/244411",
+                  "objectid": 41315
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41315",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27306",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "userid": 586,
+      "lastmod": "2021-01-14 03:08:24",
+      "datestamp": "2021-01-14 03:08:24"
+    },
+    {
+      "editors": [
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Warsito",
+            "lineage": null,
+            "given": "Warsito"
+          }
+        }
+      ],
+      "type": "book",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "creators": [
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsito",
+            "given": "warsito"
+          }
+        }
+      ],
+      "date": "2017-03-01",
+      "dir": "disk0\/00\/00\/26\/10",
+      "pages": 83,
+      "corp_creators": [
+        "Fisika FMIPA Unila"
+      ],
+      "lastmod": "2017-06-02 11:43:51",
+      "userid": 1061,
+      "datestamp": "2017-06-02 11:43:51",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "AURA printing",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2610,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 2492,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18037",
+                  "mime_type": "application\/pdf",
+                  "fileid": 18037,
+                  "filename": "Warsito_Insentif_Buku_Referensi_Terbit2017.pdf",
+                  "hash": "36014f9161b373e7d187fb717717a28b",
+                  "mtime": "2017-05-31 09:51:04",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1802765
+                }
+            ],
+            "docid": 2492,
+            "main": "Warsito_Insentif_Buku_Referensi_Terbit2017.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2492",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2610",
+      "refereed": "TRUE",
+      "eprintid": 2610,
+      "isbn": "978-602-6565-77-8",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2017-06-02 11:43:51",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Pada bagian pertama dan kedua saya akan menyampaikan beberapa pengantar terkait dengan sistem sensor, akuisisi data. Pada bagian ketiga dan keempat akan menjelaskan terkait dengan perkembangan sistem sensor optik khususnya optocoupler dan sensor magnetik, karakteristik dan penerapannya. Pada bagian kelima, akan membahas tren perkembangan sistem sensor dan akuisisi data saat ini serta peluang di masa depan. Bagian penutup akan mengulas posisi sains instrumentasi dalam perkembangan suatu sistem sensor.",
+      "title": "SISTEM INSTRUMENTASI: SERI APLIKASI SENSOR OPTIK DAN MAGNETIK",
+      "rev_number": 8,
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 13859,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 17,
+      "official_url": "https:\/\/jurnal.polinela.ac.id\/index.php\/JPPT",
+      "title": "Rendemen dan Skrining Fitokimia pada Ekstrak Daun Sanseviera sp.",
+      "abstract": "The aims of this research was determined from yield analysis on the leaves extract of Sansevieria trifasciata and Sansevieria cylindrica. It was also determined by the presence of bioactive compounds that have the potential as antioxidants (phytochemical screening) on the leaves extract of S. trifasciata and S. cylindrica.The method used was a stratified extraction method with three types of solvent, ie non-polar solvent in the form of N Hexan; A semi-polar solvent of Aceton; And a polar solvent of Ethanol. The identification of six types of phytochemical compounds, the triterpenoid and steroid compounds, saponins, phenols, flavonoids, quinones and alkaloids. The result of rendement analysis showed that S. trifasciata yield was higher than S. cylindrica. The yield of S. trifasciata was 7.89 % and S. cylindrica 6.79%. The result of phytochemical compound analysis obtained three phytochemical compounds contained in S. trifasciata, named triterpenoid group compounds and steroids and flavonoids. Meanwhile, the results of the analysis of phytochemical compounds contained in S. cylindrica also obtained three phytochemical compounds, namely triterpenoid compounds and steroidal groups and alkaloids.",
+      "subjects": [
+        "QC",
+        "QK"
+      ],
+      "status_changed": "2019-08-25 17:06:43",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/38\/59",
+      "date": 2017,
+      "creators": [
+        {
+          "id": "whika@ecampus.ut.ac.id",
+          "name": {
+            "given": "Febria Dewatisari",
+            "lineage": null,
+            "honourific": null,
+            "family": "Whika"
+          }
+        },
+        {
+          "id": "lenirumiyanti@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rumiyanti",
+            "honourific": null,
+            "family": "Leni",
+            "lineage": null
+          }
+        },
+        {
+          "id": "ismi.rakhmawati@fkip.unila.ac.id",
+          "name": {
+            "given": "Rakhmawati",
+            "family": "Ismi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "1410-5020",
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13859",
+      "publisher": "Politeknik Negeri Lampung",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 13859,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26888",
+            "docid": 26888,
+            "main": "336-1419-1-PB mb whika.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 120964,
+                  "filename": "336-1419-1-PB mb whika.pdf",
+                  "hash": "33c7e0149d826604faf552c38df45a01",
+                  "mtime": "2019-08-19 04:24:03",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 311276,
+                  "objectid": 26888,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120964"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 3,
+      "datestamp": "2019-08-25 17:06:43",
+      "pagerange": "197-202",
+      "corp_creators": [
+        "Universitas Terbuka",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-08-25 17:06:43",
+      "userid": 1167
+    },
+    {
+      "eprintid": 9856,
+      "date_type": "published",
+      "title": "Rendemen dan Skrining Fitokimia pada Ekstrak Daun Sanseviera sp.",
+      "official_url": "http:\/\/jurnal.polinela.ac.id\/index.php\/JPPT\/article\/view\/336",
+      "metadata_visibility": "show",
+      "volume": 17,
+      "rev_number": 6,
+      "status_changed": "2018-11-14 02:48:20",
+      "eprint_status": "archive",
+      "abstract": "The aims of this research was determined from yield analysis on the leaves extract of Sansevieria trifasciata and Sansevieria cylindrica. It was also determined by the presence of bioactive compounds that have the potential as antioxidants (phytochemical screening) on the leaves extract of S. trifasciata and S. cylindrica.The method used was a stratified extraction method with three types of solvent, ie non-polar solvent in the form of N Hexan; A semi-polar solvent of Aceton; And a polar solvent of Ethanol. The identification of six types of phytochemical compounds, the triterpenoid and steroid compounds, saponins, phenols, flavonoids, quinones and alkaloids. The result of rendement analysis showed that S. trifasciata yield was higher than S. cylindrica. The yield of S. trifasciata was 7.89 % and S. cylindrica 6.79%. The result of phytochemical compound analysis obtained three phytochemical compounds contained in S. trifasciata, named triterpenoid group compounds and steroids and flavonoids. Meanwhile, the results of the analysis of phytochemical compounds contained in S. cylindrica also obtained three phytochemical compounds, namely triterpenoid compounds and steroidal groups and alkaloids.\r\nKey words : Rendemen, Sansevieria sp, Phytochemical screening.",
+      "subjects": [
+        "QK"
+      ],
+      "issn": "1410-5020",
+      "creators": [
+        {
+          "name": {
+            "family": "Whika",
+            "honourific": null,
+            "lineage": null,
+            "given": "Febria Dewatisari"
+          },
+          "id": "whika@ecampus.ut.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Leni",
+            "lineage": null,
+            "given": "Rumiyanti"
+          },
+          "id": "lenirumiyanti@fmipa.unila.ac.id"
+        },
+        {
+          "id": "ismi.rakhmawati@fkip.unila.ac.id",
+          "name": {
+            "given": "Rakhmawati",
+            "family": "Ismi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "date": 2017,
+      "dir": "disk0\/00\/00\/98\/56",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publisher": "Poloiteknik Negeri Lampung",
+      "documents": [
+          {
+            "main": "336-1419-1-PB.pdf",
+            "docid": 22865,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 92904,
+                  "filename": "336-1419-1-PB.pdf",
+                  "hash": "33c7e0149d826604faf552c38df45a01",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-13 07:16:24",
+                  "datasetid": "document",
+                  "filesize": 311276,
+                  "objectid": 22865,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/92904"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22865",
+            "eprintid": 9856,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 3,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9856",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Terbuka",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2018-11-14 02:48:20",
+      "userid": 1167,
+      "datestamp": "2018-11-14 02:48:20",
+      "pagerange": "197-202"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2017-11-02 03:08:19",
+      "related_url": [
+        {
+          "type": "author"
+        }
+      ],
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "It has been conducted a research to analyze the scrap metals as voltaic cells. The research\r\nobjective was to utilize scrap metals as an alternative source of electrical energy and as a\r\nvoltaic cell to the battery. The materials required consist of a electrode copper (Cu), iron (Fe),\r\naluminum (Al) and zinc (Zn), solution of CuSO\r\n4\r\n.5H\r\n2\r\nO, solution of ZnSO\r\nO, solution of\r\nAl\r\n2\r\n(SO\r\n4\r\n)3.7H\r\n2\r\nO, solution of FeSO\r\n4\r\n.8H\r\n2\r\n4\r\nO, jelly powder, and salt NaCl. The electrode couple are\r\nCu-Al, Cu-Fe, Cu-Zn, Al-Zn, and Fe-Zn. Volume variation are 20 ml, 25 ml, 30 ml, 35 ml, and\r\n40 ml. Data of the voltage and current taken using a multimeter on each cell, without a load,\r\nwith a load, and additional load. The results of the research were analyzed the value of power,\r\ncurrent, and voltage with the greatest results in Cu-Zn electrode pair. The results are 14.949 mW,\r\n3.05 mA, and 4.96 V.\r\n.7H\r\n2",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/article\/view\/1359\/1189",
+      "title": "Analisis Kelistrikan Sel Volta Memanfaatkan Logam Bekas",
+      "rev_number": 5,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "eprintid": 4206,
+      "date_type": "published",
+      "lastmod": "2017-11-02 03:08:19",
+      "userid": 387,
+      "pagerange": "49-57",
+      "datestamp": "2017-11-02 03:08:19",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4206",
+      "full_text_status": "none",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yulianti",
+            "honourific": null,
+            "given": "Devi"
+          }
+        },
+        {
+          "name": {
+            "family": "Supriyanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Amir"
+          },
+          "id": "amir.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": "gurum4in@yahoo.com",
+          "name": {
+            "given": "Gurum A.",
+            "lineage": null,
+            "family": "Pauzi",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "2303-016X",
+      "dir": "disk0\/00\/00\/42\/06",
+      "date": "2017-01-03",
+      "id_number": "E-ISSN 2549-1156."
+    }
+]
+

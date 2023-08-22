@@ -1,0 +1,961 @@
+[
+    {
+      "pres_type": "poster",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28188",
+            "format": "image",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 28188,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/129647",
+                  "datasetid": "document",
+                  "filesize": 621729,
+                  "mime_type": "image\/jpeg",
+                  "fileid": 129647,
+                  "filename": "Standing banner Falqi.jpg",
+                  "hash": "814c1165e5ad50a62951ca2455883b0d",
+                  "mtime": "2019-11-03 02:12:03",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 28188,
+            "main": "Standing banner Falqi.jpg",
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15047
+          }
+      ],
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15047",
+      "lastmod": "2019-11-04 08:28:37",
+      "userid": 550,
+      "datestamp": "2019-11-04 08:28:37",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Falqi",
+            "family": "Aljizi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Esti",
+            "lineage": null,
+            "family": "Harpeni",
+            "honourific": null
+          },
+          "id": "edypeni@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Brite",
+            "lineage": null,
+            "given": "Margie"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suparmono",
+            "given": "Suparmono"
+          }
+        }
+      ],
+      "date": 2019,
+      "dir": "disk0\/00\/01\/50\/47",
+      "type": "conference_item",
+      "divisions": [
+        "FP21"
+      ],
+      "official_url": "http:\/\/icmaces.unila.ac.id\/",
+      "title": "Immersion bivalent vaccine against vibriosis in snubnose pompanos Trachinotus blochii (Lacepede, 1801)",
+      "event_dates": "23-24 Agustus 2019",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "event_type": "conference",
+      "status_changed": "2019-11-04 08:28:37",
+      "eprint_status": "archive",
+      "abstract": "The   bivalent  vaccine  Vibrio  parahaemolyticus   and   V.   vulnificus   confers   protection   to\r\nsnubnose pompanos after its administration  by immersion in two doses,  namely 101  CFU\/ml and 108  CFU\/ml. The main objective of this study was to observe its effectiveness against the two pathogenic  vibrios, V. parahaemolyticcus and  V.  vulnificus. Snubnose pompanos sizing around 3 cm  were immunized whit the  bivalent vaccine by 30  minutes of immersion. The overall results indicated that the 108   CFU\/ml vaccine increased leucocyte count, phagocytic activity,  phagocytic  index  and  antibody  titres,  as well  as  induced  protection  levels  higher than 70%. The  108   CFU\/ml  bivalent vaccine provided more protection against V.vulnificus, better than against V. parahaeomolyticus.\r\nKeywords:  V.parahaemolyticus, V. vulnificus  immune, antibody titres, protection levels",
+      "subjects": [
+        "SH"
+      ],
+      "event_location": "Emersia Hotel, Lampung, Indonesia",
+      "eprintid": 15047,
+      "event_title": "This International Conference on Marine and Coastal Sciences",
+      "date_type": "published"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12337",
+      "full_text_status": "public",
+      "publisher": "Fakultas Perikanan dan Kelautan",
+      "documents": [
+          {
+            "mime_type": "application\/xml",
+            "language": "id",
+            "content": "published",
+            "eprintid": 12337,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25313",
+            "rev_number": 3,
+            "docid": 25313,
+            "main": 12542,
+            "files": [
+                {
+                  "mime_type": "application\/xml",
+                  "fileid": 109995,
+                  "filename": 12542,
+                  "hash": "048d909b205b51b5168e3d6175f22756",
+                  "mtime": "2019-05-09 09:58:53",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 26749,
+                  "objectid": 25313,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/109995"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "pagerange": "1-8",
+      "datestamp": "2019-05-10 02:33:06",
+      "lastmod": "2019-05-10 02:33:06",
+      "userid": 142,
+      "date": "2019-04",
+      "dir": "disk0\/00\/01\/23\/37",
+      "issn": "p-ISSN: 2089-7790, e-ISSN: 2502-6194",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hidayat",
+            "given": "Kurno Priawan"
+          }
+        },
+        {
+          "name": {
+            "given": "Herman",
+            "lineage": null,
+            "family": "Yulianto",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Putri",
+            "given": "Berta"
+          }
+        },
+        {
+          "name": {
+            "given": "Nuning Noor",
+            "family": "Mahmudah",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Depik",
+      "divisions": [
+        "FP21"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 8,
+      "title": "Performance of snubnose pompano (Trachinotus blochii) in both monoculture and polyculture within green mussels (Perna viridis) cultivated on raft system",
+      "official_url": "http:\/\/jurnal.unsyiah.ac.id\/depik\/article\/view\/12542\/pdf",
+      "abstract": "Abstract\r\n\r\nThe snubnose pompano Trachinotus blochii is one of the important commercial fishery commodity in the Indonesian market. The increasing of the market demand has led some efforts to increase the production of this fish. So do the increasing need for green mussels Perna viridis meat. Therefore it is necessary to evaluate the performance of both species in the polyculture system by using raft culture. This study aims to compare the growth performance of snubnose pompano cultivated on a monoculture system and polyculture within green mussels in a raft system. The parameter observed was the differences in the  growth performance of both species and the increase in total weight and survival (SR) of the fish. The results showed that the growth of snubnose pompano did not provide a significant difference in the growth of both cultivating systems whether in monoculture or polyculture system, likewise the shell length and width of the green mussels. We conclude that it is profitable to cultivate both organisms on a polyculture system because it can harvest both green mussels and snubnose pompano together in a period.",
+      "subjects": [
+        "SH"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2019-05-10 02:33:06",
+      "date_type": "published",
+      "eprintid": 12337
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FP21"
+      ],
+      "date": "2019-08",
+      "corp_creators": [
+        "KKP"
+      ],
+      "lastmod": "2021-06-08 16:20:25",
+      "datestamp": "2021-06-08 16:20:25",
+      "number": 14,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ali",
+            "given": "Mahrus"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "mahrus.ali@fp.unila.ac.id"
+        }
+      ],
+      "publisher": "BBRP2BKP",
+      "eprintid": 32358,
+      "date_type": "completed",
+      "projects": [
+        "Terasi"
+      ],
+      "eprint_status": "archive",
+      "subjects": [
+        "AI"
+      ],
+      "abstract": "Kecalok is recognized as a typical shrimp sauce traditionally produced by the Malay inhabitants in Bangka Island and Palembang, Southern region of Sumatra. Comparing to terasi, the most common Indonesian fermented shrimp, the information on kecalok has rarely been reported. This study aimed to obtain the characteristics of both the geographical origin of kecalok product from Bangka and Palembang. A descriptive analysis was used to observe the profiles of both kecalok products including sensory, microbiology, proximate, and physical analysis. Results showed that kecalok from both locations had similar characteristics, ie a distinctive taste and aroma, high nutrition value, and containing some useful bacteria (LAB) which have beneficial role in human body. Therefore, kecalok will be a prospective functional based-indigenous food in Indonesia.",
+      "official_url": "https:\/\/www.bbp4b.litbang.kkp.go.id\/squalen-bulletin\/index.php\/squalen",
+      "funders": [
+        "Dikti"
+      ],
+      "publication": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology",
+      "creators": [
+        {
+          "id": "mahrus.ali@fp.unila.ac.id",
+          "name": {
+            "given": "ali",
+            "family": "Mahrus Ali",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "akurniawan@gmail.com",
+          "name": {
+            "given": "kurniawan",
+            "honourific": null,
+            "family": "Ardiansyah Kurniawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "nuning@polinela.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nuning Mahmudah Noor",
+            "lineage": null,
+            "given": "noor"
+          }
+        }
+      ],
+      "issn": "ISSN: 2406-9272",
+      "dir": "disk0\/00\/03\/23\/58",
+      "userid": 204,
+      "pagerange": "93-101",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146761",
+            "rev_number": 1,
+            "docid": 146761,
+            "main": "Preliminary Study on Kecalok, An Indigenous Shrimp Sauce from Indonesia.pdf",
+            "files": [
+                {
+                  "objectid": 146761,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382865",
+                  "fileid": 382865,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-06-08 14:20:24",
+                  "hash_type": "MD5",
+                  "filename": "Preliminary Study on Kecalok, An Indigenous Shrimp Sauce from Indonesia.pdf",
+                  "hash": "c5d512a872678c25b512f358e31d6694",
+                  "datasetid": "document",
+                  "filesize": 765045
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 32358,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32358",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "status_changed": "2021-06-08 16:20:25",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/www.bbp4b.litbang.kkp.go.id\/squalen-bulletin\/index.php\/squalen\/article\/view\/386"
+        }
+      ],
+      "title": "Preliminary Study on Kecalok, An Indigenous Shrimp Sauce from Indonesia",
+      "volume": 2,
+      "rev_number": 8,
+      "metadata_visibility": "show"
+    },
+    {
+      "id_number": "10.13170\/depik.8.2.13570",
+      "dir": "disk0\/00\/01\/48\/42",
+      "date": "2019-08",
+      "issn": "2502-6194",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Marbun",
+            "lineage": null,
+            "given": "Juliana"
+          },
+          "id": null
+        },
+        {
+          "id": "edypeni@yahoo.com",
+          "name": {
+            "family": "Harpeni",
+            "honourific": null,
+            "lineage": null,
+            "given": "Esti"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wardiyanto",
+            "lineage": null,
+            "given": "Wardiyanto"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Depik Jurnal Ilmu-Ilmu Perairan, Pesisir dan Perikanan (Depik)",
+      "divisions": [
+        "FP21"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14842",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 27970,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/128241",
+                  "datasetid": "document",
+                  "filesize": 557021,
+                  "fileid": 128241,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-10-31 07:45:48",
+                  "hash_type": "MD5",
+                  "hash": "1c9f00b7c936385a31587bc0dbd2826b",
+                  "filename": "Marbun dkk.pdf"
+                }
+            ],
+            "main": "Marbun dkk.pdf",
+            "docid": 27970,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27970",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14842,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27972",
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/128246",
+                  "objectid": 27972,
+                  "filename": 13570,
+                  "hash": "d35d236ece8b01eaad28e95fc5963cfd",
+                  "mtime": "2019-10-31 07:47:08",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/xml",
+                  "fileid": 128246,
+                  "filesize": 28827,
+                  "datasetid": "document"
+                }
+            ],
+            "main": 13570,
+            "docid": 27972,
+            "content": "published",
+            "language": "id",
+            "mime_type": "application\/xml",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 14842
+          }
+      ],
+      "publisher": "Faculty of Marine and Fisheries Syiah Kuala University, Indonesian Association of Oceanologists, and  School of Syiah Kuala University and Center for Marine and Fishery Studies of Syiah Kuala University, Banda Aceh, Indonesia.",
+      "number": 2,
+      "ispublished": "pub",
+      "datestamp": "2019-11-04 07:21:42",
+      "pagerange": "76-86",
+      "lastmod": "2019-11-04 07:21:42",
+      "userid": 550,
+      "date_type": "published",
+      "eprintid": 14842,
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "volume": 8,
+      "title": "Penanganan penyakit \r\nw hite f eces pada udang vaname \r\nLitopenaeus vannamei menggunakan aplikasi pakan yang dicampur ekstrak lengkuas merah Alpinia purpurata k. schum",
+      "abstract": "Abstract. The main problem in vaname shrimp Litopenaeus vannamei culture is a disease. One of the diseases that can infect vaname shrimp is White Feces Disease (WFD) caused by bacteria Vibrio sp. The Treatment can be done by using Red galangal Rhizome extract. Since MBC testing result galangal extract can be a treat of Vibrio sp bacteria. This research used the completely randomized design (RAL) with five treatments and three replications which treatment A (negative control),          B (positive control), C (7.5 grams), D (10 grams) and (12.5 grams) which are mixed with pellet for treating White Feces Disease in vaname shrimp. The result shows that red galangal rhizome extracted give effect to SR (Survival Rate), RPS (Relative Percent Survival), TVC (Total Vibrio Count), but it didn’t give effect to clinical indication and   histopathology. Keywords : vaname shrimp, white feces disease, extract red galangal Rhizome",
+      "subjects": [
+        "SH"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/www.jurnal.unsyiah.ac.id\/depik\/article\/view\/13570"
+        }
+      ],
+      "status_changed": "2019-11-04 07:21:42",
+      "eprint_status": "archive"
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 15043,
+            "placement": 1,
+            "security": "public",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "main": "Etika dkk.pdf",
+            "docid": 28183,
+            "files": [
+                {
+                  "objectid": 28183,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/129622",
+                  "datasetid": "document",
+                  "filesize": 1119044,
+                  "fileid": 129622,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2019-11-03 01:55:14",
+                  "hash_type": "MD5",
+                  "hash": "f449aeedd5f62c06ddc8e61429173b42",
+                  "filename": "Etika dkk.pdf"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28183"
+          }
+      ],
+      "publisher": "Department of Marine Sciences, Trunojoyo University of Madura, Indonesia",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15043",
+      "full_text_status": "public",
+      "lastmod": "2019-11-04 07:50:33",
+      "userid": 550,
+      "pagerange": "52-64",
+      "datestamp": "2019-11-04 07:50:33",
+      "issn": "2476-991",
+      "creators": [
+        {
+          "name": {
+            "given": "Etika",
+            "lineage": null,
+            "family": "Oktaviani",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "edypeni@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Harpeni",
+            "lineage": null,
+            "given": "Esti"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wardiyanto",
+            "lineage": null,
+            "given": "Wardiyanto"
+          },
+          "id": null
+        }
+      ],
+      "publication": "Jurnal Kelautan: Indonesian Journal of Marine Science and Technology",
+      "id_number": "10.21107\/jk.v12i1.4997",
+      "dir": "disk0\/00\/01\/50\/43",
+      "date": 2019,
+      "type": "article",
+      "divisions": [
+        "FP21"
+      ],
+      "title": "Fitofarmaka Daun Sambung Nyawa (Gynura procumbens) Untuk Meningkatkan Imunitas Ikan Kerapu Macan (Epinephelus fuscoguttatus Forsskal 1775) Terhadap Serangan Bakteri Vibrio alginolyticus",
+      "official_url": "https:\/\/journal.trunojoyo.ac.id\/jurnalkelautan\/article\/view\/4997",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "volume": 12,
+      "status_changed": "2019-11-04 07:50:33",
+      "eprint_status": "archive",
+      "abstract": "Fitopharmaca in Indonesia is already familiar and is widely used for traditional treatments. Gynura procumbens is one of the plants that has been widely used for human medicine because it’s secondary metabolites content that have medicinal properties. These ingredients are flavonoids, tannins and saponins. In addition to human medicine, the leaves of Gynura procumbens also have the potential to be used as fish medicine in order to prevent disease. Vibriosis is a bacterial disease caused by Vibrio alginolyticus and is susceptible to attacking tiger groupers. The use of synthetic antibiotics has been widely used but has many adverse effects, so it needs new alternatives for the prevention of vibriosis. One of them is the use of Gynura procumbens leaf extract, this is supported because of its potential. This study aims to examine the effect of Gynura procumbens extract to improve the body resistance of tiger grouper so that it can prevent the attack of Vibrio alginolyticus bacteria. The method carried out included material extraction, phytopharmaca test, in vitro test, in vivo test, hematology test, and histopathology test. The most effective dose of Gynura procumbens leaf extract to increase the body resistance of tiger grouper and prevent the attack of Vibrio alginolyticus is a dose of 700 ppm. \r\nKeyword: Sambung Nyawa Leaves, prevention, vibriosis",
+      "subjects": [
+        "SH"
+      ],
+      "eprintid": 15043,
+      "date_type": "published"
+    },
+    {
+      "title": "CONCENTRATION OF HEAVY METALS (Pb AND Cu) IN SEDIMENT AND BLOOD COCKLE(Anadara granosa Linn, 1758) IN PASARAN ISLAND WATERS, BANDAR LAMPUNG",
+      "official_url": "http:\/\/ojs.unimal.ac.id\/index.php\/acta-aquatica\/index",
+      "metadata_visibility": "show",
+      "volume": 6,
+      "rev_number": 6,
+      "succeeds": 9929,
+      "status_changed": "2020-05-18 02:04:27",
+      "eprint_status": "archive",
+      "abstract": "Pasaran island waters have marine resources such as blood cockle  (Anadara granosa). The amount of waste from land and around of waters contain heavy metall such as Pb and Cu than can affect for the organism. Blood cockle has a potential used as bioindicator to represent the heavy metal in water because blood cockle has capabilities to accumulate the small concentration of heavy metal. The aim of this research are to analysis concentration of Pb and Cu in sediment and blood cockle. Method used in this research purposive random sampling to determine research station and sampling method. The concentration of heavy metal analyzed using MP-AES method. The result showed that the highest concentration in blood cockle of Pb is 206,51 mg\/kg and Cu is 95,11 mg\/kg. The highest concentration in sediment of Pb is 634,49 mg\/kg and Cu is 366,85 mg\/kg.",
+      "subjects": [
+        "SH"
+      ],
+      "eprintid": 19732,
+      "date_type": "published",
+      "publisher": "Universitas Malikussaleh",
+      "documents": [
+          {
+            "eprintid": 19732,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "content": "published",
+            "main": "Jurnal Acta fix.docx",
+            "docid": 32979,
+            "files": [
+                {
+                  "fileid": 186079,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-14 14:20:30",
+                  "filename": "Jurnal Acta fix.docx",
+                  "hash": "6c7f5d92a4af613aabcc7ed6c00afd6b",
+                  "datasetid": "document",
+                  "filesize": 241716,
+                  "objectid": 32979,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/186079"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32979",
+            "rev_number": 3
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19732",
+      "lastmod": "2020-05-18 02:04:27",
+      "userid": 274,
+      "datestamp": "2020-05-18 02:04:27",
+      "issn": "2614-3178",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmah",
+            "lineage": null,
+            "given": "Siti"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wijayanti",
+            "given": "Henni"
+          }
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null,
+            "family": "Efendi"
+          }
+        }
+      ],
+      "publication": "Acta Aquatica",
+      "dir": "disk0\/00\/01\/97\/32",
+      "date": "2019-04",
+      "type": "article",
+      "divisions": [
+        "FP21"
+      ]
+    },
+    {
+      "publication": "Berkala Perikanan Terubuk",
+      "creators": [
+        {
+          "name": {
+            "given": "Novi",
+            "honourific": null,
+            "family": "Santika",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Wardiyanto",
+            "lineage": null,
+            "family": "Wardiyanto",
+            "honourific": null
+          }
+        },
+        {
+          "id": "edypeni@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Harpeni",
+            "given": "Esti"
+          }
+        }
+      ],
+      "issn": "2654-2714",
+      "date": 2019,
+      "dir": "disk0\/00\/02\/16\/68",
+      "id_number": "10.31258\/terubuk.47.2.134-150",
+      "type": "article",
+      "divisions": [
+        "FP21"
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 21668,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 35054,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200557",
+                  "datasetid": "document",
+                  "filesize": 876356,
+                  "fileid": 200557,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-06-03 08:42:17",
+                  "hash_type": "MD5",
+                  "filename": "Santika dkk.pdf",
+                  "hash": "23923bf2d4dabb9fd74499804fe11bbd"
+                }
+            ],
+            "docid": 35054,
+            "main": "Santika dkk.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35054",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "publisher": "Himpunan Alumni FPIK Universitas Riau",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21668",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2020-06-03 10:05:46",
+      "userid": 550,
+      "pagerange": "134-150",
+      "datestamp": "2020-06-03 10:05:46",
+      "eprintid": 21668,
+      "date_type": "published",
+      "official_url": "https:\/\/terubuk.ejournal.unri.ac.id\/index.php\/JT\/article\/view\/7879",
+      "title": "UTILIZATION OF SAMBUNG NYAWA LEAF EXTRACTS Gynura procumbens (Lour) Merr. FOR TREATMENT OF Vibrio alginolyticus IN TIGER GROUPER (Epinephelus fuscoguttatus Forsskal, 1775)",
+      "volume": 47,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2020-06-03 10:05:46",
+      "subjects": [
+        "SF",
+        "SH"
+      ],
+      "abstract": "Tiger Grouper is one of the sea water fish commodities that is quite popular with the community and has a high economic value. The problem faced by farmers is the attack of Vibriosis, one of which is caused by the Vibrio alginolyticus bacteria. The use of synthetic antibiotics has been widely used but has many adverse effects, so it needs new alternatives for the treatment of Vibriosis disease. One of them is by using the extract of lifelong leaf extract. Life-sustaining plants (Gynura procumbens) contain secondary metabolites such as flavonoids, tannins, and antibacterial saponins. This study aims to determine the best dosage of lifelong leaf extract for the treatment of Vibriosis disease in tiger grouper. The study was conducted in two stages, namely in vitro and in vivo. Before the fish were treated with feed that had been given a sambung deca leaf extract, the fish were challenged using Vibrio alginolyticus with a density of 108 CFU \/ mL as much as 0.1 mL \/ head and then fed with treatment and maintained for 21 days. The results of the in vitro study showed that the life of sambung leaf extract at a dose of 700 ppm had a broad inhibitory effect on V. alginolyticus, which amounted to 10.47 mm compared to other treatments. Whereas when continued for in vivo testing, a dose of 350 ppm in general has been applied for the treatment of attacks of Vibrio alginolyticus in tiger grouper.\r\n\r\nKeywords\r\n\r\nSambung Nyawa Leaf; Treatment; Vibriosis"
+    },
+    {
+      "ispublished": "pub",
+      "number": 8,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Society for Indonesian Biodiversity",
+      "datestamp": "2019-11-18 05:12:17",
+      "corp_creators": [
+        "Department of Marine Science, Faculty of Fisheries and Marine Science, Universitas Diponegoro. Jl. Prof. Dr. Soedharto, SH., Tembalang, Semarang 50275, Central Java, Indonesia. Tel.\/fax. +62-24-7474698, email: agustrianto.undip@gmail.com",
+        "Department of Fisheries and Marine, Universitas Lampung. Jl. Prof. Dr. Sumantri Brojonegoro No.1, Bandar Lampung, Lampung, Indonesia",
+        "Universitas Islam Negeri Sunan Ampel Surabaya. Jl. A. Yani 117 Surabaya Jl. Ahmad Yani No.117, Surabaya 60237, East Java, Indonesia",
+        "Central Laboratory for Research and Services, Universitas Diponegoro. Jl. Prof. Soedarto, SH, Tembalang, Semarang 50275, Central Java, Indonesia"
+      ],
+      "lastmod": "2019-11-18 05:12:17",
+      "date": "2019-08",
+      "id_number": "10.13057\/biodiv\/d200227",
+      "divisions": [
+        "FP21"
+      ],
+      "type": "article",
+      "official_url": "https:\/\/smujo.id\/biodiv\/index",
+      "subjects": [
+        "SH"
+      ],
+      "abstract": "The study aimed to isolate and identify the sponge-associated microorganisms producing the antibacterial substances. The sponge Reniera sp. was collected by hand during skin diving in Karimunjawa Islands, Indonesia. The microbial symbionts were isolated with the dilution method and screened with the overlay method against the MDR S. aureus and E. coli. The bacterium was cultured in Zobell medium, while the fungi were cultured in malt extract broth (MEB) medium. The isolates were identified based on the molecular method. A total of 46 bacteria and 43 fungi were isolated, which 7 bacteria and 20 fungi exhibited antibacterial activity against the MDR E. coli and S. aureus strains. The molecular identification revealed that the active isolates close to Pseudoalteromonas maricaloris (99%), Aspergillus nomius (96%), Eurotium rubrum (99%), and Penicillium sp. (100%). Fractionation of K.J.16.U extract gave a fraction that active to the S. aureus and E. coli strains at concentration 150 and 15 µg disk-1. The fraction K.J.16.U.1.4.4 exhibited stronger activity than that exhibited by chloramphenicol at 150 µg disk-1. The sponge Reniera sp. collected from Karimunjawa Islands comprise bacterial and fungal isolates produced antibacterial compounds that inhibited the growth the MDR E. coli and S. aureus strains. \r\nKeywords: Associate microorganisms, bioactive compounds, MDR pathogen, sponges Reniera",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 16624,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16624",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 16624,
+            "content": "published",
+            "language": "en",
+            "mime_type": "text\/html",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 33217,
+                  "fileid": 141691,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-15 10:12:32",
+                  "filename": 3961,
+                  "hash": "4d9ffb615a21a445fa565094346db2c2",
+                  "objectid": 29706,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/141691"
+                }
+            ],
+            "main": 3961,
+            "docid": 29706,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29706",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pagerange": "2302-2307",
+      "userid": 1239,
+      "dir": "disk0\/00\/01\/66\/24",
+      "publication": "BIODIVERSITAS",
+      "issn": "2085-4722",
+      "creators": [
+        {
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Trianto",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Nirwani",
+            "lineage": null,
+            "family": "Nirwani",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "oktora.susanti",
+          "name": {
+            "lineage": null,
+            "family": "Susanti",
+            "honourific": null,
+            "given": "Oktora"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Maesaroh",
+            "honourific": null,
+            "given": "Dian Sari"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Radjasa",
+            "honourific": null,
+            "given": "Ocky Karna"
+          },
+          "id": null
+        }
+      ],
+      "volume": 20,
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "title": "The bioactivity of bacterium and fungi living associate with the sponge Reniera sp. against multidrug-resistant Staphylococcus aureus and Escherichia coli",
+      "status_changed": "2019-11-18 05:12:17",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/smujo.id\/biodiv\/article\/view\/3961"
+        }
+      ]
+    },
+    {
+      "event_location": "Bogor",
+      "event_title": "IOP Conference Series: Earth and Environmental Science",
+      "eprintid": 19918,
+      "date_type": "published",
+      "official_url": "https:\/\/iopscience.iop.org\/",
+      "title": "The intracellular photopigment and glutathione (GSH)\r\ndynamics in symbiodinium natural population during light\r\nstress and recovery",
+      "rev_number": 16,
+      "event_type": "conference",
+      "metadata_visibility": "show",
+      "status_changed": "2020-05-18 03:56:12",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/325\/1\/012015",
+          "type": "author"
+        }
+      ],
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QP",
+        "SH"
+      ],
+      "abstract": "It is already proven by scientists, that mass coral bleaching is an early signal for\r\nincreasing global temperature. Over the last decades, there was a lack of studies aimed at\r\nphotoinhibition in Symbiodinium during laboratory treatments. It was important to predict the\r\ninitial adaptation in relation to photo-inhibitory of photosynthesis accompanied by slight photoprotective\r\nmechanisms and gradual recovery of Symbiodinium. This information is important to\r\nunderstand the recovery mechanism of mass coral bleaching, which can help to develop\r\nsustainable management of the ecosystem. In our manuscript, we applied medium light stress\r\n[600 μmol (photon).m-2.s-1] to trigger changes in intracellular photo-pigments (chlorophyll a,\r\nchlorophyll c, carotenoid) and glutathione (GSH) contents in Symbiodinium. The result\r\nshowed that light-induced generated various depletion in chlorophyll (chl) a and chlorophyll\r\n(chl) c contents, and more production in intracellular carotenoid and GSH. The total\r\nintracellular GSH increased during the first 10 min of culture at high light treatment and\r\nfollowed by a decrease (at 60 min). The GSH recovery finished in Symbiodinium even after 6 h\r\nindicated the high ability of photo-protective processes in the species as another photoinhibition\r\neffect and its photosynthetic performance in the initial environment.",
+      "creators": [
+        {
+          "name": {
+            "given": "Neviaty",
+            "lineage": null,
+            "family": "Zamani",
+            "honourific": null
+          },
+          "id": "npzamani@gmail.com"
+        },
+        {
+          "id": "dsoedharma@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Soedharma",
+            "lineage": null,
+            "given": "Dedi"
+          }
+        },
+        {
+          "id": "madduppa@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Madduppa",
+            "lineage": null,
+            "given": "Hawis"
+          }
+        },
+        {
+          "name": {
+            "given": "Moh.",
+            "family": "Muhaemin",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "mmuhaemin@gmail.com"
+        }
+      ],
+      "date": "2019-09",
+      "dir": "disk0\/00\/01\/99\/18",
+      "type": "conference_item",
+      "divisions": [
+        "FP21"
+      ],
+      "ispublished": "pub",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/188528",
+                  "objectid": 33224,
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-18 03:24:02",
+                  "filename": "2019_IOP_Conf._Ser.__Earth_Environ._Sci._325_012015.pdf",
+                  "hash": "86e350a5cd12d1660979710bbe2a1ce0",
+                  "fileid": 188528,
+                  "mime_type": "application\/pdf",
+                  "filesize": 698436,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 33224,
+            "main": "2019_IOP_Conf._Ser.__Earth_Environ._Sci._325_012015.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33224",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19918,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19918",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Jurusan Ilmu Kelautan FPIK IPB",
+        "Jurusan Ilmu Kelautan FPIK IPB",
+        "Jurusan Ilmu Kelautan FPIK IPB",
+        "Jurusan Perikanan dan Kelautan FP Unila"
+      ],
+      "userid": 475,
+      "lastmod": "2020-05-18 03:56:12",
+      "datestamp": "2020-05-18 03:56:12",
+      "pagerange": "1-6"
+    }
+]
+

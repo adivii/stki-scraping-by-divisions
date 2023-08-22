@@ -1,0 +1,72 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 14034,
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Jurnal",
+      "eprint_status": "archive",
+      "status_changed": "2019-09-02 08:22:30",
+      "volume": "IX",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Evaluasi Kinerja Lulusan Program Penyetaraan S1 PGSM FKIP Universitas Lampung",
+      "divisions": [
+        "FKIP19"
+      ],
+      "type": "article",
+      "date": 2008,
+      "dir": "disk0\/00\/01\/40\/34",
+      "publication": "Jurnal Ilmu Pengetahuan Sosial",
+      "creators": [
+        {
+          "name": {
+            "given": "Lilik",
+            "lineage": null,
+            "family": "Sabdaningtyas",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "1411-5352",
+      "datestamp": "2019-09-02 08:22:30",
+      "lastmod": "2019-09-02 08:22:30",
+      "userid": 758,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14034",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27066",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122162",
+                  "objectid": 27066,
+                  "filesize": 5358904,
+                  "datasetid": "document",
+                  "filename": "JIPS VOL 9 NO. 2 MARET 2008.pdf",
+                  "hash": "d2fad73f83b9b878755af978b3a55df2",
+                  "mtime": "2019-09-02 08:09:38",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 122162
+                }
+            ],
+            "docid": 27066,
+            "main": "JIPS VOL 9 NO. 2 MARET 2008.pdf",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 14034
+          }
+      ]
+    }
+]
+

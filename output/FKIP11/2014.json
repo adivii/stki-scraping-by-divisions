@@ -1,0 +1,328 @@
+[
+    {
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187058",
+            "main": "25-1.pdf",
+            "docid": 187058,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 524443,
+                  "hash": "d78091ec993369298c8bcb0f781042a0",
+                  "filename": "25-1.pdf",
+                  "mtime": "2023-01-20 11:19:15",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 155225,
+                  "objectid": 187058,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524443"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 47944,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "International Conference on Computer System",
+      "ispublished": "pub",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47944",
+      "full_text_status": "public",
+      "userid": 698,
+      "lastmod": "2023-01-21 04:40:35",
+      "datestamp": "2023-01-21 04:40:35",
+      "creators": [
+        {
+          "name": {
+            "given": "Firdaus",
+            "honourific": null,
+            "family": "Rangga",
+            "lineage": null
+          },
+          "id": "ranggafirdaus@fkip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/79\/44",
+      "date": 2014,
+      "type": "other",
+      "divisions": [
+        "FKIP11"
+      ],
+      "title": "Maps Dynamic Collaborative Learning In Indonesia Integrated and Open Online Learning (PDITT)",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "status_changed": "2023-01-21 04:40:35",
+      "abstract": "The development of the education system in Indonesia is\r\none of the significant priorities because there is still a\r\ngap between the level of community participation and\r\nthe opportunity to acquire learning resources and\r\nintegrated easily. Indonesia government has\r\nimplemented Integrated and Open Online Learning\r\n(PDITT), which would bring fresh air to the wider\r\ncommunity, not just for colleges and universities, but\r\nalso citizens are able to participate actively in this\r\npolicy. In practice, PDITT still need an outstanding\r\ndevelopment of the methodology as well as architecture.\r\nDynamic Collaborative Learning is one of the workflow\r\nexecution can promise PDITT will able to run better\r\nand qualified above average compared to other learning systems architecture model. The study produced a map that can be used as a reference for developing business processes PDITT system.",
+      "subjects": [
+        "L1"
+      ],
+      "eprintid": 47944
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Riswanti",
+            "family": "Rini",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "herpratiwi.1964@fkip.unila.ac.id",
+          "name": {
+            "given": "Herpratiwi",
+            "honourific": null,
+            "family": "Herpratiwi",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2014,
+      "dir": "disk0\/00\/02\/28\/35",
+      "type": "conference_item",
+      "divisions": [
+        "FKIP11"
+      ],
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pres_type": "paper",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 22835,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 1164044,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-29 06:29:57",
+                  "hash": "117bb77a11170283ff6ba328d19b417e",
+                  "filename": "THE_READINESS_OF_CERTIFIED_ELEMENTARY_SCHOOL_TEACH.pdf",
+                  "fileid": 209549,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/209549",
+                  "objectid": 36339
+                }
+            ],
+            "docid": 36339,
+            "main": "THE_READINESS_OF_CERTIFIED_ELEMENTARY_SCHOOL_TEACH.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36339",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22835",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "userid": 863,
+      "lastmod": "2020-06-29 11:01:24",
+      "datestamp": "2020-06-29 11:01:24",
+      "pagerange": "900-904",
+      "event_location": "Palembang, Sumatera Selatan",
+      "event_title": "The 1st Sriwijaya University Learning and Education International Leraning",
+      "eprintid": 22835,
+      "date_type": "published",
+      "title": "THE READINESS OF CERTIFIED ELEMENTARY SCHOOL TEACHERS\r\nIN BANDAR LAMPUNG FOR THE IMPLEMENTATION\r\nOF THE 2013 CURRICULUM",
+      "event_dates": "16-18 Mei 2014",
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "status_changed": "2020-06-29 11:01:24",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "abstract": "The purpose of the research is to know the level of teachers’ readiness for the implementation of the 2013 Curriculum in terms of organizational justice, organizational commitment, organizational support, and psychological climate variables.\r\n\r\nThe research method used in this research was a quantitative survey. The population of the research was primary school teachers in the city of Bandar Lampung as much as 2300 people and the research sample which was used random sampling as much as 10%, was 230 people. Data was collected by using questionnaire and categorized into three levels: high, medium and low, and were analyzed by quantitative descriptive.\r\n\r\nThe research conclusion is the readiness of the primary school teachers in Bandar Lampung city for the implementation of the 2013 curriculum, in terms of organizational justice, organizational support, and psychological climate variables is not on the high category, while for organizational commitment variable, it is on the high category."
+    },
+    {
+      "divisions": [
+        "FKIP11"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/00\/63\/56",
+      "date": "2014-11",
+      "publication": "Jurnal Pendidikan Progresif",
+      "issn": "2087-9849",
+      "creators": [
+        {
+          "name": {
+            "family": "Riswandi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Riswandi"
+          }
+        },
+        {
+          "name": {
+            "family": "ARIF",
+            "honourific": null,
+            "lineage": null,
+            "given": "SUPARMAN"
+          }
+        }
+      ],
+      "pagerange": "203-214",
+      "datestamp": "2018-04-26 03:49:50",
+      "userid": 407,
+      "lastmod": "2018-04-26 03:49:50",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6356",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 880950,
+                  "datasetid": "document",
+                  "mtime": "2018-01-18 02:56:23",
+                  "hash_type": "MD5",
+                  "filename": "Scan_JPP.pdf",
+                  "hash": "162fdb338a23b30f5c1653a9dee05cae",
+                  "fileid": 59077,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59077",
+                  "objectid": 19276
+                }
+            ],
+            "docid": 19276,
+            "main": "Scan_JPP.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19276",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 6356,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "publisher": "FKIP UNILA",
+      "date_type": "published",
+      "eprintid": 6356,
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Abstrak: tujuan penelitian ini untuk mengembangkan model pengembangan peningkatan kompetensi profesional guru dan model pengembangan pembentukan karakter guru. Kedua model ini dijadikan satu kesatuan yang terintegrasi dan bersinergis. Model pengembangan peningkatan kompetensi profesional guru terdiri dari empat tahap, yaitu analisis kebutuhan, tahap perencanaan, tahap pengkondisian pengembangan, dan tahap pelaksanaan. Metode penelitian yang digunakan adalah research and development (R & D) yang merujuk kepada Gall and Borg. Teknik pengumpulan data pada penelitian ini, yaitu diperoleh dari angket dan data yang dikumpulkan melalui observasi, wawancara, dan dokumen. Analisis data penelitian menggunakan terdiri dari tiga alur kegiatan yang terjadi secara bersamaan, yaitu reduksi data, penyajian data, dan penarikan kesimpulan atau verifikasi. Hasil penelitian ini adalah produk yang berupa dua rancangan\/prototipe model terintegrasi yang digabung menjadi satu, yaitu (1) model pengembangan peningkatkan peningkatan kompetensi profesional guru, dan (2) model pengembangan pembentukan karakter guru.\r\nKata kunci: pengembangan model pembelajaran, kompetensi profesional, pembentukan karakter guru.\r\n\r\n\r\nAbstract: the purpose of this study was to develop the improvement of teachers’ professional competence development model and teachers’ character building development model. Both models are used as a whole which were integrated and synergic. Development model of teachers’ professional competence improvement consisted of four stages, namely need analysis, planning, developing, and implementing. The research method used was researdh and development (R & D) that refers to Gall and Borg. Data collection technique in theis study was abtained from the questionnaire and the data was collected through observation, interviews, and data analysis document of the researchers used the three ways of activities which are occurred simultaneously, namely data reduction, data display and drawing conclusion or veryfication. The results of this study were in the form of two designs product\/prototype of integrated models which are merged into one, namely (1) development model of teachers’ professional competence improvement, and (2) teachers’ character building development model.",
+      "status_changed": "2018-04-26 03:49:50",
+      "eprint_status": "archive",
+      "volume": 4,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/index",
+      "title": "MODEL PENGEMBANGAN GURU UNTUK MENINGKATKAN KOMPETENSI PROFESIONAL BERBASIS PEMBENTUKAN KARAKTER BAGI GURU SD"
+    },
+    {
+      "dir": "disk0\/00\/00\/63\/55",
+      "date": "2014-09-11",
+      "creators": [
+        {
+          "name": {
+            "given": "Riswandi",
+            "family": "Riswandi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Herpratiwi",
+            "lineage": null,
+            "honourific": null,
+            "family": "Herpratiwi"
+          },
+          "id": "herpratiwi.1964@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FKIP11"
+      ],
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6355",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19275",
+            "rev_number": 1,
+            "main": "Scan_Prosiding.pdf",
+            "docid": 19275,
+            "files": [
+                {
+                  "objectid": 19275,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59072",
+                  "datasetid": "document",
+                  "filesize": 807411,
+                  "mime_type": "application\/pdf",
+                  "fileid": 59072,
+                  "hash": "9e46e5a041c4995a91b7f3e2eab8e8e8",
+                  "filename": "Scan_Prosiding.pdf",
+                  "mtime": "2018-01-18 02:34:06",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 6355,
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pres_type": "lecture",
+      "pagerange": "323-327",
+      "datestamp": "2018-04-25 02:32:21",
+      "lastmod": "2018-04-25 02:32:21",
+      "userid": 407,
+      "event_location": "Bandar Lampung, Lampung",
+      "event_title": "Seminar Nasional Pengabdian kepada Masyarakat Universitas Lampung",
+      "eprintid": 6355,
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "event_dates": "10-11 September 2014",
+      "title": "PELATIHAN LITERASI MEDIA DAN INFORMASI BAGI GURU TERSERTIFIKASI DI SEKOLAH DASAR LAMPUNG SELATAN",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Abstrak: tujuan pelatihan ini adalah terjadinya peningkatan pengetahuan tentang media dan informasi dalam pembelajaran bagi guru sekolah dasar dan peningkatan penggunaan media dan informasi sebagai sumber belajar dalam pembelajaran. Pelatihan menggunakan metode diskusi, pemberian tugas dan tanya jawab. Evaluasi dilakukan selama proses pelatihan dan diakhir pelatihan. Hasil evaluasi dikategorikan menjadi tiga, yaitu tinggi, sedang, dan rendah. Kesimpulan dari kegiatan pelatihan ini adalah terjadinya peningkatan: (1) pengetahuan guru terhadap materi konsep dan filosopi literasi media dan informasi, konsep media dan informasi, dan (2) keterampilan mengunduh informasi dan mendesain media. Hal ini ditandai oleh peningkatan persentase hasil tes awal dengan tes akhir pada taraf penguasaan tinggi.\r\nKata kunci: pelatihan, liktersi informasi, media",
+      "eprint_status": "archive",
+      "status_changed": "2018-04-25 02:32:21"
+    }
+]
+

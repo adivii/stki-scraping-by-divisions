@@ -1,0 +1,1139 @@
+[
+    {
+      "userid": 20858,
+      "pagerange": "361-366",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 39502,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 443783,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-02-18 04:37:28",
+                  "hash_type": "MD5",
+                  "filename": "Laporan Artikel Penelitian.pdf",
+                  "hash": "f5f8b1389607291fd2fb69784b0c9d65",
+                  "datasetid": "document",
+                  "filesize": 1533404,
+                  "objectid": 160782,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/443783"
+                }
+            ],
+            "docid": 160782,
+            "main": "Laporan Artikel Penelitian.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160782",
+            "rev_number": 2,
+            "formatdesc": "Artikel",
+            "pos": 1,
+            "format": "text"
+          },
+          {
+            "docid": 161067,
+            "main": "Form Reviewer.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446106",
+                  "objectid": 161067,
+                  "filesize": 708987,
+                  "datasetid": "document",
+                  "hash": "15852581b9687a2925c4aee665db6af3",
+                  "filename": "Form Reviewer.pdf",
+                  "mtime": "2022-02-24 04:23:03",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 446106
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "formatdesc": "Reviewer",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161067",
+            "rev_number": 2,
+            "eprintid": 39502,
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39502",
+      "full_text_status": "public",
+      "issn": "2664-9837",
+      "creators": [
+        {
+          "id": "rajhencandra@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Kurniawan",
+            "lineage": null,
+            "given": "Candra"
+          }
+        },
+        {
+          "name": {
+            "given": "Hari",
+            "honourific": null,
+            "family": "Setijono",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Taufiq",
+            "honourific": null,
+            "family": "Hidayah",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hadi",
+            "given": "Hadi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sugiharto",
+            "family": "Sugiharto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "The effect plyometric training with active-passive recovery for 8 weeks on performance physical abilities male judo athletes",
+      "dir": "disk0\/00\/03\/95\/02",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/sportpedagogy.org.ua\/index.php\/ppcs\/article\/view\/1828"
+        }
+      ],
+      "status_changed": "2022-02-24 08:15:50",
+      "title": "The effect plyometric training with active-passive recovery for 8 weeks on performance physical abilities male judo athletes",
+      "metadata_visibility": "show",
+      "volume": 25,
+      "rev_number": 12,
+      "lastmod": "2022-02-24 08:15:50",
+      "datestamp": "2022-02-24 08:15:50",
+      "publisher": "PEDAGOGY OF PHYSICAL CULTURE AND SPORTS",
+      "number": 6,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kurniawan",
+            "lineage": null,
+            "given": "Candra"
+          },
+          "id": "rajhencandra@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Hari",
+            "family": "Setijono",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Taufiq",
+            "lineage": null,
+            "honourific": null,
+            "family": "Hidayah"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null,
+          "name": {
+            "family": "Hadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hadi"
+          }
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Sugiharto",
+            "family": "Sugiharto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "divisions": [
+        "FKIP20"
+      ],
+      "id_number": "https:\/\/doi.org\/10.15561\/26649837.2021.0604",
+      "date": "2021-12-31",
+      "eprint_status": "archive",
+      "abstract": "Background and Study Aim. Judo is a popular sport with dynamic characteristics and requires high physical abilities to achieve achievement. The purpose of this study was to analyze the effects of plyometric exercises with active-passive recovery for eight weeks to improve the physical ability of male judo athletes. Material and Methods. This study used an experimental method. A total of 36 male judoka participated as samples and were randomly divided into three groups. The plyometric experimental group with active recovery (21.8±1.78 years, 1.70±0.06 m, 71.1±13.5 kg), plyometric experimental group with passive recovery (21.7±2.53 years, 1.71±0.06 m, 63.8±10.1 kg), and the control group (21.4±2.30 years, 1.72±0.05 m, 67.4±7.76 kg). The training program was conducted for eight weeks with a frequency of 3 times\/week. The experimental group was treated with plyometric training after warm-up, judo training, and post-exercise active-passive recovery intervention. The control group continued regular judo training. The statistical analysis procedure used the ANOVA test to determine the difference and comparison of the pre-test and post-test mean values in the control and experimental groups with a significance level (p<0.05). Results. The results showed differences in the average value of experimental and control groups found significant to the VO2Max endurance and leg power. Meanwhile, no significant difference occurred in left and right grip strength, flexibility, and speed. Conclusions. The study concluded that plyometric training with active-passive recovery positively affects male judoka's VO2max endurance and leg power.",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "official_url": "https:\/\/sportpedagogy.org.ua\/index.php\/ppcs\/about",
+      "eprintid": 39502,
+      "date_type": "published"
+    },
+    {
+      "eprintid": 38112,
+      "title": "COMPARISON OF CRYOTHERAPY AND FOAM ROLLING ON PERFORMANCE AND LACTATE LEVELS IN FUTSAL ATHLETES",
+      "official_url": "https:\/\/scholar.google.co.id\/citations?user=mn3pkfkAAAAJ&hl=en",
+      "rev_number": 11,
+      "volume": 7,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-20 07:31:14",
+      "succeeds": 37610,
+      "related_url": [
+        {
+          "url": "https:\/\/scholar.google.co.id\/citations?user=mn3pkfkAAAAJ&hl=en"
+        }
+      ],
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201",
+        "Q1"
+      ],
+      "abstract": "The use of Cryotherapy and Foam rolling methods is considered to speed up the post-exercise recovery process. However, so far there have been no studies comparing the two methods, thus the aim of this study was to compare the Cryotherapy and Foam rolling methods on performance and lactate levels in futsal athletes. This study uses an experimental method with a one-way crossover design pretest-posttest approach. The total subjects were 16 Amateur Futsal Players with an average age, 20.25 1.23 years; height, 168.87 ± 2.02 cm; and weight, 54.61 ± 1.94 kg, BMI, 19.16± 1.01 kg\/m-2. The results showed that foam rolling and cryotherapy had no effect on physical performance, but both methods could significantly reduce lactate levels. However, in this case the foam rolling method showed an improvement in the 20-meter sprint which was better than cryotherapy. Thus, the results of this study provide a recommendation for\r\n\r\nfutsal athletes to use foam rolling in the post-exercise recovery process.\r\n\r\nKeywords: Cold water immersion, Recovery, Foam rolling",
+      "publication": "COMPARISON OF CRYOTHERAPY AND FOAM ROLLING ON PERFORMANCE AND LACTATE LEVELS IN FUTSAL ATHLETES",
+      "creators": [
+        {
+          "name": {
+            "given": "Hermawan",
+            "honourific": null,
+            "family": "Rahmat",
+            "lineage": null
+          },
+          "id": "nugafik@yahoo.co.id"
+        }
+      ],
+      "issn": 25487833,
+      "date": "2021-08",
+      "dir": "disk0\/00\/03\/81\/12",
+      "id_number": 25487833,
+      "type": "article",
+      "divisions": [
+        "FKIP20"
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "main": "Jurnal sportif (1).pdf",
+            "docid": 159103,
+            "files": [
+                {
+                  "objectid": 159103,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432927",
+                  "datasetid": "document",
+                  "filesize": 5402018,
+                  "fileid": 432927,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-04 10:13:19",
+                  "hash": "13125349fae53bcecb6e8adb01ba1307",
+                  "filename": "Jurnal sportif (1).pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159103",
+            "eprintid": 38112,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 38112,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159104",
+            "rev_number": 2,
+            "formatdesc": "Reviewer",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 159104,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432931",
+                  "mime_type": "application\/pdf",
+                  "fileid": 432931,
+                  "filename": "Review Comparison.pdf",
+                  "hash": "8d56d7dabc62f7623df22f593b319aff",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 05:15:12",
+                  "datasetid": "document",
+                  "filesize": 886770
+                }
+            ],
+            "docid": 159104,
+            "main": "Review Comparison.pdf"
+          }
+      ],
+      "publisher": "jurnal sportif, jurnal Penelitian Pembelajaran",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38112",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-01-20 07:31:14",
+      "userid": 982,
+      "pagerange": "248-7833",
+      "datestamp": "2022-01-20 07:31:14"
+    },
+    {
+      "dir": "disk0\/00\/03\/80\/98",
+      "date": 2021,
+      "publication": "Kinestetik",
+      "creators": [
+        {
+          "name": {
+            "given": "Hermawan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmat"
+          },
+          "id": "nugafik@yahoo.co.id"
+        }
+      ],
+      "issn": "2685-6514",
+      "divisions": [
+        "FKIP20"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38098",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "universitas bengkulu",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 38098,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 159063,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432807",
+                  "fileid": 432807,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-12-17 08:05:30",
+                  "hash_type": "MD5",
+                  "hash": "18b9a8f2022cedbce562da797105a926",
+                  "filename": "Artikel Bengkulu.pdf",
+                  "datasetid": "document",
+                  "filesize": 386477
+                }
+            ],
+            "main": "Artikel Bengkulu.pdf",
+            "docid": 159063,
+            "rev_number": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159063",
+            "formatdesc": "Artikel",
+            "pos": 1,
+            "format": "text"
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 38098,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159064",
+            "formatdesc": "Reviewer",
+            "docid": 159064,
+            "main": "peer review JN Evaluation studi on teacher.pdf",
+            "files": [
+                {
+                  "fileid": 432809,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2022-01-20 04:23:17",
+                  "hash_type": "MD5",
+                  "hash": "7af54060452088948d195c5a99ad1fe3",
+                  "filename": "peer review JN Evaluation studi on teacher.pdf",
+                  "datasetid": "document",
+                  "filesize": 1223764,
+                  "objectid": 159064,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432809"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2022-01-20 07:30:34",
+      "pagerange": "310-317",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2022-01-20 07:30:34",
+      "userid": 982,
+      "date_type": "published",
+      "eprintid": 38098,
+      "rev_number": 11,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/ejournal.unib.ac.id\/index.php\/kinestetik\/issue\/view\/1120",
+      "title": "EVALUATION STUDY ON TEACHER COMPETENCY PHYSICAL EDUCATION, SPORTS AND HEALTH (PJOK) IN PESAWARAN DISTRICT",
+      "subjects": [
+        "L1",
+        "LA",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201"
+      ],
+      "status_changed": "2022-01-20 07:30:34",
+      "eprint_status": "archive",
+      "succeeds": 37356
+    },
+    {
+      "date_type": "published",
+      "eprintid": 35405,
+      "volume": 3,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/hivt.be\/",
+      "title": "Anthropometry Profile and Physiological\r\nCharacteristics of Athletes from Education and\r\nSports Training Centre (PPLP) Lampung Province",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Anthropometry and physical characteristics of an athlete represent an important prerequisite\r\nfor\r\ndetermining\r\nthe\r\nsuccess\r\nof\r\nan\r\nathlete\r\nin\r\nmany\r\nsports\r\nfields.\r\nThis\r\nstudy\r\nwas\r\n\r\naimed\r\nto\r\ndetermine\r\nthe\r\nanthropometric\r\nprofile\r\nand\r\nphysiological\r\ncharacteristics\r\nof\r\nathletes\r\nfrom\r\n\r\nthe Education and Sports Training Centre (PPLP) Lampung Province. This\r\nstudy used an observational study method, where the researchers did the one-time observation,\r\n\r\nwithout giving intervention on the research variables. The subjects of this\r\nresearch involved 32 male athletes from PPLP Lampung Province consisting of 4 different\r\n\r\nsport fields category, such as: wrestling (n = 8 athletes), taekwondo (n = 8 athletes),\r\nkarate\r\n(n\r\n=\r\n8\r\nathletes)\r\nand\r\nathletics\r\n(n\r\n=\r\n8\r\nathletes)\r\nwith\r\naverage\r\nage\r\n17.7\r\n±\r\n1.1\r\n\r\nyears;\r\n\r\nbody height, 165.1 ± 6.7 cm; weight, 56.9 ± 8.3 kg; body fat percentage 8.5 ±\r\n2.8%; and body mass index (BMI) 17.2 ± 2.1. This study shows that the average body\r\nheight of taekwondo athletes (170.75 cm) and athletics has an average value (169.50\r\ncm) which is at the normal values set by WHO. Meanwhile, the average value on body\r\nweight, body fat percentage, and BMI are at normal values for all athletes. Furthermore,\r\n\r\nfor aerobic and anaerobic endurance measurements, only the athletic athlete’s\r\ncategory had an average value of (3.07 seconds for the 20 m sprint and 45.51 ml.kg-1\r\nfor VO2max). However, for sit and reach measurements all athletes are at normal values.\r\n\r\nThis research concludes that anthropometric measurements and the physiological\r\ncharacteristics of athletes can be used as parameters in determining superior athlete\r\ncandidates and could become the basis for determining an appropriate training program\r\nfor the characteristics of each athlete",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-08 01:35:51",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/hivt.be\/"
+        }
+      ],
+      "dir": "disk0\/00\/03\/54\/05",
+      "date": "2021-05-22",
+      "id_number": "0304-2294",
+      "publication": "LINGUISTICA ANTVERPIENSIA",
+      "issn": "0304-2294",
+      "creators": [
+        {
+          "id": "nugafik@yahoo.co.id",
+          "name": {
+            "given": "Hermawan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmat"
+          }
+        },
+        {
+          "name": {
+            "given": "Cucu",
+            "lineage": null,
+            "honourific": null,
+            "family": "Cucu Sutarsyah"
+          },
+          "id": null
+        },
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Dahlan",
+            "honourific": null,
+            "given": "Syarifuddin"
+          }
+        },
+        {
+          "name": {
+            "given": "nurseto",
+            "lineage": null,
+            "family": "frans",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "ardian.cahyadi@fkip.unila.ac.id",
+          "name": {
+            "given": "cahyadi",
+            "family": "ardian",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP20"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35405",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 35405,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 156225,
+            "main": "Anthropometry Profile and Physiological Characteristics of Athletes from Education and Sports Training Centre (PPLP) Lampung Province(1).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412900",
+                  "objectid": 156225,
+                  "hash": "90a094b18ba4ac13b0d73f5a17affa52",
+                  "filename": "Anthropometry Profile and Physiological Characteristics of Athletes from Education and Sports Training Centre (PPLP) Lampung Province(1).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-07 07:51:53",
+                  "mime_type": "application\/pdf",
+                  "fileid": 412900,
+                  "filesize": 217544,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156225"
+          }
+      ],
+      "publisher": "Artesis Hogeschool Antwerpen - Hoger Instituut voor Vertalers en Tolken",
+      "datestamp": "2021-11-08 01:35:51",
+      "pagerange": "880-887",
+      "lastmod": "2021-11-08 01:35:51",
+      "userid": 4398
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The  Purpose  study  currently  there  are  no  clear  rules  and  tools  about  how  minimum  a \r\nheight of lift when doing pull-ups or chin-ups, which are categorized as one repetition \r\nbatch.  Thus,  this  research  aims  to  make  an  automatic  sensor  to  count  the  number  of \r\nrepetitions  of  pull-ups  and  chin-ups  automatically.  Material  and  method  overall,  15 \r\nmale  athletes participated in this study. Making automatic pull-ups and chin-ups tools \r\nusing an infrared sensor (microchip, Arduino Uno Atmega328p model) programmed in \r\nC ++ language  to measure the  minimum height limit of a person when doing pull-ups \r\nor  chin-ups.  In  this  study,  participants  were  required  to  perform  2  types  of  measure-\r\nment movements, namely pull-ups and chin-ups. Results this study shows a strong cor-\r\nrelation  between  automatic  and  manual  tests.  This  can  be  seen  by  the  significance  of \r\nthe correlation test between automatic and manual pull-ups (p = 0.004), and also auto-\r\nmatic  and  manual  chin-up  tests  (p  =  0.001).  Conclusion  the  automatic  pull-up  and \r\nchin-up  tool  successfully  perform  automatic  measurements of  the  pull-up  and  chin-up \r\ntests after being compared to the measurements using a meter stick.",
+      "status_changed": "2021-11-08 01:35:53",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/hivt.be\/"
+        }
+      ],
+      "volume": 3,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/hivt.be\/",
+      "title": "Design of automatic pull-up and chin-up machine as \r\nautomatic tools to count pull-up and chin-up \r\nrepetition test",
+      "date_type": "published",
+      "eprintid": 35406,
+      "pagerange": "861-867",
+      "datestamp": "2021-11-08 01:35:53",
+      "lastmod": "2021-11-08 01:35:53",
+      "userid": 4398,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35406",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "Artesis Hogeschool Antwerpen - Hoger Instituut voor Vertalers en Tolken",
+      "documents": [
+          {
+            "eprintid": 35406,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "Design of automatic pull-up and chin-up machine as automatic tools to count pull-up and chin-up repetition test (1).pdf",
+            "docid": 156226,
+            "files": [
+                {
+                  "objectid": 156226,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412910",
+                  "datasetid": "document",
+                  "filesize": 223942,
+                  "fileid": 412910,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-07 08:02:12",
+                  "filename": "Design of automatic pull-up and chin-up machine as automatic tools to count pull-up and chin-up repetition test (1).pdf",
+                  "hash": "1acfae4df36bb873b2751e84d4e34da2"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156226",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FKIP20"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/54\/06",
+      "date": "2021-05-22",
+      "id_number": "0304-2294",
+      "publication": "LINGUISTICA ANTVERPIENSIA",
+      "issn": "0304-2294",
+      "creators": [
+        {
+          "id": "nugafik@yahoo.co.id",
+          "name": {
+            "given": "Hermawan",
+            "lineage": null,
+            "family": "Rahmat",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "cahyadi",
+            "lineage": null,
+            "family": "ardian",
+            "honourific": null
+          },
+          "id": "ardiancahyadi.ac@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "Design of automatic pull-up and chin-up machine as automatic tools to count pull-up and chin-up repetition test.",
+      "official_url": "https:\/\/www.hivt.be\/",
+      "rev_number": 6,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2022-01-19 08:21:33",
+      "succeeds": 38039,
+      "subjects": [
+        "LA",
+        "LB1501",
+        "LC5201"
+      ],
+      "abstract": "The Purpose study currently there are no clear rules and tools about how minimum a height of lift when doing pull-ups or chin-ups, which are categorized as one repetition batch. Thus, this research aims to make an automatic sensor to count the number of repetitions of pull-ups and chin-ups automatically. Material and method overall, 15 male athletes participated in this study. Making automatic pull-ups and chin-ups tools using an infrared sensor (microchip, Arduino Uno Atmega328p model) programmed in C ++ language to measure the minimum height limit of a person when doing pull-ups or chin-ups. In this study, participants were required to perform 2 types of measure- ment movements, namely pull-ups and chin-ups. Results this study shows a strong cor- relation between automatic and manual tests. This can be seen by the significance of the correlation test between automatic and manual pull-ups (p = 0.004), and also auto- matic and manual chin-up tests (p = 0.001). Conclusion the automatic pull-up and chin-up tool successfully perform automatic measurements of the pull-up and chin-up tests after being compared to the measurements using a meter stick",
+      "eprintid": 38044,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 3,
+      "publisher": "LINGUISTICA ANTVERPIENSIA",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 158992,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432356",
+                  "datasetid": "document",
+                  "filesize": 223942,
+                  "fileid": 432356,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-19 07:23:05",
+                  "filename": "Design of automatic pull-up and chin-up machine as automatic tools to count pull-up and chin-up repetition test (1).pdf",
+                  "hash": "1acfae4df36bb873b2751e84d4e34da2"
+                }
+            ],
+            "main": "Design of automatic pull-up and chin-up machine as automatic tools to count pull-up and chin-up repetition test (1).pdf",
+            "docid": 158992,
+            "formatdesc": "Reviewer",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158992",
+            "rev_number": 3,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 38044,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "security": "public",
+            "eprintid": 38044,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158993",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432358",
+                  "objectid": 158993,
+                  "mtime": "2022-01-19 07:57:10",
+                  "hash_type": "MD5",
+                  "filename": "REVIEW JI Design of Automatic.pdf",
+                  "hash": "15ababbecebcb50f065362bfe86e148d",
+                  "fileid": 432358,
+                  "mime_type": "application\/pdf",
+                  "filesize": 489579,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "REVIEW JI Design of Automatic.pdf",
+            "docid": 158993
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38044",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-01-19 08:21:33",
+      "userid": 982,
+      "datestamp": "2022-01-19 08:21:33",
+      "pagerange": "861-867",
+      "publication": "Design of automatic pull-up and chin-up machine as automatic tools to count pull-up and chin-up repetition test.",
+      "issn": "0304-2294",
+      "creators": [
+        {
+          "name": {
+            "given": "Hermawan",
+            "family": "Rahmat",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "nugafik@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "ardian",
+            "given": "cahyadi"
+          },
+          "id": "ardiancahyadi.ac@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/03\/80\/44",
+      "date": "2021-05-22",
+      "type": "article",
+      "divisions": [
+        "FKIP20"
+      ]
+    },
+    {
+      "issn": "2656-8527",
+      "creators": [
+        {
+          "name": {
+            "given": "cahyadi",
+            "lineage": null,
+            "honourific": null,
+            "family": "ardian"
+          },
+          "id": "ardian.cahyadi@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "suarli",
+            "lineage": null,
+            "honourific": null,
+            "family": "suarli"
+          }
+        },
+        {
+          "name": {
+            "given": "kurniawan",
+            "lineage": null,
+            "family": "candra",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publication": "JURNAL INOVATIF ILMU PENDIDIKAN",
+      "id_number": "2656-8527",
+      "date": "2021-12-02",
+      "dir": "disk0\/00\/03\/73\/52",
+      "type": "article",
+      "divisions": [
+        "FKIP20"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 37352,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158256",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 73286,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-12-17 04:02:00",
+                  "hash": "b3adf94eaf824c86f4c8b636237b3b12",
+                  "filename": "Template JIIP ardian cahyadi..docx",
+                  "fileid": 427288,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427288",
+                  "objectid": 158256
+                }
+            ],
+            "main": "Template JIIP ardian cahyadi..docx",
+            "docid": 158256
+          }
+      ],
+      "publisher": "Jurusan Ilmu Pendidikan, FKIP Universitas Lampung",
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37352",
+      "lastmod": "2021-12-17 07:33:25",
+      "userid": 4398,
+      "datestamp": "2021-12-17 07:33:25",
+      "pagerange": "25-30",
+      "eprintid": 37352,
+      "date_type": "published",
+      "title": "Analisis Motivasi Berprestasi Mahasiswa Dalam Sistem Pembelajaran Berbasis blended learning Era Industri 4.0",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JIIP\/index",
+      "metadata_visibility": "show",
+      "volume": 3,
+      "rev_number": 6,
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JIIP\/article\/view\/23269",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2021-12-17 07:33:25",
+      "eprint_status": "archive",
+      "abstract": "The purpose of this study was to determine student profiles and the percentage of student achievement motivation in a blended learning-based learning system in the industrial era 4.0. The sampling technique used was stratified random sampling with cluster sampling. Total sample: 120 participants (30 x 4 classes = 120). From the data analysis, it can be seen that achievement motivation data results include, 33% of students have very high motivation, 38% high motivation, 17% moderate motivation, 8% less motivation, and 4% very low motivation.\r\nOverall student motivation in digital-based learning systems is very good, it can be seen from the results of data analysis that has been carried out, learning systems that can provoke interest in learning are very influential on increasing motivation, and conversely high motivation will be able to form a personality that is ready in various situations. no exception to the adaptation of the learning system that continues to grow.",
+      "subjects": [
+        "L1"
+      ]
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Penelitian ini di latarbelakngi oleh penerapan latihan sepakbola tek nik passing yang di lakukan selama pandemi covid 19 kurang memberikan hasil latihan yang baik terhadap\r\nanak. Tujuan dari penelitian dan pengembangan ini adalah untuk menghasilkan model latihan Passing sepakbola untuk peningkatan latihan dimasa pandemi covid-19. Selain\r\nitu, penelitian dan pengembangan ini dilakukan untuk memperoleh informasi secara mendalam tentang pengembangan dan penerapan model passing sepakbola di provinsi Lampung dan mengetahui efektivitas, efisiensi serta daya tarik anak terhadap model yang dibuat. Penelitian ini menggunakan metode penelitian pengembangan Research & Development (R & D) dari Borg and Gall dengan subjek penelitian adalah Sekolah Sepakbola (SSB) di Provisi Lampung.Pencapaian yang akan dihasilkan yaitu bagaimana olahraga cabang sepakbola bisa memperbaiki kualitas atlet dari sedini mungkin dan\r\nprestasi semakin maksimal dimasa pandemi covid-19. Hasil penelitian mendapatkan Model latihan passing sepak bola yang terdiri 30 model passing sepak bola dapat dipergunakan sebagai model pengembangan latihan passing sepak bola pada masa\r\npandemi covid 19 dengan melakukan tes skala kecil dan skala besar. Kesimpulan penelitian ini di dapat dari 35 model latihan passing di masa pandemi covid 19 terdapat 4\r\nmodel yang tidak di setujui dan 1 model yang sederhana, jdi ada 30 model latihan yang dapat di aplikasikan untu latihan passing sepakbola.",
+      "status_changed": "2022-06-06 09:57:11",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/journal.unsika.ac.id\/index.php\/speed\/article\/view\/5838"
+        }
+      ],
+      "rev_number": 7,
+      "volume": 4,
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/journal.unsika.ac.id\/index.php\/speed\/issue\/view\/348",
+      "title": "MODEL LATIHAN PASSING SEPAKBOLA UNTUK PENINGKATAN PEMBELAJARAN DI MASA PANDEMI COVID-19",
+      "date_type": "published",
+      "eprintid": 42119,
+      "datestamp": "2022-06-06 09:57:11",
+      "pagerange": "78-85",
+      "lastmod": "2022-06-06 09:57:11",
+      "userid": 4398,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42119",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "main": "jurnal unsika s5.pdf",
+            "docid": 163824,
+            "files": [
+                {
+                  "fileid": 464253,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-06 08:18:47",
+                  "hash": "634f13f4b50758c9296b9b4a1c4dc81f",
+                  "filename": "jurnal unsika s5.pdf",
+                  "datasetid": "document",
+                  "filesize": 235082,
+                  "objectid": 163824,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/464253"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163824",
+            "eprintid": 42119,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Jurnal Speed (Sport, Physical Education, Empowerment)",
+      "divisions": [
+        "FKIP20"
+      ],
+      "type": "article",
+      "date": "2021-11-21",
+      "dir": "disk0\/00\/04\/21\/19",
+      "id_number": "2621-6698",
+      "publication": "Jurnal Speed (Sport, Physical Education, Empowerment)",
+      "issn": "2621-6698",
+      "creators": [
+        {
+          "id": "ardian.cahyadi@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "ardian",
+            "given": "cahyadi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "surisman",
+            "family": "surisman",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "herman",
+            "honourific": null,
+            "lineage": null,
+            "given": "tarigan"
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2021-11-08 01:35:18",
+      "pagerange": "405-411",
+      "userid": 4398,
+      "lastmod": "2021-11-08 01:35:18",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35400",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 35400,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156220",
+            "rev_number": 1,
+            "docid": 156220,
+            "main": "admin,+35042.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 412863,
+                  "hash": "43f9b5c69145e5e33f0011214bf390c9",
+                  "filename": "admin,+35042.pdf",
+                  "mtime": "2021-11-07 07:30:06",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 241913,
+                  "objectid": 156220,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412863"
+                }
+            ]
+          }
+      ],
+      "publisher": "Journal of Education, Health and Sport",
+      "number": 8,
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP20"
+      ],
+      "type": "article",
+      "id_number": "2391-8306",
+      "date": "2021-08-28",
+      "dir": "disk0\/00\/03\/54\/00",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "herman",
+            "honourific": null,
+            "lineage": null,
+            "given": "tarigan"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "ardian",
+            "given": "cahyadi"
+          },
+          "id": "ardian.cahyadi@fkip.unila.ac.id"
+        },
+        {
+          "id": "joan.siswoyo@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "joan",
+            "lineage": null,
+            "given": "siswoyo"
+          }
+        }
+      ],
+      "issn": "2391-8306",
+      "publication": "Journal of Education, Health and Sport",
+      "abstract": "The goal achieved from this research and development is to produce a model of soccer dribbling training models\r\nfor the elementary school age group. This research and development is carried out to be able to obtain\r\ninformation about the development and application of the football dribbling training model for the elementary\r\nschool level age group. and to find out the effectiveness of the model produced. This research uses Research &\r\nDevelopment (R & D) method from Borg and Gall, (Bennett et al., 1984). The subjects in this study were\r\nstudents of SD Negeri 1 Metro Barat from 30 children. The stages in this study are: needs analysis, expert\r\nevaluation (initial product evaluation), small group trials, and large group trials (testing fields). Test the\r\neffectiveness of the model. With the success of the research proven by questionnaires submitted by experts at\r\n80%, the dribbling training model deserves to be developed in accordance with the research study of the\r\ndevelopment model of Borg and Gall. Based on the results of the development it can be concluded that: (1) With\r\nthe soccer dribbling training model for elementary school level children can be developed and applied in\r\ndribbling exercises on extracurricular and learning (2) With the soccer dribbling training model for elementary\r\nschool level that has been developed, there is evidence of an increase of which there are significant differences\r\nbetween before and after getting the model treatment",
+      "subjects": [
+        "L1"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/apcz.umk.pl\/JEHS\/article\/view\/JEHS.2021.11.08.045\/29582",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2021-11-08 01:35:18",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 11,
+      "title": "DRIBBLING SKILLS TRAINING MODEL IN FOOTBALL GAMES FOR\r\nELEMENTARY SCHOOL AGE",
+      "official_url": "https:\/\/apcz.umk.pl\/JEHS\/article\/view\/JEHS.2021.11.08.045",
+      "date_type": "published",
+      "eprintid": 35400
+    },
+    {
+      "eprintid": 34808,
+      "date_type": "published",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/apcz.umk.pl\/JEHS\/article\/view\/JEHS.2021.11.08.045"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-11-02 04:25:19",
+      "abstract": "The goal achieved from this research and development is to produce a model of soccer dribbling training models for the elementary school age group. This research and development is carried out to be able to obtain information about the development and application of the football dribbling training model for the elementary school level age group. and to find out the effectiveness of the model produced. This research uses Research & Development (R & D) method from Borg and Gall. The subjects in this study were students of SD Negeri 1 Metro Barat from 30 children. The stages in this study are: needs analysis, expert evaluation (initial product evaluation), small group trials, and large group trials (testing fields). Test the effectiveness of the model. With the success of the research proven by questionnaires submitted by experts at 80%, the dribbling training model deserves to be developed in accordance with the research study of the development model of Borg and Gall. Based on the results of the development it can be concluded that: (1) With the soccer dribbling training model for elementary school level children can be developed and applied in dribbling exercises on extracurricular and learning (2) With the soccer dribbling training model for elementary school level that has been developed, there is evidence of an increase of which there are significant differences between before and after getting the model treatment.",
+      "subjects": [
+        "L1"
+      ],
+      "title": "Dribbling skills training model in football games for elementary school age",
+      "official_url": "https:\/\/apcz.umk.pl\/JEHS",
+      "metadata_visibility": "show",
+      "volume": 11,
+      "rev_number": 6,
+      "type": "article",
+      "divisions": [
+        "FKIP20"
+      ],
+      "issn": "2391-8306",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "herman",
+            "lineage": null,
+            "given": "tarigan"
+          }
+        },
+        {
+          "id": "ardiancahyadi.ac@gmail.com",
+          "name": {
+            "given": "cahyadi",
+            "lineage": null,
+            "family": "ardian",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "joan",
+            "given": "siswoyo"
+          },
+          "id": "joan.siswoyo@fkip.unila.ac.id"
+        }
+      ],
+      "publication": "Journal of Education, Health and Sport",
+      "id_number": "2391-8306",
+      "dir": "disk0\/00\/03\/48\/08",
+      "date": "2021-08-31",
+      "userid": 4263,
+      "lastmod": "2021-11-02 04:25:19",
+      "pagerange": "405-411",
+      "datestamp": "2021-11-02 04:25:19",
+      "publisher": "Journal of Education, Health and Sport",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 34808,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155483",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 241913,
+                  "datasetid": "document",
+                  "hash": "43f9b5c69145e5e33f0011214bf390c9",
+                  "filename": "admin,+35042.pdf",
+                  "mtime": "2021-11-02 02:41:29",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 408259,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408259",
+                  "objectid": 155483
+                }
+            ],
+            "docid": 155483,
+            "main": "admin,+35042.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 8,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34808"
+    }
+]
+

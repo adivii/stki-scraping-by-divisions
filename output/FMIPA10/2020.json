@@ -1,0 +1,407 @@
+[
+    {
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "date": 2020,
+      "dir": "disk0\/00\/03\/49\/54",
+      "publication": "Advances and Applications in Discrete Mathematics",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null,
+            "family": "Irawan"
+          }
+        },
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "given": "Asmiati",
+            "family": "Asmiati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Suharsono",
+            "honourific": null,
+            "family": "Suharsono",
+            "lineage": null
+          },
+          "id": "suharsono.1962@fmipa.unila.ac.id"
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "L.",
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "0974-1658",
+      "datestamp": "2021-11-04 01:13:28",
+      "userid": 883,
+      "lastmod": "2021-11-04 01:13:28",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34954",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "docid": 155639,
+            "main": "Certain Operation Of Generalized Petersen Having Locating-Chromatic Number Five.pdf",
+            "files": [
+                {
+                  "fileid": 409304,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-03 14:36:14",
+                  "hash": "a41f74ac97b1a2ca9d1e4ae60b4755dc",
+                  "filename": "Certain Operation Of Generalized Petersen Having Locating-Chromatic Number Five.pdf",
+                  "datasetid": "document",
+                  "filesize": 127703,
+                  "objectid": 155639,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409304"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155639",
+            "eprintid": 34954,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Pushpa Publishing House",
+      "date_type": "published",
+      "eprintid": 34954,
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "The locating-chromatic number of a graph is combined two graph\r\nconcept, coloring vertices and partition dimension of a graph. The locating-chromatic number, denoted by LG, is the smallest k such that G has a locating k-coloring. In this paper, we discuss the locatingchromatic number for certain operation of generalized Petersen graphs sPn, 1.",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-04 01:13:28",
+      "rev_number": 7,
+      "volume": 24,
+      "metadata_visibility": "show",
+      "title": "CERTAIN OPERATION OF GENERALIZED PETERSEN GRAPHS HAVING LOCATING-CHROMATIC NUMBER FIVE",
+      "official_url": "http:\/\/www.pphmj.com"
+    },
+    {
+      "date_type": "completed",
+      "eprintid": 21582,
+      "abstract": "Program Komputer tentang Aplikasi Pendugaan Erosi Di Daerah Aliran Sungai (DAS) Menggunakan Metode Sediment Delivery Ratio (SDR) Berbasis Android",
+      "subjects": [
+        "T1",
+        "T201"
+      ],
+      "status_changed": "2020-06-03 03:30:01",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "Aplikasi Pendugaan Erosi Di Daerah Aliran Sungai (DAS)\r\nMenggunakan Metode Sediment Delivery Ratio (SDR) Berbasis\r\nAndroid",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "patent",
+      "id_number": "EC00202001635",
+      "date": "2020-01-14",
+      "dir": "disk0\/00\/02\/15\/82",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kurnia Muludi",
+            "honourific": null,
+            "given": "Kurnia Muludi"
+          }
+        },
+        {
+          "name": {
+            "family": "Jimmy Falindra",
+            "honourific": null,
+            "lineage": null,
+            "given": "Jimmy Falindra"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Slamet Budi Yuwono",
+            "given": "Slamet Budi Yuwono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Favorisen Rosyking Lumbanraja",
+            "honourific": null,
+            "given": "Favorisen Rosyking Lumbanraja"
+          }
+        }
+      ],
+      "patent_applicant": "Universitas Lampung",
+      "datestamp": "2020-06-03 03:30:01",
+      "lastmod": "2020-06-03 03:30:01",
+      "userid": 952,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21582",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "main": "sertifikat_haki_SDR__EC00202001635.pdf",
+            "docid": 34971,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 773231,
+                  "mime_type": "application\/pdf",
+                  "fileid": 200002,
+                  "hash": "f4c091a5fb491f75a4c299258f113128",
+                  "filename": "sertifikat_haki_SDR__EC00202001635.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-03 02:23:01",
+                  "objectid": 34971,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200002"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34971",
+            "rev_number": 1,
+            "eprintid": 21582,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "lastmod": "2021-11-04 01:13:33",
+      "userid": 883,
+      "datestamp": "2021-11-04 01:13:33",
+      "publisher": "Prodi Ilmu Komputer Universitas Lambung Mangkurat",
+      "documents": [
+          {
+            "docid": 155641,
+            "main": "jurnal klik.pdf",
+            "files": [
+                {
+                  "filesize": 629793,
+                  "datasetid": "document",
+                  "hash": "726e3b1e9f8516173ee6daf74f753607",
+                  "filename": "jurnal klik.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-03 14:44:00",
+                  "mime_type": "application\/pdf",
+                  "fileid": 409318,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409318",
+                  "objectid": 155641
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155641",
+            "eprintid": 34956,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34956",
+      "full_text_status": "public",
+      "type": "article",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "issn": "2406-7857",
+      "creators": [
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null
+          }
+        },
+        {
+          "id": "nonikurniasih10@gmail.com",
+          "name": {
+            "given": "Noni",
+            "lineage": null,
+            "family": "Kurniasih",
+            "honourific": null
+          }
+        },
+        {
+          "id": "aristoteles.1981@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Iqbal",
+            "honourific": null,
+            "given": "Muhammad"
+          }
+        }
+      ],
+      "publication": "Kumpulan Jurnal Ilmu Komputer (KLIK)",
+      "date": "2020-02",
+      "dir": "disk0\/00\/03\/49\/56",
+      "status_changed": "2021-11-04 01:13:33",
+      "eprint_status": "archive",
+      "abstract": "Toddler Growth Chart held by parents is a book that consists of a toddler's growth history which holds by Maternal and Child Health Services (Posyandu) officer. Growth Chart-book still uses traditional ways, written by hands to records all of the toddler's growth. Po-syandu reports that sent to the Public Health Center (Puskesmas) every month still proceeds with a spreadsheet, and it makes Posyandu officers felt the difficulty of processing the data, like record, search, and store the data. e-KMS Apps can help Posyandu officers for easy re-cording and searching , and tracing data history. It also helps Posyandu officers to make Po-syandu reports easily. This app helps toddler’s parents to control their toddler’s growth and make the parents feel easy about how to take care of the toddlers.\r\nThis application is equipped with features of calculating nutrition status and pre-senting toddler nutrition status data in the graph based on WHO (World Health Organiza-tion) standards in 2006, Posyandu activities, calculation of nutritional status for parents of children under five to be able for knowing the nutritional status of toddlers anywhere and at any time without waiting for the Posyandu schedule. It also provides tips and tricks for car-ing for toddlers to inform parents how to care for toddlers, and manages Posyandu reports every month to control the condition of toddlers",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "RANCANG BANGUN APLIKASI KARTU MENUJU SEHAT (e-KMS) PADA PLATFORM ANDROID",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 7,
+      "eprintid": 34956,
+      "date_type": "published"
+    },
+    {
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34955",
+      "refereed": "TRUE",
+      "number": 5,
+      "ispublished": "pub",
+      "publisher": "Intelligent Networks and Systems Society (INASS)",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 34955,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filename": "JI_1_IJIES_2020 - Vol 13_No 5_compressed.pdf",
+                  "hash": "f3c92fe45c52c6502ea3e4e7a353ed71",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-03 14:39:45",
+                  "mime_type": "application\/pdf",
+                  "fileid": 409311,
+                  "filesize": 459906,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409311",
+                  "objectid": 155640
+                }
+            ],
+            "docid": 155640,
+            "main": "JI_1_IJIES_2020 - Vol 13_No 5_compressed.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155640",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2021-11-04 01:13:30",
+      "lastmod": "2021-11-04 01:13:30",
+      "userid": 883,
+      "date": "2020-10",
+      "dir": "disk0\/00\/03\/49\/55",
+      "publication": "The International Journal of Intelligent Engineering and Systems (IJIES)",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Syarif",
+            "given": "Admi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Angraini",
+            "lineage": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "family": "Muludi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "mitsuogen@gmail.com",
+          "name": {
+            "given": "Mitsuo",
+            "lineage": null,
+            "family": "Gen",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "2185-3118 (eISSN), 2185-310X (pISSN)",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "rev_number": 7,
+      "volume": 13,
+      "metadata_visibility": "show",
+      "title": "Comparing Various Genetic Algorithm Approaches for Multiple-choice Multi-dimensional Knapsack Problem (mm-KP)",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "One of the essential and well-known classes of combinatorial optimization problems commonly studies by\r\nresearchers in the last five decades is called the Knapsack Problem (KP). Many variants of KP have been introduced\r\nfor different real-world applications. Among them, the multiple-choice multi-dimensional Knapsack Problem (mm-\r\nKP) is the most complex model with an NP-hard problem. Several authors have reported the robustness of heuristics\r\nfor mm-KP; irrespective of its advantages, no method currently has the ability to solve the problem optimally all time.\r\nThis paper aims to determine the best GA strategy and evaluate the performance of several heuristic algorithms to\r\nsolve mm-KP. We investigate the use of two techniques that are included in the GA approach. The first, two different\r\nstrategies are adopted to handle infeasible chromosomes, namely penalty and repairing procedure. Second, we develop\r\na new-simple local search to improve the quality of the solution found. Experimental studies on the 13 (thirteen)\r\nBenchmark instances are conducted to evaluate the effectiveness of the approach based on solutions quality, the\r\nnumber of the optimal solution reached, and average errors. The results showed that hr-GA tends to reach optimal\/nearoptimal\r\nsolutions. Furthermore, the results from studies on heuristic algorithms also show that hr-GA is a promising\r\napproach, with local search used to immensely improve the quality.",
+      "status_changed": "2021-11-04 01:13:30",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 34955
+    }
+]
+

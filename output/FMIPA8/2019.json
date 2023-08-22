@@ -1,0 +1,112 @@
+[
+    {
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 11:05:13",
+      "abstract": "Let G be a connected graph and c a proper coloring of G. For i = 1; 2; : : : ; k define the color class Ci as the set of vertices receiving color i. The color code c�(v) of a vertex v in is the ordered k-tuple (d(v;C1); : : : ; d(v;Ck)) where (d(v;C1) is the distance of v to Ci. If all distinct vertices of G have distinct color codes, then c is called a locating-coloring of G . The locating-chromatic number of graph G, denoted by �L(G) is the smallest k such that G has a locating coloring with k colors. Let fu1; u2; : : : ; ung be some vertices on the outer cycle and fv1; v2; : : : ; vng be some vertices on the inner cycle, for n � 3. The Generalized Petersen graph, denoted by Pn;k, n � 3, 1 � k � bn",
+      "subjects": [
+        "QA76"
+      ],
+      "official_url": "https:\/\/www.austms.org.au\/tiki-calendar.php?calitemId=810",
+      "event_dates": "1 - 9 Agustus 2018",
+      "title": "Further Results on Locating Chromatic Number of GeneralizedPetersen Graphs",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "event_type": "conference",
+      "eprintid": 16249,
+      "event_title": "International Congress of Mathematicians, 2018",
+      "date_type": "completed",
+      "event_location": "Barra da Tijuca Rio de Janeiro, Brasil",
+      "lastmod": "2019-11-14 11:05:13",
+      "userid": 845,
+      "datestamp": "2019-11-14 11:05:13",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "eprintid": 16249,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138950",
+                  "objectid": 29355,
+                  "filename": "Abstract%20Asmiati.pdf",
+                  "hash": "61d9edd7602ed429405153274fe6bd0b",
+                  "mtime": "2019-11-13 06:12:32",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 138950,
+                  "filesize": 103562,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Abstract%20Asmiati.pdf",
+            "docid": 29355,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29355",
+            "pos": 1,
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "unpub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16249",
+      "full_text_status": "public",
+      "type": "conference_item",
+      "contact_email": "asmiati.1976@fmipa.unila.ac.id",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "honourific": null,
+            "family": "Asmiati",
+            "lineage": null
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Irawan",
+            "honourific": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Suharsono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Suharsono"
+          },
+          "id": "suharsono.1962@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "L.",
+            "honourific": null,
+            "family": "Zakaria",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": ".",
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Akmal"
+          }
+        }
+      ],
+      "date": "2019-08-01",
+      "dir": "disk0\/00\/01\/62\/49"
+    }
+]
+

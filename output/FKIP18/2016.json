@@ -1,0 +1,716 @@
+[
+    {
+      "pages": 95,
+      "date": 2016,
+      "dir": "disk0\/00\/00\/47\/36",
+      "creators": [
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "given": "Miswar",
+            "lineage": null,
+            "honourific": null,
+            "family": "Dedy"
+          }
+        },
+        {
+          "id": "halengkara@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Listumbinang Halengkara",
+            "given": "Binang"
+          }
+        }
+      ],
+      "book_title": "Penghantar Penginderaan Jauh",
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "book",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4736",
+      "publisher": "MOBIUS",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 4736,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17650",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 17650,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46225",
+                  "datasetid": "document",
+                  "filesize": 1712190,
+                  "mime_type": "application\/pdf",
+                  "fileid": 46225,
+                  "filename": "Penghantar Penginderaan Jauh.pdf",
+                  "hash": "06d57d29321fd3bc8a35ff5e21e2401e",
+                  "mtime": "2017-11-06 07:45:11",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 17650,
+            "main": "Penghantar Penginderaan Jauh.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2017-11-16 02:21:06",
+      "userid": 409,
+      "lastmod": "2017-11-16 02:21:06",
+      "isbn": "978-602-19479-3-7",
+      "eprintid": 4736,
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Penghantar Penginderaan Jauh",
+      "abstract": "Penginderaan jauh ialah ilmu dan seni untuk memperoleh informasi tentang objek, daerah atau gejala dengan jalan menganalisis data yang diperoleh dengan menggunakan alat tanpa kontak langsung dengan objek, daerah atau gejala yang sedang dikaji. Alat yang dimaksud dalam batasan ini adalah alat pengindera atau sendir. Pada umumnya sensor dipasang pada wahana (media) yang berupa pesawat terbang, satelit, atau wahana lainnya. hasil gambaran yang terekam oleh alat pengindera yang daoat berupa kamera atau sensor lainnya disebut citra.\r\nPeninderaan jauh memerlukan tenaga untuk merekam objek, gejala, atau fenomena yang akan dikaji. SUmber utama tenaga elektromagnetik yang digunakan dalam penginderaan jauh adalah matahari. Berdasarkan cara pengumpulan datanya, sistem penginderaan jauh dapat dibedakan atas tenaga dan wahana yang digunakan dalam proses perekaman data. Sistem penginderaan jauh terdiri dari beberapa komponen utama, yaitu sumber tenaga, atmosfer, interaksi tenaga dalam obyek, sensor dan wahama, perolehan data, serta pengguna data.",
+      "subjects": [
+        "G1",
+        "GA"
+      ],
+      "status_changed": "2017-11-16 02:21:06",
+      "eprint_status": "archive"
+    },
+    {
+      "datestamp": "2017-09-15 01:18:55",
+      "pagerange": "1-122",
+      "userid": 409,
+      "lastmod": "2017-09-15 01:18:55",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3911",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 3911,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3767",
+            "main": "jurnal UNP_2016.pdf",
+            "docid": 3767,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27352",
+                  "objectid": 3767,
+                  "hash": "24a1bc9f6e45a2532f519f44fc9208cd",
+                  "filename": "jurnal UNP_2016.pdf",
+                  "mtime": "2017-09-13 04:25:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 27352,
+                  "filesize": 762698,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "article",
+      "date": "2016-04",
+      "dir": "disk0\/00\/00\/39\/11",
+      "publication": "Jurnal Geografi",
+      "issn": "2086-7042",
+      "creators": [
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Dedy",
+            "lineage": null,
+            "given": "Miswar"
+          }
+        },
+        {
+          "name": {
+            "given": "Yarmaidi",
+            "family": "Yarmaidi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "yarmaidi@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Eka Dwi",
+            "lineage": null,
+            "given": "Angraini"
+          },
+          "id": null
+        }
+      ],
+      "subjects": [
+        "G1",
+        "L1"
+      ],
+      "abstract": "Proses pembelajaran di SMA Negeri 1 Kalirejo tidak kondusif dan pasif. Penelitian ini bertujuan untuk meningkatan hasil belajar siswa pada mata pelajaran geografi. Metode yang digunakan dalam penelitian ini adalah penelitian tindakan kelas. teknik pengumpulan data dilakukan dengan dengan dua cara, yaitu: primer dan sekunder. Analisis yang digunakan adalah persentase nilai hasil belajar tiap siklus. Hasil penelitian ini menunjukkan bahwa ada peningkatan hasil belajar disetiap siklusnya yaitu pada siklus I persentasenya 43,33%, siklus II persentasenya 81.81% dan siklus III persentasenya 100%. Dengan demikian dapat disimpulkan bahwa peningkatan hasil belajar geogafi dapat menggunakan model quantum teaching.",
+      "status_changed": "2017-09-15 01:18:55",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "volume": 5,
+      "metadata_visibility": "show",
+      "title": "PENINGKATAN HASIL BELAJAR GEOGRAFI MENGGUNAKAN MODEL QUANTUM TEACHING",
+      "eprintid": 3911
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3922",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 17648,
+            "main": "Perbedaan penerapan model problem based learning pada hasil belajar geografi.pdf",
+            "files": [
+                {
+                  "objectid": 17648,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46199",
+                  "fileid": 46199,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-06 07:33:01",
+                  "hash_type": "MD5",
+                  "hash": "6db06e5908cf4aede09b4be17cf71006",
+                  "filename": "Perbedaan penerapan model problem based learning pada hasil belajar geografi.pdf",
+                  "datasetid": "document",
+                  "filesize": 647295
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17648",
+            "eprintid": 3922,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Media Akademi",
+      "datestamp": "2017-11-07 07:32:55",
+      "userid": 409,
+      "lastmod": "2017-11-07 07:32:55",
+      "dir": "disk0\/00\/00\/39\/22",
+      "date": 2016,
+      "monograph_type": "project_report",
+      "pages": 58,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Dedy",
+            "lineage": null,
+            "given": "Miswar"
+          },
+          "id": "de_miswar@yahoo.com"
+        },
+        {
+          "id": "yarmaidi@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Yarmaidi",
+            "lineage": null,
+            "given": "Yarmaidi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Endang",
+            "given": "Sasmita"
+          },
+          "id": "endangsasmita1992@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "monograph",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Perbedaan Penerapan Model Problem Based Learning Pada Hasil Belajar Geografi",
+      "subjects": [
+        "G1",
+        "L1"
+      ],
+      "abstract": "Adanya perbedaan peneraan Model Pembelajaran Problem Based Learning terhadap hasil belajar siswa sangat dipengaruhi oleh model pembelajaran. Salah satu model pembelajaran yang daoat digunakan adalah model pembelajaran berbasis masalah, memberikan pertanyaan dan memfasilitasi investigasi dan dialog. Guru memberikan kesempatan kepada peserta didik untuk menetapkan topik masalah yang akan dibahas. Hal yang paling utama adalah guru menyediakan perancah atau kerangka pendukung yang dapat meningkatkan kemampuan penyelidikan dan intelegensi peserta didik daam berpikir.\r\n\r\nProses pembelajaran diarahkan agar peserta didik mampu menyelesaikan masalah secara sistematis dan logis. Model pembelajaran ini dapat terjadi jika guru dapat menciptakan lingkungan kelas yang terbuka dan jujur, karena kelas itu sendiri merupakan tempat pertukaran ide-ide peserta didik dalam menanggapi berbagai masalah.",
+      "eprint_status": "archive",
+      "status_changed": "2017-11-07 07:32:55",
+      "eprintid": 3922
+    },
+    {
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "eprintid": 3913,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Jurnal UNJ Spastial_2016.pdf",
+            "docid": 3768,
+            "files": [
+                {
+                  "objectid": 3768,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27360",
+                  "datasetid": "document",
+                  "filesize": 924867,
+                  "fileid": 27360,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-13 04:35:49",
+                  "hash": "f92790999129a551d213500a30017e81",
+                  "filename": "Jurnal UNJ Spastial_2016.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3768"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3913",
+      "refereed": "TRUE",
+      "lastmod": "2017-09-15 01:18:38",
+      "userid": 409,
+      "datestamp": "2017-09-15 01:18:38",
+      "pagerange": "58-66",
+      "publication": "Jurnal Spatial",
+      "issn": "1693-1408",
+      "creators": [
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "given": "Miswar",
+            "lineage": null,
+            "family": "Dedy",
+            "honourific": null
+          }
+        },
+        {
+          "id": "yarmaidi@gmail.com",
+          "name": {
+            "given": "Yarmaidi",
+            "lineage": null,
+            "family": "Yarmaidi",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Noviyanti",
+            "given": "Wulandari"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/00\/39\/13",
+      "date": "2016-09",
+      "type": "article",
+      "divisions": [
+        "FKIP18"
+      ],
+      "title": "PENINGKATAN AKTIVITAS DAN HASIL BELAJAR GEOGRAFI MENGGUNAKAN \r\nTIPE TWO STAY TWO STRAY",
+      "volume": 16,
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2017-09-15 01:18:38",
+      "eprint_status": "archive",
+      "subjects": [
+        "G1",
+        "L1"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk: meningkatkan aktivitas dan hasil belajar siswa mata pelajaran geografi dengan penerapan model pembelajaran Cooperative Learning Tipe Two Stay Two Stray. Metode yang digunakan pada penelitian ini adalah penelitian tindakan kelas dengan tiga siklus. subjek penelitian adalah siswa kelas XI IPS 1 dan objek penelitiannya adalah model Cooperative Learning Tipe Two Stay Two Stray. Teknik pengumpulan data dilakukan dengan teknik observasi dan teknik tes pada setiap akhir siklus. Analisis data dengan menggunakan persentase aktivitas siswa dan persentase siswa tuntas belajar. Hasil penelitian ini menunjukkan bahwa (1) penggunaan model pembelajaran Cooperative Learning Tipe Two Stay Two Stray dapat meningkatkan aktivitas belajar siswa mata pelajaran geografi dengan pembuatan video kerusakan lingkungan di kelas XI IPS 1 SMA YP Unila Bandar Lampung, (2) penggunaan model pembelajaran Cooperative Learning Tipe Two Stay Two Stray dapat meningkatkan hasil belajar siswa mata pelajaran geografi kelas XI IPS 1 di SMA YP Unila Bandar Lampung.",
+      "eprintid": 3913
+    },
+    {
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "title": "Mineralogi dan Petrologi",
+      "abstract": "Buku ini disusun untuk mempermudah mahasiswa mengembangkan materi-materi perkuliahan Mineralohi dan Petrologi untuk itu perlu kerja keras mahasiswa untuk memahami dan membaca dari berbagai referensi buku lainnya. tanpa membaca buku dan referensi lain maka bahan perkuliahan tersebut tidak akan berkembang. karena buku ajar ini hanya memuat intisari pokok-pokok materi perkuliahan yang penting untuk dikembangkan, didiskusikan antara mahasiswa dengan mahasiswa maupun mahasiswa dengan dosen",
+      "subjects": [
+        "G1",
+        "QE"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2017-11-16 02:21:17",
+      "isbn": "978-602-6238-69-6",
+      "eprintid": 4745,
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4745",
+      "full_text_status": "public",
+      "publisher": "CV. Anugrah Utama Raharja (AURA)",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 4745,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17665",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 46375,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2017-11-06 09:43:57",
+                  "hash_type": "MD5",
+                  "hash": "397cf83f7f81f7a515de20165d7f48e7",
+                  "filename": "Mineralogi dan Petrologi by Sudarmi.pdf",
+                  "datasetid": "document",
+                  "filesize": 1177919,
+                  "objectid": 17665,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46375"
+                }
+            ],
+            "docid": 17665,
+            "main": "Mineralogi dan Petrologi by Sudarmi.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "datestamp": "2017-11-16 02:21:17",
+      "lastmod": "2017-11-16 02:21:17",
+      "userid": 802,
+      "pages": 277,
+      "date": "2016-10",
+      "dir": "disk0\/00\/00\/47\/45",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sudarmi",
+            "given": "Sudarmi"
+          },
+          "id": "sudarmi.1959@fkip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "book"
+    },
+    {
+      "eprintid": 6889,
+      "isbn": "978-94-6252-329-6",
+      "eprint_status": "archive",
+      "status_changed": "2018-05-28 03:57:41",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The focus of this research was to find out the certified teachers’ performances of both portfolio test and Education and Training of Teacher Profession (PLPG). The objective of this research was to evaluate the performances of certified teachers. This was a descriptive qualitative research by conducting deep interview to certified teachers and by conducting direct observations in classrooms (classroom supervision) with separating between teachers who passed portfolio test and teachers who graduated the education and training of teacher profession. Samples were taken with stratified sampling. Samples were taken 10% from each sub district from total population of 286 certified elementary school teachers in Tulang Bawang district. The research results showed that: 1) 82.1% of teachers were in sufficient criteria in opening lesson, 2) 75.0% teachers were in poor criteria in conducting lesson strategy, 3) 64.4% teachers were in poor criteria in demonstrating material masteries, 4) 60.7% teachers were in poor criteria in encouraging\r\nstudents’ involvements, 5) 60.7% teachers were in sufficient criteria in personal communication, and 6) 17.9% teachers were in good criteria in conducting evaluation of process and result of learning.",
+      "title": "teh evaluation of teacher certified performance in tulang bawang lampung",
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/icge-16\/authors?page=2",
+      "rev_number": 7,
+      "volume": 79,
+      "metadata_visibility": "show",
+      "type": "book_section",
+      "series": "ASSEHR",
+      "divisions": [
+        "FKIP18"
+      ],
+      "book_title": "Proceedings of The 1st International Cofference on Geography and Education (ICGE 2016)",
+      "creators": [
+        {
+          "id": "sugeng.widodo@fkip.unila.ac.id",
+          "name": {
+            "given": "Widodo",
+            "lineage": null,
+            "honourific": null,
+            "family": "Sugeng"
+          }
+        }
+      ],
+      "date": 2016,
+      "dir": "disk0\/00\/00\/68\/89",
+      "lastmod": "2018-05-28 03:57:41",
+      "userid": 525,
+      "pagerange": "320-323",
+      "datestamp": "2018-05-28 03:57:41",
+      "ispublished": "pub",
+      "publisher": "Atalantis Press",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63230",
+                  "objectid": 19864,
+                  "filename": "ICGE 2016 Sugeng WIdodo.pdf",
+                  "hash": "8604c089607d879da221f136bb5169a6",
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-13 06:42:31",
+                  "mime_type": "application\/pdf",
+                  "fileid": 63230,
+                  "filesize": 2294030,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 19864,
+            "main": "ICGE 2016 Sugeng WIdodo.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19864",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6889,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6889",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "eprintid": 4938,
+      "isbn": "978-602-61299-2-5",
+      "date_type": "published",
+      "status_changed": "2017-11-16 06:56:58",
+      "eprint_status": "archive",
+      "subjects": [
+        "G1",
+        "L1"
+      ],
+      "abstract": "Tujuan penelitian untuk mengetahui hubungan motivasi dan persepsi terhadap jabatan guru mahasiswa Pendidikan Geografi, Jurusan Pendidikan Ilmu Pengetahuan Sosial FKIP Universitas Lampung dengan prestasi belajar yang dicapai. Metode penelitian yang digunakan expostfacto, populasinya adalah seluruh mahasiswa Pendidikan Geografi yang terdaftar pada tahun akademis 2016-2017 berjumlah 480 orang mahasiswa, dan diambil sampel secara random sebanyak 48 mahasiswa. Sedangkan teknik pengumpulan data menggunakan kuesioner dan dokumentasi, kemudian hasilnya dianalisis dengan menggunakan korelasi product moment. Hasil penelitian: 1) Terdapat hubungan positif yang signifikan dengan kategori hubungan yang sangat kuat antara motivasi belajar dengan prestasi  belajar  mahasiswa  Program  Studi  Pendidikan  Geografi Jurusan Pendidikan IPS FKIP Universitas Lampung. Yakni terdapat kecenderungan semakin tinggi motivasi belajar, maka akan semakin tinggi prestasi belajar mahasiswa yang dicapainya. 2) Terdapat hubungan positif yang signifikan dengan kategori hubungan yang sangat  kuat  antara persepsi  terhadap  jabatan  guru dengan  prestasi belajar mahasiswa Program Studi Pendidikan Geografi Jurusan Pendidikan IPS FKIP Universitas Lampung. Yakni terdapat kecenderungan semakin baik persepsi mahasiswa terhadap jabatan guru, maka akan semakin tinggi prestasi belajar yang dicapainya.\r\n\r\nKata kunci: motivasi, persepsi, dan prestasi belajar.",
+      "title": "Hubungan Motivasi Dan Persepsi Terhadap Jabatan Guru Dengan Prestasi Belajar Mahasiswa Pendidikan Geografi Fakultas Keguruan Dan Ilmu Pendidikan Universitas Lampung",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "type": "book_section",
+      "divisions": [
+        "FKIP18"
+      ],
+      "book_title": "Prosiding Seminar Nasional Pendidikan IPS",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumadi",
+            "family": "Sumadi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sumadi.1953@fkip.unila.ac.id"
+        },
+        {
+          "id": "igedesugiyantageo@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "I Gede",
+            "honourific": null,
+            "given": "Sugiyanta"
+          }
+        },
+        {
+          "id": "yarmaidi@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Yarmaidi",
+            "lineage": null,
+            "given": "Yarmaidi"
+          }
+        }
+      ],
+      "date": "2016-12-10",
+      "dir": "disk0\/00\/00\/49\/38",
+      "lastmod": "2017-11-16 06:56:58",
+      "userid": 1181,
+      "pagerange": "815-830",
+      "datestamp": "2017-11-16 06:56:58",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 4938,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17868",
+            "docid": 17868,
+            "main": "Prosiding Sumadi, I Gede, Yarmaidi.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 916681,
+                  "mime_type": "application\/pdf",
+                  "fileid": 47749,
+                  "hash": "855895886cc2adc0dd91cd91af6a7c0e",
+                  "filename": "Prosiding Sumadi, I Gede, Yarmaidi.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-09 07:19:29",
+                  "objectid": 17868,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47749"
+                }
+            ]
+          }
+      ],
+      "publisher": "Pascasarjana Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4938",
+      "full_text_status": "public",
+      "refereed": "TRUE"
+    },
+    {
+      "isbn": "978-602-6435-06-4",
+      "date_type": "published",
+      "eprintid": 2771,
+      "subjects": [
+        "G1",
+        "H1"
+      ],
+      "abstract": "Pembangunan pada hakikatnya adalah pembangunan seluruh manusia mencakup semua dimensi dan aspek kehidupan yang bertujuan untuk menyejahterakan umat manusia (penduduk). Hakikat Pembangunan tersebut telah menempatkan penduduk pada posisi sentral, penduduk sebagi subjek pembangunan (people centered development). Penduduk Berperan baik sebagi pelaku maupun sebagai penikmat hasil pembangunan. Sebagai subjek pembangunan, maka penduduk harus dipahami keberadaannya baik secara kuantitas maupun kualitas, dan persebarannya.\r\nMelaksanakan peran tersebut, diawali dari memahami dan mengkajinya secara teoritis siapa penduduk, bagaimana kuantitas, kualitas, dan persebarannya semuanya tertuang dalam naskah tulisan ini dengan judul \"demografi\"",
+      "status_changed": "2017-06-02 12:00:19",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Demografi Edisi 2",
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "book",
+      "dir": "disk0\/00\/00\/27\/71",
+      "date": 2016,
+      "pages": 240,
+      "creators": [
+        {
+          "id": "trisna_unila@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Trisnaningsih",
+            "lineage": null,
+            "given": "Trisna"
+          }
+        }
+      ],
+      "datestamp": "2017-06-02 12:00:19",
+      "lastmod": "2017-06-02 12:00:19",
+      "userid": 980,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2771",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 18973,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 07:31:10",
+                  "filename": "cover buku Demografi.pdf",
+                  "hash": "7680011a956c2ff2f234cc7069a8dd4c",
+                  "datasetid": "document",
+                  "filesize": 367705,
+                  "objectid": 2630,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18973"
+                }
+            ],
+            "docid": 2630,
+            "main": "cover buku Demografi.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2630",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 2771,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Media Akademi"
+    },
+    {
+      "isbn": "978-602-19479-1-3",
+      "date_type": "published",
+      "eprintid": 6887,
+      "subjects": [
+        "G1",
+        "H1"
+      ],
+      "abstract": "Fertilitas (kelahiran) merupakan salah satu dari tiga komponen dinamika penduduk yang mempengaruhi peningkatan jumlah penduduk. Semua bangsa-bangsa di dunia mengharapkan keberlangsungan keberadaanya di muka bumi berasal dari anak keturunan yang dihasilkan melalui kelahiran. tanpa adanya kelahiran maka keaslian suatu etnis dapat dipastikan lambat laun akan punah dengan sendirinya.\r\n\r\nSeberapa banyak jumlah kelahiran yang diinginkan, tidak sama antarbangsa dan antarnegara. Untuk mencapai keinginan tersebut setiap negara melakukan upaya pengontrolan kelahiran, baik yang bersifat mendorong maupun yang bersifat membatasi. Upaya untuk mendorong kelahiran merupakan permasalahan kependudukan yang pada umumnya dihadapi oleh negara-negara maju, sementara di negara sedang berkembang upayanya adalah sebaliknya, yaitu membatasi kelahiran. Berbagai tantangan yang dihadapi dalam pelaksanaan program pengendalian kelahiran disajikan dalam buku ini.",
+      "status_changed": "2018-05-28 03:59:19",
+      "eprint_status": "archive",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "Liku-Liku penurunan kelahiran dalam perspektif kekinian",
+      "divisions": [
+        "FKIP18"
+      ],
+      "type": "book",
+      "dir": "disk0\/00\/00\/68\/87",
+      "date": 2016,
+      "pages": 58,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Trisnaningsih",
+            "honourific": null,
+            "given": "Trisna"
+          },
+          "id": "trisna_unila@yahoo.co.id"
+        }
+      ],
+      "datestamp": "2018-05-28 03:59:19",
+      "userid": 980,
+      "lastmod": "2018-05-28 03:59:19",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6887",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19862",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 7145107,
+                  "mime_type": "application\/pdf",
+                  "fileid": 63214,
+                  "filename": "Liku-liku penurunan kelahiran dalam perspektif kekinian.pdf",
+                  "hash": "201cb60bc41439f98534968ffd7ca368",
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-13 05:22:16",
+                  "objectid": 19862,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63214"
+                }
+            ],
+            "main": "Liku-liku penurunan kelahiran dalam perspektif kekinian.pdf",
+            "docid": 19862,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6887
+          }
+      ],
+      "publisher": "Mobius"
+    }
+]
+

@@ -1,0 +1,580 @@
+[
+    {
+      "corp_creators": [
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila"
+      ],
+      "lastmod": "2020-07-26 07:26:01",
+      "userid": 1000,
+      "datestamp": "2020-07-26 07:26:01",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publisher": "Universitas Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37029",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 37029,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214128",
+                  "fileid": 214128,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2020-07-25 05:49:20",
+                  "hash_type": "MD5",
+                  "hash": "8cdf91e5b566255f94558bc588677a71",
+                  "filename": "BUKU KISAH WIRAUSAHA 2019.pdf",
+                  "datasetid": "document",
+                  "filesize": 785935
+                }
+            ],
+            "main": "BUKU KISAH WIRAUSAHA 2019.pdf",
+            "docid": 37029,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23409
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23409",
+      "refereed": "TRUE",
+      "type": "book",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pujiati",
+            "given": "P"
+          },
+          "id": "pujiatifkipunila@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Erlina Rufaidah",
+            "lineage": null,
+            "given": "ER"
+          },
+          "id": "rufaidah@gmail.com"
+        }
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FKIP16"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Azizah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Mas"
+          }
+        },
+        {
+          "name": {
+            "given": "Rudiyanto",
+            "honourific": null,
+            "family": "Rudiyanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Puji Waras",
+            "lineage": null,
+            "honourific": null,
+            "family": "Prihanto,"
+          }
+        },
+        {
+          "name": {
+            "family": "Purnomo,",
+            "honourific": null,
+            "lineage": null,
+            "given": "Edi"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/02\/34\/09",
+      "date": "2017-07",
+      "pages": 89,
+      "eprint_status": "archive",
+      "status_changed": "2020-07-26 07:26:01",
+      "subjects": [
+        "HC",
+        "L1"
+      ],
+      "title": "Kisah Perjalanan Para Pemula Wirausahawan\r\ndi Bumi Lampung: Secuil Kisah Wirausaha di Provinsi Lampung",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "eprintid": 23409,
+      "isbn": "978-602-61299-7-0",
+      "date_type": "published"
+    },
+    {
+      "date": "2017-12-05",
+      "dir": "disk0\/00\/00\/99\/31",
+      "creators": [
+        {
+          "id": "rufaidah@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Erlina Rufaidah",
+            "given": "ER"
+          }
+        }
+      ],
+      "publication": "Pemberdayaan perekonomian masyarakat melalui koperasi unit desa berbasis usaha terbimbing",
+      "divisions": [
+        "FKIP16"
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9931",
+      "full_text_status": "restricted",
+      "publisher": "AKADEMIKA",
+      "documents": [
+          {
+            "formatdesc": "JURNAL",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22937",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 22937,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/93489",
+                  "mime_type": "application\/pdf",
+                  "fileid": 93489,
+                  "filename": "document.pdf",
+                  "hash": "1ac18d7728e2f2c1502d7c4e8e2b4566",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-14 15:07:21",
+                  "datasetid": "document",
+                  "filesize": 340919
+                }
+            ],
+            "main": "document.pdf",
+            "docid": 22937,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "security": "validuser",
+            "rev_number": 4,
+            "format": "text",
+            "language": "id",
+            "license": "cc_public_domain",
+            "placement": 1,
+            "eprintid": 9931,
+            "date_embargo": "2018-12-05"
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "datestamp": "2018-11-15 03:03:20",
+      "pagerange": "361-374",
+      "userid": 1000,
+      "lastmod": "2018-11-15 03:03:20",
+      "date_type": "published",
+      "eprintid": 9931,
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 22,
+      "title": "Pemberdayaan perekonomian masyarakat melalui koperasi unit desa berbasis usaha terbimbing",
+      "abstract": "Koperasi dan masyarakat merupakan aspek penting dalam peningkatan ekonomi pedesaan yang akan bermuara pada kemajuan desa tersebut. Maka koperasi dan masyarakat tidak dapat berjalan sendiri-sendiri atau bergerak terlalu dominan pada salah satu aspek nya, sehingga pola gerakan koperasi harus selalu beriringan dengan pola gerakan masyarakat sebagai anggotanya. Usaha terbimbing merupakan sebuah perlakuan khusus kepada pelaku usaha untuk dapat diberikan pendampingan, pembimbingan, penyuluhan hingga pada tahap evaluasi usaha. Hal tersebut dimaksudkan agar pelaku usaha tersebut dapat terarah dengan baik, mampu memecahkan masalah, mampu menjawab tantangan, mampu mengikuti perkembangan zaman dan memiliki daya saing sehingga usaha yang didirikan dapat terus maju dan berkembang sebagai bukti turut ambil bagian dalam pembangunan perekonomian masyarakat. Pemberdayaan dengan cara pembimbingan atau pendampingan dinilai akan berjalan lebih efektif dan efesien sehingga target yang telah ditentukan dapat lebih mudah dicapai. Paradigma yang masih menganggap koperasi menjadi jalan untuk kepentingan individual",
+      "subjects": [
+        "HN"
+      ],
+      "status_changed": "2018-11-15 03:03:20",
+      "eprint_status": "archive"
+    },
+    {
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/23425",
+      "title": "asterplan Pendidikan Sekolah Menengah Pertama di Kabupaten Lampung Barat",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "status_changed": "2021-06-10 07:02:13",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "penilaian reviewer",
+      "eprintid": 32470,
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 32470,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/147378",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 664331,
+                  "fileid": 384251,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-06-10 01:22:28",
+                  "hash_type": "MD5",
+                  "hash": "73bb7bc9555a857221826d47ce5228ee",
+                  "filename": "18. masterplan smp pesibar.pdf",
+                  "objectid": 147378,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/384251"
+                }
+            ],
+            "docid": 147378,
+            "main": "18. masterplan smp pesibar.pdf"
+          }
+      ],
+      "publisher": "Erlina Rufaidah",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32470",
+      "full_text_status": "public",
+      "lastmod": "2021-06-10 07:02:13",
+      "userid": 1000,
+      "datestamp": "2021-06-10 07:02:13",
+      "creators": [
+        {
+          "id": "erlinarufaidah1958@gmail.com",
+          "name": {
+            "given": "ER",
+            "family": "Erlina Rufaidah",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/24\/70",
+      "date": 2017,
+      "id_number": "No. 3405\/UN26.21\/ PM\/2020, tanggal 12 Mei 2020",
+      "type": "other",
+      "divisions": [
+        "FKIP16"
+      ]
+    },
+    {
+      "datestamp": "2020-07-26 07:25:57",
+      "corp_creators": [
+        "Prodi Pendidikan Ekonomi Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan MIPA FKIP Universitas Lampung",
+        "Jurusan Pendidikan IPS FKIP Universitas Lampung"
+      ],
+      "lastmod": "2020-07-26 07:25:57",
+      "userid": 1000,
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23425",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "eprintid": 23425,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 37046,
+            "main": "MASTERPLAN PENDIDIKAN SMP DI KAB PESISIR BARAT.pdf",
+            "files": [
+                {
+                  "filename": "MASTERPLAN PENDIDIKAN SMP DI KAB PESISIR BARAT.pdf",
+                  "hash": "5c8decd259b9d0c6bb30bdb0303c214c",
+                  "mtime": "2020-07-26 06:48:17",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 214245,
+                  "filesize": 11850871,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214245",
+                  "objectid": 37046
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37046",
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FKIP16"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/02\/34\/25",
+      "date": "2017-03",
+      "creators": [
+        {
+          "id": "rufaidah@gmail.com",
+          "name": {
+            "given": "ER",
+            "honourific": null,
+            "family": "Erlina Rufaidah",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Abdurrahman",
+            "family": "Abdurrahman",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "abdurrahman.1968@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rahman",
+            "lineage": null,
+            "family": "Bujang Rahman",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Not Published",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2020-07-26 07:25:57",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "title": "LAPORAN PENELITIAN : MASTERPLAN PENDIDIKAN SEKOLAH PENDIDIKAN MENENGAH PERTAMA KABUPATEN PESISIR BARAT",
+      "eprintid": 23425
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2020-07-26 07:26:23",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "title": "Masterplan Pendidikan Dasar Kabupaten Lampung Barat 2015 - 2030",
+      "eprintid": 23424,
+      "projects": [
+        "Masterplan Pendidikan Dasar Kabupaten Lampung Barat 2015-2030"
+      ],
+      "datestamp": "2020-07-26 07:26:23",
+      "userid": 1000,
+      "corp_creators": [
+        "Jurusan Pendidikan IPS FKIP Unika",
+        "Jurusan Pendidikan MIPA FKIP Unila",
+        "Jurusan Pendidikan IPS FKIP Unila",
+        "Jurusan Pendidikan Bahasa dan Seni FKIP Unila",
+        "Jurusan Ilmu Pendidikan FKIP Unila"
+      ],
+      "lastmod": "2020-07-26 07:26:23",
+      "refereed": "FALSE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23424",
+      "documents": [
+          {
+            "main": "MASTER PLAN PENDIDKAN KAB LAMBAR.pdf",
+            "docid": 37045,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-07-26 05:13:13",
+                  "hash": "4046b51f48aaba2e6ef1db13e1cb4c47",
+                  "filename": "MASTER PLAN PENDIDKAN KAB LAMBAR.pdf",
+                  "fileid": 214236,
+                  "mime_type": "application\/pdf",
+                  "filesize": 5392730,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214236",
+                  "objectid": 37045
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37045",
+            "eprintid": 23424,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FKIP16"
+      ],
+      "funders": [
+        "Badan Perencanaan dan Pembangunan Kabupaten Lampung Barat"
+      ],
+      "type": "book",
+      "dir": "disk0\/00\/02\/34\/24",
+      "date": "2017-12",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Erlina Rufaidah",
+            "honourific": null,
+            "given": "ER"
+          },
+          "id": "rufaidah@gmail.com"
+        },
+        {
+          "id": "abdurrahman.1968@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Abdurrahman",
+            "honourific": null,
+            "given": "Abdurrahman"
+          }
+        },
+        {
+          "name": {
+            "given": "Rahman",
+            "lineage": null,
+            "family": "Bujang Rahman",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kadaryanto",
+            "honourific": null,
+            "given": "Budi"
+          },
+          "id": "kadaryanto@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Diah",
+            "honourific": null,
+            "family": "Utaminingsih",
+            "lineage": null
+          },
+          "id": "diahutaminingsih@yahoo.co.id"
+        }
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "ER",
+            "honourific": null,
+            "family": "Erlina Rufaidah",
+            "lineage": null
+          },
+          "id": "rufaidah@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Muhammad",
+            "honourific": null,
+            "family": "Nurdin",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "pages": 132,
+      "date": "2017-12-19",
+      "dir": "disk0\/00\/00\/99\/30",
+      "series": "first series",
+      "editors": [
+        {
+          "name": {
+            "given": "ER",
+            "lineage": null,
+            "family": "Erlina Rufaidah",
+            "honourific": null
+          },
+          "id": "rufaidah@gmail.com"
+        }
+      ],
+      "type": "book",
+      "divisions": [
+        "FKIP16"
+      ],
+      "publisher": "GRAHA ILMU",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9930",
+      "full_text_status": "none",
+      "lastmod": "2018-11-15 03:09:48",
+      "userid": 1000,
+      "datestamp": "2018-11-15 03:09:48",
+      "eprintid": 9930,
+      "date_type": "published",
+      "isbn": "978-602-50667-4-0",
+      "official_url": "http:\/\/grahailmu.id\/product\/ilmu-ekonomi-mikro\/",
+      "title": "ILMU EKONOMI MIKRO",
+      "place_of_pub": "Yogyakarta",
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "related_url": [
+        {
+          "url": "http:\/\/grahailmu.id\/product\/ilmu-ekonomi-mikro\/",
+          "type": "pub"
+        }
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-11-15 03:09:48",
+      "abstract": "Buku ini menjelaskan tentang mekanisme pasar, konsep elastistias, teori perilaku konsumen, teori biaya produksi, teori biaya, memaksimumkan laba, pasar persaingan sempurna, pasar monopoli, pasar persaingan monopolistik, pasar oligopoli, pasar faktor produksi, uang dan lembaga keuangan, dan interaksi dengan dunia internasional.",
+      "subjects": [
+        "LB1501"
+      ]
+    }
+]
+

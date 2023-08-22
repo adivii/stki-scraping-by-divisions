@@ -1,0 +1,97 @@
+[
+    {
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 9,
+      "event_dates": "16-17 July 1985",
+      "title": "Functions of Legume Cover Crops in No-Till and Conventional Till Corn Production",
+      "abstract": ".",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2016-10-25 01:11:39",
+      "eprint_status": "archive",
+      "event_location": "University of Georgia",
+      "date_type": "published",
+      "eprintid": 895,
+      "event_title": "The Rising Hope of Our Lands",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/895",
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 2808335,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-24 15:34:55",
+                  "filename": "Prosiding Mutomo 1985-1.pdf",
+                  "hash": "f1dedae711125fc78fedb42371052715",
+                  "fileid": 5475,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5475",
+                  "objectid": 788
+                }
+            ],
+            "docid": 788,
+            "main": "Prosiding Mutomo 1985-1.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/788",
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 895,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "pagerange": "63-68",
+      "datestamp": "2016-10-25 01:11:39",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "lastmod": "2016-10-25 01:11:39",
+      "userid": 1068,
+      "date": "1985-07-16",
+      "dir": "disk0\/00\/00\/08\/95",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhajir",
+            "lineage": null,
+            "honourific": null,
+            "family": "Utomo"
+          },
+          "id": "muhajir.utomo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Frye",
+            "honourific": null,
+            "lineage": null,
+            "given": "W W"
+          }
+        },
+        {
+          "name": {
+            "given": "R L",
+            "lineage": null,
+            "honourific": null,
+            "family": "Blevins"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP23"
+      ],
+      "type": "conference_item"
+    }
+]
+

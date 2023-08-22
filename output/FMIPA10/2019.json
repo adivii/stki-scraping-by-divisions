@@ -1,0 +1,293 @@
+[
+    {
+      "date": "2019-06",
+      "dir": "disk0\/00\/01\/60\/94",
+      "publication": "Explore (Jurnal Sistem Informasi dan Telematika)",
+      "issn": "2087-2062",
+      "creators": [
+        {
+          "id": "yunda.heningtyas89@gmail.com",
+          "name": {
+            "given": "Yunda",
+            "lineage": null,
+            "family": "Heningtyas",
+            "honourific": null
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Fauziah",
+            "given": "Leila"
+          }
+        },
+        {
+          "name": {
+            "given": "Akmal",
+            "family": "Junaidi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "-"
+        }
+      ],
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16094",
+      "refereed": "FALSE",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "eprintid": 16094,
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/xml",
+            "content": "published",
+            "main": 1213,
+            "docid": 29188,
+            "files": [
+                {
+                  "objectid": 29188,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/137853",
+                  "mime_type": "application\/xml",
+                  "fileid": 137853,
+                  "filename": 1213,
+                  "hash": "c8c503254199f04189b8cb61c1202e2d",
+                  "mtime": "2019-11-12 06:27:08",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 22345
+                }
+            ],
+            "format": "other",
+            "pos": 1,
+            "formatdesc": "xml",
+            "rev_number": 5,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29188"
+          }
+      ],
+      "datestamp": "2019-11-14 10:11:02",
+      "lastmod": "2019-11-14 10:11:02",
+      "userid": 2423,
+      "date_type": "published",
+      "eprintid": 16094,
+      "volume": 10,
+      "rev_number": 11,
+      "metadata_visibility": "show",
+      "title": "AUDIT TEKNOLOGI INFORMASI PADA PT XYZ MENGGUNAKAN FRAMEWORK COMMITTEE OF SPONSORING ORGANIZATIONS OF THE TREADWAY COMMISSION (COSO)",
+      "subjects": [
+        "Q1",
+        "T1"
+      ],
+      "abstract": "Audit teknologi informasi pada PT XYZ dilakukan untuk mengetahui sejauh mana tingkat kapabilitas teknologi informasi perusahaan dan memberikan rekomendasi guna memperbaiki kinerja teknologi informasi untuk mencapai tujuan bisnis perusahaan. Standar kontrol yang digunakan dalam penelitian ini yaitu Committee of Sponsoring Organizations of the Treadway Commission (COSO) yang terdiri dari komponen Control Environment, Risk Assessment, Control Activities, Information and Communication, dan Monitoring. Tujuan penelitian ini adalah untuk mengevaluasi apakah sistem sudah dilengkapi dengan kontrol yang dijalankan dengan baik dan benar. Dari hasil penelitian, capability level pada PT XYZ dalam layanan teknologi informasi berada pada level 4 (Predictable Process) dengan nilai 4,17. Hasil ini menunjukkan bahwa proses atau kegiatan teknologi informasi pada PT XYZ telah dilakukan dengan konsisten dan memiliki batasan yang ditentukan oleh perusahaan. Nilai expected level yang ingin dicapai berada pada level 5 (Optimizing Process). Perbedaan hasil level ini terjadi karena bagian IT PT XYZ belum melakukan pengawasan dan evaluasi lebih lanjut untuk menunjang kegiatan perusahaan.",
+      "eprint_status": "archive",
+      "status_changed": "2019-11-14 10:11:02",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.ubl.ac.id\/index.php\/explore\/article\/view\/1213\/1373"
+        }
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2019-11-18 05:08:21",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-6596\/1338\/1\/012051"
+        }
+      ],
+      "subjects": [
+        "QA",
+        "QA75"
+      ],
+      "abstract": "Companies must have a strong competitive strategy in the market in meeting customer needs, it is necessary an information system that applies the method of customer relationship management. Target for this research were SMEs Tapis in Lampung Indonesia. Tapis Lampung is one of the clothes used in Lampung Indonesia culture. Tapis Lampung must be introduced and disseminated, not only in Indonesia, but in overseas. Problem in this study is product orders are still coming directly to the location and via telephone, as well as product marketing through Instagram media. Orders are recorded in the book, so that data processing is less effective and efficient. There is no consumer database to see the number of existing customers, do not yet have communication and service good to consumers. The purpose of this study is to produce an information system application program using web-based E-crm method which is a strategy to increase sales, expand marketing and improve services to consumers. The application of web-based CRM methods in Tapis Lampung SMEs is important so that they can open sales opportunities globally, and have a good relationship with consumers because they can provide services to consumers that are more effective and efficient.",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-6596\/1338\/1\/012051",
+      "title": "E-crm Information System for Tapis Lampung SMEs",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "eprintid": 16534,
+      "date_type": "published",
+      "lastmod": "2019-11-18 05:08:21",
+      "userid": 781,
+      "datestamp": "2019-11-18 05:08:21",
+      "pagerange": "1-11",
+      "ispublished": "pub",
+      "publisher": "IOP Publishing",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 16534,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29612",
+            "main": "Jurnal IOC Damayanti_2019_J._Phys.__Conf._Ser._1338_012051.pdf",
+            "docid": 29612,
+            "files": [
+                {
+                  "mtime": "2019-11-15 04:05:11",
+                  "hash_type": "MD5",
+                  "hash": "5ec2a87a3d0be9bb8227138cedcba3dd",
+                  "filename": "Jurnal IOC Damayanti_2019_J._Phys.__Conf._Ser._1338_012051.pdf",
+                  "fileid": 141092,
+                  "mime_type": "application\/pdf",
+                  "filesize": 948821,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/141092",
+                  "objectid": 29612
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16534",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "publication": "Journal of Physics: Conference Series",
+      "creators": [
+        {
+          "name": {
+            "given": "Posman",
+            "lineage": null,
+            "family": "Manurung",
+            "honourific": null
+          },
+          "id": "reip65@yahoo.com"
+        },
+        {
+          "id": "warsito@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsito",
+            "lineage": null,
+            "family": "Warsito",
+            "honourific": null
+          }
+        },
+        {
+          "id": "dsimon.sembiring@fmipa.unila.ac.id",
+          "name": {
+            "given": "Sembiring",
+            "family": "Simon",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Damayanti",
+            "lineage": null,
+            "family": "Damayanti",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/01\/65\/34",
+      "date": 2019,
+      "id_number": "doi:10.1088\/1742-6596\/1338\/1\/012051"
+    },
+    {
+      "dir": "disk0\/00\/03\/49\/53",
+      "date": 2019,
+      "publication": "JUTIS",
+      "issn": "2656-0860",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wantoro",
+            "lineage": null,
+            "given": "Agus"
+          },
+          "id": null
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "honourific": null,
+            "family": "Muludi"
+          }
+        },
+        {
+          "name": {
+            "given": "sukisno",
+            "honourific": null,
+            "family": "sukisno",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FMIPA10"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34953",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Program Studi Teknik Informatika – Fakultas Teknik Universitas Islam Syekh-Yusuf Tangerang",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155638",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 652198,
+                  "fileid": 409297,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-11-03 14:32:52",
+                  "hash_type": "MD5",
+                  "hash": "fcc922d3f1b7df8786859b19cddd5906",
+                  "filename": "agus wantoro 140-321-1-SM.pdf",
+                  "objectid": 155638,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/409297"
+                }
+            ],
+            "main": "agus wantoro 140-321-1-SM.pdf",
+            "docid": 155638,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 34953
+          }
+      ],
+      "datestamp": "2021-11-04 01:13:26",
+      "lastmod": "2021-11-04 01:13:26",
+      "userid": 883,
+      "date_type": "published",
+      "eprintid": 34953,
+      "volume": 7,
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "title": "Penerapan Logika Fuzzy pada Sistem Pendukung Keputusan Penentuan Kelayakan Kualitas Telur Bebek",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "Telur bebek merupakan salah satu sumber protein hewani yang memiliki rasa yang sangat lezat, mudah dicerna dan\r\nbergizi tinggi. Keunggulan telur bebek dibandingkan dengan telur unggas lainnya antara lain kaya akan mineral, vitamin B6,\r\nasam pantotenat, vitamin A, vitamin E dan vitamin B12. Kurang telitinya masyarakat dalam memilih telur bebek yang baik\r\nuntuk dikonsumsi, minimnya pengetahuan masyarakat dalam pemilihan telur yang baik dan kebiasaan masyarakat dalam\r\nmemilih telur hanya berdasarkan warna cangkang telur dan mengguncang telur. Tujuan dibangunnya sistem pendukung\r\nkeputusan pemilihan telur bebek yaitu untuk membantu masyarakat dalam memilih telur bebek yang bekualitas untuk\r\ndikonsumsi. Teknik pengumpulan data dalam penelitian ini menggunakan studi literatur, observasi dan wawancara. Hasil\r\npengujian dari 10 sample telur yang digunakan untuk mendapatakan perbandingan antara menurut pedagang telur bebek dan sistem dinyatakan bahwa 2 dari 10 telur dinyatakan tidak layak menurut sistem jadi akurasi yang didapat yaitu 80%. Kata Kunci : Sistem Pendukung Keputusan, Fuzzy, Layakan, Telur Bebek.",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-04 01:13:26"
+    }
+]
+

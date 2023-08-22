@@ -1,0 +1,72 @@
+[
+    {
+      "datestamp": "2018-06-25 03:43:27",
+      "corp_creators": [
+        "UNIVERSITAS LAMPUNG"
+      ],
+      "userid": 265,
+      "lastmod": "2018-06-25 03:43:27",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7675",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 2,
+            "eprintid": 7675,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/68992",
+                  "objectid": 20724,
+                  "filesize": 184146,
+                  "datasetid": "document",
+                  "hash": "6b284651bcf05dc768db1fc17e47e2a6",
+                  "filename": "sertifikat_EC00201703219_PANDUAN DUKASAN.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-25 03:15:13",
+                  "mime_type": "application\/pdf",
+                  "fileid": 68992
+                }
+            ],
+            "main": "sertifikat_EC00201703219_PANDUAN DUKASAN.pdf",
+            "docid": 20724,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20724",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 2
+          }
+      ],
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP12"
+      ],
+      "type": "patent",
+      "id_number": "EC00201703219",
+      "dir": "disk0\/00\/00\/76\/75",
+      "date": "2017-04-17",
+      "creators": [
+        {
+          "name": {
+            "given": "Hermi",
+            "honourific": null,
+            "family": "Yanzi",
+            "lineage": null
+          },
+          "id": "sinarbanten1@yahoo.co.id"
+        }
+      ],
+      "patent_applicant": "Buku Panduan Media Dukasan",
+      "subjects": [
+        "LT"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2018-06-25 03:43:27",
+      "metadata_visibility": "show",
+      "rev_number": 12,
+      "title": "Buku Panduan Media Dukasan",
+      "date_type": "published",
+      "eprintid": 7675
+    }
+]
+

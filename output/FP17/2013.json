@@ -1,0 +1,298 @@
+[
+    {
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/879",
+            "rev_number": 2,
+            "docid": 879,
+            "main": 406,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6311",
+                  "objectid": 879,
+                  "filename": 406,
+                  "hash": "7cd5f71cb5d87ac84d8b6956e48e11a8",
+                  "mtime": "2016-10-28 12:15:47",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "fileid": 6311,
+                  "filesize": 21233,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "text\/html",
+            "language": "en",
+            "eprintid": 984,
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "publisher": "Fakultas Peternakan Unsud",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/984",
+      "refereed": "TRUE",
+      "lastmod": "2016-10-30 13:31:11",
+      "userid": 444,
+      "datestamp": "2016-10-30 13:31:11",
+      "pagerange": "31-39",
+      "publication": "Journal Animal Production",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Adhianto",
+            "given": "Kusuma"
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "given": "Nono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ngadiyono"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Budisatria",
+            "given": "IGS"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Kustantinah",
+            "honourific": null,
+            "lineage": null,
+            "given": "Kustantinah"
+          }
+        }
+      ],
+      "issn": "1411-2027",
+      "date": "2013-03",
+      "dir": "disk0\/00\/00\/09\/84",
+      "type": "article",
+      "divisions": [
+        "FP17"
+      ],
+      "title": "Doe Productivity of Boerawa Goat on Rural Condition",
+      "official_url": "http:\/\/animalproduction.net\/index.php\/JAP\/index",
+      "rev_number": 9,
+      "volume": 15,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2016-10-30 13:31:11",
+      "subjects": [
+        "SF"
+      ],
+      "abstract": "This research was carried out at Gisting sub-District, Tanggamus Regency, in order to find out doe productivity of Boerawa goat on rural on condition. This research involved 120 doe Boerawa goat housed in elevated barns. Measurements were performed to evaluate the litter size, birth weight, weight at weaning, and pre-weaning mortality. The results of the present research showed that birth weight of the kids was 3.10 kg and 2.94 kg for male and female, respectively. The average birth weight was based on the type of birth 3.20 kg and 3.04 kg for the single versus twin born kids. It was documented that the average weight at weaning of the kids were 17.12 kg and 16.23 kg for male and female, respectively. Whereas based on birth type, the average weight was of the single born kids and the twin at weaning were 17.30 versus 16.63 kg. In addition, doe reproduction index was 2.36 weaned kids\/year, and the average doe productivity was 41.52 kg.",
+      "eprintid": 984
+    },
+    {
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 986,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/880",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 111244,
+                  "fileid": 6319,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-29 00:05:54",
+                  "filename": "122-56-1-SP kusuma.pdf",
+                  "hash": "056ffd6ec70f3af3ac88765abdcd0dd5",
+                  "objectid": 880,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6319"
+                }
+            ],
+            "main": "122-56-1-SP kusuma.pdf",
+            "docid": 880
+          }
+      ],
+      "pres_type": "paper",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/986",
+      "refereed": "TRUE",
+      "lastmod": "2016-10-30 13:31:14",
+      "userid": 444,
+      "datestamp": "2016-10-30 13:31:14",
+      "pagerange": "9-122",
+      "creators": [
+        {
+          "id": ".",
+          "name": {
+            "given": "Kusuma",
+            "lineage": null,
+            "honourific": null,
+            "family": "Adhianto"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Nono",
+            "lineage": null,
+            "honourific": null,
+            "family": "Ngadiyono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Budisatria",
+            "honourific": null,
+            "lineage": null,
+            "given": "IGS"
+          }
+        },
+        {
+          "name": {
+            "given": "Kustantinah",
+            "family": "Kustantinah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "date": "2013-11",
+      "dir": "disk0\/00\/00\/09\/86",
+      "type": "conference_item",
+      "divisions": [
+        "FP17"
+      ],
+      "title": "Pengaruh Penambahan Konsentrat pada Induk Kambing Boerawa terhadap Litter Size, Bobot Lahir, dan Bobot Sapih anak Kambing yang di Pelihara petani Secara Intensif",
+      "official_url": "http:\/\/satek.unila.ac.id\/?page_id=323",
+      "event_dates": "19-20 Nopember 2013",
+      "event_type": "conference",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2016-10-30 13:31:14",
+      "eprint_status": "archive",
+      "subjects": [
+        "SF"
+      ],
+      "abstract": "Tujuan dari penelitian ini adalah untuk mengetahui pengaruh penambahan pada induk kambing boerawa terhadap litter size, bobot lahir, dan bobot sapih anak kambing yang dipelihara oleh petani secara intensif.\r\nDalam penelitian ini ternak yang digunakan adalah sebanyak 16 ekor induk kambing Boerawa, berusia sekitar 8 bulan dengan bobot awal rata-rata 24 kg. Penelitian dibagi menjadi 4 kelompok perlakuan dengan 1 kontrol. Penambahan konsentrat diberikan sejak awal penelitian, selama bunting sampai masa sapih anak.\r\nHasil penelitian menunjukkan bahwa penambahan konsentrat berbeda tidak nyata terhadap Terhadap Litter Size (R0; 1,75 +0,96, R1; 1,25+0,50, R2; 1,5+0,58, dan R3; 1,5+0,58), Bobot Lahir (R0; 3,40+0,35, R1; 3,37+0,15, R2; 3,39+0,15, dan R3; 3,42+0,18 kg), dan Bobot Sapih (R0; 18,81+2,31, R1; 19,20+1,19, R2; 19,20+1,23, dan R3; 19,16+1,23 kg) anak kambing boerawa.",
+      "event_location": "Bandarlampung",
+      "event_title": "SATEK V",
+      "eprintid": 986
+    },
+    {
+      "status_changed": "2017-11-16 07:51:45",
+      "metadata_visibility": "show",
+      "volume": 7,
+      "rev_number": 6,
+      "title": "PENINGKATAN KUALITAS SEMEN KAMBING BOER DENGAN PEMBERIAN VITAMIN E DAN MINERAL Zn",
+      "funders": [
+        "Mandiri"
+      ],
+      "dir": "disk0\/00\/00\/57\/27",
+      "issn": "1978-225X\/e-ISSN : 2502-5600",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suharyati",
+            "honourific": null,
+            "given": "Sri"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hartono",
+            "given": "Madi"
+          }
+        }
+      ],
+      "publication": "Jurnal Kedokteran Hewan Universitas Syah Kuala",
+      "pagerange": "91-93",
+      "userid": 787,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5727",
+      "documents": [
+          {
+            "eprintid": 5727,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 18671,
+            "main": "JKH KUALITAS SEMEN KAMBING.pdf",
+            "files": [
+                {
+                  "objectid": 18671,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/53723",
+                  "mime_type": "application\/pdf",
+                  "fileid": 53723,
+                  "filename": "JKH KUALITAS SEMEN KAMBING.pdf",
+                  "hash": "54c8f34054acba80875622f8b24a78b7",
+                  "mtime": "2017-11-16 07:41:47",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 294141
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18671",
+            "rev_number": 1
+          }
+      ],
+      "date_type": "published",
+      "eprintid": 5727,
+      "abstract": "The experiment was conducted to determine the quality of Boer semen supplemented with vitamin E and Zn mineral. The experimen t was carried out at the Installation of Frozen Semen Production Livestock and Veterinary Service of Lampung Province f or 50 days. Twelve Boer goats with the age of 3 years used in this experiment. The experimental animals were divided into four treatment groups, i.e. , group I (P0)= without the administration of vitamin E and Zn mineral supplementation, group 2 (P1)= was supplemented with vitamin E 50 IU\/goat\/day, group\r\n3 (P2)= was supplemented with Zn 25 mg\/goat\/day, and group 4 (P3)= was supplemented with vitamin E 50 IU\/goat\/day and Zn 25 mg\/goat\/day. The experiment data were statistically analyzed using completely randomized design and then continued with Least Significant Difference (LSD) test to analyze the differences between means. The results showed that supplementation of vitamin E, Zn mineral, and combination significantly increased (P<0.01) live-cells and (P<0.05) motility and abnormality spermatozoa, but did not affect semen volume and concentration. Supplementation of mineral Zn and combination with vitamin E significantly increased (P<0.05) semen quality.\r\n\r\nKey words: semen quality, vitamin E, Zn mineral, Boer goat",
+      "subjects": [
+        "SF"
+      ],
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jurnal.unsyiah.ac.id\/JKH",
+      "divisions": [
+        "FP17"
+      ],
+      "type": "article",
+      "date": "2013-09",
+      "datestamp": "2017-11-16 07:51:45",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "lastmod": "2017-11-16 07:51:45",
+      "publisher": "Fakultas Kedokteran Hewan Universitas Syah Kuala",
+      "ispublished": "pub",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hartono",
+            "honourific": null,
+            "given": "Madi"
+          }
+        }
+      ]
+    }
+]
+

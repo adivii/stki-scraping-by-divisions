@@ -1,0 +1,101 @@
+[
+    {
+      "divisions": [
+        "FISIP3"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/01\/83\/65",
+      "date": "1997-11",
+      "id_number": 274564416,
+      "publication": "\"Berkala Penelitian Pascasarjana Universitas Gadjah Mada\"",
+      "issn": "0215-7268",
+      "creators": [
+        {
+          "name": {
+            "family": "Hertanto",
+            "honourific": null,
+            "lineage": null,
+            "given": "Hertanto"
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ichlasul",
+            "family": "Amal",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ichlasult@ugm.ac.id"
+        },
+        {
+          "id": "winarno@ugm.ac.id",
+          "name": {
+            "given": "Budi",
+            "family": "Winarno",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "datestamp": "2020-03-05 09:14:17",
+      "pagerange": "543-558",
+      "lastmod": "2020-03-05 09:14:17",
+      "userid": 813,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18365",
+      "refereed": "TRUE",
+      "number": "4A",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31513",
+            "main": "Berkala Penelitian UGM.pdf",
+            "docid": 31513,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154518",
+                  "objectid": 31513,
+                  "filesize": 3514622,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-04 07:21:24",
+                  "hash": "57ffcc183300586d3613727ae6301553",
+                  "filename": "Berkala Penelitian UGM.pdf",
+                  "fileid": 154518,
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 18365,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publisher": "Program Pascasarjana Universitas Gadjah Mada",
+      "date_type": "published",
+      "eprintid": 18365,
+      "subjects": [
+        "JA"
+      ],
+      "abstract": "ABSTRACT\r\nThis research aims to explain the relation between the global political changes and the trend of democratic development in Indonesia. The study use a historical perspective to investigate the trend of political development and democracy in relation with the past and present situations by collecting such facts and interpreting some events which happened in 1985-1995. The result of this research indicated that global political changes, especially after the end of the Cold War, increasing new demands toward human rights, good governance, and democracy. These demands are required for cooperation among states on economic and political relationship; e.g. financial and military aids. These conditions brought implication on the changes of New Order's policy in political reformation. In the mean time, in domestic society level, changes of global politics, especially transition of authoritarian states in Asia toward democratic regime brings demostration effect in increasing the quality and quantity of the prodemocratic movement in demanding for democracy.\r\nKeyword: Global Political Changes, Indonesian Democratic Development",
+      "eprint_status": "archive",
+      "status_changed": "2020-03-05 09:14:17",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/i-lib.ugm.ac.id\/jurnal\/tipe_jurnal.php?jrlrId=46"
+        }
+      ],
+      "rev_number": 6,
+      "volume": 10,
+      "metadata_visibility": "show",
+      "title": "PERUBAHAN POLITIK GLOBAL DAN PERKEMBANGAN DEMOKRATISASI DI INDONESIA 1985-1995",
+      "official_url": "http:\/\/i-lib.ugm.ac.id\/jurnal\/tipe_jurnal.php?jrlrId=46"
+    }
+]
+

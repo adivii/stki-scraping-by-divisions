@@ -1,0 +1,2932 @@
+[
+    {
+      "dir": "disk0_bak\/00\/05\/06\/68",
+      "date": "2021-04-25",
+      "creators": [
+        {
+          "id": "nenihasnunidah@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Hasnunidah",
+            "honourific": null,
+            "given": "Neni"
+          }
+        },
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Maulina",
+            "given": "Dina"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50668",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT"
+        }
+      ],
+      "publisher": "Universitas Negeri Jakarta",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190372",
+            "rev_number": 1,
+            "docid": 190372,
+            "main": "17316-Article Text-52504-1-10-20210430(Inas).pdf.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 631477,
+                  "fileid": 546038,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2023-04-22 04:54:51",
+                  "hash_type": "MD5",
+                  "hash": "50cd2e1eb617b0a4b187afb096d06bb8",
+                  "filename": "17316-Article Text-52504-1-10-20210430(Inas).pdf.pdf",
+                  "objectid": 190372,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546038"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 50668,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "datestamp": "2023-04-25 11:20:25",
+      "userid": 986,
+      "lastmod": "2023-04-25 11:20:25",
+      "eprintid": 50668,
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "title": "Check Similarity: Effectiveness of argument-driven inquiry (ADI) learning model on students' creative thinking skill: Environmental pollution",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-04-25 11:20:25"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50723",
+      "full_text_status": "public",
+      "publisher": "Department of Biology Education, Faculty of Education and Teacher Training University of Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 50723,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190428",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 979259,
+                  "datasetid": "document",
+                  "hash": "6238b6b1d7fea2712206f447ea53509b",
+                  "filename": "Neni Hasnunidah_FKIP_PT_Laporan_2021.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-24 10:54:55",
+                  "mime_type": "application\/pdf",
+                  "fileid": 546523,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546523",
+                  "objectid": 190428
+                }
+            ],
+            "main": "Neni Hasnunidah_FKIP_PT_Laporan_2021.pdf",
+            "docid": 190428
+          }
+      ],
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AQT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AFT"
+        }
+      ],
+      "datestamp": "2023-04-25 11:23:31",
+      "lastmod": "2023-04-25 11:23:31",
+      "userid": 986,
+      "date": 2021,
+      "dir": "disk0_bak\/00\/05\/07\/23",
+      "creators": [
+        {
+          "id": "nenihasnunidah@gmail.com",
+          "name": {
+            "given": "Neni",
+            "family": "Hasnunidah",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "wisnujuliwiono@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Wiono",
+            "lineage": null,
+            "given": "Wisnu Juli"
+          }
+        },
+        {
+          "name": {
+            "given": "Ismi",
+            "honourific": null,
+            "family": "Rakhmawati",
+            "lineage": null
+          },
+          "id": "ismirakhmawati@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "title": "Pengembangan e-LKPD Interaktif Materi Struktur dan Perkembangan Tumbuhan dengan Model ArgumentDriven Inquiry Berorientasi Kemampuan Argumentasi Mahasiswa. Laporan Penelitian Terapannnn Tahun 2021.",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2023-04-25 11:23:31",
+      "eprint_status": "archive",
+      "eprintid": 50723
+    },
+    {
+      "date_type": "published",
+      "eprintid": 35119,
+      "volume": 9,
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JBT\/article\/view\/21692",
+      "title": "Pengaruh Pembelajaran IPA Menggunakan Model Problem Based Learning Dengan Media Puzzle Terhadap Berpikir Kritis Peserta Didik Pada Ateri Pencemaran Lingkungan",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1603"
+      ],
+      "abstract": "This research aims to determine the effect of Problem Based Learning using puzzle media on students' critical thinking. The study population was all grade VII students at SMP Muhammadiyah 3 Bandar Lampung totaling 192 people. The research sample was students from 2 classes, namely class VII D and VII F who were selected from the population by using purposive sampling technique. The research instrument used a pretest-posttest sheet. The design used is the nonequivalent control group design. The data analysis used t-test with a significance of 5%. The results showed a sig significance value. (2-tailed) 0.13 <0.05, which means that the n-Gain mean of critical thinking learning outcomes of students between the experimental class and the control class is significantly different. Thus, it is known that the problem-based learning model using puzzle media can affect the critical thinking skills of students.\r\n\r\nPenelitian ini bertujuan untuk menentukan pengaruh Problem Based Learning dengan menggunakan media puzzle terhadap berpikir kritis peserta didik. Populasi penelitian adalah seluruh peserta didik kelas VII di SMP Muhammadiyah 3 Bandar Lampung berjumlah 192 orang. Sampel penelitian adalah peserta didik dari 2 kelas yaitu kelas VII D dan VII F yang dipilih dari populasi dengan teknik purposive sampling. Instrumen penelitian menggunakan lembar pretes-postes. Desain yang digunakan yaitu nonequivalent control group design. Analisis data yang digunakan Uji t- dengan signifikansi 5% hasil penelitian menunjukan nilai signifikansi sig. (2-tailed) 0,13< 0,05 yang berarti n-Gain rata-rata hasil belajar berpikir kritis peserta didik antara kelas eksperimen dan kelas kontrol berbeda signifikan. Dengan demikian, diketahui bahwa pembelajaran model Problem Based Learning dengan menggunakan media puzzle dapat berpengaruh terhadap kemampuan berpikir kritis peserta didik.\r\n\r\nKata kunci: Problem based learning, media puzzle, berpikir kritis.",
+      "status_changed": "2021-11-06 02:16:01",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/51\/19",
+      "date": "2021-02-01",
+      "publication": "Jurnal Bioterdidik: Wahana Ekspresi Ilmiah",
+      "issn": "2621-5594",
+      "creators": [
+        {
+          "name": {
+            "given": "Neneng",
+            "lineage": null,
+            "family": "Indah",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "ritamarpaung15@yahoo.co.id",
+          "name": {
+            "family": "Marpaung",
+            "honourific": null,
+            "lineage": null,
+            "given": "Rini Rita"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Darlen",
+            "lineage": null,
+            "family": "Sikumbang",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35119",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Prodi Pendidikan Biologi FKIP Unila",
+      "documents": [
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155895",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410681",
+                  "objectid": 155895,
+                  "mtime": "2021-11-05 14:16:44",
+                  "hash_type": "MD5",
+                  "hash": "f8ab6f593499ea1a0dd5bf091951ca46",
+                  "filename": 21692,
+                  "fileid": 410681,
+                  "mime_type": "application\/xml",
+                  "filesize": 30166,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 155895,
+            "main": 21692,
+            "content": "published",
+            "mime_type": "application\/xml",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 35119
+          }
+      ],
+      "datestamp": "2021-11-06 02:16:01",
+      "pagerange": "44-50",
+      "lastmod": "2021-11-06 02:16:01",
+      "userid": 507
+    },
+    {
+      "documents": [
+          {
+            "main": "eai.16-10-2020.2305244.pdf",
+            "docid": 148983,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 295568,
+                  "mime_type": "application\/pdf",
+                  "fileid": 387638,
+                  "filename": "eai.16-10-2020.2305244.pdf",
+                  "hash": "5e85fc21890dbe1d7ac0db36e1120965",
+                  "mtime": "2021-06-03 21:08:05",
+                  "hash_type": "MD5",
+                  "objectid": 148983,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387638"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148983",
+            "eprintid": 32756,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "pres_type": "paper",
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32756",
+      "full_text_status": "public",
+      "lastmod": "2021-06-22 01:01:17",
+      "userid": 8634,
+      "datestamp": "2021-06-22 01:01:17",
+      "creators": [
+        {
+          "id": "wisnu.juli@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Juli Wiono",
+            "honourific": null,
+            "given": "Wisnu"
+          }
+        },
+        {
+          "id": "nadya.meriza@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Meriza",
+            "honourific": null,
+            "given": "Nadya"
+          }
+        },
+        {
+          "id": "tia.agnesa88@fkip.unila.ac.id",
+          "name": {
+            "given": "Tia",
+            "family": "Agnesa",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/27\/56",
+      "date": 2021,
+      "type": "conference_item",
+      "divisions": [
+        "FKIP15"
+      ],
+      "event_dates": "17 October 2020",
+      "title": "An Analysis of the Relationship between Students’\r\nMetacognitive Awareness and Students’ Cognitive\r\nLearning Outcomes in Pre-service Teachers",
+      "metadata_visibility": "show",
+      "event_type": "conference",
+      "rev_number": 3,
+      "succeeds": 31984,
+      "status_changed": "2021-06-22 01:01:17",
+      "eprint_status": "archive",
+      "abstract": "The purpose of this study was to determine the profile of the relationship\r\nbetween the level of metacognitive awareness and cognitive learning outcomes of student\r\nbiology teacher candidates at Lampung University. This study used a survey research\r\ndesign with a sample size of students. Metacognitive awareness questionnaires and\r\ncognitive question sheets were provided in this study. The questionnaire measures eight\r\naspects of metacognitive awareness, namely declarative knowledge, procedural\r\nknowledge, conditional knowledge, planning, information management strategies,\r\ncomprehension monitoring, debugging strategies, and evaluation. Question sheets\r\nevaluate cognitive learning outcomes. The results showed that the students had a very\r\ngood level of metacognitive awareness (54%). There was no significant relationship\r\nbetween metacognitive awareness and student cognitive learning outcomes (r = 0.898). It\r\nwas concluded that metacognitive awareness did not affect cognitive learning outcomes\r\nat levels C1, C2 and C3. \r\nKeywords: Metacognitive awareness, Cognitive learning outcomes, pree-service teacher",
+      "subjects": [
+        "L1"
+      ],
+      "event_location": "FKIP online seminar",
+      "eprintid": 32756,
+      "event_title": "ICOPE 2020",
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "L1",
+        "LB"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk menganalisis kemampuan literasi sains dan penguasaan konsep peserta pada pembelajaran komik digital materi pembelajaran Pencemaran. Populasi penelitian ini adalah seluruh siswa SMP Negeri 12 Bandarlampung kelas VII yang berjumlah 50 siswa. Sampel penelitian terdiri atas 2 kelas yang dipilih dari populasi dengan teknik cluster random sampling. Desain penelitian menggunakan desain One-Shot Case Study. Data penelitian ini berupa datiia kuantitatif yang terdiri atas data kemampuan literasi sains dan penguasaan  konsep yang diperoleh dari tes berbentuk soal pilihan ganda dan essay. Data dianalisis dan diberikan skor sesuai dengan rubrik penskoran, kemudian digolongkan ke dalam 5 kategori kemampuan. Untuk hubungan kemampuan literasi sains dan penguasaan konsep dianalisis menggunakan uji korelasi Pearson Correlation Product Moment pada program SPSS 16.0. Hasil penelitian menunjukkan adanya hubungan yang postif media komik digital terhadap kemampuan literasi sains peserta didik di SMP Negeri 12 Bandar Lampung, dimana hubungan ini bersifat moderat",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-12 00:46:12",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "ANALISIS HUBUNGAN LITERASI SAINS DAN PENGUASAAN KONSEP PADA PEMBELAJARAN KOMIK DIGITAL PESERTA DIDIK SMP NEGERI BANDAR LAMPUNG DI NEW NORMAL",
+      "eprintid": 36233,
+      "datestamp": "2021-11-12 00:46:12",
+      "lastmod": "2021-11-12 00:46:12",
+      "userid": 513,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36233",
+      "ispublished": "unpub",
+      "publisher": "LPPM Universitas Lampung",
+      "documents": [
+          {
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157172",
+            "docid": 157172,
+            "main": "Analisis literasi sains dan penguasan konsep.pdf",
+            "files": [
+                {
+                  "objectid": 157172,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/419198",
+                  "datasetid": "document",
+                  "filesize": 1573373,
+                  "fileid": 419198,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-11 10:14:33",
+                  "hash": "af3a0d51bbcbf0f9dbb44b034a67323a",
+                  "filename": "Analisis literasi sains dan penguasan konsep.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 36233,
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/03\/62\/33",
+      "date": "2021-11-11",
+      "creators": [
+        {
+          "id": "ritamarpaung15@yahoo.co.id",
+          "name": {
+            "given": "Rini Rita",
+            "lineage": null,
+            "honourific": null,
+            "family": "Marpaung"
+          }
+        },
+        {
+          "name": {
+            "given": "Berti",
+            "honourific": null,
+            "family": "Yolida",
+            "lineage": null
+          },
+          "id": "bertiyolida@yahoo.com"
+        },
+        {
+          "id": "nadya.meriza@fkip.unila.ac.id",
+          "name": {
+            "family": "Meriza",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nadya"
+          }
+        }
+      ]
+    },
+    {
+      "publication": "JPBI (jurnal Pendidikan Biologi Indonesia)",
+      "issn": "2527-6204",
+      "creators": [
+        {
+          "id": "ritamarpaung15@yahoo.co.id",
+          "name": {
+            "given": "Rini Rita",
+            "lineage": null,
+            "family": "Marpaung",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Berti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yolida"
+          },
+          "id": "bertiyolida@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Putri",
+            "given": "Faradilla Riana"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/48\/89",
+      "date": "2021-07-27",
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 34889,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408843",
+                  "objectid": 155573,
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-02 14:35:04",
+                  "hash": "92b67b34e6fbf6ee50a0e6229efd95d7",
+                  "filename": "15718-Article Text-52676-1-10-20210728.pdf",
+                  "fileid": 408843,
+                  "mime_type": "application\/pdf",
+                  "filesize": 362652,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 155573,
+            "main": "15718-Article Text-52676-1-10-20210728.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155573",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          },
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155574",
+            "format": "text",
+            "pos": 2,
+            "files": [
+                {
+                  "filesize": 59515,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-02 14:36:04",
+                  "filename": 15718,
+                  "hash": "8685bff5e853e3d61ee8aca15e7c8a3c",
+                  "fileid": 408846,
+                  "mime_type": "text\/html",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408846",
+                  "objectid": 155574
+                }
+            ],
+            "main": 15718,
+            "docid": 155574,
+            "content": "published",
+            "language": "en",
+            "mime_type": "text\/html",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 34889
+          }
+      ],
+      "publisher": "Universitas Muhammadiyah Malang (UMM)",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34889",
+      "refereed": "TRUE",
+      "userid": 513,
+      "lastmod": "2021-11-03 01:34:52",
+      "pagerange": "117-125",
+      "datestamp": "2021-11-03 01:34:52",
+      "eprintid": 34889,
+      "date_type": "published",
+      "title": "Student’s scientific literacy on environmental pollution material based on SETS learning approach combined with Vee Diagram",
+      "official_url": "https:\/\/ejournal.umm.ac.id\/index.php\/jpbi\/index",
+      "volume": 7,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "status_changed": "2021-11-03 01:34:52",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1",
+        "LB1603"
+      ],
+      "abstract": "The student’s scientific literacy is vital in improving students’ awareness of several issues. This study was intended to describe the effect of the SETS learning approach combined with Vee Diagram on students’ scientific literacy especially on Environmental Pollution Material. This study used a nonequivalent pretest-posttest control group design. The survey involved 60 students who were selected using cluster random sampling technique. The quantitative data, in terms of pretest, posttest, and N-gain scores were analyzed using Independent-sample t-test at the 5% significance level. The results showed that, based in the N-gain scores, the experiment class was classified in moderate category and the control class belonged to low category. This means that the SETS learning approach combined with Vee Diagram influence student’s scientific literacy on Environmental Pollution Material. Therefore, this combination is recommended to be implemented in class to enhance students' scientific literacy skills."
+    },
+    {
+      "creators": [
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "given": "Dina",
+            "family": "Maulina",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/78\/23",
+      "date": 2021,
+      "id_number": "https:\/\/doi.org\/10.37058\/bioed.v6i1.2697",
+      "type": "other",
+      "divisions": [
+        "FKIP15"
+      ],
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 4149621,
+                  "mime_type": "application\/pdf",
+                  "fileid": 523461,
+                  "filename": "bukti corresponding.pdf",
+                  "hash": "395ab5a2d787597421f0d88b2ddc6803",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-15 09:25:34",
+                  "objectid": 186923,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523461"
+                }
+            ],
+            "docid": 186923,
+            "main": "bukti corresponding.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186923",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47823,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Universitas Siliwangi",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47823",
+      "full_text_status": "public",
+      "lastmod": "2023-01-16 01:53:48",
+      "userid": 48,
+      "datestamp": "2023-01-16 01:53:48",
+      "eprintid": 47823,
+      "title": "Bukti Cooresponding. Jurnal Bioedusianan. Terakreditasi SINTA 3. TPACK: Analysis of Biology Learning Outcomes at Senior High School Level`s in the Bandar Lampung City During Online Learning",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "status_changed": "2023-01-16 01:53:48",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ]
+    },
+    {
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "other",
+      "dir": "disk0\/00\/03\/60\/53",
+      "date": 2021,
+      "creators": [
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "given": "Dina",
+            "lineage": null,
+            "family": "Maulina",
+            "honourific": null
+          }
+        }
+      ],
+      "datestamp": "2021-11-11 06:55:21",
+      "lastmod": "2021-11-11 06:55:21",
+      "userid": 48,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36053",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 300364,
+                  "datasetid": "document",
+                  "mtime": "2021-11-11 05:57:57",
+                  "hash_type": "MD5",
+                  "hash": "c0629bb5f1cec6ac38f7652bf8c53a0a",
+                  "filename": "1. Pramudiyanti_FKIP_PKMU_LAP.pdf",
+                  "fileid": 417853,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/417853",
+                  "objectid": 156991
+                }
+            ],
+            "main": "1. Pramudiyanti_FKIP_PKMU_LAP.pdf",
+            "docid": 156991,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156991",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 36053,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Unila",
+      "eprintid": 36053,
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Pertanyaan merupakan hasil kegiatan berpikir yang perlu dibudayakan pada proses pembelajaran, karena pertanyaan dapat meningkatkan partisipasi aktif siswa.Selain itu pertanyaan dapat membantu guru menemukan konsep-konsep\r\npenting yang perlu dipelajari oleh siswa. Kegiatan membuat pertanyaan membutuhkan keterampilan karena tidak semua siswa mampu membuat pertanyaan dengan mudah. Kegiatan membuat pertanyaan dapat diajarkan oleh guru kepada siswa menggunakan matriks pertanyaan. Tujuan kegiatan adalah\r\nmemberikan pengalaman kepada guru IPA Biologi dalam membuat pertanyaan menggunakan matriks pertanyaan, sehingga guru dapat membelajarkan membuat pertanyaan menggunakan matriks pertanyaan. Kegiatan pengabdian ini dilakukan dengan metode pelatihan membuat pertanyaan pembelajaran bagi guru IPA\r\nBiologi se-Lampung Timur. Kelompok mitra yaitu MGMP IPA se_Biologi Lampung Timur. Pengumpulan data dilakukan dengan cara pretes dan postes. Data diolah menggunakan program excel. Hasil pengabdian sebagai berikut: nilai\r\npretes 42,78, postes 55,42 dengan nilai N-Gain 22 berkategori tidak efektif.",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-11 06:55:21",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "PELATIHAN MENDESAIN PERTANYAAN PEMBELAJARAN MENGGUNAKAN MATRIKS PERTANYAAN BAGI GURU IPA BIOLOGI SE-LAMPUNG TIMUR"
+    },
+    {
+      "date": 2021,
+      "dir": "disk0\/00\/03\/60\/45",
+      "creators": [
+        {
+          "name": {
+            "family": "Maulina",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dina"
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36045",
+      "full_text_status": "public",
+      "publisher": "Unila",
+      "documents": [
+          {
+            "main": "Dina Maulina_FKIP_PD_Prop.pdf",
+            "docid": 156987,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 799553,
+                  "fileid": 417809,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-11 05:49:05",
+                  "filename": "Dina Maulina_FKIP_PD_Prop.pdf",
+                  "hash": "d2ce33fe6616e6a20fac019f91ce0989",
+                  "objectid": 156987,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/417809"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156987",
+            "rev_number": 2,
+            "eprintid": 36045,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "ispublished": "unpub",
+      "datestamp": "2021-11-11 06:55:11",
+      "lastmod": "2021-11-11 06:55:11",
+      "userid": 48,
+      "eprintid": 36045,
+      "metadata_visibility": "show",
+      "rev_number": 9,
+      "title": "PENDEKATAN TPACK DENGAN PARAMETER PENGUATAN INTRINSIK SISWA UNTUK IMPLEMENTASI PROGRAM PEMBELAJARAN DARING PADA JENJANG SEKOLAH MENENGAH ATAS",
+      "abstract": "Pembelajaran abad 21 ditandai dengan terintegrasinya ilmu pengetahuan, informasi dan teknologi sebagai pengembangan inovasi yang sinergis di dalam sebuah pembelajaran. Pendekatan TPACK adalah salah satu framework yang mengintegrasikan antaran pengetahuan teknologi (Technological), pedagogi (Pedagogy), dan pengetahuan konten (Content) dalam sebuah konteks pembelajaran. Implementasi penerapan pembelajaran daring menuntut siswa secara mandiri untuk dapat melakukan proses dan tahapan pembelajaran dengan seting virtual berbasis LMS yang dikelola oleh guru. Keterlaksanaan pembelajaran daring perlu mengkaji bagaimana perilaku, kesungguhan, kebutuhan dan kesadaran siswa selama melaksanakan pembelajaran untuk memahami bidang keilmuan secara komprehensif. Dalam mata pelajaran sains secara khusus proses pembelajaran terjadi baik secara teoretis maupun praktis. Menyikapi hal tersebut, permasalahan yang dihadapi siswa adalah kesulitan dalam menerapkan proses pembelajaran praktis secara daring. Karena hakikatnya sains bersifat kontekstual kebenaran faktanya dapat dibuktikan melalui praktik langsung dalam kegiatan pembelajaran melalui seting laboratorium. Pembelajaran berbasis laboratorium memenuhi kaidah berstruktur dan dikendalikan secara ketat sehingga sukar menciptakan kegiatan yang menimbulkan rasa otonomi pada siswa, sehingga kondisi ini bertolak belakang pada kondisi pembelajaran daring yang berujung pada kesulitan siswa dalam mengikuti proses. Secara sadar, pemenuhan pembelajaran daring tidak lagi pada permasalahan kendala jaringan atau penggunaan LMS akan tetapi lebih dari itu bentuk penguatan perilaku belajar secara psikologis menjadi dasar siswa untuk dapat meningkatkan dan menguatkan pemahaman belajar. Oleh sebab itu, pendekatan TPACK dengan pengembangan belajar pada penghargaan intrisik menjadi salah satu alternatif untuk memahami, membuktikan dan mengungkap fakta ketercapaian pembelajaran siswa selama melaksanakana pembelajaran daring. Penelitian ini dilakukan dalam dua langkah berjenjang yaitu langkah I (kajian strategi TPACK dan penguatan perilaku belajar melalui penghargaan intrinsik selama pembelajaran daring untuk selanjutnya medesain pengembangan produk pembelajaran terintgrasi yang selanjutnya diimplementasikan pada langkah II (implementasi pengembangan TPACK dalam pembelajaran kontekstual dengan aspek penguatan perilaku belajar siswa). Penelitian dilakukan pada jenjang Sekolah Menengah Atas (SMA) yang telah mengimplemntasikan pembelajaran daring selama pandemi Covid-19. Desain penelitan ini menggunakan pretes-postes non-ekuivalen, dengan teknik sampling secara clusster random sampling dari populasi yang ditentukan yaitu seluruh SMA Negeri di Kota Bandar Lampung. Perolehan data kuantitatif akan diuji dengan uji-F (ANOVA, perangkat SPSS 23.0) untuk mengetahui pengaruh tingkatan kognitif dengan pendekatan TPACK terhadap penghargaan instrinsik siswa pada tingkatan SMA di kota Bandar Lampung secara berjenjang sesuai tingkat akreditasi sekolah. Target capaian dari usulan penelitian ini dengan menargetkan luaran wajib berupa sebuah artikel ilmiah yang dipublikasikan pada Conferensi Internasional terindeks Scopus. Hasil penelitian ini memiliki tingkat kesiapan teknologi di level 2 dengan hasil penelitian berupa formulasi konsep dan aplikasi hasil dari implementasi pendekatan TPACK dengan fokus pada aspek psikologis penguatan intrinsik yang terukur secara analitis melalui penilaian aspek kognitif, afektif dan psikomotor.",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2021-11-11 06:55:11",
+      "eprint_status": "archive"
+    },
+    {
+      "type": "other",
+      "divisions": [
+        "FKIP15"
+      ],
+      "creators": [
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "given": "Dina",
+            "lineage": null,
+            "family": "Maulina",
+            "honourific": null
+          }
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/98\/92",
+      "date": "2021-12-24",
+      "lastmod": "2023-04-08 13:28:41",
+      "userid": 48,
+      "datestamp": "2023-04-08 13:28:41",
+      "ispublished": "pub",
+      "publisher": "Association for Scientific Computing Electronics and Engineering (ASCEE)",
+      "documents": [
+          {
+            "eprintid": 49892,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 189568,
+            "main": "BioEnvo similarity.pdf",
+            "files": [
+                {
+                  "filesize": 548347,
+                  "datasetid": "document",
+                  "mtime": "2023-04-08 06:03:27",
+                  "hash_type": "MD5",
+                  "filename": "BioEnvo similarity.pdf",
+                  "hash": "8efaf7d07e411b5efb14f8368ead2bd3",
+                  "fileid": 540117,
+                  "mime_type": "application\/pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540117",
+                  "objectid": 189568
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189568",
+            "rev_number": 1
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49892",
+      "eprintid": 49892,
+      "eprint_status": "archive",
+      "status_changed": "2023-04-08 13:28:41",
+      "subjects": [
+        "Q1"
+      ],
+      "title": "Similariry Artikel: The feasibility of investment installation using SWRO in Seribu Island, Indonesia",
+      "rev_number": 11,
+      "metadata_visibility": "show"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 35615,
+      "abstract": "This research aims to analyze the need of LKPD development in accordance with the learning model used. This research was a descriptive quantitative research. The research subjects were teachers and students of grade IV at State Elementary School (SDN) 2 Kampung Baru. The data were collected using interviews, observation, and questionnaire, which were analyzed through a descriptive analysis. The results show that the competence standard, basic competence, and competence  achievement  indicatorswerein  line  with the  Curriculum 2013. The students’ learning outcomeswerecategorized into lowcategory. The PQ4R is one of models that can be applied for improving students’ learning outcomes. The teachers need a suitable LKPD for the learning model, suitable with students’ characteristics. This research can befurtherdeveloped referring to thePQ4R learning model for improving learning achievement.",
+      "subjects": [
+        "L1"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2021-11-09 01:24:55",
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "volume": 1,
+      "title": "The development of PQ4R-based LKPD to improve the fourth grade students’ thematic learning outcome",
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "id_number": "https:\/\/doi.10.53402\/ijesss.v1i3.29",
+      "dir": "disk0\/00\/03\/56\/15",
+      "date": 2021,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Maulina",
+            "given": "Dina"
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        }
+      ],
+      "publication": "International Journal Of Education Studies In Social Science",
+      "datestamp": "2021-11-09 01:24:55",
+      "pagerange": "133-135",
+      "userid": 48,
+      "lastmod": "2021-11-09 01:24:55",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35615",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "docid": 156510,
+            "main": "29-Article Text-354-1-10-20210820.pdf",
+            "files": [
+                {
+                  "filesize": 590998,
+                  "datasetid": "document",
+                  "hash": "4dba850509d571d0cd60eed0bc59a473",
+                  "filename": "29-Article Text-354-1-10-20210820.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-09 01:15:10",
+                  "mime_type": "application\/pdf",
+                  "fileid": 414585,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/414585",
+                  "objectid": 156510
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156510",
+            "rev_number": 2,
+            "eprintid": 35615,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "number": 3,
+      "ispublished": "pub"
+    },
+    {
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48893",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48893,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188333",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/532228",
+                  "objectid": 188333,
+                  "filename": "537-Article Text-1552-2-10-20230220 (1) (2).pdf",
+                  "hash": "e72b0fa14bcd6366e0bfe8ae6aade72f",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-10 00:20:46",
+                  "mime_type": "application\/pdf",
+                  "fileid": 532228,
+                  "filesize": 500072,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "537-Article Text-1552-2-10-20230220 (1) (2).pdf",
+            "docid": 188333
+          }
+      ],
+      "ispublished": "pub",
+      "number": 2,
+      "pagerange": "89-100",
+      "datestamp": "2023-03-10 02:10:29",
+      "lastmod": "2023-03-10 02:10:29",
+      "userid": 48,
+      "id_number": "10.31763\/bioenvipo.v1i2.537",
+      "dir": "disk0_bak\/00\/04\/88\/93",
+      "date": "2021-12-21",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Maulina",
+            "honourific": null,
+            "given": "Dina"
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        }
+      ],
+      "publication": "Biological Environment and Pollution",
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 1,
+      "title": "The feasibility of investment installation using SWRO in Seribu Island, Indonesia",
+      "abstract": "Population balance and water availability need to be\r\nconsidered. Indonesia as an agrarian country has abundant\r\nmarine resource wealth. This condition makes Indonesia a\r\ncenter for marine tourism. The purpose of this research was\r\nto analyze water management in Seribu islands as national\r\nand foreign marine tourism which are then considered in the\r\nprovision of sustainable clean water. This research method\r\nused descriptive ecological analysis which refers to the\r\nliterature and data sourced from the amount of groundwater\r\navailability based on rainfall, evapotranspiration, and dry\r\nlength. Secondary data collected in this study include\r\nstatistics and monographs of the study area, climatological\r\nmeteorological data in the form of rainfall, dry months, and\r\nair temperature is taken throughout 2019. The results showed\r\nthat the water quality in the Seribu Islands deteriorated when the dry season arrived and when excessive groundwater\r\nextraction occurred. In addition, efforts to develop water\r\nmanagement in the Seribu Islands are unplanned and\r\nsustainable while the population continues to increase. The\r\ngrowth of homestays, the number of tourists, public facilities such as hospitals, schools, and dormitories triggered the conversion of planting land. Pramuka Island has an unplanned harbor development which has an impact on water resources. Management and planning for the development of Reverse Osmosis Seawater (SWRO) in the Seribu Islands need to be reconsidered for the supply and management of resources also for the water conservation activities that have not been effective.",
+      "subjects": [
+        "Q1"
+      ],
+      "status_changed": "2023-03-10 02:10:29",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 48893
+    },
+    {
+      "related_url": [
+        {
+          "url": "https:\/\/e-jurnal.lppmunsera.org\/index.php\/parahita\/article\/view\/2818"
+        }
+      ],
+      "status_changed": "2021-05-21 01:06:52",
+      "referencetext": "Departemen Pendidikan Nasional. (2013). Standar Kompetensi Lulusan Kurikulum 2013. Jakarta: Depdiknas. https:\/\/luk.staff.ugm.ac.id\/atur\/bsnp\/Permendikbud54-2013SKL.pdf\r\n\r\nDirektorat Jenderal Guru dan Tenaga Kependidikan. (2019). Panduan Pelaksanaan Olimpiade Sains Nasional. https:\/\/osn2019.toki.id\/assets\/files\/panduan.pdf\r\n\r\nDirektorat Jenderal Pendidikan Dasar dan Menengah. (2013). Pedoman Pelaksanaan Seleksi Olimpiade Sains Tingkat Kabupaten\/Kota dan Provinsi. Jakarta: Ditjet Dikdasmen. https:\/\/www.slideshare.net\/renoldoang\/panduan-osk-prov2013-64233623\r\n\r\nHidayat, M. T., Faiziyah, N., Listiawati, V., Rini, I. F., & Surahmat, S. (2019). Workshop Penyusunan Program Unggulan OSN di Madrasah Ibtidaiyah Muhammadiyah Tegalampel, Klaten. Jurnal Pengabdian Pada Masyarakat, 4(1), 1–10. https:\/\/doi.org\/10.30653\/002.201941.54\r\n\r\nMateycik, F., Rebello, N. S., & Jonassen, D. (2010). Students’ Rating of Problem Similarity as a Measure of Problem Solving Expertise. Proceedings of the Annual Meeting of the National Association for Research in Science Teaching, 1–20. https:\/\/web.phys.ksu.edu\/papers\/2010\/Mateycik_S721_NARST2010_Proceeding.pdf\r\n\r\nMellyzar, M. (2021). Pendampingan Persiapan Kompetensi Sains Nasional (KSN) Tingkat Provinsi Di SMAN Modal Bangsa Arun Aceh. Humanis, 20(1), 14-18. https:\/\/ojs.unm.ac.id\/Humanis\/article\/view\/19192\r\n\r\nMuliani, F., Noviati, D., & . F. (2018). Pembinaan Peningkatan Mutu Pendidikan Bidang Olimpiade Sains bagi Guru SD Kota Langsa Provinsi Aceh. Jurnal Pengabdian Masyarakat Universitas Merdeka Malang, 3(2), 9–13. https:\/\/doi.org\/10.26905\/abdimas.v3i2.2586\r\n\r\nPurnamiati, G. K. D., Lasmawan, I. W., & Arnyana, I. B. P. (2017). Pengaruh Penerapan Model Pembelajaran Kooperatif Tipe Mind Mapping Terhadap Kreativitas dan Prestasi Belajar IPA Siswa Kelas VI SD No. 3 Benoa Kabupaten Badung. E-Journal Program Pascasarjana Universitas Pendidikan Ganesha, 7(1), 1–10. http:\/\/pasca.undiksha.ac.id\/e-journal\/jurnal_pendas\/article\/view\/2226\r\n\r\nRahmawati, M. M. E., & Budiningsih, C. A. (2014). Pengaruh Mind Mapping dan Gaya Belajar terhadap Pemahaman Konsep Siswa Pada Pembelajaran IPA. Jurnal Inovasi Teknologi Pendidikan, 1(2), 123–138. https:\/\/doi.org\/10.21831\/tp.v1i2.2524\r\n\r\nRasyid, R. (2005). Peranan Perguruan Tinggi dalam Meningkatkan Kualitas Olimpiade Sains Nasional Tingkat Sekolah Dasar. Seminar Nasional Penelitian, Pendidikan Dan Penerapan MIPA, F412–F418. Yogyakarta: FMIPA UNY. http:\/\/eprints.uny.ac.id\/11704\/\r\n\r\nSafitri, D. (2016). Penerapan Metode Mind Mapping untuk Meningkatkan Minat dan Hasil Belajar IPA Siswa Kelas V SD N Balangan 1. Basic Education, 5(3), 193–203. http:\/\/journal.student.uny.ac.id\/ojs\/ojs\/ojs\/index.php\/pgsd\/article\/view\/870\r\n\r\nSusanto, G. N., Sembiring, S., & Ekowati, C. N. (2016). Pembinaan Guru Sebagai Dasar Peningkatan Prestasi Siswa SD dalam Ajang Kompetisi OSN SD IPA Tingkat Nasional. Seminar Nasional Hasil-Hasil Pengabdian Kepada Masyarakat, 112–123.http:\/\/repository.lppm.unila.ac.id\/2664\/\r\n\r\nWidiana, I. W., & Jampel, I. N. (2016). Improving Students’ Creative Thinking and Achievement through The Implementation of Multiple Intelligence Approach with Mind Mapping. International Journal of Evaluation and Research in Education (IJERE), 5(3), 246–254. https:\/\/doi.org\/10.11591\/ijere.v5i3.4546\r\n\r\nWesnawa, I. G. A., Christiawan, P. I., Lasmawan, W., Dewi, N. A. W. T., & Sulindawati, L. G. E. (2019). Kolaborasi Pembinaan Siswa dalam Persiapan OSN Menuju Prestasi Unggul Di SMP Negeri 1 Singaraja. Prosiding SENADIMAS Ke-4. https:\/\/lppm.undiksha.ac.id\/senadimas2019\/\r\n\r\nWiyoko, T., Megawati, M., Aprizan, A., & Avana, N. (2019). Peningkatan Kompetensi Siswa Melalui Pembinaan Olimpiade Sains (OSN). Warta LPM, 22(2), 67–75. https:\/\/doi.org\/10.23917\/warta.v22i2.8619",
+      "title": "Program Pendampingan Kegiatan Kompetisi Sains Nasional Bidang Biologi Siswa SMAN 5 Bandar Lampung",
+      "metadata_visibility": "show",
+      "rev_number": 10,
+      "volume": 5,
+      "keywords": "Bidang Biologi; KSN; Pendampingan",
+      "creators": [
+        {
+          "name": {
+            "family": "Maulina",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dina"
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Pramudiyanti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pramudiyanti"
+          },
+          "id": "yanti19730310@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Nadya",
+            "honourific": null,
+            "family": "meriza",
+            "lineage": null
+          },
+          "id": "nadya.meriza@fkip.unila.ac.id"
+        },
+        {
+          "id": "ismirakhmawati@gmail.com",
+          "name": {
+            "family": "Rakhmawati",
+            "honourific": null,
+            "lineage": null,
+            "given": "Ismi"
+          }
+        }
+      ],
+      "publication": "WIKRAMA PARAHITA : JURNAL PENGABDIAN MASYARAKAT",
+      "dir": "disk0\/00\/03\/02\/94",
+      "userid": 48,
+      "pagerange": "73-79",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 30294,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 136153,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/359080",
+                  "datasetid": "document",
+                  "filesize": 354546,
+                  "mime_type": "application\/pdf",
+                  "fileid": 359080,
+                  "filename": "2818-Article Text-11007-4-10-20210327 (4).pdf",
+                  "hash": "f975d010cd5fe1bec0d286f6f6346505",
+                  "mtime": "2021-05-20 07:40:29",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 136153,
+            "main": "2818-Article Text-11007-4-10-20210327 (4).pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136153",
+            "rev_number": 2,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30294",
+      "eprintid": 30294,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Kompetisi Sains Nasional (KSN) memberikan peluang bagi siswa untuk berkompetisi dalam bidang ilmu pengetahuan dan teknologi. Kegiatan ini merupakan agenda tahunan yang diselenggarakan oleh Direktorat Jenderal Pendidikan Dasar dan Menengah Kementerian Pendidikan dan Kebudaya­an. Kegiatan Program pendampingan ini bertujuan untuk mem­berikan pemantapan dan pendalaman materi biologi SMA, yang meliputi: (1) Biologi Sel Molekuler, Mikrobiologi, dan Bioteknologi, (2) Anatomi dan Fisiologi Tumbuhan, (3) Anatomi dan Fisiologi Hewan, (4) Genetika dan Evolusi, (5) Etologi, (6) Ekologi, dan (7) Biosistematik pada program pembina­an olimpiade Biologi bagi siswa terseleksi tingkat kota\/kabupaten. Metode yang digunakan adalah menerapkan strategi kontekstual, melalui metode praktik terbimbing dengan pemecahan masalah yang dihadapi siswa peserta olimpiade mengenai pemahaman dan kedalaman materi KSN bidang biologi. Pelaksanaan kegiatan pelatihan ini bertempat di labora­torium pembelajaran FKIP Unila dan Aula Perpustakaan SMAN 5 Bandar Lampung yang dilaksanakan pada bulan Januari sampai dengan April 2020. Peserta kegiatan adalah siswa SMA yang telah terseleksi kegiatan KSN Biologi tingkat sekolah yang berjumlah 11 orang peserta. Hasil kegiatan pen­damping­an menunjukkan adanya peningkatan penerapan iptek bagi siswa yang terukur sebagai output melalui lolosnya peserta pada tingkat 4 dan 10 besar  tahapan KSN Tingkat Provinsi Lampung. Hal ini membawa dampak pe­ning­katan signifikan terhadap pemahaman siswa di SMAN 5 Bandar Lampung, yang sebelumnya belum pernah lolos kegiatan KSN Bidang Biologi pada tingkat Provinsi.",
+      "subjects": [
+        "L1"
+      ],
+      "official_url": "https:\/\/e-jurnal.lppmunsera.org\/index.php\/parahita\/article\/view\/2818",
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ],
+      "id_number": "https:\/\/doi.org\/10.30656\/jpmwp.v5i1.2818",
+      "date": "2021-03-26",
+      "lastmod": "2021-05-21 01:06:52",
+      "datestamp": "2021-05-21 01:06:52",
+      "publisher": "LPPM Universitas Serang Raya",
+      "ispublished": "pub",
+      "number": 1
+    },
+    {
+      "volume": 6,
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "title": "TPACK: Analysis of Biology Learning Outcomes at Senior High School Level`s in the Bandar Lampung City During Online Learning",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The purpose of this study was to analyze students' biology learning outcomes towards the achievement of basic competencies in\r\nbiology materials at senior high school and to evaluate the implementation of online biology learning for teachers and students in\r\norder to achieve the expected competencies. The research design used an ex post facto design, with the population being all state senior\r\nhigh school students in the city of Bandar Lampung in a different distribution of sub-district locations represented based on the\r\nequivalent level of school accreditation. The sampling technique in this study used purposive sampling, there was consisted of SMAN\r\n2, SMAN 5, and SMAN 7 Bandar Lampung. The number of respondents amounted to 231 students, with the proportion of\r\nrespondents in the experimental group amounting to 159 students and the control group as many as 72 students. The acquisition of\r\nquantitative data in the form of learning outcomes values on the subject matter of plantae, qualitative data in the form of analysis of\r\nthe results of a questionnaire intended for teachers and students. Interviews were conducted to obtain secondary data in the form of\r\ndescriptive data carried out by teleconference. The result showed that there was a significant difference in learning outcomes in online\r\nclasses compared to face-to-face classes (p <0.05). The dominant online learning application used is using google classroom which is\r\nalready based on the Learning Management System (LMS). As many as 74.1% of students stated that online learning limits\r\ninteraction and communication with friends and teachers regarding subject matter. Therefore, the results of this study prove that the\r\nbiology learning outcomes of students carried out online based on LMS have a significant effect, but the interaction, collaboration,\r\nand communication between students during the learning process become an obstacle.",
+      "status_changed": "2021-08-18 01:17:52",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.unsil.ac.id\/index.php\/bioed\/article\/view\/2697",
+          "type": "pub"
+        }
+      ],
+      "date_type": "published",
+      "eprintid": 33451,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33451",
+      "refereed": "TRUE",
+      "number": 1,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33451,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153223",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 464863,
+                  "datasetid": "document",
+                  "hash": "feb6a2bb315080798b927da87182ccaf",
+                  "filename": "2697-9766-2-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-17 13:26:25",
+                  "mime_type": "application\/pdf",
+                  "fileid": 396764,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/396764",
+                  "objectid": 153223
+                }
+            ],
+            "docid": 153223,
+            "main": "2697-9766-2-PB.pdf"
+          }
+      ],
+      "publisher": "Universitas Siliwangi",
+      "datestamp": "2021-08-18 01:17:52",
+      "pagerange": "36-47",
+      "userid": 48,
+      "lastmod": "2021-08-18 01:17:52",
+      "date": "2021-06-30",
+      "dir": "disk0\/00\/03\/34\/51",
+      "id_number": "https:\/\/doi.org\/10.37058\/bioed.v6i1.2697",
+      "publication": "Jurnal Bioedusiana",
+      "creators": [
+        {
+          "name": {
+            "given": "Dina",
+            "honourific": null,
+            "family": "Maulina",
+            "lineage": null
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        },
+        {
+          "id": "ismirakhmawati@gmail.com",
+          "name": {
+            "given": "Ismi",
+            "family": "Rakhmawati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sikumbang",
+            "given": "Darlen"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Surbakti",
+            "given": "Arwin"
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article"
+    },
+    {
+      "lastmod": "2021-05-21 01:07:14",
+      "userid": 48,
+      "pagerange": "23-31",
+      "datestamp": "2021-05-21 01:07:14",
+      "publisher": "Politeknik Negeri Lampung",
+      "documents": [
+          {
+            "eprintid": 30300,
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "main": "jur. pengabmas rizka.pdf",
+            "docid": 136202,
+            "files": [
+                {
+                  "fileid": 359198,
+                  "mime_type": "application\/pdf",
+                  "mtime": "2021-05-20 08:10:18",
+                  "hash_type": "MD5",
+                  "filename": "jur. pengabmas rizka.pdf",
+                  "hash": "1c576d8045db1e6bed395757af0307a4",
+                  "datasetid": "document",
+                  "filesize": 216267,
+                  "objectid": 136202,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/359198"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136202",
+            "rev_number": 2
+          }
+      ],
+      "ispublished": "pub",
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30300",
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ],
+      "issn": "2746-1742",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Maulina",
+            "given": "Dina"
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rosidin",
+            "honourific": null,
+            "given": "Undang"
+          },
+          "id": "undangros@yahoo.com"
+        },
+        {
+          "id": "wayandistrik8@gmail.com",
+          "name": {
+            "given": "I Wayan",
+            "lineage": null,
+            "honourific": null,
+            "family": "Distrik"
+          }
+        },
+        {
+          "id": "idewaputunyeneng@gmail.com",
+          "name": {
+            "given": "I Dewa Putu",
+            "family": "Nyeneng",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "nengah.maharta@fkip.unila.ac.id",
+          "name": {
+            "given": "Nengah",
+            "family": "Maharta",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Jurnal Pengabdian Nasional",
+      "date": "2021-02-15",
+      "dir": "disk0\/00\/03\/03\/00",
+      "status_changed": "2021-05-21 01:07:14",
+      "eprint_status": "archive",
+      "abstract": "Kegiatan pelatihan ini bertujuan untuk: (1) Meningkatkan pemahaman dan keterampilan Guru tingkat\r\nSMA se-Bandar Lampung terhadap penerapan On Going Assessment dan instrumen penilaian\r\nberbasis HOTS; (2) Meningkatkan pemahaman dan keterampilan guru tingkat SMA se-Bandar\r\nLampung dalam mengimplementasikan standar penilaian dalam Kurikulum 2013. Metode yang\r\ndigunakan dalam kegiatan ini adalah diskusi, tanya jawab, workshop, dan pelatihan dengan\r\nmenerapkan strategi kontekstual, yaitu mengaitkan teori dengan praktik yang disampaikan dengan\r\nmetode praktik terbimbing. Khalayak sasaran kegiatan pelatihan ini adalah 35 orang guru yang\r\ntergabung dalam Musyawarah Guru Mata Pelajaran (MGMP) Fisika SMA se-Kota Bandar Lampung.\r\nEvaluasi keberhasilan pelatihan akan dilakukan pada: (1) Awal kegiatan, yaitu pre-test, untuk\r\nmengetahui sejauh mana kemampuan peserta pelatihan tentang on going assessment; (2) Akhir\r\nkegiatan, yaitu post-test, berisikan pertanyaan yang sama dengan tes awal, untuk mengetahui tingkat\r\nkeberhasilan, sehingga dapat diterapkan oleh setiap peserta. Data yang diperoleh dianalisis secara\r\ndeskriptif kuantitatif. Pelatihan on going assessment dan keterampilan berbasis Higher Order Thinking\r\nSkills sebanyak 27 peserta memperoleh hasil rata-rata 77,14% mengalami kenaikan nilai dari pre-test\r\nke post-test. Sedangkan, sebanyak 3 peserta memperoleh hasil rata-rata 8,57% mengalami\r\npenurunan nilai pre-test ke post-test, dan sebanyak 5 peserta yang memperoleh hasil rata-rata\r\n14,28% mengalami penilaian yang tetap dari pre-test ke post-test. Berdasarkan hasil perolehan\r\ntersebut pelatihan ini berhasil dikarenakan adanya peningkatan pengetahuan mengenai on going\r\nassessment dan keterampilan berbasis Higher Order Thinking Skills. Adapun sebagian kecil yang\r\nmengalami penurunan ini dikarenakan perbedaan jenis soal, yang mana pre-test berbentuk uraian\r\ndan post-test berbentuk pilihan jamak beserta uraian.",
+      "subjects": [
+        "L1"
+      ],
+      "official_url": "https:\/\/jurnal.polinela.ac.id\/index.php\/JPN\/article\/view\/1573",
+      "title": "PELATIHAN ON GOING ASSESSMENT DAN INSTRUMEN PENILAIAN HIGHER ORDER THINKING SKILLS (HOTS) BAGI GURU SMA DI KOTA BANDAR LAMPUNG",
+      "metadata_visibility": "show",
+      "rev_number": 14,
+      "volume": 2,
+      "eprintid": 30300,
+      "date_type": "published"
+    },
+    {
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "title": "BIMTEK PENGEMBANGAN BANK SOAL BERSTANDAR TIMS\/PISA BAGI GURU\r\nIPA SMP SE-KABUPATEN TANGGAMUS",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Kegiatan bimtek ini bertujuan untuk: (1) memberikan keterampilan kepada guruguru IPA di Kabupaten Tanggamus dalam mengembangkan bank soal kemapuan literasi berstandar TIMS\/PISA; (2) memberikan keterampilan kepada guru-guru\r\nIPA di Kabupaten Tanggamus dalam mengembangkan bank soal kemapuan numerasi berstandar TIMS\/PISA; (3) memberikan keterampilan kepada guru-guru IPA di Kabupaten Tanggamus dalam mengembangkan bank soal kemapuan sains berstandar TIMS\/PISA. Peserta kegiatan bimtek ini adalah guru IPA di Kabupaten Tanggamus. Peserta pelatihan, panitia, dan narasumber melakukan kegiatan dengan menerapkan protocol pencegahan covid-19 yaitu menjaga jarak aman 1,5-2 meter\r\ndan menggunakan masker\/faceshield. Evaluasi keberhasilan pelatihan akan dilakukan pada: (1) Awal kegiatan, yaitu pretes, untuk mengetahui sejauh mana kemampuan peserta bimtek tentang asesmen, PISA\/TIMSS, literasi sains dan\r\nnumerasi, serta analisis butir soal; (2) akhir kegiatan yaitu postes, berisikan pertanyaan yang sama dengan tes awal, untuk mengetahui tingkat keberhasilan,sehingga dapat diterapkan oleh setiap peserta. Berdasarkan hasil pretes dan postes diketahui terdapat peningkatan pemahaman guru dengan kategori sedang (Ngain = 0,42). Berdasarkan hasil feedback yang diberikan peserta diharapkan dilaksanakan kegiatan lanjutan dari kegiatan pelatihan ini.",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-11 04:56:07",
+      "eprintid": 35988,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35988",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156929",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 156929,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/417380",
+                  "mime_type": "application\/pdf",
+                  "fileid": 417380,
+                  "filename": "Laporan Dr. Undang Rosidin, M.Pd._FKIP_PKM_Unggulan JURUSAN_2021.oke (1).pdf",
+                  "hash": "3d63a7f052a4996beeb85a945a38dbe8",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-11 04:23:51",
+                  "datasetid": "document",
+                  "filesize": 6265715
+                }
+            ],
+            "main": "Laporan Dr. Undang Rosidin, M.Pd._FKIP_PKM_Unggulan JURUSAN_2021.oke (1).pdf",
+            "docid": 156929,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 35988
+          }
+      ],
+      "datestamp": "2021-11-11 04:56:07",
+      "userid": 48,
+      "lastmod": "2021-11-11 04:56:07",
+      "dir": "disk0\/00\/03\/59\/88",
+      "date": 2021,
+      "creators": [
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "given": "Dina",
+            "lineage": null,
+            "family": "Maulina",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Undang Rosidin",
+            "honourific": null,
+            "lineage": null,
+            "given": "UR"
+          },
+          "id": "undangros@yahoo.com"
+        },
+        {
+          "id": "marina_setyorini@yahoo.com",
+          "name": {
+            "family": "Setyarini",
+            "honourific": null,
+            "lineage": null,
+            "given": "M."
+          }
+        },
+        {
+          "id": "dimas.permadi@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Dimas Permadi",
+            "honourific": null,
+            "given": "Dimas"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "experiment"
+    },
+    {
+      "title": "KAJIAN PENGUATAN INTRINSIK DAN INTERAKSINYA DENGAN KEMAMPUAN\r\nLITERASI SAINS DAN MATEMATIS DITINJAU DARI SELF-EFFICACY SISWA\r\nJENJANG SMP DI KOTA BANDAR LAMPUNG ERA PANDEMI COVID-19",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-11 04:56:18",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Pandemi Covid-19 telah memberi imbas pada berbagai aspek kehidupan termasuk pendidikan. Ranah personal peserta didik secara langsung dan tidak langsung mengalami perubahan signifikan dengan adanya perubahan rapid keterlibatan dan suasana belajar yang dihadapi siswa. Literasi telah menjadi fokus kajian pengembangan pendidikan secara nasional. Melalui beragam pengukuran internasional serta program pemerintah terkait literasi baik literasi matematis maupun sains, menandakan pentingnya kemampuan tersebut untuk dimiliki oleh peserta didik. Tidak hanya itu, self-efficacy sebagai salah satu faktor intrinsik penentu keberhasilan individu dalam menyelesaikan suatu tugas tertentu\r\njuga turut menjadi perhatian pengukuran internasional seperti PISA. Untuk itu, diperlukan suatu kajian penguatan intrinsik dan dilihat interaksinya dengan kemampuan\r\nliterasi sains dan matematis ditinjau dari self-efficacy siswa. Kajian ini perlu dilakukan terhadap siswa pada jenjang SMP mengingat karakteristik perkembangan individu\r\npeserta didik yang masih berada pada fase pemantapan jati diri. Populasi dalam penelitian ini adalah seluruh siswa SMP di provinsi Lampung pada tahun ajaran 2020\/2021. Sampel\r\ndalam penelitian ini akan dipilih dengan mengkombinasikan teknik sampling stratified dan cluster random sampling sehingga diperoleh sampel representatif. Data penelitian ini\r\nakan diperoleh dari instrumen tes literasi sains, tes literasi matematis, skala self-efficacy dan kuesioner penguatan intrinsik. Data yang diperoleh dianalisis secara deskriptif dan juga inferensial. Data setiap variabel akan ditentukan kategori dan profilnya secara deskriptif. Hasil penelitian menunjukan bahwa kemampuan literasi sains dan matematika di kota Bandar Lampung selama pelaksanaan pembelajaran daring di Era Pandemi Covid-19 masih tergolong rendah. Penguatan intrinsik siswa SMP di Bandar Lampung\r\nselama pembelajaran Online berpengaruh terhadap tingkat kemampuan literasi sains dan matematis. Self-efficacy. Penguatan intrinsik siswa SMP di Kota Bandar Lampung\r\nmenjadi faktor penentu peningkatan kemampuan Literasi Sains dan Matematis.",
+      "eprintid": 35995,
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "main": "LAPORAN_DINA MAULINA_FKIP_PDP_2021.pdf",
+            "docid": 156937,
+            "files": [
+                {
+                  "objectid": 156937,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/417422",
+                  "mime_type": "application\/pdf",
+                  "fileid": 417422,
+                  "filename": "LAPORAN_DINA MAULINA_FKIP_PDP_2021.pdf",
+                  "hash": "b3bab0fe65de08d62887c3c9f4d560d7",
+                  "mtime": "2021-11-11 04:30:01",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 644033
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156937",
+            "rev_number": 2,
+            "eprintid": 35995,
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35995",
+      "full_text_status": "public",
+      "lastmod": "2021-11-11 04:56:18",
+      "userid": 48,
+      "datestamp": "2021-11-11 04:56:18",
+      "creators": [
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Maulina",
+            "lineage": null,
+            "given": "Dina"
+          }
+        },
+        {
+          "name": {
+            "given": "Widyastuti",
+            "honourific": null,
+            "family": "Widyastuti",
+            "lineage": null
+          },
+          "id": "widyaa58@gmail.com"
+        }
+      ],
+      "dir": "disk0\/00\/03\/59\/95",
+      "date": 2021,
+      "type": "experiment",
+      "divisions": [
+        "FKIP15"
+      ]
+    },
+    {
+      "pagerange": "114-117",
+      "datestamp": "2021-11-02 08:45:32",
+      "userid": 48,
+      "lastmod": "2021-11-02 08:45:32",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34821",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 3,
+      "ispublished": "pub",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 34821,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155492",
+            "docid": 155492,
+            "main": "Linda 26-Article Text-339-2-10-20210816 (1).pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-02 04:24:28",
+                  "filename": "Linda 26-Article Text-339-2-10-20210816 (1).pdf",
+                  "hash": "44c944e8edef6ff19ce716df88114751",
+                  "fileid": 408323,
+                  "mime_type": "application\/pdf",
+                  "filesize": 623759,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408323",
+                  "objectid": 155492
+                }
+            ]
+          }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "dir": "disk0\/00\/03\/48\/21",
+      "date": 2021,
+      "id_number": "10.53402\/ijesss.v1i3.26",
+      "publication": "INTERNATIONAL JOURNAL OF EDUCATIONAL STUDIES IN SOCIAL SCIENCES",
+      "creators": [
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Maulina",
+            "honourific": null,
+            "given": "Dina"
+          }
+        },
+        {
+          "name": {
+            "family": "Yulianti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Dwi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Lilik",
+            "honourific": null,
+            "given": "LS"
+          },
+          "id": "lilik.sabdaningtyas@fkip.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "This study is intended to analyze the need for e-LKPD development based on the preview, question,\r\nread, reflect, recite, and review (PQ4R) to improve students' HOTS. There are three syntaxes of 3-\r\nstage levels of high order thinking skills recommended by Bloom's taxonomy. It consists of analyzing,\r\nevaluating, and creating. The type of this research is a descriptive qualitative study analysis based on\r\na literature review of e-LKPD and equipped with the PQ4R strategy as an effort to increase the HOTS\r\nof students. The research subjects were educators and fourth-grade students of SD Negeri 1\r\nPurwosari, Padangratu Sub-District, Central Lampung. The research objects are HOTS, PQ4R, and eLKPD. The data collection instrument used interview guidelines, questionnaires, and tests. The cause\r\nof the low HOTS of students is the inadequacy of teaching materials and learning strategies used in\r\ntraining HOTS abilities. The results of the study found that educators had not fully used e-LKPD\r\nteaching materials. Educational units also require learning strategies that can increase HOTS. PQ4R\r\nis one of the learning strategies that can be applied as a solution to increase students' HOTS.\r\nEducators need e-LKPD that contains PQ4R learning strategies that are following the characteristics\r\nof students. Thus, it can be concluded that the PQ4R-based e-LKPD to improve the HOTS of students\r\nin primary schools needs to be developed.",
+      "status_changed": "2021-11-02 08:45:32",
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "volume": 1,
+      "metadata_visibility": "show",
+      "title": "PQ4R-based E-LKPD to improve the fourth grade students’ higher order thinking skills",
+      "eprintid": 34821
+    },
+    {
+      "subjects": [
+        "LB2300"
+      ],
+      "abstract": "Abstrak: Mengukur Keterampilan Diskusi Tertulis Menggunakan Rubrik Penilaian Diskusi Menggunakan Media Sosial Whatsapp. Tujuan penelitian adalah menjelaskan penggunaan rubrik penilaian keterampilan diskusi tertulis pada media sosial Whatsapp. Penelitian ini adalah penelitian deskriptif kualitatif dengan metode kajian pustaka dan survei. Responden terdiri dari staf pengajar program Studi Pendidikan Biologi. Data diperoleh menggunakan kuesioner dan aplikasi google search. Hasil yang diperoleh yakni terdapat 18 literatur mengenai diskusi sebagai metode pembelajaran dan sebagai keterampilan, terdapat 4 artikel yang mengemukakan mengenai rubrik penilaian diskusi tatap muka. Penggunaan rubrik diskusi tertulis yakni 1) memberikan kemudahan kepada pengajar memberikan penilaian aktivitas belajar mahasiswa; 2) memberikan arah bagi pengajar untuk melatih keterampilan diskusi tertulis bagi mahasiswa; dan 3) memberikan gambaran keterampilan diskusi yang dimiliki oleh mahasiswa.\r\n\r\nKata kunci: keterampilan diskusi tertulis, written discussion, whatsapp, rubrik penilaian diskusi tertulis",
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JBT\/index",
+      "date_type": "published",
+      "eprintid": 30810,
+      "projects": [
+        "mandiri"
+      ],
+      "datestamp": "2021-05-27 02:34:39",
+      "lastmod": "2021-05-27 02:34:39",
+      "number": 1,
+      "ispublished": "pub",
+      "publisher": "Prodi Pendidikan Biologi FKIP Unila",
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "date": "2021-04-30",
+      "id_number": "10.23960\/jbt.v.9i101",
+      "status_changed": "2021-05-27 02:34:39",
+      "rev_number": 9,
+      "volume": 9,
+      "metadata_visibility": "show",
+      "title": "Mengukur Keterampilan Diskusi Tertulis di Media Sosial (Whatsapp) Menggunakan Rubrik Penilaian Diskusi",
+      "referencetext": "Cintiasih, T. 2020. Implementasi Model Pembelajaran Daring pada Masa Pandemi Covid-19 di Kelas III SD PTQ Annida Kota Salatiga Tahun Pelajaran 2019\/2020. Skripsi. Institut Agama Islam Negeri Salatiga.\r\nKeputusan Menteri Pendidikan dan Kebudayaan No 719. 2020. Pedoman Pelaksanaan Kurikulum Pada Satuan Pendidikan dalam Kondisi Khusus.\r\nKienhuis, M. and Chester, A. 2014. Interteaching: A Model to Enhance Student Engagement. Halaman 135-154. Curriculum Models for the 21st Century: Using Learning Technologies in Higher Education.Editor, Maree Gosper, Dirk Ifenthaler. New York: Springer Science+Business Media. \r\nKing, L.B. 2016. Seni Berbicara: kepada siapa saja, kapan saja, di mana saja. Diterjemahkan oleh Marcus Prihminto Widodo. Edisi Revisi Bahasa Indonesia Cetakan ke 19. Gramedia Pustaka Utama. Jakarta.\r\nLailiyah, N. dan Wulansari, W. 2016. Peningkatan Keterampilan Berbicara Melalui Metode Diskusi Kelompok Model Tanam Paksa Siswa Kelas X Pemasaran 1 SMK PGRI 2 Kediri. Jurnal Pendidikan Volume 1 No. 2 Tahun 2016. ISSN: 2527-6891\r\nMulawati, T.R. 2011. Peningkatan Keterampilan Diskusi Siswa Kelas X SMAN Pleret, Bantul Melalui Model Pembelajaran Two Stay Two Stray.Skripsi. Program Studi Pendidikan Bahasa dan Sastra Indonesia.Universitas Negeri Yogyakarta.\r\nPramudiyanti, dkk. 2019. Learning writing discussion skills via Whatsapp using Structured and Unstructured Discussion Techniques. Proceeding of International Conference on Islamic Education: Challenges in Technology and Literacy. Faculty of Education and Teacher Training, Universitas Islam Negeri Maulana Malik Ibrahim Malang. November 6-7, 2019. P-ISSN: 2477-3638, E-ISSN: 2613-9804. Volume: 4.\r\nPutranto, A. Perancangan Forum Diskusi Mobile On Line Learning. Comtech. Vol.3 No.2 Desember 2012: 860-871.\r\nSafitri, M. Gunatama, G. Darmayanti, I.A.M. 2014. Keterampilan Membimbing Diskusi Kelompok Kecil Oleh Guru Bahasa Indonesia di Kelas VII SMP Laboratorium Undiksha. e-Journal Universitas Pendidikan Ganesha. Vol. 2 (1) 2014.\r\nTriana, R.W. 2014. Penerapan Metode Diskusi untuk Meningkatkan Keterampilan Berbicara Siswa Kelas XI IPS 1 SMA Muhammadiyah Kedawung dalam Pembelajaran Sejarah. Skripsi. Jurusan Pendidikan Sejarah. Universitas Pendidikan Indonesia. \r\nWaruwu, M. 2020. Studi Evaluatif Implementasi Pembelajaran Daring Selama Pandemi Covid-19. Jurnal Administrasi Pendidikan. Vol. 27 issue 2. Oktober. Hal 288-295. DOI: https:\/\/doi.org\/10.17509\/jap.v27i2. ISSN: p.1412-8152e.2580-1007.\r\nWulan. A.R. 2018. Menggunakan Asesmen Kinerja untuk Pembelajaran Sains dan Penelitian. Bandung: UPI Press. \r\nYuberti. 2015. Online Group Discussion Pada Mata Kuliah Teknologi Pembelajaran Fisika. Jurnal Ilmiah Pendidikan Fisika “Al-Biruni”. Vol. 04(02) halaman 145-153.",
+      "pagerange": "1-11",
+      "userid": 427,
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30810",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "pos": 1,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139063",
+            "main": 22032,
+            "docid": 139063,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 30612,
+                  "fileid": 365461,
+                  "mime_type": "application\/xml",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-26 01:23:54",
+                  "filename": 22032,
+                  "hash": "206fec374b7245946a7b476989b31024",
+                  "objectid": 139063,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/365461"
+                }
+            ],
+            "language": "id",
+            "mime_type": "application\/xml",
+            "content": "published",
+            "eprintid": 30810,
+            "placement": 1,
+            "license": "cc_by_sa_4",
+            "security": "public"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 30810,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139064",
+            "rev_number": 1,
+            "docid": 139064,
+            "main": "Mengukur Keterampilan Diskusi Tertulis di Media Sosial (Whatsapp) menggunakan Rubrik Penilaian Diskusi.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filesize": 499376,
+                  "fileid": 365463,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-26 01:28:17",
+                  "filename": "Mengukur Keterampilan Diskusi Tertulis di Media Sosial (Whatsapp) menggunakan Rubrik Penilaian Diskusi.pdf",
+                  "hash": "9ac9d0de2f7a875de593dcc1a553617c",
+                  "objectid": 139064,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/365463"
+                }
+            ]
+          }
+      ],
+      "funders": [
+        "Mandiri"
+      ],
+      "dir": "disk0\/00\/03\/08\/10",
+      "publication": "Jurnal Bioterdidik: Wahana Ekspresi Ilmiah",
+      "issn": "2621-5594",
+      "creators": [
+        {
+          "name": {
+            "given": "Pramudiyanti",
+            "family": "Pramudiyanti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "yanti19730310@gmail.com"
+        }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprintid": 35375,
+      "rev_number": 6,
+      "volume": 3,
+      "metadata_visibility": "show",
+      "title": "Analysis of the Making Questions Ability of Respiratory and Its Function on\r\nElementary School Students in Bandar Lampung City",
+      "official_url": "https:\/\/ejournal.iainbengkulu.ac.id\/index.php\/ijisedu\/index",
+      "subjects": [
+        "LB1501"
+      ],
+      "abstract": "Abstract\r\nOne of the scientific approach activities is asking questions but not every student is actively asking questions \r\nwhich can trigger curiosity about learning. This study aims to measure the making questions ability of fifthgrade\r\nelementary\r\nschool\r\nstudents\r\nin\r\nthe\r\ncity\r\nof\r\nBandar\r\nLampung\r\non\r\nthe\r\nsubject\r\nmatter\r\nof\r\nrespiratory\r\norgans\r\n\r\nand\r\nfunctions\r\nin\r\nanimals\r\nand\r\nhumans.\r\nThis\r\ndescriptive\r\nsurvey\r\nresearch\r\nused\r\na\r\nmultistage\r\ncluster\r\nsampling\r\n\r\narea\r\ncombined\r\nwith\r\nthe\r\nstratification.\r\nThe\r\ndesign\r\nof\r\nthis\r\nresearch\r\nis\r\ncross-sectional.\r\nThe\r\ntype\r\nof\r\ndata\r\nin\r\nthis\r\n\r\nstudy\r\nis\r\nquantitative\r\ndata\r\nobtained\r\nby\r\nmeasuring\r\nthe\r\nability\r\nof\r\nstudents\r\nin\r\nmaking\r\nquestions\r\nand\r\nthe\r\nresults\r\n\r\nwill\r\nbe\r\ninterpreted\r\nin the\r\nform\r\nof\r\na\r\npercentage\r\nwhich\r\nis\r\nthen\r\ncategorized\r\nbased\r\non\r\nthe\r\ncategory\r\nof\r\nstudents'\r\n\r\nability\r\nin\r\nmaking\r\nquestions.\r\nThe\r\nmaking\r\nquestions\r\nability\r\nof\r\nstudents\r\nin\r\nthis\r\nstudy\r\ncan\r\nbe\r\nmeasured\r\naccording\r\n\r\nto\r\nthe\r\nindicators\r\nof\r\nassessing\r\nthe\r\nquality\r\nof\r\nthe\r\nquestions.\r\nThe\r\nresults\r\nof\r\nthe\r\ncalculation\r\nof\r\nthe\r\ndata\r\nthat\r\nhave\r\n\r\nbeen\r\nobtained\r\nshow\r\nthat\r\nthe\r\nability\r\nof\r\ngrade\r\nV\r\nelementary\r\nschool\r\nstudents\r\nin\r\nmaking\r\nquestions\r\nis\r\nin\r\nhigh\r\n\r\ncategory\r\nwith\r\na\r\nfinal\r\npercentage\r\nof\r\n70.97%.\r\nThe\r\nresults\r\nof\r\nquality\r\nof\r\nstudent\r\nquestions\r\nbased\r\non\r\n4\r\nindicators\r\n\r\nobtained\r\nthe\r\npercentage\r\nfrom\r\nthe\r\nhighest\r\nto\r\nthe\r\nlowest,\r\nwhich\r\nis\r\n24.6%\r\non\r\nthe\r\nfocus\r\nindicator,\r\n17.1%\r\non\r\n\r\nthe\r\ngrammar\r\nindicator,\r\n15.6%\r\non\r\nthe\r\nrelevance\r\nindicator,\r\nand\r\n13.6%\r\non\r\nthe\r\ncognitive\r\nlevel\r\nindicator.\r\nThe\r\n\r\ncognitive\r\nlevel\r\nis\r\ninfluenced\r\nby\r\nage\r\nand\r\nlevel\r\nof\r\neducation,\r\ngrammar\r\nis\r\ninfluenced\r\nby\r\nthe\r\nlimited\r\nvocabulary\r\n\r\nfactor\r\n\r\nthat is owned. It can be concluded that the difficult to arrange questions with good and correct\r\nvocabulary relevance with influenced of students' inability to think more critically and deeply so it is difficult\r\nfor them to make questions that are relevant to everyday life or other fields of science and the focus is\r\ninfluenced by interesting learning media and interactive learning methods. \r\n\r\n Keywords: making questions ability; quality of questions; respiratory material",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-08 01:23:11",
+      "related_url": [
+        {
+          "url": "https:\/\/ejournal.iainbengkulu.ac.id\/index.php\/ijisedu\/article\/view\/4184"
+        }
+      ],
+      "dir": "disk0\/00\/03\/53\/75",
+      "date": "2021-07",
+      "id_number": "10.29300\/ijisedu.v3i2.4184",
+      "publication": "Indonesian J. Integr. Sci. Education ( IJIS Edu )",
+      "creators": [
+        {
+          "name": {
+            "family": "Pramudiyanti",
+            "honourific": null,
+            "lineage": null,
+            "given": "Pramudiyanti"
+          },
+          "id": "yanti19730310@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Rakhmawati",
+            "lineage": null,
+            "family": "Ismi",
+            "honourific": null
+          },
+          "id": "ismi.rakhmawati@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "E ISSN : 2655 2450 P ISSN : 2655 2388",
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35375",
+      "refereed": "FALSE",
+      "number": 2,
+      "ispublished": "pub",
+      "publisher": "IAIN Bengkulu",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "fileid": 412710,
+                  "filename": "Pramudiyanti dkk_ijisedu.pdf",
+                  "hash": "3f3cba8321acc60e4868722d2031b1a3",
+                  "mtime": "2021-11-07 03:16:03",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 430465,
+                  "objectid": 156195,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412710"
+                }
+            ],
+            "docid": 156195,
+            "main": "Pramudiyanti dkk_ijisedu.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156195",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 35375,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "datestamp": "2021-11-08 01:23:11",
+      "pagerange": "141-148",
+      "lastmod": "2021-11-08 01:23:11",
+      "userid": 427
+    },
+    {
+      "type": "conference_item",
+      "divisions": [
+        "FKIP15"
+      ],
+      "creators": [
+        {
+          "id": "yanti19730310@gmail.com",
+          "name": {
+            "given": "Pramudiyanti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Pramudiyanti"
+          }
+        },
+        {
+          "name": {
+            "given": "A.P",
+            "honourific": null,
+            "family": "Median Agus Priadi",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "dir": "disk0\/00\/03\/53\/76",
+      "date": "2021-10",
+      "lastmod": "2021-11-08 01:23:20",
+      "userid": 427,
+      "datestamp": "2021-11-08 01:23:20",
+      "ispublished": "inpress",
+      "documents": [
+          {
+            "docid": 156198,
+            "main": "Pramudiyanti_full Paper_Kemandirian Belajar Mahasiswa pada Pembelajaran Dalam Jaringan.pdf",
+            "files": [
+                {
+                  "objectid": 156198,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412731",
+                  "mime_type": "application\/pdf",
+                  "fileid": 412731,
+                  "filename": "Pramudiyanti_full Paper_Kemandirian Belajar Mahasiswa pada Pembelajaran Dalam Jaringan.pdf",
+                  "hash": "dc793fafcfba69b20f6d984451ee7da8",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-07 03:46:05",
+                  "datasetid": "document",
+                  "filesize": 79957
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156198",
+            "eprintid": 35376,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35376",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "event_title": "SINAPSMAGI 1",
+      "eprintid": 35376,
+      "date_type": "submitted",
+      "event_location": "FKIP UNILA",
+      "status_changed": "2021-11-08 01:23:20",
+      "eprint_status": "archive",
+      "subjects": [
+        "LB2300"
+      ],
+      "abstract": "ABSTRAK\r\n \r\nPeristiwa pandemi oleh covid-19 telah memberikan dampak yang besar bagi kehidupan\r\npembelajar di Indonesia khususnya di Lampung.  Keadaan ini memaksa semua pihak untuk\r\nberadaptasi, pihak  dosen terpaksa dan tertantang untuk menyelenggarakan pembelajaran secara\r\ndaring, pun mahasiswa terpaksa belajar secara daring. Tujuan penulisan penelitian ini  untuk\r\nmengetahui ruang lingkup kemandirian belajar mahasiswa, teknik yang dilakukan untuk\r\nmemperoleh data kemandirian mahasiswa dan beberapa penelitian mengenai kemandirian\r\nmahasiswa. Metode yang digunakan adalah kajian literatur. Pengumpulan data merujuk pada\r\nPramudiyanti (2021) dan Argaheni (2020) dengan cara penelusuran literatur pada aplikasi google\r\nscholar dengan kata kunci  pembelajaran daring dan kemandirian belajar mahasiswa.  Hasill kajian\r\ndiperoleh: 1) Kemandirian belajar yakni proses mengatur diri sendiri dalam kegiatan belajar. \r\nKemandirian meliputi tiga aspek yaitu perilaku, kognitif, dan motivasi, lebih mandiri belajar\r\ndengan kata lain senantiasa tidak tergantung kepada orang lain, menetapkan tujuan belajar,\r\nmendiagnosis kebutuhan belajar, memiliki rasa percaya diri dan tanggung jawab serta melakukan\r\nevaluasi diri; 2) Teknik pengumpulan data kemandirian belajar mahasiswa yakni melalui\r\nkuesioner;  3) Diperoleh beberapa artikel penelitian mengenai kemandirian belajar mahasiswa.\r\n\r\nKata Kunci: kemandirian belajar mahasiswa, kajian literatur.pembelajaran daring,",
+      "title": "KEMANDIRIAN BELAJAR MAHASISWA PADA \r\nPEMBELAJARAN DALAM JARINGAN (KAJIAN LITERATUR)",
+      "event_dates": "30 Oktober 2021",
+      "referencetext": "Argaheni, N.B. 2020.  Sistematik Review: Dampak Perkuliahan Daring Saat Pandemi Covid-19 \r\nTerhadap Mahasiswa Indonesia. Jurnal Placentum (Jurnal Ilmiah Kesehatan dan\r\nAplikasinya) Vol. 8(2) 2020. \r\nAlvi, E., Iqbal, Z., Masood, F., & Batool, T. 2016. A Qualitative Account of The Nature and Use         \r\nof SelfRegulated Learning (SRL) Strategies Employed by University Students. Australian\r\nJournal of Teacher Education, 41(8).  http:\/\/dx.doi.org\/10.14221\/ajte.2016v41n8.3 \r\nAslamiyah, TA., Setyosari, P., Praherdhiono, H. 2019. Jurnal kajian Teknologi Pendidikan (JKTP)\r\nVol.2 No 2. Mei 2019. Hal. 109-114. \r\nAstuti,B. 2019. Profil Kemandirian Belajar Mahasiswa Bimbingan dan Konseling. Jurnal \r\nPenelitian Ilmu Pendidikan. No 12(1): 63-74. April 2019. DOI:\r\n10.21831\/jpipfip.v12i1.24327 \r\nAzizatul Banati, Martiani. 2020. Kemandirian Belajar Mahasiswa Penjas Menggunakan Media \r\nGoogle Classroom Melalui Hybrid Learning Pada Pembelajaran Profesi Pendidikan Di\r\nMasa Pandemi Covid-19. Jurnal Teknologi Pendidikan, Vol. 13, No. 2, Oktober 2020, eISSN:\r\n2407-7437.\r\nHal\r\n119-125.\r\n\r\nFadila, NF., Nadiroh TA, Juliana, R., Zulfa H.Z, Ibrahim. 2021. Kemandirian Belajar Secara\r\nDaring Sebagai Prediktor Hasil Belajar Mahasiswa Pendidikan Matematika UIN Sunan\r\nKalijaga. Jurnal Cendekia: Jurnal Pendidikan Matematika. Volume 05, No. 02 Jul 2021,\r\npp. 880-891. \r\nPramudiyanti. 2021. Mengukur Keterampilan Diskusi Tertulis di Media Sosial (Whatsapp)\r\nMenggunakan Rubrik Penilaian Diskusi. Jurnal Bioterdidik:Wahana Ekspresi Ilmiah.\r\nVol.9 No.1,  April 2021, Page 1-11. Doi; 10.23960\/JBT.V9I101. \r\nSobri, M., Nursaptini, Setiani, N. 2020. Mewujudkan Kemandirian Belajar Melalui Pembelajaran\r\nBerbasis Daring Diperguruan Tinggi Pada Era Industri 4.0. Jurnal Pendidikan Glasser.\r\nNo1 Vol 4. April 2020. DOI: http:\/\/10.32529\/glasser.v4i1.373. \r\nSudarwo, R., Yusuf, Y., & Anfas, A. 2018. Pengaruh Sarana Belajar Dan Motivasi Belajar\r\nTerhadap Kemandirian Belajar Mahasiswa (Studi Empirical Pada Mahasiswa Beasiswa\r\nBidikmisi UPBJJ-UT Ternate). Jurnal Pendidikan, 19(2), 68-83.\r\nhttps:\/\/doi.org\/10.33830\/jp.v19i2.152.2018 \r\nVera Mandailina, Syaharuddin,Dewi Pramita,Ibrahim, Haifaturrahmah. 2021. Pembelajaran\r\nDaring Dalam Meningkatkan Motivasi dan Hasil Belajar Peserta Didik Selama Pandemi\r\nCovid-19: Sebuah Meta-Analisis. Indonesian Journal of Educational Science (IJES).\r\nVolume 03, No 02 Maret 2021.ISSN 2622- 6197 (Online)ISSN 2655-4402 (Cetak)",
+      "event_type": "conference",
+      "rev_number": 7,
+      "metadata_visibility": "show"
+    },
+    {
+      "eprint_status": "archive",
+      "status_changed": "2021-11-08 01:23:52",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Abstrak: Pertanyaan merupakan hasil kegiatan berpikir yang perlu dibudayakan pada proses pembelajaran, karena pertanyaan dapat meningkatkan partisipasi aktif siswa. Tujuan kegiatan adalah memberikan pengalaman kepada guru IPA Biologi dalam membuat pertanyaan menggunakan matriks pertanyaan, sehingga guru dapat membelajarkan membuat pertanyaan menggunakan matriks pertanyaan. Kegiatan pengabdian ini dilakukan dengan metode pelatihan secara daring. Kelompok mitra yaitu MGMP IPA se_Biologi Lampung Timur. Pengumpulan data dilakukan dengan cara pretes dan postes. Data diolah menggunakan program excel. Hasil pengabdian sebagai berikut: nilai pretes 42,78, postes 55,42 dengan nilai N-Gain 22 berkategori tidak efektif.\r\n\r\n\r\nKata kunci: pelatihan guru, Biologi, matriks pertanyaan.",
+      "event_dates": "30 Oktober 2021",
+      "title": "Mendesain Pertanyaan Pembelajaran Menggunakan Matriks Pertanyaan bagi Guru IPA se-Lampung Timur",
+      "referencetext": "DAFTAR PUSTAKA\r\n\r\nKemendikbud. 2013. Materi Pelatihan Guru Implementasi Kurikulum 2013 SMP\/MTs Ilmu Pengetahuan Alam. Badan Pengembangan Sumber Daya Manusia Pendidikan dan Kebudayaan dan Penjaminan Mutu Pendidikan, Kemendikbud. Jakarta.\r\nNasution, R.D., Saragih, F.H.  Mira, P.S.,  Sembiring, A. 2020. Pendampingan Sistem Pembelajaran Online Berbasis Aplikasi Google Meet Bagi Guru-Guru Smp It Daarul Istiqlal Dan Smp It Rahmat Marindal I, Kecamatan Patumbak, Kabupaten Deli Serdang. Jurnal Pengabdian Kepada Masyarakat. Vol 26 No 24. Universitas Negeri Medan. https:\/\/doi.org\/10.24114\/jpkm.v26i4.20365.\r\nPramudiyanti, Susilo, H., Hastuti, U.S., & Lestari, U. 2019. The Efforts to Foster Students’ Skill in Making Questions Through Thinking Tool (Question Matrix) Development. Jurnal Pendidikan IPA Indonesia, 8(1), 119-128.\r\nWalsh, J.A, dan Sattes, B.D. 2011. ThinkingThrough Quality Questioning: Deepening Student Engagement. USA: Penerbit Corwin.\r\nWidjaya, H.L.S., Suandi, I.N., Putrayasa. I.B. 2013. Analisis Pertanyaan Guru Dalam Proses Pembelajaran Bahasa Indonesia Pada Siswa Kelas V Sekolah Dasar Negeri 3 Selong Lombok Timur Nusa Tenggara Barat Tahun Pembelajaran 2012\/2013. Jurnal Pendidikan dan Pembelajaran Bahasa Indonesia. Vol 2 tahun 2013. Pascasarjana Universitas Pendidikan Ganesha. \r\nRagatz, A. B. (2010). Di Dalam Ruang Kelas Matema¬tika di Indonesia: Studi Video TIMSS ten¬tang Kegiatan Pembelajaran dan Capaian Siswa. Bank Dunia. Jakarta. Indonesia. D. Heis¬ley, Richard J. Semenik, Peter Dickson, Valarie Zeithaml, and Roger L. Jenk. Chicago: American Marketing Association, 209-216.\r\nSetiawan, Y.E., Syaifudin. 2020. Peningkatan Kompetensi Profesionalitas Guru Melalui Pelatihan Desain Pembelajaran Peta Konsep. JPKM. Vol 26 No 3. Juli-September 2020.  http:\/\/dx.doi.org\/10.24114\/jpkm.v26i3.16377\r\nSusilo, H., Ibrohim,Sudrajat, A.K., Kristiani, N. 2021. Tantangan Dan Hambatan Membelajarkan Guru Mengembangkan Keterampilan Hidup Di Abad 21 dalam Bunga Rampai  Hasil Riset Um 2019 Bidang Saintek . Penulis dan Penyunting Ahmad Taufiq, Rr. Poppy Puspitasari, S. Hal. 130-139. Malang: CV Penulis Cerdas Indonesia\r\nWardhana, D.E.C., Basuki, R., dan Noermanzah. 2020. Webinar dan Pendampingan Daring Penulisan Artikel Hasil Penelitian pada Jurnal Nasional Terakreditasi Bagi Guru Bahasa Indonesia Tingkat SMA Kota Bengkulu. Jurnal Pengabdian Kepada Masyarakat (JPKM). Vol 26, No 4. Oktober-Desember. https:\/\/doi.org\/10.24114\/jpkm.v26.4.20640.",
+      "event_type": "conference",
+      "rev_number": 10,
+      "metadata_visibility": "show",
+      "event_title": "Seminar Pengabdian Kepada Masyarakat \"Membangun Pemberdayaan Masyarakat Yang Unggul dan Adaptif melalui Transformasi Pendidikan di Era Pandemi Covid-19\"",
+      "eprintid": 35382,
+      "event_location": "UNIVERSITAS LAMPUNG, FKIP",
+      "lastmod": "2021-11-08 01:23:52",
+      "userid": 427,
+      "datestamp": "2021-11-08 01:23:52",
+      "ispublished": "inpress",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156202",
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 156202,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412756",
+                  "datasetid": "document",
+                  "filesize": 1102319,
+                  "mime_type": "application\/pdf",
+                  "fileid": 412756,
+                  "filename": "PPT_ PRAMUDIYANTI DKK_Mendesain Pertanyaan Pembelajaran Menggunakan Matriks Pertanyaan bagi Guru.pdf",
+                  "hash": "bc8265a71d94fe880c6cf718e811af24",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-07 04:13:42"
+                }
+            ],
+            "main": "PPT_ PRAMUDIYANTI DKK_Mendesain Pertanyaan Pembelajaran Menggunakan Matriks Pertanyaan bagi Guru.pdf",
+            "docid": 156202,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 35382
+          }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35382",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "divisions": [
+        "FKIP15"
+      ],
+      "creators": [
+        {
+          "id": "yanti19730310@gmail.com",
+          "name": {
+            "given": "Pramudiyanti",
+            "family": "Pramudiyanti",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Meriza",
+            "lineage": null,
+            "given": "Nadya"
+          },
+          "id": "nadya.meriza@fkip.unila.ac.id"
+        },
+        {
+          "id": "dina.maulina@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Maulina",
+            "lineage": null,
+            "given": "Dina"
+          }
+        },
+        {
+          "id": "ritamarpaung15@yahoo.co.id",
+          "name": {
+            "given": "Rini Rita",
+            "lineage": null,
+            "family": "Marpaung",
+            "honourific": null
+          }
+        }
+      ],
+      "date": "2021-10",
+      "dir": "disk0\/00\/03\/53\/82"
+    },
+    {
+      "date": 2021,
+      "dir": "disk0\/00\/03\/53\/80",
+      "creators": [
+        {
+          "name": {
+            "given": "Pramudiyanti",
+            "lineage": null,
+            "family": "Pramudiyanti",
+            "honourific": null
+          },
+          "id": "yanti19730310@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Nadya",
+            "lineage": null,
+            "family": "Meriza",
+            "honourific": null
+          },
+          "id": "nadya.meriza@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dina",
+            "family": "Maulina",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rini Rita",
+            "honourific": null,
+            "family": "Marpaung",
+            "lineage": null
+          },
+          "id": "ritamarpaung15@yahoo.co.id"
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "conference_item",
+      "full_text_status": "restricted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35380",
+      "refereed": "FALSE",
+      "ispublished": "inpress",
+      "documents": [
+          {
+            "date_embargo": "2022-10",
+            "eprintid": 35380,
+            "placement": 1,
+            "security": "validuser",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "language": "en",
+            "content": "presentation",
+            "docid": 156200,
+            "main": "VIDEO pemaparan poster-PKM_PRAMUDIYANTI -.ppsx",
+            "files": [
+                {
+                  "objectid": 156200,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/412741",
+                  "datasetid": "document",
+                  "filesize": 15408154,
+                  "fileid": 412741,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-07 03:56:26",
+                  "filename": "VIDEO pemaparan poster-PKM_PRAMUDIYANTI -.ppsx",
+                  "hash": "7fd269528ec88967986a90cb13bb1a0a"
+                }
+            ],
+            "pos": 1,
+            "format": "other",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156200",
+            "formatdesc": "PPT Presentasi"
+          }
+      ],
+      "pres_type": "poster",
+      "datestamp": "2021-11-08 01:23:50",
+      "lastmod": "2021-11-08 01:23:50",
+      "userid": 427,
+      "event_location": "Bandar Lampung",
+      "event_title": "Seminar Nasional Bersama FMIPA Unila Tahun 2021",
+      "eprintid": 35380,
+      "event_type": "conference",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "event_dates": "8-9 September 2021",
+      "title": "PENDAMPINGAN �IDENTIFIKASI PERMASALAHAN PEMBELAJARAN BIOLOGI �DI SMA�",
+      "referencetext": "Afandi.M. 2014. Pentingnya Penelitian Tindakan Kelas  Bagi Guru Dalam Pembelajaran Di Sekolah Dasar. Jurnal Ilmiah Pendidikan Dasar. Vol. 1 No. 1 Januari 2014.\r\nArikunto, S. 2014. Prosedur Penelitian: Suatu Pendekatan Praktik. Rineka Cipta: Jakarta.\r\n\r\nFitria, H., Kristiawan, M., Rahmat, N., Jend Ahmad Yani, J., Gotong Royong, L., Palembang, K., Selatan, S., Wr Supratman, J., Limun, K., Bangka Hulu, M., Bengkulu, K., Manajemen Pendidikan, J., & PGRI Palembang Jl Jend Ahmad Yani, U. (2019). UPAYA MENINGKATKAN KOMPETENSI GURU MELALUI PELATIHAN PENELITIAN TINDAKAN KELAS. In Abdimas Unwahas (Vol. 4, Issue 1).\r\nLusianai, W. O., Surimi, L., Nurfikria, I., Aryuni, Jabar, S., Siti, ), Idrus, H., Amin, H., & Oleo, H. (2020). PELATIHAN DAN PENDAMPINGAN PENGISIAN KONTEN KELAS VIRTUAL BERBASIS WEB BLOG TRAINING AND ASSISTANCE OF WEB-BASED VIRTUAL CLASS CONTENT FILLING 1). 4(2).\r\nPeningkatan, D., Pembelajaran, K., Rivalina, R., Kunci, K., Informasi, T., Guru, K., Guru, K., & Komunikasi, D. (n.d.). KOMPETENSI TEKNOLOGI INFORMASI DAN KOMUNIKASI GURU TECHNOLOGY (ICT) COMPETENCY IN DEVELOPING THE QUALITY IN INSTRUCTIONAL DESIGN. (Rivalina, R. 2014. Kompetensi teknologi Informasi dan Komunikasi Guru dalam Peningkatan Kualitas Pembelajaran. Jurnal Teknodik. Vol. 18.No. 2, Agustus 2014)\r\nPeraturan Menteri PAN dan Reformasi Birokrasi No 16 Tahun 2009, tentang Jabatan Fungsional Guru Dan Angka Kreditnya.\r\nToyota, I., Liang, B., Utsuro, T., & Yamamoto, M. (2012). P 2 p 2 b. C, 3–6.\r\nUndang-undang Republik Indonesia No 14 Tahun 2005, Tentang Guru dan Dosen.  Departemen Pendidikan Nasional. Jakarta. \r\nWardhana, D. E. C., Basuki, R., & Noermanzah, N. (2020). WEBINAR DAN PENDAMPINGAN DARING PENULISAN ARTIKEL HASIL PENELITIAN PADA JURNAL NASIONAL TERAKREDITASI BAGI GURU BAHASA INDONESIA TINGKAT SMA KOTA BENGKULU. JURNAL PENGABDIAN KEPADA MASYARAKAT, 26(4), 228. https:\/\/doi.org\/10.24114\/jpkm.v26i4.20640\r\nWibawa, S. 2017. Tridharma Perguruan Tinggi (Pendidikan Dan Pengabdian Kepada Masyarakat). Power Point disajikan pada kegiatan Rapat Perencanaan Pengawasan Proses Bisnis Perguruan Tinggi Negeri Yogyakarta, 29 Maret 2017.",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "ABSTRAK\r\n\r\nPenelitian Tindakan Kelas (PTK) adalah salah satu cara yang dapat digunakan oleh guru  untuk  meningkatkan  kualitas  diri  dan  kualitas  pembelajaran.    Kualitas  diri  terkait dengan kemauan untuk membuka diri terhadap perkembangan pengetahuan dan teknologi pengajaran. Kualitas pembelajaran terkait dengan cara-cara menyajikan materi pembelajaran yang dapat dijangkau oleh siswa dan mudah bagi guru.\r\nKegiatan PTK dapat dilakukan oleh guru disembarang waktu, artinya tidak terikat oleh materi tertentu atau waktu khusus. Hal ini merupakan salah satu kelebihan PTK. Meskipun   demikian,   guru   membutuhkan   pendampingan   untuk   mempraktikkan   jenis penelitian ini. Pendampingan dapat dilakukan berupa pemberian konsep-konsep PTK, cara yang mudah dalam praktik PTK dan membuat artikel  sederhana untuk sosialisasi hasil PTK.\r\nHarapan dari kegiatan ini adalah munculnya guru yang memiliki kemampuan untuk melakukan perbaikan   pembelajaran melalui PTK. Hasil kegiatan meliputi 1). Profil pengetahuan guru mengenai PTK sudah baik, ada satu guru berkategori sangat baik. 2). Pengalaman belajar guru selama pendampingan mengalami perubahan. Pengalaman belajar masing-masing guru berbeda dan terukur secara kualitatif. 3). Pengetahuan guru secara kognitif     muncul  dalam  diskusi  lisan,  namun  guru  masih  mengalami  kendala  untuk menuliskan dalam proposal. 4) Kendala yang dialami dalam menuliskan proposal adalah kurangnya pengetahuan guru mengenai pedagogik atau ilmu kependidikan, dan kurangnya keterampilan mencari informasi ilmiah. 5). Tindak lanjut yang perlu dilakukan adalah pelatihan keterampilan mencari informasi ilmiah, peningkatan pengetahuan pedagogik atau pedagogy content knowledge. \r\n \r\nKata kunci: belajar; biologi; guru; pengalaman; pendampingan; penelitian tindakan kelas",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-08 01:23:50"
+    },
+    {
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ],
+      "issn": "2745-7699",
+      "creators": [
+        {
+          "id": "yanti19730310@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Pramudiyanti",
+            "lineage": null,
+            "given": "Pramudiyanti"
+          }
+        },
+        {
+          "id": "nadya.meriza@fkip.unila.ac.id",
+          "name": {
+            "family": "meriza",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nadya"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Maulina",
+            "given": "Dina"
+          },
+          "id": "dina.maulina@fkip.unila.ac.id"
+        },
+        {
+          "id": "ismirakhmawati@gmail.com",
+          "name": {
+            "given": "Ismi",
+            "lineage": null,
+            "family": "Rakhmawati",
+            "honourific": null
+          }
+        }
+      ],
+      "publication": "Tabikpun",
+      "dir": "disk0\/00\/04\/13\/54",
+      "date": 2021,
+      "lastmod": "2022-04-19 01:09:53",
+      "userid": 427,
+      "datestamp": "2022-04-19 01:09:53",
+      "pagerange": "233-242",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458480",
+                  "objectid": 162989,
+                  "filesize": 30546,
+                  "datasetid": "document",
+                  "mtime": "2022-04-18 04:57:48",
+                  "hash_type": "MD5",
+                  "hash": "fb602bbf4efcf519448bef9531a82638",
+                  "filename": 54,
+                  "fileid": 458480,
+                  "mime_type": "text\/html"
+                }
+            ],
+            "main": 54,
+            "docid": 162989,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162989",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "license": "cc_by_4",
+            "security": "public",
+            "eprintid": 41354,
+            "content": "published",
+            "mime_type": "text\/html",
+            "language": "id"
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "number": 3,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41354",
+      "full_text_status": "public",
+      "eprintid": 41354,
+      "date_type": "published",
+      "status_changed": "2022-04-19 01:09:53",
+      "eprint_status": "archive",
+      "abstract": "Penelitian Tindakan Kelas (PTK) adalah salah satu upaya guru untuk meningkatkan kualitas diri dan kualitas pembelajaran. PTK tidak terikat oleh materi tertentu atau waktu khusus sehingga dapat dilakukan guru setiap saat. Meskipun demikian, guru membutuhkan pendampingan untuk mempraktekkan penelitian ini. Materi pendampingan berupa pemaparan konsep-konsep PTK, praktek PTK yang mudah dan membuat artikel sederhana hasil PTK. Harapan dari kegiatan ini adalah munculnya guru yang memiliki kemampuan untuk melakukan perbaikan pembelajaran melalui PTK. Hasil sekaligus kesimpulan pendampingan adalah pengetahuan guru mengenai PTK sudah baik, bahkan satu guru berkategori sangat baik. Selain itu, pengalaman PTK masing-masing guru menjadi kaya dan terukur secara kualitatif. Saat sesi diskusi, pengetahuan guru secara kognitif muncul, namun guru masih kesulitan menuliskannya dalam proposal. Faktor pengetahuan pedagogik atau ilmu kependidikan dan kurangnya keterampilan mencari informasi ilmiah merupakan kendalanya. Tindak lanjut yang perlu dilakukan adalah pelatihan keterampilan mencari informasi ilmiah dan peningkatan pengetahuan pedagogik.",
+      "subjects": [
+        "L1"
+      ],
+      "title": "Pendampingan Penelitian Tindakan Kelas Tahap Identifikasi\r\nPermasalahan Pembelajaran Biologi Di SMAN Bandar Lampung",
+      "official_url": "https:\/\/tabikpun.fmipa.unila.ac.id\/index.php\/jpkm_tp",
+      "metadata_visibility": "show",
+      "volume": 2,
+      "rev_number": 8
+    },
+    {
+      "dir": "disk0\/00\/03\/37\/31",
+      "date": "2021-06",
+      "publication": "Bioedusiana",
+      "creators": [
+        {
+          "id": "wisnujuliwiono@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wiono",
+            "given": "Wisnu Juli"
+          }
+        },
+        {
+          "id": "yanti19730310@gmail.com",
+          "name": {
+            "given": "Pramudiyanti",
+            "honourific": null,
+            "family": "Pramudiyanti",
+            "lineage": null
+          }
+        },
+        {
+          "id": "nadya.meriza@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Meriza",
+            "honourific": null,
+            "given": "Nadya"
+          }
+        }
+      ],
+      "issn": "2684-7604",
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33731",
+      "refereed": "TRUE",
+      "ispublished": "pub",
+      "number": 1,
+      "publisher": "Universitas Siliwangi",
+      "documents": [
+          {
+            "eprintid": 33731,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 153956,
+            "main": "Artikel Bioedusiana.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399516",
+                  "objectid": 153956,
+                  "filename": "Artikel Bioedusiana.pdf",
+                  "hash": "547ee85f88319ee1fd22cada4f41598e",
+                  "mtime": "2021-08-30 09:29:59",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 399516,
+                  "filesize": 398631,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153956"
+          }
+      ],
+      "datestamp": "2021-09-01 01:31:01",
+      "pagerange": "1-13",
+      "lastmod": "2021-09-01 01:31:01",
+      "userid": 3961,
+      "date_type": "published",
+      "eprintid": 33731,
+      "volume": 6,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "title": "Quality Analysis of Student Questions for Prospective Teachers of Natural Sciences Teachers Reviewed from Learning Experience",
+      "official_url": "http:\/\/jurnal.unsil.ac.id\/index.php\/bioed\/article\/view\/2318\/1763",
+      "subjects": [
+        "LB2300"
+      ],
+      "abstract": "The quality of the question can describe the development of a person's thinking level. The questioning activity is also an indication that a student is actively involved in the learning process. The purpose of this study was to describe the quality profile of the students' questions from a natural science family in terms of their learning experience. This study uses a descriptive method because it aims to describe the profile of research subjects. The research instrument was a learning experience questionnaire and a question matrix. Learning experience questionnaires are used to reveal a picture of student learning experiences during lectures. Meanwhile, the question matrix is used to measure the level of thinking on each question made by students. The population of this study were all students in the Mathematics and Natural Sciences Education Department who had attended Basic Biology courses. Data analysis using simple regression shows that student learning experience does not significantly influence the quality of student questions. Each study program has a t score of 0.120 (chemistry education); 1,341 (Physics education); and 0.578 (Biology education). The entire t score is less than the t table. This condition is strongly suspected because the core activity phase of the lecture process did not go well. Based on the data analysis, it was found that the core activity phase had the lowest score of 67.33 which was significant.\r\nKeywords: Quality Questions; Learning Experience; Natural Science.",
+      "eprint_status": "archive",
+      "status_changed": "2021-09-01 01:31:01"
+    },
+    {
+      "ispublished": "unpub",
+      "publisher": "LPPM Universitas Lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 157126,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/418862",
+                  "mime_type": "application\/pdf",
+                  "fileid": 418862,
+                  "filename": "Laporan PkM 2021_Wisnu dkk-compressed.pdf",
+                  "hash": "9113201a6eb21b3455450c0b84dfe5ef",
+                  "mtime": "2021-11-11 08:47:33",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "filesize": 1655515
+                }
+            ],
+            "main": "Laporan PkM 2021_Wisnu dkk-compressed.pdf",
+            "docid": 157126,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157126",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 36185,
+            "mime_type": "application\/pdf",
+            "language": "en"
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36185",
+      "lastmod": "2021-11-11 08:53:38",
+      "userid": 513,
+      "datestamp": "2021-11-11 08:53:38",
+      "creators": [
+        {
+          "name": {
+            "given": "Wisnu Juli",
+            "honourific": null,
+            "family": "Wiono",
+            "lineage": null
+          },
+          "id": "wisnujuliwiono@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Darlen",
+            "family": "Sikumbang",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yolida",
+            "honourific": null,
+            "given": "Berti"
+          },
+          "id": "bertiyolida@yahoo.com"
+        },
+        {
+          "id": "median.agus@fkip.unila.ac.id",
+          "name": {
+            "family": "Priadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Median. A"
+          }
+        }
+      ],
+      "dir": "disk0\/00\/03\/61\/85",
+      "date": "2021-11-11",
+      "type": "other",
+      "divisions": [
+        "FKIP15"
+      ],
+      "title": "PENINGKATAN PROFESIONALITAS GURU IPA DI LAMPUNG TIMUR MELALUI PELATIHAN PENGEMBANGAN INSTRUMEN ASSESSMENT KEMAMPUAN METAKOGNITIF BERBANTUKAN MEDIA ICT",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-11 08:53:38",
+      "subjects": [
+        "L1",
+        "LB"
+      ],
+      "abstract": "Pendidikan pada abad 21 diarahkan untuk menyiapkan generasi pembelajar, pemecah masalah dan memiliki kemampuan berpikir kritis dan kreatif. Pembelajaran di kelas dirancang untuk memfasilitasi peserta didik dalam mencapai tujuan tersebut dengan memberikan latihan-latihan yang berorientasi pada kemampuan metakognitif. Pemanfaatan teknologiinformasi dan komunikasi dalam pembelajaran memiliki pengaruh yang signifikan terhadap hasil belajar peserta didik. Kemampuan menyusun instrumen tes yang berorientasi pada pemikiran tingkat tinggi dan penguasaan literasi teknologi merupakan keahlian yang harus dimiliki oleh guru, terlebih pada saat pandemi covid-19. Kenyataannya, Guru IPA SMP di Lampung Timur umumnya menggunakan instrumen tes dari buku cetak dan sangat mengandalkan layanan pesan singkat (SMS) atau Whatsapp dalam menyelenggarakan pembelajaran. Kegiatan ini diawali dengan Hakikat Penilaian, Manfaat Penggunaan TIK dalam Pembelajaran, dan Penyusunan Instrumen Tes Berorientasi kemampuan metakognisi. Selanjutnya, diadakan lokakarya penyusunan instrumen Instrumen Tes Berorientasi kemampuan berpikir tingkat tinggi. Akhir kegiatan, peserta diminta untuk memaparkan hasil kerja di depan kelas guna mendapat kritikan dan masukan baik dari peserta maupun dosen. evaluasi kegiatan pelatihan menggunakan model CIPP yang dikembangkan oleh Daniel Stuffleabem.\r\n\r\nKata kunci: Metakognisi, TIK, Asesmen.",
+      "eprintid": 36185
+    },
+    {
+      "abstract": "Pendidikan abad 21 diarahkan untuk menyiapkan generasi pembelajar, pemecah masalah dan\r\nmemiliki kemampuan berpikir kritis dan kreatif. Pembelajaran di kelas dirancang untuk\r\nmemfasilitasi peserta didik dalam mencapai tujuan tersebut dengan memberikan latihan-latihan\r\nyang berorientasi pada kemampuan metakognitif. Pemanfaatan teknologi informasi dan\r\nkomunikasi dalam pembelajaran memiliki pengaruh yang signifikan terhadap hasil belajar\r\npeserta didik. Kemampuan menyusun instrumen tes yang berorientasi pada pemikiran tingkat\r\ntinggi dan penguasaan literasi teknologi merupakan keahlian yang harus dimiliki oleh guru,\r\nterlebih pada saat pandemi covid-19. Kenyataannya, Guru IPA SMP di Lampung Timur\r\numumnya menggunakan instrumen tes dari buku cetak dan sangat mengandalkan layanan pesan\r\nsingkat (SMS) atau Whatsapp dalam menyelenggarakan pembelajaran. Kondisi tersebut perlu\r\ndiupayakan solusi yang tepat agar tidak terjadi hilangnya makna pembelajaran. Kegiatan\r\npengabdian diawali dengan seminar tentang hakikat penilaian, pemanfaatan TIK dalam\r\npembelajaran, dan praktik penyusunan instrumen tes berorientasi kemampuan metakognisi.\r\nAkhir kegiatan, peserta diminta untuk memaparkan hasil kerja di depan kelas guna mendapat\r\nkritikan dan masukan baik dari peserta lainnya dan dosen. Hasil kegiatan pengabdian\r\nmenunjukkan bahwa pemahaman dan kemampuan guru-guru IPA di Lampung Timur\r\nmengalami peningkatan. Hal itu dilihat dari produk instrument yang dihasilkan sudah memenuhi\r\nstandar dalam penilaian. Peningkatan tersebut terlihat dari hasil analisis n-gain yang berada\r\npada kategori sedang.",
+      "subjects": [
+        "L1"
+      ],
+      "status_changed": "2023-02-27 07:33:01",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "volume": 2,
+      "official_url": "http:\/\/ejournal.radenintan.ac.id\/index.php\/ajpm\/index",
+      "title": "PENINGKATAN PROFESIONALITAS GURU IPA MELALUI PELATIHAN\r\nPENGEMBANGAN INSTRUMEN ASSESSMENT KEMAMPUAN METAKOGNITIF\r\nBERBANTUAN MEDIA ICT",
+      "date_type": "published",
+      "eprintid": 48602,
+      "datestamp": "2023-02-27 07:33:01",
+      "userid": 513,
+      "lastmod": "2023-02-27 07:33:01",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48602",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 48602,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187944",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 187944,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529955",
+                  "fileid": 529955,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-27 05:55:35",
+                  "filename": "10442-35169-1-PB-2.pdf",
+                  "hash": "c668ab5e8356eec8796dbacd0fff37ab",
+                  "datasetid": "document",
+                  "filesize": 578612
+                }
+            ],
+            "main": "10442-35169-1-PB-2.pdf",
+            "docid": 187944
+          }
+      ],
+      "publisher": "Pusat Pengabdian kepada Masyarakat LP2M UIN Raden Intan Lampung",
+      "number": 2,
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "dir": "disk0_bak\/00\/04\/86\/02",
+      "date": 2021,
+      "issn": "2797-3395",
+      "creators": [
+        {
+          "id": "wisnujuliwiono@gmail.com",
+          "name": {
+            "given": "Wisnu Juli",
+            "honourific": null,
+            "family": "Wiono",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Berti",
+            "lineage": null,
+            "honourific": null,
+            "family": "Yolida"
+          },
+          "id": "bertiyolida@yahoo.com"
+        }
+      ],
+      "publication": "Al-Mu’awanah: Jurnal Pengabdian kepada Masyakarat"
+    },
+    {
+      "title": "The Potential of Plant Diversity in Bukit Barisan Selatan National Park in Support of Achieving National Curriculum Goals",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JBT\/article\/view\/22014\/15057",
+      "volume": 9,
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "status_changed": "2021-05-31 01:43:47",
+      "eprint_status": "archive",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "This study aimed to describe the diversity of plants found in Bukit Barisan Selatan National Park. The analysis of plant diversity was carried out by applying the quadratic method. Twenty-five squares were constructed for sampling. The results showed that there were thirty two (32) plant tribes consisting of 256 individuals in the exposed area and 899 individuals in the burial area. Data on plant diversity were then mapped to be correlated with Basic Competence (BC) at each level of the educational unit. Mapping results showed, there are 6 BC at the elementary school level; 5 BC at the junior high school level; and 7 basic competencies at high school level that can be learned by utilizing information on plant diversity of Bukit Barisan Selatan National Park. Based on the results of the analysis, it is known that the existence of plant diversity in Bukit Barisan Selatan National Park has the potential to support the achievement of the objectives of the national curriculum.",
+      "eprintid": 31409,
+      "date_type": "published",
+      "ispublished": "pub",
+      "number": 1,
+      "documents": [
+          {
+            "main": "Artikel (JN2).pdf",
+            "docid": 141959,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/372189",
+                  "objectid": 141959,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-31 00:28:52",
+                  "hash": "ac9b218ac803814e76b8fa46f3c5fe37",
+                  "filename": "Artikel (JN2).pdf",
+                  "fileid": 372189,
+                  "mime_type": "application\/pdf",
+                  "filesize": 229807,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141959",
+            "rev_number": 1,
+            "eprintid": 31409,
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "Prodi Pendidikan Biologi FKIP Unila",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31409",
+      "refereed": "TRUE",
+      "lastmod": "2021-05-31 01:43:47",
+      "userid": 3961,
+      "datestamp": "2021-05-31 01:43:47",
+      "pagerange": "12-21",
+      "publication": "Jurnal Bioterdidik: Wahana Ekspresi Ilmiah",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wiono",
+            "given": "Wisnu Juli"
+          },
+          "id": "wisnujuliwiono@gmail.com"
+        },
+        {
+          "id": "nadya.meriza@fkip.unila.ac.id",
+          "name": {
+            "given": "Nadya",
+            "lineage": null,
+            "honourific": null,
+            "family": "meriza"
+          }
+        }
+      ],
+      "issn": "2621-5594",
+      "date": 2021,
+      "dir": "disk0\/00\/03\/14\/09",
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ]
+    },
+    {
+      "official_url": "http:\/\/eudl.eu\/proceedings\/ICOPE\/2020?articles_page=4",
+      "title": "An Analysis of The Relationship between Students' Metacognitive Awareness and Students' Cognitive Learning Outcomes in Pree-Service Teacher",
+      "rev_number": 8,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "status_changed": "2021-05-30 15:27:50",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The purpose of this study was to determine the profile of the relationship between the level of metacognitive awareness and cognitive learning outcomes of student biology teacher candidates at Lampung University. This study used a survey research design with a sample size of students. Metacognitive awareness questionnaires and cognitive question sheets were provided in this study. The questionnaire measures eight aspects of metacognitive awareness, namely declarative knowledge, procedural knowledge, conditional knowledge, planning, information management strategies, comprehension monitoring, debugging strategies, and evaluation. Question sheets evaluate cognitive learning outcomes. The results showed that the students had a very good level of metacognitive awareness (54%). There was no significant relationship between metacognitive awareness and student cognitive learning outcomes (r = 0.898). It was concluded that metacognitive awareness did not affect cognitive learning outcomes at levels C1, C2 and C3.",
+      "eprintid": 31324,
+      "date_type": "published",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31324,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 141537,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/371139",
+                  "fileid": 371139,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-30 02:16:48",
+                  "hash": "5e85fc21890dbe1d7ac0db36e1120965",
+                  "filename": "Artikel eudl (P2).pdf",
+                  "datasetid": "document",
+                  "filesize": 295568
+                }
+            ],
+            "main": "Artikel eudl (P2).pdf",
+            "docid": 141537,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141537",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1
+          }
+      ],
+      "publisher": "EAI",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31324",
+      "refereed": "TRUE",
+      "lastmod": "2021-05-30 15:27:50",
+      "userid": 3961,
+      "datestamp": "2021-05-30 15:27:50",
+      "publication": "ICOPE 2020",
+      "creators": [
+        {
+          "name": {
+            "given": "Wisnu Juli",
+            "lineage": null,
+            "family": "Wiono",
+            "honourific": null
+          },
+          "id": "wisnujuliwiono@gmail.com"
+        },
+        {
+          "id": "nadya.meriza@fkip.unila.ac.id",
+          "name": {
+            "family": "meriza",
+            "honourific": null,
+            "lineage": null,
+            "given": "Nadya"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Agnesa",
+            "lineage": null,
+            "given": "Tia"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2593-7650",
+      "date": "2021-02",
+      "dir": "disk0\/00\/03\/13\/24",
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ]
+    },
+    {
+      "eprintid": 35067,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-06 02:08:44",
+      "abstract": "Guru sebagai tenaga pengajar dan pendidik dituntut untuk mampu merencanakan, melaksanakan, melakukan evaluasi, dan harus terampil dalam membuat dan memanfaatkan media pembelajaran. Salah satu kegiatan pembelajaran adalah Remedial Teaching. Remedial teaching merupakan kegiatan pembelajaran bagi siswa yang belum memenuhi Kriteria Ketuntusan Minimal (KKM). Siswa yang belum tuntas umumnya pada materi yang berbeda-beda antara siswa satu dan yang lainnya. Hal ini menjadi kendala bagi guru dalam pelaksanakan kegiatan remedial teaching. Untuk itu guru harus memanfaatkan media pembelajaran. Guru-guru Biologi SMA di Kabupaten Tulang Bawang Barat baik guru SMA Negeri maupun swasta selama ini belum terampil dalam membuat media pembelajaran serta memanfaatkannya khsusnya dalam remedial teaching. Oleh karena itu perlu adanya pelatihan terhadap guru-guru dengan tujuan meningkatkan keterampilan dan pemahaman guru-guru Biologi SMA di Kabupaten Tulang Bawang Barat dalam membuat media pembelajaran dan memahami strategi memanfaatkan media dalam remedial teaching. Metode yang digunakan dalam kegiatan ini adalah ceramah, demonstrasi,dan praktik membuat media video tutorial, serta evaluasi. Hasil pelaksanaan kegiatan ini menunjukkan bahwa pelatihan yang dilakukan dapat meningkatkan pemahaman dan kemampuan guru-guru dalam membuat media video tutorial dan implementasinya dalam pembelajaran remedial teaching. Semua guru mampu membuat dan menyelesaikan produk berupa media video tutorial dengan baik.",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB2361"
+      ],
+      "title": "PENINGKATAN PROFESIONALISME GURU-GURU BIOLOGI SMA MELALUI MEDIA VIDEO TUTORIAL DALAM REMEDIAL TEACHING",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPKM\/issue\/view\/1178",
+      "metadata_visibility": "show",
+      "rev_number": 14,
+      "volume": 1,
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ],
+      "issn": "2798-9453",
+      "creators": [
+        {
+          "id": "bertiyolida@yahoo.com",
+          "name": {
+            "family": "Yolida",
+            "honourific": null,
+            "lineage": null,
+            "given": "Berti"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Marpaung",
+            "lineage": null,
+            "given": "Rini Rita"
+          },
+          "id": "ritamarpaung15@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Wiono",
+            "given": "Wisnu Juli"
+          },
+          "id": "wisnujuliwiono@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Priadi",
+            "honourific": null,
+            "lineage": null,
+            "given": "Median. A"
+          },
+          "id": "median.agus@fkip.unila.ac.id"
+        }
+      ],
+      "publication": "Ruang Pengabdian",
+      "dir": "disk0\/00\/03\/50\/67",
+      "date": "2021-01-02",
+      "userid": 513,
+      "lastmod": "2021-11-06 02:08:44",
+      "datestamp": "2021-11-06 02:08:44",
+      "pagerange": "27-33",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 35067,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155826",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410228",
+                  "objectid": 155826,
+                  "filesize": 243766,
+                  "datasetid": "document",
+                  "filename": "22589-54186-2-PB.pdf",
+                  "hash": "6948e97f315778f512b62af9d82bbb6b",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-05 08:04:47",
+                  "mime_type": "application\/pdf",
+                  "fileid": 410228
+                }
+            ],
+            "docid": 155826,
+            "main": "22589-54186-2-PB.pdf"
+          },
+          {
+            "main": 22589,
+            "docid": 155828,
+            "files": [
+                {
+                  "fileid": 410234,
+                  "mime_type": "application\/xml",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-05 08:05:51",
+                  "hash": "0968d91c586ebceed1102a06e623ab23",
+                  "filename": 22589,
+                  "datasetid": "document",
+                  "filesize": 24839,
+                  "objectid": 155828,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410234"
+                }
+            ],
+            "pos": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155828",
+            "rev_number": 3,
+            "eprintid": 35067,
+            "placement": 3,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "language": "en",
+            "content": "published"
+          }
+      ],
+      "publisher": "JPMIPA FKIP Universitas Lampung",
+      "number": 1,
+      "ispublished": "pub",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35067",
+      "full_text_status": "public"
+    },
+    {
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47992",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524906",
+                  "objectid": 187156,
+                  "mtime": "2023-01-24 13:46:03",
+                  "hash_type": "MD5",
+                  "filename": "292-1-742-1-10-20211201 jurnal sakai sambayan.pdf",
+                  "hash": "625c1e36df00c65533b6fec769aa43c3",
+                  "fileid": 524906,
+                  "mime_type": "application\/pdf",
+                  "filesize": 163265,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 187156,
+            "main": "292-1-742-1-10-20211201 jurnal sakai sambayan.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187156",
+            "pos": 1,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "eprintid": 47992,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "pos": 2,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187157",
+            "main": 15,
+            "docid": 187157,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524909",
+                  "objectid": 187157,
+                  "filename": 15,
+                  "hash": "15b46edf7ab0fdb826705997f152496a",
+                  "mtime": "2023-01-24 13:47:28",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "fileid": 524909,
+                  "filesize": 20678,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "text\/html",
+            "content": "published",
+            "eprintid": 47992,
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "publisher": "LPPM Unila",
+      "ispublished": "pub",
+      "number": 3,
+      "datestamp": "2023-01-25 02:01:36",
+      "pagerange": "160-164",
+      "lastmod": "2023-01-25 02:01:36",
+      "userid": 513,
+      "dir": "disk0_bak\/00\/04\/79\/92",
+      "date": "2021-11-01",
+      "creators": [
+        {
+          "name": {
+            "given": "Berti",
+            "family": "Yolida",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "bertiyolida@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Marpaung",
+            "honourific": null,
+            "given": "Rini Rita"
+          },
+          "id": "ritamarpaung15@yahoo.co.id"
+        },
+        {
+          "id": "wisnujuliwiono@gmail.com",
+          "name": {
+            "given": "Wisnu Juli",
+            "lineage": null,
+            "family": "Wiono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Priadi",
+            "lineage": null,
+            "given": "Median. A"
+          },
+          "id": "median.agus@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "2550-1089",
+      "publication": "Sakai Sembayan",
+      "divisions": [
+        "FKIP15"
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "volume": 5,
+      "rev_number": 9,
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/issue\/view\/15",
+      "title": "PENINGKATAN PROFESIONALISME GURU-GURUBIOLOGI SMA DI\r\nKABUPATEN TULANG BAWANG BARAT MELALUI PELATIHAN\r\nPEMBUATAN MEDIA VIDEO TUTORIAL DANIMPLEMENTASINYA\r\nDALAM REMEDIAL TEACHING",
+      "abstract": "Guru sebagai tenaga pengajar dan pendidik dituntut untuk mampu merencanakan, melaksanakan, melakukan evaluasi, dan harus terampil dalam membuat dan memanfaatkan media pembelajaran. Salah satu kegiatan pembelajaran adalah Remedial teaching. Remedial teaching merupakan kegiatan\r\npembelajaran bagi siswa yang belum memenuhi Kriteria Ketuntusan Minimal (KKM). Siswa yang belum tuntas umumnya pada materi yang berbeda-beda antara siswa satu dan yang lainnya. Hal ini menjadi kendala bagi guru dalam pelaksanakan kegiatan remedial teaching. Untuk itu guru harus memanfaatkan media pembelajaran. Guru-guru BIOLOGI SMA di Kabupaten Tulang Bawang Barat baik guru SMA Negeri maupun swasta selama ini belum terampil dalammembuat media pembelajaran serta memanfaatkannya khsusnya dalam remedial teaching. Oleh karena itu perlu adanya pelatihan terhadap\r\nguru-guru dengan tujuan meningkatkan keterampilan dan pemahaman guru-guru Biologi SMA di Kabupaten Tulang Bawang Baratdalam membuat media pembelajaran dan memahami strategi\r\nmemanfaatkan media dalam remedial teaching. Metode yang digunakan dalam kegiatan ini adalah ceramah,demonstrasi,dan praktikmembuat media video tutorial, dan evaluasi. Hasil pelaksanaan kegiatan ini menunjukkan bahwa pelatihan yang dilakukan dapat meningkatkan pemahaman dan kemampuan guru-\r\nguru dalam membuat media video tutorial dan implementasinya dalam pembelajaran remedial teaching. Semua guru mampu membuat dan menyelesaikan produk berupa media video tutorial dengan baik.\r\nKata kunci:Media, Remedial Teaching, Video Tutorial",
+      "subjects": [
+        "L1",
+        "LB1603"
+      ],
+      "eprint_status": "archive",
+      "status_changed": "2023-01-25 02:01:36",
+      "date_type": "published",
+      "eprintid": 47992
+    },
+    {
+      "lastmod": "2021-11-03 01:34:56",
+      "userid": 513,
+      "datestamp": "2021-11-03 01:34:56",
+      "pagerange": "38-48",
+      "ispublished": "pub",
+      "number": 2,
+      "publisher": "Prodi Pendidikan Biologi FKIP Unila",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 34891,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155576",
+            "rev_number": 1,
+            "format": "text",
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 155576,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408862",
+                  "fileid": 408862,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-02 14:57:06",
+                  "hash": "42ce01bd6f880a81620a287df1034238",
+                  "filename": "22772-55141-1-PB(2).pdf",
+                  "datasetid": "document",
+                  "filesize": 458234
+                }
+            ],
+            "main": "22772-55141-1-PB(2).pdf",
+            "docid": 155576
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/xml",
+            "content": "published",
+            "eprintid": 34891,
+            "placement": 3,
+            "security": "public",
+            "pos": 3,
+            "format": "text",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155578",
+            "docid": 155578,
+            "main": 22772,
+            "files": [
+                {
+                  "objectid": 155578,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408868",
+                  "mime_type": "application\/xml",
+                  "fileid": 408868,
+                  "hash": "d4405148fec54f5f8e0387a5def9a2ea",
+                  "filename": 22772,
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-02 14:59:32",
+                  "datasetid": "document",
+                  "filesize": 28209
+                }
+            ]
+          }
+      ],
+      "full_text_status": "public",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34891",
+      "refereed": "TRUE",
+      "type": "article",
+      "divisions": [
+        "FKIP15"
+      ],
+      "publication": "Jurnal Bioterdidik: Wahana Ekspresi Ilmiah",
+      "creators": [
+        {
+          "name": {
+            "family": "Yolida",
+            "honourific": null,
+            "lineage": null,
+            "given": "Berti"
+          },
+          "id": "bertiyolida@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Median. A",
+            "honourific": null,
+            "family": "Priadi",
+            "lineage": null
+          },
+          "id": "median.agus@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "2621-5594",
+      "dir": "disk0\/00\/03\/48\/91",
+      "date": "2021-09-30",
+      "eprint_status": "archive",
+      "status_changed": "2021-11-03 01:34:56",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "This study aims to determine the effect of local wisdom-based guided inquiry learning models on students' creative thinking skill. The design in this research used a pretest-posttest non-equivalent control grup. The sample of this research was students of class IX E dan IX F which were sampled from the population in a cluster random sampling manner. Data in this research were quantitatif data obtained fromnthe average pretest, posttest, and N-gain values which were then statistically analyzed using the t test at 5% confidence level through the SPSS 17.  The results showed that the creative thinking skill of experimental class students obtained good criteria with an average acquisition of 58.9 and it is known that the significance value at sig. (2-tailed) <0.05 which means that there is a significant influence on the experimental class. Thus, learning using guided inquiry models based on local wisdom influences students' creative thinking skill.\r\n\r\n \r\n\r\nPenelitian ini bertujuan untuk mengetahui pengaruh model pembelajaran inkuiri terbimbing berbasis kearifan lokal terhadap kemampuan berpikir kreatif peserta didik. Desain dalam penelitian ini menggunakan pretest-posttest non-equivalent control grup. Sampel penelitian adalah peserta didik kelas IX E dan IX F yang dicuplik dari populasi secara cluster random sampling. Data dalam penelitian ini berupa data kuantiatif yang diperoleh dari rata-rata nilai pretest, posttest dan N-gain yang kemudian dianalisis secara statistik menggunakan uji t pada taraf kepercayaan 5% melalui program SPSS 17. Hasil penelitian menunjukan bahwa kemampuan berpikir kreatif peserta didik kelas eksperimen diperoleh kriteria baik dengan perolehan rata-rata sebesar 58,9 dan diketahui bahwa nilai signifikansi pada sig. (2-tailed) <0,05 yang artinya terdapat pengaruh signifikan pada kelas eksperimen. Dengan demikian, pembelajaran menggunakan model inkuiri terbimbing berbasis kearifan lokal berpengaruh terhap kemampuan berpikir kreatif peserta didik.",
+      "title": "PENGARUH MODEL PEMBELAJARAN INKUIRI TERIMBING BERBASIS KEARIFAN LOKAL TERHADAP KEMAMPUAN BERPIKIR KREATIF PESERTA DIDIK PADA MATERI BIOTEKNOLOGI",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JBT\/index",
+      "volume": 9,
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "eprintid": 34891,
+      "date_type": "published"
+    }
+]
+
